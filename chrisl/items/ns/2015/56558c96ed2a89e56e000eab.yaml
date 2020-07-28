@@ -1,0 +1,32 @@
+id:
+  - Pterolocera spp.
+created_at: '2015-11-25T10:28:46Z'
+datetime: '2014-04-28T21:18:38+10:00'
+latitude: -37.902014
+longitude: 144.223406
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-11-25T10:28:46Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2014-04-28T21:18:14Z'
+    height: 3264
+    width: 4928
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56558d09ed2a899c63000213.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56558d09ed2a899c63000213.jpg'
+  - datetime: '2014-04-28T21:18:38Z'
+    height: 3264
+    width: 4928
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56558cd4ed2a899c63000210.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56558cd4ed2a899c63000210.jpg'
+  - datetime: '2014-04-28T21:19:00Z'
+    height: 3264
+    width: 4928
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56558ce4ed2a899c63000211.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56558ce4ed2a899c63000211.jpg'
+collections:
+  - brisbane_ranges_moths
+  - moths_of_jollys_road_anakie

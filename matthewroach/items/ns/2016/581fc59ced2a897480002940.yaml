@@ -1,0 +1,32 @@
+id:
+  - name: Fungi spp.
+    by: david_francis
+created_at: '2016-11-07T00:19:27Z'
+datetime: '2016-11-04T16:52:36+10:00'
+description: Fungus species growing in dry grassy woodland in Strathewen.
+latitude: -37.598857
+longitude: 145.19867
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2016-11-07T02:26:36Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-11-04T16:52:36Z'
+    height: 2204
+    width: 3920
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/581fc5b3ed2a89b3fe0001a8.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/581fc5b3ed2a89b3fe0001a8.JPG'
+comments:
+  - created_at: '2016-11-07T02:18:11Z'
+    text: 'Hi Matthew, Stalk and underside of cap required for identification. Spore colour is also used in ids.'
+    ref: 581fe463ed2a897480002986
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-03-02T05:34:50Z'
+    text: Looks like one of the "Amanita ochrophylla group" - lots in the Wombat State Forest these last few months too.
+    ref: 58b7aefaed2a893890001eb0
+    name: Lawrie Conole
+    username: lconole

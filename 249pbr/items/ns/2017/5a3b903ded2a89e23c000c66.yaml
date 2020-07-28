@@ -1,0 +1,28 @@
+id:
+  - Anachloris uncinata
+created_at: '2017-12-21T12:47:50Z'
+datetime: '2017-11-10T22:05:28+10:00'
+description: Anachloris uncinata - please add to database
+latitude: -37.224434
+longitude: 144.309678
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-12-22T21:45:15Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-11-10T22:05:28Z'
+    height: 1770
+    width: 2304
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a3b904fed2a890e9e000036.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a3b904fed2a890e9e000036.jpg'
+comments:
+  - created_at: '2017-12-21T13:01:28Z'
+    text: Species added - great observation!
+    ref: 5a3bb0a8ed2a89e23c000d04
+    name: Cathy Powers
+    username: koolah
+collections:
+  - drummond_nearby_forests_-_moths

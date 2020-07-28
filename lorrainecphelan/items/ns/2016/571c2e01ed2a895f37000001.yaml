@@ -1,0 +1,29 @@
+id:
+  - Scrobiger splendidus
+created_at: '2016-04-24T02:25:00Z'
+datetime: '2009-12-24T12:22:00+10:00'
+description: Scrobiger splendidus
+elevation: 61.3
+latitude: -38.093318
+location_name: 'Heywood VIC 3304, Australia'
+longitude: 141.752567
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-04-26T11:06:30Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 768
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/571c2e0aed2a89211c0001d9.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/571c2e0aed2a89211c0001d9.jpg'
+comments:
+  - created_at: '2016-04-25T04:04:55Z'
+    text: Scrobiger splendidus added to database. Great photo. ID by Justin B?
+    ref: 571d9767ed2a89cb75000002
+    name: David Francis
+    username: david_francis
+collections:
+  - homerton_and_milltown_insects

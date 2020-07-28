@@ -1,0 +1,30 @@
+id:
+  - Lobelia spp.
+created_at: '2017-02-03T05:09:52Z'
+datetime: '2017-01-19T15:36:28+10:00'
+description: 'This Lobelia was found next to Lobelia in observation http://natureshare.org.au/observations/588d7743ed2a89d10f0016dd?collection_id=53b3981ae35eb12984000195. The photo was not very clear, but the bottom three corolla has white line.'
+elevation: 83.2
+latitude: -38.678135
+location_name: 'Grey River VIC 3234, Australia'
+longitude: 143.830483
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-02-03T05:09:52Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-19T15:36:28Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58940f03ed2a892daf00038b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58940f03ed2a892daf00038b.jpg'
+comments:
+  - created_at: '2017-02-03T05:24:38Z'
+    text: 'Looks like you need to see all  features in combination, including seeds, to be certain of the species.'
+    ref: 58941416ed2a89d10f0026f5
+    name: David Francis
+    username: david_francis
+collections:
+  - grey_river

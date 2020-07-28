@@ -1,0 +1,25 @@
+id:
+  - name: Maireana appressa
+created_at: '2011-11-30T09:44:06Z'
+datetime: '2011-11-04T18:24:02+10:00'
+latitude: -34.153843
+longitude: 141.341632
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2011-11-30T09:49:26Z'
+license: CC BY 2.5 AU
+photos:
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39861e35eb1298401263f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb1298401263f.jpg'
+  - datetime: '2011-11-04T18:24:02Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39861e35eb12984012640.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb12984012640.jpg'
+tags:
+  - fruit
+comments:
+  - created_at: '2011-11-30T11:42:56Z'
+    text: 'Not sure of ID but leaf, stem hair and dark dying fruit seem to fit PlantNet and other descriptions.'
+    ref: 53b3984be35eb1298400d994
+collections:
+  - neds_corner_plants

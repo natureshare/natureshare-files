@@ -1,0 +1,28 @@
+id:
+  - Pachycephala pectoralis
+created_at: '2018-04-25T10:02:34Z'
+datetime: '2018-04-25T10:09:57+10:00'
+elevation: 29.7
+latitude: -37.783568
+location_name: 'Parkville VIC 3052, Australia'
+longitude: 144.945761
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-05-04T12:00:24Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-04-25T10:09:57Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ae051bded2a897fc800009c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ae051bded2a897fc800009c.jpg'
+  - datetime: '2018-04-25T10:13:34Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ae051dced2a897fc800009d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ae051dced2a897fc800009d.jpg'
+collections:
+  - royal_park_parkville

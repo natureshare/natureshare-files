@@ -1,0 +1,23 @@
+id:
+  - name: Callitris gracilis
+created_at: '2013-07-11T20:07:32Z'
+datetime: '2013-07-02T11:07:29+10:00'
+latitude: -34.250086
+longitude: 141.526047
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-07-03T03:13:11Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-07-02T11:07:29Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39868e35eb129840140c7.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840140c7.jpg'
+  - datetime: '2013-07-02T11:07:01Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39868e35eb129840140c8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840140c8.jpg'
+  - datetime: '2013-07-02T11:06:54Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39868e35eb129840140c9.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840140c9.jpg'
+collections:
+  - neds_corner_plants

@@ -1,0 +1,71 @@
+id:
+  - Pterostylis melagramma
+created_at: '2016-09-22T14:11:26Z'
+datetime: '2016-09-19T15:23:21+10:00'
+elevation: 111.9
+latitude: -38.038886
+location_name: 'Milltown VIC 3304, Australia'
+longitude: 141.670183
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-09-23T04:53:10Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-19T15:23:21Z'
+    height: 902
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e3e642ed2a89b71800007a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e3e642ed2a89b71800007a.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2016-09-23T23:48:58Z'
+    text: Great photo - all flowers in sharp focus against out-of-focus background.
+    ref: 57e5bf6aed2a89450f0070e9
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-08-22T11:18:57Z'
+    text: "This looks to me like Pterostylis chlorogramma, could that be correct?\r\n\r\nThe dark green stripes, thinner labellum, no brown nose tips and the lateral sepals hang down flat rather than round"
+    ref: 599c1321ed2a890f2e003594
+    name: Tim Dredge
+    username: dredgy
+  - replying_to: 599c1321ed2a890f2e003594
+    created_at: '2017-09-02T07:18:22Z'
+    text: Thanks for the comment Tim. It's certainly possible and is one I hadn't considered. Someone with more knowledge than me might like to comment.
+    ref: 59aa5b3eed2a89daa00013ba
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - replying_to: 59aa5b3eed2a89daa00013ba
+    created_at: '2017-09-02T10:50:35Z'
+    text: 'Great discussion of identifying these P. longifolia complex orchids by Tim Entwhistle at http://talkingplants.blogspot.com.au/2016/10/greenhood-orchid-taller-greener-later.html  Following this I would tend to favour P. chlorogramma over P. smaragdina and not P. melagramma.'
+    ref: 59aa8cfbed2a897fb1000006
+    name: David Francis
+    username: david_francis
+  - replying_to: 59aa5b3eed2a89daa00013ba
+    created_at: '2017-09-02T11:01:30Z'
+    text: spelling... "Tim Entwisle" ...."P. smaragdyna"
+    ref: 59aa8f8aed2a892c7400002e
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-09-02T11:06:36Z'
+    text: Hmmm. So do you think I've correctly identified the P. smaragdyna I uploaded today (2 Sep 2017)?
+    ref: 59aa90bced2a892c74000031
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - replying_to: 59aa90bced2a892c74000031
+    created_at: '2017-09-02T12:15:32Z'
+    text: 'Hi Lorraine, I''m not sure of anything with this group of orchids. You are probably right.'
+    ref: 59aaa0e4ed2a892c740000ca
+    name: David Francis
+    username: david_francis
+  - replying_to: 59aaa0e4ed2a892c740000ca
+    created_at: '2017-10-01T10:29:03Z'
+    text: "Another thing is the flower size. The all have varying flower sizes and leaf numbers. Although typically the leaves seem to be in the 1-8 range which doesn't rule anything out. \r\n\r\n"
+    ref: 59d0c36fed2a892d40001ced
+    name: Tim Dredge
+    username: dredgy
+collections:
+  - homerton_and_milltown

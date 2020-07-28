@@ -1,0 +1,29 @@
+id:
+  - Erica lusitanica
+created_at: '2015-12-21T21:13:29Z'
+datetime: '2015-09-18T12:12:29+10:00'
+description: On roadside.
+latitude: -37.431489
+longitude: 144.652712
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-12-21T21:13:29Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-09-18T12:12:43Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5677fb54ed2a898328000043.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5677fb54ed2a898328000043.jpg'
+  - datetime: '2015-09-18T12:12:29Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5677fb42ed2a898328000042.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5677fb42ed2a898328000042.jpg'
+tags:
+  - flower
+collections:
+  - weeds_of_riddells_creek

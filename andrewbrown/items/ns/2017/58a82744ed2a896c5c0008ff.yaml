@@ -1,0 +1,39 @@
+id:
+  - Lepidosperma spp.
+created_at: '2017-02-18T12:16:11Z'
+datetime: '2017-02-18T09:41:14+10:00'
+description: Small sedge type plant with very stiff strap leaves. Approx. 20 cm high. Leaves shown in 2nd photo.
+elevation: 217.6
+latitude: -36.7754
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.355184
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-04-08T11:51:01Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-02-18T09:41:14Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58a8274fed2a89d73e000394.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a8274fed2a89d73e000394.jpeg'
+  - datetime: '2017-02-18T09:41:29Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58a8260bed2a89b3fe0003b5.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a8260bed2a89b3fe0003b5.jpeg'
+tags:
+  - flowerhead
+  - leaves-strap
+  - sedge-small
+comments:
+  - created_at: '2017-02-21T03:33:01Z'
+    text: 'Possibly Lepidosperma spp., whereby L. laterale is commonly found in dry areas.'
+    ref: 58abb4eded2a89e856000014
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - junortoun_flora

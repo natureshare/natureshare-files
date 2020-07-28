@@ -1,0 +1,58 @@
+id:
+  - name: Spyridium sp. 1
+    by: russell
+created_at: '2014-10-10T11:15:21Z'
+datetime: '2014-10-04T13:01:20+10:00'
+description: Maree Goods Id'd as Spyridium bifidum Not on list
+latitude: -36.630395
+longitude: 141.743168
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-10-10T14:56:43Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-04T13:01:20Z'
+    height: 1422
+    width: 2097
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5437bfc9e35eb15f21000097.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5437bfc9e35eb15f21000097.JPG'
+  - datetime: '2014-10-04T13:01:33Z'
+    height: 1432
+    width: 1858
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5437bfc9e35eb15f21000098.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5437bfc9e35eb15f21000098.JPG'
+tags:
+  - bracts
+  - flower
+comments:
+  - created_at: '2014-10-10T14:57:52Z'
+    text: Spyridium sp. 1 is now S. bifidum. NS will catch up with the new name soon.
+    ref: 5437f3f0e35eb1c78a00013f
+    name: Russell Best
+    username: russell
+  - created_at: '2015-03-24T05:32:29Z'
+    text: Update for you Kevin. Spyridium sp. 1 has been given the name Spyridium furculentum.
+    ref: 5510f6eded2a8994a9000889
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 5510f6eded2a8994a9000889
+    created_at: '2015-04-14T05:03:50Z'
+    text: 'Thanks Chris, wish they would make up their minds!'
+    ref: 552c9fb6ed2a89f323000051
+    name: Kevin Sparrow
+    username: banksiaman
+  - replying_to: 552c9fb6ed2a89f323000051
+    created_at: '2015-04-15T09:47:59Z'
+    text: 'Yes. It appears S. bifidum is restricted to SA, so someone decided this one is a different species.'
+    ref: 552e33cfed2a8947a6000251
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 552e33cfed2a8947a6000251
+    created_at: '2015-04-29T11:13:05Z'
+    text: Thanks Chris
+    ref: 5540bcc1ed2a899c790000cd
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - little_desert_np_plants

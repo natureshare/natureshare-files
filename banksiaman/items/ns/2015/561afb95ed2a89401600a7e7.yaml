@@ -1,0 +1,54 @@
+id:
+  - name: Thelymitra benthamiana
+    by: chrisl
+created_at: '2015-10-12T00:15:17Z'
+datetime: '2015-10-10T10:08:08+10:00'
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2015-10-13T00:31:48Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-10-10T10:08:08Z'
+    height: 3946
+    width: 2339
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/561afbb5ed2a890d950004ad.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/561afbb5ed2a890d950004ad.JPG'
+  - datetime: '2015-10-10T10:08:56Z'
+    height: 3702
+    width: 1719
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/561afba6ed2a890d950004ac.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/561afba6ed2a890d950004ac.JPG'
+tags:
+  - buds
+  - leaf
+comments:
+  - created_at: '2015-10-13T00:48:26Z'
+    text: 'Thanks Chris, this is really exciting, I have never seen this one.'
+    ref: 561c54daed2a89401600a895
+    name: Kevin Sparrow
+    username: banksiaman
+  - created_at: '2015-10-13T11:39:45Z'
+    text: 'Its a great find. You should return at flowering. '
+    ref: 561ced81ed2a89401600a937
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2015-10-15T01:50:40Z'
+    text: How long till it flowers Chris
+    ref: 561f0670ed2a89401600a9ca
+    name: Kevin Sparrow
+    username: banksiaman
+  - replying_to: 561f0670ed2a89401600a9ca
+    created_at: '2015-10-15T10:01:44Z'
+    text: Not sure but Russell photographed in flower so could check that date for guide.
+    ref: 561f7988ed2a89401600aa25
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 561f7988ed2a89401600aa25
+    created_at: '2015-10-15T23:49:56Z'
+    text: 'I have already checked this, might have to make another trip to Digby!'
+    ref: 56203ba4ed2a89401600aa64
+    name: Kevin Sparrow
+    username: banksiaman

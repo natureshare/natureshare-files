@@ -1,0 +1,42 @@
+id:
+  - Macropus fuliginosus
+created_at: '2015-09-21T23:24:30Z'
+datetime: '2015-09-22T09:24:00+10:00'
+elevation: 158.2
+latitude: -36.45443
+location_name: 'Nhill VIC 3418, Australia'
+longitude: 141.671362
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2016-02-17T01:50:35Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-09-19T06:46:00Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56022166ed2a890d9500022c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56022166ed2a890d9500022c.jpg'
+tags:
+  - fighting
+comments:
+  - created_at: '2016-02-15T22:36:52Z'
+    text: These two are Western Grey Kangaroos (Macropus fuliginosus)
+    ref: 56c25304ed2a898f660000b2
+    name: Lawrie Conole
+    username: lconole
+  - replying_to: 56c25304ed2a898f660000b2
+    created_at: '2016-02-17T01:51:06Z'
+    text: 'Thanks, Lawrie. I have corrected the entry.'
+    ref: 56c3d20aed2a898f660002f9
+    name: Thomas Nataprawira
+    username: tsnata
+  - replying_to: 56c3d20aed2a898f660002f9
+    created_at: '2016-02-26T05:17:50Z'
+    text: A pleasure ...
+    ref: 56cfdffeed2a899584000129
+    name: Lawrie Conole
+    username: lconole
+videos:
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/video/20150921/1442877883808-yd0tl21ojep-69a1f76155d37a1c0718104a1e89e3da/kangaroo-facebook.mp4'

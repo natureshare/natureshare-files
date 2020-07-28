@@ -1,0 +1,36 @@
+id:
+  - Anas castanea
+created_at: '2016-05-11T06:34:32Z'
+datetime: '2016-02-01T10:30:00+10:00'
+description: Summer Celebrations!
+elevation: 1.6
+latitude: -37.795992
+location_name: 'Footscray VIC, Australia'
+longitude: 144.913283
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2016-05-12T01:17:42Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5733125ded2a89211c0001fc.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5733125ded2a89211c0001fc.jpg'
+comments:
+  - created_at: '2016-05-11T08:50:50Z'
+    text: Can you explain this behaviour?
+    ref: 5732f26aed2a89e66800072f
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 5732f26aed2a89e66800072f
+    created_at: '2016-05-11T11:09:30Z'
+    text: Not really. The only time I have seen this behaviour.
+    ref: 573312eaed2a89e66800073a
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong
+videos:
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/video/20160511/1462947989867-eayn6bok0c7-c1ef2aac7a1b0c68b5e450edf4d62b8e/Chestnut%20teals.mp4'

@@ -1,0 +1,32 @@
+id:
+  - name: Grimmia pulvinata var. africana
+    by: david_francis
+created_at: '2016-09-18T13:21:11Z'
+datetime: '2016-09-10T09:27:49+10:00'
+elevation: 226
+latitude: -36.783959
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.371091
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-09-18T13:21:11Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-10T09:27:49Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57de3988ed2a89b3fe000045.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57de3988ed2a89b3fe000045.JPG'
+tags:
+  - moss
+comments:
+  - created_at: '2016-09-20T11:15:16Z'
+    text: <em>Grimmia pulvinata var. africana</em> species id suggested
+    ref: 57e11a44ed2a89450f006aba
+    name: David Francis
+    username: david_francis
+collections:
+  - junortoun_flora

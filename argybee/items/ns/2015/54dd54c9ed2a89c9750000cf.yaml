@@ -1,0 +1,36 @@
+id:
+  - name: Cortinarius spp.
+    by: funkeytom
+created_at: '2015-02-13T01:35:05Z'
+datetime: '2014-07-23T12:34:00+10:00'
+description: "About 35mm wide and 40mm tall. The under view revealed the last few net-like remains of the cortina still clinging on to the stipe..  In an open, dry sclerophyll eucalyptus based forest. Cardinia nature reserve. \r\nPossibly C archeri but the stipe is not common"
+latitude: -37.97
+longitude: 145.39
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2015-07-19T06:12:19Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 512
+    width: 512
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54dd54c8ed2a89c9750000cd.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54dd54c8ed2a89c9750000cd.jpg'
+  - height: 384
+    width: 512
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54dd54c8ed2a89c9750000ce.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54dd54c8ed2a89c9750000ce.jpg'
+comments:
+  - created_at: '2015-07-19T06:13:48Z'
+    text: 'This was originally id as Cortinarius archeri, but this is more robust and would have a slimy partial veil and quite slimy pileus and stipe surface. There are quite a few purple species of Cortinarius.'
+    ref: 55ab401ced2a89158b000785
+    name: Tom May
+    username: funkeytom
+  - replying_to: 55ab401ced2a89158b000785
+    created_at: '2015-07-31T13:24:08Z'
+    text: Thanks Tom. I should have fixed this long ago. Much appreciated.
+    ref: 55bb76f8ed2a89db81000777
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_fungi

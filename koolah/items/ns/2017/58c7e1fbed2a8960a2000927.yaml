@@ -1,0 +1,32 @@
+id:
+  - Turneromyia spp.
+created_at: '2017-03-14T12:31:11Z'
+datetime: '2017-03-04T18:02:15+10:00'
+description: 'ID assistance from Ken Walker, Museums Victoria'
+elevation: 237.7
+latitude: -37.80524
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297852
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-03-14T21:23:08Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-03-04T18:02:15Z'
+    height: 1502
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58c7e1ffed2a89441000005d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c7e1ffed2a89441000005d.JPG'
+  - datetime: '2017-03-04T18:01:02Z'
+    height: 1028
+    width: 1223
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58c7e1ffed2a89e548000058.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c7e1ffed2a89e548000058.JPG'
+tags:
+  - blue
+  - wasp
+collections:
+  - brisbane_ranges_insects

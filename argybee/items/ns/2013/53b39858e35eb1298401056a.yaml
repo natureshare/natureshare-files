@@ -1,0 +1,46 @@
+id:
+  - name: Tamopsis spp.
+    by: russell
+created_at: '2013-10-16T12:21:56Z'
+datetime: '2013-10-05T00:00:00+10:00'
+description: Size 16mm including legs. Abdomen like a milky opal set in gold. Very alert and fast moving. Attracted to arthropod activity around lights at the local school.
+latitude: -37.895684
+longitude: 145.314445
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2015-03-17T17:18:59Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-10-05T05:33:59Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39869e35eb129840144ba.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb129840144ba.jpg'
+  - datetime: '2013-10-05T05:33:59Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39869e35eb129840144bb.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb129840144bb.jpg'
+tags:
+  - spider
+  - tamopsis
+comments:
+  - created_at: '2013-10-16T12:32:34Z'
+    text: Family known but not exact species
+    ref: 53b3984ce35eb1298400db6e
+  - created_at: '2013-10-16T14:25:10Z'
+    text: 'I can only find similar (but different) species. Nothing that matches close enough to be confident. Excellent record given no Tamopsis or Hersiliidae appears near your area: http://biocache.ala.org.au/occurrences/search?q=tamopsis#tab_recordsView'
+    ref: 53b3984ce35eb1298400db6f
+  - created_at: '2013-10-16T15:26:16Z'
+    text: Thanks Russell. I should have put it back to Hersiliidae. I thought the system was insisting on species level ID. You're so right about not many such finds even in Victoria. We've seen a couple of different looking ones over the past 2 years... possibly one species though. They might vary with growth.
+    ref: 53b3984ce35eb1298400db70
+  - created_at: '2013-10-17T12:59:24Z'
+    text: 'No worries. NS is for Vic species only but there aren''t good Vic lists for many groups, including spiders, beetles, fungi, etc but working on those. If you find a species name isn''t on NS let me know and I will upload the name.'
+    ref: 53b3984ce35eb1298400db78
+  - created_at: '2013-10-17T13:10:59Z'
+    text: 'Sources for Vic data in NS is available at https://sites.google.com/site/naturesharehelp/acknowledgements'
+    ref: 53b3984ce35eb1298400db7a
+  - created_at: '2015-03-17T17:20:41Z'
+    text: ID to Tamopsis genus confirmed by Robert Whyte.
+    ref: 55086269ed2a8994a90004a1
+    name: Russell Best
+    username: russell
+collections:
+  - dandenong_ranges_arachnids

@@ -1,0 +1,31 @@
+id:
+  - Termessa gratiosa
+created_at: '2017-11-22T01:10:30Z'
+datetime: '2017-11-21T22:27:59+10:00'
+elevation: 260.5
+latitude: -37.806576
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.29703
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-11-22T01:10:49Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-11-21T22:27:59Z'
+    height: 2000
+    width: 1666
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a14cde5ed2a8939840006f4.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a14cde5ed2a8939840006f4.jpg'
+  - datetime: '2017-11-21T22:28:34Z'
+    height: 1298
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a14ce27ed2a8939840006f5.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a14ce27ed2a8939840006f5.jpg'
+tags:
+  - moth
+  - orange-hindwing
+collections:
+  - brisbane_ranges_moths

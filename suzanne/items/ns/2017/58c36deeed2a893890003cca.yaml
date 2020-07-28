@@ -1,0 +1,43 @@
+id:
+  - Haliastur sphenurus
+created_at: '2017-03-11T03:28:25Z'
+datetime: '2017-03-09T07:34:02+10:00'
+description: 'This is possibly the same bird as in my previous post, but photos taken a different day - same dead rabbit!'
+elevation: 13
+latitude: -38.082642
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086923
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-03-11T10:12:12Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-03-09T07:34:02Z'
+    height: 1653
+    width: 2508
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58c36df8ed2a891d6d000047.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c36df8ed2a891d6d000047.JPG'
+  - datetime: '2017-03-09T07:34:15Z'
+    height: 1687
+    width: 2504
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58c36e1aed2a89e54800004b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c36e1aed2a89e54800004b.JPG'
+tags:
+  - bird
+  - feeding
+  - raptor
+comments:
+  - created_at: '2017-03-11T04:31:42Z'
+    text: 'Nice photos, but also a Whistling Kite.'
+    ref: 58c37daeed2a893890003d50
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 58c37daeed2a893890003d50
+    created_at: '2017-03-11T10:11:41Z'
+    text: 'Thanks Andrew.  '
+    ref: 58c3cd5ded2a894e75000001
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - birds_seen_at_145_gibsons_road_cobains

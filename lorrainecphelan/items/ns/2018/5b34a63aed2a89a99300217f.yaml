@@ -1,0 +1,31 @@
+id:
+  - Galerina patagonica
+created_at: '2018-06-28T09:13:14Z'
+datetime: '2018-06-23T20:12:16+10:00'
+description: Possibly Galerina unicolor.
+elevation: 200.7
+latitude: -38.528653
+location_name: 'Forrest VIC 3236, Australia'
+longitude: 143.720143
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-06-28T13:06:59Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-06-23T20:12:16Z'
+    height: 1201
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b34a63eed2a89c6aa000020.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b34a63eed2a89c6aa000020.jpg'
+comments:
+  - created_at: '2018-06-28T12:43:27Z'
+    text: I suggest Galerina patagonica. The images and labels for G. unicolor and G. patagonica were mixed up in a popular field guide.
+    ref: 5b34d7efed2a89a9930022cf
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-06-28T13:09:26Z'
+    text: Thanks John
+    ref: 5b34de06ed2a89a9930022ff
+    name: Lorraine Phelan
+    username: lorrainecphelan

@@ -1,0 +1,58 @@
+id:
+  - Rorippa laciniata
+created_at: '2017-11-20T10:55:41Z'
+datetime: '2017-11-19T10:43:11+10:00'
+latitude: -38.319222
+longitude: 142.627307
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-11-21T09:48:57Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-11-19T10:43:11Z'
+    height: 2860
+    width: 2004
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a12b51ded2a8939840006e6.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a12b51ded2a8939840006e6.JPG'
+  - datetime: '2017-11-19T10:43:29Z'
+    height: 3504
+    width: 2944
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a12b47aed2a8939840006e4.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a12b47aed2a8939840006e4.JPG'
+  - datetime: '2017-11-19T10:43:01Z'
+    height: 2072
+    width: 3128
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a12b4e8ed2a8939840006e5.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a12b4e8ed2a8939840006e5.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2017-11-20T12:22:25Z'
+    text: 'This is a Bitter-cress, either a Cardamine or a Rorippa species, you need to also see the basal leaves and take some measurements to get an I.D.'
+    ref: 5a12c901ed2a8962be00259f
+    name: John Walter
+    username: 249pbr
+  - created_at: '2017-11-20T12:45:33Z'
+    text: 'I agree with John. The leaves suggest Rorippa, and quite possibly R. dictyosperma.'
+    ref: 5a12ce6ded2a8962be0025a6
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2017-11-21T00:57:07Z'
+    text: 'I''m impressed with your knowledge, John and Chris.'
+    ref: 5a1379e3ed2a898041000074
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - created_at: '2017-11-21T09:48:21Z'
+    text: I have gone with Rorippa laciniata which occurs in our area
+    ref: 5a13f665ed2a8962be002975
+    name: Kevin Sparrow
+    username: banksiaman
+  - created_at: '2017-11-21T12:02:35Z'
+    text: I have had a look at the flora key noe and I agree with R.laciniata. Four stamens only.
+    ref: 5a1415dbed2a8962be0029dc
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - emeny_property_overlooking_hopkins_river_near_warrnambool

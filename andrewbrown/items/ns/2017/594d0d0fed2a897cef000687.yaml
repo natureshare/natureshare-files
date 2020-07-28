@@ -1,0 +1,41 @@
+id:
+  - name: Fisera belidearia
+    by: koolah
+created_at: '2017-07-01T07:28:53Z'
+datetime: '2017-06-23T22:20:42+10:00'
+description: Medium sized moth approx. 40mm
+elevation: 204.5
+latitude: -36.778338
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381276
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-07-01T07:28:53Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-06-23T22:20:42Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/594d0d17ed2a89398400008f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/594d0d17ed2a89398400008f.JPG'
+  - datetime: '2017-06-23T22:22:58Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/594d0d2ced2a893984000091.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/594d0d2ced2a893984000091.JPG'
+tags:
+  - moth
+  - moth-brown
+  - moth-medium
+comments:
+  - created_at: '2017-07-01T11:27:00Z'
+    text: <em>Fisera belidearia</em> species id suggested
+    ref: 59578704ed2a89aa8c000002
+    name: Cathy Powers
+    username: koolah
+collections:
+  - moths_of_junortoun
+  - moths_of_central_victoria

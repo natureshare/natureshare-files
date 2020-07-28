@@ -1,0 +1,28 @@
+id:
+  - Salticidae spp.
+created_at: '2012-09-25T18:51:05Z'
+datetime: '2012-09-25T14:51:01+10:00'
+latitude: -37.493148
+longitude: 144.587406
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-04-25T07:10:19Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-09-25T14:51:01Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39864e35eb129840132c1.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb129840132c1.jpg'
+comments:
+  - created_at: '2015-04-24T23:48:43Z'
+    text: This looks like a Jumping spider - Salticidae spp.  The eyes are distinctive.
+    ref: 553ad65bed2a89653100000d
+    name: Suzanne Jones
+    username: suzanne
+  - created_at: '2015-04-25T07:12:43Z'
+    text: 'Thanks Suzanne ... looks like this one too: http://natureshare.org.au/observations/53b39850e35eb1298400e7a2?species=Salticidae+spp. '
+    ref: 553b3e6bed2a898463000001
+    name: Russell Best
+    username: russell
+collections:
+  - daly_nature_reserve_indigenous_flora_and_fauna_gisborne

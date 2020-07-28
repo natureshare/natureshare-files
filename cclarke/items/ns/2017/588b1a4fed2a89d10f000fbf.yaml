@@ -1,0 +1,27 @@
+id:
+  - Senecio spp.
+created_at: '2017-01-27T10:01:50Z'
+datetime: '2017-01-16T13:07:23+10:00'
+description: 1.2m plant half way up Mt Buffalo - leaves on other photo
+latitude: -36.69915
+longitude: 146.835338
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-01-27T10:04:35Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-16T13:07:12Z'
+    height: 1506
+    width: 1905
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588b1a58ed2a89b71800034f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588b1a58ed2a89b71800034f.jpg'
+  - datetime: '2017-01-16T13:07:23Z'
+    height: 1789
+    width: 2200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588b1aeded2a89d73e000329.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588b1aeded2a89d73e000329.jpg'
+collections:
+  - mt_buffalo_np_plants

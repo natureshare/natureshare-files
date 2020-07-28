@@ -1,0 +1,41 @@
+id:
+  - Tebenna micalis
+created_at: '2014-11-19T05:08:03Z'
+datetime: '2014-11-13T10:11:25+10:00'
+description: 'Very tiny moth, approximately 3 or 4mm long.'
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-11-19T05:10:08Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-11-13T10:11:25Z'
+    height: 1820
+    width: 2783
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/546c25b2e35eb14c83000001.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/546c25b2e35eb14c83000001.JPG'
+  - datetime: '2014-11-13T10:10:47Z'
+    height: 819
+    width: 1229
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/546c25b2e35eb14c83000002.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/546c25b2e35eb14c83000002.JPG'
+  - datetime: '2014-11-13T10:10:55Z'
+    height: 880
+    width: 1329
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/546c25b2e35eb14c83000003.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/546c25b2e35eb14c83000003.JPG'
+tags:
+  - moth
+comments:
+  - created_at: '2014-11-19T05:12:04Z'
+    text: Identified by Darren Carman.
+    ref: 546c26a4e35eb19971000002
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains
+  - butterflies_moths_seen_at_145_gibsons_road_cobains

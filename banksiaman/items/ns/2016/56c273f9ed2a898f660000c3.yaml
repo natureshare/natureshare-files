@@ -1,0 +1,34 @@
+id:
+  - name: Verbascum spp.
+    by: lorrainecphelan
+created_at: '2016-02-16T00:58:13Z'
+datetime: '2016-01-30T14:12:50+10:00'
+latitude: -38.398843
+longitude: 142.509013
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-02-16T00:58:13Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-01-30T14:12:50Z'
+    height: 4496
+    width: 3000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56c27408ed2a89211c00001f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56c27408ed2a89211c00001f.JPG'
+tags:
+  - weed
+comments:
+  - created_at: '2016-02-16T01:31:12Z'
+    text: <em>Verbascum spp.</em> species id suggested
+    ref: 56c27be0ed2a898f660000d4
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - created_at: '2016-02-16T02:46:53Z'
+    text: Thanks Lorraine
+    ref: 56c28d9ded2a898f660000f9
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - plants_of_warrnambool_and_district

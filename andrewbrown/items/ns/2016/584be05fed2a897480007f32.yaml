@@ -1,0 +1,72 @@
+id:
+  - Kunzea ericoides spp. agg.
+created_at: '2016-12-10T11:24:51Z'
+datetime: '2016-12-10T09:53:40+10:00'
+description: Small Leptospermum ?
+elevation: 220.8
+latitude: -36.783649
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.366713
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-12-11T11:31:18Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-12-10T09:53:40Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584be063ed2a89d73e00022a.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584be063ed2a89d73e00022a.jpeg'
+  - datetime: '2016-12-10T09:54:07Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584be045ed2a89b718000236.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584be045ed2a89b718000236.jpeg'
+  - datetime: '2016-12-10T09:53:21Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584be07aed2a89b718000237.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584be07aed2a89b718000237.jpeg'
+tags:
+  - flowers-white
+  - shrub-small
+comments:
+  - created_at: '2016-12-10T13:33:20Z'
+    text: Can only suggest Kunzea ericoides (now considered introduced from NZ?)
+    ref: 584c0420ed2a897480007fca
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-12-11T11:20:40Z'
+    text: Looks more compact than those on NS but most likely correct id?
+    ref: 584d3688ed2a897480008321
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 584d3688ed2a897480008321
+    created_at: '2016-12-11T11:22:46Z'
+    text: 'Yes, Kunzea ericoides can grow into a large erect shrub. So I''m not certain of the id.'
+    ref: 584d3706ed2a897480008327
+    name: David Francis
+    username: david_francis
+  - replying_to: 584d3706ed2a897480008327
+    created_at: '2016-12-11T11:25:41Z'
+    text: Could be a sub species as the flowers look the same?
+    ref: 584d37b5ed2a89748000832a
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 584d37b5ed2a89748000832a
+    created_at: '2016-12-11T11:29:16Z'
+    text: Stems and leaves look right as far as I can tell. Plants can vary considerably in habit.
+    ref: 584d388ced2a89748000832f
+    name: David Francis
+    username: david_francis
+  - replying_to: 584d388ced2a89748000832f
+    created_at: '2016-12-11T11:30:47Z'
+    text: 'Thanks David, will go with that.'
+    ref: 584d38e7ed2a89dfc1000002
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - junortoun_flora

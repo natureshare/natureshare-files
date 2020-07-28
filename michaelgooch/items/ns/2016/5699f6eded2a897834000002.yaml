@@ -1,0 +1,34 @@
+id:
+  - Sterna hirundo
+created_at: '2016-01-16T07:56:31Z'
+datetime: '2016-01-16T09:26:15+10:00'
+elevation: 2.9
+latitude: -38.028437
+location_name: 'Victoria 3212, Australia'
+longitude: 144.563651
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-01-16T07:59:38Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-01-16T09:26:15Z'
+    height: 1245
+    width: 2213
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5699f6f5ed2a89e05000000d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5699f6f5ed2a89e05000000d.jpg'
+comments:
+  - created_at: '2016-01-16T08:00:13Z'
+    text: 'Nice, thats a 1st-observation for NS, despite being "common"'
+    ref: 5699f88ded2a89783400000a
+    name: 'Reilly '
+    username: reilly
+  - replying_to: 5699f88ded2a89783400000a
+    created_at: '2016-01-19T11:22:46Z'
+    text: 'Definitely a misnomer isn''t it! I''m trying to fill the photo gaps in the Vic birds collection :)'
+    ref: 569e1c86ed2a892c1b00004e
+    name: Michael Gooch
+    username: michaelgooch
+collections:
+  - birds_of_the_western_treatment_plant_werribee

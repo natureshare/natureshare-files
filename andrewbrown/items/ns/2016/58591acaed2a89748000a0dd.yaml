@@ -1,0 +1,58 @@
+id:
+  - Muscidae spp.
+created_at: '2016-12-20T12:22:33Z'
+datetime: '2016-12-19T22:36:35+10:00'
+elevation: 204.8
+latitude: -36.77842
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381503
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-01-29T05:24:46Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-12-19T22:36:35Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58591ad9ed2a89b718000274.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58591ad9ed2a89b718000274.jpeg'
+tags:
+  - fly-black
+  - fly-blue
+  - fly-irridescent
+comments:
+  - created_at: '2017-01-28T09:35:40Z'
+    text: <em>Muscidae spp.</em> species id suggested
+    ref: 588c65eced2a89d10f001430
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-28T09:36:20Z'
+    text: General appearance not unlike Australophyra sp. and others.
+    ref: 588c6614ed2a89d10f001431
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-28T09:39:25Z'
+    text: 'For example - http://www.bowerbird.org.au/observations/48380'
+    ref: 588c66cded2a89d10f001433
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-28T09:47:03Z'
+    text: Could be Australophyra rostrata (Black Carrion-fly).
+    ref: 588c6897ed2a899d3d00000a
+    name: David Francis
+    username: david_francis
+  - replying_to: 588c6897ed2a899d3d00000a
+    created_at: '2017-01-28T12:56:02Z'
+    text: 'Could be it "small dark blue fly is primarily a carrion breeder" from   http://agriculture.vic.gov.au/agriculture/pests-diseases-and-weeds/pest-insects-and-mites/sheep-blowflies-in-victoria It''s a challenge to find good descriptions of many insects!'
+    ref: 588c94e2ed2a89d10f001508
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 588c94e2ed2a89d10f001508
+    created_at: '2017-01-28T13:23:48Z'
+    text: 'Yes,  Lucilia cuprina also has the same appearance. It probably needs the fine structures to be observed to determine the genus and species. Perhaps put it back to Muscidae sp.'
+    ref: 588c9b64ed2a89d10f001511
+    name: David Francis
+    username: david_francis
+collections:
+  - wildlife_of_junortoun

@@ -1,0 +1,36 @@
+id:
+  - Festuca muelleri
+created_at: '2015-04-01T15:00:23Z'
+datetime: '2015-02-24T14:41:59+10:00'
+description: 'Tall, wide, thick, robust grass. One plant on the dirt roadside heading down from the Horn.'
+latitude: -36.770401
+longitude: 146.772644
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-04-02T02:09:21Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-02-24T14:41:59Z'
+    height: 2921
+    width: 2054
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/551c0806ed2a89daf2000006.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/551c0806ed2a89daf2000006.jpg'
+  - datetime: '2015-02-24T14:42:45Z'
+    height: 2149
+    width: 1218
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/551c0806ed2a89daf2000007.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/551c0806ed2a89daf2000007.jpg'
+  - datetime: '2015-02-24T14:42:08Z'
+    height: 2917
+    width: 1336
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/551c0806ed2a89daf2000008.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/551c0806ed2a89daf2000008.jpg'
+comments:
+  - created_at: '2015-04-02T02:09:54Z'
+    text: ID by NW.
+    ref: 551ca4f2ed2a89daf2000053
+    name: Russell Best
+    username: russell
+collections:
+  - mt_buffalo_np_plants

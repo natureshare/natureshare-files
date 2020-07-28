@@ -1,0 +1,32 @@
+created_at: '2018-08-18T10:42:00Z'
+datetime: '2018-08-16T16:38:18+10:00'
+description: Galls on Cassytha sp.
+elevation: 120.7
+latitude: -38.327986
+location_name: 'Paraparap VIC 3240, Australia'
+longitude: 144.15342
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-18T10:42:22Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-08-16T16:38:18Z'
+    height: 1282
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b77f71bed2a891efe00009c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b77f71bed2a891efe00009c.jpg'
+  - datetime: '2018-08-18T20:29:20Z'
+    height: 1539
+    width: 2052
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b77f72fed2a891efe00009d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b77f72fed2a891efe00009d.jpg'
+comments:
+  - created_at: '2018-11-26T13:50:17Z'
+    text: 'Interesting. Just been reading about Cassytha species'' interesting association with wasp galls on oak ( Northern Hemisphere) but would love to know more about these galls. '
+    ref: 5bfbfa191b8c07ee18000006
+    name: Leuba Ridgway
+    username: leuba
+collections:
+  - galls_of_victoria

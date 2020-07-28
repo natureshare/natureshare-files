@@ -1,0 +1,33 @@
+id:
+  - Caladenia carnea s.s.
+created_at: '2016-09-30T06:22:23Z'
+datetime: '2016-09-29T11:29:05+10:00'
+description: What a beautiful specimen amongst many.
+elevation: 173.3
+latitude: -37.93487
+location_name: 'Hexham VIC 3273, Australia'
+longitude: 142.73696
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2016-10-01T08:59:21Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-29T11:29:05Z'
+    height: 3235
+    width: 2244
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57ee042fed2a89b3fe0000be.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57ee042fed2a89b3fe0000be.jpg'
+tags:
+  - flowers-pink
+  - orchid
+comments:
+  - created_at: '2016-09-30T06:32:22Z'
+    text: 'Gorgeous, strong colours.'
+    ref: 57ee06f6ed2a89450f007de0
+    name: David Francis
+    username: david_francis
+collections:
+  - cobra_killuc_wildlife_reserve_and_ridge_paddock

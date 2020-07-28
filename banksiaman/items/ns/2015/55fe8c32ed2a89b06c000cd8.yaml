@@ -1,0 +1,32 @@
+id:
+  - Drosera glanduligera
+created_at: '2015-09-20T10:36:34Z'
+datetime: '2015-09-13T11:58:24+10:00'
+latitude: -38.058203
+longitude: 142.76984
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-09-20T10:38:11Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-09-13T11:58:24Z'
+    height: 1818
+    width: 2274
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55fe8c47ed2a890d950001de.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55fe8c47ed2a890d950001de.JPG'
+comments:
+  - created_at: '2016-10-18T06:49:56Z'
+    text: This plant looks like D.hookeri
+    ref: 5805c614ed2a89450f00a6d9
+    name: Peter Bloem
+    username: paintpot
+  - created_at: '2016-10-18T07:42:49Z'
+    text: Whats the difference?
+    ref: 5805d279ed2a89450f00a700
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - victorian_volcanic_plains_native_plants
+  - mortlake_common

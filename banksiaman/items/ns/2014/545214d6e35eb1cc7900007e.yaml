@@ -1,0 +1,33 @@
+id:
+  - Billardiera mutabilis
+created_at: '2014-10-30T10:37:10Z'
+datetime: '2014-10-06T13:53:28+10:00'
+latitude: -37.196383
+longitude: 142.526052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-10-30T10:37:40Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-06T13:53:28Z'
+    height: 1949
+    width: 2666
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/545214d6e35eb1cc7900007d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545214d6e35eb1cc7900007d.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2014-10-30T12:36:28Z'
+    text: Do you check for fruit or ovary inside the petals for (non-)hairiness to distinguish mutabilis from scandens?
+    ref: 545230cce35eb1cc7900009e
+    name: Russell Best
+    username: russell
+  - replying_to: 545230cce35eb1cc7900009e
+    created_at: '2014-10-31T02:00:18Z'
+    text: 'No'
+    ref: 5452ed32e35eb1dca80000cf
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - grampians_np_plants

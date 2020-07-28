@@ -1,0 +1,36 @@
+id:
+  - name: Microtropesa sinuata
+    by: david_francis
+created_at: '2017-03-19T11:02:21Z'
+datetime: '2017-03-13T12:56:50+10:00'
+description: A very large fly
+latitude: -38.0628
+longitude: 141.92572
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-03-19T11:02:21Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-03-13T12:56:50Z'
+    height: 558
+    width: 725
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58ce6527ed2a89e548000077.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce6527ed2a89e548000077.JPG'
+comments:
+  - created_at: '2017-03-19T11:59:33Z'
+    text: <em>Microtropesa sinuata</em> species id suggested
+    ref: 58ce72a5ed2a896341000027
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-03-19T12:01:30Z'
+    text: I believe this is a male. Females have white abdomens with black spots.
+    ref: 58ce731aed2a896341000028
+    name: David Francis
+    username: david_francis
+  - replying_to: 58ce731aed2a896341000028
+    created_at: '2017-03-20T05:35:10Z'
+    text: 'Thanks David, never seen one this big before'
+    ref: 58cf6a0eed2a89f34e000001
+    name: Kevin Sparrow
+    username: banksiaman

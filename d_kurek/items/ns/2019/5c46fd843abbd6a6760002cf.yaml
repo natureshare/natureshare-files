@@ -1,0 +1,35 @@
+id:
+  - Limnaecia spp.
+created_at: '2019-01-22T11:24:52Z'
+datetime: '2019-01-12T20:48:08+10:00'
+description: "Photographed on a friends property in Monbulk.\r\nI think it might be \"Limnaecia cirrhosema\"."
+latitude: -37.87454
+longitude: 145.420567
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2019-01-23T20:30:54Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2019-01-12T20:48:08Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_5c1ed10e3abbd6b7f00000e2/2019-01-22/1548155987/DSCN4170.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c1ed10e3abbd6b7f00000e2/2019-01-22/1548155987/DSCN4170.JPG'
+comments:
+  - created_at: '2019-01-22T23:18:11Z'
+    text: The Genus is correct but the middle yellow/orange band is too wide for L. cirrhosema. Best left at Limnaecia spp. at this point. There has not been a lot of investigation into these beautiful moths and limited references.
+    ref: 5c47a4b33abbd6aa460000eb
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5c47a4b33abbd6aa460000eb
+    created_at: '2019-01-23T12:22:40Z'
+    text: 'Hello, I can''t add just Limnaecia sp. to this observation. Can you please add this option to the list.  Thanks.'
+    ref: 5c485c903abbd67f9d0003f4
+    name: Daniel Kurek
+    username: d_kurek
+  - created_at: '2019-01-23T13:12:48Z'
+    text: I should have checked - Limnaecia spp. has been added to dataset.
+    ref: 5c4868503abbd69e5700033f
+    name: Cathy Powers
+    username: koolah
+collections:
+  - moths_of_metropolitan_melbourne

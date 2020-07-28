@@ -1,0 +1,32 @@
+id:
+  - Opogona stenocraspeda
+created_at: '2018-01-26T15:00:12Z'
+datetime: '2017-12-26T22:43:31+10:00'
+description: Two additional images
+latitude: -37.224434
+longitude: 144.309678
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-01-26T15:00:58Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-12-26T22:43:31Z'
+    height: 1062
+    width: 468
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a6b4255ed2a895fa2000022.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a6b4255ed2a895fa2000022.jpg'
+  - datetime: '2017-12-26T22:43:02Z'
+    height: 984
+    width: 576
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a6b4251ed2a895fa2000021.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a6b4251ed2a895fa2000021.jpg'
+  - datetime: '2017-12-26T22:46:02Z'
+    height: 756
+    width: 1074
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a6b425aed2a895fa2000023.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a6b425aed2a895fa2000023.jpg'
+collections:
+  - drummond_nearby_forests_-_moths

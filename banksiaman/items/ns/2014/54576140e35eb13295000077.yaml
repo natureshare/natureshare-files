@@ -1,0 +1,31 @@
+id:
+  - Myriophyllum simulans
+created_at: '2014-11-03T11:04:32Z'
+datetime: '2014-09-28T12:40:14+10:00'
+latitude: -38.205618
+longitude: 142.026013
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-11-04T08:48:49Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-28T12:40:14Z'
+    height: 2848
+    width: 4288
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54576140e35eb13295000076.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54576140e35eb13295000076.jpg'
+comments:
+  - created_at: '2014-11-03T12:06:06Z'
+    text: Hi Kevin. Interested to know how you concluded M. simulans? Not a species I've come across before.
+    ref: 54576faee35eb1be82000067
+    name: Russell Best
+    username: russell
+  - replying_to: 54576faee35eb1be82000067
+    created_at: '2014-11-04T08:47:55Z'
+    text: "Hi Russell, I'm using a management plan put together by James Todd along time ago as a reference and he recorded M. similans and from my limited knowledge and from what I have found, I have no reason to doubt it.\r\n"
+    ref: 545892bbe35eb12c8f000154
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - pallisters_reserve_orford

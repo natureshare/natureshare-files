@@ -1,0 +1,48 @@
+id:
+  - Bedellia somnulentella
+created_at: '2017-02-16T08:10:26Z'
+datetime: '2017-02-16T01:27:37+10:00'
+description: 'This moth is really small, about 2mm in length.'
+elevation: 262.5
+latitude: -37.806575
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.296966
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-02-17T02:00:01Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-02-16T01:27:37Z'
+    height: 1604
+    width: 1813
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58a55e1fed2a892daf0003c8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a55e1fed2a892daf0003c8.jpg'
+tags:
+  - moth
+comments:
+  - created_at: '2017-02-16T09:22:47Z'
+    text: Two mm! - that would be about the limit for a camera.
+    ref: 58a56f67ed2a896c5c0002bc
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-16T11:51:08Z'
+    text: Great photo.
+    ref: 58a5922ced2a89dfa3000001
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2017-02-17T01:58:26Z'
+    text: 'Yes, an amazing closeup.'
+    ref: 58a658c2ed2a896c5c000443
+    name: David Francis
+    username: david_francis
+  - replying_to: 58a658c2ed2a896c5c000443
+    created_at: '2017-02-17T02:02:28Z'
+    text: Thanks guys - love the new 'macro' lens.
+    ref: 58a659b4ed2a896c5c000447
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brisbane_ranges_moths

@@ -1,0 +1,34 @@
+id:
+  - Glonium spp.
+created_at: '2018-06-22T11:07:29Z'
+datetime: '2015-05-30T13:52:19+10:00'
+description: Several images
+elevation: 713.5
+latitude: -37.378714
+location_name: 'Lyonville VIC 3461, Australia'
+longitude: 144.266703
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-07-05T11:46:26Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-05-30T13:52:19Z'
+    height: 1980
+    width: 2496
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b2cd7c1ed2a891efe000002.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2cd7c1ed2a891efe000002.jpg'
+  - datetime: '2015-05-30T13:54:15Z'
+    height: 2604
+    width: 2004
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b2cd7bbed2a89c6aa000002.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2cd7bbed2a89c6aa000002.jpg'
+  - datetime: '2015-05-30T13:51:17Z'
+    height: 1974
+    width: 2604
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b2cd7bced2a892807000003.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2cd7bced2a892807000003.jpg'
+collections:
+  - wombat_forest_-_fungi

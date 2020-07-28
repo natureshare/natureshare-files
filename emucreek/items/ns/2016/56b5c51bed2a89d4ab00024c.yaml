@@ -1,0 +1,37 @@
+id:
+  - name: Anthochaera carunculata
+    by: chrisl
+created_at: '2016-02-06T10:07:09Z'
+datetime: '2016-02-02T17:18:44+10:00'
+elevation: 282.4
+latitude: -37.527886
+location_name: 'Sunbury VIC 3429, Australia'
+longitude: 144.762693
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-02-06T10:07:09Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-02-02T17:18:44Z'
+    height: 2592
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56b5c50eed2a89e050000069.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56b5c50eed2a89e050000069.JPG'
+  - datetime: '2016-02-02T17:18:37Z'
+    height: 2592
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56b5c529ed2a897bc7000068.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56b5c529ed2a897bc7000068.JPG'
+  - datetime: '2016-02-02T17:18:35Z'
+    height: 2592
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56b5c54ded2a89b31c000064.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56b5c54ded2a89b31c000064.JPG'
+comments:
+  - created_at: '2016-02-06T10:27:25Z'
+    text: <em>Anthochaera carunculata</em> species id suggested
+    ref: 56b5ca8ded2a89d4ab000267
+    name: Chris Lindorff
+    username: chrisl

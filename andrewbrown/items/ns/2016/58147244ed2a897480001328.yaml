@@ -1,0 +1,32 @@
+id:
+  - Plantago lanceolata
+created_at: '2016-10-29T11:17:23Z'
+datetime: '2016-10-29T12:30:06+10:00'
+elevation: 206.5
+latitude: -36.777153
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.364611
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-29T11:17:23Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-29T12:30:06Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58147250ed2a89d73e000156.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58147250ed2a89d73e000156.JPG'
+  - datetime: '2016-10-29T12:30:19Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58147281ed2a89b3fe00016a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58147281ed2a89b3fe00016a.JPG'
+tags:
+  - annual
+  - flowerhead
+  - leaves-ribbed
+collections:
+  - junortoun_flora

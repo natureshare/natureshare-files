@@ -1,0 +1,30 @@
+id:
+  - Ptilotus nobilis var. nobilis
+created_at: '2014-10-09T06:47:55Z'
+datetime: '2014-09-27T18:25:51+10:00'
+description: Observation photos represented by three separate individuals of the same population (close together). Population patch of approx. 20m x 20m.
+latitude: -31.847988
+longitude: 141.202361
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-10-09T06:53:25Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-27T18:25:51Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54362f9ae35eb15f2100005c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54362f9ae35eb15f2100005c.jpg'
+  - datetime: '2014-09-27T18:22:02Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54362f9ae35eb15f2100005d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54362f9ae35eb15f2100005d.jpg'
+  - datetime: '2014-09-27T18:25:17Z'
+    height: 3264
+    width: 4928
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54362f9ae35eb15f2100005e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54362f9ae35eb15f2100005e.jpg'
+tags:
+  - flowerhead

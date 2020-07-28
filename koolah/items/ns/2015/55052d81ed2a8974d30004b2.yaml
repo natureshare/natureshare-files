@@ -1,0 +1,53 @@
+id:
+  - Calomela acaciae
+created_at: '2015-03-15T06:58:09Z'
+datetime: '2015-03-14T10:07:47+10:00'
+description: This beetle species was seen on Acacia aspera subsp. parviceps two different days.
+elevation: 364.6
+latitude: -37.743733
+location_name: 'Glenmore VIC 3340, Australia'
+longitude: 144.30125
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-05-25T13:51:29Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-03-14T10:07:47Z'
+    height: 878
+    width: 949
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55052d7fed2a8974d30004ae.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55052d7fed2a8974d30004ae.JPG'
+  - datetime: '2015-03-14T10:06:14Z'
+    height: 831
+    width: 1029
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55052d7fed2a8974d30004af.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55052d7fed2a8974d30004af.JPG'
+  - datetime: '2015-03-14T10:08:36Z'
+    height: 1019
+    width: 1090
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55052d7fed2a8974d30004b0.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55052d7fed2a8974d30004b0.JPG'
+tags:
+  - beetle
+  - green
+  - white
+comments:
+  - created_at: '2015-03-16T09:24:00Z'
+    text: "Same as this one? (Calomela pallida)\r\nhttp://www.brisbaneinsects.com/brisbane_leafbeetles/GreenStripLeaf.htm"
+    ref: 5506a130ed2a8974d3000530
+    name: David Francis
+    username: david_francis
+  - created_at: '2015-03-16T09:26:53Z'
+    text: Calomela pallida now added to database.
+    ref: 5506a1dded2a8994a90003b7
+    name: David Francis
+    username: david_francis
+  - replying_to: 5506a130ed2a8974d3000530
+    created_at: '2015-03-16T22:45:00Z'
+    text: David - thanks for the ID.  It certainly looks to be the one and I have updated the observation to reflect that.  I appreciate your adding the species to the database as well.
+    ref: 55075ceced2a8974d30005b2
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brisbane_ranges_insects

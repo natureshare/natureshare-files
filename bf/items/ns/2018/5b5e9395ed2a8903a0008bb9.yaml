@@ -1,0 +1,52 @@
+id:
+  - Linaria pelisseriana
+created_at: '2018-07-30T04:29:21Z'
+datetime: '2012-10-21T17:24:35+10:00'
+description: 3 Photos
+elevation: 492.2
+latitude: -37.308543
+location_name: 'Mount Beckworth VIC 3363, Australia'
+longitude: 143.717936
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2018-07-30T15:02:00Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2012-10-21T17:24:35Z'
+    height: 3056
+    width: 4592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b5e939bed2a89280700007e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b5e939bed2a89280700007e.JPG'
+  - datetime: '2012-10-21T17:25:34Z'
+    height: 3056
+    width: 4592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b5e93b5ed2a891efe000075.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b5e93b5ed2a891efe000075.JPG'
+  - datetime: '2012-10-21T17:26:05Z'
+    height: 3056
+    width: 4592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b5e93d3ed2a89280700007f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b5e93d3ed2a89280700007f.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2018-07-30T05:19:19Z'
+    text: <em>Linaria pelisseriana</em> species id suggested
+    ref: 5b5e9fd7ed2a8903a0008bf2
+    name: Ben Fisher
+    username: bf
+  - created_at: '2018-07-30T09:37:44Z'
+    text: Glabrous stems is an identifying feature for this sp. Have you a clearet photo  of the stems.
+    ref: 5b5edc68ed2a8903a0008d2f
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-07-30T10:02:42Z'
+    text: 'Unfortunately not, these are the 3 clearest photos i have. Next time i am up there i will try and get some better photos of them including the stems and leaves.'
+    ref: 5b5ee242ed2a8903a0008d68
+    name: Ben Fisher
+    username: bf
+collections:
+  - mount_beckworth

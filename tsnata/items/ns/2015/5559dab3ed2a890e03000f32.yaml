@@ -1,0 +1,42 @@
+id:
+  - Eucalyptus tricarpa subsp. tricarpa
+created_at: '2015-05-18T12:27:31Z'
+datetime: '2015-05-16T13:53:09+10:00'
+description: 'On Stony Creek to Anakie Gorge Track. Location approximate. '
+elevation: 230.3
+latitude: -37.859582
+location_name: 'Staughton Vale VIC 3221, Australia'
+longitude: 144.26485
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-05-20T05:10:08Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-05-16T13:53:09Z'
+    height: 1650
+    width: 2200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5559dab3ed2a890e03000f31.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5559dab3ed2a890e03000f31.jpg'
+  - datetime: '2015-05-16T13:51:09Z'
+    height: 1650
+    width: 2200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/555ab425ed2a893949000008.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/555ab425ed2a893949000008.jpg'
+tags:
+  - flowers
+  - trunk
+comments:
+  - created_at: '2015-05-18T23:55:45Z'
+    text: 'Difficult to make an identification from the flowers alone. Given the locality, it is likely an indigenous eucalypt and possibly a Red Ironbark with pale flowers.'
+    ref: 555a7c01ed2a890e03000f76
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 555a7c01ed2a890e03000f76
+    created_at: '2015-05-19T04:01:55Z'
+    text: I uploaded the photo of the trunk. It is rough. So it is Red Ironbark. In future I will  take the photo of the tree trunk and the flowers to help the identification.
+    ref: 555ab5b3ed2a89545b000001
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - brisbane_ranges_national_park_plants

@@ -1,0 +1,31 @@
+id:
+  - Peltoschema perplexa
+created_at: '2015-04-08T03:45:51Z'
+datetime: '2013-09-18T11:13:25+10:00'
+description: 'This is Peltoschema perplexa in its pale form.  Many leaf beetles can appear in a green form or a yellow form or anywhere in between.   For the purposes of identification, the markings on the elytra are most reliable.    '
+elevation: 111.2
+latitude: -37.807995
+location_name: 'Croydon VIC, Australia'
+longitude: 145.279847
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-04-09T00:27:24Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-09-18T11:13:25Z'
+    height: 1040
+    width: 1388
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5524a46fed2a89048b00003a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5524a46fed2a89048b00003a.JPG'
+  - {}
+tags:
+  - beetle
+comments:
+  - created_at: '2015-04-09T07:37:10Z'
+    text: No wonder identification can be difficult when a species can be in different colour forms.
+    ref: 55262c26ed2a894678000005
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - beetles_leaf_beetle_reference_collection

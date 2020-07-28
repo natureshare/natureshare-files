@@ -1,0 +1,51 @@
+id:
+  - Daviesia arenaria
+created_at: '2017-10-18T23:39:05Z'
+datetime: '2016-09-30T16:19:32+10:00'
+description: 'Daviesia arenaria because of the colour of the flower and the ‘folded’ phyllodes. '
+elevation: 245.1
+latitude: -37.48894
+location_name: 'Victoria Valley VIC 3294, Australia'
+longitude: 142.362609
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2017-10-20T09:21:06Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-30T16:19:32Z'
+    height: 2102
+    width: 3099
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59e5e606ed2a8939840004fe.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59e5e606ed2a8939840004fe.JPG'
+  - datetime: '2016-09-30T16:21:11Z'
+    height: 1945
+    width: 2665
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59e498b3ed2a8939840004eb.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59e498b3ed2a8939840004eb.jpg'
+tags:
+  - flower
+  - phyllodes
+comments:
+  - created_at: '2017-10-19T22:24:22Z'
+    text: 'Yes, D. arenaria - V-shaped phyllodes in section rather than flat/concave.'
+    ref: 59e92616ed2a892d40006d36
+    name: David Francis
+    username: david_francis
+  - replying_to: 59e92616ed2a892d40006d36
+    created_at: '2017-10-20T09:09:59Z'
+    text: 'Thanks for that confirmation David. '
+    ref: 59e9bd67ed2a892d40006fea
+    name: Linley McGlashan
+    username: linleymcg
+  - replying_to: 59e9bd67ed2a892d40006fea
+    created_at: '2017-10-20T09:47:07Z'
+    text: A first on NS for this species!
+    ref: 59e9c61bed2a892d40006fff
+    name: David Francis
+    username: david_francis
+collections:
+  - grampians_np_plants
+  - flora_of_panyyabyr_southern_grampians

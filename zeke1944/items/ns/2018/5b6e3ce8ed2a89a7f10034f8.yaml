@@ -1,0 +1,33 @@
+id:
+  - name: Cortinarius austrocyanites
+    by: 249pbr
+created_at: '2018-08-11T01:41:20Z'
+datetime: '2015-06-20T12:26:31+10:00'
+elevation: 400.3
+latitude: -38.514254
+location_name: 'Lorne VIC 3232, Australia'
+longitude: 143.922373
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-19T00:00:58Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-06-20T12:26:31Z'
+    height: 3502
+    width: 3918
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b6e3cefed2a891efe00008f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b6e3cefed2a891efe00008f.jpg'
+comments:
+  - created_at: '2018-08-11T01:43:58Z'
+    text: Cortinarius austrocyanites gates p49
+    ref: 5b6e3f5eed2a89a7f1003508
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-14T10:06:41Z'
+    text: Cortinarius austrocyanites added to db.
+    ref: 5b72a9b1ed2a89a7f100471f
+    name: David Francis
+    username: david_francis
+collections:
+  - otway_ranges_-_fungi

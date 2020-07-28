@@ -1,0 +1,35 @@
+id:
+  - Scarabaeidae spp.
+created_at: '2018-12-23T05:14:49Z'
+datetime: '2018-12-01T21:26:03+10:00'
+description: I think this is a "Shining Leaf Chafer".
+latitude: -37.667558
+longitude: 144.766503
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-12-23T05:18:57Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-12-01T21:26:03Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_5c1ed10e3abbd6b7f00000e2/2018-12-23/1545542024/DSCN0811.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c1ed10e3abbd6b7f00000e2/2018-12-23/1545542024/DSCN0811.JPG'
+comments:
+  - created_at: '2019-01-06T23:35:10Z'
+    text: Martin Lagerwey suggests that this is Anoplognathus velutinus. I agree and suggest you go to Atlas of Living Australia website and search this species. There are images there to compare.
+    ref: 5c3290af3abbd6888f000719
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5c3290af3abbd6888f000719
+    created_at: '2019-01-07T00:08:44Z'
+    text: 'I will do that, thank you.'
+    ref: 5c32988c3abbd6f51e000770
+    name: Daniel Kurek
+    username: d_kurek
+  - created_at: '2019-04-25T06:07:22Z'
+    text: 'Agree, Anoplognathus velutinus.'
+    ref: 5cc14e9a3abbd691ab00003c
+    name: Kimberi Pullen
+    username: kimberip
+collections:
+  - organ_pipes_np_-_invertebrates

@@ -1,0 +1,38 @@
+id:
+  - Acacia acinacea s.l.
+created_at: '2017-09-09T09:02:40Z'
+datetime: '2017-09-09T09:39:32+10:00'
+elevation: 222.7
+latitude: -36.783099
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.37446
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-09-09T09:02:40Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-09-09T09:40:46Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59b3acf8ed2a893984000228.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59b3acf8ed2a893984000228.JPG'
+  - datetime: '2017-09-09T09:39:32Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59b3acf2ed2a893984000227.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59b3acf2ed2a893984000227.JPG'
+  - datetime: '2017-09-09T09:38:57Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59b3ad11ed2a893984000229.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59b3ad11ed2a893984000229.JPG'
+tags:
+  - flowers-spherical
+  - flowers-yellow
+  - shrub-small
+  - wattle
+collections:
+  - junortoun_flora

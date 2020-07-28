@@ -1,0 +1,48 @@
+id:
+  - Asilidae spp.
+created_at: '2017-01-27T12:31:41Z'
+datetime: '2017-01-21T09:35:55+10:00'
+description: Large type of fly (robber fly?) approx. 30mm
+elevation: 217
+latitude: -36.775683
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.355764
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-01-28T12:37:25Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-01-21T09:35:55Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5885f9a9ed2a892daf000342.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5885f9a9ed2a892daf000342.jpeg'
+tags:
+  - fly-large
+comments:
+  - created_at: '2017-01-28T08:21:18Z'
+    text: 'Yes, Asilidae sp. Close to http://www.bowerbird.org.au/observations/67455'
+    ref: 588c547eed2a89d10f0013e6
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-19T03:19:02Z'
+    text: Could this be Neoaratus hercules ?
+    ref: 58a90ea6ed2a896c5c000ac0
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 58a90ea6ed2a896c5c000ac0
+    created_at: '2017-02-19T03:42:47Z'
+    text: Could well be but I read that there are many species that look similar.  I see that the experts on Bowerbird don't often even get to the genus level from a photo. Some of our NS ids to species level are probably dodgy. Donald Hobern's photos of N. hercules on ALA show a very humped and hairy thorax.
+    ref: 58a91437ed2a896c5c000ad2
+    name: David Francis
+    username: david_francis
+  - replying_to: 58a90ea6ed2a896c5c000ac0
+    created_at: '2017-02-19T03:44:47Z'
+    text: Don't be afraid to make the call if you think Neoaratus.
+    ref: 58a914afed2a89df70000012
+    name: David Francis
+    username: david_francis
+collections:
+  - wildlife_of_junortoun

@@ -1,0 +1,30 @@
+id:
+  - name: Fungi spp.
+created_at: '2011-03-10T16:36:18Z'
+datetime: '2008-10-05T11:00:02+10:00'
+latitude: -36.488799
+longitude: 146.6579
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2011-09-23T15:53:59Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2008-10-05T11:00:02Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985de35eb12984011768.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb12984011768.jpg'
+tags:
+  - black
+  - fungi
+comments:
+  - created_at: '2011-03-10T16:39:16Z'
+    text: |-
+      An unknown fungi growing on a vertical rockface.
+      Stanley State Forest.
+      Gapsted.
+      Victoria.
+
+      Possibly a Daldinia concentrica ?
+    ref: 53b3984ae35eb1298400d808
+collections:
+  - stanley_state_forest

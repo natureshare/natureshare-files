@@ -1,0 +1,36 @@
+id:
+  - Acacia oxycedrus
+created_at: '2017-07-30T00:53:37Z'
+datetime: '2017-07-29T15:07:44+10:00'
+description: An early and long-flowering species.
+latitude: -37.502831
+longitude: 144.542728
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-07-30T00:59:01Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-07-29T15:09:30Z'
+    height: 1337
+    width: 1800
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/597d2f5aed2a89398400014a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/597d2f5aed2a89398400014a.jpg'
+  - datetime: '2017-07-29T15:07:44Z'
+    height: 1592
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/597d2d4fed2a893984000147.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/597d2d4fed2a893984000147.jpg'
+tags:
+  - flower-creamy-yellow
+  - habit
+  - leaf
+comments:
+  - created_at: '2017-07-30T01:09:56Z'
+    text: 'Many plants over the whole area - about half in full-flower, half still in bud.'
+    ref: 597d31e4ed2a89aae500240e
+    name: David Francis
+    username: david_francis
+collections:
+  - pyrete_range_plants

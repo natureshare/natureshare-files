@@ -1,0 +1,43 @@
+id:
+  - name: Melobasis spp.
+    by: ausdigi
+created_at: '2017-09-19T04:59:29Z'
+datetime: '2017-01-27T15:46:26+10:00'
+description: Feeding on Bursaria spinosa blossom
+elevation: 170.5
+latitude: -37.648234
+location_name: 'Greenvale VIC 3059, Australia'
+longitude: 144.86975
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-09-21T02:30:44Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-27T15:46:26Z'
+    height: 704
+    width: 640
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c0a25bed2a89398400026a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c0a25bed2a89398400026a.jpg'
+  - datetime: '2017-01-27T16:00:43Z'
+    height: 755
+    width: 640
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c0a25eed2a89398400026b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c0a25eed2a89398400026b.jpg'
+tags:
+  - adult
+comments:
+  - created_at: '2017-09-19T11:11:19Z'
+    text: 'Maybe Buprestidae: Melobasis sp.'
+    ref: 59c0fb57ed2a89eed50002d0
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-01-08T07:38:24Z'
+    text: <em>Melobasis spp.</em> species id suggested
+    ref: 5a531ff0ed2a89d22b000ad8
+    name: Reiner Richter
+    username: ausdigi
+collections:
+  - woodlands_historic_park_insects_and_spiders
+  - woodlands_historic_park_-_coleoptera

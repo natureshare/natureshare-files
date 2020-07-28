@@ -1,0 +1,48 @@
+id:
+  - name: Cillibus spp.
+    by: david_francis
+created_at: '2018-02-14T04:36:34Z'
+datetime: '2018-02-08T10:55:51+10:00'
+elevation: 135.5
+latitude: -37.648054
+location_name: 'Greenvale VIC 3059, Australia'
+longitude: 144.864953
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-02-17T09:20:48Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-02-08T10:55:51Z'
+    height: 616
+    width: 812
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a83bc91ed2a895fa2000076.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a83bc91ed2a895fa2000076.jpg'
+  - datetime: '2018-02-08T10:54:07Z'
+    height: 594
+    width: 819
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a83bce8ed2a895fa2000077.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a83bce8ed2a895fa2000077.jpg'
+comments:
+  - created_at: '2018-02-14T05:07:56Z'
+    text: <em>Tenebrionidae spp.</em> species id suggested
+    ref: 5a83c42ced2a89def7002a7c
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-02-14T05:09:59Z'
+    text: 'A Pie-dish Beetle, possibly in the genus Helea. There is a match on Bowerbird but the id was not confirmed. See http://www.bowerbird.org.au/observations/57908'
+    ref: 5a83c4a7ed2a89def7002a7d
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-02-15T03:25:07Z'
+    text: 'thanks, had no idea where to look for this one'
+    ref: 5a84fd93ed2a89a280000003
+    name: Jeff Triplett
+    username: triplett
+  - created_at: '2018-02-17T09:21:11Z'
+    text: id updated.
+    ref: 5a87f407ed2a89def7003998
+    name: David Francis
+    username: david_francis
+collections:
+  - woodlands_historic_park_insects_and_spiders

@@ -1,0 +1,39 @@
+id:
+  - name: Leporella fimbriata
+    by: lconole
+created_at: '2018-09-07T05:31:33Z'
+datetime: '2018-09-07T15:31:00+10:00'
+latitude: -37.05243
+longitude: 142.50795
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-09-08T03:56:51Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 1536
+    width: 1114
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b920d3bed2a89c6aa0000b5.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b920d3bed2a89c6aa0000b5.jpeg'
+comments:
+  - created_at: '2018-09-07T05:34:36Z'
+    text: Found this orchid today near Plantation Campground in Grampians NP. Have no idea what species it is. We have searched numerous sources with no luck.
+    ref: 5b920deced2a89cce3002255
+    name: Charles Buer
+    username: buercs
+  - created_at: '2018-09-07T06:09:53Z'
+    text: <em>Leporella fimbriata</em> species id suggested
+    ref: 5b921631ed2a89cce3002281
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2018-09-07T07:06:08Z'
+    text: 'Thanks, your id was also just confirmed by a botanist from Canberra!! Thank you.'
+    ref: 5b922360ed2a89cce30022d3
+    name: Charles Buer
+    username: buercs
+  - replying_to: 5b922360ed2a89cce30022d3
+    created_at: '2018-09-10T00:37:22Z'
+    text: 'It reminded me a lot of Leptoceras menziesii in general form, so that was the hint I needed.  :-)'
+    ref: 5b95bcc2ed2a895f4a000154
+    name: Lawrie Conole
+    username: lconole

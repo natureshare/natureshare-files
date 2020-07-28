@@ -1,0 +1,30 @@
+id:
+  - Tortricopsis uncinella
+created_at: '2015-10-31T13:42:14Z'
+datetime: '2015-10-10T22:14:00+10:00'
+description: About 15mm long. Near lights at margin of national park.
+elevation: 186.1
+latitude: -37.891366
+location_name: 'Tremont VIC 3785, Australia'
+longitude: 145.312438
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: true
+updated_at: '2015-10-31T13:42:57Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-10-10T10:14:15Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5634c45bed2a899c63000093.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5634c45bed2a899c63000093.JPG'
+  - datetime: '2015-10-10T10:14:05Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5634c465ed2a899c63000094.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5634c465ed2a899c63000094.JPG'
+tags:
+  - moth
+collections:
+  - dandenong_ranges_lepidoptera

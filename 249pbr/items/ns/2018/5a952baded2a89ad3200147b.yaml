@@ -1,0 +1,32 @@
+id:
+  - Cordierites frondosa
+created_at: '2018-02-27T11:14:50Z'
+datetime: '2013-04-20T13:04:25+10:00'
+description: 'This is Cordierites frondosa, could the database be updated please. Three images.'
+latitude: -37.378667
+longitude: 144.61275
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-02-28T11:29:10Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2013-04-20T13:04:25Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a952bceed2a89cf90000012.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a952bceed2a89cf90000012.jpg'
+  - datetime: '2013-04-20T13:05:32Z'
+    height: 1360
+    width: 1550
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a952b9ced2a89abdd00000e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a952b9ced2a89abdd00000e.jpg'
+  - datetime: '2013-04-20T13:01:16Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a952bb1ed2a8929e700000b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a952bb1ed2a8929e700000b.jpg'
+collections:
+  - macedon_ranges_-_fungi

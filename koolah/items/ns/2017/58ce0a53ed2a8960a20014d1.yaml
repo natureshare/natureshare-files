@@ -1,0 +1,31 @@
+created_at: '2017-03-19T04:35:43Z'
+datetime: '2017-03-18T21:42:09+10:00'
+elevation: 260.4
+latitude: -37.8066
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297034
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-03-19T04:35:43Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-03-18T21:42:09Z'
+    height: 2181
+    width: 2811
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58ce0a5ded2a89a81f00005b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce0a5ded2a89a81f00005b.jpg'
+comments:
+  - created_at: '2017-03-19T05:02:39Z'
+    text: 'Looks like a weevil (Curculionidae) similar to a Neolaemosaccus sp. but the antennae appear to be in a strange position, not half-way down the rostrum as normal.'
+    ref: 58ce10efed2a8960a20014f7
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-03-19T23:58:42Z'
+    text: Thanks David - I might send this image to K. Walker at Museums Victoria.
+    ref: 58cf1b32ed2a8963410001bb
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brisbane_ranges_insects

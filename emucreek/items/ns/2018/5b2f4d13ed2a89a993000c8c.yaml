@@ -1,0 +1,32 @@
+id:
+  - name: Agaricus spp.
+    by: 249pbr
+created_at: '2018-06-24T07:49:39Z'
+datetime: '2018-06-24T15:24:54+10:00'
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-06-24T07:52:48Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-06-24T15:24:54Z'
+    height: 4608
+    width: 3456
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b2f4d1eed2a89c6aa00000d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2f4d1eed2a89c6aa00000d.JPG'
+  - datetime: '2018-06-24T15:25:06Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b2f4da9ed2a892807000010.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2f4da9ed2a892807000010.JPG'
+comments:
+  - created_at: '2018-06-24T07:52:44Z'
+    text: 2 pix...
+    ref: 5b2f4dcced2a8925230002c8
+    name: Peter Clark
+    username: emucreek
+  - created_at: '2018-06-24T09:27:44Z'
+    text: <em>Agaricus spp.</em> species id suggested
+    ref: 5b2f6410ed2a89a993000d30
+    name: John Walter
+    username: 249pbr

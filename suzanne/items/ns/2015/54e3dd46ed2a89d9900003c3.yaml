@@ -1,0 +1,63 @@
+id:
+  - Hemicordulia tau
+created_at: '2015-02-18T00:31:02Z'
+datetime: '2015-02-17T16:44:03+10:00'
+description: 'This dragonfly is perched on a Leafless wattle, Acacia aphylla, growing in the garden.'
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-02-21T04:06:43Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-02-17T16:44:03Z'
+    height: 2432
+    width: 3648
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54e3dd44ed2a89d9900003c0.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e3dd44ed2a89d9900003c0.JPG'
+  - datetime: '2015-02-17T16:45:27Z'
+    height: 2432
+    width: 3648
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54e3dd44ed2a89d9900003c1.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e3dd44ed2a89d9900003c1.JPG'
+  - datetime: '2015-02-17T16:43:07Z'
+    height: 2014
+    width: 2978
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54e3dd44ed2a89d9900003c2.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e3dd44ed2a89d9900003c2.JPG'
+  - datetime: '2015-02-17T16:45:22Z'
+    height: 1762
+    width: 2639
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54e53641ed2a89d990000489.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e53641ed2a89d990000489.JPG'
+tags:
+  - dragonfly
+comments:
+  - created_at: '2015-02-18T06:50:12Z'
+    text: 'Thanks Russell. Just a question though.  I thought that the pterostigma of Hemicordulia australiae was black, while the pterostigma of Hemicordulia tau was brown.  Is this not correct?  That was why I thought it was H. tau.  '
+    ref: 54e43624ed2a8987b700035e
+    name: Suzanne Jones
+    username: suzanne
+  - replying_to: 54e43624ed2a8987b700035e
+    created_at: '2015-02-19T00:17:07Z'
+    text: 'You are spot on Suzanne. I was in a rush (doctors waiting room) and I didn''t even look at the pterostigma. I first look at the abdomen shape for these two species and made my decision solely based on the shapely abdomen and thin ''waist'', which points to H. aus. and not H. tau. But you are spot on in that pterostigma colour is an excellent distinguishing feature and in this case points clearly to H. tau. After your comment I looked at the other differenting features and half point to H. aus.. These features are yellow spot on tail in H. tau is absent, curvy abdomen with thin ''waist'' for H. aus. is there, yellow veins on leading edge of wings for H. tau are there, brown pterostigma points to H. tau. I''ve had a look on the web and I can find no deviation from the black pterostigma in H. aus. so I will follow it up further. It is a very interesting case!'
+    ref: 54e52b83ed2a8987b70003d3
+    name: Russell Best
+    username: russell
+  - replying_to: 54e52b83ed2a8987b70003d3
+    created_at: '2015-02-19T00:24:57Z'
+    text: 'I meant to conclude that the distinguishing features score is 2:2 between the two species!'
+    ref: 54e52d59ed2a89ef270003d6
+    name: Russell Best
+    username: russell
+  - replying_to: 54e52d59ed2a89ef270003d6
+    created_at: '2015-02-19T01:08:29Z'
+    text: 'I wondered if maybe it was my photo and that the wings were making it just look as if it had a thin waist, so have added another photo of the dorsal view, taken from a very slightly different angle.  Don''t know if it will help or not.  The wings are a bit blurry in all my photos because the insect was moving them constantly.'
+    ref: 54e5378ded2a89ef270003da
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains

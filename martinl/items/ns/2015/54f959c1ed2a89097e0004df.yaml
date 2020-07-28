@@ -1,0 +1,41 @@
+id:
+  - Apiomorpha spp.
+  - Apiomorpha urnalis
+created_at: '2015-03-06T07:39:45Z'
+datetime: '2011-04-14T05:50:17+10:00'
+description: 'Apiomorpha urnalis is a woody gall produced by a parasitic hemipteran.  The female inside the large gall remains physically underdeveloped and never independent of her host plant.    The dissection shows the larviform adult female. '
+elevation: 116.5
+latitude: -37.801106
+location_name: 'Kilsyth VIC, Australia'
+longitude: 145.320653
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2018-08-03T02:21:38Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-04-14T05:50:17Z'
+    height: 1202
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54f959c0ed2a89097e0004db.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f959c0ed2a89097e0004db.JPG'
+  - datetime: '2011-03-11T00:19:10Z'
+    height: 784
+    width: 1046
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54f959c0ed2a89097e0004dc.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f959c0ed2a89097e0004dc.jpg'
+tags:
+  - gall
+comments:
+  - created_at: '2015-03-06T12:19:01Z'
+    text: Hi Martin. Apiomorpha urnalis has now been added. Nice cut-away view of the larva.
+    ref: 54f99b35ed2a89097e0005a7
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2015-03-06T13:06:32Z'
+    text: 'btw, the cut-away is the adult female who never develops any further'
+    ref: 54f9a658ed2a89097e0005db
+    name: Martin Lagerwey
+    username: martinl
+collections:
+  - galls_of_victoria

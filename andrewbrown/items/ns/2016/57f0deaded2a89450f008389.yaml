@@ -1,0 +1,38 @@
+id:
+  - name: Astroloma humifusum
+    by: chrisl
+created_at: '2016-10-02T10:57:49Z'
+datetime: '2016-10-02T10:55:37+10:00'
+description: 'Low growing prickly leaved, clump forming plant showing new growth up close in 2nd pic.'
+elevation: 222.5
+latitude: -36.783099
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.372035
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-02T10:57:49Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-02T10:55:04Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57f0def7ed2a892daf0000ea.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f0def7ed2a892daf0000ea.JPG'
+  - datetime: '2016-10-02T10:55:37Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57f0deaded2a89d73e0000c6.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f0deaded2a89d73e0000c6.JPG'
+tags:
+  - plant-small
+comments:
+  - created_at: '2016-10-03T01:23:52Z'
+    text: <em>Astroloma humifusum</em> species id suggested
+    ref: 57f1b328ed2a89450f0084ae
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - junortoun_flora

@@ -1,0 +1,35 @@
+created_at: '2016-10-03T10:20:03Z'
+datetime: '2016-09-24T14:45:39+10:00'
+latitude: -37.42322
+longitude: 142.445002
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-10-03T10:21:17Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-24T14:45:52Z'
+    height: 3648
+    width: 2967
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57f230a0ed2a89d73e0000ce.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f230a0ed2a89d73e0000ce.JPG'
+  - datetime: '2016-09-24T14:45:39Z'
+    height: 4141
+    width: 2806
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57f230e1ed2a89d73e0000cf.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f230e1ed2a89d73e0000cf.JPG'
+comments:
+  - created_at: '2016-10-03T21:16:18Z'
+    text: Kevin. Worth investigating Tricostularia pauciflora.
+    ref: 57f2caa2ed2a89450f0086f5
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 57f2caa2ed2a89450f0086f5
+    created_at: '2016-10-04T08:41:19Z'
+    text: Not sure can't find a good photo of it
+    ref: 57f36b2fed2a891adc000001
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - grampians_np_plants

@@ -1,0 +1,33 @@
+id:
+  - name: Scopula rubraria
+    by: chrisl
+created_at: '2016-03-23T11:22:41Z'
+datetime: '2016-03-23T13:35:33+10:00'
+description: "This small moth was hiding amongst litter and grass.\r\n"
+latitude: -37.372883
+longitude: 144.622444
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-03-24T00:52:49Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-03-23T13:35:33Z'
+    height: 825
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56f27be6ed2a89211c000170.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56f27be6ed2a89211c000170.jpg'
+comments:
+  - created_at: '2016-03-24T00:47:40Z'
+    text: <em>Scopula rubraria</em> species id suggested
+    ref: 56f3392ced2a89edf00001b5
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2016-03-24T05:06:31Z'
+    text: 'Thanks, Chris - That''s it!'
+    ref: 56f375d7ed2a89edf00001d7
+    name: David Francis
+    username: david_francis
+collections:
+  - insects_and_other_arthropods_of_mt_macedon

@@ -1,0 +1,55 @@
+id:
+  - Trachymela papuligera
+created_at: '2015-03-04T06:19:54Z'
+datetime: '2014-10-01T12:25:00+10:00'
+elevation: 243.5
+latitude: -37.424071
+location_name: 'Glenburn VIC 3717, Australia'
+longitude: 145.4228
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2015-04-16T03:50:10Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-01-16T12:25:01Z'
+    height: 770
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54f6a3d4ed2a89097e000075.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f6a3d4ed2a89097e000075.JPG'
+  - datetime: '2015-01-16T12:24:51Z'
+    height: 770
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54f6a3d4ed2a89097e000077.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f6a3d4ed2a89097e000077.JPG'
+tags:
+  - beetle
+comments:
+  - created_at: '2015-03-04T06:41:27Z'
+    text: That's a different looking beetle!
+    ref: 54f6a917ed2a89097e0000ab
+    name: Suzanne Jones
+    username: suzanne
+  - replying_to: 54f6a917ed2a89097e0000ab
+    created_at: '2015-03-04T09:06:11Z'
+    text: 'Yes, certainly a most gnarled beetle.  Love those shoulder pads. '
+    ref: 54f6cb03ed2a89097e000112
+    name: Martin Lagerwey
+    username: martinl
+  - created_at: '2015-04-13T22:21:50Z'
+    text: This beetle is Trachymela papuligera based on comparison with other tracymela in the museum collection.
+    ref: 552c417eed2a8961ed00030a
+    name: Martin Lagerwey
+    username: martinl
+  - created_at: '2015-04-15T09:36:10Z'
+    text: Hi Martin. I have now added this species name to the NS database for you to assign.
+    ref: 552e310aed2a8947a600024a
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2015-04-16T03:57:36Z'
+    text: 'Thank you Chris.  I''ve seen this since, in Sydney.  Its the most easily recognizable representative of the whole genus.  The museum has several specimens so it is feasible to encounter these beetles again.'
+    ref: 552f3330ed2a898ba3000053
+    name: Martin Lagerwey
+    username: martinl
+collections:
+  - beetles_leaf_beetle_reference_collection

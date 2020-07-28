@@ -1,0 +1,35 @@
+id:
+  - name: Corymbia ficifolia
+    by: david_francis
+created_at: '2015-05-03T00:29:03Z'
+datetime: '2014-11-27T10:33:00+10:00'
+elevation: 42.1
+latitude: -38.09132
+location_name: 'Cranbourne VIC 3977, Australia'
+longitude: 145.270896
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2015-05-03T00:29:51Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-11-27T22:33:16Z'
+    height: 3648
+    width: 2736
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55456bceed2a8915750002cb.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55456bceed2a8915750002cb.JPG'
+comments:
+  - created_at: '2015-05-03T00:29:54Z'
+    ref: 55456c02ed2a8915750002cf
+    name: Claudia Phelps
+    username: cp7heaven
+  - created_at: '2017-02-08T00:41:26Z'
+    text: <em>Corymbia ficifolia</em> species id suggested
+    ref: 589a6936ed2a89d10f00355e
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-08T00:45:36Z'
+    text: 'A planted street tree? NatureShare does not normally wish to record nursery-raised specimens, unless they are described as such when they can be a good reference for identifying garden escapes.'
+    ref: 589a6a30ed2a89d10f003567
+    name: David Francis
+    username: david_francis

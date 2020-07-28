@@ -1,0 +1,41 @@
+id:
+  - Varanus varius
+created_at: '2016-04-28T01:58:06Z'
+datetime: '2015-11-24T12:31:56+10:00'
+latitude: -36.857321
+longitude: 142.482473
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-04-28T02:15:06Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-11-24T12:31:56Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57216d1ded2a890be70001c8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57216d1ded2a890be70001c8.jpg'
+  - datetime: '2015-11-24T12:30:52Z'
+    height: 3264
+    width: 4928
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57216ceaed2a890be70001c6.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57216ceaed2a890be70001c6.jpg'
+  - datetime: '2015-11-24T12:30:45Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57216cffed2a890be70001c7.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57216cffed2a890be70001c7.jpg'
+  - datetime: '2015-11-24T12:31:47Z'
+    height: 3264
+    width: 4928
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57216d0aed2a89211c0001e3.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57216d0aed2a89211c0001e3.jpg'
+comments:
+  - created_at: '2016-04-28T09:20:46Z'
+    text: Didn't know they were in the Gramps
+    ref: 5721d5eeed2a89e6680001c9
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - 401_fulbrooks_road_dadswells_bridge_vic_animals

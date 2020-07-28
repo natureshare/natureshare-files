@@ -1,0 +1,40 @@
+id:
+  - Ramaria flaccida
+created_at: '2018-06-26T12:19:54Z'
+datetime: '2014-06-14T13:06:13+10:00'
+description: 'Several images. This species is now known as Phaeoclavulina flaccida, could this be updated please.'
+elevation: 658.7
+latitude: -37.449441
+location_name: 'Blakeville VIC 3342, Australia'
+longitude: 144.262003
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-06-26T12:20:12Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2014-06-14T13:06:13Z'
+    height: 1650
+    width: 2010
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b322a8ced2a89280700001e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b322a8ced2a89280700001e.jpg'
+  - datetime: '2014-06-14T13:05:54Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b322a72ed2a89280700001c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b322a72ed2a89280700001c.jpg'
+  - datetime: '2014-06-14T13:06:20Z'
+    height: 1653
+    width: 1941
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b322a86ed2a89280700001d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b322a86ed2a89280700001d.jpg'
+comments:
+  - created_at: '2018-06-26T20:06:21Z'
+    text: Updated
+    ref: 5b329cbded2a89a993001906
+    name: Cathy Powers
+    username: koolah
+collections:
+  - wombat_forest_-_fungi

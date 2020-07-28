@@ -1,0 +1,46 @@
+id:
+  - name: Caladenia gracilis
+    by: chrisl
+created_at: '2014-11-10T05:54:44Z'
+datetime: '2014-10-02T15:06:30+10:00'
+description: I think these are Caladenia moschate(?) found close to C.gracilis
+latitude: -37.864969
+location_name: 'Steiglitz VIC 3331, Australia'
+longitude: 144.182891
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-11-10T06:18:14Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-02T15:06:30Z'
+    height: 2854
+    width: 3136
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54605324e35eb1b317000030.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54605324e35eb1b317000030.JPG'
+  - datetime: '2014-10-02T15:08:38Z'
+    height: 1608
+    width: 1423
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54605324e35eb1b317000031.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54605324e35eb1b317000031.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2014-11-10T06:04:18Z'
+    text: 'Caladenia moschata and Caladenia gracilis are synonymous in Victoria. The VBA (Victorian list) is adopting C. moschata as the accepted name and Natureshare will be updated to reflect this soon. The ALA recognises both entities, so I''m unsure of the status in other states. '
+    ref: 54605562e35eb1bc4500002d
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 54605562e35eb1bc4500002d
+    created_at: '2014-11-10T06:09:32Z'
+    text: Crikey! Confusing Chris!!!
+    ref: 5460569ce35eb1cb7f000029
+    name: Varena Hardy
+    username: varenahardy
+  - created_at: '2014-11-10T06:45:35Z'
+    text: 'So it sounds like it is best naming this as C. gracilis for now and it will automatically update when Chris and I implement the plant name updates and synonyms, which coincidentally will likely occur of the next few days/weeks. I assume, Chris, that C. gracilis will become a synonym for C. moschata? Interesting that the opposite story has occurred for C. lyallii, which hasn''t been accepted in Vic and VBA has it as a synonym for C. alpina?'
+    ref: 54605f0fe35eb1b31700003c
+    name: Russell Best
+    username: russell
+collections:
+  - brisbane_ranges_national_park_october_2014

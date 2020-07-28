@@ -1,0 +1,68 @@
+id:
+  - Arsipoda spp.
+created_at: '2018-12-06T03:19:06Z'
+datetime: '2018-12-06T12:10:36+10:00'
+description: Four photos. These shiny blue insects were on an unidentified rush sp. about 40cm high. They are quite lively and it was windy so hard to photograph. See also Jeff Tripett's photo from 3 Dec 2018.
+elevation: 63
+latitude: -38.091344
+location_name: 'Ettrick-Condah Rd, Heywood VIC 3304, Australia'
+longitude: 141.753243
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2018-12-07T07:00:20Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-12-06T12:10:36Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_56b45e90ed2a89d4ab000026/2018-12-06/1544066208/PC050003_filtered.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_56b45e90ed2a89d4ab000026/2018-12-06/1544066208/PC050003_filtered.jpg'
+  - datetime: '2018-12-06T12:23:22Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_56b45e90ed2a89d4ab000026/2018-12-06/1544066299/PC050059.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_56b45e90ed2a89d4ab000026/2018-12-06/1544066299/PC050059.jpg'
+  - datetime: '2018-12-06T12:19:39Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_56b45e90ed2a89d4ab000026/2018-12-06/1544066148/PC050060.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_56b45e90ed2a89d4ab000026/2018-12-06/1544066148/PC050060.jpg'
+  - datetime: '2018-12-06T12:16:35Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_56b45e90ed2a89d4ab000026/2018-12-06/1544066104/PC050001_filtered.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_56b45e90ed2a89d4ab000026/2018-12-06/1544066104/PC050001_filtered.jpg'
+comments:
+  - created_at: '2018-12-06T06:36:02Z'
+    text: 'Congrats on the photos. I think you mean Andrew Allens obs: https://natureshare.org.au/observations/5c0644a71779a4866a000028. My camera does not have that much magnification!'
+    ref: 5c08c3521779a4a86e00011b
+    name: Jeff Triplett
+    username: triplett
+  - created_at: '2018-12-06T08:40:28Z'
+    text: 'Not unlike Coleoptera: Chrysomelidae: Altica'
+    ref: 5c08e07c1779a4b034000119
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-12-06T08:55:03Z'
+    text: "Andrew' suggestion looks very good too. Arispoda sp. Might have to leave it as subfamily \r\nGalerucinae which could be added."
+    ref: 5c08e3e71779a46a2f00012c
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-12-06T09:09:10Z'
+    text: Galerucinae subfamiy added.
+    ref: 5c08e7361779a4b034000126
+    name: David Francis
+    username: david_francis
+  - replying_to: 5c08e3e71779a46a2f00012c
+    created_at: '2018-12-07T01:11:45Z'
+    text: 'Actually is misspelt it. The genus is Arsipoda. See: http://www.bowerbird.org.au/observations/25085 '
+    ref: 5c09c8d11779a4988a00014b
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 5c09c8d11779a4988a00014b
+    created_at: '2018-12-07T01:44:20Z'
+    text: Looks like a match.
+    ref: 5c09d0741779a43a6e000140
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - created_at: '2018-12-07T03:43:01Z'
+    text: 'Yes, I think Arsipoda sp. (Flea beetle) is a good match. I can see the jumping hind legs.  Arsipoda spp. added to db.'
+    ref: 5c09ec451779a46a2f000190
+    name: David Francis
+    username: david_francis
+collections:
+  - homerton_and_milltown_insects

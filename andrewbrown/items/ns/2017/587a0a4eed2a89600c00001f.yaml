@@ -1,0 +1,38 @@
+id:
+  - name: Doratifera casta
+    by: david_francis
+created_at: '2017-01-14T12:24:45Z'
+datetime: '2017-01-12T17:45:23+10:00'
+description: Small caterpillars eating Lemon-Scented gum leaves.
+elevation: 204.8
+latitude: -36.77842
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381503
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-01-17T02:56:58Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-01-12T17:45:23Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/587a0a7fed2a89d73e0002d4.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/587a0a7fed2a89d73e0002d4.jpeg'
+tags:
+  - caterpillars-green
+comments:
+  - created_at: '2017-01-15T02:14:10Z'
+    text: 'Doratifera casta, I think'
+    ref: 587adaf2ed2a89f46400253f
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-15T02:18:31Z'
+    text: 'Only two records for Vic on ALA, both in the Bendigo area. One recorded at Junortoun by a Sue Mills in Feb 2016. Interesting.'
+    ref: 587adbf7ed2a89f464002541
+    name: David Francis
+    username: david_francis
+collections:
+  - wildlife_of_junortoun
+  - moths_of_junortoun
+  - moths_of_central_victoria

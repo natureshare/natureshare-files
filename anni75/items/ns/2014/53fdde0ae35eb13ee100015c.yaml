@@ -1,0 +1,33 @@
+id:
+  - Macropus giganteus
+created_at: '2014-08-27T13:32:58Z'
+datetime: '2014-08-14T09:07:25+10:00'
+elevation: 380.2
+latitude: -37.263291
+location_name: 'Willowmavin VIC 3764, Australia'
+longitude: 144.857914
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-08-28T12:18:39Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-08-14T09:07:25Z'
+    height: 3000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53fdde0ae35eb13ee100015b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53fdde0ae35eb13ee100015b.JPG'
+comments:
+  - created_at: '2014-08-28T04:35:44Z'
+    text: 'Looks like a pair of male kangaroos. Any location for this one? No location means the records won''t be picked up by other databases like the Atlas of Living Australia, plus the lack of location means the records are of limited use in NatureShare. '
+    ref: 53feb1a0e35eb19d94000004
+    name: Russell Best
+    username: russell
+  - replying_to: 53feb1a0e35eb19d94000004
+    created_at: '2014-08-28T11:14:24Z'
+    text: 'Hi Russell. Thanks for letting me know about the location. Still getting used to loading details. I think I have rectified the situation. They are located at my property in Willowmavin. We have a handful of kangaroos that live between a few neighbouring properties. All seem to be large older males. '
+    ref: 53ff0f10e35eb19d94000035
+    name: Annemaree Docking
+    username: anni75
+collections:
+  - fauna_of_willowmavin

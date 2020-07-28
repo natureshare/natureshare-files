@@ -1,0 +1,33 @@
+id:
+  - Senecio picridioides
+created_at: '2016-01-01T03:05:16Z'
+datetime: '2015-12-29T15:15:06+10:00'
+latitude: -36.888528
+longitude: 142.384531
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-01-01T03:05:16Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-12-29T15:14:39Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5685ec74ed2a8983280000b7.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5685ec74ed2a8983280000b7.jpg'
+  - datetime: '2015-12-29T15:15:06Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5685eafeed2a8983280000a8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5685eafeed2a8983280000a8.jpg'
+  - datetime: '2015-12-29T15:15:38Z'
+    height: 3264
+    width: 4928
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5685eb59ed2a8983280000ac.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5685eb59ed2a8983280000ac.jpg'
+tags:
+  - fruit
+  - leaf
+collections:
+  - grampians_np_plants

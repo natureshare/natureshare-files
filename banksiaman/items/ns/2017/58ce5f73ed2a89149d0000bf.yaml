@@ -1,0 +1,33 @@
+id:
+  - name: Lathyrus spp.
+    by: david_francis
+created_at: '2017-03-19T10:38:21Z'
+datetime: '2017-03-13T12:18:21+10:00'
+latitude: -38.057073
+longitude: 141.918283
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-03-21T00:04:11Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-03-13T12:18:21Z'
+    height: 3631
+    width: 2351
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58ce5f80ed2a89e548000074.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce5f80ed2a89e548000074.JPG'
+tags:
+  - weed
+comments:
+  - created_at: '2017-03-20T00:57:09Z'
+    text: Not sure of species. More photos of leaves would assist.
+    ref: 58cf28e5ed2a896341000206
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-03-20T05:37:23Z'
+    text: This is all I took I'm afraid. Thanks for your help.
+    ref: 58cf6a93ed2a89304e000001
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - mt_eccles_np_plants

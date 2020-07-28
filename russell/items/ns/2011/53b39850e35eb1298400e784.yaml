@@ -1,0 +1,38 @@
+id:
+  - name: Hemicloea spp.
+    by: david_francis
+created_at: '2011-05-18T22:59:19Z'
+datetime: '2007-07-16T18:25:24+10:00'
+description: Flat Spider (flattie).
+latitude: -37.430881
+longitude: 144.654652
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2017-05-07T02:45:37Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2007-07-16T18:25:24Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ee35eb12984011b10.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b10.jpg'
+  - datetime: '2007-07-16T18:26:27Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ee35eb12984011b11.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b11.jpg'
+comments:
+  - created_at: '2015-03-15T03:33:54Z'
+    text: 'From Robert Whyte "I can''t tell Hemicloea (gnaphosidae) from one of the the other "flattie" families Trochaneriidae, except that Trochanteriids can glimb glass, Gnaphs can''t."'
+    ref: 5504fda2ed2a8994a9000333
+    name: Russell Best
+    username: russell
+  - created_at: '2017-05-06T23:56:02Z'
+    text: 'This looks more like Hemicloea, actually. '
+    ref: 590e6292ed2a89a55800000b
+    name: Robert Whyte
+    username: robertwhyte
+  - created_at: '2017-05-07T02:45:51Z'
+    text: id by RW - thanks
+    ref: 590e8a5fed2a893d8c002591
+    name: David Francis
+    username: david_francis
+collections:
+  - spiders_of_riddells_creek

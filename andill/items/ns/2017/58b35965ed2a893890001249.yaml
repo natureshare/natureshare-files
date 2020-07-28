@@ -1,0 +1,45 @@
+id:
+  - Dipodium spp.
+created_at: '2017-02-26T22:40:37Z'
+datetime: '2017-01-31T10:19:40+10:00'
+description: 'I suspect that these are Dipodium pardalinum X roseum.  Both grow in the area, they are fairly white with strong pink spots and have a mixture of spots and lines on the labellum.'
+latitude: -37.493687
+longitude: 144.547518
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-03-13T13:17:18Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-31T10:19:40Z'
+    height: 2048
+    width: 2048
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58b366bfed2a894410000014.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58b366bfed2a894410000014.jpg'
+  - datetime: '2017-01-31T10:19:10Z'
+    height: 2048
+    width: 2048
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58b366b9ed2a894410000013.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58b366b9ed2a894410000013.jpg'
+  - datetime: '2017-01-31T10:26:02Z'
+    height: 2048
+    width: 2048
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58b366d5ed2a894410000015.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58b366d5ed2a894410000015.jpg'
+  - datetime: '2017-01-31T10:18:11Z'
+    height: 2048
+    width: 1536
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58b366dced2a894410000016.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58b366dced2a894410000016.jpg'
+tags:
+  - flower
+  - orchid
+comments:
+  - created_at: '2017-03-01T12:24:14Z'
+    text: 'Yes, quite a blend of the features of the two species. Interesting.'
+    ref: 58b6bd6eed2a893890001c99
+    name: David Francis
+    username: david_francis
+collections:
+  - dipodium_pardalinum_distribution

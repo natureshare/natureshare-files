@@ -1,0 +1,31 @@
+id:
+  - Suta spp.
+created_at: '2017-02-05T03:01:11Z'
+datetime: '2016-07-11T15:50:59+10:00'
+description: 'Initial ID was Suta spectabilis based on location, but body colouration and pattern suggests Suta flagellum. Mid-body scale rows were not counted.'
+elevation: 28
+latitude: -34.204214
+location_name: 'Neds Corner VIC 3496, Australia'
+longitude: 141.33597
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: record-only
+updated_at: '2017-02-05T03:09:20Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-07-11T15:50:59Z'
+    height: 604
+    width: 800
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5790cb5aed2a89211c00027b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5790cb5aed2a89211c00027b.JPG'
+  - datetime: '2016-07-11T15:48:46Z'
+    height: 577
+    width: 800
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5790cb0fed2a890be7000263.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5790cb0fed2a890be7000263.JPG'
+tags:
+  - snake
+collections:
+  - neds_corner_reptiles

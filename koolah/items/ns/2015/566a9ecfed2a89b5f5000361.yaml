@@ -1,0 +1,31 @@
+id:
+  - Phaps elegans
+created_at: '2015-12-11T10:03:49Z'
+datetime: '2015-12-11T07:14:32+10:00'
+description: Pond visitor - image caught on motion sensitive camera
+latitude: -37.805234
+longitude: 144.297866
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-12-11T10:03:49Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-12-11T07:14:32Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/566a9edeed2a899c63000299.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/566a9edeed2a899c63000299.JPG'
+tags:
+  - bird
+  - grey-underparts
+  - rufous-backed
+comments:
+  - created_at: '2015-12-11T10:17:28Z'
+    text: 'Excellent observation. Not a bird that is commonly seen in the Brisbane Ranges with very few records. I spotted a pair on two occasions only in 2015 and this was on Butchers Track, Stieglitz. Well done. Please keep records of this species if it continues to visit the pond.'
+    ref: 566aa2b8ed2a89b5f5000368
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - brisbane_ranges_birds

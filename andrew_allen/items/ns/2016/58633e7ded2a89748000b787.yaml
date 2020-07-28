@@ -1,0 +1,36 @@
+id:
+  - Braconidae spp.
+created_at: '2016-12-28T04:26:00Z'
+datetime: '2016-12-28T14:15:00+10:00'
+description: Ichneumon?
+latitude: -37.728518
+longitude: 144.834458
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-12-28T11:34:09Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 2380
+    width: 3570
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58633e8aed2a89b3fe0002a4.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58633e8aed2a89b3fe0002a4.jpg'
+  - height: 2151
+    width: 1434
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58633e8ced2a89b7180002a4.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58633e8ced2a89b7180002a4.jpg'
+comments:
+  - created_at: '2016-12-28T10:12:01Z'
+    text: 'Braconid Wasp ? One of these? https://natureshare.org.au/observations?species=braconidae_spp'
+    ref: 58638ff1ed2a89748000b864
+    name: David Francis
+    username: david_francis
+  - replying_to: 58638ff1ed2a89748000b864
+    created_at: '2016-12-28T11:37:29Z'
+    text: 'Same as this one https://natureshare.org.au/observations/56dea989ed2a8972fb000298?species=braconidae_spp'
+    ref: 5863a3f9ed2a89748000b88e
+    name: Andrew Allen
+    username: andrew_allen
+collections:
+  - brimbank_park_insects_and_spiders

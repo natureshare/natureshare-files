@@ -1,0 +1,38 @@
+id:
+  - name: Fisera eribola
+    by: koolah
+created_at: '2018-04-18T12:40:33Z'
+datetime: '2018-04-12T20:22:57+10:00'
+elevation: 199.4
+latitude: -36.778256
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381049
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-04-18T12:40:39Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-04-12T20:22:57Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ad73c71ed2a8929e70000b4.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ad73c71ed2a8929e70000b4.JPG'
+tags:
+  - moth
+  - moth-brown
+comments:
+  - created_at: '2018-04-18T22:37:54Z'
+    text: <em>Fisera eribola</em> species id suggested
+    ref: 5ad7c8c2ed2a8994660056de
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2018-04-18T22:38:08Z'
+    text: Featured in Moths of Victoria Part 5
+    ref: 5ad7c8d0ed2a8994660056df
+    name: Cathy Powers
+    username: koolah
+collections:
+  - moths_of_junortoun
+  - moths_of_central_victoria

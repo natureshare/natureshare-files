@@ -1,0 +1,50 @@
+id:
+  - name: Larus dominicanus
+    by: david_francis
+created_at: '2016-01-31T00:00:52Z'
+datetime: '2016-01-23T15:00:45+10:00'
+elevation: 0.8
+latitude: -38.389795
+location_name: 'Victoria 3284, Australia'
+longitude: 142.249906
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-02-01T21:38:32Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-01-23T15:00:45Z'
+    height: 2172
+    width: 3258
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56ad4e6ded2a89b31c00004b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ad4e6ded2a89b31c00004b.JPG'
+  - datetime: '2016-01-23T15:00:01Z'
+    height: 2008
+    width: 3012
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56ad4e5eed2a89e050000055.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ad4e5eed2a89e050000055.JPG'
+comments:
+  - created_at: '2017-01-01T02:22:14Z'
+    text: Sorry people but this is not a Pacific Gull. Look at the slit nostril and the white tips to the primary feathers.
+    ref: 586867d6ed2a89748000c06c
+    name: Bruce Robertson
+    username: pacificgull
+  - replying_to: 586867d6ed2a89748000c06c
+    created_at: '2017-01-03T21:18:19Z'
+    text: Please suggest the correct name Bruce.
+    ref: 586c151bed2a89f464000424
+    name: Giorgio De Nola
+    username: giorgiod
+  - created_at: '2017-02-01T21:36:52Z'
+    text: 'Fits description of the Kelp Gull, Larus dominicanus as per Pizzey and Knight. (bill, leg colour, white feathers at tail)'
+    ref: 589254f4ed2a89d10f00224e
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-01T21:49:52Z'
+    text: 'Observed in the same area - see NS observation https://natureshare.org.au/observations/56f23a50ed2a89edf0000160?species=larus_dominicanus'
+    ref: 58925800ed2a89d10f00226d
+    name: David Francis
+    username: david_francis
+collections:
+  - birds_of_warrnambool_killarney_and_port_fairy

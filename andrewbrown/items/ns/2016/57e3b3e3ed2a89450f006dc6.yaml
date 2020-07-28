@@ -1,0 +1,41 @@
+id:
+  - Melichrus urceolatus
+created_at: '2016-09-24T07:19:08Z'
+datetime: '2016-09-20T10:05:02+10:00'
+elevation: 224.3
+latitude: -36.783512
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.374867
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2019-09-26T06:14:07Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-20T10:05:02Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e3b41ded2a892daf000073.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e3b41ded2a892daf000073.JPG'
+  - datetime: '2016-09-20T10:04:50Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e3b3f2ed2a89b3fe000067.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e3b3f2ed2a89b3fe000067.JPG'
+tags:
+  - bush
+comments:
+  - created_at: '2019-06-04T01:27:28Z'
+    text: 'I''m a bit late to the party, but I suggest this might be Urn Heath (Melichrus urceolatus).'
+    ref: 5cf5c90076a894579400000d
+    name: Lauren Fraser
+    username: lauren_fraser
+  - replying_to: 5cf5c90076a894579400000d
+    created_at: '2019-09-26T06:13:38Z'
+    text: 'Correct, thanks for picking the error up.'
+    ref: 5d8c5712cad3eb202400021d
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - junortoun_flora

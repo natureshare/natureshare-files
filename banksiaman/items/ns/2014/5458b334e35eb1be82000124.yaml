@@ -1,0 +1,30 @@
+id:
+  - Bromus spp.
+created_at: '2014-11-04T11:06:28Z'
+datetime: '2014-10-11T14:31:33+10:00'
+elevation: 42.1
+latitude: -38.359612
+location_name: 'Warrnambool VIC 3280, Australia'
+longitude: 142.529035
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-11-05T11:06:29Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-11T14:31:33Z'
+    height: 4288
+    width: 2848
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5458b334e35eb1be82000123.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5458b334e35eb1be82000123.jpg'
+tags:
+  - grass
+  - weed
+comments:
+  - created_at: '2014-11-04T20:34:56Z'
+    text: Bromus spp.
+    ref: 54593870e35eb13295000172
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - plants_of_tozer_reserve_near_warrnambool

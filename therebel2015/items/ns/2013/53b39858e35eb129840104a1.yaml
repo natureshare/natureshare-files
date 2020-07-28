@@ -1,0 +1,37 @@
+id:
+  - name: Fungi spp.
+    by: funkeytom
+created_at: '2013-09-07T22:42:34Z'
+datetime: '2013-08-24T13:00:42+10:00'
+description: 'Growing on decaying Silver wattle branch. '
+latitude: -37.280695
+longitude: 144.403675
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2016-07-12T13:19:48Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-08-24T13:00:42Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39868e35eb129840143b1.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143b1.jpg'
+comments:
+  - created_at: '2015-02-25T11:31:36Z'
+    text: '''Terana caerulea'' or a close relative. '
+    ref: 54edb298ed2a8927710000db
+    name: Mark Ridgway
+    username: argybee
+  - created_at: '2018-06-25T12:26:49Z'
+    text: Could be Hjortstamia crassa often on burnt wood.
+    ref: 5b30df89ed2a89a99300133e
+    name: zeke1944
+    username: zeke1944
+  - replying_to: 5b30df89ed2a89a99300133e
+    created_at: '2018-06-26T00:49:55Z'
+    text: Thanks zeke I hadn't heard of that one
+    ref: 5b318db3ed2a891205000013
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - plants_of_upper_coliban_reservoir_south_kyneton
+  - fungus_of_central_victoria

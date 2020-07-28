@@ -1,0 +1,45 @@
+id:
+  - Genduara subnotata
+created_at: '2015-10-27T11:13:45Z'
+datetime: '2015-10-19T19:57:33+10:00'
+latitude: -37.806485
+longitude: 144.297107
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-10-27T11:13:45Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-10-19T20:24:59Z'
+    height: 1617
+    width: 1680
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/562f5c0ded2a899c6300006d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/562f5c0ded2a899c6300006d.JPG'
+  - datetime: '2015-10-19T19:57:33Z'
+    height: 1294
+    width: 1860
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/562f5c04ed2a899c6300006c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/562f5c04ed2a899c6300006c.JPG'
+tags:
+  - black
+  - moth
+  - wings
+comments:
+  - created_at: '2015-10-27T23:26:46Z'
+    text: Such an unusual looking moth.
+    ref: 56300836ed2a8960f6000036
+    name: Suzanne Jones
+    username: suzanne
+  - created_at: '2015-10-31T11:54:31Z'
+    text: 'That''s a real beauty and your shots are just great, Cathy !'
+    ref: 5634abf7ed2a89e56e00019c
+    name: Leuba Ridgway
+    username: leuba
+  - created_at: '2015-10-31T12:09:38Z'
+    text: I'll swap one of these for one hippie shirt moth.
+    ref: 5634af82ed2a89e56e0001a1
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - brisbane_ranges_moths

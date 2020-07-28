@@ -1,0 +1,50 @@
+created_at: '2017-10-17T09:45:03Z'
+datetime: '2017-10-14T12:02:29+10:00'
+description: 'On Benwerrin Walk, Mt Richmond. Location approximate.'
+elevation: 187.4
+latitude: -38.270606
+location_name: 'Mount Richmond VIC 3305, Australia'
+longitude: 141.420261
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-10-17T09:45:34Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-14T12:02:29Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59e5cfd2ed2a8939840004f8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59e5cfd2ed2a8939840004f8.jpg'
+comments:
+  - created_at: '2017-10-17T21:21:04Z'
+    text: I can't see the eye but I think it's a Buff-rumpled Thornbill
+    ref: 59e67440ed2a892d40006373
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 59e67440ed2a892d40006373
+    created_at: '2017-10-18T22:31:33Z'
+    text: 'I don''t believe it''s a thornbill. The bill and legs are too robust.  The overall buff colour, including the whole dorsal surface of the tail, suggests to be that it might be a juvenile Chestnut-rumped Heathwren.'
+    ref: 59e7d645ed2a892d4000682d
+    name: Lawrie Conole
+    username: lconole
+  - replying_to: 59e67440ed2a892d40006373
+    created_at: '2017-10-18T22:32:46Z'
+    text: '"suggests to _me_" is what I meant to write!'
+    ref: 59e7d68eed2a892d40006837
+    name: Lawrie Conole
+    username: lconole
+  - replying_to: 59e7d645ed2a892d4000682d
+    created_at: '2017-10-19T03:27:28Z'
+    text: I sent the image to a few birding friends and they said that this is a Brown Thornbill. If you lighten up the image you will see the streaks on the breast and the scalloped forehead.
+    ref: 59e81ba0ed2a892d400069d9
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 59e81ba0ed2a892d400069d9
+    created_at: '2017-10-23T03:20:56Z'
+    text: That's fine. I'm happy to defer to those who've had a closer look.  Don't have the facility to change the image parameters right now!
+    ref: 59ed6018ed2a892d40007b9c
+    name: Lawrie Conole
+    username: lconole

@@ -1,0 +1,60 @@
+id:
+  - name: Gryllacrididae spp.
+    by: david_francis
+  - Hyalogryllacris spp.
+created_at: '2017-12-16T10:36:05Z'
+datetime: '2017-12-13T22:16:09+10:00'
+description: Help with ID would be greatly appreciated.
+elevation: 260.8
+latitude: -37.806577
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297016
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-12-18T10:55:48Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-12-13T22:16:09Z'
+    height: 964
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a34f6a9ed2a893fb7000032.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a34f6a9ed2a893fb7000032.jpg'
+tags:
+  - insect
+comments:
+  - created_at: '2017-12-16T13:25:49Z'
+    text: 'See http://www.brisbaneinsects.com/brisbane_crickets/SpiderFaceCricket.htm'
+    ref: 5a351edded2a896262001e64
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-12-16T13:32:29Z'
+    text: <em>Gryllacrididae spp.</em> species id suggested
+    ref: 5a35206ded2a896262001e68
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-12-17T02:59:10Z'
+    text: Checked with Ken Walker (Museums Victoria) and he advised that  it looks like one of the many undescribed Hyalogryllacris species.  My thanks to Ken.
+    ref: 5a35dd7eed2a896262002010
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2017-12-17T08:15:07Z'
+    text: And David Rentz.
+    ref: 5a36278bed2a896262002126
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2017-12-17T21:28:49Z'
+    text: 'Hyalogryllacris sp(p). added to the database if you want to use it, Cathy.'
+    ref: 5a36e191ed2a89626200233c
+    name: David Francis
+    username: david_francis
+  - replying_to: 5a36e191ed2a89626200233c
+    created_at: '2017-12-17T21:40:44Z'
+    text: Thanks David - will do.
+    ref: 5a36e45ced2a896262002352
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brisbane_ranges_insects

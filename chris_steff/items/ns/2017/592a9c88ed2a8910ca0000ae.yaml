@@ -1,0 +1,34 @@
+created_at: '2017-05-28T09:52:15Z'
+datetime: '2017-05-28T17:25:15+10:00'
+description: One of a few grand old gums twisting next to Bolobek lake.
+elevation: 455.4
+latitude: -37.423838
+location_name: 'Macedon VIC, Australia'
+longitude: 144.587984
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-05-28T11:50:45Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-05-28T17:25:15Z'
+    height: 2592
+    width: 3888
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/592a9c90ed2a89441000014e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592a9c90ed2a89441000014e.JPG'
+comments:
+  - created_at: '2017-05-28T11:01:49Z'
+    text: Did you see the buds or fruit? E. camaldulensis not previously recorded for the Macedon Ranges. It looks similar to the ancient Eucalyptus viminalis (Manna Gums) along the Barringo Creek and in the Barringo picnic ground.
+    ref: 592aae1ded2a8993d100035b
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-05-28T11:46:55Z'
+    text: Yes you are right it may be a viminalis. I was looking for birds so didn't have a close look at the leaves or buds here. I'll head back to clarify
+    ref: 592ab8afed2a8993d100037e
+    name: Chris Steffanoni
+    username: chris_steff
+collections:
+  - macedon_regional_park_environs_native_plants
+  - macedon_ranges_native_plants
+  - significant_indigenous_trees_in_the_macedon_ranges_shire

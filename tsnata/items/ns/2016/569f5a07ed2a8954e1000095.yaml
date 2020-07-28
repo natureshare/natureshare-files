@@ -1,0 +1,27 @@
+id:
+  - Psephotus haematonotus
+created_at: '2016-01-20T10:06:45Z'
+datetime: '2016-01-09T10:21:54+10:00'
+description: An adult male with two juveniles.
+elevation: 10.9
+latitude: -37.784231
+location_name: 'Parkville VIC, Australia'
+longitude: 144.943617
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-01-20T10:06:45Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-01-09T10:21:54Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/569f5a15ed2a89e050000021.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/569f5a15ed2a89e050000021.jpg'
+tags:
+  - juvenile
+  - male-adult
+collections:
+  - royal_park_parkville

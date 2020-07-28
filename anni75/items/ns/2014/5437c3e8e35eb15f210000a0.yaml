@@ -1,0 +1,29 @@
+id:
+  - name: Pisolithus spp.
+    by: funkeytom
+created_at: '2014-10-10T11:32:56Z'
+datetime: '2014-10-05T10:38:17+10:00'
+description: Horse Dung Fungus? Pisolithus arhizus
+elevation: 237.5
+latitude: -37.220308
+location_name: 'Broadford VIC 3658, Australia'
+longitude: 145.041921
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-07-19T05:14:36Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-05T10:38:17Z'
+    height: 3000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5437c3e7e35eb15f2100009f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5437c3e7e35eb15f2100009f.JPG'
+comments:
+  - created_at: '2015-07-19T05:16:13Z'
+    text: 'This is certainly Pisolithus, but there are a number of native species, that can be difficult to tell apart. Pisolithus arihzus is a northern hemisphere species that does not occur in Australia, although the name, along with Pisolithus tinctorius, has been applied incorrectly to Australian material in the past.'
+    ref: 55ab329ded2a89158b0006d9
+    name: Tom May
+    username: funkeytom
+collections:
+  - colin_officer_flora_reserve_spring_2014

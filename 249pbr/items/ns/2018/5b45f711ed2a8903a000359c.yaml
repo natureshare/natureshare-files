@@ -1,0 +1,29 @@
+id:
+  - Discinella terrestris
+created_at: '2018-07-11T12:29:45Z'
+datetime: '2018-06-11T12:06:00+10:00'
+description: 'This species was known as Discinella terrestris, however it has been changed on ALA to Phaeohelotium baileyanum. Could the database please be updated.'
+elevation: 615.7
+latitude: -37.47864
+location_name: 'Blackwood VIC 3458, Australia'
+longitude: 144.290958
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-07-12T01:26:05Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-06-11T12:06:00Z'
+    height: 1614
+    width: 2196
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b45f717ed2a89402b000043.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b45f717ed2a89402b000043.jpg'
+comments:
+  - created_at: '2018-07-11T20:31:17Z'
+    text: Database updated
+    ref: 5b466915ed2a8903a0003669
+    name: Cathy Powers
+    username: koolah
+collections:
+  - wombat_forest_-_fungi

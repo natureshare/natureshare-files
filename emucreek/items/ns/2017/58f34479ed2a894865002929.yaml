@@ -1,0 +1,29 @@
+created_at: '2017-04-16T10:20:20Z'
+datetime: '2015-08-31T20:31:32+10:00'
+description: poor photos of a ant
+elevation: 285.3
+latitude: -37.52632
+location_name: 'Sunbury VIC 3429, Australia'
+longitude: 144.765182
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-04-16T10:20:20Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-08-31T20:31:32Z'
+    height: 2336
+    width: 3504
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58f3447fed2a8944100000dd.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58f3447fed2a8944100000dd.JPG'
+  - datetime: '2015-08-31T20:33:39Z'
+    height: 2336
+    width: 3504
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58f3448bed2a89a81f0000d4.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58f3448bed2a89a81f0000d4.JPG'
+comments:
+  - created_at: '2017-04-17T06:03:06Z'
+    text: I wonder if this could be an ant-mimicking spider (Myrmarachne species). White spots at front could be jaws. Front legs could be mimicking antennae.
+    ref: 58f45a9aed2a899de4000002
+    name: David Francis
+    username: david_francis

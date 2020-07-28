@@ -1,0 +1,28 @@
+id:
+  - Hirundo ariel
+created_at: '2015-11-07T08:44:42Z'
+datetime: '2015-04-13T10:53:23+10:00'
+elevation: 3.3
+latitude: -37.999978
+location_name: 'Cocoroc VIC, Australia'
+longitude: 144.633866
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-02-11T12:03:37Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-04-13T10:53:23Z'
+    height: 639
+    width: 1000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/563db98eed2a899c6300012b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/563db98eed2a899c6300012b.jpg'
+comments:
+  - created_at: '2015-11-10T09:32:07Z'
+    text: Wonderful crisp photo.
+    ref: 5641b997ed2a89e56e000779
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - birds_of_the_western_treatment_plant_werribee

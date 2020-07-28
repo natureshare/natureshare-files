@@ -1,0 +1,31 @@
+id:
+  - name: Braconidae spp.
+    by: david_francis
+created_at: '2016-03-08T10:25:53Z'
+datetime: '2016-03-04T15:55:50+10:00'
+description: This insect has orange thorax. (March 2016)
+elevation: 34.1
+latitude: -38.684624
+location_name: 'Grey River VIC 3234, Australia'
+longitude: 143.838186
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-03-09T06:50:15Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-03-04T15:55:50Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56dea676ed2a890be70000d8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56dea676ed2a890be70000d8.jpg'
+comments:
+  - created_at: '2016-10-09T05:18:25Z'
+    text: <em>Braconidae spp.</em> species id suggested
+    ref: 57f9d321ed2a89450f0092aa
+    name: David Francis
+    username: david_francis
+collections:
+  - grey_river

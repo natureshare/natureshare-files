@@ -1,0 +1,52 @@
+id:
+  - Eucalyptus goniocalyx s.l.
+created_at: '2016-09-24T03:32:14Z'
+datetime: '2016-09-25T09:46:33+10:00'
+description: 'New growth on eucalypt, maybe a mallee? Mature trees 2nd pic. Juvenile leaves 3rd pic added.'
+elevation: 227
+latitude: -36.784302
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.371606
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-03-07T09:12:00Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-10T09:41:02Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57de9753ed2a89d73e00004d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57de9753ed2a89d73e00004d.JPG'
+  - datetime: '2016-09-20T09:07:55Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e5f3eded2a89b71800007f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e5f3eded2a89b71800007f.JPG'
+  - datetime: '2016-09-25T09:46:33Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e9e295ed2a892daf0000c2.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e9e295ed2a892daf0000c2.JPG'
+tags:
+  - young-leaf
+comments:
+  - created_at: '2016-09-24T07:06:18Z'
+    text: 'Has the general look of Eucalyptus dives but need to see buds, fruits, juvenile leaves.'
+    ref: 57e625eaed2a89450f00720d
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-09-27T03:08:25Z'
+    text: I've added a photo of the juvenile leaves.
+    ref: 57e9e2a9ed2a89450f007839
+    name: Andrew Brown
+    username: andrewbrown
+  - created_at: '2016-09-27T06:27:54Z'
+    text: 'Juvenile leaves reminiscent of E. cephalocarpa, not E. dives. Need photos of buds, fruits (nuts) for a positive id.'
+    ref: 57ea116aed2a89450f007861
+    name: David Francis
+    username: david_francis
+collections:
+  - junortoun_flora

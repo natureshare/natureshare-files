@@ -1,0 +1,36 @@
+id:
+  - Lepidosperma carphoides
+created_at: '2018-10-12T21:39:36Z'
+datetime: '2018-09-22T10:32:06+10:00'
+description: Lepidosperma carphoides?
+elevation: 378.5
+latitude: -37.617519
+location_name: 'Dunkeld VIC 3294, Australia'
+longitude: 142.334945
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-10-13T10:26:49Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-09-22T10:32:06Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bc11432ed2a89402b0000fd.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bc11432ed2a89402b0000fd.jpg'
+  - datetime: '2018-09-22T10:31:44Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bc1146aed2a89402b0000fe.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bc1146aed2a89402b0000fe.jpg'
+comments:
+  - created_at: '2018-10-13T09:54:44Z'
+    text: 'Yes, looks like Lepidospermum carphioides and known at that location.'
+    ref: 5bc1c0e4ed2a89c10e003ec8
+    name: David Francis
+    username: david_francis
+collections:
+  - grampians_np_plants
+  - flora_and_fauna_of_the_grampians

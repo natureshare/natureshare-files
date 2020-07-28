@@ -1,0 +1,27 @@
+id:
+  - Sambucus gaudichaudiana
+created_at: '2017-02-05T10:10:06Z'
+datetime: '2017-01-19T16:10:17+10:00'
+elevation: 87.3
+latitude: -38.67813
+location_name: 'Grey River VIC 3234, Australia'
+longitude: 143.83048
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-02-05T10:10:06Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-19T16:10:17Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5896f8afed2a89b718000386.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5896f8afed2a89b718000386.jpg'
+  - datetime: '2017-01-19T16:10:47Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5896f8d1ed2a89b3fe000382.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5896f8d1ed2a89b3fe000382.jpg'
+collections:
+  - grey_river

@@ -1,0 +1,44 @@
+id:
+  - Ptyoptila matutinella
+created_at: '2016-01-02T12:05:27Z'
+datetime: '2015-12-30T23:27:00+10:00'
+description: Oecophoridae; Wingia (10) Ptyoptila matutinella (12mm long?)
+elevation: 180.3
+latitude: -37.899985
+location_name: 'Upper Ferntree Gully VIC 3156, Australia'
+longitude: 145.311633
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: true
+updated_at: '2016-01-03T04:44:34Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-12-30T11:28:06Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5687bc13ed2a8983280000bd.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5687bc13ed2a8983280000bd.JPG'
+  - datetime: '2015-12-30T11:27:39Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5687bc0aed2a8983280000bc.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5687bc0aed2a8983280000bc.JPG'
+  - datetime: '2015-12-30T11:28:14Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5687bc1bed2a8983280000be.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5687bc1bed2a8983280000be.JPG'
+  - datetime: '2015-12-30T11:27:48Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5687bc25ed2a8983280000bf.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5687bc25ed2a8983280000bf.JPG'
+comments:
+  - created_at: '2016-01-02T22:15:29Z'
+    text: Thanks. Now added.
+    ref: 56884c01ed2a899837000182
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - dandenong_ranges_lepidoptera

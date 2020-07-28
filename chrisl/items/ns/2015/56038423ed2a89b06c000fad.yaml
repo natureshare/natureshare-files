@@ -1,0 +1,39 @@
+id:
+  - Sarcozona praecox
+created_at: '2015-09-24T05:03:31Z'
+datetime: '2015-09-10T12:48:57+10:00'
+description: 'Differentiate from co-existing Noon-flower by triangular cross-section of leaves, paler leaves that are often red-tinged, and flowers that do not ascend above leaves (in Noon-flower flowers sit above leaves).'
+latitude: -34.129805
+longitude: 141.290531
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-09-24T05:40:06Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-09-10T12:48:57Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56038451ed2a890d9500024a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56038451ed2a890d9500024a.jpg'
+  - datetime: '2015-09-10T12:49:13Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560384eeed2a890d95000250.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560384eeed2a890d95000250.jpg'
+  - datetime: '2015-09-10T12:49:22Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560386a0ed2a890d95000257.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560386a0ed2a890d95000257.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2015-09-25T00:21:45Z'
+    text: 'Thanks for your ''description'' information.  I had always thought that Carpobrotus had the triangular leaves, but the information that the flowers never sit above the foliage in Sarcozona is very enlightening.  Thanks.'
+    ref: 56049399ed2a89b06c00103d
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - neds_corner_plants

@@ -1,0 +1,37 @@
+id:
+  - Petaurus breviceps
+created_at: '2015-12-20T07:47:52Z'
+datetime: '2015-12-20T04:04:52+10:00'
+description: My first sugar glider to visit the watering pond.
+latitude: -37.805234
+longitude: 144.297866
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-12-20T07:47:52Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-12-20T04:04:52Z'
+    height: 1189
+    width: 1687
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56765ce4ed2a898328000029.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56765ce4ed2a898328000029.JPG'
+tags:
+  - glider
+  - possum
+comments:
+  - created_at: '2015-12-20T10:33:56Z'
+    text: This is great to see Cathy.
+    ref: 56768414ed2a89d6d60002b1
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2015-12-23T07:03:02Z'
+    text: "Exciting!!!!\r\n"
+    ref: 567a4726ed2a89d6d60003de
+    name: Gill Best
+    username: gill
+collections:
+  - brisbane_ranges_mammals
+videos:
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/video/20151220/1450597569088-p0vzcu326y-c1b5c09ad4644836a2d1f07e040522ce/EK000015.mp4'

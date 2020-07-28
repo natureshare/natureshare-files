@@ -1,0 +1,41 @@
+id:
+  - name: Oenosandra boisduvalii
+    by: argybee
+created_at: '2015-03-13T16:07:26Z'
+datetime: '2015-03-14T02:34:21+10:00'
+latitude: -37.431072
+longitude: 144.654221
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-03-15T02:32:40Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-03-14T02:34:21Z'
+    height: 1507
+    width: 1106
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55030b3ded2a8974d3000380.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55030b3ded2a8974d3000380.jpg'
+  - datetime: '2015-03-14T02:51:35Z'
+    height: 1303
+    width: 1472
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55030b3ded2a8974d3000381.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55030b3ded2a8974d3000381.jpg'
+tags:
+  - male
+  - underside
+  - upperside
+comments:
+  - created_at: '2015-03-14T00:58:25Z'
+    text: Oenosandra boisduvalii
+    ref: 550387b1ed2a8974d30003aa
+    name: Mark Ridgway
+    username: argybee
+  - replying_to: 550387b1ed2a8974d30003aa
+    created_at: '2015-03-14T15:34:49Z'
+    text: Thanks Mark. Looks spot on for a male. Would you edit the observation and change the species name for me please? Then you get the credit for the ID. That's the way it should be. Cheers.
+    ref: 55045519ed2a8974d3000412
+    name: Russell Best
+    username: russell
+collections:
+  - moths_of_riddells_creek

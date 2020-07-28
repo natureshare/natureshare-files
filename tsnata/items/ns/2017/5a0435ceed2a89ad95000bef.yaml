@@ -1,0 +1,30 @@
+id:
+  - name: Tetratheca ciliata
+    by: 249pbr
+created_at: '2017-11-09T11:04:56Z'
+datetime: '2017-10-14T11:55:03+10:00'
+elevation: 193.3
+latitude: -38.27052
+location_name: 'Mount Richmond VIC 3305, Australia'
+longitude: 141.41926
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-11-09T11:08:32Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-14T11:55:03Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a0435daed2a893984000649.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a0435daed2a893984000649.jpg'
+comments:
+  - created_at: '2017-11-09T11:37:23Z'
+    text: <em>Tetratheca ciliata</em> species id suggested
+    ref: 5a043df3ed2a89743400003c
+    name: John Walter
+    username: 249pbr
+collections:
+  - mt_richmond_np_plants

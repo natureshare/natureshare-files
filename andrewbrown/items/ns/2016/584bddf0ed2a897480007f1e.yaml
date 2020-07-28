@@ -1,0 +1,39 @@
+id:
+  - Allium vineale
+created_at: '2016-12-10T11:26:48Z'
+datetime: '2016-12-10T09:41:50+10:00'
+description: Unusual flower buds?
+elevation: 221.5
+latitude: -36.781931
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.365855
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-12-11T11:29:07Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-12-10T09:41:50Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584bdd3fed2a89b718000230.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584bdd3fed2a89b718000230.jpeg'
+  - datetime: '2016-12-10T09:40:27Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584bddfbed2a892daf00025f.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584bddfbed2a892daf00025f.jpeg'
+  - datetime: '2016-12-10T09:40:00Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584bde02ed2a89b3fe000240.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584bde02ed2a89b3fe000240.jpeg'
+comments:
+  - created_at: '2016-12-10T13:38:28Z'
+    text: 'Try Allium vinealis, Crow Garlic, spreads from bulbils shown in your photo. A weed.'
+    ref: 584c0554ed2a897480007fcc
+    name: David Francis
+    username: david_francis
+collections:
+  - junortoun_flora

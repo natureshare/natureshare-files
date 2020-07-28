@@ -1,0 +1,34 @@
+id:
+  - Enchocrates picrophylla
+created_at: '2016-01-24T12:23:50Z'
+datetime: '2013-05-10T20:55:24+10:00'
+latitude: -37.902248
+longitude: 144.222855
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-01-25T23:13:23Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-05-10T20:55:24Z'
+    height: 3525
+    width: 2350
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a4bec7ed2a89e050000039.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a4bec7ed2a89e050000039.jpg'
+tags:
+  - adult
+comments:
+  - created_at: '2016-12-28T11:21:31Z'
+    text: 'I have incorporated Chris'' photo in a webpage about this species at http://lepidoptera.butterflyhouse.com.au/depr/picrophylla.html, so Chris: I hope you like it.'
+    ref: 5863a03bed2a89748000b881
+    name: Don Herbison-Evans
+    username: donhe
+  - created_at: '2016-12-28T23:14:54Z'
+    text: Happy to assist.
+    ref: 5864476eed2a89748000b97b
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - brisbane_ranges_moths
+  - moths_of_jollys_road_anakie

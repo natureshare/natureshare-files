@@ -1,0 +1,45 @@
+id:
+  - Sypharochiton pelliserpentis
+created_at: '2018-03-30T05:28:06Z'
+datetime: '2018-03-22T15:51:36+10:00'
+description: "A mollusc with a flattened body and eight distinctive overlapping plates that protect them from predators and crashing waves. This chiton was grey-green in colour, about 63 mm x 35 mm. The girdle encircling the plates had a snake-skin like appearance giving it the common name \"snakeskin chiton\".\r\nThese chitons were found along with barnacles, attached to the side of a rock in an intertidal rocky shore (Cape Conran) off the south coast of Victoria facing the Bass Strait. \r\nThis species is said to prefer rock surfaces in the mid-tide region, rather than under rocks in lower -or sub-tidal zones. \r\n"
+elevation: 18.8
+latitude: -37.798165
+location_name: 'Cape Conran VIC 3888, Australia'
+longitude: 148.741518
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-05-28T05:23:40Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-03-22T15:51:36Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5abdc877ed2a8929e7000060.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5abdc877ed2a8929e7000060.jpg'
+  - datetime: '2018-03-22T15:51:36Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5abdc8a2ed2a8929e7000061.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5abdc8a2ed2a8929e7000061.jpg'
+comments:
+  - created_at: '2018-03-30T10:08:09Z'
+    text: Sypharochiton pelliserpentis added to the db.
+    ref: 5abe0c89ed2a896baf0089f8
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-03-30T10:17:23Z'
+    text: 'Barnacle family, Synagogidae also added.'
+    ref: 5abe0eb3ed2a89083d000099
+    name: David Francis
+    username: david_francis
+  - replying_to: 5abe0eb3ed2a89083d000099
+    created_at: '2018-03-30T11:05:19Z'
+    text: Thank you David.
+    ref: 5abe19efed2a896baf008a5f
+    name: Leuba Ridgway
+    username: leuba
+collections:
+  - littoral_zones

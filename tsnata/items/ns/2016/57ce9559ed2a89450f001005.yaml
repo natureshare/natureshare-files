@@ -1,0 +1,35 @@
+id:
+  - Daphoenositta chrysoptera
+created_at: '2016-09-06T10:13:13Z'
+datetime: '2016-09-03T16:55:55+10:00'
+description: Varied Sittella ?
+elevation: 125.1
+latitude: -38.420673
+location_name: 'Grantville VIC 3984, Australia'
+longitude: 145.545671
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-09-14T07:16:31Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-03T16:55:55Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57ce9571ed2a89b71800001c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57ce9571ed2a89b71800001c.JPG'
+comments:
+  - created_at: '2016-09-11T12:23:44Z'
+    text: <em>Daphoenositta chrysoptera</em> species id suggested
+    ref: 57d54cd0ed2a89450f001329
+    name: Chris Clarke
+    username: cclarke
+  - created_at: '2016-09-11T12:26:26Z'
+    text: 'Looks a perfect match Thomas - slight upturn to beak, eye colour, grey/darker streaks on upperparts! Good catch'
+    ref: 57d54d72ed2a89450f00132b
+    name: Chris Clarke
+    username: cclarke
+collections:
+  - grantville_lodge

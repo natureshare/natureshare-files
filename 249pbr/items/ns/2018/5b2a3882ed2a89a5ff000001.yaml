@@ -1,0 +1,39 @@
+id:
+  - Calostoma fuscum
+created_at: '2018-06-20T11:23:28Z'
+datetime: '2011-04-09T09:46:42+10:00'
+description: Three images
+elevation: 642.2
+latitude: -37.340915
+location_name: 'Wheatsheaf VIC 3461, Australia'
+longitude: 144.259785
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-06-21T00:03:39Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2011-04-09T09:46:42Z'
+    height: 1626
+    width: 2163
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b2a3886ed2a89b04700002d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2a3886ed2a89b04700002d.jpg'
+  - datetime: '2011-04-09T09:45:21Z'
+    height: 1167
+    width: 1731
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b2a3886ed2a89d0e7000048.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2a3886ed2a89d0e7000048.jpg'
+  - datetime: '2011-04-09T09:43:20Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b2a3886ed2a89e822000032.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2a3886ed2a89e822000032.jpg'
+comments:
+  - created_at: '2018-06-21T00:03:55Z'
+    text: They look like little Mangosteens!  Fantastic.
+    ref: 5b2aeb6bed2a8978590058b4
+    name: Lawrie Conole
+    username: lconole
+collections:
+  - wombat_forest_-_fungi

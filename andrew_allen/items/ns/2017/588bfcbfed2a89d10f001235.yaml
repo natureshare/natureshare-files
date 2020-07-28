@@ -1,0 +1,32 @@
+id:
+  - name: Acropolitis excelsa
+    by: koolah
+created_at: '2017-01-28T02:08:25Z'
+datetime: '2017-01-28T11:15:00+10:00'
+description: 'Similar to this one? https://natureshare.org.au/observations/5872fd1aed2a89f464001336?collection_id=585e00cded2a89748000ace8'
+latitude: -37.728518
+longitude: 144.834458
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-01-28T02:08:53Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 2801
+    width: 1867
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588bfcc6ed2a89b718000353.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588bfcc6ed2a89b718000353.jpg'
+comments:
+  - created_at: '2017-01-28T04:52:25Z'
+    text: <em>Acropolitis excelsa</em> species id suggested
+    ref: 588c2389ed2a89d10f00131e
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 588c2389ed2a89d10f00131e
+    created_at: '2017-01-28T13:28:15Z'
+    text: Thanks Cathy
+    ref: 588c9c6fed2a89d10f001513
+    name: Andrew Allen
+    username: andrew_allen
+collections:
+  - brimbank_park_insects_and_spiders

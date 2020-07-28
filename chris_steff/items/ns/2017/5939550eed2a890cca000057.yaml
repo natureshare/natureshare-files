@@ -1,0 +1,28 @@
+id:
+  - Microcarbo melanoleucos
+created_at: '2017-06-10T06:08:06Z'
+datetime: '2017-05-30T12:31:43+10:00'
+description: A single Microcarbo melanoleucos by the main lake at Bolobek
+elevation: 456
+latitude: -37.423054
+location_name: 'Macedon VIC, Australia'
+longitude: 144.587641
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-06-10T06:08:06Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-05-30T12:31:43Z'
+    height: 2592
+    width: 3888
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5939551bed2a893984000040.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5939551bed2a893984000040.JPG'
+  - datetime: '2017-05-30T12:33:14Z'
+    height: 2592
+    width: 3888
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59395551ed2a893984000041.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59395551ed2a893984000041.JPG'
+collections:
+  - birds_of_the_macedon_ranges

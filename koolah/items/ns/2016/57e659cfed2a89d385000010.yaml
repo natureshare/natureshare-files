@@ -1,0 +1,30 @@
+id:
+  - Hippotion scrofa
+created_at: '2016-09-24T10:49:58Z'
+datetime: '2016-09-23T22:37:13+10:00'
+description: 'This moth bounced around and then landed upside down.  It remained that way long enough for me to get a photo, then righted itself and flew away.'
+latitude: -37.806577
+longitude: 144.297098
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-09-24T10:49:58Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-23T22:37:13Z'
+    height: 1753
+    width: 2127
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e659dded2a89d73e000082.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e659dded2a89d73e000082.jpg'
+  - datetime: '2016-09-23T22:39:06Z'
+    height: 2108
+    width: 2385
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e659e2ed2a892daf00009f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e659e2ed2a892daf00009f.jpg'
+tags:
+  - brown
+  - moth
+collections:
+  - brisbane_ranges_moths

@@ -1,0 +1,29 @@
+id:
+  - Platycercus elegans elegans
+created_at: '2016-10-21T10:40:31Z'
+datetime: '2016-10-19T18:06:54+10:00'
+elevation: 13
+latitude: -38.082642
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086923
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-10-21T10:43:31Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-10-19T18:06:54Z'
+    height: 2432
+    width: 3648
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5809f011ed2a892daf000159.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5809f011ed2a892daf000159.JPG'
+tags:
+  - bird
+comments:
+  - created_at: '2016-10-21T10:56:21Z'
+    text: What a beautiful photo!
+    ref: 5809f455ed2a8974800001b2
+    name: David Francis
+    username: david_francis
+collections:
+  - birds_seen_at_145_gibsons_road_cobains

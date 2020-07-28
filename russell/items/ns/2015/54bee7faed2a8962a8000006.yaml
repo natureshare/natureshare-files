@@ -1,0 +1,46 @@
+id:
+  - Senecio biserratus
+created_at: '2015-01-20T23:42:50Z'
+datetime: '2014-12-08T16:10:11+10:00'
+elevation: 81.1
+latitude: -39.02041
+location_name: 'Victoria 3960, Australia'
+longitude: 146.322316
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-01-20T23:50:01Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-12-08T16:10:11Z'
+    height: 2610
+    width: 1527
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54bee7f9ed2a8962a8000001.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54bee7f9ed2a8962a8000001.jpg'
+  - datetime: '2014-12-08T16:21:34Z'
+    height: 2086
+    width: 1643
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54bee7f9ed2a8962a8000002.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54bee7f9ed2a8962a8000002.jpg'
+  - datetime: '2014-12-08T16:21:42Z'
+    height: 2808
+    width: 1580
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54bee7f9ed2a8962a8000003.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54bee7f9ed2a8962a8000003.jpg'
+  - datetime: '2014-12-08T16:10:27Z'
+    height: 2189
+    width: 2316
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54bee7f9ed2a8962a8000004.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54bee7f9ed2a8962a8000004.jpg'
+tags:
+  - flower
+  - fruit
+  - leaf
+comments:
+  - created_at: '2015-01-20T23:48:04Z'
+    text: 'Location approximate, to 200m. ID confirmed by Ian Thompson.'
+    ref: 54bee934ed2a8962a8000007
+    name: Russell Best
+    username: russell
+collections:
+  - wilsons_prom_np_plants

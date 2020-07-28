@@ -1,0 +1,35 @@
+id:
+  - Circus approximans
+created_at: '2016-01-14T09:13:37Z'
+datetime: '2015-08-25T16:09:43+10:00'
+elevation: 60.6
+latitude: -38.316539
+location_name: 'Tower Hill VIC 3283, Australia'
+longitude: 142.360494
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-01-18T12:52:08Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-08-25T16:09:43Z'
+    height: 1443
+    width: 2073
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5697aa72ed2a89e050000001.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5697aa72ed2a89e050000001.jpg'
+  - datetime: '2015-08-25T16:09:47Z'
+    height: 1982
+    width: 2856
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56976673ed2a891f76000002.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56976673ed2a891f76000002.JPG'
+tags:
+  - bird
+comments:
+  - created_at: '2016-01-14T14:06:20Z'
+    text: 'Hi Pauline, amazing photos! Ive merged these two observations together, assuming they are both of the same bird?'
+    ref: 5697ab5ced2a89c2cc000008
+    name: 'Reilly '
+    username: reilly
+collections:
+  - flora_and_fauna_of_tower_hill_reserve

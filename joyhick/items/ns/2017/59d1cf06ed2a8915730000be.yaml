@@ -1,0 +1,29 @@
+created_at: '2017-10-02T06:38:10Z'
+datetime: '2017-10-02T12:23:39+10:00'
+latitude: -36.393833
+longitude: 143.655503
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2017-10-02T06:38:10Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-10-02T12:23:39Z'
+    height: 2048
+    width: 1536
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59d1cf10ed2a893984000399.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59d1cf10ed2a893984000399.jpeg'
+comments:
+  - created_at: '2017-10-02T10:29:23Z'
+    text: Possibly Showy Parrot Pea?
+    ref: 59d21503ed2a8969e1000022
+    name: Andrew Brown
+    username: andrewbrown
+  - created_at: '2017-10-04T23:36:17Z'
+    text: 'Difficult to discern features, but appears to have axillary buds. D. sericea is good suggestion.'
+    ref: 59d57071ed2a892d40002caa
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - wedderburn_josephine_drive

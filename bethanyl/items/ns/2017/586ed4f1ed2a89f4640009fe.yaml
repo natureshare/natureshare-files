@@ -1,0 +1,30 @@
+id:
+  - Epicoma contristis
+created_at: '2017-01-05T23:24:49Z'
+datetime: '2017-01-06T09:19:58+10:00'
+elevation: 282.1
+latitude: -37.901984
+location_name: 'Anakie VIC 3213, Australia'
+longitude: 144.223467
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-01-05T23:24:49Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-06T09:19:58Z'
+    height: 3000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/586ed506ed2a892daf0002d5.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/586ed506ed2a892daf0002d5.JPG'
+  - datetime: '2017-01-06T09:10:26Z'
+    height: 3000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/586ed518ed2a89b7180002c0.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/586ed518ed2a89b7180002c0.JPG'
+tags:
+  - adult
+  - male
+collections:
+  - brisbane_ranges_moths

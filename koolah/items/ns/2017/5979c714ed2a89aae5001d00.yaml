@@ -1,0 +1,31 @@
+id:
+  - Nola phaeogramma
+created_at: '2017-07-27T11:00:10Z'
+datetime: '2017-02-01T22:01:04+10:00'
+elevation: 261.2
+latitude: -37.806575
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.29701
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-07-27T11:00:10Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-02-01T22:08:27Z'
+    height: 1580
+    width: 2060
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5979c724ed2a89398400013c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5979c724ed2a89398400013c.JPG'
+  - datetime: '2017-02-01T22:01:04Z'
+    height: 1831
+    width: 1556
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5979c71bed2a89398400013b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5979c71bed2a89398400013b.JPG'
+tags:
+  - brown
+  - moth
+collections:
+  - brisbane_ranges_moths

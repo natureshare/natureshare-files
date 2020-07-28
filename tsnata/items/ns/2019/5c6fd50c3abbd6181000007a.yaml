@@ -1,0 +1,31 @@
+id:
+  - Sericornis frontalis
+created_at: '2019-02-22T10:55:08Z'
+datetime: '2019-02-16T08:30:08+10:00'
+description: a thornbill?
+elevation: 26.6
+latitude: -38.684134
+location_name: '3 B100, Wongarra VIC 3234, Australia'
+longitude: 143.838672
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2019-03-15T10:17:27Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2019-02-16T08:30:08Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_53b39818e35eb12984000026/2019-02-22/1550832807/bird-GR.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_53b39818e35eb12984000026/2019-02-22/1550832807/bird-GR.jpg'
+  - datetime: '2019-02-16T08:30:34Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_53b39818e35eb12984000026/2019-02-22/1550832872/bird1-GR.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_53b39818e35eb12984000026/2019-02-22/1550832872/bird1-GR.jpg'
+comments:
+  - created_at: '2019-02-22T22:09:36Z'
+    text: White-browed Scrubwren
+    ref: 5c7073203abbd6be3500000d
+    name: Andrew Allen
+    username: andrew_allen
+collections:
+  - grey_river

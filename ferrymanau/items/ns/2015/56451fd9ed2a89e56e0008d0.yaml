@@ -1,0 +1,30 @@
+id:
+  - Nyctemera amicus
+created_at: '2015-11-12T23:29:49Z'
+datetime: '2015-11-11T15:39:43+10:00'
+elevation: 484.1
+latitude: -37.366355
+location_name: 'Macedon VIC 3440, Australia'
+longitude: 144.613658
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-11-13T05:35:27Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-11-11T15:39:43Z'
+    height: 1882
+    width: 1440
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56451fe0ed2a899c63000179.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56451fe0ed2a899c63000179.jpg'
+comments:
+  - created_at: '2015-11-12T23:35:10Z'
+    text: 'This photograph has GPS information embedded. How do I get this recorded in my observation, please?'
+    ref: 5645222eed2a89e56e0008d5
+    name: Francis Ebury
+    username: ferrymanau
+  - created_at: '2015-11-13T05:37:45Z'
+    text: I put the co-ordinates in manually. I can't see any other way of doing it.
+    ref: 56457729ed2a89e56e0008fc
+    name: Francis Ebury
+    username: ferrymanau

@@ -1,0 +1,25 @@
+id:
+  - name: Allocasuarina grampiana
+created_at: '2014-06-07T16:49:11Z'
+datetime: '2010-10-02T15:59:46+10:00'
+description: Male. Mt William.
+latitude: -37.291035
+longitude: 142.592977
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-07-02T07:51:25Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2010-10-02T15:59:46Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986ce35eb129840153e5.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb129840153e5.jpg'
+tags:
+  - flower
+  - male
+comments:
+  - created_at: '2014-06-08T16:53:53Z'
+    text: Location approximate.
+    ref: 53b3984de35eb1298400dd37
+collections:
+  - grampians_np_plants

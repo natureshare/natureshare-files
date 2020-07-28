@@ -1,0 +1,40 @@
+id:
+  - name: Chrysocephalum sp. 1
+    by: zeke1944
+created_at: '2018-10-11T09:20:53Z'
+datetime: '2018-09-21T15:29:16+10:00'
+elevation: 207.7
+latitude: -37.886935
+location_name: 'Recreation St, Woorndoo VIC 3272, Australia'
+longitude: 142.798681
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-10-11T09:21:03Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-09-21T15:29:16Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bbf15cced2a891efe0000f9.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbf15cced2a891efe0000f9.jpg'
+  - datetime: '2018-09-21T15:28:55Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bbf15aced2a89c6aa0000f4.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbf15aced2a89c6aa0000f4.jpg'
+comments:
+  - created_at: '2018-10-11T10:51:33Z'
+    text: <em>Chrysocephalum sp. 1</em> species id suggested
+    ref: 5bbf2b35ed2a89c10e003391
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-10-14T09:47:37Z'
+    text: sp. 1 now C. apiculatum subsp. congestum
+    ref: 5bc310b9ed2a89c10e0043cd
+    name: David Francis
+    username: david_francis
+collections:
+  - victorian_volcanic_plains_native_plants

@@ -1,0 +1,30 @@
+created_at: '2014-09-08T11:41:39Z'
+datetime: '2014-09-04T10:42:18+10:00'
+elevation: 30.6
+latitude: -34.16398
+location_name: 'Neds Corner VIC 3496, Australia'
+longitude: 141.373151
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-09-08T11:42:40Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-04T10:42:18Z'
+    height: 1220
+    width: 922
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/540d95f3e35eb12a3500018e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/540d95f3e35eb12a3500018e.JPG'
+  - datetime: '2014-09-04T10:43:18Z'
+    height: 1023
+    width: 1361
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/540d95f3e35eb12a3500018f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/540d95f3e35eb12a3500018f.JPG'
+comments:
+  - created_at: '2014-09-08T12:06:23Z'
+    text: Moth on Melilotus indicus.
+    ref: 540d9bbfe35eb17588000092
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - neds_corner_insects_spiders_and_other_invertebrates

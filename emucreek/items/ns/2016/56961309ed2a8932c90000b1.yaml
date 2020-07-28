@@ -1,0 +1,37 @@
+id:
+  - name: Malurus cyaneus
+    by: reilly
+created_at: '2016-01-13T09:11:32Z'
+datetime: '2016-01-12T16:51:28+10:00'
+elevation: 282.8
+latitude: -37.527477
+location_name: 'Sunbury VIC 3429, Australia'
+longitude: 144.763154
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-01-16T11:37:52Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-01-12T16:51:28Z'
+    height: 2592
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56961327ed2a890f7e000042.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56961327ed2a890f7e000042.JPG'
+  - datetime: '2016-01-12T16:51:24Z'
+    height: 2592
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56961337ed2a890f7e000043.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56961337ed2a890f7e000043.JPG'
+comments:
+  - created_at: '2016-01-14T05:08:37Z'
+    text: I am sure this is a male Superb Blue Wren - Malurus cyaneus
+    ref: 56972d55ed2a89ddd9000053
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2016-01-17T05:11:33Z'
+    text: <em>Malurus cyaneus</em> species id suggested
+    ref: 569b2285ed2a89149800000e
+    name: 'Reilly '
+    username: reilly

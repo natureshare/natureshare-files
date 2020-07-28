@@ -1,0 +1,29 @@
+id:
+  - name: Ranunculus glabrifolius
+created_at: '2014-01-09T18:37:36Z'
+datetime: '2013-12-30T16:53:30+10:00'
+description: Fruit and leaf seem to confirm species. New species record for Riddells Creek.
+latitude: -37.44581
+longitude: 144.644808
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-07-02T14:42:42Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-12-30T16:53:30Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986be35eb12984014cd6.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb12984014cd6.jpg'
+  - datetime: '2013-12-30T16:47:52Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986be35eb12984014cd7.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb12984014cd7.jpg'
+  - datetime: '2013-12-30T16:53:18Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986be35eb12984014cd8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb12984014cd8.jpg'
+tags:
+  - fruit
+  - leaf
+collections:
+  - macedon_ranges_native_plants
+  - conglomerate_gully_riddells_creek_plants
+  - riddells_creek_plants

@@ -1,0 +1,40 @@
+id:
+  - name: Cymbonotus preissianus
+    by: russell
+created_at: '2015-08-25T00:25:22Z'
+datetime: '2015-08-22T15:04:41+10:00'
+description: New species record for this collection. Found in the area burnt in last year's January wildfire.
+latitude: -37.464363
+longitude: 144.687744
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-02-14T21:13:54Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-08-22T15:04:41Z'
+    height: 3390
+    width: 2215
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55dbb609ed2a890d95000005.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55dbb609ed2a890d95000005.jpeg'
+  - datetime: '2015-08-22T14:53:04Z'
+    height: 2312
+    width: 2447
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55dbb61fed2a890d95000006.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55dbb61fed2a890d95000006.jpeg'
+  - datetime: '2015-08-22T14:52:54Z'
+    height: 1188
+    width: 1220
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55dbb627ed2a890d95000007.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55dbb627ed2a890d95000007.jpeg'
+  - datetime: '2015-08-22T14:53:18Z'
+    height: 1521
+    width: 874
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55dbb62eed2a890d95000008.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55dbb62eed2a890d95000008.jpeg'
+tags:
+  - flower
+collections:
+  - biosite_3583_riddells_creek_plants

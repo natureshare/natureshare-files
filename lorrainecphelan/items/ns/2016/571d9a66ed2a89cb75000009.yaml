@@ -1,0 +1,35 @@
+id:
+  - Podalonia tydei suspiciosa
+created_at: '2016-04-25T04:19:35Z'
+datetime: '2011-01-01T14:17:00+10:00'
+description: Digger wasp
+elevation: 57.2
+latitude: -38.090345
+location_name: 'Heywood VIC 3304, Australia'
+longitude: 141.748104
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-04-26T05:01:52Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 768
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/571d9a6fed2a890be70001bb.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/571d9a6fed2a890be70001bb.jpg'
+comments:
+  - created_at: '2016-04-26T04:53:41Z'
+    text: Podalonia tydei (Ken Walker - Victorian Museum)
+    ref: 571ef455ed2a89e6680000cb
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 571ef455ed2a89e6680000cb
+    created_at: '2016-04-26T05:00:54Z'
+    text: Thanks Cathy and Ken.
+    ref: 571ef606ed2a89e6680000cd
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - homerton_and_milltown_insects

@@ -1,0 +1,40 @@
+id:
+  - name: Eristalinus spp.
+    by: david_francis
+created_at: '2014-08-06T04:51:26Z'
+datetime: '2014-03-25T10:35:40+10:00'
+description: This fly has been identified as Austalis pulchella by Ken Walker.
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2017-01-05T02:53:22Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-03-25T10:35:40Z'
+    height: 1119
+    width: 1731
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53e1b44de35eb1f537000004.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53e1b44de35eb1f537000004.JPG'
+tags:
+  - fly
+comments:
+  - created_at: '2017-01-02T03:49:07Z'
+    text: Not like Austalis pulchella. Matches Eristalinus aeneus (dotted eyes like drone fly).
+    ref: 5869cdb3ed2a89748000c37e
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-02T03:52:02Z'
+    text: 'See http://www.bowerbird.org.au/observations/63502 and http://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:7ec3a971-d4ce-4b24-b324-51f6ea73355d#gallery'
+    ref: 5869ce62ed2a89748000c380
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-02T04:06:26Z'
+    text: 'Austalis pulchella looks like http://www.bowerbird.org.au/observations/1566'
+    ref: 5869d1c2ed2a89748000c38c
+    name: David Francis
+    username: david_francis
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains

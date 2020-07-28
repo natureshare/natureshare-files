@@ -1,0 +1,31 @@
+id:
+  - name: Usnea spp.
+    by: 249pbr
+created_at: '2018-07-29T01:03:44Z'
+datetime: '2018-07-19T12:28:42+10:00'
+elevation: 321.4
+latitude: -38.63897
+location_name: 'Mount Sabine VIC 3236, Australia'
+longitude: 143.736255
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-07-29T01:04:03Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-07-19T12:28:42Z'
+    height: 2560
+    width: 1920
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b5d0f8eed2a89c6aa000061.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b5d0f8eed2a89c6aa000061.jpg'
+comments:
+  - created_at: '2018-07-29T11:32:48Z'
+    text: <em>Usnea spp.</em> species id suggested
+    ref: 5b5da5e0ed2a8903a000884a
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-07-29T11:33:36Z'
+    text: 'This is a lichen, an Usnea species but it is not possible to tell more than that.'
+    ref: 5b5da610ed2a8903a0008853
+    name: John Walter
+    username: 249pbr

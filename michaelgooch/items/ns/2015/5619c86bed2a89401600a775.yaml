@@ -1,0 +1,33 @@
+id:
+  - Alauda arvensis
+created_at: '2015-10-11T02:24:43Z'
+datetime: '2015-10-10T12:31:45+10:00'
+elevation: 4.2
+latitude: -38.023821
+location_name: 'Victoria 3212, Australia'
+longitude: 144.565665
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-10-11T02:30:50Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-10-10T12:32:17Z'
+    height: 1390
+    width: 2085
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5619c8fbed2a890d95000497.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5619c8fbed2a890d95000497.jpg'
+  - datetime: '2015-10-10T12:31:45Z'
+    height: 1504
+    width: 2256
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5619c8abed2a890d95000495.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5619c8abed2a890d95000495.jpg'
+  - datetime: '2015-10-10T12:31:49Z'
+    height: 1384
+    width: 2076
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5619c8daed2a890d95000496.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5619c8daed2a890d95000496.jpg'
+collections:
+  - birds_of_the_western_treatment_plant_werribee

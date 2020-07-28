@@ -1,0 +1,38 @@
+id:
+  - name: Ecnolagria grandis
+    by: david_francis
+created_at: '2016-01-25T01:55:18Z'
+datetime: '2016-01-23T10:58:10+10:00'
+description: 'A small swarm on eucalypt leaves, the closest id : Ecnolagria grandis (Brown Darkling Beetle)'
+elevation: 39.2
+latitude: -37.789543
+location_name: 'Parkville VIC, Australia'
+longitude: 144.950398
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-01-29T09:12:17Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-01-23T10:58:10Z'
+    height: 1592
+    width: 2123
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a57adeed2a89b31c000038.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a57adeed2a89b31c000038.jpg'
+  - datetime: '2016-01-23T11:01:13Z'
+    height: 1917
+    width: 2555
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a57ae4ed2a89e05000003c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a57ae4ed2a89e05000003c.jpg'
+tags:
+  - adult
+comments:
+  - created_at: '2016-01-25T06:29:11Z'
+    text: 'Yes, agree with Ecnolagria grandis (see http://www.bowerbird.org.au/observations/49938)'
+    ref: 56a5c0b7ed2a89e31b0000af
+    name: David Francis
+    username: david_francis
+collections:
+  - royal_park_parkville

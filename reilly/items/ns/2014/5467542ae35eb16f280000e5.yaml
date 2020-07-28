@@ -1,0 +1,31 @@
+id:
+  - name: Calandrinia eremaea
+    by: chrisl
+created_at: '2014-11-15T13:24:58Z'
+datetime: '2014-11-04T10:14:37+10:00'
+latitude: -37.091375
+longitude: 148.400297
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-11-15T20:25:17Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-11-04T10:14:37Z'
+    height: 854
+    width: 1280
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54675476e35eb16f280000e8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54675476e35eb16f280000e8.jpg'
+  - datetime: '2014-11-04T10:14:30Z'
+    height: 854
+    width: 1280
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54675476e35eb16f280000e9.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54675476e35eb16f280000e9.jpg'
+comments:
+  - created_at: '2014-11-15T20:26:09Z'
+    text: Fruiting pedicels longer then 1cm. See bottom left of second photo.
+    ref: 5467b6e1e35eb1464700006b
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - little-river-gorge-2014

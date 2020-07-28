@@ -1,0 +1,45 @@
+id:
+  - Brachyscome graminea
+created_at: '2018-10-12T21:15:56Z'
+datetime: '2018-09-22T10:27:57+10:00'
+elevation: 380.2
+latitude: -37.617655
+location_name: 'Dunkeld VIC 3294, Australia'
+longitude: 142.334773
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-10-14T09:28:37Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-09-22T10:27:57Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bc10e89ed2a89c6aa0000fd.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bc10e89ed2a89c6aa0000fd.jpg'
+  - datetime: '2018-09-22T10:28:04Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bc10eaded2a89402b0000fc.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bc10eaded2a89402b0000fc.jpg'
+comments:
+  - created_at: '2018-10-12T22:46:33Z'
+    text: <em>Brachyscome spp.</em> species id suggested
+    ref: 5bc12449ed2a89c10e003b51
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-10-12T22:47:11Z'
+    text: Either aculeata or parvula rpobable the latter
+    ref: 5bc1246fed2a89c10e003b52
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-10-14T00:14:13Z'
+    text: 'I''d say B. graminea, identified in the same area by Russell Best 2014 https://natureshare.org.au/observations/545347dbe35eb1cc790000b7'
+    ref: 5bc28a55ed2a89c10e004144
+    name: David Francis
+    username: david_francis
+collections:
+  - grampians_np_plants
+  - flora_and_fauna_of_the_grampians

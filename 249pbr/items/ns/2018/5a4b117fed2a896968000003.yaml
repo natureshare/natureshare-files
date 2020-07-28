@@ -1,0 +1,32 @@
+id:
+  - Eudonia protorthra
+created_at: '2018-01-02T05:37:42Z'
+datetime: '2017-11-23T21:30:11+10:00'
+description: 'This is Scoparia protorthra, please add to database'
+latitude: -37.224434
+longitude: 144.309678
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-01-02T08:31:46Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-11-23T21:30:11Z'
+    height: 1512
+    width: 1224
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a4b118ded2a89298f000075.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a4b118ded2a89298f000075.jpg'
+comments:
+  - created_at: '2018-01-02T08:22:06Z'
+    text: Accepted name as per AFD is Eudonia protorthra.  Scoparia protorthra is a synonym.  Accepted species name has been added to database
+    ref: 5a4b412eed2a89e23c00428f
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2018-01-02T08:26:15Z'
+    text: 'Thanks Cathy, I will update my records'
+    ref: 5a4b4227ed2a89e23c004298
+    name: John Walter
+    username: 249pbr
+collections:
+  - drummond_nearby_forests_-_moths

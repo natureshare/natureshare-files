@@ -1,0 +1,47 @@
+id:
+  - name: Nyctophilus spp.
+    by: lconole
+created_at: '2017-04-01T05:18:15Z'
+datetime: '2017-03-28T12:56:00+10:00'
+description: I have no idea of which species but this bat was active in the area for about 15 minutes.
+elevation: 238.2
+latitude: -37.804777
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297617
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2017-04-01T05:19:31Z'
+license: CC BY 2.5 AU
+tags:
+  - bat
+comments:
+  - created_at: '2017-04-02T23:51:37Z'
+    text: 'From a number of the frames, you can clearly make out the long tail. This could indicate a freetail bat (Mormopterus spp.) Also seems to be a large microbat.'
+    ref: 58e18e89ed2a8948650000fa
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2017-04-03T01:25:04Z'
+    text: 'From the fluttery flight, broad wings and large ears I''d suggest this is much more likely to be a long-eared bat (Nyctophilus sp). Little freetails are nowhere near as maneuverable as that and have much narrower wings - the tip of the tail would be free, but this one is fully enclosed in the tail membrane.'
+    ref: 58e1a470ed2a894865000144
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2017-04-03T01:28:01Z'
+    text: <em>Nyctophilus spp.</em> species id suggested
+    ref: 58e1a521ed2a894865000148
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2017-04-03T01:28:40Z'
+    text: Not enough resolution to suggest whether N. geoffroyi or N. gouldi.  Both are possible in or near the Brisbane Ranges.
+    ref: 58e1a548ed2a894865000149
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2017-04-03T05:47:01Z'
+    text: Thank you Chris and Lawrie.  Your comments certainly made me look closer at the video.
+    ref: 58e1e1d5ed2a89486500020c
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brisbane_ranges_mammals
+videos:
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/video/20170401/1491023641538-p9xq4lw2v55y-94e482433bab0e7c1c6f5352a156568d/Bat%20Mar%2017.mp4'

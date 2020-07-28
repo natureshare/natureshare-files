@@ -1,0 +1,40 @@
+id:
+  - Paropsis spp.
+created_at: '2015-03-07T08:45:45Z'
+datetime: '2014-01-10T17:43:11+10:00'
+description: 'This is Paropsis but undetermined.  '
+elevation: 164.9
+latitude: -36.495952
+location_name: 'Little Desert VIC 3418, Australia'
+longitude: 141.749779
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-03-09T07:06:42Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-01-10T17:43:11Z'
+    height: 1209
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54fab9c2ed2a89097e0006fe.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54fab9c2ed2a89097e0006fe.JPG'
+  - datetime: '2014-01-10T17:42:58Z'
+    height: 1199
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54fab9c2ed2a89097e0006ff.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54fab9c2ed2a89097e0006ff.JPG'
+tags:
+  - beetle
+comments:
+  - created_at: '2015-11-01T08:36:16Z'
+    text: 'This is a rare and desert species names Paropsis propinqua.  It occurs more widespread in SA but is rarely seen.    '
+    ref: 5635cf00ed2a89373f000021
+    name: Martin Lagerwey
+    username: martinl
+  - created_at: '2016-12-16T09:49:17Z'
+    text: Paropsis propinqua now available in database
+    ref: 5853b89ded2a897480009526
+    name: David Francis
+    username: david_francis
+collections:
+  - beetles_leaf_beetle_reference_collection

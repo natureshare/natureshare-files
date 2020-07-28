@@ -1,0 +1,52 @@
+id:
+  - name: Diplarrena moraea
+    by: banksiaman
+created_at: '2016-01-13T00:49:29Z'
+datetime: '2015-11-01T11:36:41+10:00'
+latitude: -38.921483
+longitude: 146.395186
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-01-16T11:41:41Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-11-01T11:36:41Z'
+    height: 1639
+    width: 1529
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5695a065ed2a890f7e000034.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5695a065ed2a890f7e000034.jpg'
+  - datetime: '2015-11-01T11:37:23Z'
+    height: 4032
+    width: 3024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56959e42ed2a890f7e000031.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56959e42ed2a890f7e000031.jpg'
+  - datetime: '2015-11-01T11:36:41Z'
+    height: 4032
+    width: 3024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56959e54ed2a890f7e000032.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56959e54ed2a890f7e000032.jpg'
+  - datetime: '2015-11-01T11:37:10Z'
+    height: 4032
+    width: 3024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56959e66ed2a890f7e000033.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56959e66ed2a890f7e000033.jpg'
+tags:
+  - 3-large-petals
+  - flower
+  - white
+  - white-petals
+comments:
+  - created_at: '2016-01-13T05:43:21Z'
+    text: 'Thanks for the id, Kevin'
+    ref: 5695e3f9ed2a8932c900009a
+    name: 'Reilly '
+    username: reilly
+  - created_at: '2016-01-13T08:06:21Z'
+    text: Beautiful !
+    ref: 5696057ded2a8932c90000a6
+    name: Leuba Ridgway
+    username: leuba
+collections:
+  - wilsons_prom_np_plants

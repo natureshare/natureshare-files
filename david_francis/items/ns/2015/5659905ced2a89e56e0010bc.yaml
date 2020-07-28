@@ -1,0 +1,31 @@
+id:
+  - Harpobittacus spp.
+created_at: '2015-11-28T11:32:07Z'
+datetime: '2015-11-27T14:50:47+10:00'
+latitude: -37.408353
+longitude: 144.594975
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-11-29T03:31:39Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-11-27T14:50:47Z'
+    height: 1200
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5659906ced2a899c6300025e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5659906ced2a899c6300025e.jpg'
+comments:
+  - created_at: '2015-11-29T00:03:55Z'
+    text: I think this is a Scorpion Fly - family Bittacidae.  It looks like photos I have seen of Harpobittacus sp.
+    ref: 565a40ebed2a89e56e001112
+    name: Suzanne Jones
+    username: suzanne
+  - created_at: '2015-11-29T03:33:44Z'
+    text: 'Thanks for the identification, Suzanne. This is a new group for me. David'
+    ref: 565a7218ed2a89e56e00111e
+    name: David Francis
+    username: david_francis
+collections:
+  - insects_and_other_arthropods_of_mt_macedon

@@ -1,0 +1,30 @@
+id:
+  - name: Pterostylis melagramma
+    by: koolah
+created_at: '2016-09-05T11:34:38Z'
+datetime: '2016-09-04T06:53:33+10:00'
+elevation: 131
+latitude: -38.420193
+location_name: 'Grantville VIC 3984, Australia'
+longitude: 145.546658
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-09-05T11:34:38Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-04T06:53:33Z'
+    height: 2400
+    width: 1800
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57cd57aeed2a89b718000013.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57cd57aeed2a89b718000013.jpg'
+comments:
+  - created_at: '2016-09-05T12:22:27Z'
+    text: <em>Pterostylis melagramma</em> species id suggested
+    ref: 57cd6383ed2a89450f000f8b
+    name: Cathy Powers
+    username: koolah
+collections:
+  - grantville_lodge

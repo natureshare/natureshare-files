@@ -1,0 +1,28 @@
+id:
+  - Anthela acuta group
+created_at: '2014-10-11T04:34:33Z'
+datetime: '2013-01-12T01:27:08+10:00'
+latitude: -37.806581
+location_name: 'Balliang VIC, Australia'
+longitude: 144.296955
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-10-11T04:35:24Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-01-12T01:27:08Z'
+    height: 746
+    width: 1234
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5438b358e35eb14cc1000078.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5438b358e35eb14cc1000078.jpg'
+  - datetime: '2013-01-12T01:28:34Z'
+    height: 1224
+    width: 1516
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5438b358e35eb14cc1000079.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5438b358e35eb14cc1000079.jpg'
+tags:
+  - female
+  - moth
+collections:
+  - brisbane_ranges_moths

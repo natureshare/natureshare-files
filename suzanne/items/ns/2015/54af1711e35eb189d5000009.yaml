@@ -1,0 +1,39 @@
+id:
+  - Eleale pulcher
+created_at: '2015-01-08T23:47:29Z'
+datetime: '2015-01-07T13:57:35+10:00'
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-01-08T23:48:35Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-01-07T13:57:35Z'
+    height: 1243
+    width: 1873
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54af1710e35eb189d5000006.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54af1710e35eb189d5000006.JPG'
+  - datetime: '2015-01-07T13:58:30Z'
+    height: 1232
+    width: 1854
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54af1710e35eb189d5000007.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54af1710e35eb189d5000007.JPG'
+  - datetime: '2015-01-07T13:56:23Z'
+    height: 1221
+    width: 1819
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54af1710e35eb189d5000008.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54af1710e35eb189d5000008.JPG'
+tags:
+  - beetle
+comments:
+  - created_at: '2015-01-08T23:49:00Z'
+    text: Identification confirmed by Ken Walker.
+    ref: 54af176ce35eb19c55000004
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains

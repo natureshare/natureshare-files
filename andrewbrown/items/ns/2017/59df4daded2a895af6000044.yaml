@@ -1,0 +1,40 @@
+id:
+  - Calytrix tetragona
+created_at: '2017-10-12T12:13:43Z'
+datetime: '2017-10-10T12:57:07+10:00'
+description: Looks different to C. tetragona with smaller leaves?
+elevation: 211.2
+latitude: -36.625536
+location_name: 'Whipstick VIC 3556, Australia'
+longitude: 144.263863
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-10-13T11:44:33Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-10T12:57:07Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59df4db6ed2a89398400048c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59df4db6ed2a89398400048c.JPG'
+  - datetime: '2017-10-10T12:57:21Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59df4eb5ed2a893984000498.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59df4eb5ed2a893984000498.JPG'
+tags:
+  - flowers-white
+  - leaves-linear
+  - leaves-small
+  - shrub-small
+comments:
+  - created_at: '2017-10-13T08:36:34Z'
+    text: This looks like Calytrix tetragona to me. FoV says the leaves can be quite variable in length (from 1 to 7 (15) mm)
+    ref: 59e07b12ed2a892d4000507f
+    name: David Francis
+    username: david_francis
+collections:
+  - whipstick_flora

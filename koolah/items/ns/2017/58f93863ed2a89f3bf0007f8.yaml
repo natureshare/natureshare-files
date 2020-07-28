@@ -1,0 +1,41 @@
+id:
+  - Chrysolarentia actinipha
+created_at: '2017-04-20T22:40:54Z'
+datetime: '2017-04-20T18:50:18+10:00'
+elevation: 261.1
+latitude: -37.806591
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297006
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-04-22T00:16:08Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-04-20T18:50:18Z'
+    height: 1070
+    width: 1547
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58f93869ed2a89e5480000f5.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58f93869ed2a89e5480000f5.jpg'
+  - datetime: '2017-04-20T18:51:30Z'
+    height: 2073
+    width: 2938
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58f9388fed2a891d6d000105.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58f9388fed2a891d6d000105.jpg'
+tags:
+  - moth
+comments:
+  - created_at: '2017-04-21T13:24:22Z'
+    text: First for NS and for ALA(Vic). A rarely observed species perhaps?
+    ref: 58fa0806ed2a89830600000f
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-04-22T00:37:35Z'
+    text: 'Yes, it is my understanding that it is uncommon to rare in Victoria although it has been photographed in the Brisbane Ranges in May 2016.'
+    ref: 58faa5cfed2a89f3bf000ac5
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brisbane_ranges_moths

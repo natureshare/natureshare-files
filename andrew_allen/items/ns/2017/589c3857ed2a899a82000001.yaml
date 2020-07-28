@@ -1,0 +1,36 @@
+id:
+  - Pernattia pusilla
+created_at: '2017-02-09T09:39:01Z'
+datetime: '2017-02-09T19:00:00+10:00'
+elevation: 69.7
+latitude: -37.73484
+location_name: 'Keilor East VIC 3033, Australia'
+longitude: 144.848556
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-02-09T09:39:35Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 2274
+    width: 4042
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/589c3861ed2a89b71800039b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/589c3861ed2a89b71800039b.jpg'
+  - height: 2459
+    width: 4372
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/589c3863ed2a89b3fe000398.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/589c3863ed2a89b3fe000398.jpg'
+comments:
+  - created_at: '2017-02-09T23:58:50Z'
+    text: 'Such an intricate and beautiful pattern repeated perfectly on each segment. '
+    ref: 589d023aed2a89d10f0039cf
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-10T00:04:00Z'
+    text: I've added the common name "She-oak Moth" to the species data.
+    ref: 589d0370ed2a89d10f0039d6
+    name: David Francis
+    username: david_francis
+collections:
+  - brimbank_park_insects_and_spiders

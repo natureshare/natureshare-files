@@ -1,0 +1,39 @@
+id:
+  - Cassinia longifolia
+created_at: '2016-02-16T01:02:03Z'
+datetime: '2016-01-30T14:15:50+10:00'
+latitude: -38.39779
+longitude: 142.509182
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-02-18T10:04:25Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-01-30T14:15:50Z'
+    height: 2316
+    width: 2111
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56c274e0ed2a89211c000020.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56c274e0ed2a89211c000020.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2016-02-16T09:46:45Z'
+    text: Identification error? (Not Hemlock). May be Cassinia longifolia.
+    ref: 56c2f005ed2a898f6600017c
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-02-18T10:02:24Z'
+    text: 'You are right David, Not a Warrnambool plant though, must have been planted!'
+    ref: 56c596b0ed2a898f66000415
+    name: Kevin Sparrow
+    username: banksiaman
+  - replying_to: 56c596b0ed2a898f66000415
+    created_at: '2016-02-18T10:27:58Z'
+    text: I recognised it because it is very common where I live at Mt Macedon/Riddells Creek.
+    ref: 56c59caeed2a898f6600041c
+    name: David Francis
+    username: david_francis
+collections:
+  - plants_of_warrnambool_and_district

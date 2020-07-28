@@ -1,0 +1,46 @@
+id:
+  - name: Montia australasica
+    by: russell
+created_at: '2015-01-05T02:28:26Z'
+datetime: '2015-01-04T17:03:45+10:00'
+latitude: -37.496431
+longitude: 145.876083
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-01-05T10:38:33Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-01-04T17:03:45Z'
+    height: 1280
+    width: 960
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54a9f6cae35eb1fb00000036.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54a9f6cae35eb1fb00000036.jpg'
+  - datetime: '2015-01-04T17:04:46Z'
+    height: 960
+    width: 1280
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54a9f6cae35eb1fb00000037.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54a9f6cae35eb1fb00000037.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2015-01-05T08:37:00Z'
+    text: I still haven't been able to ID this one from here at Lake Mountain. Can anyone else help?
+    ref: 54aa4d2ce35eb1632c000003
+    name: Russell Best
+    username: russell
+  - created_at: '2015-01-05T08:42:00Z'
+    text: Closest I could think of is a groundcovering form of Montia australasica?
+    ref: 54aa4e58e35eb1c406000003
+    name: Russell Best
+    username: russell
+  - created_at: '2015-01-05T10:25:04Z'
+    text: "Same as this one?\r\nhttp://natureshare.org.au/observations/53c7659de35eb19408000009?species=Montia+australasica&tag="
+    ref: 54aa6680e35eb1c406000009
+    name: David Francis
+    username: david_francis
+  - created_at: '2015-01-05T10:42:15Z'
+    text: Thanks David. You're right. I've only seen this species as a non-spreading upright herb ... like my obs under this species name.
+    ref: 54aa6a87e35eb1632c00000c
+    name: Russell Best
+    username: russell

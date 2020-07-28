@@ -1,0 +1,32 @@
+id:
+  - name: Notonectidae spp.
+    by: david_francis
+created_at: '2016-11-27T10:10:39Z'
+datetime: '2016-11-27T12:32:39+10:00'
+description: Small water insects. Maybe water boatman.
+elevation: 1.6
+latitude: -37.797296
+location_name: 'Footscray VIC 3011, Australia'
+longitude: 144.914992
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2016-11-28T01:33:19Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-11-27T12:32:39Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/583ab078ed2a89d73e0001ec.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/583ab078ed2a89d73e0001ec.jpg'
+comments:
+  - created_at: '2016-11-28T01:34:36Z'
+    text: 'If swimming on its back on the surface of the water it is a Back-swimmer, not a Water Boatman.'
+    ref: 583b89aced2a89d11200001b
+    name: David Francis
+    username: david_francis
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong

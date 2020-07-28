@@ -1,0 +1,41 @@
+created_at: '2012-11-23T12:19:52Z'
+datetime: '2011-10-04T10:58:38+10:00'
+description: site3 North and South
+latitude: -36.397784
+longitude: 143.628147
+non_identifying_photo: true
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-12-19T04:23:34Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-10-04T10:58:38Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39866e35eb12984013a06.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013a06.jpg'
+  - datetime: '2011-10-04T10:58:51Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39866e35eb12984013a07.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013a07.jpg'
+comments:
+  - created_at: '2013-02-14T06:41:07Z'
+    text: |-
+      Cassinia arcuata Cassinia 1
+      Acacia acinacea Gold Dust Wattle 10+
+      Grasses 10+
+      Thysanotus patersonii Twining Fringe Lilly 1
+      Sticky Goodenia 2
+      Prostanthera aspalathoides Mint Bush 1
+      Blue mallee 5
+      Unidentified No1 3
+      Arthropodium strictum Chocolate Lilly 10+
+      Raspwort 2
+      Chocolate or Bulbine lilly 10+
+      Correa 4
+      Silky Hibbertia 1
+      Ozothamus obcordatus Grey Everlasting 4
+      Speedwell 5
+    ref: 53b3984be35eb1298400da6f
+  - created_at: '2013-02-15T05:43:15Z'
+    text: 'Site quadrat (circle) preburn data recorded by wcmn Observers on 4th Oct 2011. Each line has a maximum of 3 fields which are scientific name, common name, and quadrat quantity for that plant species. One of the first 2 fields may be omitted from the record. '
+    ref: 53b3984be35eb1298400da76
+collections:
+  - wcmnpreburnedsites

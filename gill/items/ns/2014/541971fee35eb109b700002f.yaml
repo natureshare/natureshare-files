@@ -1,0 +1,36 @@
+id:
+  - name: Blaps polychresta
+    by: russell
+created_at: '2014-09-17T11:35:26Z'
+datetime: '2014-09-04T17:03:40+10:00'
+latitude: -34.244342
+longitude: 141.369553
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-09-18T03:06:25Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-04T17:03:40Z'
+    height: 2048
+    width: 1536
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/541971fee35eb109b700002c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/541971fee35eb109b700002c.jpg'
+  - datetime: '2014-09-04T17:03:17Z'
+    height: 2048
+    width: 1536
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/541971fee35eb109b700002d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/541971fee35eb109b700002d.jpg'
+  - datetime: '2014-09-04T17:02:47Z'
+    height: 2048
+    width: 1536
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54197501e35eb1778e000047.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54197501e35eb1778e000047.jpg'
+comments:
+  - created_at: '2014-09-18T03:05:19Z'
+    text: ID by KW. Apparently the first formal record of this species in Victoria. The species was eaten by women in ancient Egypt for beautification.
+    ref: 541a4befe35eb1d53d000011
+    name: Russell Best
+    username: russell
+collections:
+  - neds_corner_insects_spiders_and_other_invertebrates

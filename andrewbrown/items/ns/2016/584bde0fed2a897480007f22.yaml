@@ -1,0 +1,48 @@
+id:
+  - Einadia hastata
+created_at: '2016-12-10T11:29:14Z'
+datetime: '2016-12-10T09:46:13+10:00'
+description: Small groundcover plant. Kind of saltbush?
+elevation: 221.5
+latitude: -36.782481
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.366027
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-12-11T11:21:51Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-12-10T09:46:13Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584bde20ed2a89d73e000227.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584bde20ed2a89d73e000227.jpeg'
+  - datetime: '2016-12-10T09:46:04Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584bee3eed2a89d73e00022b.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584bee3eed2a89d73e00022b.jpeg'
+tags:
+  - groundcover
+  - prostrate
+comments:
+  - created_at: '2016-12-10T13:07:16Z'
+    text: Looks like Einadia nutans
+    ref: 584bfe04ed2a897480007fc6
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-12-11T09:30:38Z'
+    text: I was thinking Einadia hastata
+    ref: 584d1cbeed2a8974800082e7
+    name: James Booth
+    username: jamesbooth
+  - created_at: '2016-12-11T10:18:14Z'
+    text: 'Yes, James, E. hastata. The leaves are too rounded for nutans.'
+    ref: 584d27e6ed2a8974800082f5
+    name: David Francis
+    username: david_francis
+collections:
+  - junortoun_flora

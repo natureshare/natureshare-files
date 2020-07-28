@@ -1,0 +1,35 @@
+id:
+  - Postia caesia
+created_at: '2018-07-16T12:15:19Z'
+datetime: '2016-02-20T10:22:14+10:00'
+description: 'Two images. This is Postia caesia, found on the wood of pine trees. Bruising produces bluish tones, just visible in these images. Could the species be added to the database.'
+elevation: 914.4
+latitude: -37.381008
+location_name: 'Mount Macedon VIC 3441, Australia'
+longitude: 144.583033
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-07-18T04:58:23Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-02-20T10:22:14Z'
+    height: 3048
+    width: 4158
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b4c85ffed2a891efe000055.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b4c85ffed2a891efe000055.jpg'
+  - datetime: '2016-02-20T10:22:43Z'
+    height: 2298
+    width: 3012
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b4c85feed2a89280700005d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b4c85feed2a89280700005d.jpg'
+comments:
+  - created_at: '2018-07-18T02:45:52Z'
+    text: Species added to dataset.
+    ref: 5b4ea9e0ed2a8903a00054fa
+    name: Cathy Powers
+    username: koolah
+collections:
+  - macedon_ranges_-_fungi

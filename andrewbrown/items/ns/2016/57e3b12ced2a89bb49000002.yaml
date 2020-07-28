@@ -1,0 +1,37 @@
+id:
+  - name: Crassula spp.
+    by: david_francis
+created_at: '2016-09-24T03:11:41Z'
+datetime: '2016-09-20T08:34:29+10:00'
+description: Small succulent type plants
+elevation: 219.3
+latitude: -36.785058
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.3777
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-10-09T05:24:58Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-09-20T08:34:29Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e3b14ded2a89b3fe00005d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e3b14ded2a89b3fe00005d.JPG'
+tags:
+  - plant-small
+comments:
+  - created_at: '2016-09-24T05:39:27Z'
+    text: This is one of the Crassula species. Possibly C sieberana or C closiana
+    ref: 57e6118fed2a89450f0071c7
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 57e6118fed2a89450f0071c7
+    created_at: '2016-09-24T06:16:04Z'
+    text: Looks more like C sieberana out of the 2
+    ref: 57e61a24ed2a89450f0071e3
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - junortoun_flora

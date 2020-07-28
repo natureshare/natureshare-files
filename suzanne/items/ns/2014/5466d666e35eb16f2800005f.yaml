@@ -1,0 +1,55 @@
+id:
+  - name: Oecophoridae spp.
+    by: chrisl
+created_at: '2014-11-15T04:28:22Z'
+datetime: '2012-03-14T16:54:55+10:00'
+description: Small moth.
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2016-01-05T06:00:02Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-03-14T16:54:55Z'
+    height: 1182
+    width: 1814
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5466d665e35eb16f2800005e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5466d665e35eb16f2800005e.jpg'
+tags:
+  - moth
+comments:
+  - created_at: '2014-11-15T08:54:45Z'
+    text: Possibly a species of Garrha as is very similar to Garrha carnea.
+    ref: 546714d5e35eb140d30000dc
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 546714d5e35eb140d30000dc
+    created_at: '2014-11-16T22:55:08Z'
+    text: Well done Chris. I thought Tortricidae but you've got the right family I think. Prionocris protoxantha looks close too.
+    ref: 54692b4ce35eb1ed710000bd
+    name: Russell Best
+    username: russell
+  - replying_to: 54692b4ce35eb1ed710000bd
+    created_at: '2014-11-16T23:13:51Z'
+    text: Russell. Your suggestion looks even better. Was influenced by Oecophoridae by the recurved palps.
+    ref: 54692fafe35eb11f6800009a
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2014-11-17T08:29:17Z'
+    text: 'Graeme Cocks on Bowerbird, has commented that if this photo was taken in Townsville he would say the moth was Brachynemata restricta, but he doesn''t know if that species occurs this far south.'
+    ref: 5469b1dde35eb140c7000015
+    name: Suzanne Jones
+    username: suzanne
+  - replying_to: 5469b1dde35eb140c7000015
+    created_at: '2014-11-17T13:10:06Z'
+    text: 'That species has been recorded as low as Port Macquarie, NSW, according to lepbarcoding.'
+    ref: 5469f3aee35eb140c7000038
+    name: Russell Best
+    username: russell
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains
+  - butterflies_moths_seen_at_145_gibsons_road_cobains

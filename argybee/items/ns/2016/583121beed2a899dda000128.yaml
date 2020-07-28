@@ -1,0 +1,50 @@
+id:
+  - Hesthesis spp.
+created_at: '2016-11-20T04:15:25Z'
+datetime: '2016-11-19T14:30:55+10:00'
+description: "A large longicorn which looks very similar to the larger flower wasps (Tiphiidae;Thynnus) around at the same time. Genus is known for very diminished elytra.\r\nAbout 30mm body.\r\nHesthesis spp. (likely H.plorator) https://apps2.cdfa.ca.gov/publicApps/plant/bycidDB/wdetails.asp?id=20106&w=o"
+elevation: 124.9
+latitude: -37.97096
+location_name: 'Emerald VIC 3782, Australia'
+longitude: 145.395727
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-11-20T23:26:36Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-11-19T14:30:30Z'
+    height: 1200
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/583121ceed2a89b3fe0001ee.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/583121ceed2a89b3fe0001ee.JPG'
+  - datetime: '2016-11-19T14:31:03Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/583121c4ed2a89d73e0001dc.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/583121c4ed2a89d73e0001dc.JPG'
+  - datetime: '2016-11-19T14:30:55Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/583125b4ed2a89b7180001d6.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/583125b4ed2a89b7180001d6.JPG'
+tags:
+  - beetle
+  - longicorn
+  - mimic
+comments:
+  - created_at: '2016-11-20T06:46:54Z'
+    text: 'Four Hesthesis species added. '
+    ref: 583146deed2a89748000481a
+    name: David Francis
+    username: david_francis
+  - replying_to: 583146deed2a89748000481a
+    created_at: '2016-11-20T23:29:00Z'
+    text: 'Thanks David. '
+    ref: 583231bced2a897480004968
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_coleoptera

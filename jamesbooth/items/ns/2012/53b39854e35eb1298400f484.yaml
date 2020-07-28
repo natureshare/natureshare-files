@@ -1,0 +1,27 @@
+id:
+  - name: Vespidae spp.
+    by: david_francis
+created_at: '2012-03-26T23:24:16Z'
+datetime: '2012-03-25T13:02:37+10:00'
+latitude: -37.460158
+longitude: 144.672724
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2017-01-19T02:01:09Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-03-25T13:02:37Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39862e35eb12984012b97.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012b97.jpg'
+  - datetime: '2012-03-25T13:02:32Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39862e35eb12984012b98.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012b98.jpg'
+comments:
+  - created_at: '2017-01-19T02:02:31Z'
+    text: 'No yellow spot on face, so probably not Australozethus as previously ided by Russell. I''ve put it back to Vespidae for the moment.'
+    ref: 58801e37ed2a89f46400313d
+    name: David Francis
+    username: david_francis
+collections:
+  - insects_and_other_invertebrates_of_riddells_creek

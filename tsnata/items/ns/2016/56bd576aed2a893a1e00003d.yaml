@@ -1,0 +1,35 @@
+id:
+  - name: Milvus migrans
+    by: chrisl
+created_at: '2016-02-12T04:00:08Z'
+datetime: '2016-02-11T10:50:15+10:00'
+elevation: 9.7
+latitude: -37.995092
+location_name: 'Point Wilson VIC 3212, Australia'
+longitude: 144.539917
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-02-12T04:00:08Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-02-11T10:50:15Z'
+    height: 1500
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56bd5774ed2a899c67000007.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56bd5774ed2a899c67000007.jpg'
+comments:
+  - created_at: '2016-02-12T05:46:03Z'
+    text: Looks like a juvenile black kite.
+    ref: 56bd719bed2a89c42d000150
+    name: Pauline McCarthy
+    username: pauline
+  - created_at: '2016-02-12T11:57:18Z'
+    text: <em>Milvus migrans</em> species id suggested
+    ref: 56bdc89eed2a893a1e00004a
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - birds_of_the_western_treatment_plant_werribee

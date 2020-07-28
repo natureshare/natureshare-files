@@ -1,0 +1,42 @@
+id:
+  - name: Nacoleia rhoeoalis
+    by: koolah
+created_at: '2016-11-08T11:41:24Z'
+datetime: '2016-11-06T23:36:58+10:00'
+description: "A small moth (about 12mm long) with posture like some pyralids \r\nbut different looking head \r\nand interesting antennae which seemed locked together."
+elevation: 158.9
+latitude: -37.899511
+location_name: 'Upper Ferntree Gully VIC 3156, Australia'
+longitude: 145.311486
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-11-08T11:41:24Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-11-06T23:36:58Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/582198f0ed2a89b3fe0001b7.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/582198f0ed2a89b3fe0001b7.JPG'
+comments:
+  - created_at: '2016-11-09T05:30:51Z'
+    text: <em>Nacoleia rhoeoalis</em> species id suggested
+    ref: 5822b48bed2a897480002e78
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5822b48bed2a897480002e78
+    created_at: '2016-11-09T10:16:50Z'
+    text: Thanks Cathy. Do you know anything about the fused antennae?
+    ref: 5822f792ed2a897480002f20
+    name: Mark Ridgway
+    username: argybee
+  - replying_to: 5822f792ed2a897480002f20
+    created_at: '2016-11-10T08:40:12Z'
+    text: Not really but here is a possibility.  I have photos of this moth and some have separated antennae and some appear to be 'fused'.  Perhaps they come out of the cocoon with fused antennae and eventually the antennae move apart.  Your moth looks really fresh.
+    ref: 5824326ced2a897480003130
+    name: Cathy Powers
+    username: koolah
+collections:
+  - dandenong_ranges_lepidoptera

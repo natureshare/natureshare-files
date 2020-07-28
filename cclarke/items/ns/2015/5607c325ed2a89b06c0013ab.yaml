@@ -1,0 +1,31 @@
+id:
+  - Hibbertia sericea var. sericea s.s.
+created_at: '2015-09-27T10:21:25Z'
+datetime: '2015-09-20T11:24:19+10:00'
+latitude: -36.48
+longitude: 141.795833
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-09-27T10:22:51Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-09-20T11:24:19Z'
+    height: 2275
+    width: 2353
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5607c346ed2a890d950002e1.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5607c346ed2a890d950002e1.jpg'
+comments:
+  - created_at: '2015-09-27T10:24:12Z'
+    text: id needs check
+    ref: 5607c3cced2a89b06c0013b1
+    name: Chris Clarke
+    username: cclarke
+  - created_at: '2015-09-29T11:21:02Z'
+    text: Might be hard without a closer photo. Could also be the very variable Hibbertia riparia.
+    ref: 560a741eed2a89b06c00154a
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - little_desert_np_plants

@@ -1,0 +1,29 @@
+id:
+  - Mycena clarkeana
+created_at: '2018-06-27T12:10:27Z'
+datetime: '2012-05-12T14:40:57+10:00'
+description: See gills on second image
+elevation: 682.4
+latitude: -37.451476
+location_name: 'Blakeville VIC 3342, Australia'
+longitude: 144.177144
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-06-27T12:10:47Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2012-05-12T14:40:57Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b337dc9ed2a892807000027.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b337dc9ed2a892807000027.jpg'
+  - datetime: '2012-05-12T14:43:08Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b337dc9ed2a89402b000019.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b337dc9ed2a89402b000019.jpg'
+collections:
+  - wombat_forest_-_fungi

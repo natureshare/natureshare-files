@@ -1,0 +1,27 @@
+id:
+  - name: Hemiptera spp.
+    by: suzanne
+created_at: '2012-03-31T23:13:34Z'
+datetime: '2012-03-10T18:34:10+10:00'
+description: Beetle
+latitude: -37.277715
+longitude: 144.405413
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-11-14T06:22:01Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-03-10T18:34:10Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39862e35eb12984012bae.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012bae.jpg'
+tags:
+  - bug
+comments:
+  - created_at: '2014-11-14T06:22:40Z'
+    text: 'This is not a beetle, it is a bug.'
+    ref: 54659fb0e35eb194f5000191
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - insects_and_invertebrates_of_macedon_ranges

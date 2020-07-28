@@ -1,0 +1,30 @@
+id:
+  - name: Rhodanthe corymbiflora
+created_at: '2010-07-23T17:05:27Z'
+datetime: '2005-09-21T18:13:28+10:00'
+latitude: -34.141006
+longitude: 141.325808
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2011-07-19T22:37:48Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2005-09-21T18:13:28Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ce35eb129840113b1.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ce35eb129840113b1.jpg'
+  - datetime: '2005-09-21T17:59:44Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985fe35eb12984011d9e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011d9e.jpg'
+  - datetime: '2005-09-21T17:56:58Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985fe35eb12984011d9f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011d9f.jpg'
+tags:
+  - flower
+  - plant
+comments:
+  - created_at: '2010-07-23T17:10:03Z'
+    text: Approximate location only.
+    ref: 53b3984ae35eb1298400d7be
+collections:
+  - neds_corner_plants

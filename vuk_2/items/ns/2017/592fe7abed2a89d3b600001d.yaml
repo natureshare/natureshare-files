@@ -1,0 +1,46 @@
+id:
+  - Diptera spp.
+created_at: '2017-06-01T10:08:43Z'
+datetime: '2017-06-01T20:07:00+10:00'
+elevation: 6.4
+latitude: -38.038219
+location_name: 'Chelsea Heights VIC 3196, Australia'
+longitude: 145.126182
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2017-06-05T09:54:31Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-05-31T17:39:00Z'
+    height: 1768
+    width: 2464
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/592fe821ed2a89398400000b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592fe821ed2a89398400000b.JPG'
+  - datetime: '2017-05-31T17:36:10Z'
+    height: 992
+    width: 808
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/592fe825ed2a89398400000c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592fe825ed2a89398400000c.JPG'
+  - datetime: '2017-05-31T17:39:23Z'
+    height: 2784
+    width: 2080
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/592fe82ded2a89398400000d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592fe82ded2a89398400000d.JPG'
+comments:
+  - created_at: '2017-06-01T10:11:44Z'
+    text: Bradysia spp.  Sciaridae
+    ref: 592fe860ed2a89eb04000496
+    name: Vuk Vojis
+    username: vuk_2
+  - replying_to: 592fe860ed2a89eb04000496
+    created_at: '2017-06-01T13:44:38Z'
+    text: Bradysia spp. added to db. Marvellous detail for such a small insect!
+    ref: 59301a46ed2a89eb0400050c
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-06-01T14:04:09Z'
+    text: 'The biggest problem is how to make a picture without hurting them, sciarides are always hyperactive.'
+    ref: 59301ed9ed2a89eb0400050e
+    name: Vuk Vojis
+    username: vuk_2

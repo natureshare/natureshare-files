@@ -1,0 +1,37 @@
+id:
+  - name: Goodenia elongata
+    by: andrewbrown
+created_at: '2017-10-02T06:45:04Z'
+datetime: '2017-10-02T10:47:50+10:00'
+latitude: -36.393997
+longitude: 143.653917
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2017-10-02T06:45:04Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-10-02T10:47:50Z'
+    height: 2048
+    width: 1536
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59d1ceafed2a89398400038d.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59d1ceafed2a89398400038d.jpeg'
+  - datetime: '2017-10-02T10:47:54Z'
+    height: 2048
+    width: 1536
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59d1cedded2a893984000392.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59d1cedded2a893984000392.jpeg'
+comments:
+  - created_at: '2017-10-02T07:10:58Z'
+    text: Goodenia sp. Not sure which not ovata
+    ref: 59d1e682ed2a892d4000208d
+    name: Kevin Sparrow
+    username: banksiaman
+  - created_at: '2017-10-02T10:34:48Z'
+    text: <em>Goodenia elongata</em> species id suggested
+    ref: 59d21648ed2a8969e1000026
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - wedderburn_josephine_drive

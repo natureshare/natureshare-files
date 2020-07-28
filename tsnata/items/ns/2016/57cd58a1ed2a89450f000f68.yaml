@@ -1,0 +1,35 @@
+id:
+  - name: Pterostylis grandiflora
+    by: koolah
+created_at: '2016-09-05T11:40:01Z'
+datetime: '2016-09-04T06:49:01+10:00'
+elevation: 128.8
+latitude: -38.420429
+location_name: 'Grantville VIC 3984, Australia'
+longitude: 145.546261
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-09-05T11:41:04Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-04T06:49:01Z'
+    height: 2400
+    width: 1800
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57cd58baed2a89b718000014.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57cd58baed2a89b718000014.jpg'
+  - datetime: '2016-09-04T06:48:30Z'
+    height: 2400
+    width: 1800
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57cd58d4ed2a89d73e00001b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57cd58d4ed2a89d73e00001b.jpg'
+comments:
+  - created_at: '2016-09-05T12:24:44Z'
+    text: <em>Pterostylis grandiflora</em> species id suggested
+    ref: 57cd640ced2a89450f000f8f
+    name: Cathy Powers
+    username: koolah
+collections:
+  - grantville_lodge

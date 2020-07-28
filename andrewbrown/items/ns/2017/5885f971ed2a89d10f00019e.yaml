@@ -1,0 +1,41 @@
+id:
+  - name: Parasynthemis regina
+    by: cclarke
+created_at: '2017-01-27T12:35:39Z'
+datetime: '2017-01-21T09:32:07+10:00'
+description: Blue-spotted hawker maybe?
+elevation: 215.7
+latitude: -36.775752
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.356429
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-01-28T02:59:30Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-01-21T09:32:07Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5885f97ded2a89d73e0002f1.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5885f97ded2a89d73e0002f1.jpeg'
+tags:
+  - dragonfly-blue
+comments:
+  - created_at: '2017-01-28T02:58:20Z'
+    text: 'http://photos.rnr.id.au/2013/04/12/dragonfly_Parasynthemis_regina_f_Boondooma130412-5946.jpg'
+    ref: 588c08cced2a89d10f001276
+    name: Chris Clarke
+    username: cclarke
+  - created_at: '2017-01-28T02:58:58Z'
+    text: <em>Parasynthemis regina</em> species id suggested
+    ref: 588c08f2ed2a89d10f001279
+    name: Chris Clarke
+    username: cclarke
+  - created_at: '2017-01-28T02:59:25Z'
+    text: Good find - seems to be a first for Natureshare
+    ref: 588c090ded2a89d10f00127a
+    name: Chris Clarke
+    username: cclarke
+collections:
+  - wildlife_of_junortoun

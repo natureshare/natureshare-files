@@ -1,0 +1,38 @@
+id:
+  - name: Platyzosteria spp.
+    by: david_francis
+created_at: '2017-02-06T09:58:30Z'
+datetime: '2017-02-05T14:44:18+10:00'
+description: cockroach ?
+elevation: 285.7
+latitude: -37.527545
+location_name: 'Sunbury VIC 3429, Australia'
+longitude: 144.763293
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-02-10T05:36:24Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-02-05T14:44:18Z'
+    height: 4608
+    width: 3456
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5898477eed2a89b3fe000390.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5898477eed2a89b3fe000390.JPG'
+  - datetime: '2017-02-05T14:44:21Z'
+    height: 4608
+    width: 3456
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/589847eeed2a892daf0003a9.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/589847eeed2a892daf0003a9.JPG'
+comments:
+  - created_at: '2017-02-10T04:17:31Z'
+    text: 'I asked David Rentz to ID this cockroach and he said Platyzosteria sp. '
+    ref: 589d3edbed2a89d10f003a43
+    name: Ken Walker
+    username: kenw
+  - created_at: '2017-02-10T05:37:14Z'
+    text: Identified by David Rentz per Ken Walker. Thanks Ken and David.
+    ref: 589d518aed2a89d10f003a83
+    name: David Francis
+    username: david_francis

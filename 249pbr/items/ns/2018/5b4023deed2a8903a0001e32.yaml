@@ -1,0 +1,29 @@
+id:
+  - Pseudohydnum gelatinosum
+created_at: '2018-07-07T02:26:57Z'
+datetime: '2016-07-02T14:17:19+10:00'
+description: Two images
+elevation: 704.5
+latitude: -37.435607
+location_name: 'Lerderderg VIC 3458, Australia'
+longitude: 144.305669
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-07-07T02:30:45Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-07-02T14:17:19Z'
+    height: 3276
+    width: 4092
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b402411ed2a89402b000037.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b402411ed2a89402b000037.jpg'
+  - datetime: '2016-07-02T14:14:25Z'
+    height: 4000
+    width: 6000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b4023e4ed2a89402b000036.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b4023e4ed2a89402b000036.jpg'
+collections:
+  - wombat_forest_-_fungi

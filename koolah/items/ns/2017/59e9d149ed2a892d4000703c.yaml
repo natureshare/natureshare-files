@@ -1,0 +1,30 @@
+id:
+  - Callionyma sarcodes
+created_at: '2017-10-20T10:38:37Z'
+datetime: '2017-10-18T21:02:23+10:00'
+elevation: 262.1
+latitude: -37.80658
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.296975
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-10-20T10:38:37Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-18T21:02:52Z'
+    height: 2000
+    width: 1797
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59e9d16aed2a893984000512.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59e9d16aed2a893984000512.jpg'
+  - datetime: '2017-10-18T21:02:23Z'
+    height: 1428
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59e9d14fed2a893984000511.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59e9d14fed2a893984000511.jpg'
+tags:
+  - moth
+collections:
+  - brisbane_ranges_moths

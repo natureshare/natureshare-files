@@ -1,0 +1,55 @@
+id:
+  - name: Lobelia spp.
+    by: david_francis
+created_at: '2017-01-29T05:03:13Z'
+datetime: '2017-01-19T15:41:41+10:00'
+description: First sighting. Lobelia?
+latitude: -38.678135
+longitude: 143.830483
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-01-29T05:03:13Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-19T15:41:41Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588d7750ed2a89d73e000339.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588d7750ed2a89d73e000339.jpg'
+comments:
+  - created_at: '2017-01-29T10:26:29Z'
+    text: 'Going by the shape of the corolla, most likely Lobelia gibbosa but similar to Lobelia simplicicaulis which has different (oblanceolate) leaves. Both found in the Wye River area.'
+    ref: 588dc355ed2a89d10f0017eb
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-30T05:14:22Z'
+    text: <em>Lobelia spp.</em> species id suggested
+    ref: 588ecbaeed2a89d10f001a2e
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-30T05:16:45Z'
+    text: 'Not forgetting Lobelia rhombifolia, another look-alike from that area.'
+    ref: 588ecc3ded2a89d10f001a2f
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-30T05:17:56Z'
+    text: Complicated group needing detailed examination for an id.
+    ref: 588ecc84ed2a89d10f001a33
+    name: David Francis
+    username: david_francis
+  - replying_to: 588ecc84ed2a89d10f001a33
+    created_at: '2017-02-03T04:56:39Z'
+    text: 'More likely to be Lobelia simplicicaulis. Lobelia gibbosa has white line on the bottom three corolla (From http://saseedbank.com.au/). Maybe better as Lobelia spp.'
+    ref: 58940d87ed2a89d10f0026d1
+    name: Thomas Nataprawira
+    username: tsnata
+  - replying_to: 58940d87ed2a89d10f0026d1
+    created_at: '2017-02-03T05:03:53Z'
+    text: 'Thanks for the great tip. I see that only the central corolla lobe has the white line(s), so not gibbosa. I agree though to be safe, leave as Lobelia sp.'
+    ref: 58940f39ed2a89d10f0026d6
+    name: David Francis
+    username: david_francis
+collections:
+  - grey_river

@@ -1,0 +1,38 @@
+id:
+  - Amphirhoe decora
+created_at: '2016-11-12T02:59:30Z'
+datetime: '2016-11-11T12:29:46+10:00'
+description: Feeding on leptospermum flowers in Churchill NP
+elevation: 85.6
+latitude: -37.949184
+location_name: 'Lysterfield South VIC 3156, Australia'
+longitude: 145.254234
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-11-16T11:49:37Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-11-11T12:29:46Z'
+    height: 1500
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/582683bded2a89b3fe0001c7.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/582683bded2a89b3fe0001c7.JPG'
+tags:
+  - beetle
+  - longicorn
+comments:
+  - created_at: '2016-11-12T05:50:28Z'
+    text: Amphirhoe decora added to NS db.
+    ref: 5826ada4ed2a897480003566
+    name: David Francis
+    username: david_francis
+  - replying_to: 5826ada4ed2a897480003566
+    created_at: '2016-11-16T11:47:23Z'
+    text: Thanks David.
+    ref: 582c474bed2a89de570000f3
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_coleoptera

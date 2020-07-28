@@ -1,0 +1,32 @@
+id:
+  - Coprosma quadrifida
+created_at: '2016-09-23T00:33:11Z'
+datetime: '2016-08-11T17:13:16+10:00'
+description: "Dioecious (functionally).\r\nThis is a male individual."
+elevation: 349.6
+latitude: -37.895684
+location_name: Sherbrooke VIC 3789澳洲
+longitude: 145.36487
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-09-23T01:54:46Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-08-11T17:13:16Z'
+    height: 2592
+    width: 3872
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e47764ed2a892daf000084.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e47764ed2a892daf000084.JPG'
+  - datetime: '2016-08-11T17:13:36Z'
+    height: 2592
+    width: 3872
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e47882ed2a89b3fe000077.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e47882ed2a89b3fe000077.JPG'
+tags:
+  - leaves
+  - male-flower
+collections:
+  - sherbrooke-forest

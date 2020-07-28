@@ -1,0 +1,31 @@
+id:
+  - Isolepis levynsiana
+created_at: '2014-11-12T11:49:11Z'
+datetime: '2014-11-11T13:17:01+10:00'
+latitude: -37.449112
+longitude: 144.645508
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-11-13T23:16:56Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-11-11T13:17:01Z'
+    height: 3111
+    width: 2048
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54634937e35eb16f3a00000b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54634937e35eb16f3a00000b.jpg'
+comments:
+  - created_at: '2014-11-12T12:47:33Z'
+    text: 'Immediately Aphelia gracilis sprung to mind, but I haven''t seen it this robust. What size is it?'
+    ref: 546356e5e35eb16f3a00001f
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 546356e5e35eb16f3a00001f
+    created_at: '2014-11-12T21:22:27Z'
+    text: 'I hadn''t contemplate Aphelia gracilis (despite finding A. pumilio at this site just a week ago!). Closest I could come up with is Isolepis levynsiana. I will look into A. gracilis. The whole plant was small, maybe 10cm across.'
+    ref: 5463cf93e35eb16f3a000047
+    name: Russell Best
+    username: russell
+collections:
+  - conglomerate_gully_riddells_creek_plants

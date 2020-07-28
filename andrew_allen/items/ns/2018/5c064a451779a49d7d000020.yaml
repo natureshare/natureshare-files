@@ -1,0 +1,36 @@
+id:
+  - Rutilia spp.
+created_at: '2018-12-04T09:35:01Z'
+datetime: '2018-12-03T16:45:00+10:00'
+description: I think this is Rutilia (Chrysorutilia) imperialis
+elevation: 133.3
+latitude: -37.64914
+location_name: 'Greenvale VIC 3059, Australia'
+longitude: 144.861005
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2018-12-04T09:41:28Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_583ba1bbed2a897480005b25/2018-12-04/1543915905/fly-2018-12-03-woodlands-1.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_583ba1bbed2a897480005b25/2018-12-04/1543915905/fly-2018-12-03-woodlands-1.jpg'
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_583ba1bbed2a897480005b25/2018-12-04/1543916038/fly-2018-12-03-woodlands-2.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_583ba1bbed2a897480005b25/2018-12-04/1543916038/fly-2018-12-03-woodlands-2.jpg'
+comments:
+  - created_at: '2018-12-05T23:42:54Z'
+    text: 'These large, showy, flies are one of my favourites. There seems to be a large number of Rutilia species. What feature made you think imperialis?'
+    ref: 5c08627e1779a46aac0000ea
+    name: David Francis
+    username: david_francis
+  - replying_to: 5c08627e1779a46aac0000ea
+    created_at: '2018-12-06T03:12:10Z'
+    text: 'Not imperialis on closer inspection. '
+    ref: 5c08938a1779a4ac150000e8
+    name: Andrew Allen
+    username: andrew_allen
+collections:
+  - woodlands_historic_park_insects_and_spiders
+  - woodlands_historic_park_-_diptera

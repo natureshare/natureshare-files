@@ -1,0 +1,29 @@
+id:
+  - Epidesmia tryxaria
+created_at: '2016-11-11T12:03:42Z'
+datetime: '2016-11-11T21:19:52+10:00'
+latitude: -37.806765
+longitude: 144.297192
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-11-11T12:03:42Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-11-11T21:19:52Z'
+    height: 1179
+    width: 1650
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5825b32bed2a89b7180001ab.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5825b32bed2a89b7180001ab.jpg'
+  - datetime: '2016-11-11T21:20:07Z'
+    height: 1723
+    width: 1797
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5825b345ed2a89d73e0001b0.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5825b345ed2a89d73e0001b0.jpg'
+tags:
+  - light-brown
+  - moth
+collections:
+  - brisbane_ranges_moths

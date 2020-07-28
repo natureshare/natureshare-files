@@ -1,0 +1,36 @@
+id:
+  - Ancita spp.
+created_at: '2017-04-17T08:08:32Z'
+datetime: '2017-03-20T00:03:55+10:00'
+description: Any help with ID greatly appreciated.
+elevation: 261.3
+latitude: -37.806608
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-04-17T12:08:38Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-03-20T00:03:55Z'
+    height: 1502
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58f4773fed2a89e5480000e0.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58f4773fed2a89e5480000e0.JPG'
+tags:
+  - beetle
+comments:
+  - created_at: '2017-04-17T09:53:55Z'
+    text: 'Cerambycidae, compare Ancita sp.'
+    ref: 58f490b3ed2a894865002c9c
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-04-17T12:09:17Z'
+    text: Thanks David.
+    ref: 58f4b06ded2a894865002d31
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brisbane_ranges_insects

@@ -1,0 +1,33 @@
+id:
+  - Eutorna pabulicola
+created_at: '2017-12-21T12:04:26Z'
+datetime: '2017-10-23T21:18:49+10:00'
+description: "I believe this is Eutorna pabulicola, could this please be added to the database if confirmed\r\nSecond image shows different aspect"
+latitude: -37.224434
+longitude: 144.309678
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-12-22T21:48:12Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-23T21:18:49Z'
+    height: 978
+    width: 810
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a3b91aded2a892d15000038.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a3b91aded2a892d15000038.jpg'
+  - datetime: '2017-10-23T21:14:32Z'
+    height: 1062
+    width: 786
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a3b91c8ed2a893fb7000053.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a3b91c8ed2a893fb7000053.jpg'
+comments:
+  - created_at: '2017-12-22T02:44:05Z'
+    text: Confirmed and species added.  This will be the first observation on ALA as well - wonderful image.
+    ref: 5a3c7175ed2a89e23c000f24
+    name: Cathy Powers
+    username: koolah
+collections:
+  - drummond_nearby_forests_-_moths

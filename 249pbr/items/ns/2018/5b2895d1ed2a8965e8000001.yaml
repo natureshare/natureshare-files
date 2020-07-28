@@ -1,0 +1,40 @@
+id:
+  - Dermocybe canaria
+created_at: '2018-06-19T05:38:59Z'
+datetime: '2011-06-19T16:12:04+10:00'
+description: '3 images - This species is now known as Cortinarius canarius, could the new name be added to the database please. Recent molecular work has returned all the Australian Dermocybe back to Cortinarius'
+elevation: 604
+latitude: -37.476575
+location_name: 'Blackwood VIC 3458, Australia'
+longitude: 144.28827
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-06-19T13:23:40Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2011-06-19T16:12:04Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b2895e0ed2a897570000027.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2895e0ed2a897570000027.jpg'
+  - datetime: '2011-06-19T16:10:45Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b2895d6ed2a89d0e7000042.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2895d6ed2a89d0e7000042.jpg'
+  - datetime: '2011-06-19T16:10:31Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b2895e1ed2a89d0e7000043.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2895e1ed2a89d0e7000043.jpg'
+comments:
+  - created_at: '2018-06-19T10:13:18Z'
+    text: Fixed and listed Dermocybe canarius as a synonym per ALA
+    ref: 5b28d73eed2a8978590051f9
+    name: Cathy Powers
+    username: koolah
+collections:
+  - wombat_forest_-_fungi

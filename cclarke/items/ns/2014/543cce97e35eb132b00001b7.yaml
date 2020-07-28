@@ -1,0 +1,31 @@
+id:
+  - Arthropodium strictum s.l.
+created_at: '2014-10-14T07:19:51Z'
+datetime: '2014-10-11T13:23:52+10:00'
+latitude: -38.422222
+longitude: 144.168611
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-10-14T07:20:32Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-11T13:23:52Z'
+    height: 1208
+    width: 1248
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/543cce97e35eb132b00001b5.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/543cce97e35eb132b00001b5.jpg'
+comments:
+  - created_at: '2014-10-18T04:19:49Z'
+    text: 'This one is a little unusual as it has one flower per node, like strictum s.s., but lacks the yellow at the base of the anthers, which would normally rule out strictum s.s., but it also doesn''t fit the alternatives. Did you take any other pics from this location?'
+    ref: 5441ea65e35eb132b00003f7
+    name: Russell Best
+    username: russell
+  - replying_to: 5441ea65e35eb132b00003f7
+    created_at: '2014-10-19T22:43:08Z'
+    text: No more pics - thousands of flowers - but only got the one photo!
+    ref: 54443e7ce35eb1a22800000d
+    name: Chris Clarke
+    username: cclarke
+collections:
+  - anglesea_heath_flora_and_fauna

@@ -1,0 +1,39 @@
+id:
+  - Ochrogaster lunifer
+created_at: '2017-03-09T10:20:28Z'
+datetime: '2017-03-05T09:06:13+10:00'
+description: 'Long haired caterpillar crossing the track. A few days earlier, a whole procession of these caterpillars was observed following each other across the track.'
+elevation: 210.3
+latitude: -36.779112
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.375533
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-03-10T07:31:29Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-03-05T09:06:13Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58bfe7b3ed2a89a81f000038.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58bfe7b3ed2a89a81f000038.jpeg'
+tags:
+  - caterpillar
+  - caterpillar-gray
+  - caterpillar-hairy
+comments:
+  - created_at: '2017-03-09T21:30:21Z'
+    text: Maybe Ochrogaster lunifer
+    ref: 58c1c96ded2a8938900038d9
+    name: Andrew Allen
+    username: andrew_allen
+  - created_at: '2017-03-10T07:32:02Z'
+    text: 'Thanks Andrew, most likely it.'
+    ref: 58c25672ed2a89c180000001
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - wildlife_of_junortoun
+  - moths_of_junortoun
+  - moths_of_central_victoria

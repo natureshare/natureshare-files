@@ -1,0 +1,30 @@
+id:
+  - Isochorista encotodes
+created_at: '2019-08-29T09:19:21Z'
+datetime: '2012-02-13T00:00:13+10:00'
+elevation: 65.3
+latitude: -37.7383
+location_name: '42 High St, Coburg VIC 3058, Australia'
+longitude: 144.956818
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2019-09-01T12:56:07Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-02-13T00:00:13Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_5c639c983abbd6ed0f00003c/2019-08-29/feb12_12_tort_isochorista_encotodes_imgp0771_cropns.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-08-29/feb12_12_tort_isochorista_encotodes_imgp0771_cropns.jpeg'
+comments:
+  - created_at: '2019-08-31T01:36:31Z'
+    text: Isochorista encotodes added to dataset
+    ref: 5d69cf1fcad3eb91f3000075
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2019-09-01T12:56:22Z'
+    text: Thanks Cathy
+    ref: 5d6bbff6cad3eb91f3000081
+    name: Wendy Moore
+    username: wendymoore
+collections:
+  - coburg_moths

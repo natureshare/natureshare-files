@@ -1,0 +1,31 @@
+id:
+  - name: Ectropis spp.
+    by: russell
+created_at: '2015-02-16T05:37:32Z'
+datetime: '2015-02-16T14:51:25+10:00'
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-02-19T15:20:28Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-02-16T14:51:25Z'
+    height: 1318
+    width: 1964
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54e1821ced2a89d990000238.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e1821ced2a89d990000238.JPG'
+tags:
+  - moth
+comments:
+  - created_at: '2015-02-19T15:22:17Z'
+    text: 'ID to genus by Marilyn Hewish who added "This is an Ectropis species, probably undescribed. It''s in the next Ennominae MoV I''m preparing but I haven''t sorted the Ectropis yet." Exciting!!'
+    ref: 54e5ffa9ed2a8987b700043e
+    name: Russell Best
+    username: russell
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains
+  - butterflies_moths_seen_at_145_gibsons_road_cobains

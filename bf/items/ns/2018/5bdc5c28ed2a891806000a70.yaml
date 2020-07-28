@@ -1,0 +1,36 @@
+id:
+  - Bulbine bulbosa
+created_at: '2018-11-02T14:20:22Z'
+datetime: '2018-10-31T17:03:20+10:00'
+description: 3 Photos
+elevation: 516.7
+latitude: -37.623905
+location_name: '400 Sullivans Rd, Mount Egerton VIC 3352, Australia'
+longitude: 144.068585
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2018-11-02T14:20:59Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-10-31T17:03:20Z'
+    height: 1960
+    width: 4032
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bdc5c53ed2a89c6aa000126.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bdc5c53ed2a89c6aa000126.jpg'
+  - datetime: '2018-10-31T17:08:38Z'
+    height: 1960
+    width: 4032
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bdc5c30ed2a89280700013c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bdc5c30ed2a89280700013c.jpg'
+  - datetime: '2018-10-31T17:02:19Z'
+    height: 1960
+    width: 4032
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bdc5c76ed2a891efe000121.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bdc5c76ed2a891efe000121.jpg'
+tags:
+  - flower
+collections:
+  - millbrook

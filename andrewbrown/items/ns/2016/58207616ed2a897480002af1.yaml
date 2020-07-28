@@ -1,0 +1,47 @@
+id:
+  - Hydrocotyle laxiflora
+created_at: '2016-11-08T11:34:19Z'
+datetime: '2016-10-30T09:52:34+10:00'
+description: Creeping plant growing beneath a yellow gum.
+elevation: 216.1
+latitude: -36.775331
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.355813
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-11-17T12:02:01Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-30T09:52:34Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58207624ed2a89b3fe0001b1.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58207624ed2a89b3fe0001b1.JPG'
+  - datetime: '2016-10-30T09:52:27Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5820762aed2a892daf0001ce.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5820762aed2a892daf0001ce.JPG'
+tags:
+  - hairy-leaves
+comments:
+  - created_at: '2016-11-08T20:33:39Z'
+    text: <em>Hydrocotyle spp.</em> species id suggested
+    ref: 582236a3ed2a897480002db2
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2016-11-08T20:34:47Z'
+    text: 'Quite possibly H. laxiflora, which nay have been flowering and would produce a fetid odour.'
+    ref: 582236e7ed2a897480002db3
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2016-11-09T10:13:53Z'
+    text: 'Thanks Chris, looks like it. I''ll check for flowers when I go back as didn''t notice any at the time.'
+    ref: 5822f6e1ed2a897480002f1b
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - junortoun_flora

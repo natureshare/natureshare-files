@@ -1,0 +1,28 @@
+id:
+  - Wallabia bicolor
+created_at: '2015-10-20T11:42:37Z'
+datetime: '2015-01-12T20:13:08+10:00'
+elevation: 371.5
+latitude: -37.262745
+location_name: 'Willowmavin VIC 3764, Australia'
+longitude: 144.861261
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2015-10-20T11:48:55Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-01-12T20:14:08Z'
+    height: 1936
+    width: 2592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56262a0ced2a890d95000597.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56262a0ced2a890d95000597.JPG'
+  - datetime: '2015-01-12T20:13:08Z'
+    height: 1936
+    width: 2592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/562628bfed2a890d95000596.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/562628bfed2a890d95000596.JPG'
+collections:
+  - fauna_of_willowmavin

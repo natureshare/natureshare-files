@@ -1,0 +1,39 @@
+id:
+  - Epicyrtica docima
+created_at: '2019-03-24T11:02:19Z'
+datetime: '2019-03-23T20:15:53+10:00'
+latitude: -37.874448
+longitude: 145.420627
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2019-03-25T06:42:11Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2019-03-23T20:15:53Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_5c1ed10e3abbd6b7f00000e2/2019-03-24/1553425312/DSCN5261.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c1ed10e3abbd6b7f00000e2/2019-03-24/1553425312/DSCN5261.JPG'
+comments:
+  - created_at: '2019-03-24T12:04:10Z'
+    text: Epicyrtica docima Moths of Vic pt8 speccy moth!
+    ref: 5c97723a3abbd6390d000125
+    name: Wendy Moore
+    username: wendymoore
+  - created_at: '2019-03-25T04:11:33Z'
+    text: Your photos are beautifully sharp Daniel.
+    ref: 5c9854f53abbd6b625000162
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - created_at: '2019-03-25T05:01:41Z'
+    text: Species added to dataset.
+    ref: 5c9860b53abbd6390d000184
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5c9854f53abbd6b625000162
+    created_at: '2019-03-25T12:25:32Z'
+    text: Thank you.
+    ref: 5c98c8bc3abbd66a61000107
+    name: Daniel Kurek
+    username: d_kurek
+collections:
+  - moths_of_metropolitan_melbourne

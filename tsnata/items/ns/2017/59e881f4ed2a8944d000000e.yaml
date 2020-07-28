@@ -1,0 +1,31 @@
+id:
+  - name: Coronidium scorpioides s.s.
+    by: koolah
+created_at: '2017-10-19T10:45:52Z'
+datetime: '2017-10-14T10:17:00+10:00'
+description: ON Telegraph Road.
+elevation: 102.4
+latitude: -38.27684
+location_name: 'Cape Bridgewater VIC 3305, Australia'
+longitude: 141.438386
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-10-19T10:46:45Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-14T10:17:00Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59e881fced2a893984000509.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59e881fced2a893984000509.jpg'
+comments:
+  - created_at: '2017-10-19T20:51:21Z'
+    text: <em>Coronidium scorpioides s.s.</em> species id suggested
+    ref: 59e91049ed2a892d40006ceb
+    name: Cathy Powers
+    username: koolah
+collections:
+  - mt_richmond_np_plants

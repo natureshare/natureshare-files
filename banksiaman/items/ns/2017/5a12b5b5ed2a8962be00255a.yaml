@@ -1,0 +1,66 @@
+id:
+  - Euchiton involucratus s.s.
+created_at: '2017-11-20T11:00:05Z'
+datetime: '2017-11-19T10:40:02+10:00'
+latitude: -38.319255
+longitude: 142.627267
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-11-21T09:26:06Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-11-19T10:40:02Z'
+    height: 2494
+    width: 2629
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a12b5daed2a8939840006e8.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a12b5daed2a8939840006e8.JPG'
+  - datetime: '2017-11-19T10:40:11Z'
+    height: 2600
+    width: 2666
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a12b608ed2a8939840006e9.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a12b608ed2a8939840006e9.JPG'
+comments:
+  - created_at: '2017-11-20T12:07:24Z'
+    text: 'A Senecio, hard to tell which species without better developed flowers'
+    ref: 5a12c57ced2a8960ed00005a
+    name: John Walter
+    username: 249pbr
+  - created_at: '2017-11-20T12:13:10Z'
+    text: Euchiton sp. such as E. sphaericus ?
+    ref: 5a12c6d6ed2a8962be00259c
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-11-20T12:30:25Z'
+    text: Two photos
+    ref: 5a12cae1ed2a8962be0025a3
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-11-20T12:33:11Z'
+    text: 'Agree, Euchiton sphaericus.'
+    ref: 5a12cb87ed2a890804000001
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2017-11-21T08:47:56Z'
+    text: 'I suggested a Senecio based on the broad-based stem-clasping leaves and possible appearance of small auricles on the best viewed leaf, The leaf margins also appear to be lightly denticulate. The inflorescence is decidedly Euchiton but undeveloped flower buds in some Senecio start off looking very similar. If Euchiton, then E. involucratus as it has stem clasping leaf bases while E. sphaericus has narrow leaf bases.'
+    ref: 5a13e83ced2a8962be002936
+    name: John Walter
+    username: 249pbr
+  - replying_to: 5a13e83ced2a8962be002936
+    created_at: '2017-11-21T09:11:57Z'
+    text: 'Yes, John, if we had our hands on a specimen we would probably know immediately. Always hard from photos. In some cases it is best to leave it unidentified or ask for further photos. Looking forward to your help with future ids. '
+    ref: 5a13eddded2a8962be002959
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-11-21T09:22:54Z'
+    text: 'Thanks for your help, guys'
+    ref: 5a13f06eed2a8980410000ed
+    name: Kevin Sparrow
+    username: banksiaman
+  - created_at: '2017-11-21T09:29:15Z'
+    text: 'John, I see what you mean about the clasping leaf bases and that E. sphaericus leaves being obovate, oblanceolate to linear which this is not. So, yes I agree now - not Euchiton sphaericus.'
+    ref: 5a13f1ebed2a8962be002969
+    name: David Francis
+    username: david_francis
+collections:
+  - emeny_property_overlooking_hopkins_river_near_warrnambool

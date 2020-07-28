@@ -1,0 +1,42 @@
+id:
+  - Myiagra inquieta
+created_at: '2016-01-21T04:49:58Z'
+datetime: '2013-09-24T11:08:47+10:00'
+latitude: -34.140904
+longitude: 141.328025
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-01-21T06:44:07Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2013-09-24T11:08:47Z'
+    height: 2263
+    width: 1509
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a060d2ed2a89b31c000023.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a060d2ed2a89b31c000023.jpg'
+  - datetime: '2013-09-24T11:09:34Z'
+    height: 2608
+    width: 3912
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a0606bed2a891f7600001d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a0606bed2a891f7600001d.jpg'
+  - datetime: '2013-09-24T11:08:48Z'
+    height: 2750
+    width: 1833
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a060a0ed2a897bc7000026.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a060a0ed2a897bc7000026.jpg'
+comments:
+  - created_at: '2016-01-21T06:44:04Z'
+    text: Beautifully composed photo with background nicely out of focus.
+    ref: 56a07e34ed2a892d59000040
+    name: David Francis
+    username: david_francis
+  - replying_to: 56a07e34ed2a892d59000040
+    created_at: '2016-01-21T07:49:22Z'
+    text: Thanks David. Just a pity it wouldn't stay still and pose for me.
+    ref: 56a08d82ed2a892573000017
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - neds_corner_birds

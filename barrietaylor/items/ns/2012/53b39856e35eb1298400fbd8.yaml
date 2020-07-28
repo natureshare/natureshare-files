@@ -1,0 +1,28 @@
+created_at: '2012-11-23T12:25:06Z'
+datetime: '2011-10-04T12:49:59+10:00'
+description: site4 North and South
+latitude: -36.402078
+longitude: 143.627176
+non_identifying_photo: true
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2013-02-15T05:52:52Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-10-04T12:49:59Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39866e35eb12984013a0b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013a0b.jpg'
+  - datetime: '2011-10-04T12:50:04Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39866e35eb12984013a0c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013a0c.jpg'
+comments:
+  - created_at: '2013-02-15T05:48:48Z'
+    text: 'Site quadrat (circle) preburn data recorded by wcmn Observers on 4th Oct 2011. Each line has a maximum of 3 fields which are scientific name, common name, and quadrat quantity for that plant species. One of the first 2 fields may be omitted from the record. '
+    ref: 53b3984be35eb1298400da78
+  - created_at: '2013-02-15T05:49:03Z'
+    text: |-
+      Fringe Lilly 1
+      Grasses 2
+    ref: 53b3984be35eb1298400da79
+collections:
+  - wcmnpreburnedsites

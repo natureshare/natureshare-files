@@ -1,0 +1,44 @@
+id:
+  - name: Chlenias zonaea
+    by: david_francis
+created_at: '2017-10-12T12:12:08Z'
+datetime: '2017-10-01T14:00:53+10:00'
+description: "I think this is Chlenias zonaea\r\n\r\nPlease add to database if agreed.\r\n\r\n"
+elevation: 137.4
+latitude: -37.947082
+location_name: 'Lysterfield South VIC 3156, Australia'
+longitude: 145.257502
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-11-14T00:58:40Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-01T14:00:53Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59df24d4ed2a893984000476.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59df24d4ed2a893984000476.JPG'
+tags:
+  - caterpillar-patterned
+comments:
+  - created_at: '2018-04-24T09:49:30Z'
+    text: <em>Chlenias zonaea</em> species id suggested
+    ref: 5adefdaaed2a8994660073a8
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-04-24T09:49:41Z'
+    text: agreed!
+    ref: 5adefdb5ed2a8951f20000c0
+    name: David Francis
+    username: david_francis
+  - replying_to: 5adefdb5ed2a8951f20000c0
+    created_at: '2018-04-24T12:43:35Z'
+    text: Thanks David
+    ref: 5adf2677ed2a89946600747a
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_lepidoptera

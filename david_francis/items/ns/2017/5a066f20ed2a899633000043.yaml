@@ -1,0 +1,45 @@
+id:
+  - Hibbertia riparia
+created_at: '2017-11-11T03:34:24Z'
+datetime: '2017-11-11T09:53:28+10:00'
+description: 'Low, erect shrub'
+latitude: -37.118172
+longitude: 144.297336
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-11-12T02:49:35Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-11-11T09:53:28Z'
+    height: 1200
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a066f2bed2a89398400066f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a066f2bed2a89398400066f.jpg'
+  - datetime: '2017-11-11T09:53:06Z'
+    height: 1200
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a066f55ed2a893984000670.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a066f55ed2a893984000670.jpg'
+comments:
+  - created_at: '2017-11-11T03:36:44Z'
+    text: Good match for H. sericea but no records on ALA for the Fryerstown area.
+    ref: 5a06704ced2a89ad95001357
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-11-12T02:18:48Z'
+    text: I'm not sure that the stamen arrangement matches H. sericea.
+    ref: 5a07af88ed2a890f6a000074
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - replying_to: 5a07af88ed2a890f6a000074
+    created_at: '2017-11-12T02:34:18Z'
+    text: 'Thanks, Lorraine. I wasn''t at all confident of my id. I''ll put it back to unidentified. Any suggestions most welcome.'
+    ref: 5a07b32aed2a8962be00020e
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-11-12T02:49:59Z'
+    text: I'll try H. riparia (form)
+    ref: 5a07b6d7ed2a890f6a000081
+    name: David Francis
+    username: david_francis

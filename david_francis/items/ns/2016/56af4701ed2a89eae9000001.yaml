@@ -1,0 +1,33 @@
+id:
+  - Gasteruption spp.
+created_at: '2016-02-01T11:53:50Z'
+datetime: '2016-02-01T09:50:14+10:00'
+elevation: 525.2
+latitude: -37.408466
+location_name: 'Mount Macedon VIC 3441, Australia'
+longitude: 144.594889
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-02-01T23:44:30Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-02-01T09:50:14Z'
+    height: 768
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56af4706ed2a89b31c000052.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56af4706ed2a89b31c000052.jpg'
+comments:
+  - created_at: '2016-02-01T12:10:58Z'
+    text: Amazing looking creature!
+    ref: 56af4b52ed2a899b8700000e
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2016-02-01T20:26:06Z'
+    text: Wonderful photo David
+    ref: 56afbf5eed2a89d94d000009
+    name: Pauline McCarthy
+    username: pauline
+collections:
+  - insects_and_other_arthropods_of_mt_macedon

@@ -1,0 +1,31 @@
+id:
+  - Vanellus tricolor
+created_at: '2017-01-04T06:22:08Z'
+datetime: '2016-04-07T13:03:34+10:00'
+latitude: -34.247195
+longitude: 141.41976
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-01-04T10:05:38Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-04-07T13:03:34Z'
+    height: 775
+    width: 1162
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/586c9450ed2a89b7180002b7.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/586c9450ed2a89b7180002b7.jpg'
+  - datetime: '2016-04-07T13:03:30Z'
+    height: 675
+    width: 1013
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/586c944ded2a89d73e000298.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/586c944ded2a89d73e000298.jpg'
+  - datetime: '2016-04-07T13:06:38Z'
+    height: 725
+    width: 1088
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/586c944eed2a892daf0002ce.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/586c944eed2a892daf0002ce.jpg'
+collections:
+  - neds_corner_birds

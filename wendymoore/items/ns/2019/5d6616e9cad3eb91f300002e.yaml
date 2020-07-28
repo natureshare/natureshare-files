@@ -1,0 +1,30 @@
+id:
+  - Holocola thalassinana
+created_at: '2019-08-28T05:53:45Z'
+datetime: '2012-02-02T14:58:10+10:00'
+elevation: 65.3
+latitude: -37.7383
+location_name: '42 High St, Coburg VIC 3058, Australia'
+longitude: 144.956818
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2019-09-01T12:54:39Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-02-02T14:58:10Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_5c639c983abbd6ed0f00003c/2019-08-28/feb02_12_tort_oleth_holocola_thalassinana_imgp9916_cropns.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-08-28/feb02_12_tort_oleth_holocola_thalassinana_imgp9916_cropns.jpeg'
+comments:
+  - created_at: '2019-08-31T01:31:02Z'
+    text: Holocola thalassinana added to dataset if needed.
+    ref: 5d69cdd6cad3ebb2a100007b
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2019-09-01T12:54:59Z'
+    text: Thanks Cathy
+    ref: 5d6bbfa3cad3ebb2a1000081
+    name: Wendy Moore
+    username: wendymoore
+collections:
+  - coburg_moths

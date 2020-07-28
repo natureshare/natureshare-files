@@ -1,0 +1,46 @@
+id:
+  - Pachycephala rufiventris
+created_at: '2017-03-11T03:35:42Z'
+datetime: '2017-03-11T09:52:30+10:00'
+elevation: 12.2
+latitude: -38.082558
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.0863
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-03-11T10:17:12Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-03-11T09:52:30Z'
+    height: 1983
+    width: 2934
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58c36f56ed2a89a81f000041.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c36f56ed2a89a81f000041.JPG'
+  - datetime: '2017-03-11T09:52:37Z'
+    height: 1966
+    width: 2904
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58c36f7eed2a894410000054.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c36f7eed2a894410000054.JPG'
+  - datetime: '2017-03-11T09:52:25Z'
+    height: 2076
+    width: 3038
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58c36fa6ed2a89e54800004c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c36fa6ed2a89e54800004c.JPG'
+tags:
+  - bird
+  - female
+comments:
+  - created_at: '2017-03-11T03:45:56Z'
+    text: Female Rufous Whistler
+    ref: 58c372f4ed2a893890003cee
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 58c372f4ed2a893890003cee
+    created_at: '2017-03-11T10:14:02Z'
+    text: Thanks Andrew.
+    ref: 58c3cdeaed2a896f27000010
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - birds_seen_at_145_gibsons_road_cobains

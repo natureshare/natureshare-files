@@ -1,0 +1,37 @@
+id:
+  - Lepidopteryx spp.
+created_at: '2018-12-04T09:07:19Z'
+datetime: '2018-12-03T16:15:00+10:00'
+description: 'Bark beetle, Lepidopteryx sp., please add to database. Three photos added.'
+elevation: 139.4
+latitude: -37.646974
+location_name: '119 Providence Rd, Greenvale VIC 3059, Australia'
+longitude: 144.865779
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2018-12-06T03:02:04Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_583ba1bbed2a897480005b25/2018-12-04/1543913343/bark-beetle-2018-12-03-woodlands-1.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_583ba1bbed2a897480005b25/2018-12-04/1543913343/bark-beetle-2018-12-03-woodlands-1.jpg'
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_583ba1bbed2a897480005b25/2018-12-04/1543914315/bark-beetle-2018-12-03-woodlands-3.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_583ba1bbed2a897480005b25/2018-12-04/1543914315/bark-beetle-2018-12-03-woodlands-3.jpg'
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_583ba1bbed2a897480005b25/2018-12-04/1543914273/bark-beetle-2018-12-03-woodlands-2.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_583ba1bbed2a897480005b25/2018-12-04/1543914273/bark-beetle-2018-12-03-woodlands-2.jpg'
+comments:
+  - created_at: '2018-12-05T23:59:53Z'
+    text: Lepidopteryx genus now added. Nice obs. -first for NS.
+    ref: 5c0866791779a4b8d50000d0
+    name: David Francis
+    username: david_francis
+  - created_at: '2019-04-25T10:06:22Z'
+    text: Leperina lacera (aka Lepidopteryx lacera)
+    ref: 5cc1869e3abbd6cb52000011
+    name: Kimberi Pullen
+    username: kimberip
+collections:
+  - woodlands_historic_park_insects_and_spiders
+  - woodlands_historic_park_-_coleoptera

@@ -1,0 +1,34 @@
+created_at: '2017-09-02T12:05:32Z'
+datetime: '2017-08-07T17:05:58+10:00'
+elevation: 91.8
+latitude: -38.457897
+location_name: 'Cape Schanck VIC 3939, Australia'
+longitude: 144.888331
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-09-02T12:05:32Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-08-07T17:05:58Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59aa7363ed2a8939840001e6.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59aa7363ed2a8939840001e6.JPG'
+tags:
+  - flower-pink
+  - shrub-medium
+comments:
+  - created_at: '2017-09-02T13:01:12Z'
+    text: Pimelea sp.? - not unlike the WA species P. ferruginea but hard to tell.
+    ref: 59aaab98ed2a892c74000117
+    name: David Francis
+    username: david_francis
+  - replying_to: 59aaab98ed2a892c74000117
+    created_at: '2017-09-02T13:08:37Z'
+    text: Yes looks like it David. Must be an escapee from a garden?
+    ref: 59aaad55ed2a892c7400011b
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - cape_schank_flora

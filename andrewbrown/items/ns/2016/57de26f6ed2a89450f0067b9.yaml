@@ -1,0 +1,50 @@
+created_at: '2016-09-18T05:55:36Z'
+datetime: '2016-09-10T09:07:08+10:00'
+description: Prickly watle
+elevation: 226.1
+latitude: -36.783993
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.371048
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-09-19T03:17:38Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-10T09:07:08Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57de270eed2a89b718000042.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57de270eed2a89b718000042.JPG'
+tags:
+  - flower-yellow
+comments:
+  - created_at: '2016-09-18T10:03:14Z'
+    text: Hedge Wattle has thorns along the stem at the bases of the phyllodes. This could be a form of A. acinacea
+    ref: 57de6662ed2a89450f006891
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-09-18T11:10:49Z'
+    text: I agree. Looks to be one of the many forms of Acacia acinacea.
+    ref: 57de7639ed2a89450f0068be
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2016-09-18T13:23:01Z'
+    text: It does have thorns along the stems ??
+    ref: 57de9535ed2a89450f0068e7
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 57de9535ed2a89450f0068e7
+    created_at: '2016-09-18T22:04:42Z'
+    text: 'Would you therefore consider a hybrid between paradoxa and acinacea? '
+    ref: 57df0f7aed2a89450f00697c
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2016-09-19T03:17:04Z'
+    text: 'Andrew and Chris, I''ve put this back to "unidentified" if that''s alright - pending further evidence of thorns/spines to fit https://vicflora.rbg.vic.gov.au/flora/taxon/fc1c0e04-bf6f-4220-aac8-7a26a9eb36dc or hybrid features.'
+    ref: 57df58b0ed2a89450f0069af
+    name: David Francis
+    username: david_francis
+collections:
+  - junortoun_flora

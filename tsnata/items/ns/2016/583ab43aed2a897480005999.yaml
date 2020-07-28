@@ -1,0 +1,42 @@
+id:
+  - name: Brachydeutera spp.
+    by: david_francis
+created_at: '2016-11-27T10:31:34Z'
+datetime: '2016-11-27T12:35:58+10:00'
+description: 'Are they the same Ephydridae spp as an earlier observation? They were in the wetland area, some of them were walking on water.'
+elevation: 1.5
+latitude: -37.797296
+location_name: 'Footscray VIC 3011, Australia'
+longitude: 144.915009
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-11-27T11:03:23Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-11-27T12:35:58Z'
+    height: 1799
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/583ab469ed2a89b7180001f4.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/583ab469ed2a89b7180001f4.JPG'
+  - datetime: '2016-11-27T12:35:26Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/583ab446ed2a89b7180001f3.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/583ab446ed2a89b7180001f3.JPG'
+comments:
+  - created_at: '2016-11-27T12:56:50Z'
+    text: 'Yes, it looks the same as your previous observation. Brachydeutera sp. Family: Ephydridae '
+    ref: 583ad812ed2a8974800059d8
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-11-27T13:02:10Z'
+    text: <em>Brachydeutera spp.</em> species id suggested
+    ref: 583ad952ed2a8974800059e2
+    name: David Francis
+    username: david_francis
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong

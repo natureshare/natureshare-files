@@ -1,0 +1,29 @@
+id:
+  - Grifola spp.
+created_at: '2018-07-13T15:14:15Z'
+datetime: '2011-04-09T08:58:07+10:00'
+description: This is a Grifola species that looks a little different from the species generally photographed and labelled as Grifola colensoi. Two images.
+elevation: 648.1
+latitude: -37.340533
+location_name: 'Wheatsheaf VIC 3461, Australia'
+longitude: 144.260062
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-07-13T15:14:40Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2011-04-09T08:58:07Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b48b138ed2a891efe000050.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b48b138ed2a891efe000050.jpg'
+  - datetime: '2011-04-09T08:56:37Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b48b162ed2a892807000058.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b48b162ed2a892807000058.jpg'
+collections:
+  - wombat_forest_-_fungi

@@ -1,0 +1,41 @@
+id:
+  - Enchoptera spp.
+created_at: '2015-02-25T06:31:43Z'
+datetime: '2014-12-12T14:30:00+10:00'
+description: "Body length about 25mm. Very long scape on antennae.\r\nFeeding on the flowers of a small tree (Bentham's Cornel - Cornus capitata) in a local reserve. \r\nMost likely 'Enchoptera apicalis'."
+elevation: 520.1
+latitude: -37.877005
+location_name: 'Sherbrooke VIC 3789, Australia'
+longitude: 145.349517
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2016-10-20T03:10:17Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 384
+    width: 512
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54ed6c4eed2a89277100007b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ed6c4eed2a89277100007b.jpg'
+  - datetime: '2014-12-11T23:26:38Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54ed6c4eed2a89277100007c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ed6c4eed2a89277100007c.jpg'
+tags:
+  - beetle
+comments:
+  - created_at: '2015-02-25T07:07:49Z'
+    text: 'Yes, it is Cerambycidae.  Have a look at this sighting on Bowerbird. http://www.bowerbird.org.au/observations/11893       Also, my sighting of Enchoptera spp. is here on Natureshare and also on Bowerbird (but they are not good photos).'
+    ref: 54ed74c5ed2a89013000007f
+    name: Suzanne Jones
+    username: suzanne
+  - replying_to: 54ed74c5ed2a89013000007f
+    created_at: '2015-02-25T09:02:00Z'
+    text: 'That looks as close as possible :) Thanks!'
+    ref: 54ed8f88ed2a8927710000a0
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_coleoptera

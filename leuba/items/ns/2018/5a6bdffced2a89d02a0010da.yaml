@@ -1,0 +1,41 @@
+id:
+  - Zonaria spp.
+created_at: '2018-01-27T02:19:12Z'
+datetime: '2018-01-20T16:44:49+10:00'
+description: "A small clump of brown algae (Phaeophyceae) with flat dark lower branches and twisted paler tips.\r\nSpotted on a tidal zone - Balnarring beach ( Westernport Bay).\r\nMy thanks to Janine Baker for identifying the genus.  Possibly Z.spiralis "
+elevation: 2
+latitude: -38.396663
+location_name: 'Victoria, Australia'
+longitude: 145.115525
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-05-28T05:26:21Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-01-20T16:44:49Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a6bdfffed2a895fa2000026.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a6bdfffed2a895fa2000026.jpg'
+  - datetime: '2018-01-20T16:44:57Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a6be01fed2a896ec000002f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a6be01fed2a896ec000002f.jpg'
+tags:
+  - seaweed
+comments:
+  - created_at: '2018-01-27T06:16:07Z'
+    text: 'Zonaria spp. added. (NS adds the group/plural name: spp. = set of all Zonaria species).'
+    ref: 5a6c1927ed2a89d02a00123b
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-01-31T13:32:08Z'
+    text: Thanks !
+    ref: 5a71c558ed2a8945870002c4
+    name: Leuba Ridgway
+    username: leuba
+collections:
+  - littoral_zones

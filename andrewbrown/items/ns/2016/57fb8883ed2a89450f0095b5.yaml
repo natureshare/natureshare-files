@@ -1,0 +1,54 @@
+id:
+  - Goodenia pinnatifida
+created_at: '2016-10-10T12:33:36Z'
+datetime: '2016-10-08T15:32:12+10:00'
+description: Small herb approx. 12-25cm with lobed leaves.
+elevation: 209.6
+latitude: -36.775228
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.35886
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-12T11:07:57Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-08T15:32:12Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57fb8866ed2a892daf000123.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57fb8866ed2a892daf000123.JPG'
+  - datetime: '2016-10-08T15:31:03Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57fb8869ed2a89b3fe000104.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57fb8869ed2a89b3fe000104.JPG'
+  - datetime: '2016-10-08T15:32:20Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57fb88a3ed2a892daf000124.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57fb88a3ed2a892daf000124.JPG'
+  - datetime: '2016-10-08T15:30:50Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57fb88b7ed2a89d73e0000fd.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57fb88b7ed2a89d73e0000fd.JPG'
+tags:
+  - annual
+  - flower-yellow
+  - leaves-lobed
+comments:
+  - created_at: '2016-10-12T01:17:14Z'
+    text: "Some species of Goodenia.\r\nMaybe G. pinnatifida?"
+    ref: 57fd8f1aed2a89450f0098f4
+    name: Jing-Yi Lu
+    username: jylu
+  - created_at: '2016-10-12T11:06:59Z'
+    text: Thought it was a Goodenia by the flower shape but wasn't sure. Looks like the one. Thanks
+    ref: 57fe1953ed2a89450f0099f1
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - junortoun_flora

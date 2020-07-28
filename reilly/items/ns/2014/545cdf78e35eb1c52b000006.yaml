@@ -1,0 +1,58 @@
+id:
+  - name: Oxalis spp.
+    by: david_francis
+created_at: '2014-11-07T15:04:24Z'
+datetime: '2014-11-01T13:27:08+10:00'
+latitude: -37.066686
+longitude: 148.309542
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-11-11T01:55:36Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-11-01T13:27:08Z'
+    height: 1324
+    width: 1984
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/545cdf78e35eb1c52b000004.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545cdf78e35eb1c52b000004.jpg'
+  - datetime: '2014-11-01T13:26:46Z'
+    height: 1324
+    width: 1984
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/545cdf78e35eb1c52b000005.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545cdf78e35eb1c52b000005.jpg'
+tags:
+  - flower
+  - yellow
+comments:
+  - created_at: '2014-11-08T13:10:48Z'
+    text: 'Should separate these two pics into 2 observations as the 2 pics show different species, or add the second to your other Neopaxia observation?'
+    ref: 545e1658e35eb180c5000001
+    name: Russell Best
+    username: russell
+  - replying_to: 545e1658e35eb180c5000001
+    created_at: '2014-11-10T01:51:22Z'
+    text: 'Its hard to see, but the little yellow flowers are scattered in amongst the white ones in the 2nd photo.'
+    ref: 54601a1ae35eb10331000003
+    name: 'Reilly '
+    username: reilly
+  - replying_to: 54601a1ae35eb10331000003
+    created_at: '2014-11-10T06:52:16Z'
+    text: 'Still need to separate them because the first pic doesn''t show Neopaxia. As it stands, the Oxalis photo could be chosen as the thumbnail photo in the collection species list for Neopaxia australasica (and in other collections). It''s no problem separating them.'
+    ref: 546060a0e35eb1cb7f00003a
+    name: Russell Best
+    username: russell
+  - replying_to: 546060a0e35eb1cb7f00003a
+    created_at: '2014-11-11T01:57:37Z'
+    text: I removed the id for Neopaxia australasica. So now the main yellow flower shows up correctly for Oxalis and the 2nd photo just shows the environment it was found in - zoomed out.
+    ref: 54616d11e35eb11294000021
+    name: 'Reilly '
+    username: reilly
+  - replying_to: 546060a0e35eb1cb7f00003a
+    created_at: '2014-11-11T01:59:12Z'
+    text: "And this is the separate observation (uploaded at the same time as the yellow one).\r\n\r\nhttp://natureshare.org.au/observations/545cdfa3e35eb1c52b00000c"
+    ref: 54616d70e35eb11294000023
+    name: 'Reilly '
+    username: reilly
+collections:
+  - little-river-gorge-2014

@@ -1,0 +1,42 @@
+id:
+  - Lichenostomus chrysops
+created_at: '2014-10-19T22:45:08Z'
+datetime: '2014-10-19T11:58:03+10:00'
+elevation: 276.1
+latitude: -36.83177
+location_name: 'Mandurang VIC 3551, Australia'
+longitude: 144.317886
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-10-19T22:47:22Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-19T11:58:03Z'
+    height: 1647
+    width: 1524
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54443ef4e35eb1a22800000f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54443ef4e35eb1a22800000f.jpg'
+comments:
+  - created_at: '2014-10-19T22:50:56Z'
+    text: Very nice composition.
+    ref: 54444050e35eb1a22800001e
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 54444050e35eb1a22800001e
+    created_at: '2014-10-19T23:01:41Z'
+    text: "Isn't it a ripper!\r\n"
+    ref: 544442d5e35eb1a228000024
+    name: Chris Clarke
+    username: cclarke
+  - created_at: '2014-10-20T04:55:40Z'
+    text: Lovely photo
+    ref: 544495cce35eb11add00001f
+    name: Suzanne Jones
+    username: suzanne
+  - replying_to: 544495cce35eb11add00001f
+    created_at: '2014-10-20T07:58:39Z'
+    text: Thanks Suzanne - I couldn't believe it perched only 4m away and stayed there while i mucked around with my camera!
+    ref: 5444c0afe35eb11add00004f
+    name: Chris Clarke
+    username: cclarke

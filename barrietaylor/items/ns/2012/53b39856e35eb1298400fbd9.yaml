@@ -1,0 +1,32 @@
+created_at: '2012-11-23T12:26:52Z'
+datetime: '2011-10-04T00:00:00+10:00'
+description: site5 East and West
+latitude: -36.391737
+longitude: 143.633439
+non_identifying_photo: true
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2014-12-19T04:37:18Z'
+license: CC BY 2.5 AU
+comments:
+  - created_at: '2013-02-15T06:44:29Z'
+    text: 'Site quadrat (circle) preburn data recorded by wcmn Observers on 4th Oct 2011. Each line has a maximum of 3 fields which are scientific name, common name, and quadrat quantity for that plant species. One of the first 2 fields may be omitted from the record. '
+    ref: 53b3984be35eb1298400da8a
+  - created_at: '2013-02-15T06:44:52Z'
+    text: |
+      Einada hestata Saloop 10+
+      Cotula 10+
+      Scarlet Pimpernel 10+
+      ? Hounds Ear (Photo) 10
+      Plantain 10+
+      Grasses Wallaby 10+
+      Fungi – Brown 10+
+      Weed No. 1
+      Storks Bill (corkscrew) 1
+      Thistles 10+ 
+      Speedwell 10+
+      Dock 10+
+      Acacia acinacea Gold dust wattle 10+
+    ref: 53b3984be35eb1298400da8b
+collections:
+  - wcmnpreburnedsites

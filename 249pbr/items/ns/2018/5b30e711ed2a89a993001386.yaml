@@ -1,0 +1,29 @@
+id:
+  - Hypholoma fasciculare var. armeniacum
+created_at: '2018-06-25T12:58:57Z'
+datetime: '2017-06-04T15:22:09+10:00'
+description: 'This is Hypholoma fasciculare var armeniacum, noted for its smaller size and orange cap and gills making it quite distinct from the more common Hypholoma fasciculare var fasciculare in the images below. Could this be added to the database please.'
+elevation: 742.9
+latitude: -37.438095
+location_name: 'Blackwood VIC 3458, Australia'
+longitude: 144.270951
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-06-27T07:44:22Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-06-04T15:22:09Z'
+    height: 4000
+    width: 6000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b30e715ed2a891efe000017.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b30e715ed2a891efe000017.jpg'
+comments:
+  - created_at: '2018-06-27T05:30:36Z'
+    text: Species name added.
+    ref: 5b3320fced2a892bb8000098
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - wombat_forest_-_fungi

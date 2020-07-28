@@ -1,0 +1,60 @@
+id:
+  - Acacia brachybotrya
+created_at: '2017-10-29T10:53:25Z'
+datetime: '2017-10-14T15:22:29+10:00'
+description: Acacia just finished flowering.
+elevation: 183.8
+latitude: -36.548928
+location_name: 'Bagshot North VIC 3551, Australia'
+longitude: 144.381982
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-10-31T09:49:26Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-10-14T15:22:29Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59f4764eed2a893984000556.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59f4764eed2a893984000556.JPG'
+  - datetime: '2017-10-14T15:22:35Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59f4769fed2a893984000559.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59f4769fed2a893984000559.JPG'
+tags:
+  - flowers-spherical
+  - flowers-yellow
+  - leaves-obovate
+  - wattle
+comments:
+  - created_at: '2017-10-30T01:47:19Z'
+    text: Looks similar to Acacia brachybotrya.
+    ref: 59f684a7ed2a892d40009a35
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-10-30T08:05:03Z'
+    text: A bit out of usual range but what else could it be?
+    ref: 59f6dd2fed2a892d40009b97
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 59f6dd2fed2a892d40009b97
+    created_at: '2017-10-30T09:51:31Z'
+    text: 'The ALA has many records in that area. Zoom in the ALA map http://spatial.ala.org.au/?q=lsid:http://id.biodiversity.org.au/node/apni/2892012  The ALA is the best resource to use for distributions. I use the ALA to search an area to find out which species exist in a location.'
+    ref: 59f6f623ed2a892d40009bf9
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-10-30T12:33:46Z'
+    text: 'See https://natureshare.org.au/observations/53b39851e35eb1298400ec64'
+    ref: 59f71c2aed2a892d40009c8f
+    name: David Francis
+    username: david_francis
+  - replying_to: 59f6f623ed2a892d40009bf9
+    created_at: '2017-10-31T09:49:05Z'
+    text: Thanks David
+    ref: 59f84711ed2a892d4000a072
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - kamarooka_flora

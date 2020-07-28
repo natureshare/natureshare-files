@@ -1,0 +1,42 @@
+id:
+  - name: Drosera peltata subsp. peltata spp. agg.
+    by: russell
+created_at: '2014-11-04T10:32:45Z'
+datetime: '2014-10-11T15:05:05+10:00'
+elevation: 41.1
+latitude: -38.358871
+location_name: 'Warrnambool VIC 3280, Australia'
+longitude: 142.529035
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-11-06T13:21:12Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-11T15:05:05Z'
+    height: 1948
+    width: 1231
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5458ab4de35eb1be82000107.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5458ab4de35eb1be82000107.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2014-11-04T12:11:59Z'
+    text: 'I haven''t worked out the difference (if any) between the peltata subsp. peltata split from photos yet. It''s been split into D. peltata and D. hookeri, and both could be at that site maybe? If you''re not sure either it should be named Drosera peltata subsp. peltata spp. agg.. Here''s the key: http://keybase.rbg.vic.gov.au/key/bracketedkey/2266 '
+    ref: 5458c28fe35eb12c8f0001d1
+    name: Russell Best
+    username: russell
+  - replying_to: 5458c28fe35eb12c8f0001d1
+    created_at: '2014-11-05T11:13:26Z'
+    text: No worries
+    ref: 545a0656e35eb1fc6f000081
+    name: Kevin Sparrow
+    username: banksiaman
+  - replying_to: 545a0656e35eb1fc6f000081
+    created_at: '2014-11-07T00:43:15Z'
+    text: 'Hi Russell, Thanks for the keybase, I wasn''t aware that this existed online. Cheers, Kevn'
+    ref: 545c15a3e35eb1aa9e00002f
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - plants_of_tozer_reserve_near_warrnambool

@@ -1,0 +1,41 @@
+id:
+  - Utricularia dichotoma s.l.
+created_at: '2018-09-30T10:48:53Z'
+datetime: '2018-09-23T14:36:51+10:00'
+elevation: 367.4
+latitude: -37.147203
+location_name: 'Halls Gap VIC 3381, Australia'
+longitude: 142.503067
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-10-03T10:07:45Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-09-23T14:36:51Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bb0a790ed2a89c6aa0000cf.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bb0a790ed2a89c6aa0000cf.jpg'
+comments:
+  - created_at: '2018-10-01T22:46:20Z'
+    text: Utricularia grampiana. Separated from  U. dichotoma.
+    ref: 5bb2a3bced2a890b2700013e
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-10-04T01:02:18Z'
+    text: "U. dichotoma:Bracts and bracteoles attached to stems at base; upper lobe of perianth uniformly coloured\r\nU. grampiana: Bracts and bracteoles attached to stems distinctly above base; upper lobe of perianth usually with darker flecks. I can't see these features in the photo, so U. dichotoma more likely going on location and how common (U. grampiana rare and generally restricted to Mt Difficult and Mt William areas). Safe to give it U. dichotoma s.l."
+    ref: 5bb5669aed2a89c10e0008d1
+    name: David Francis
+    username: david_francis
+  - replying_to: 5bb5669aed2a89c10e0008d1
+    created_at: '2018-10-04T10:33:25Z'
+    text: Thanks David.
+    ref: 5bb5ec75ed2a89c10e000b2f
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - grampians_np_plants
+  - flora_and_fauna_of_the_grampians

@@ -1,0 +1,43 @@
+id:
+  - Rhapsa suscitatalis
+created_at: '2016-01-27T05:07:29Z'
+datetime: '2015-10-19T12:21:44+10:00'
+description: "Attracted to light at the edge of the national park (CFA)\r\n"
+elevation: 148.7
+latitude: -37.892603
+location_name: 'Upper Ferntree Gully VIC 3156, Australia'
+longitude: 145.31335
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-02-03T11:36:13Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-10-19T12:21:44Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/569e3427ed2a89e05000001e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/569e3427ed2a89e05000001e.JPG'
+  - datetime: '2015-10-19T12:21:53Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/569e3428ed2a897bc7000018.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/569e3428ed2a897bc7000018.JPG'
+tags:
+  - moth
+comments:
+  - created_at: '2016-01-30T05:20:10Z'
+    text: Have a look at Rhapsa suscitatalis
+    ref: 56ac480aed2a8974100000b7
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 56ac480aed2a8974100000b7
+    created_at: '2016-02-03T11:35:04Z'
+    text: 'Oh no... you''re right. Maybe I should have a break and review as I''ve found so many of these in years past and still not recognising them. :('
+    ref: 56b1e5e8ed2a89d94d000108
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_lepidoptera

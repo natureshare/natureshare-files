@@ -1,0 +1,67 @@
+id:
+  - Coniopteryx (Xeroconiopteryx) spp.
+created_at: '2017-04-25T10:21:41Z'
+datetime: '2017-04-25T20:20:00+10:00'
+description: Found Resting on the leaf
+elevation: 3.1
+latitude: -38.037259
+location_name: 'Chelsea Heights VIC 3196, Australia'
+longitude: 145.129447
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2017-05-08T11:42:19Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-04-25T21:15:58Z'
+    height: 1584
+    width: 2384
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58ff237bed2a89e54800010e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ff237bed2a89e54800010e.JPG'
+tags:
+  - imago
+comments:
+  - created_at: '2017-04-26T04:32:13Z'
+    text: From what I can see it is has the look of a Springtail (Collembola) but I'm not at all sure.
+    ref: 590022cded2a893d8c0004c6
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-04-26T08:57:20Z'
+    text: 'Does not have any spring tail.  Looks like Cimicidae, there is not any Thorax. '
+    ref: 590060f0ed2a893d8c00059b
+    name: Vuk Vojis
+    username: vuk_2
+  - created_at: '2017-04-27T05:41:13Z'
+    text: Cimicidae spp. available in database if you wish to add the id. Your insect observations are most unusual and interesting.
+    ref: 59018479ed2a893486000008
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-05-04T22:25:00Z'
+    text: 'It is Coniopterigidae sp, Larva'
+    ref: 590baa3ced2a893d8c001f53
+    name: Vuk Vojis
+    username: vuk_2
+  - created_at: '2017-05-05T13:48:53Z'
+    text: Coniopteryx spp. larva
+    ref: 590c82c5ed2a893d8c0021de
+    name: Vuk Vojis
+    username: vuk_2
+  - replying_to: 59018479ed2a893486000008
+    created_at: '2017-05-07T10:44:17Z'
+    text: 'Hi David, It is Conyopteryx larva, but There is not genus Conyopteryx  in Data Base. They are very common anyway.'
+    ref: 590efa81ed2a893d8c002745
+    name: Vuk Vojis
+    username: vuk_2
+  - replying_to: 590c82c5ed2a893d8c0021de
+    created_at: '2017-05-08T04:33:29Z'
+    text: 'Coniopteryx (Xeroconiopteryx) spp. available in database. See https://natureshare.org.au/observations/58b63c5aed2a893890001aec?species=Coniopteryx+%28Xeroconiopteryx%29+spp.'
+    ref: 590ff519ed2a893d8c002939
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-05-08T11:42:38Z'
+    text: Thanks David
+    ref: 591059aeed2a89e06e000002
+    name: Vuk Vojis
+    username: vuk_2
+collections:
+  - edithvale_insects

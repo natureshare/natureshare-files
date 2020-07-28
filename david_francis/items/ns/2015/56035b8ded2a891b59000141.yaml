@@ -1,0 +1,31 @@
+id:
+  - Empididae spp.
+created_at: '2015-09-24T02:10:21Z'
+datetime: '2015-09-22T16:25:55+10:00'
+latitude: -37.408333
+longitude: 144.595239
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-09-24T02:11:41Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-09-22T16:26:28Z'
+    height: 750
+    width: 1000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56035ba9ed2a890d95000240.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56035ba9ed2a890d95000240.jpg'
+  - datetime: '2015-09-22T16:25:55Z'
+    height: 750
+    width: 1000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56035b9fed2a890d9500023e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56035b9fed2a890d9500023e.jpg'
+  - datetime: '2015-09-22T16:25:27Z'
+    height: 750
+    width: 1000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56035ba4ed2a890d9500023f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56035ba4ed2a890d9500023f.jpg'
+collections:
+  - insects_and_other_arthropods_of_mt_macedon

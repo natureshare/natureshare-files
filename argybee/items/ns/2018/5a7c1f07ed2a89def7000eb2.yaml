@@ -1,0 +1,32 @@
+id:
+  - Acmotoma magniferella
+created_at: '2018-02-08T10:01:01Z'
+datetime: '2018-01-26T01:54:14+10:00'
+description: Attracted to lights.
+elevation: 168.2
+latitude: -37.899749
+location_name: 'Upper Ferntree Gully VIC 3156, Australia'
+longitude: 145.311289
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-02-08T10:01:19Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-01-26T01:54:14Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a7c1f0bed2a895fa2000053.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a7c1f0bed2a895fa2000053.jpg'
+  - datetime: '2018-01-26T01:54:22Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a7c1fd0ed2a8966a0000032.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a7c1fd0ed2a8966a0000032.jpg'
+tags:
+  - moth
+  - moth-small
+collections:
+  - dandenong_ranges_lepidoptera

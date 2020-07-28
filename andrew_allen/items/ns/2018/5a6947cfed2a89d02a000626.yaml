@@ -1,0 +1,44 @@
+id:
+  - Abispa spp.
+created_at: '2018-01-25T03:06:49Z'
+datetime: '2018-01-25T11:17:00+10:00'
+description: "I think Abispa (Abispa) ephippium,  see https://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:d2dac84e-c302-4ac7-9fdc-6ba4a02b476a#gallery\r\n\r\n"
+elevation: 1.2
+latitude: -37.875779
+location_name: 'Altona VIC 3018, Australia'
+longitude: 144.81281
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-01-25T09:08:59Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 2008
+    width: 3012
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a6947d2ed2a895fa2000010.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a6947d2ed2a895fa2000010.jpg'
+  - height: 2235
+    width: 3353
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a6947ceed2a895fa200000f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a6947ceed2a895fa200000f.jpg'
+  - height: 2178
+    width: 3266
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a6947d3ed2a896ec0000018.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a6947d3ed2a896ec0000018.jpg'
+comments:
+  - created_at: '2018-01-25T05:29:16Z'
+    text: 'It''s good match on Ken Walker''s id looking at the black pattern on the thorax which seems to vary. See http://www.bowerbird.org.au/observations/65350'
+    ref: 5a696b2ced2a89d02a0006e0
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-01-25T05:30:38Z'
+    text: .... although Reiner disputes Ken's identification - see his notes on the bowerbird observation above.
+    ref: 5a696b7eed2a89d02a0006e9
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-01-25T05:39:43Z'
+    text: 'Could be variation within the species or perhaps a different species. I’ll leave it as Abispa sp. for now. '
+    ref: 5a696d9fed2a89d02a0006f5
+    name: Andrew Allen
+    username: andrew_allen

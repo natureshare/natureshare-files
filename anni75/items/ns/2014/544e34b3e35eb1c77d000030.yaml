@@ -1,0 +1,42 @@
+id:
+  - Solanum spp.
+created_at: '2014-10-27T12:04:03Z'
+datetime: '2014-10-26T18:01:07+10:00'
+description: Post Mickleham fires Feb 2014.
+elevation: 384.1
+latitude: -37.281204
+location_name: 'Willowmavin VIC 3764, Australia'
+longitude: 144.867038
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-10-28T06:41:25Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-26T18:01:07Z'
+    height: 1936
+    width: 2592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/544e34b2e35eb1c77d00002f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544e34b2e35eb1c77d00002f.JPG'
+tags:
+  - juvenile
+comments:
+  - created_at: '2014-10-27T12:42:17Z'
+    text: Are you sure this is S. aviculare and not S. laciniatum?
+    ref: 544e3da9e35eb170b400004c
+    name: Russell Best
+    username: russell
+  - replying_to: 544e3da9e35eb170b400004c
+    created_at: '2014-10-27T12:46:21Z'
+    text: 'Is there a way to distinguish at this stage? I made the distinction based on what I have observed locally rather than in this particular plant. I can return for more information - what should I look for. '
+    ref: 544e3e9de35eb1c77d00004c
+    name: Annemaree Docking
+    username: anni75
+  - replying_to: 544e3e9de35eb1c77d00004c
+    created_at: '2014-10-27T12:49:03Z'
+    text: Only really from flowers but fruit colour and seed size are the best features distinguishing those species.
+    ref: 544e3f3fe35eb1c77d00004e
+    name: Russell Best
+    username: russell
+collections:
+  - flora_of_willowmavin

@@ -1,0 +1,43 @@
+id:
+  - Amyema miquelii
+created_at: '2017-02-19T06:30:43Z'
+datetime: '2017-02-19T10:00:40+10:00'
+description: Flowers and buds opening in 2nd pic
+elevation: 222.7
+latitude: -36.78444
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.367615
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-02-21T08:31:51Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-02-19T10:00:40Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58a939c7ed2a89d73e00039c.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a939c7ed2a89d73e00039c.jpeg'
+  - datetime: '2017-02-19T10:00:31Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58a939f0ed2a892daf0003e0.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a939f0ed2a892daf0003e0.jpeg'
+tags:
+  - flowers-red
+  - mistletoe
+comments:
+  - created_at: '2017-02-21T04:59:37Z'
+    text: 'I think this is Amyema miquelii or Box Mistletoe because the flowers are in threes, with the central flower stalked (pedunculate) the same as the other two. In A. pendula, the central flower is sessile - not on a stalk(peduncle)'
+    ref: 58abc939ed2a893890000311
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-21T08:33:57Z'
+    text: Thanks David. Yes they are hosted by a eucalypt which I'm yet to identify.
+    ref: 58abfb75ed2a89389000038e
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - junortoun_flora

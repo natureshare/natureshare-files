@@ -1,0 +1,45 @@
+id:
+  - Steccherinum ochraceum
+created_at: '2018-07-16T12:42:44Z'
+datetime: '2016-03-19T12:37:31+10:00'
+description: 'Several images including the tiny teeth on the underside. This species is Steccherinum ochraceum, could the database be updated to include it please. The upper surface is not actually green, that is an extensive algal growth.'
+elevation: 909.6
+latitude: -37.378565
+location_name: 'Mount Macedon VIC 3441, Australia'
+longitude: 144.611457
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-07-18T04:53:24Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-03-19T12:37:31Z'
+    height: 6000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b4c8645ed2a892807000060.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b4c8645ed2a892807000060.jpg'
+  - datetime: '2016-03-19T12:37:31Z'
+    height: 1256
+    width: 1680
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b4c863ced2a89c6aa00004f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b4c863ced2a89c6aa00004f.jpg'
+  - datetime: '2016-03-19T12:38:50Z'
+    height: 1650
+    width: 2220
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b4c8640ed2a89402b000057.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b4c8640ed2a89402b000057.jpg'
+  - datetime: '2016-03-19T12:40:00Z'
+    height: 1650
+    width: 2364
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b4c8655ed2a89402b000058.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b4c8655ed2a89402b000058.jpg'
+comments:
+  - created_at: '2018-07-18T02:59:16Z'
+    text: Species added to dataset.
+    ref: 5b4ead04ed2a8903a000552c
+    name: Cathy Powers
+    username: koolah
+collections:
+  - macedon_ranges_-_fungi

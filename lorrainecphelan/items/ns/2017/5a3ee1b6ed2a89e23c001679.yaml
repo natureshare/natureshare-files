@@ -1,0 +1,31 @@
+id:
+  - Melaleuca squarrosa
+created_at: '2017-12-23T23:10:55Z'
+datetime: '2017-12-24T10:06:22+10:00'
+description: Two photos
+elevation: 40
+latitude: -38.357121
+location_name: 'Anglesea VIC 3230, Australia'
+longitude: 144.174409
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-12-23T23:11:14Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-12-24T10:06:22Z'
+    height: 1201
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a3ee1f5ed2a890e9e00004a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a3ee1f5ed2a890e9e00004a.jpg'
+  - datetime: '2017-12-20T21:02:15Z'
+    height: 1067
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a3ee1c1ed2a890e9e000049.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a3ee1c1ed2a890e9e000049.jpg'
+tags:
+  - flower
+collections:
+  - anglesea_heath_flora_and_fauna

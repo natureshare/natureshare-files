@@ -1,0 +1,75 @@
+id:
+  - Erythraeidae spp.
+created_at: '2014-09-30T01:26:32Z'
+datetime: '2014-09-29T10:01:57+10:00'
+description: 'Eight red legs, a metallic blue body and red mouthparts.  It was rescued from a water bucket, ran around constantly and even tried to burrow into the hand that was holding it.  It is an arachnid of some kind, but not sure if it is a harvestman, or a mite or a tick or a very unusual spider.'
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-10-02T00:41:21Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-29T10:01:57Z'
+    height: 720
+    width: 1087
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/542a06c7e35eb1feb00000f8.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/542a06c7e35eb1feb00000f8.JPG'
+  - datetime: '2014-09-29T10:01:30Z'
+    height: 1212
+    width: 1817
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/542a06c7e35eb1feb00000f9.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/542a06c7e35eb1feb00000f9.JPG'
+  - datetime: '2014-09-29T10:01:30Z'
+    height: 2432
+    width: 3648
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/542a06c7e35eb1feb00000fa.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/542a06c7e35eb1feb00000fa.JPG'
+  - datetime: '2014-09-29T10:02:11Z'
+    height: 906
+    width: 1403
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/542b9d8be35eb1398e000170.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/542b9d8be35eb1398e000170.JPG'
+  - datetime: '2014-09-29T10:02:45Z'
+    height: 2432
+    width: 3648
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/542b9d8be35eb1398e000171.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/542b9d8be35eb1398e000171.JPG'
+tags:
+  - mite
+comments:
+  - created_at: '2014-09-30T05:08:11Z'
+    text: 'A tick?- body shape, piercing mouthparts, black hook visible on end of top right leg in the first photo.'
+    ref: 542a3abbe35eb1feb0000138
+    name: David Francis
+    username: david_francis
+  - created_at: '2014-09-30T05:29:41Z'
+    text: 'Thanks David.  I have never seen a tick before.  This one was a fair size.  Wonder what type of creature it feeds from?  I think rabbits, mice, rats and humans would be the only mammals here  - although there are dogs, cows, horses and a goat in paddocks nearby.  Strange how a tick would get into a water bucket too!'
+    ref: 542a3fc5e35eb1dec10000d9
+    name: Suzanne Jones
+    username: suzanne
+  - created_at: '2014-10-01T00:48:03Z'
+    text: 'I wonder now, if this is a Spider Mite, Tetranychus spp.   I have just read that they suck fluids from leaves and make silk webs.  This fits in with the fact that, when my husband flicked it from his hand onto the ground, he said "It has to be a spider, it fell down like it was on a web".  Then again, it is such a size that I don''t know if Spider Mites can be that big, but apart from the colour, it does look like a photo I have seen of a Red Spider Mite.'
+    ref: 542b4f43e35eb1dec100011b
+    name: Suzanne Jones
+    username: suzanne
+  - replying_to: 542b4f43e35eb1dec100011b
+    created_at: '2014-10-01T04:41:15Z'
+    text: "You could be right - a tick wouldn't produce a web, I don't think.\r\nAny help on the Bowerbird website?"
+    ref: 542b85ebe35eb1feb0000176
+    name: David Francis
+    username: david_francis
+  - created_at: '2014-10-01T05:21:29Z'
+    text: 'No, no comments at all from there.'
+    ref: 542b8f59e35eb1398e000168
+    name: Suzanne Jones
+    username: suzanne
+  - created_at: '2014-10-02T00:42:06Z'
+    text: 'Identified as Erythraeidae by Stephen Thorpe, on Bowerbird website.'
+    ref: 542c9f5ee35eb1dec100015a
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains

@@ -1,0 +1,40 @@
+id:
+  - Cyanicula caerulea
+created_at: '2017-09-04T03:20:13Z'
+datetime: '2017-09-04T13:16:00+10:00'
+description: I think my identification is right in the first image but in the second (a different plant) but the labellum is yellow and not curled backbackwards (see second photo).
+elevation: 273.3
+latitude: -37.882184
+location_name: 'Steiglitz VIC 3331, Australia'
+longitude: 144.179419
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-09-04T03:21:34Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 1157
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59acc5b2ed2a8939840001f4.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59acc5b2ed2a8939840001f4.jpg'
+  - height: 1198
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59acc5afed2a8939840001f3.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59acc5afed2a8939840001f3.jpg'
+tags:
+  - flower-blue
+comments:
+  - created_at: '2017-09-04T12:37:14Z'
+    text: I think you are right with both Lorraine. Best to post separate observations for different individual plants unless both are in the same photo.
+    ref: 59ad48faed2a892c74000ae8
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 59ad48faed2a892c74000ae8
+    created_at: '2017-09-04T13:40:34Z'
+    text: 'Yes, I can see that would be better. '
+    ref: 59ad57d2ed2a89fcb8000121
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - brisbane_ranges_national_park_plants

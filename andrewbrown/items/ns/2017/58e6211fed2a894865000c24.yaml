@@ -1,0 +1,34 @@
+id:
+  - Latrodectus hasselti
+created_at: '2017-04-06T11:47:43Z'
+datetime: '2017-04-02T15:39:43+10:00'
+description: Red-back
+elevation: 204.8
+latitude: -36.77842
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381503
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-04-08T10:48:43Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-04-02T15:39:43Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58e62125ed2a8944100000c0.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e62125ed2a8944100000c0.jpeg'
+tags:
+  - body-black
+  - female-juvenile
+  - red-back
+  - spider
+comments:
+  - created_at: '2017-04-06T23:46:21Z'
+    text: 'Juvenile female? See http://www.arachne.org.au/01_cms/details.asp?ID=2092'
+    ref: 58e6d34ded2a894865000dc4
+    name: David Francis
+    username: david_francis
+collections:
+  - wildlife_of_junortoun

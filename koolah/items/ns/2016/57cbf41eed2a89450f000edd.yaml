@@ -1,0 +1,32 @@
+id:
+  - Caladenia parva
+created_at: '2016-09-04T10:25:23Z'
+datetime: '2016-09-03T12:41:50+10:00'
+elevation: 252.8
+latitude: -37.62919
+location_name: 'Dunkeld VIC 3294, Australia'
+longitude: 142.33231
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2016-09-05T10:40:41Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-03T12:41:50Z'
+    height: 1052
+    width: 1000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57cbf43ced2a892daf000018.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57cbf43ced2a892daf000018.jpg'
+tags:
+  - hairy-leaf
+  - orchid
+comments:
+  - created_at: '2016-09-05T11:37:51Z'
+    text: Nice early flowering.
+    ref: 57cd590fed2a892473000001
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - grampians_np_plants

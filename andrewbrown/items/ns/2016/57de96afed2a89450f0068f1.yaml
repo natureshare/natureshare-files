@@ -1,0 +1,47 @@
+id:
+  - name: Microseris walteri
+    by: david_francis
+created_at: '2016-09-18T13:38:32Z'
+datetime: '2016-09-10T10:06:43+10:00'
+elevation: 225.8
+latitude: -36.78389
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.371348
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-09-24T02:50:10Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-09-20T10:03:23Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e5e9fded2a892daf000090.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e5e9fded2a892daf000090.JPG'
+  - primary: true
+    datetime: '2016-09-10T10:06:43Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57de96bbed2a89d73e00004a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57de96bbed2a89d73e00004a.JPG'
+  - datetime: '2016-09-17T09:09:10Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57de96b8ed2a892daf000052.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57de96b8ed2a892daf000052.JPG'
+tags:
+  - flower-yellow
+comments:
+  - created_at: '2016-09-18T14:49:14Z'
+    text: Can't be lanceolata which In Victoria is confined to alpine and subalpine herbfields of the eastern ranges. It would be Microseris walteri.
+    ref: 57dea96aed2a89450f006948
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-09-19T03:03:40Z'
+    text: 'Yam daisy species revised this year with the common yam daisy (murnong) given the name M. walteri. See https://www.rbg.vic.gov.au/documents/MuelleriaVol_34_-_p63_Walsh.pdf'
+    ref: 57df558ced2a89774b000001
+    name: David Francis
+    username: david_francis
+collections:
+  - junortoun_flora

@@ -1,0 +1,60 @@
+id:
+  - Accipiter fasciatus
+created_at: '2016-01-07T00:19:50Z'
+datetime: '2016-01-07T09:23:09+10:00'
+description: 'Raptor bathing in one of our birdbaths.  '
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-01-07T06:07:48Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-01-07T09:23:09Z'
+    height: 2432
+    width: 3648
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/568dae81ed2a890f7e00000d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/568dae81ed2a890f7e00000d.JPG'
+  - datetime: '2016-01-07T09:23:01Z'
+    height: 2432
+    width: 3648
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/568dae90ed2a890f7e00000e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/568dae90ed2a890f7e00000e.JPG'
+tags:
+  - bathing
+  - bird
+  - immature
+  - raptor
+comments:
+  - created_at: '2016-01-07T00:43:45Z'
+    text: Hi Suzanne. My best guess is an immature Brown Goshawk.
+    ref: 568db4c1ed2a897cc900001c
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2016-01-07T02:01:50Z'
+    text: This must have been a pleasant surprise.
+    ref: 568dc70eed2a897cc9000020
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 568db4c1ed2a897cc900001c
+    created_at: '2016-01-07T06:04:05Z'
+    text: Thanks Chris.
+    ref: 568dffd5ed2a897ef600000e
+    name: Suzanne Jones
+    username: suzanne
+  - replying_to: 568dc70eed2a897cc9000020
+    created_at: '2016-01-07T06:05:57Z'
+    text: 'Yes, the bird was there for quite a few minutes.  It would sit quietly, then have a big splash in the water, then sit quietly again for a while before repeating.'
+    ref: 568e0045ed2a897ef6000014
+    name: Suzanne Jones
+    username: suzanne
+  - created_at: '2016-01-10T04:41:00Z'
+    text: Wow I wish they would visit here.
+    ref: 5691e0dced2a893be2000015
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - birds_seen_at_145_gibsons_road_cobains

@@ -1,0 +1,51 @@
+id:
+  - Acanthiza reguloides
+created_at: '2017-09-17T12:05:32Z'
+datetime: '2017-09-17T09:42:00+10:00'
+elevation: 221.4
+latitude: -36.783288
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.375769
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-09-18T07:25:47Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 900
+    width: 600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59be5817ed2a893984000258.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59be5817ed2a893984000258.JPG'
+  - height: 917
+    width: 611
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59be5824ed2a893984000259.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59be5824ed2a893984000259.JPG'
+tags:
+  - bird-small
+comments:
+  - created_at: '2017-09-17T21:26:56Z'
+    text: Buff-rumped Thornbill
+    ref: 59bee8a0ed2a8957de0008c2
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 59bee8a0ed2a8957de0008c2
+    created_at: '2017-09-18T07:32:53Z'
+    text: Thanks Andrew. I'm never sure how to distinguish the thornbills for positive id.
+    ref: 59bf76a5ed2a8957de000acd
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 59bf76a5ed2a8957de000acd
+    created_at: '2017-09-18T11:16:34Z'
+    text: 'http://www.peterfuller.com.au/birds/galleries/thornbills/brownthornbill.html'
+    ref: 59bfab12ed2a8957de000bfa
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 59bfab12ed2a8957de000bfa
+    created_at: '2017-09-18T12:25:37Z'
+    text: 'Excellent link for id. Thanks again :-)'
+    ref: 59bfbb41ed2a8957de000c24
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - wildlife_of_junortoun

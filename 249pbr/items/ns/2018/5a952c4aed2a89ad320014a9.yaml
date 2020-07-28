@@ -1,0 +1,32 @@
+id:
+  - Lactarius deliciosus
+created_at: '2018-02-27T11:07:17Z'
+datetime: '2016-02-20T10:24:37+10:00'
+description: 'Introduced edible species, note the orange milk and the beginnings of green staining on the third image'
+latitude: -37.380877
+longitude: 144.58187
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-02-27T22:35:42Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-02-20T10:24:37Z'
+    height: 1704
+    width: 2682
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a952c39ed2a897fc8000013.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a952c39ed2a897fc8000013.jpg'
+  - datetime: '2016-02-20T10:23:46Z'
+    height: 4000
+    width: 6000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a952c4eed2a89cf90000018.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a952c4eed2a89cf90000018.jpg'
+  - datetime: '2016-02-20T10:24:05Z'
+    height: 3881
+    width: 4566
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a952c58ed2a89abdd000012.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a952c58ed2a89abdd000012.jpg'
+collections:
+  - macedon_ranges_-_fungi

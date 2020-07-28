@@ -1,0 +1,33 @@
+id:
+  - Stibaroma melanotoxa
+created_at: '2018-04-14T11:05:50Z'
+datetime: '2018-04-07T22:11:19+10:00'
+elevation: 199.4
+latitude: -36.778256
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381049
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-04-14T11:05:55Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-04-07T22:11:19Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ad1e009ed2a8929e70000a7.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ad1e009ed2a8929e70000a7.JPG'
+tags:
+  - moth
+  - wings-grey
+  - wings-lined-black
+comments:
+  - created_at: '2018-04-14T11:49:04Z'
+    text: <em>Stibaroma melanotoxa</em> species id suggested
+    ref: 5ad1eab0ed2a8992f700020b
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - moths_of_junortoun
+  - moths_of_central_victoria

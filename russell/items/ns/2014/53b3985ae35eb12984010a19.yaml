@@ -1,0 +1,28 @@
+id:
+  - name: Fletchamia mediolineata
+created_at: '2014-01-01T15:24:44Z'
+datetime: '2013-12-30T15:11:52+10:00'
+description: 'Sitting on a waterside log, then moved into the water. Spotted by Lydia Best. ID by LW - see comments.'
+latitude: -37.450204
+longitude: 144.646899
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-07-02T15:01:53Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-12-30T15:11:52Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986be35eb12984014c82.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb12984014c82.jpg'
+  - datetime: '2013-12-30T15:12:42Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986be35eb12984014c83.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb12984014c83.jpg'
+comments:
+  - created_at: '2014-01-01T17:50:17Z'
+    text: 'Is this the land planarian or flatworm, Fletchamia sp.?'
+    ref: 53b3984ce35eb1298400dc7d
+  - created_at: '2014-01-02T17:25:14Z'
+    text: 'ID by LW, who said "In addition to the single, narrow dark-brown to black median dorsal stripe, at the anterior end the pinkish-brown tip is continued into two short dusky-brown stripes on each side of the median stripe; the one nearest the median stripe being the longest. In the anterior end these pale dusky stripes may be coalesced as in the image. At the posterior end also an ill-defined dusky stripe seems always to be present on each side of the median stripe, and this can be seen in the image."'
+    ref: 53b3984ce35eb1298400dc7e
+collections:
+  - insects_and_other_invertebrates_of_riddells_creek

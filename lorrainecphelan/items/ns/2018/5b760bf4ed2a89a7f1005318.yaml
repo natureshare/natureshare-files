@@ -1,0 +1,35 @@
+id:
+  - Lamprospora tuberculata
+created_at: '2018-08-16T23:47:06Z'
+datetime: '2018-08-16T16:19:24+10:00'
+description: Growing on sand on a burnt log with mosses. Lamprospora tuberculata = Octospora tuberculata according to Gates & Ratkowsky.
+elevation: 121.9
+latitude: -38.327893
+location_name: 'Paraparap VIC 3240, Australia'
+longitude: 144.153013
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-17T03:27:24Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-08-17T13:14:23Z'
+    height: 1201
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b764070ed2a89280700009c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b764070ed2a89280700009c.jpg'
+  - datetime: '2018-08-16T16:19:24Z'
+    height: 1200
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b760bf8ed2a89402b000086.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b760bf8ed2a89402b000086.jpg'
+comments:
+  - created_at: '2018-08-18T06:12:27Z'
+    text: Gates followed Index Fungorum with her species names but not all authorities have adopted changes listed there. The accepted name locally still appears to be Lamprospora tuberculata
+    ref: 5b77b8cbed2a89a7f1005af4
+    name: John Walter
+    username: 249pbr
+collections:
+  - anglesea_heath_flora_and_fauna
+  - otway_ranges_-_fungi

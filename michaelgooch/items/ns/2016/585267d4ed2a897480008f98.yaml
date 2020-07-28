@@ -1,0 +1,33 @@
+id:
+  - Xenus cinereus
+created_at: '2016-12-15T09:56:37Z'
+datetime: '2016-12-11T17:28:35+10:00'
+elevation: 0.5
+latitude: -37.993398
+location_name: 'Cocoroc VIC 3030, Australia'
+longitude: 144.605665
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-12-15T20:49:24Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-12-11T17:28:35Z'
+    height: 1365
+    width: 2048
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/585267dbed2a892daf00027c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/585267dbed2a892daf00027c.jpg'
+  - datetime: '2016-12-11T17:29:19Z'
+    height: 1365
+    width: 2048
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/585267e5ed2a892daf00027d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/585267e5ed2a892daf00027d.jpg'
+  - datetime: '2016-12-11T17:29:11Z'
+    height: 1365
+    width: 2048
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/585267efed2a892daf00027e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/585267efed2a892daf00027e.jpg'
+collections:
+  - birds_of_the_western_treatment_plant_werribee

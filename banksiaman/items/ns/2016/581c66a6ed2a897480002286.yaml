@@ -1,0 +1,32 @@
+id:
+  - Trifolium campestre var. campestre
+created_at: '2016-11-04T10:45:34Z'
+datetime: '2016-11-04T12:51:19+10:00'
+latitude: -37.932053
+longitude: 142.746092
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-11-04T11:08:37Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-11-04T12:51:19Z'
+    height: 2097
+    width: 2988
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/581c66b8ed2a89b718000185.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/581c66b8ed2a89b718000185.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2016-11-04T10:58:12Z'
+    text: Trifolium campestre ?
+    ref: 581c69c4ed2a8974800022be
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-11-04T11:09:14Z'
+    text: 'Thanks David, I couldn''t remember it.'
+    ref: 581c6c5aed2a8974800022c2
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - cobra_killuc_wildlife_reserve_and_ridge_paddock

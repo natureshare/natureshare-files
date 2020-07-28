@@ -1,0 +1,35 @@
+id:
+  - Caladenia gracilis
+created_at: '2014-10-26T00:17:21Z'
+datetime: '2014-10-25T12:50:41+10:00'
+latitude: -37.419272
+longitude: 144.553403
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-11-02T02:59:29Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-25T12:50:41Z'
+    height: 1024
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/544c3d91e35eb1c7670000fa.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544c3d91e35eb1c7670000fa.jpg'
+tags:
+  - flower
+  - orchid
+comments:
+  - created_at: '2014-10-26T01:08:33Z'
+    text: I'd say it isn't cucullata. If you look at gracilis records there is surprising variability with red- and yellow-tipped clubs on labellum. The colouring of the back of rear sepal is identical across gracilis and different to cucullata. But I'm happy to be wrong though.
+    ref: 544c4991e35eb1c767000113
+    name: Russell Best
+    username: russell
+  - replying_to: 544c4991e35eb1c767000113
+    created_at: '2014-10-26T01:22:31Z'
+    text: 'I gave a lot of weight to the lack of scent compared a C. gracilis about 50 m away which had a strong musky scent. The lack of deep purple colour on the labellum tip probably rules out C. cucullata, so I''ll change the id.'
+    ref: 544c4cd7e35eb172e40000f6
+    name: David Francis
+    username: david_francis
+collections:
+  - macedon_regional_park_environs_native_plants
+  - macedon_ranges_native_plants

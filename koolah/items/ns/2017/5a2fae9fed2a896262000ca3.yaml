@@ -1,0 +1,31 @@
+id:
+  - Leptozestis sp.
+created_at: '2017-12-12T10:28:30Z'
+datetime: '2017-02-24T00:55:52+10:00'
+description: Two photos
+elevation: 262.1
+latitude: -37.806575
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.296975
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-12-13T02:43:31Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-02-24T00:55:52Z'
+    height: 1770
+    width: 2231
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a2faeb5ed2a893fb7000018.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a2faeb5ed2a893fb7000018.jpg'
+  - datetime: '2017-02-24T00:58:45Z'
+    height: 1604
+    width: 1860
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a2faee9ed2a89298f000013.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a2faee9ed2a89298f000013.jpg'
+tags:
+  - moth
+collections:
+  - brisbane_ranges_moths

@@ -1,0 +1,29 @@
+id:
+  - Falco longipennis
+created_at: '2017-05-19T10:34:35Z'
+datetime: '2017-05-19T10:48:09+10:00'
+elevation: 6.7
+latitude: -37.795668
+location_name: 'Footscray VIC 3011, Australia'
+longitude: 144.912653
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-05-19T10:34:35Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-05-19T10:55:52Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/591ec9beed2a891d6d000157.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/591ec9beed2a891d6d000157.jpg'
+  - datetime: '2017-05-19T10:48:09Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/591ec9a9ed2a894410000138.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/591ec9a9ed2a894410000138.jpg'
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong

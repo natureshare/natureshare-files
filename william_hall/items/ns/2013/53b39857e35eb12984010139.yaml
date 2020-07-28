@@ -1,0 +1,25 @@
+id:
+  - name: Platalea flavipes
+created_at: '2013-05-26T15:10:32Z'
+datetime: '2013-05-13T09:41:17+10:00'
+description: 'Juvenile, identified by greyish colored bill'
+latitude: -37.445462
+longitude: 144.684647
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-07-03T06:31:32Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-05-13T09:41:17Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39867e35eb12984013e3f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39867e35eb12984013e3f.jpg'
+comments:
+  - created_at: '2013-05-26T15:17:42Z'
+    text: 'Taken with Samsung Note - bird on far side of lake was very wary. Tried to photograph from island, but bird left before I could get clear of the undergrowth.'
+    ref: 53b3984ce35eb1298400dacb
+  - created_at: '2013-05-26T15:29:14Z'
+    text: 'Great to get the species confirmed in Riddells Creek, Bill. The photo, though ordinary in itself, is great because it provides confirmation of the observation.'
+    ref: 53b3984ce35eb1298400dacc
+collections:
+  - birds_of_riddells_creek

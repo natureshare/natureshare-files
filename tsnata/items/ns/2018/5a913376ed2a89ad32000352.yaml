@@ -1,0 +1,43 @@
+id:
+  - Eurymeloides pulchra
+created_at: '2018-02-24T09:46:38Z'
+datetime: '2018-02-23T10:18:45+10:00'
+description: Immature cicadas? They are nymphs of green gum hopper.
+elevation: 3.8
+latitude: -37.795454
+location_name: 'Kensington VIC 3031, Australia'
+longitude: 144.916454
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-03-02T00:35:32Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-02-23T10:18:45Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a91337ced2a897fc8000002.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a91337ced2a897fc8000002.jpg'
+  - datetime: '2018-02-23T10:16:50Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a9133aded2a89cf9000000a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a9133aded2a89cf9000000a.jpg'
+tags:
+  - nymph
+comments:
+  - created_at: '2018-02-25T06:28:25Z'
+    text: How big were they?
+    ref: 5a925789ed2a89ad32000950
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - replying_to: 5a925789ed2a89ad32000950
+    created_at: '2018-02-27T09:44:30Z'
+    text: I think they are about 1 cm long.
+    ref: 5a95287eed2a89ad32001461
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - flemington_kensington_3031

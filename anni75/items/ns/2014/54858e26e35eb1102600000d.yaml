@@ -1,0 +1,54 @@
+id:
+  - Dianella amoena
+created_at: '2014-12-08T11:40:22Z'
+datetime: '2014-12-06T18:21:42+10:00'
+latitude: -37.262986
+longitude: 144.860033
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-12-08T11:51:20Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-12-06T18:21:42Z'
+    height: 3000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54858e24e35eb11026000008.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54858e24e35eb11026000008.JPG'
+  - datetime: '2014-12-06T18:19:23Z'
+    height: 3000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54858e24e35eb11026000009.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54858e24e35eb11026000009.JPG'
+  - datetime: '2014-12-06T18:22:15Z'
+    height: 3000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54858e24e35eb1102600000a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54858e24e35eb1102600000a.JPG'
+  - datetime: '2014-12-06T18:23:28Z'
+    height: 3000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54858e24e35eb1102600000b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54858e24e35eb1102600000b.JPG'
+  - datetime: '2014-12-03T20:06:59Z'
+    height: 3000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54858e24e35eb1102600000c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54858e24e35eb1102600000c.JPG'
+tags:
+  - flower
+  - flower-blue
+comments:
+  - created_at: '2014-12-08T13:32:33Z'
+    text: Fantastic!
+    ref: 5485a871e35eb1b974000005
+    name: Russell Best
+    username: russell
+  - replying_to: 5485a871e35eb1b974000005
+    created_at: '2014-12-08T20:38:55Z'
+    text: It is! Thanks for the confirmation. I will make sure it is well looked after.
+    ref: 54860c5fe35eb19dfb000001
+    name: Annemaree Docking
+    username: anni75
+collections:
+  - flora_of_willowmavin

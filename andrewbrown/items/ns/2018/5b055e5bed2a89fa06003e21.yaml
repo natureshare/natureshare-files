@@ -1,0 +1,39 @@
+id:
+  - Oxycanus silvanus
+created_at: '2018-05-23T12:31:53Z'
+datetime: '2018-05-21T22:17:50+10:00'
+description: Large moth approx. 45mm
+elevation: 199.4
+latitude: -36.778256
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381049
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-05-23T12:38:35Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-05-21T22:17:50Z'
+    height: 3264
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b055eb8ed2a89e82200000d.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b055eb8ed2a89e82200000d.jpeg'
+  - datetime: '2018-05-21T22:17:07Z'
+    height: 3264
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b055e62ed2a89d0e7000010.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b055e62ed2a89d0e7000010.jpeg'
+  - datetime: '2018-05-21T22:16:57Z'
+    height: 3264
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b055e95ed2a89d0e7000011.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b055e95ed2a89d0e7000011.jpeg'
+tags:
+  - moth
+  - moth-brown
+  - moth-large
+collections:
+  - moths_of_junortoun
+  - moths_of_central_victoria

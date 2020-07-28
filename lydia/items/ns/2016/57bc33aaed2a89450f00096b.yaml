@@ -1,0 +1,40 @@
+id:
+  - Pterostylis melagramma
+created_at: '2016-08-23T11:46:52Z'
+datetime: '2016-08-18T16:09:36+10:00'
+description: 'Please help with ID and sorry for the bad photo, I took it with my Laptop and I was trying not to touch it but it in a rather awkward position on the edge of a very steep bank. It is the first greenhood I have seen this season.'
+elevation: 513
+latitude: -37.431326
+location_name: 'Riddells Creek VIC 3431, Australia'
+longitude: 144.65235
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2016-08-26T23:22:45Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-08-18T16:09:36Z'
+    height: 720
+    width: 1280
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57bc33b0ed2a892daf00000e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57bc33b0ed2a892daf00000e.jpg'
+comments:
+  - created_at: '2016-08-23T16:46:40Z'
+    text: You took the photo with your laptop?! That's impressive!
+    ref: 57bc7df0ed2a89450f000997
+    name: 'Reilly '
+    username: reilly
+  - created_at: '2016-08-23T23:26:28Z'
+    text: 'Lydia. Well done capturing this with your laptop. Nice tall specimen. You are right with Pterostylis longifolia s.l., which can be further identified more strictly as Pterostylis melagramma.'
+    ref: 57bcdba4ed2a89450f0009ad
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2016-08-26T23:23:39Z'
+    text: 'Thank you Chris for the help identifying it, i have updated the observation now.'
+    ref: 57c0cf7bed2a89450f000b1a
+    name: Lydia Best
+    username: lydia
+collections:
+  - riddells_creek_plants

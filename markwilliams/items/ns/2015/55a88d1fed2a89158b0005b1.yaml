@@ -1,0 +1,32 @@
+id:
+  - Vulpes vulpes
+created_at: '2015-07-17T05:05:35Z'
+datetime: '2015-07-17T11:17:34+10:00'
+elevation: 256.5
+latitude: -37.506261
+location_name: 'Eden Park VIC 3757, Australia'
+longitude: 145.064891
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2015-07-17T05:05:58Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-07-17T11:17:34Z'
+    height: 3021
+    width: 4028
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55a88d1fed2a89158b0005af.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55a88d1fed2a89158b0005af.jpg'
+comments:
+  - created_at: '2015-07-17T05:36:52Z'
+    text: Great photo Mark.
+    ref: 55a89474ed2a89158b0005bb
+    name: Russell Best
+    username: russell
+  - replying_to: 55a89474ed2a89158b0005bb
+    created_at: '2015-07-21T23:36:03Z'
+    text: 'thanks Russell, just a few of the locals out for a walk'
+    ref: 55aed763ed2a89158b000947
+    name: Mark Williams
+    username: markwilliams

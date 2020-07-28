@@ -1,0 +1,33 @@
+id:
+  - name: Craspedia variabilis
+    by: zeke1944
+created_at: '2019-09-22T10:30:54Z'
+datetime: '2019-09-15T12:21:17+10:00'
+elevation: 394.7
+latitude: -36.337806
+location_name: 'Wangandary VIC 3678, Australia'
+longitude: 146.210309
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2019-09-22T10:34:22Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2019-09-15T12:21:30Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_53b39818e35eb12984000026/2019-09-22/p1120029_billy_button.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000026/2019-09-22/p1120029_billy_button.jpeg'
+  - primary: true
+    datetime: '2019-09-15T12:21:17Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_53b39818e35eb12984000026/2019-09-22/p1120025_billy_button.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000026/2019-09-22/p1120025_billy_button.jpeg'
+tags:
+  - flower-yellow
+comments:
+  - created_at: '2019-09-30T06:43:56Z'
+    text: <em>Craspedia variabilis</em> species id suggested
+    ref: 5d91a42ccad3eb2024000223
+    name: zeke1944
+    username: zeke1944
+collections:
+  - warby_ranges_ovens_river_np_plants

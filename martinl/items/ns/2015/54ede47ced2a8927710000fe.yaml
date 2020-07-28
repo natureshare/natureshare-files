@@ -1,0 +1,45 @@
+id:
+  - Paropsisterna annularis
+created_at: '2015-02-25T15:04:28Z'
+datetime: '2015-02-21T17:15:31+10:00'
+description: 'A small bright leaf beetle with a complex pattern of yellow dots on a usually red background. '
+elevation: 110.5
+latitude: -37.709739
+location_name: 'Wonga Park VIC, Australia'
+longitude: 145.287628
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-02-26T12:17:48Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-02-21T17:15:31Z'
+    height: 769
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54ede47bed2a8927710000fb.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ede47bed2a8927710000fb.JPG'
+  - datetime: '2015-02-21T17:15:18Z'
+    height: 769
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54ef0ecded2a8927710001f2.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ef0ecded2a8927710001f2.JPG'
+tags:
+  - adult
+comments:
+  - created_at: '2015-02-25T15:12:02Z'
+    text: 'This beetle is Paropsisterna annularis.  The second pair of yellow dots on the elytra form a ring (annulus) of six dots including four smaller elongated dots which are filled in with the red.  Together with gloriosa and  nobilitata, these are the three species of similar red/black/yellow beetles that can be found in Victoria.  '
+    ref: 54ede642ed2a892771000100
+    name: Martin Lagerwey
+    username: martinl
+  - created_at: '2015-02-25T22:24:34Z'
+    text: 'Hi Martin. I have now added this species name to the database for you to assign to this observation. Along with P. gloriosa, do you have location information?'
+    ref: 54ee4ba2ed2a8901300000df
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2015-02-26T12:13:17Z'
+    text: "Hello Chris\r\nI have returned to your site but have struggled to assign correct named and locations to my sightings.  I'm not so intuitive with computers.  Paropsisterna annularis was found in Stephen Road, Wonga Park (Mt. Lofty) and Paropsisterna gloriosa in Licola, Vic.  I have dozens of named and unnamed chrysomelinae beetles to share over time.  They are neglected gems.   But must learn to navigate your site properly.  https://sites.google.com/site/paropsisternapages/ \r\nhttps://sites.google.com/site/paropsispages/ "
+    ref: 54ef0ddded2a890130000149
+    name: Martin Lagerwey
+    username: martinl
+collections:
+  - beetles_leaf_beetle_reference_collection

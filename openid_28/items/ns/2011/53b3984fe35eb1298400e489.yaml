@@ -1,0 +1,30 @@
+id:
+  - name: Callistemon rugulosus
+created_at: '2011-03-10T14:30:47Z'
+datetime: '2009-11-04T11:41:56+10:00'
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2011-03-10T14:32:11Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2009-11-04T11:41:56Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985de35eb1298401175c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb1298401175c.jpg'
+tags:
+  - flower
+  - leaf
+  - red
+  - seed
+comments:
+  - created_at: '2011-03-10T14:34:29Z'
+    text: |-
+      Bottlebrush -Callistemon viminalis.
+      Grampians National Park (Gariwerd).
+      Halls Gap.
+    ref: 53b3984ae35eb1298400d7fd
+  - created_at: '2012-08-30T11:48:05Z'
+    text: 'Hi Bill, this is probably C. rugulosus.'
+    ref: 53b3984be35eb1298400da01
+collections:
+  - grampians_np_plants

@@ -1,0 +1,51 @@
+id:
+  - Phrataria replicataria
+created_at: '2017-03-03T03:27:42Z'
+datetime: '2017-03-01T21:54:31+10:00'
+elevation: 262.5
+latitude: -37.806571
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.296975
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-05-04T22:56:50Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-03-01T21:54:31Z'
+    height: 2538
+    width: 3204
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58b8e1f9ed2a89a81f000016.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58b8e1f9ed2a89a81f000016.jpg'
+  - datetime: '2017-03-01T22:19:59Z'
+    height: 1626
+    width: 2141
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58b8e1d6ed2a89a81f000015.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58b8e1d6ed2a89a81f000015.jpg'
+  - datetime: '2017-03-01T22:19:20Z'
+    height: 2941
+    width: 3612
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58b8e20eed2a891d6d00001c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58b8e20eed2a891d6d00001c.jpg'
+tags:
+  - moth
+comments:
+  - created_at: '2017-03-03T03:52:16Z'
+    text: Incredible closeup of head! Lovely brown tones with new camera.
+    ref: 58b8e870ed2a8938900021bc
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-03-03T03:54:58Z'
+    text: Thanks David.
+    ref: 58b8e912ed2a89cd74000002
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2017-05-04T22:58:58Z'
+    text: Wow.. and that's the Pale one.
+    ref: 590bb232ed2a893d8c001f7b
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - brisbane_ranges_moths

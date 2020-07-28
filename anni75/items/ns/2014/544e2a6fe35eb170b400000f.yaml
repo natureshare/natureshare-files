@@ -1,0 +1,36 @@
+id:
+  - Wahlenbergia spp.
+created_at: '2014-10-27T11:20:15Z'
+datetime: '2014-10-26T17:38:58+10:00'
+description: Post Mickleham fires Feb 2014
+elevation: 386.5
+latitude: -37.280214
+location_name: 'Willowmavin VIC 3764, Australia'
+longitude: 144.866352
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-10-27T12:37:03Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-26T17:38:58Z'
+    height: 1936
+    width: 2592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/544e2a6fe35eb170b400000e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544e2a6fe35eb170b400000e.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2014-10-27T12:30:01Z'
+    text: How sure are you this is W. stricta? I can't see any leaves to help with ID. Do you have other pics?
+    ref: 544e3ac9e35eb170b400003d
+    name: Russell Best
+    username: russell
+  - replying_to: 544e3ac9e35eb170b400003d
+    created_at: '2014-10-27T12:37:33Z'
+    text: I will go back and gather more info to make a more certain ID.
+    ref: 544e3c8de35eb170b4000041
+    name: Annemaree Docking
+    username: anni75
+collections:
+  - flora_of_willowmavin

@@ -1,0 +1,73 @@
+id:
+  - Amanita spp.
+created_at: '2017-01-31T00:10:14Z'
+datetime: '2017-01-30T09:02:37+10:00'
+description: 'Common in this forest over the last 4-6 weeks. With my limited fungi field skills I don''t know what the species is. Looks close to Amanita ochrophylloides. Fruiting body c. 120mm diameter in this case, but many are larger.'
+latitude: -37.331056
+longitude: 144.354753
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-01-31T12:06:46Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-30T09:02:37Z'
+    height: 1524
+    width: 2812
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588fd538ed2a892daf00037e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588fd538ed2a892daf00037e.JPG'
+  - datetime: '2017-01-30T09:02:02Z'
+    height: 3264
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588fd539ed2a89d73e000344.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588fd539ed2a89d73e000344.JPG'
+  - datetime: '2017-01-30T09:45:57Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588fd53ded2a89b3fe000366.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588fd53ded2a89b3fe000366.JPG'
+tags:
+  - fungus
+  - gills
+comments:
+  - created_at: '2017-01-31T00:57:52Z'
+    text: <em>Amanita ochrophylloides</em> species id suggested
+    ref: 588fe110ed2a89d10f001cf1
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2017-01-31T02:17:03Z'
+    text: 'And by the way, I didn''t pull that fungus up - some previous passer by wallaby or similar did so & took the opportunity for a gillside photo.'
+    ref: 588ff39fed2a89d10f001d39
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2017-01-31T10:03:12Z'
+    text: 'Hi Lawrie. If you aren''t sure of the species, it''s best to leave it as Amanita spp. Fungi are really hard to id from photos.'
+    ref: 589060e0ed2a89d10f001eaa
+    name: David Francis
+    username: david_francis
+  - replying_to: 589060e0ed2a89d10f001eaa
+    created_at: '2017-01-31T10:36:56Z'
+    text: 'Thanks David. Amanita app. doesn''t appear to be offered on the site. '
+    ref: 589068c8ed2a89d10f001ebd
+    name: Lawrie Conole
+    username: lconole
+  - replying_to: 589060e0ed2a89d10f001eaa
+    created_at: '2017-01-31T10:37:12Z'
+    text: Spp
+    ref: 589068d8ed2a89d10f001ebf
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2017-01-31T10:53:10Z'
+    text: 'Lawrie, I just added Amanita spp. to NS so it''s now available.'
+    ref: 58906c96ed2a89d10f001ed1
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-27T22:43:54Z'
+    text: Tom May says 'Amanita ochrophylla group'! There are lots more still coming up even though it's much drier in the area now.
+    ref: 58b4abaaed2a89389000158b
+    name: Lawrie Conole
+    username: lconole
+collections:
+  - flora_of_spring_hill_-_tylden_south

@@ -1,0 +1,35 @@
+id:
+  - Heteroptera spp.
+created_at: '2016-04-23T02:29:54Z'
+datetime: '2008-10-20T12:27:00+10:00'
+description: Shield Bug
+elevation: 60.7
+latitude: -38.093318
+location_name: 'Heywood VIC 3304, Australia'
+longitude: 141.75291
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-04-23T02:31:43Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 700
+    width: 781
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/571adda1ed2a890be70001b4.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/571adda1ed2a890be70001b4.jpg'
+comments:
+  - created_at: '2016-04-23T11:54:40Z'
+    text: Family Pentatomidae? (I can't find a match)
+    ref: 571b6280ed2a892b34000183
+    name: David Francis
+    username: david_francis
+  - replying_to: 571b6280ed2a892b34000183
+    created_at: '2016-04-23T13:03:20Z'
+    text: I think so but that's not a positive.
+    ref: 571b7298ed2a892b3400018a
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - homerton_and_milltown_insects

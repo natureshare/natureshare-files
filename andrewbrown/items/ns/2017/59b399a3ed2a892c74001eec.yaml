@@ -1,0 +1,56 @@
+id:
+  - Acacia williamsonii
+created_at: '2017-09-09T08:51:16Z'
+datetime: '2017-09-09T10:15:41+10:00'
+description: Same acacia species as previous observation but leaves grey-greeen.
+elevation: 223.9
+latitude: -36.784234
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.368344
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-09-09T08:51:16Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-09-09T10:15:28Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59b399aced2a893984000223.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59b399aced2a893984000223.JPG'
+  - datetime: '2017-09-09T10:15:41Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59b39961ed2a89398400021e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59b39961ed2a89398400021e.JPG'
+tags:
+  - flowers-spherical
+  - flowers-yellow
+  - leaves-grey-green
+  - leaves-narrow
+  - shrub-compact
+  - shrub-medium
+comments:
+  - created_at: '2017-09-09T12:00:45Z'
+    text: I wonder if this wattle is introduced to the area. It has similarities to Acacia iteaphylla (SA).
+    ref: 59b3d7eded2a892c74001fef
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-09-09T12:32:42Z'
+    text: Quite possibly as they are only in a small area David.
+    ref: 59b3df6aed2a892c74001ffc
+    name: Andrew Brown
+    username: andrewbrown
+  - created_at: '2017-09-09T12:43:42Z'
+    text: The Vicflora description doesn't fit as the branches don't drop but are upright and the bushes are smaller than A. iteaphylla
+    ref: 59b3e1feed2a892c74002002
+    name: Andrew Brown
+    username: andrewbrown
+  - created_at: '2017-09-09T13:04:29Z'
+    text: <em>Acacia williamsonii</em> species id suggested
+    ref: 59b3e6dded2a89f6de000003
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - junortoun_flora

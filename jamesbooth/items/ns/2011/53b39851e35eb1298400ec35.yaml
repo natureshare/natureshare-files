@@ -1,0 +1,33 @@
+id:
+  - name: Araneae spp.
+created_at: '2011-09-19T19:54:36Z'
+datetime: '2011-09-19T12:24:37+10:00'
+latitude: -37.459683
+longitude: 144.672191
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2011-09-19T20:01:45Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-09-19T12:24:37Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39860e35eb129840120d3.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840120d3.jpg'
+comments:
+  - created_at: '2015-02-22T14:33:19Z'
+    text: 'Robert Whyte says "interesting. Could be Thomisidae but eyes not like that family. Possibly your most interesting spider (from Riddells Creek, sic) so far. If James can find it again, record body length, with pictures from above, below (in glass vial is easy) and from the side. Some families can only be identified by underneath showing arrangments of spinnerets."'
+    ref: 54e9e8afed2a89d9900006f4
+    name: Russell Best
+    username: russell
+  - created_at: '2017-05-06T23:48:54Z'
+    text: 'I am still rather mystified, the eyes look a bit like Philodromidae but the legs look Thomisid. '
+    ref: 590e60e6ed2a893d8c0024c1
+    name: Robert Whyte
+    username: robertwhyte
+  - created_at: '2017-05-06T23:48:56Z'
+    text: 'I am still rather mystified, the eyes look a bit like Philodromidae but the legs look Thomisid. '
+    ref: 590e60e8ed2a893d8c0024c4
+    name: Robert Whyte
+    username: robertwhyte
+collections:
+  - spiders_of_riddells_creek

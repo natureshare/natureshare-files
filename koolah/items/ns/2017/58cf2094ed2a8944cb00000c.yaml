@@ -1,0 +1,30 @@
+id:
+  - Fisera eribola
+created_at: '2017-03-20T00:23:37Z'
+datetime: '2017-03-19T23:59:55+10:00'
+elevation: 260.8
+latitude: -37.806577
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297018
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-03-20T00:23:37Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-03-19T23:59:55Z'
+    height: 1464
+    width: 1237
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58cf2092ed2a89e548000084.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58cf2092ed2a89e548000084.jpg'
+  - datetime: '2017-03-19T21:48:23Z'
+    height: 1348
+    width: 1310
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58cf20abed2a89a81f000073.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58cf20abed2a89a81f000073.jpg'
+tags:
+  - brown
+  - moth
+collections:
+  - brisbane_ranges_moths

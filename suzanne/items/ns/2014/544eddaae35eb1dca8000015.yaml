@@ -1,0 +1,50 @@
+id:
+  - Chinoneides tasmaniensis
+created_at: '2014-10-28T00:04:58Z'
+datetime: '2014-10-27T14:59:52+10:00'
+description: This small bug has four delicate wings and a rostrum.  Its elbowed antennae look like another pair of legs.
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-10-29T00:55:24Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-27T14:59:52Z'
+    height: 1156
+    width: 1697
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/544edda9e35eb1dca8000011.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544edda9e35eb1dca8000011.JPG'
+  - datetime: '2014-10-27T14:56:16Z'
+    height: 2432
+    width: 3648
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/544edda9e35eb1dca8000012.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544edda9e35eb1dca8000012.JPG'
+  - datetime: '2014-10-27T14:58:35Z'
+    height: 2432
+    width: 3648
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/544edda9e35eb1dca8000013.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544edda9e35eb1dca8000013.JPG'
+  - datetime: '2014-10-27T15:09:26Z'
+    height: 1051
+    width: 1572
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/544edda9e35eb1dca8000014.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544edda9e35eb1dca8000014.JPG'
+tags:
+  - bug
+comments:
+  - created_at: '2014-10-28T00:10:20Z'
+    text: Identified by Stephen Thorpe.
+    ref: 544edeece35eb1dca800001a
+    name: Suzanne Jones
+    username: suzanne
+  - created_at: '2014-10-29T00:56:49Z'
+    text: Identified further by Luis Mata.
+    ref: 54503b51e35eb195ac000052
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains

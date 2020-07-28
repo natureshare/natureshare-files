@@ -1,0 +1,41 @@
+id:
+  - name: Araneinae spp.
+    by: david_francis
+created_at: '2015-01-08T12:39:58Z'
+datetime: '2015-01-04T11:32:46+10:00'
+latitude: -37.494164
+longitude: 145.880139
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-05-07T02:20:40Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-01-04T11:32:46Z'
+    height: 960
+    width: 1280
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54ae7a9de35eb139d5000003.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ae7a9de35eb139d5000003.jpg'
+  - datetime: '2015-01-04T11:31:39Z'
+    height: 960
+    width: 1280
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54ae7a9de35eb139d5000005.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ae7a9de35eb139d5000005.jpg'
+  - datetime: '2015-01-04T11:32:31Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54ae8404e35eb14c53000042.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ae8404e35eb14c53000042.jpg'
+tags:
+  - spider
+comments:
+  - created_at: '2015-02-18T10:37:44Z'
+    text: ID by Robert Whyte who added "Araneidae subfamily Araneinae".
+    ref: 54e46b78ed2a89ef27000377
+    name: Russell Best
+    username: russell
+  - created_at: '2017-05-07T02:21:24Z'
+    text: id now to subfamily. Thanks Robert
+    ref: 590e84a4ed2a894c8c00000a
+    name: David Francis
+    username: david_francis

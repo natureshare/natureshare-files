@@ -1,0 +1,50 @@
+id:
+  - Oxycanus antipoda
+created_at: '2017-06-08T07:06:49Z'
+datetime: '2017-06-06T22:45:31+10:00'
+description: "A handsome ghost moth with dark tented wings . The wings had a span of about 40 mm and showed pale curvy patterns. Antennae were feathery and the thorax had dense brown setae.\r\nSpotted near a national park - mixed native trees. \r\n"
+elevation: 143.6
+latitude: -37.893101
+location_name: 'Upper Ferntree Gully VIC 3156, Australia'
+longitude: 145.31234
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2019-10-02T12:14:29Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-06-06T22:45:31Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5938f692ed2a89398400003d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5938f692ed2a89398400003d.jpg'
+tags:
+  - moth
+comments:
+  - created_at: '2019-03-01T08:54:54Z'
+    text: 'Leuba, I have been learning more about Heps and this is not Oncopera. Oncopera (both male and female) have short antennae. I will see if I can track down the ID because I don''t know it.'
+    ref: 5c78f35e3abbd610e400002f
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5c78f35e3abbd610e400002f
+    created_at: '2019-05-04T13:13:15Z'
+    text: 'Thank you for checking this one. I only just got to see this. I''ll wait to hear from you. '
+    ref: 5ccd8feb3abbd6d582000044
+    name: Leuba Ridgway
+    username: leuba
+  - replying_to: 5ccd8feb3abbd6d582000044
+    created_at: '2019-05-07T11:29:30Z'
+    text: Hello Leuba - I finally cracked the ID. It is Oxycanus antipoda.
+    ref: 5cd16c1a3abbd6f8e2000027
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5cd16c1a3abbd6f8e2000027
+    created_at: '2019-10-02T12:13:28Z'
+    text: Thanks Cathy- only 5 months late ! haven't been active in the past months.
+    ref: 5d949468cad3eb202400022d
+    name: Leuba Ridgway
+    username: leuba
+collections:
+  - dandenong_ranges_lepidoptera

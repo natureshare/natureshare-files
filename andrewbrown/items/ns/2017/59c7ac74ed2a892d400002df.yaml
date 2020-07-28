@@ -1,0 +1,52 @@
+id:
+  - name: Chlenias auctaria
+    by: andrew_allen
+created_at: '2017-09-24T22:44:00Z'
+datetime: '2017-09-24T10:42:09+10:00'
+description: Small striped looper caterpillar. 3 shots.
+elevation: 215.4
+latitude: -36.78853
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.386883
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-09-24T22:45:02Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-09-24T10:42:09Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c7ac9ced2a8939840002ce.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c7ac9ced2a8939840002ce.JPG'
+  - datetime: '2017-09-24T10:41:57Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c7ac7ded2a8939840002cc.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c7ac7ded2a8939840002cc.JPG'
+  - datetime: '2017-09-24T10:42:42Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c7ac86ed2a8939840002cd.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c7ac86ed2a8939840002cd.JPG'
+tags:
+  - caterpillar
+  - caterpillar-striped
+  - looper
+  - stripes-yellow-black-white
+comments:
+  - created_at: '2017-09-25T00:07:55Z'
+    text: <em>Chlenias auctaria</em> species id suggested
+    ref: 59c848dbed2a89ae0d000003
+    name: Andrew Allen
+    username: andrew_allen
+  - created_at: '2017-09-25T00:30:06Z'
+    text: Thanks Andrew
+    ref: 59c84e0eed2a89ae0d000004
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - wildlife_of_junortoun
+  - moths_of_junortoun
+  - moths_of_central_victoria

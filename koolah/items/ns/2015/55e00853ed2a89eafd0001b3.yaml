@@ -1,0 +1,32 @@
+id:
+  - Ciampa arietaria
+created_at: '2015-08-28T07:05:55Z'
+datetime: '2015-04-15T21:04:25+10:00'
+latitude: -37.806613
+longitude: 144.297038
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-08-28T07:08:09Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-04-15T21:04:25Z'
+    height: 1674
+    width: 2137
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55e0088bed2a890d95000084.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55e0088bed2a890d95000084.JPG'
+  - datetime: '2015-04-15T21:45:54Z'
+    height: 1764
+    width: 1876
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55e00895ed2a890d95000085.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55e00895ed2a890d95000085.JPG'
+tags:
+  - brown
+  - female
+  - hindwing-white
+  - male
+  - moth
+collections:
+  - brisbane_ranges_moths

@@ -1,0 +1,34 @@
+id:
+  - Isacantha dermestiventris
+created_at: '2018-12-22T04:07:13Z'
+datetime: '2018-12-20T16:45:00+10:00'
+description: 'I''m pretty sure this is Isacantha dermestiventris, currently not in the database.'
+elevation: 130.3
+latitude: -37.649377
+location_name: 'Greenvale VIC 3059, Australia'
+longitude: 144.86358
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2018-12-23T09:28:54Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_583ba1bbed2a897480005b25/2018-12-22/1545451569/weevil-2018-12-20-woodlands-8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_583ba1bbed2a897480005b25/2018-12-22/1545451569/weevil-2018-12-20-woodlands-8.jpg'
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_583ba1bbed2a897480005b25/2018-12-22/1545451588/weevil-2018-12-20-woodlands-10.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_583ba1bbed2a897480005b25/2018-12-22/1545451588/weevil-2018-12-20-woodlands-10.jpg'
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_583ba1bbed2a897480005b25/2018-12-22/1545451577/weevil-2018-12-20-woodlands-9.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_583ba1bbed2a897480005b25/2018-12-22/1545451577/weevil-2018-12-20-woodlands-9.jpg'
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_583ba1bbed2a897480005b25/2018-12-22/1545451552/weevil-2018-12-20-woodlands-7.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_583ba1bbed2a897480005b25/2018-12-22/1545451552/weevil-2018-12-20-woodlands-7.jpg'
+comments:
+  - created_at: '2018-12-23T03:32:25Z'
+    text: added to db.
+    ref: 5c1f01c93abbd6f51e0000d0
+    name: David Francis
+    username: david_francis
+collections:
+  - woodlands_historic_park_insects_and_spiders
+  - woodlands_historic_park_-_coleoptera

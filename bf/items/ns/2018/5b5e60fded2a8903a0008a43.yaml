@@ -1,0 +1,41 @@
+id:
+  - Drosera peltata s.s.
+created_at: '2018-07-30T00:53:34Z'
+datetime: '2018-07-14T14:39:11+10:00'
+elevation: 516.7
+latitude: -37.623905
+location_name: 'Millbrook VIC 3352, Australia'
+longitude: 144.068585
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2018-07-31T12:11:00Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-07-14T14:39:11Z'
+    height: 3024
+    width: 4032
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b5e6105ed2a891efe000070.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b5e6105ed2a891efe000070.jpg'
+comments:
+  - created_at: '2018-07-30T02:48:18Z'
+    text: 'Not sure of the species, might have to try and find it again later when it might have some flowers.'
+    ref: 5b5e7c72ed2a8903a0008b1a
+    name: Ben Fisher
+    username: bf
+  - created_at: '2018-07-31T07:32:34Z'
+    text: 'This is the rosette of Drosera peltata, the short stems and colour are quite distinctive.'
+    ref: 5b601092ed2a898ec2000121
+    name: John Walter
+    username: 249pbr
+  - replying_to: 5b601092ed2a898ec2000121
+    created_at: '2018-07-31T12:07:27Z'
+    text: Thanks. These Drosera identifications are not easy! In future will be taking some more detailed photos.
+    ref: 5b6050ffed2a8903a000928b
+    name: Ben Fisher
+    username: bf
+collections:
+  - victorian_volcanic_plains_native_plants
+  - millbrook

@@ -1,0 +1,39 @@
+id:
+  - Malurus lamberti
+created_at: '2015-02-22T07:11:12Z'
+datetime: '2011-11-09T08:41:40+10:00'
+elevation: 134
+latitude: -36.49858
+location_name: 'Kalkee VIC 3401, Australia'
+longitude: 142.168632
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-02-22T07:27:38Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-11-09T08:41:40Z'
+    height: 1945
+    width: 2924
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54e98110ed2a8987b70005aa.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e98110ed2a8987b70005aa.jpg'
+tags:
+  - bird
+comments:
+  - created_at: '2015-02-22T10:20:11Z'
+    text: Fantastic photo - I can see every feather!
+    ref: 54e9ad5bed2a89d9900006a6
+    name: David Francis
+    username: david_francis
+  - created_at: '2015-02-22T10:59:11Z'
+    text: Beautiful!
+    ref: 54e9b67fed2a89d9900006ae
+    name: Suzanne Jones
+    username: suzanne
+  - created_at: '2015-02-22T13:12:25Z'
+    text: Stunning shot. Do you mind if I make it my desktop wallpaper for a while?
+    ref: 54e9d5b9ed2a89d9900006d0
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - wimmera_plains_flora_fauna

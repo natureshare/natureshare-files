@@ -1,0 +1,41 @@
+id:
+  - Chrysomya rufifacies
+created_at: '2017-02-18T12:42:02Z'
+datetime: '2017-02-18T10:09:10+10:00'
+description: Fly approx. 10mm
+elevation: 217.7
+latitude: -36.77552
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.355238
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-02-18T12:42:02Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-02-18T10:09:10Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58a82717ed2a89b3fe0003b9.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a82717ed2a89b3fe0003b9.jpeg'
+  - datetime: '2017-02-18T10:08:04Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58a827c3ed2a89b3fe0003bb.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a827c3ed2a89b3fe0003bb.jpeg'
+tags:
+  - fly-green
+  - fly-irridescent
+comments:
+  - created_at: '2017-02-19T02:55:07Z'
+    text: <em>Chrysomya rufifacies</em> species id suggested
+    ref: 58a9090bed2a896c5c000aad
+    name: Andrew Brown
+    username: andrewbrown
+  - created_at: '2017-02-19T02:59:18Z'
+    text: <em>Lucilia cuprina</em> species id suggested
+    ref: 58a90a06ed2a89df70000009
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - wildlife_of_junortoun

@@ -1,0 +1,43 @@
+id:
+  - Tachyglossus aculeatus
+created_at: '2016-01-13T10:29:50Z'
+datetime: '2016-01-13T14:18:24+10:00'
+description: "This echidna has been very active moving backwards and forwards across our property in the last few week.\r\nToday it didn't seem to notice me standing still and it came up and licked my shoes!"
+latitude: -37.408025
+longitude: 144.5951
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-01-15T02:31:16Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-01-13T14:18:24Z'
+    height: 681
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5696266ded2a89f5d1000001.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5696266ded2a89f5d1000001.jpg'
+  - datetime: '2016-01-13T14:17:02Z'
+    height: 768
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56962675ed2a89f5d1000002.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56962675ed2a89f5d1000002.jpg'
+tags:
+  - behaviour
+comments:
+  - created_at: '2016-01-13T10:32:32Z'
+    text: 'It was an extremely hot, dry day. I wonder how echidnas keep hydrated. Do they drink? I''ve noticed quite a few echidnas moving around very actively at this time of the year.'
+    ref: 569627c0ed2a89f34f000013
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-01-14T09:03:43Z'
+    text: 'David - they definitely drink.  We have had them get water from our fish pond, our wildlife water pond and even our dam.'
+    ref: 5697646fed2a89ddd9000064
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5697646fed2a89ddd9000064
+    created_at: '2016-01-14T11:19:08Z'
+    text: Thanks Cathy. I think our echidna must be travelling through our place to a dam below us. I just saw a photo on Bowerbird of an echidna drinking. I don't know why I thought they survived on little or no water (like a koala?).
+    ref: 5697842ced2a89ddd900007b
+    name: David Francis
+    username: david_francis

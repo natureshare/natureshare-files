@@ -1,0 +1,60 @@
+id:
+  - Drosera hookeri
+created_at: '2018-07-30T01:03:01Z'
+datetime: '2012-10-21T17:09:32+10:00'
+description: 3 Photos
+elevation: 492.2
+latitude: -37.308543
+location_name: 'Mount Beckworth VIC 3363, Australia'
+longitude: 143.717936
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-07-31T12:12:09Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2012-10-21T17:09:32Z'
+    height: 3056
+    width: 4592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b5e6356ed2a891efe000071.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b5e6356ed2a891efe000071.JPG'
+  - datetime: '2012-10-21T17:40:34Z'
+    height: 4592
+    width: 3056
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b5e834ded2a891efe000072.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b5e834ded2a891efe000072.JPG'
+  - datetime: '2012-10-21T17:50:59Z'
+    height: 3056
+    width: 4592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b5e8356ed2a891efe000073.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b5e8356ed2a891efe000073.JPG'
+comments:
+  - created_at: '2018-07-30T07:04:20Z'
+    text: Drosera auriculata
+    ref: 5b5eb874ed2a8903a0008c3b
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-07-30T07:32:03Z'
+    text: 'Thanks Zeke, I was thinking the same but the description i was reading said it should have hairless bud sepals. Could it be Drosera peltata?'
+    ref: 5b5ebef3ed2a8903a0008c66
+    name: Ben Fisher
+    username: bf
+  - created_at: '2018-07-30T09:25:29Z'
+    text: 'Flora of Vic points towards Drosera hookeri. If not, then Drosera peltata'
+    ref: 5b5ed989ed2a8903a0008d2b
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-07-31T07:53:15Z'
+    text: 'I would have said Drosera auriculata as the flowers on D. peltata are much smaller and pale and the plant is never this tall. Both this and the previous species were once D. peltata, but two different sub species. The short pale one retained the name D. peltata and the tall pink flowered one became D. auriculata. They both occur on my own property. But .... I was not previously aware of D. hookeri and now realise that a third species has come out of the old D. peltata complex (Thanks David) D. auriculata has glabrous sepals and this  observation clearly has very pubescent sepals which makes it D. hookeri and I now need to review my own records.'
+    ref: 5b60156bed2a8903a0009164
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-07-31T12:39:45Z'
+    text: 'Thanks all, I will update it as Drosera Hookeri.'
+    ref: 5b605891ed2a8903a00092a8
+    name: Ben Fisher
+    username: bf
+collections:
+  - mount_beckworth

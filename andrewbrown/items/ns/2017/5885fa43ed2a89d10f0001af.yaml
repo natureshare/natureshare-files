@@ -1,0 +1,60 @@
+id:
+  - name: Acrotriche serrulata
+    by: david_francis
+created_at: '2017-01-27T12:43:49Z'
+datetime: '2017-01-21T09:50:47+10:00'
+description: 'Small, low growing plants approx. 60 mm in height with prickly leaves.'
+elevation: 215.4
+latitude: -36.775726
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.356525
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-01-27T12:43:49Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-21T09:50:47Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5885fa2fed2a892daf000344.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5885fa2fed2a892daf000344.jpeg'
+  - datetime: '2017-01-21T09:50:14Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5885fa52ed2a89b3fe000324.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5885fa52ed2a89b3fe000324.jpeg'
+tags:
+  - leaves-prickly
+  - low-growing
+comments:
+  - created_at: '2017-01-28T03:06:45Z'
+    text: Maybe Astroloma humifusum
+    ref: 588c0ac5ed2a89d10f00127c
+    name: Chris Clarke
+    username: cclarke
+  - replying_to: 588c0ac5ed2a89d10f00127c
+    created_at: '2017-01-28T11:33:43Z'
+    text: 'Hi Chris, while similar, it is quite different to the Cranberry Heaths as it''s not as woody or prickly feeling. Also, the leaves are always bright green rather than the red tinged Cranberry Heaths and I have not seen any flowers on these yet. The last one I observed was id, as Honey Pots ?'
+    ref: 588c8197ed2a89d10f0014b9
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 588c8197ed2a89d10f0014b9
+    created_at: '2017-01-29T12:19:51Z'
+    text: mmm tricky - Stellaria pungens was a thought - but length of spines on leaves look too long.
+    ref: 588ddde7ed2a89976f000012
+    name: Chris Clarke
+    username: cclarke
+  - created_at: '2017-01-30T10:49:10Z'
+    text: <em>Acrotriche serrulata</em> species id suggested
+    ref: 588f1a26ed2a895b9e00001a
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-30T10:49:16Z'
+    text: 'Yes, Honey Pots. I didn''t recognise it immediately because the leaves looked a little wider than usual.'
+    ref: 588f1a2ced2a895b9e00001b
+    name: David Francis
+    username: david_francis
+collections:
+  - junortoun_flora

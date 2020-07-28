@@ -1,0 +1,43 @@
+id:
+  - name: Holcus lanatus
+    by: chrisl
+created_at: '2014-10-25T02:29:11Z'
+datetime: '2013-12-18T11:43:25+10:00'
+latitude: -37.290561
+location_name: 'Clunes VIC 3370, Australia'
+longitude: 143.752972
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-10-25T02:29:35Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-12-18T11:43:25Z'
+    height: 3264
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/544b0af7e35eb1c7670000a4.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544b0af7e35eb1c7670000a4.jpg'
+comments:
+  - created_at: '2014-10-25T04:02:21Z'
+    text: I'm not sure of the subject of this photo.
+    ref: 544b20cde35eb1c7670000ba
+    name: David Francis
+    username: david_francis
+  - created_at: '2014-10-25T05:02:08Z'
+    text: Looks like Holcus lanatus (foreground) and Briza maxima (background). Also some Avena at the left.
+    ref: 544b2ed0e35eb1faaa00013f
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2014-10-27T02:23:12Z'
+    text: I wondered if the tall grass with a long seed head (foreground) was Phalaris?
+    ref: 544dac90e35eb1b76f000001
+    name: Louise Nicholas
+    username: louise_nicholas
+  - replying_to: 544dac90e35eb1b76f000001
+    created_at: '2014-10-28T08:56:26Z'
+    text: Hi Louise. You will find the leaves and flower spikes are very soft. Leaves hoary pubescent giving a greyish appearance.
+    ref: 544f5a3ae35eb195ac000018
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - clunes_finchesgully_flora_and_fauna

@@ -1,0 +1,42 @@
+created_at: '2015-02-20T18:21:50Z'
+datetime: '2015-01-25T13:38:47+10:00'
+latitude: -36.865826
+longitude: 147.264832
+non_identifying_photo: true
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-02-20T18:22:49Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-01-25T13:38:47Z'
+    height: 1152
+    width: 2048
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54e77b3ded2a89ef270004b3.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e77b3ded2a89ef270004b3.jpg'
+tags:
+  - landscape
+comments:
+  - created_at: '2015-02-20T23:51:04Z'
+    text: Beautiful!
+    ref: 54e7c868ed2a89d9900005ea
+    name: David Francis
+    username: david_francis
+  - created_at: '2015-02-21T01:48:18Z'
+    text: Agree completely David. These non-identifying context photos are great to see. Wouldn't it be nice to link observations from the area.
+    ref: 54e7e3e2ed2a89d9900005f0
+    name: Mark Ridgway
+    username: argybee
+  - replying_to: 54e7e3e2ed2a89d9900005f0
+    created_at: '2015-02-22T02:14:38Z'
+    text: 'They are sort of designed like that, Mark. They are ''landscapes'' attached to collections so giving an idea of the habitat associated with that collection. I think you mean more than that though?'
+    ref: 54e93b8eed2a8987b700057a
+    name: Russell Best
+    username: russell
+  - replying_to: 54e93b8eed2a8987b700057a
+    created_at: '2015-02-22T05:25:50Z'
+    text: 'I think it''s all excellent as is Russell.  I was just day-dreaming of seeing thumbnails of the immediate location within an observation. I like the whole system and. most importantly, it all works. :) Thanks to you and Reilly.'
+    ref: 54e9685eed2a8987b7000595
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - bogong_high_plains

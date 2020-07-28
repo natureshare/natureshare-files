@@ -1,0 +1,42 @@
+id:
+  - Passer domesticus
+created_at: '2016-03-15T05:09:19Z'
+datetime: '2016-03-15T10:56:16+10:00'
+description: House sparrow with white feathers. Albino? The correct term is leucistic.
+elevation: 2.2
+latitude: -37.796134
+location_name: 'Footscray VIC, Australia'
+longitude: 144.913557
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2016-03-15T07:30:32Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-03-15T10:56:16Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56e79839ed2a89211c000135.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56e79839ed2a89211c000135.jpg'
+  - datetime: '2016-03-15T10:57:22Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56e7985ded2a890be7000110.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56e7985ded2a890be7000110.jpg'
+comments:
+  - created_at: '2016-03-15T05:59:31Z'
+    text: I think the term is leucistic which means it has abnormal feather colours (including white) where as an albino has no colour in the feathers.
+    ref: 56e7a4c3ed2a89d33600002d
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 56e7a4c3ed2a89d33600002d
+    created_at: '2016-03-15T07:29:06Z'
+    text: 'Thanks, Cathy'
+    ref: 56e7b9c2ed2a89d336000034
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong

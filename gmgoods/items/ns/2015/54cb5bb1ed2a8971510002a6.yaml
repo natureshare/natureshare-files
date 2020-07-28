@@ -1,0 +1,28 @@
+id:
+  - Podolepis robusta
+created_at: '2015-01-30T10:23:45Z'
+datetime: '2015-01-15T14:24:32+10:00'
+elevation: 1321.5
+latitude: -36.724009
+location_name: 'Mount Buffalo VIC 3740, Australia'
+longitude: 146.801086
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-01-30T10:25:05Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-01-15T14:24:32Z'
+    height: 2746
+    width: 1819
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54cb5bb0ed2a8971510002a5.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54cb5bb0ed2a8971510002a5.jpg'
+  - datetime: '2015-01-15T14:26:29Z'
+    height: 3264
+    width: 2161
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54cb5bc3ed2a899aeb000219.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54cb5bc3ed2a899aeb000219.jpg'
+tags:
+  - flowers
+collections:
+  - mt_buffalo_np_plants

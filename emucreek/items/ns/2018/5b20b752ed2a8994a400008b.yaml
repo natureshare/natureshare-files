@@ -1,0 +1,42 @@
+id:
+  - name: Tachybaptus novaehollandiae
+    by: michaelgooch
+created_at: '2018-06-13T06:18:58Z'
+datetime: '2018-06-13T14:30:59+10:00'
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-06-13T06:22:55Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-06-13T14:30:59Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b20b75bed2a89b047000022.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b20b75bed2a89b047000022.JPG'
+  - datetime: '2018-06-13T14:31:14Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b20b7aced2a897570000019.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b20b7aced2a897570000019.JPG'
+  - datetime: '2018-06-13T14:31:19Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b20b802ed2a89757000001a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b20b802ed2a89757000001a.JPG'
+comments:
+  - created_at: '2018-06-13T06:22:49Z'
+    text: 3 pix......on the emu creek..
+    ref: 5b20b839ed2a899357000001
+    name: Peter Clark
+    username: emucreek
+  - created_at: '2018-06-13T08:36:50Z'
+    text: <em>Tachybaptus novaehollandiae</em> species id suggested
+    ref: 5b20d7a2ed2a8978590035fa
+    name: Michael Gooch
+    username: michaelgooch
+  - created_at: '2018-06-13T08:37:15Z'
+    text: 'The geotag is missing from the photos, Peter'
+    ref: 5b20d7bbed2a8978590035fb
+    name: Michael Gooch
+    username: michaelgooch

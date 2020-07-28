@@ -1,0 +1,40 @@
+id:
+  - Eucalyptus camaldulensis
+created_at: '2018-05-29T14:12:36Z'
+datetime: '2018-05-17T16:27:00+10:00'
+elevation: 113.4
+latitude: -37.854847
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.38611
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-06-02T04:31:59Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-05-17T16:27:00Z'
+    height: 2560
+    width: 1920
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b0d5fdded2a897570000007.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b0d5fdded2a897570000007.jpg'
+  - datetime: '2018-05-17T16:30:49Z'
+    height: 2560
+    width: 1920
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b0d6020ed2a897570000008.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b0d6020ed2a897570000008.jpg'
+  - datetime: '2018-05-17T16:34:03Z'
+    height: 2560
+    width: 1920
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b121dc8ed2a89d0e7000021.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b121dc8ed2a89d0e7000021.jpg'
+comments:
+  - created_at: '2018-05-30T10:16:46Z'
+    text: 'Hi Fletcher, are you able to add the location? (go to edit). I think this is a River Redgum.'
+    ref: 5b0e7a0eed2a89fa06005f5c
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-06-02T04:33:36Z'
+    text: <em>Eucalyptus camaldulensis</em> species id suggested
+    ref: 5b121e20ed2a89d5db000067
+    name: 'Fletcher Grant '
+    username: fletch

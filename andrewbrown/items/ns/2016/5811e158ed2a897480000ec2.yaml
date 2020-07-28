@@ -1,0 +1,32 @@
+id:
+  - Schoenus apogon
+created_at: '2016-10-27T11:29:28Z'
+datetime: '2016-10-16T09:41:00+10:00'
+description: Sedge approx 40 cm high
+elevation: 220.2
+latitude: -36.781209
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.366027
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-27T11:29:28Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-16T09:40:36Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5811e168ed2a89b718000150.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5811e168ed2a89b718000150.JPG'
+  - datetime: '2016-10-16T09:41:00Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5811e121ed2a89d73e000149.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5811e121ed2a89d73e000149.JPG'
+tags:
+  - flower-spike
+  - sedge
+collections:
+  - junortoun_flora

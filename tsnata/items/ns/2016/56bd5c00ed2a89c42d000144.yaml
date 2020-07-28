@@ -1,0 +1,30 @@
+id:
+  - Ardea modesta
+created_at: '2016-02-12T04:23:49Z'
+datetime: '2016-02-11T15:22:22+10:00'
+description: Eastern great egret with unidentified frog.
+elevation: 5
+latitude: -38.024325
+location_name: 'Victoria 3212, Australia'
+longitude: 144.566093
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-02-12T11:56:27Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-02-11T15:22:22Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56bd5c0ded2a89d4f800000a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56bd5c0ded2a89d4f800000a.jpg'
+comments:
+  - created_at: '2016-02-12T05:01:41Z'
+    text: 'I like this photo - the contrast in colour & dark & light, such a stately looking bird showing off its dinner.'
+    ref: 56bd6735ed2a89c42d00014a
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - birds_of_the_western_treatment_plant_werribee

@@ -1,0 +1,31 @@
+id:
+  - Caladenia spp.
+created_at: '2014-07-20T12:25:46Z'
+datetime: '2011-10-16T13:27:15+10:00'
+latitude: -36.920586
+longitude: 144.718567
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-10-03T05:24:12Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-10-16T13:27:15Z'
+    height: 1200
+    width: 1117
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53cbb54ae35eb1815b000016.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53cbb54ae35eb1815b000016.JPG'
+tags:
+  - flower
+  - habit
+comments:
+  - created_at: '2018-10-03T02:25:43Z'
+    text: 'Hi David I was trying to find some identifiers for C. pusilla and came across these. However, I reckon this is C. carnea or C. fuscata. Should have more obtuse segments. See https://www.nativeorchids.co.nz/Species/Caladenia_pusilla.html for excellent images of C. pusilla.'
+    ref: 5bb428a7ed2a89687600006f
+    name: Gary Clark
+    username: tassiedevil
+  - created_at: '2018-10-03T05:23:30Z'
+    text: 'Yes, I think you are right, Gary. I think we were too influenced by the small size when we ided this one years ago. I''ll change it to Caladenia genus only.'
+    ref: 5bb45252ed2a89c10e0003c4
+    name: David Francis
+    username: david_francis

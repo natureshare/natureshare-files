@@ -1,0 +1,46 @@
+id:
+  - Platalea flavipes
+  - Chenonetta jubata
+created_at: '2014-08-27T14:11:57Z'
+datetime: '2014-08-25T12:41:28+10:00'
+elevation: 375
+latitude: -37.262028
+location_name: 'Willowmavin VIC 3764, Australia'
+longitude: 144.860403
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-08-28T12:33:42Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-08-25T12:41:28Z'
+    height: 3000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53fde72de35eb1f185000043.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53fde72de35eb1f185000043.JPG'
+comments:
+  - created_at: '2014-08-28T04:47:25Z'
+    text: There's a black swan there too.
+    ref: 53feb45de35eb19d9400000a
+    name: Russell Best
+    username: russell
+  - replying_to: 53feb45de35eb19d9400000a
+    created_at: '2014-08-28T11:12:18Z'
+    text: 'Hi Russell. Not a black swan, but a domestic Pilgrim goose - which is why I left her out of the observation record. They coexist with the wild birds quite happily. We do see black swan here occasionally later in Spring, but they are only passing through and don''t stay to breed. There is some larger water nearby where swan do spend extended periods.'
+    ref: 53ff0e92e35eb19d94000031
+    name: Annemaree Docking
+    username: anni75
+  - replying_to: 53ff0e92e35eb19d94000031
+    created_at: '2014-08-28T15:57:09Z'
+    text: Fantastic. Thanks for correcting me and my apologies for the mistake. You know the system better than me! ;)
+    ref: 53ff5155e35eb19852000077
+    name: Russell Best
+    username: russell
+  - replying_to: 53ff5155e35eb19852000077
+    created_at: '2014-08-28T20:33:05Z'
+    text: 'Local knowledge is a definite advantage! I will try to find an old photo of the swan from last year. :-)'
+    ref: 53ff9201e35eb19852000081
+    name: Annemaree Docking
+    username: anni75
+collections:
+  - fauna_of_willowmavin

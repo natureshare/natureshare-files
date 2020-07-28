@@ -1,0 +1,40 @@
+id:
+  - Opiliones spp.
+created_at: '2015-01-21T00:22:07Z'
+datetime: '2015-01-05T17:02:47+10:00'
+description: 'At the main cafe, Lake Mountain. Spotted by Ellena Best. Pretty sure this is a Harvestman. It would be the first recorded on NatureShare.'
+latitude: -37.495289
+longitude: 145.878174
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-01-21T00:26:02Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-01-05T17:02:47Z'
+    height: 2488
+    width: 2322
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54bef12fed2a8962a8000011.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54bef12fed2a8962a8000011.jpg'
+  - datetime: '2015-01-05T17:02:47Z'
+    height: 1101
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54bef12fed2a8962a8000012.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54bef12fed2a8962a8000012.jpg'
+comments:
+  - created_at: '2015-01-21T00:50:15Z'
+    text: Amazing looking creature.
+    ref: 54bef7c7ed2a89364f00000e
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2015-01-21T04:38:54Z'
+    text: 'I think the stalk-like projections have its eyes on the end, and then its long second pair of legs are used as antennae. Lack of a ''waist'' and only two eyes distinguishes them from spiders.'
+    ref: 54bf2d5eed2a89364f000023
+    name: Russell Best
+    username: russell
+  - replying_to: 54bf2d5eed2a89364f000023
+    created_at: '2015-01-21T22:53:15Z'
+    text: Robert Whyte confirms it is from arachnid order Opiliones.
+    ref: 54c02ddbed2a89364f000073
+    name: Chris Lindorff
+    username: chrisl

@@ -1,0 +1,28 @@
+id:
+  - name: Fungi spp.
+    by: funkeytom
+created_at: '2012-04-14T20:49:17Z'
+datetime: '2012-03-17T13:28:33+10:00'
+description: 'Thousands of this fungus come up after the rain, under the cypress trees.'
+latitude: -37.277045
+longitude: 144.405466
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2016-07-12T13:23:24Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-03-17T13:28:33Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39863e35eb12984012c69.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012c69.jpg'
+  - datetime: '2012-03-17T13:29:21Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39863e35eb12984012c6a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012c6a.jpg'
+comments:
+  - created_at: '2016-07-12T13:24:39Z'
+    text: 'Probably an Agaricus, but need view of underside once the pileus has opened, to check for lamellae colour, and to see what kind of annulus there is on the stipe. '
+    ref: 5784ef97ed2a89e69f000667
+    name: Tom May
+    username: funkeytom
+collections:
+  - fungus_of_central_victoria

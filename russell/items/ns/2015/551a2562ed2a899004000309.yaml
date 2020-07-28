@@ -1,0 +1,46 @@
+id:
+  - Pimelea curviflora var. 1
+created_at: '2015-03-31T04:41:06Z'
+datetime: '2015-03-31T14:58:15+10:00'
+latitude: -37.43018
+longitude: 144.652634
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-03-31T04:42:52Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-03-31T14:58:15Z'
+    height: 1997
+    width: 1971
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/551a2560ed2a899004000306.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/551a2560ed2a899004000306.jpg'
+  - datetime: '2015-03-31T14:57:55Z'
+    height: 1502
+    width: 1817
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/551a2560ed2a899004000307.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/551a2560ed2a899004000307.jpg'
+  - datetime: '2015-03-31T14:57:18Z'
+    height: 1896
+    width: 1644
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/551a2560ed2a899004000308.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/551a2560ed2a899004000308.jpg'
+comments:
+  - created_at: '2015-03-31T04:44:08Z'
+    text: New species record for my block.
+    ref: 551a2618ed2a89900400030e
+    name: Russell Best
+    username: russell
+  - created_at: '2015-03-31T05:11:28Z'
+    text: 'Russell, I was surprised to see this record was for your block! '
+    ref: 551a2c80ed2a89900400030f
+    name: David Francis
+    username: david_francis
+  - replying_to: 551a2c80ed2a89900400030f
+    created_at: '2015-03-31T06:19:43Z'
+    text: 'Me too David. It is a plains plant really and around here the nearest occurrences are at the cemetery and then the rail reserves (which is plains). On my block they were at the dry, rocky top of the hill (what we call Gill''s Point). It is in a spot that I look at regularly so I''d guess they have established themselves this year or last.'
+    ref: 551a3c7fed2a899004000312
+    name: Russell Best
+    username: russell
+collections:
+  - 410_gap_road_native_plants_riddells_creek

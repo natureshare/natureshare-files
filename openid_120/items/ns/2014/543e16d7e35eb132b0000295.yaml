@@ -1,0 +1,35 @@
+id:
+  - name: Araneae spp.
+    by: suzanne
+created_at: '2014-10-15T06:40:23Z'
+datetime: '2014-09-19T12:25:16+10:00'
+latitude: -37.701333
+longitude: 145.184325
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-10-17T02:47:12Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-19T12:25:16Z'
+    height: 1844
+    width: 1384
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/543e16d6e35eb132b0000294.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/543e16d6e35eb132b0000294.JPG'
+comments:
+  - created_at: '2014-10-16T10:03:45Z'
+    text: Unusual looking spider.
+    ref: 543f9801e35eb132b0000367
+    name: Suzanne Jones
+    username: suzanne
+  - replying_to: 543f9801e35eb132b0000367
+    created_at: '2014-10-17T08:19:24Z'
+    text: 'Yes, that''s why I took a photo. Don''t remember seeing one like this before.'
+    ref: 5440d10ce35eb184d500040a
+    name: Peter Bire
+    username: openid_120
+  - created_at: '2014-12-12T03:49:55Z'
+    text: 'Check out this sighting on Bowerbird -http://www.bowerbird.org.au/observations/482        Looks to me to be very similar. '
+    ref: 548a65e3e35eb15e42000003
+    name: Suzanne Jones
+    username: suzanne

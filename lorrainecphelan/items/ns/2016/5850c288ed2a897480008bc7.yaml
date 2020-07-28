@@ -1,0 +1,53 @@
+id:
+  - Chrysocephalum semipapposum
+  - Cylindromyia tricolor
+created_at: '2016-12-14T03:57:47Z'
+datetime: '2016-12-13T16:24:58+10:00'
+elevation: 367.3
+latitude: -37.83391
+location_name: 'Durdidwarrah VIC 3342, Australia'
+longitude: 144.229873
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-12-14T10:26:41Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-12-13T16:24:58Z'
+    height: 955
+    width: 1133
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5850c29bed2a89b71800025a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5850c29bed2a89b71800025a.JPG'
+  - datetime: '2016-12-13T16:19:27Z'
+    height: 732
+    width: 869
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5850c28ced2a892daf000277.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5850c28ced2a892daf000277.JPG'
+  - datetime: '2016-12-13T16:06:51Z'
+    height: 918
+    width: 1167
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5850c2a0ed2a89b3fe000255.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5850c2a0ed2a89b3fe000255.JPG'
+  - datetime: '2016-12-13T16:28:41Z'
+    height: 1125
+    width: 1382
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5850c2a4ed2a89d73e00023b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5850c2a4ed2a89d73e00023b.JPG'
+tags:
+  - flower-yellow
+comments:
+  - created_at: '2016-12-14T08:21:34Z'
+    text: Fly is Cylindromyia tricolor.
+    ref: 5851010eed2a897480008cb2
+    name: David Francis
+    username: david_francis
+  - replying_to: 5851010eed2a897480008cb2
+    created_at: '2016-12-14T10:29:42Z'
+    text: Thanks David. I've added it to the header.
+    ref: 58511f16ed2a897480008d2d
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - brisbane_ranges_national_park_plants

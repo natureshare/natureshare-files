@@ -1,0 +1,58 @@
+id:
+  - Leptopius robustus
+created_at: '2014-11-26T05:29:00Z'
+datetime: '2014-11-21T14:06:58+10:00'
+description: This weevil was found crawling on a Correa pulchella bush.
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2016-11-19T19:25:00Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-11-21T14:06:58Z'
+    height: 2432
+    width: 3648
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5475651be35eb1d61f000003.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5475651be35eb1d61f000003.JPG'
+  - datetime: '2014-11-21T14:07:44Z'
+    height: 1434
+    width: 2163
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5475651be35eb1d61f000004.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5475651be35eb1d61f000004.JPG'
+  - datetime: '2014-11-21T14:04:50Z'
+    height: 1034
+    width: 1551
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5475651be35eb1d61f000005.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5475651be35eb1d61f000005.JPG'
+  - datetime: '2014-11-21T14:05:59Z'
+    height: 1524
+    width: 2280
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5475651be35eb1d61f000006.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5475651be35eb1d61f000006.JPG'
+tags:
+  - underside
+  - upperside
+  - weevil
+comments:
+  - created_at: '2016-11-06T09:56:17Z'
+    text: 'Suzanne, see John Tann''s id at https://www.flickr.com/photos/31031835@N08/6257450458/in/album-72157625920785739/ (Leptopius robustus).'
+    ref: 581efe41ed2a897480002831
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-11-06T09:57:08Z'
+    text: You may apply this id to some of your other Curculionidae spp. observations.
+    ref: 581efe74ed2a897480002833
+    name: David Francis
+    username: david_francis
+  - replying_to: 581efe41ed2a897480002831
+    created_at: '2016-11-19T19:23:46Z'
+    text: Thanks David.
+    ref: 5830a6c2ed2a899dda0000fc
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains

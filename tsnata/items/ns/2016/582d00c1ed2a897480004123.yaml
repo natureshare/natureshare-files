@@ -1,0 +1,54 @@
+id:
+  - name: Brachydeutera spp.
+    by: david_francis
+created_at: '2016-11-17T01:09:57Z'
+datetime: '2016-11-16T10:45:12+10:00'
+description: A swarm of these tiny flies on the stagnant water. The closest id is  family Ephydridae (Atlas of Living Australia)
+elevation: 2.7
+latitude: -37.796683
+location_name: 'Footscray VIC 3011, Australia'
+longitude: 144.909879
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-11-27T13:03:16Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-11-16T10:45:12Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/582d00cced2a89b3fe0001dc.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/582d00cced2a89b3fe0001dc.jpg'
+tags:
+  - fly
+comments:
+  - created_at: '2016-11-17T04:47:11Z'
+    text: Possible Brachydeutera sydneyensis a widespread Ephydridae species
+    ref: 582d364fed2a89de570001cb
+    name: Mark Helle
+    username: saqqara37
+  - created_at: '2016-11-17T09:59:29Z'
+    text: 'Thomas and Mark. Thanks. This is a new one for me. Yes, definitely Ephydridae - these flies have water-repelling hairs that allow them to suspend themselves on the water surface and draw in algae etc. from the water surface. Often occur on newly flooded sites. I''ll add this group to the NS database as it hasn''t been recorded before. Fantastic observation!'
+    ref: 582d7f81ed2a8974800041f9
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-11-17T10:12:58Z'
+    text: "see http://anic.ento.csiro.au/insectfamilies/getmultimedia.aspx?id=4179\r\n"
+    ref: 582d82aaed2a8974800041fc
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-11-17T10:44:28Z'
+    text: Need detailed close-ups to identify the genus and species
+    ref: 582d8a0ced2a89de57000245
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-11-20T10:21:21Z'
+    text: <em>Ephydridae spp.</em> species id suggested
+    ref: 58317921ed2a8974800048a2
+    name: David Francis
+    username: david_francis
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong

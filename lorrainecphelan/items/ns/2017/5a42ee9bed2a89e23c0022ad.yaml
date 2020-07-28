@@ -1,0 +1,37 @@
+id:
+  - Ellipsidion humerale
+created_at: '2017-12-27T00:55:21Z'
+datetime: '2017-12-20T21:20:45+10:00'
+description: Cockroach Ellipsidion humeralis
+elevation: 73.2
+latitude: -38.177667
+location_name: 'Wandana Heights VIC 3216, Australia'
+longitude: 144.306846
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-12-27T11:48:26Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-12-20T21:20:45Z'
+    height: 1201
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a42eea5ed2a892d1500004e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a42eea5ed2a892d1500004e.jpg'
+comments:
+  - created_at: '2017-12-27T05:41:20Z'
+    text: ALA/AFD do not list Ellipsidion humeralis but do list Ellipsidion humerale. Bowerbird has it the other way around and contributors use both as alternative spellings. As we follow the ALA/AFD
+    ref: 5a433280ed2a8927cd000046
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-12-27T05:44:59Z'
+    text: '... as we follow the ALA/AFD I feel that E. humerale should be used in NatureShare even though E. humeralis is widely used. Also David Rentz in his book, Cockroaches of Australia uses E. humerale. '
+    ref: 5a43335bed2a8927cd000048
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-12-27T05:53:13Z'
+    text: I've added E. humerallis as a synonym of E. humerale - a solution of convenience which may or may not be technically correct.
+    ref: 5a433549ed2a89e23c002406
+    name: David Francis
+    username: david_francis

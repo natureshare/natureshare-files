@@ -1,0 +1,38 @@
+id:
+  - Stibaroma melanotoxa
+created_at: '2017-03-19T04:09:21Z'
+datetime: '2017-03-19T00:48:30+10:00'
+description: Some individuals have pale patches on thorax and forewings.  (MOV Part 5)
+elevation: 260.9
+latitude: -37.806572
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297016
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-05-05T02:12:03Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-03-19T00:48:30Z'
+    height: 1255
+    width: 1385
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58ce037ded2a891d6d00005d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce037ded2a891d6d00005d.jpg'
+  - datetime: '2017-03-19T00:50:27Z'
+    height: 1423
+    width: 1556
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58ce037eed2a894410000068.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce037eed2a894410000068.jpg'
+tags:
+  - male
+  - moth
+comments:
+  - created_at: '2018-02-10T06:30:45Z'
+    text: what a beauty !
+    ref: 5a7e9195ed2a89def70017ce
+    name: Leuba Ridgway
+    username: leuba
+collections:
+  - brisbane_ranges_moths

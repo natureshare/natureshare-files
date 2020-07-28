@@ -1,0 +1,48 @@
+id:
+  - name: Coracina novaehollandiae
+    by: david_francis
+created_at: '2017-03-27T09:33:14Z'
+datetime: '2017-03-27T18:12:36+10:00'
+elevation: 286.5
+latitude: -37.527001
+location_name: 'Sunbury VIC 3429, Australia'
+longitude: 144.762864
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-03-28T22:09:16Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-03-27T18:12:36Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58d8dba7ed2a891d6d000095.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58d8dba7ed2a891d6d000095.JPG'
+  - datetime: '2017-03-27T18:12:19Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58d8db9eed2a89441000009d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58d8db9eed2a89441000009d.JPG'
+  - datetime: '2017-03-27T18:12:28Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58d8dbafed2a89e5480000a0.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58d8dbafed2a89e5480000a0.JPG'
+comments:
+  - created_at: '2017-03-27T09:35:54Z'
+    text: Black-faced Cuckoo-shrike
+    ref: 58d8dcfaed2a8963410019b8
+    name: Andrew Allen
+    username: andrew_allen
+  - created_at: '2017-03-27T09:55:48Z'
+    text: 'Great photo of black face '
+    ref: 58d8e1a4ed2a8963410019c1
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-03-28T13:33:45Z'
+    text: id by Andrew Allen.
+    ref: 58da6639ed2a896341001db3
+    name: David Francis
+    username: david_francis

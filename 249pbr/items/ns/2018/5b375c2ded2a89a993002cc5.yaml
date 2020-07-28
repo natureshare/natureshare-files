@@ -1,0 +1,40 @@
+id:
+  - Deconica horizontalis
+created_at: '2018-06-30T10:47:14Z'
+datetime: '2017-04-14T12:55:22+10:00'
+description: "Three images, this is Deconica horizontalis, previously recorded as Melanotus hepatochrous in one field guide and as Psilocybe hepatochrous in another guide. It appears on ALA, could the database be updated please.\r\nIt is similar to the previous species but has purple/brown spores."
+elevation: 750.7
+latitude: -37.428608
+location_name: 'Bullarto South VIC 3461, Australia'
+longitude: 144.227425
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-06-30T12:07:24Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-04-14T12:55:22Z'
+    height: 3408
+    width: 4620
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b375c2bed2a891efe000026.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b375c2bed2a891efe000026.jpg'
+  - datetime: '2017-04-14T12:54:28Z'
+    height: 2436
+    width: 3102
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b375c34ed2a89402b000026.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b375c34ed2a89402b000026.jpg'
+  - datetime: '2017-04-14T12:55:22Z'
+    height: 1996
+    width: 2528
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b377260ed2a892807000030.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b377260ed2a892807000030.jpg'
+comments:
+  - created_at: '2018-06-30T11:38:46Z'
+    text: Species added.
+    ref: 5b376bc6ed2a89a993002d46
+    name: Cathy Powers
+    username: koolah
+collections:
+  - wombat_forest_-_fungi

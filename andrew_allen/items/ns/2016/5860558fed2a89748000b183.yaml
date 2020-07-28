@@ -1,0 +1,60 @@
+id:
+  - Rhinotia spp.
+created_at: '2016-12-25T23:28:40Z'
+datetime: '2016-12-26T07:30:00+10:00'
+description: 'Weevil with large-ish front legs. It dropped to the ground when it saw me, I only managed two photos'
+latitude: -37.632068
+longitude: 144.849548
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-12-27T01:15:24Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 1620
+    width: 2430
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5860559aed2a89d73e000276.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5860559aed2a89d73e000276.jpg'
+  - height: 1665
+    width: 2497
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58605594ed2a89b3fe00029c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58605594ed2a89b3fe00029c.jpg'
+comments:
+  - created_at: '2016-12-26T11:55:56Z'
+    text: I'm looking for images of Rhinotia povera to compare with your obsv.
+    ref: 5861054ced2a89a4bf000001
+    name: David Francis
+    username: david_francis
+  - replying_to: 5861054ced2a89a4bf000001
+    created_at: '2016-12-26T23:02:16Z'
+    text: 'Looks good compared to the photo at ALA, but I can''t find any other images online. '
+    ref: 5861a178ed2a89748000b3ff
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 5861a178ed2a89748000b3ff
+    created_at: '2016-12-26T23:35:38Z'
+    text: 'The ALA photo by Reiner Richter is from the Bowerbird website where he says he is uncertain of the id. and has not had it confirmed so far. http://www.bowerbird.org.au/observations/62898 Perhaps leave it as Rhinotia spp. for the moment.'
+    ref: 5861a94aed2a89c50f000004
+    name: David Francis
+    username: david_francis
+  - replying_to: 5861a94aed2a89c50f000004
+    created_at: '2016-12-26T23:44:16Z'
+    text: 'Ok, will do, the other photo at ALA (the pinned specimen) does have different markings on the back. '
+    ref: 5861ab50ed2a89c50f000014
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 5861a178ed2a89748000b3ff
+    created_at: '2016-12-26T23:51:40Z'
+    text: Rhinotia spp. added to NS database
+    ref: 5861ad0ced2a89c50f00001b
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-12-30T23:12:27Z'
+    text: Rhinotia phoenicoptera
+    ref: 5a481d5bed2a89e23c003787
+    name: Andrew Allen
+    username: andrew_allen
+collections:
+  - woodlands_historic_park_insects_and_spiders
+  - woodlands_historic_park_-_coleoptera

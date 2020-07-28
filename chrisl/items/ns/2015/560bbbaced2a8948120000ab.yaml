@@ -1,0 +1,44 @@
+id:
+  - Microseris sp. 3
+created_at: '2015-09-30T10:38:36Z'
+datetime: '2015-09-18T09:20:49+10:00'
+latitude: -37.872583
+longitude: 144.164534
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-09-30T11:14:19Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-09-18T09:21:32Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560bc39bed2a890d9500035f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560bc39bed2a890d9500035f.jpg'
+  - datetime: '2015-09-18T09:20:49Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560bbc0ded2a890d95000351.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560bbc0ded2a890d95000351.jpg'
+  - datetime: '2015-09-18T09:21:45Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560bc3abed2a890d95000360.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560bc3abed2a890d95000360.jpg'
+tags:
+  - flower
+  - leaf
+comments:
+  - created_at: '2016-05-03T12:36:53Z'
+    text: Microseris sp. 3 is now accepted by the RBG to be Microseris walteri
+    ref: 57289b65ed2a89e6680003d7
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-05-03T12:37:10Z'
+    text: 'see http://data.rbg.vic.gov.au/vicflora/flora/taxon/83b57182-7112-49e7-923e-c667f89f89bf'
+    ref: 57289b76ed2a89e6680003d9
+    name: David Francis
+    username: david_francis
+collections:
+  - brisbane_ranges_national_park_plants

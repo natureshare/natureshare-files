@@ -1,0 +1,27 @@
+id:
+  - Jotus spp.
+created_at: '2011-06-04T15:20:08Z'
+datetime: '2011-06-03T14:04:51+10:00'
+description: Jumping Spider.
+latitude: -37.430836
+longitude: 144.654644
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-03-16T16:35:13Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-06-03T14:04:51Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ee35eb12984011bb8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011bb8.jpg'
+  - datetime: '2011-06-03T14:03:44Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ee35eb12984011bb9.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011bb9.jpg'
+comments:
+  - created_at: '2015-02-22T14:38:02Z'
+    text: 'ID by Robert Whyte who added "probable male of http://natureshare.org.au/observations/53b39852e35eb1298400ef4d "'
+    ref: 54e9e9caed2a89ef27000584
+    name: Russell Best
+    username: russell
+collections:
+  - spiders_of_riddells_creek

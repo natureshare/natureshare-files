@@ -1,0 +1,29 @@
+id:
+  - name: Asteraceae spp.
+    by: russell
+created_at: '2011-04-13T00:07:30Z'
+datetime: '2011-01-21T04:31:48+10:00'
+latitude: -36.763332
+longitude: 146.7873
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-01-29T09:27:14Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-01-21T04:31:48Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ee35eb1298401190c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb1298401190c.jpg'
+  - datetime: '2011-01-21T04:31:54Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ee35eb1298401190d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb1298401190d.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2015-01-29T09:25:59Z'
+    text: 'Doesn''t fit description for B. nivalis, eg. Plantnet "involucral bracts narrow-lanceolate, glabrous, lacerate". Do you have a pic of the very distinctive leaves of B. nivalis?'
+    ref: 54c9fca7ed2a899aeb000172
+    name: Russell Best
+    username: russell
+collections:
+  - mt_buffalo_np_plants

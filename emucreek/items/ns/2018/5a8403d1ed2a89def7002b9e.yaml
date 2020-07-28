@@ -1,0 +1,47 @@
+id:
+  - name: Geranium retrorsum s.s.
+    by: david_francis
+created_at: '2018-02-14T09:39:29Z'
+datetime: '2018-02-14T18:23:39+10:00'
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-02-14T09:43:25Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-02-14T18:23:39Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a8403dbed2a895fa200007d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a8403dbed2a895fa200007d.JPG'
+  - datetime: '2018-02-14T18:24:31Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a840433ed2a895fa200007e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a840433ed2a895fa200007e.JPG'
+  - datetime: '2018-02-14T18:24:23Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a84047ded2a8966a0000054.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a84047ded2a8966a0000054.JPG'
+comments:
+  - created_at: '2018-02-14T09:43:08Z'
+    text: 3 pixs..
+    ref: 5a8404aced2a89def7002ba1
+    name: Peter Clark
+    username: emucreek
+  - created_at: '2018-02-14T10:28:29Z'
+    text: <em>Geranium retrorsum s.s.</em> species id suggested
+    ref: 5a840f4ded2a89def7002bd7
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-02-14T10:30:08Z'
+    text: 'Yes, I think I can see sufficient detail to suggest Geranium retrorsum. The hairs on the stem point backwards=retrorse.'
+    ref: 5a840fb0ed2a89124f000001
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-02-14T10:32:19Z'
+    text: 'Same plant as https://natureshare.org.au/observations/5a82a4feed2a89def7002701?comment_id=5a8404e8ed2a89def7002baa&reply=#comment5a8404e8ed2a89def7002baa'
+    ref: 5a841033ed2a89def7002bda
+    name: David Francis
+    username: david_francis

@@ -1,0 +1,43 @@
+id:
+  - Pentatomidae spp.
+created_at: '2016-10-20T06:20:24Z'
+datetime: '2016-10-16T13:18:28+10:00'
+description: "Austromalaya reticulatus should not be in Victoria? \r\nAnd this one was dark... returning with more info."
+elevation: 148
+latitude: -37.907605
+location_name: 'Upwey VIC 3158, Australia'
+longitude: 145.313864
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-20T08:31:01Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-16T13:18:02Z'
+    height: 1200
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58086601ed2a89b3fe00013f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58086601ed2a89b3fe00013f.JPG'
+  - datetime: '2016-10-16T13:18:28Z'
+    height: 1200
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58076a00ed2a89d73e00012a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58076a00ed2a89d73e00012a.JPG'
+tags:
+  - shield-bug
+comments:
+  - created_at: '2016-10-20T06:47:45Z'
+    text: I don't think insects respect state borders but Austromalaya seems to have a tropical distribution.
+    ref: 58086891ed2a89450f00abfb
+    name: David Francis
+    username: david_francis
+  - replying_to: 58086891ed2a89450f00abfb
+    created_at: '2016-10-20T07:26:13Z'
+    text: 'Agreed. Pattern, antennal banding etc. looks good to me but colour and known range are out so another for BB. (I dread using BB) Thanks again.'
+    ref: 58087195ed2a89450f00ac1f
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_hemiptera

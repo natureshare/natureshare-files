@@ -1,0 +1,46 @@
+id:
+  - Calidris acuminata
+  - Calidris ruficollis
+created_at: '2016-01-30T23:56:23Z'
+datetime: '2016-01-23T13:22:43+10:00'
+elevation: 0
+latitude: -38.392065
+location_name: 'Port Fairy VIC 3284, Australia'
+longitude: 142.244198
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-02-02T20:58:59Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-01-23T13:22:43Z'
+    height: 2087
+    width: 3126
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56ad4d31ed2a897bc7000048.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ad4d31ed2a897bc7000048.JPG'
+  - datetime: '2016-01-23T15:18:06Z'
+    height: 1959
+    width: 2938
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56ad4db2ed2a897bc7000049.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ad4db2ed2a897bc7000049.JPG'
+comments:
+  - created_at: '2016-02-02T05:00:38Z'
+    text: '(1) Sharp-tailed Sandpiper. (2) Red-necked Stint. '
+    ref: 56b037f6ed2a89d94d000037
+    name: Lawrie Conole
+    username: lconole
+  - replying_to: 56b037f6ed2a89d94d000037
+    created_at: '2016-02-02T19:02:23Z'
+    text: Thanks Lawrie for IDs. Sanpiper in the first photo and stint in the second photo?
+    ref: 56b0fd3fed2a89d94d0000a0
+    name: Giorgio De Nola
+    username: giorgiod
+  - replying_to: 56b0fd3fed2a89d94d0000a0
+    created_at: '2016-02-09T00:56:11Z'
+    text: Correct. Sorry for the delayed response!
+    ref: 56b9392bed2a89d4ab0003fc
+    name: Lawrie Conole
+    username: lconole
+collections:
+  - birds_of_warrnambool_killarney_and_port_fairy

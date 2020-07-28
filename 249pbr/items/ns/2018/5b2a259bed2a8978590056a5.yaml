@@ -1,0 +1,35 @@
+id:
+  - Hydnellum auratile
+created_at: '2018-06-20T10:19:21Z'
+datetime: '2017-06-18T14:47:10+10:00'
+description: "This is listed as Hydnellum auratile on the FNCV Fungi Group lists and appears under this name in Fuhrer, A Field Guide to Australian Fungi. Second image shows detail of the tan coloured spines.\r\n\r\nThe similar looking Phelledon niger is a darker charcoal or black on the cap and has grey spines."
+elevation: 617.1
+latitude: -37.478551
+location_name: 'Blackwood VIC 3458, Australia'
+longitude: 144.290931
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-06-27T07:51:52Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-06-18T14:47:10Z'
+    height: 4000
+    width: 6000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b2a259fed2a89e822000031.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2a259fed2a89e822000031.jpg'
+  - datetime: '2017-06-18T14:47:37Z'
+    height: 3539
+    width: 5124
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b2a25a5ed2a89d0e7000047.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2a25a5ed2a89d0e7000047.jpg'
+comments:
+  - created_at: '2018-06-27T05:44:42Z'
+    text: Hydnellum auratile has been added to the database.
+    ref: 5b33244aed2a89a993001b0b
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - wombat_forest_-_fungi

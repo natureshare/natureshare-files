@@ -1,0 +1,32 @@
+id:
+  - Kennedia prostrata
+created_at: '2017-09-02T11:13:39Z'
+datetime: '2017-08-07T12:15:56+10:00'
+elevation: 63.3
+latitude: -38.457872
+location_name: 'Cape Schanck VIC 3939, Australia'
+longitude: 144.885091
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-09-02T11:13:39Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-08-07T12:15:56Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59aa71c0ed2a8939840001ce.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59aa71c0ed2a8939840001ce.JPG'
+  - datetime: '2017-08-07T12:16:05Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59aa71cded2a8939840001d0.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59aa71cded2a8939840001d0.JPG'
+tags:
+  - creeper
+  - flowers-pea
+  - flowers-red
+collections:
+  - cape_schank_flora

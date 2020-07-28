@@ -1,0 +1,33 @@
+id:
+  - Malacorhynchus membranaceus
+created_at: '2018-03-30T10:31:55Z'
+datetime: '2018-03-30T10:07:42+10:00'
+description: one pink-eared duck filter feeding.
+elevation: 1.6
+latitude: -37.79608
+location_name: 'Footscray VIC 3011, Australia'
+longitude: 144.912125
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-03-31T10:41:43Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-03-30T10:07:42Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5abe1179ed2a89cf90000052.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5abe1179ed2a89cf90000052.jpg'
+comments:
+  - created_at: '2018-03-30T10:47:51Z'
+    text: 'Fantastic video, clearly showing all the features and behaviour!'
+    ref: 5abe15d7ed2a896baf008a51
+    name: David Francis
+    username: david_francis
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong
+videos:
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/video/20180330/1522405269084-rrz27y7jv9hi-0b833d4664b9b5c8f2045836c54a3ae0/pink-eared%20duck-4.mp4'

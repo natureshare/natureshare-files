@@ -1,0 +1,37 @@
+id:
+  - name: Hemicordulia tau
+    by: david_francis
+created_at: '2017-01-16T03:37:58Z'
+datetime: '2017-01-16T10:35:34+10:00'
+description: A pair of dragonflies.
+elevation: 6.6
+latitude: -37.797092
+location_name: 'Footscray VIC 3011, Australia'
+longitude: 144.915415
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-01-16T03:37:58Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-16T10:35:34Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/587c3f56ed2a892daf000323.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/587c3f56ed2a892daf000323.jpg'
+comments:
+  - created_at: '2017-01-16T10:14:56Z'
+    text: Hemicordulia tau?
+    ref: 587c9d20ed2a8940b000002f
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-27T11:27:41Z'
+    text: <em>Hemicordulia tau</em> species id suggested
+    ref: 588b2eaded2a89d10f001071
+    name: David Francis
+    username: david_francis
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong

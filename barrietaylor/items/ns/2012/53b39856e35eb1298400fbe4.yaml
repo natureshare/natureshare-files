@@ -1,0 +1,27 @@
+created_at: '2012-11-23T13:56:09Z'
+datetime: '2012-11-23T00:00:00+10:00'
+description: site11 East and West
+latitude: -36.402501
+longitude: 143.623099
+non_identifying_photo: true
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2014-12-19T04:29:26Z'
+license: CC BY 2.5 AU
+comments:
+  - created_at: '2013-02-15T06:37:37Z'
+    text: |
+      Site quadrat (circle) preburn data recorded by wcmn Observers on 4th Oct 2011. Each line has a maximum of 3 fields which are scientific name, common name, and quadrat quantity for that plant species. One of the first 2 fields may be omitted from the record. 
+    ref: 53b3984be35eb1298400da88
+  - created_at: '2013-02-15T06:37:56Z'
+    text: |-
+      Acacia acinacea Gold dust wattle 10+
+      Correa 5
+      Grasses – Wallaby 10+
+      Crassula 10+
+      Thistle 1 
+      Eucalyptus microcarpa Grey box 1
+      Saltbush Species 1
+    ref: 53b3984be35eb1298400da89
+collections:
+  - wcmnpreburnedsites

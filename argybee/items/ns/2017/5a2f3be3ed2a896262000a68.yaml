@@ -1,0 +1,65 @@
+id:
+  - Alophosoma emmelopis
+created_at: '2017-12-12T02:23:52Z'
+datetime: '2017-12-11T23:44:00+10:00'
+description: "About 24mm long. Huge crest and tufts. Distinctive patterns.\r\nDrawn to light near midnight.\r\nThanks Cathy for Alophosoma emmelopis\r\n"
+elevation: 156.3
+latitude: -37.899207
+location_name: 'Upper Ferntree Gully VIC 3156, Australia'
+longitude: 145.311203
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-12-12T20:14:07Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-12-14T23:44:51Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a2f3beaed2a89298f000012.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a2f3beaed2a89298f000012.jpg'
+  - datetime: '2017-12-14T23:40:57Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a2f3d46ed2a893fb7000013.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a2f3d46ed2a893fb7000013.jpg'
+tags:
+  - moth
+comments:
+  - created_at: '2017-12-12T04:39:48Z'
+    text: That's quite a hairdo.
+    ref: 5a2f5d94ed2a896262000b18
+    name: Lauren Fraser
+    username: lauren_fraser
+  - created_at: '2017-12-12T08:42:20Z'
+    text: Mark - I think this is Alophosoma emmelopis as per Moths of Victoria 8.
+    ref: 5a2f966ced2a896262000c36
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5a2f5d94ed2a896262000b18
+    created_at: '2017-12-12T08:45:13Z'
+    text: Yes certainly looks more interesting side-on than from above.
+    ref: 5a2f9719ed2a896262000c39
+    name: Mark Ridgway
+    username: argybee
+  - replying_to: 5a2f966ced2a896262000c36
+    created_at: '2017-12-12T08:47:38Z'
+    text: 'Oh no... have I missed it again. Thanks Cathy... checking #8 now'
+    ref: 5a2f97aaed2a896e76000018
+    name: Mark Ridgway
+    username: argybee
+  - replying_to: 5a2f966ced2a896262000c36
+    created_at: '2017-12-12T08:49:58Z'
+    text: Yep.. thanks so much.
+    ref: 5a2f9836ed2a896262000c3e
+    name: Mark Ridgway
+    username: argybee
+  - created_at: '2017-12-12T11:33:15Z'
+    text: I have added the species to the database.
+    ref: 5a2fbe7bed2a896262000d02
+    name: Cathy Powers
+    username: koolah
+collections:
+  - dandenong_ranges_lepidoptera

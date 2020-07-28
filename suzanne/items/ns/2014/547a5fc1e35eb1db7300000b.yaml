@@ -1,0 +1,41 @@
+id:
+  - name: Ectropis bispinaria
+    by: koolah
+created_at: '2014-11-30T00:07:29Z'
+datetime: '2014-01-15T14:26:55+10:00'
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2016-09-14T10:59:17Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-01-15T14:26:55Z'
+    height: 1478
+    width: 2211
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/547a5fc1e35eb1db73000009.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/547a5fc1e35eb1db73000009.JPG'
+  - datetime: '2014-01-15T14:26:23Z'
+    height: 2144
+    width: 3216
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/547a5fc1e35eb1db7300000a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/547a5fc1e35eb1db7300000a.JPG'
+tags:
+  - moth
+comments:
+  - created_at: '2014-11-30T00:27:24Z'
+    text: 'Ennominae I''d say. MoV5 or http://lepidoptera.butterflyhouse.com.au/enno/enno-moths.html '
+    ref: 547a646ce35eb1548300019b
+    name: Russell Best
+    username: russell
+  - created_at: '2014-11-30T02:33:15Z'
+    text: 'Thanks Russell.  I couldn''t see it in the Moths of Victoria booklets, but Ennominae is also in a booklet that is ''in preparation''.  Had a look at the website and it seemed most like an Ectropis species, but I am not sure.'
+    ref: 547a81ebe35eb1db1c000001
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains
+  - butterflies_moths_seen_at_145_gibsons_road_cobains

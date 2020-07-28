@@ -1,0 +1,40 @@
+id:
+  - name: Gonocarpus tetragynus
+    by: david_francis
+created_at: '2016-11-14T12:24:18Z'
+datetime: '2016-11-06T10:13:51+10:00'
+description: 'Small plants with tiny red flowers -common, particularly along roadsides, tracks.'
+elevation: 213.7
+latitude: -36.783384
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.378731
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-11-14T12:24:18Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-11-06T10:13:51Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5829a90ced2a89b3fe0001d9.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5829a90ced2a89b3fe0001d9.JPG'
+  - datetime: '2016-11-06T10:13:44Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5829a9caed2a89b7180001c1.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5829a9caed2a89b7180001c1.JPG'
+tags:
+  - flowers-red
+  - flowers-small
+  - plant-small
+comments:
+  - created_at: '2016-11-14T23:25:39Z'
+    text: <em>Gonocarpus tetragynus</em> species id suggested
+    ref: 582a47f3ed2a897480003c8e
+    name: David Francis
+    username: david_francis
+collections:
+  - junortoun_flora

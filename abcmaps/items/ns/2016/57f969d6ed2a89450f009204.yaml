@@ -1,0 +1,50 @@
+id:
+  - Olearia lirata
+created_at: '2016-10-08T21:58:00Z'
+datetime: '2016-09-15T12:46:26+10:00'
+description: Olearia lirata possibly with a fungal infection
+elevation: 276.5
+latitude: -37.825082
+location_name: 'Gladysdale VIC 3797, Australia'
+longitude: 145.621885
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: n/a
+updated_at: '2016-11-13T21:23:32Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-15T12:46:51Z'
+    height: 2880
+    width: 3840
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57f96a0eed2a892daf00011b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f96a0eed2a892daf00011b.JPG'
+  - datetime: '2016-09-15T12:46:26Z'
+    height: 2880
+    width: 3840
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57face11ed2a89b7180000ee.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57face11ed2a89b7180000ee.JPG'
+comments:
+  - created_at: '2016-10-09T04:22:57Z'
+    text: What is the shape of the leaf? Are they normal flowers or buds?
+    ref: 57f9c621ed2a89450f009289
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-10-09T11:14:42Z'
+    text: Has the appearance of Olearia lirata - seedling or young plant. The growth looks to be caused by fungal or insect attack.
+    ref: 57fa26a2ed2a89450f00939c
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2016-10-09T23:14:27Z'
+    text: Thanks. Have added a second image but I'm not sure if you will get much more out of that one. The Olearia lirata are just starting to flower so I might go back and see if there are any nearby and compare leaves.
+    ref: 57facf53ed2a89450f009449
+    name: Luke Steenhuis
+    username: abcmaps
+  - created_at: '2016-10-10T04:06:22Z'
+    text: 'Brilliant I.D. Chris, and thanks David for pointing out the importance of the leaves. Although I couldn''t find the affected plant; the Snow Daisy Bush is well-represented in the area with lots of young ones. The leaves and stem appear identical. '
+    ref: 57fb13beed2a89450f0094c5
+    name: Luke Steenhuis
+    username: abcmaps
+collections:
+  - hoddles_creek_region_wildflowers

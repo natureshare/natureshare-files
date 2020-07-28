@@ -1,0 +1,52 @@
+id:
+  - name: Glossodia major
+    by: chrisl
+created_at: '2014-10-21T11:15:06Z'
+datetime: '2014-09-21T13:18:31+10:00'
+description: Unknown native flower  - head and base of the plant (in second photo)
+latitude: -37.290561
+location_name: 'Clunes VIC 3370, Australia'
+longitude: 143.752972
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-10-21T12:01:25Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-21T13:18:31Z'
+    height: 683
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5446403ae35eb1c13c00009d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5446403ae35eb1c13c00009d.jpg'
+  - datetime: '2014-09-21T13:18:36Z'
+    height: 683
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5446403ae35eb1c13c00009e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5446403ae35eb1c13c00009e.jpg'
+tags:
+  - bud
+comments:
+  - created_at: '2014-10-21T12:02:37Z'
+    text: This is an orchid in bud but can't tell which species until it flowers.
+    ref: 54464b5de35eb12904000045
+    name: Russell Best
+    username: russell
+  - created_at: '2014-10-21T23:20:38Z'
+    text: 'Very likely to be Glossodia major (almost certainly). Hairy, light green leaf (two plants in photo); purple glandular hairs on tepals.'
+    ref: 5446ea46e35eb12904000059
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 5446ea46e35eb12904000059
+    created_at: '2014-10-22T21:27:46Z'
+    text: 'I agree on both your suggestions Chris. Michael, it would be good to confirm absolutely when they open.'
+    ref: 54482152e35eb13aa800000c
+    name: Russell Best
+    username: russell
+  - replying_to: 54482152e35eb13aa800000c
+    created_at: '2014-10-22T23:14:19Z'
+    text: 'Likely to have flowered weeks ago and possibly withered or in fruit now. I only few plants found in area, this is a good record.'
+    ref: 54483a4be35eb1e3fe000015
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - clunes_finchesgully_flora_and_fauna

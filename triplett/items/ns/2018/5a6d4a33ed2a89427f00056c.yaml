@@ -1,0 +1,38 @@
+id:
+  - Heteropelma scaposum
+created_at: '2018-01-28T03:58:44Z'
+datetime: '2018-01-23T09:09:37+10:00'
+elevation: 140.3
+latitude: -37.643687
+location_name: 'Greenvale VIC 3059, Australia'
+longitude: 144.861048
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-01-28T23:55:47Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-01-23T09:09:37Z'
+    height: 638
+    width: 1000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a6d4a37ed2a896ec000003a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a6d4a37ed2a896ec000003a.jpg'
+comments:
+  - created_at: '2018-01-28T04:32:22Z'
+    text: Maybe Heteropelma scaposum
+    ref: 5a6d5256ed2a89427f00057a
+    name: Andrew Allen
+    username: andrew_allen
+  - created_at: '2018-01-28T04:33:11Z'
+    text: 'Same as this one? https://natureshare.org.au/observations?species=Heteropelma+scaposum'
+    ref: 5a6d5287ed2a89d02a001697
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-01-28T23:56:39Z'
+    text: 'thanks, looks good to me'
+    ref: 5a6e6337ed2a89d02a00198b
+    name: Jeff Triplett
+    username: triplett
+collections:
+  - woodlands_historic_park_insects_and_spiders
+  - woodlands_historic_park_-_hymenoptera

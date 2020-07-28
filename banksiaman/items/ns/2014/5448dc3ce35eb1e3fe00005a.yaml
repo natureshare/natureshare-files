@@ -1,0 +1,39 @@
+id:
+  - Acacia spp.
+created_at: '2014-10-23T10:45:16Z'
+datetime: '2014-10-06T13:17:10+10:00'
+latitude: -37.197838
+longitude: 142.527862
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-10-23T10:46:02Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-06T13:17:10Z'
+    height: 1970
+    width: 3005
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5448dc3ce35eb1e3fe000059.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5448dc3ce35eb1e3fe000059.JPG'
+tags:
+  - wattle
+comments:
+  - created_at: '2014-10-23T11:00:16Z'
+    text: 'Hi Kevin. I can''t go past Acacia paradoxa for this one. It appears to be highly variable in leaf. Unless, of course, it is hybridizing.'
+    ref: 5448dfc0e35eb19b73000075
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 5448dfc0e35eb19b73000075
+    created_at: '2014-10-23T11:07:03Z'
+    text: Its different to the paradoxa's I know
+    ref: 5448e157e35eb1e3fe00006b
+    name: Kevin Sparrow
+    username: banksiaman
+  - replying_to: 5448e157e35eb1e3fe00006b
+    created_at: '2014-10-23T11:11:12Z'
+    text: 'Rather different to the ones around Geelong, where leaves are much more ovate in outline. Some photos taken by the Australian Plant Image Index do look like yours though.'
+    ref: 5448e250e35eb1e3fe00007a
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - grampians_np_plants

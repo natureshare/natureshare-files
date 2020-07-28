@@ -1,0 +1,32 @@
+id:
+  - Amorbus alternatus
+created_at: '2016-02-26T08:55:26Z'
+datetime: '2016-02-18T12:41:52+10:00'
+description: 'Clown bugs. Like Crusader bug without the cross. '
+elevation: 93.2
+latitude: -37.889198
+location_name: 'Ferntree Gully VIC 3156, Australia'
+longitude: 145.289092
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-02-26T08:55:26Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-02-18T12:42:02Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56cda349ed2a890be7000078.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56cda349ed2a890be7000078.JPG'
+  - datetime: '2016-02-18T12:41:52Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56cda338ed2a89211c000081.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56cda338ed2a89211c000081.JPG'
+tags:
+  - adult
+  - final-instar
+  - instar
+collections:
+  - dandenong_ranges_hemiptera

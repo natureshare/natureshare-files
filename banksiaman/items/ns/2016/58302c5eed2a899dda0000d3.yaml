@@ -1,0 +1,32 @@
+id:
+  - name: Isolepis hystrix
+    by: chrisl
+created_at: '2016-11-19T10:42:44Z'
+datetime: '2016-11-17T09:25:30+10:00'
+description: Centrolepis or Isolepis spp??
+latitude: -38.165305
+longitude: 142.36902
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-11-19T10:42:44Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-11-17T09:25:30Z'
+    height: 2578
+    width: 2717
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58302c6ded2a892daf000207.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58302c6ded2a892daf000207.JPG'
+comments:
+  - created_at: '2016-11-19T21:02:02Z'
+    text: <em>Isolepis hystrix</em> species id suggested
+    ref: 5830bdcaed2a897480004751
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2016-11-20T02:36:00Z'
+    text: Thanks Chris
+    ref: 58310c10ed2a8974800047a9
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - woolsthorpe

@@ -1,0 +1,33 @@
+id:
+  - name: Leucopogon spp.
+    by: russell
+created_at: '2014-10-07T10:41:04Z'
+datetime: '2014-10-03T13:32:39+10:00'
+latitude: -37.241623
+longitude: 141.873365
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-10-07T12:47:32Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-03T13:32:39Z'
+    height: 1865
+    width: 1711
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5433c340e35eb12cf8000044.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5433c340e35eb12cf8000044.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2014-10-07T12:48:50Z'
+    text: Not L. virgatus I think. Leaf shape and hairiness doesn't fit.
+    ref: 5433e132e35eb12cf8000059
+    name: Russell Best
+    username: russell
+  - created_at: '2014-10-18T12:34:52Z'
+    text: Could be L. thymifolius?
+    ref: 54425e6ce35eb184d50004ba
+    name: Russell Best
+    username: russell
+collections:
+  - plants_of_balmoral_rocklands_area

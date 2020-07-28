@@ -1,0 +1,33 @@
+id:
+  - Calandrinia calyptrata
+created_at: '2016-09-18T11:25:20Z'
+datetime: '2016-09-17T13:43:41+10:00'
+elevation: 165.1
+latitude: -37.66913
+location_name: 'Long Forest VIC 3340, Australia'
+longitude: 144.510955
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-09-18T11:31:23Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-09-17T13:43:41Z'
+    height: 1012
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57de792aed2a892daf000051.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57de792aed2a892daf000051.jpg'
+  - datetime: '2016-09-17T13:43:31Z'
+    height: 992
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57de7938ed2a89b71800004d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57de7938ed2a89b71800004d.jpg'
+comments:
+  - created_at: '2016-09-18T13:00:28Z'
+    text: So delicate...
+    ref: 57de8feced2a89450f0068d7
+    name: Gill Best
+    username: gill
+collections:
+  - long_forest_conservation_reserve_plants

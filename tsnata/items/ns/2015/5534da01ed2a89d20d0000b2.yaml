@@ -1,0 +1,39 @@
+id:
+  - Tapeigaster spp.
+created_at: '2015-04-20T10:50:41Z'
+datetime: '2015-04-08T10:38:30+10:00'
+description: "Louse fly (hippoboscidae spp.) ?\r\nDavid Francis and Mark Ridgway verified it as Tapeigaster."
+elevation: 25.3
+latitude: -37.786006
+location_name: 'Newmarket, Flemington VIC 3031, Australia'
+longitude: 144.924927
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2015-04-25T06:53:47Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-04-08T10:38:30Z'
+    height: 1500
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5534da00ed2a89d20d0000b0.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5534da00ed2a89d20d0000b0.jpg'
+  - datetime: '2015-04-08T10:39:32Z'
+    height: 1500
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5534da00ed2a89d20d0000b1.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5534da00ed2a89d20d0000b1.jpg'
+comments:
+  - created_at: '2015-04-21T03:24:32Z'
+    text: "Thomas, the head isn't flattened dorsoventrally and there's no piercing mouthparts, so I don't think it's a Louse Fly.\r\nIt looks like a \"Mushroom Fly\", Heteromyzidae: Tapeigaster? \r\nhttp://natureshare.org.au/observations/53b39857e35eb1298401021c?species=Tapeigaster+luteipennis"
+    ref: 5535c2f0ed2a897985000012
+    name: David Francis
+    username: david_francis
+  - created_at: '2015-04-22T00:42:57Z'
+    text: "I agree Tapeigaster\r\n"
+    ref: 5536ee91ed2a893a70000c00
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - flemington_kensington_3031

@@ -1,0 +1,33 @@
+id:
+  - Gymnopilus junonius
+created_at: '2018-05-30T23:22:59Z'
+datetime: '2018-05-27T19:35:54+10:00'
+elevation: 70.4
+latitude: -38.092172
+location_name: 'Heywood VIC 3304, Australia'
+longitude: 141.740518
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-08-11T14:16:56Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-05-27T19:35:54Z'
+    height: 1201
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b0f31e2ed2a89b047000012.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b0f31e2ed2a89b047000012.jpg'
+comments:
+  - created_at: '2018-08-11T07:41:22Z'
+    text: Gymnopilus junonius
+    ref: 5b6e9322ed2a89b204000001
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-11T14:17:17Z'
+    text: Thankyou Zeke
+    ref: 5b6eefeded2a89a7f1003891
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - homerton_and_milltown_fungi

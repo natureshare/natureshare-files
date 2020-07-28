@@ -1,0 +1,42 @@
+id:
+  - Goodenia ovata
+created_at: '2018-09-30T11:18:55Z'
+datetime: '2018-09-23T14:29:18+10:00'
+description: Location approximate. Between Splitters Falls and Wonderland Car Park.
+elevation: 367.7
+latitude: -37.147263
+location_name: 'Halls Gap VIC 3381, Australia'
+longitude: 142.502927
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-10-04T10:32:06Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-09-23T14:29:18Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bb0affced2a8928070000f1.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bb0affced2a8928070000f1.jpg'
+comments:
+  - created_at: '2018-10-01T04:32:55Z'
+    text: Hi Thomas. Is this just an unusual form of Goodenia ovata?
+    ref: 5bb1a377ed2a899ab300014a
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-10-01T07:20:30Z'
+    text: Goodenia varia also a possibility
+    ref: 5bb1cabeed2a899ab3000239
+    name: zeke1944
+    username: zeke1944
+  - replying_to: 5bb1a377ed2a899ab300014a
+    created_at: '2018-10-04T10:31:35Z'
+    text: I think you are right. It is a medium size shrub and the only one that matched the description in Rodger Elliot's "Field Guide to the Grampians Flora" .
+    ref: 5bb5ec07ed2a8968760001fa
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - grampians_np_plants
+  - flora_and_fauna_of_the_grampians

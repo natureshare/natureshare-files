@@ -1,0 +1,35 @@
+id:
+  - name: Signeta flammeata
+    by: david_francis
+created_at: '2017-01-28T05:01:45Z'
+datetime: '2017-01-18T11:58:35+10:00'
+description: Signeta flammeata?
+elevation: 32.2
+latitude: -38.684071
+location_name: 'Grey River VIC 3234, Australia'
+longitude: 143.838369
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-01-30T10:24:27Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-18T11:58:35Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588c250aed2a89b3fe000359.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588c250aed2a89b3fe000359.jpg'
+comments:
+  - created_at: '2017-01-30T10:21:21Z'
+    text: <em>Signeta flammeata</em> species id suggested
+    ref: 588f13a1ed2a89d10f001b59
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-30T10:24:11Z'
+    text: 'Id by Thomas N. First clear photo of the upper side wing of a Bright Shield-skipper on NatureShare. '
+    ref: 588f144bed2a89d10f001b5a
+    name: David Francis
+    username: david_francis
+collections:
+  - grey_river

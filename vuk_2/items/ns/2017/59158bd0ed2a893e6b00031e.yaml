@@ -1,0 +1,50 @@
+id:
+  - Coccoidea spp.
+created_at: '2017-05-12T10:17:52Z'
+datetime: '2017-05-12T20:16:00+10:00'
+latitude: -38.039704
+location_name: 'Chelsea Heights VIC 3196, Australia'
+longitude: 145.127334
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2017-05-12T10:20:00Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-05-12T19:42:46Z'
+    height: 1472
+    width: 1984
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59158c63ed2a894410000127.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59158c63ed2a894410000127.JPG'
+  - datetime: '2017-05-12T19:43:23Z'
+    height: 2008
+    width: 1264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59158c6eed2a891d6d00013d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59158c6eed2a891d6d00013d.JPG'
+  - datetime: '2017-05-12T19:43:23Z'
+    height: 2008
+    width: 1264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59158c75ed2a894410000128.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59158c75ed2a894410000128.JPG'
+  - datetime: '2017-05-12T19:40:10Z'
+    height: 4096
+    width: 2824
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59158c79ed2a891d6d00013e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59158c79ed2a891d6d00013e.JPG'
+  - datetime: '2017-05-12T19:40:10Z'
+    height: 4096
+    width: 2824
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59158c7fed2a894410000129.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59158c7fed2a894410000129.JPG'
+comments:
+  - created_at: '2017-05-12T10:29:09Z'
+    text: 'Dactylopius spp. male.  There is available keys for species classification (for males),  but they are very complex.  Many of them have been flying around  '
+    ref: 59158e75ed2a893e6b000322
+    name: Vuk Vojis
+    username: vuk_2
+  - replying_to: 59158e75ed2a893e6b000322
+    created_at: '2017-05-14T06:51:01Z'
+    text: Dactylopius sp added to db.
+    ref: 5917fe55ed2a893e6b00075d
+    name: David Francis
+    username: david_francis

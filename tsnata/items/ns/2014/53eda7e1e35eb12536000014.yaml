@@ -1,0 +1,34 @@
+id:
+  - Eolophus roseicapilla
+created_at: '2014-08-15T06:25:37Z'
+datetime: '2014-08-15T10:12:23+10:00'
+elevation: 2.4
+latitude: -37.796215
+location_name: 'Footscray VIC, Australia'
+longitude: 144.911124
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-08-15T06:29:01Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-08-15T10:12:23Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53eda7e1e35eb12536000013.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53eda7e1e35eb12536000013.jpg'
+comments:
+  - created_at: '2014-08-15T06:30:50Z'
+    text: Beautiful photo
+    ref: 53eda91ae35eb18e6200000f
+    name: Suzanne Jones
+    username: suzanne
+  - replying_to: 53eda91ae35eb18e6200000f
+    created_at: '2014-08-15T06:49:31Z'
+    text: 'Thanks, Suzanne. I love to look at your observations in your local area.'
+    ref: 53edad7be35eb1253600002d
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong

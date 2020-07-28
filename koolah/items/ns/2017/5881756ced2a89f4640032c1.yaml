@@ -1,0 +1,41 @@
+id:
+  - Heoclisis fundata
+created_at: '2017-01-20T02:28:00Z'
+datetime: '2017-01-19T23:36:44+10:00'
+description: ID confirmed by Ken Harris.
+latitude: -37.806603
+longitude: 144.296968
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-01-20T08:10:39Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-19T23:36:44Z'
+    height: 2384
+    width: 2819
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58817577ed2a89b718000309.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58817577ed2a89b718000309.jpg'
+  - datetime: '2017-01-19T23:33:01Z'
+    height: 2990
+    width: 3235
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58817967ed2a892daf000331.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58817967ed2a892daf000331.jpg'
+tags:
+  - antlion
+  - insect
+comments:
+  - created_at: '2017-01-20T02:44:21Z'
+    text: Nice detail of the lacy wing venation
+    ref: 58817985ed2a89f4640032c9
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-20T02:46:00Z'
+    text: Thanks - I added a second photo to show the body from the top.
+    ref: 588179e8ed2a89f4640032cd
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brisbane_ranges_insects

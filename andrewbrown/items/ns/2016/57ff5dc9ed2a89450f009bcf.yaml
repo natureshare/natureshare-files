@@ -1,0 +1,38 @@
+id:
+  - Caladenia pusilla
+created_at: '2016-10-13T10:34:29Z'
+datetime: '2016-10-13T18:11:58+10:00'
+description: Different species? Only 6cm high.
+elevation: 221.1
+latitude: -36.782962
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.37285
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-14T05:10:14Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-13T18:11:58Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57ff5dd4ed2a89b7180000fe.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57ff5dd4ed2a89b7180000fe.JPG'
+  - datetime: '2016-10-13T18:12:15Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57ff5e09ed2a89d73e000106.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57ff5e09ed2a89d73e000106.JPG'
+tags:
+  - flower-orchid
+  - flower-pink
+comments:
+  - created_at: '2016-10-13T22:46:45Z'
+    text: Caladenia pusilla ?
+    ref: 58000ed5ed2a89450f009d12
+    name: David Francis
+    username: david_francis
+collections:
+  - junortoun_flora

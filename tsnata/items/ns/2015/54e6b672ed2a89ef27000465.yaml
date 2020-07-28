@@ -1,0 +1,53 @@
+id:
+  - Sturnus vulgaris
+created_at: '2015-02-20T04:22:10Z'
+datetime: '2015-02-19T10:32:50+10:00'
+description: 'Unidentified bird, a crake or a starling? Unfortunately it was too far to get a good photo, about the size of a blackbird.'
+elevation: 6.1
+latitude: -37.797249
+location_name: 'Footscray VIC, Australia'
+longitude: 144.914439
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-02-21T04:35:03Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-02-19T10:32:50Z'
+    height: 1500
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54e6b671ed2a89ef27000463.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e6b671ed2a89ef27000463.jpg'
+  - datetime: '2015-02-19T10:30:37Z'
+    height: 1500
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54e6b671ed2a89ef27000464.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e6b671ed2a89ef27000464.jpg'
+tags:
+  - bird
+comments:
+  - created_at: '2015-02-20T06:08:42Z'
+    text: Juvenile Starling?
+    ref: 54e6cf6aed2a8987b7000490
+    name: David Francis
+    username: david_francis
+  - created_at: '2015-02-20T10:42:48Z'
+    text: 'I''m with David. I can''t see it being other than a Starling. They throw some weird colours, but the spots (or chevrons) on the belly are telling me to think Starling.'
+    ref: 54e70fa8ed2a89d990000582
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 54e70fa8ed2a89d990000582
+    created_at: '2015-02-21T04:31:32Z'
+    text: 'Thanks, Chris. There were a lot of starlings in the area.'
+    ref: 54e80a24ed2a8987b700051e
+    name: Thomas Nataprawira
+    username: tsnata
+  - replying_to: 54e6cf6aed2a8987b7000490
+    created_at: '2015-02-21T04:32:40Z'
+    text: Chris agreed that it was a starling.
+    ref: 54e80a68ed2a89ef270004db
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong

@@ -1,0 +1,25 @@
+id:
+  - name: Acacia rostriformis
+created_at: '2014-03-15T14:45:13Z'
+datetime: '2014-03-14T12:15:57+10:00'
+description: 'Old, large-trunked, sprawling plant about 6m+ wide, 2m tall. Only this one plant at this location.'
+latitude: -37.611847
+longitude: 144.535729
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-07-02T11:19:47Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-03-14T12:15:57Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986be35eb1298401503a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb1298401503a.jpg'
+  - datetime: '2014-03-14T12:16:14Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986be35eb1298401503b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb1298401503b.jpg'
+  - datetime: '2014-03-14T12:16:22Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986be35eb1298401503c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb1298401503c.jpg'
+collections:
+  - acacia_rostriformis_distribution
+  - pyrete_range_plants

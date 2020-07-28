@@ -1,0 +1,50 @@
+id:
+  - Dicranosterna immaculata
+created_at: '2015-03-30T09:53:05Z'
+datetime: '2015-03-29T17:19:48+10:00'
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-03-30T09:54:12Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-03-29T17:19:48Z'
+    height: 1156
+    width: 1705
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55191d00ed2a8990040001e5.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55191d00ed2a8990040001e5.JPG'
+  - datetime: '2015-03-29T17:15:31Z'
+    height: 1441
+    width: 2174
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55191d00ed2a8990040001e6.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55191d00ed2a8990040001e6.JPG'
+  - datetime: '2015-03-29T17:05:08Z'
+    height: 1262
+    width: 1884
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55191d00ed2a8990040001e7.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55191d00ed2a8990040001e7.JPG'
+tags:
+  - beetle
+comments:
+  - created_at: '2015-03-30T09:54:35Z'
+    text: Identified by Martin Lagerwey.
+    ref: 55191d5bed2a8990040001ec
+    name: Suzanne Jones
+    username: suzanne
+  - created_at: '2015-03-30T12:57:09Z'
+    text: 'I''m noticing leaf beetles seem suddenly more scarce.  However I have seen large aggregations of elm leaf beetles hiding under bark of trees near the completely devastated elm hosts.  In some habitats, there are no more leaves left for them to eat.   I think the fire-blight beetle will be doing the same.  Some insects are starting their hibernating now.  Your beetle, on bark, might be thinking the same thing.    '
+    ref: 55194825ed2a899004000241
+    name: Martin Lagerwey
+    username: martinl
+  - replying_to: 55194825ed2a899004000241
+    created_at: '2015-03-30T22:23:46Z'
+    text: 'Yes, it was found under the bark of some dead or dying branches of an Acacia pycnantha that my husband was removing.  A few of the wattles in that corner of the garden would be 20 years old and dying off gradually.  Should my husband not mulch up the branches in case beetles are under the bark?  Guess he could just stack them up somewhere until spring!  '
+    ref: 5519ccf2ed2a899004000273
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains

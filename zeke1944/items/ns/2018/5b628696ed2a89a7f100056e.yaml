@@ -1,0 +1,37 @@
+id:
+  - Hohenbuehelia spp.
+created_at: '2018-08-02T04:31:28Z'
+datetime: '2018-08-02T14:20:00+10:00'
+elevation: 736.5
+latitude: -37.429802
+location_name: 'Lerderderg VIC 3458, Australia'
+longitude: 144.306545
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-08-02T04:32:00Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 3446
+    width: 2808
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b62869bed2a891efe000080.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b62869bed2a891efe000080.jpg'
+comments:
+  - created_at: '2018-08-02T04:21:29Z'
+    text: <em>Hohenbuehelia spp.</em> species id suggested
+    ref: 5b6286c9ed2a89a7f1000571
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-02T04:39:33Z'
+    text: This species is featured in Fuhrer no 106 P79.Found on a stump in Blue Gully..
+    ref: 5b628b05ed2a89eae40001ba
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-02T06:05:15Z'
+    text: It is widespread in the wetter parts of the Wombat Forest
+    ref: 5b629f1bed2a89a7f1000612
+    name: John Walter
+    username: 249pbr
+collections:
+  - wombat_forest_-_fungi

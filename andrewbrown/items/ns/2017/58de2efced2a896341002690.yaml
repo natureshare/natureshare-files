@@ -1,0 +1,37 @@
+id:
+  - name: Austrolestes spp.
+    by: ausdigi
+created_at: '2017-03-31T10:48:42Z'
+datetime: '2017-03-31T16:31:00+10:00'
+description: Damselfly approx. 50mm.
+elevation: 215.1
+latitude: -36.775314
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.356096
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-03-31T10:48:42Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-03-31T16:31:00Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58de2f03ed2a89a81f000095.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58de2f03ed2a89a81f000095.jpeg'
+tags:
+  - damselfly
+comments:
+  - created_at: '2018-01-08T07:49:03Z'
+    text: <em>Austrolestes spp.</em> species id suggested
+    ref: 5a53226fed2a89d22b000ae6
+    name: Reiner Richter
+    username: ausdigi
+  - created_at: '2018-01-08T07:49:27Z'
+    text: female; image is not clear enough to tell species
+    ref: 5a532287ed2a894279000210
+    name: Reiner Richter
+    username: ausdigi
+collections:
+  - wildlife_of_junortoun

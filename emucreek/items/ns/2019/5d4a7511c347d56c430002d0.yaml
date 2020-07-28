@@ -1,0 +1,49 @@
+id:
+  - name: Petroica phoenicea
+    by: lconole
+created_at: '2019-08-07T06:52:01Z'
+datetime: '2019-08-02T14:46:06+10:00'
+elevation: 232.7
+latitude: -37.52986
+location_name: '25-45 Clark Ct, Sunbury VIC 3429, Australia'
+longitude: 144.776168
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2019-08-07T06:53:15Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2019-08-02T14:46:06Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_55375c83ed2a89a9d4004fe1/2019-08-07/024.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_55375c83ed2a89a9d4004fe1/2019-08-07/024.jpeg'
+  - datetime: '2019-08-02T14:47:48Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_55375c83ed2a89a9d4004fe1/2019-08-07/030.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_55375c83ed2a89a9d4004fe1/2019-08-07/030.jpeg'
+comments:
+  - created_at: '2019-08-07T06:53:08Z'
+    text: 2 pixs..
+    ref: 5d4a7554c347d55c5e000316
+    name: Peter Clark
+    username: emucreek
+  - created_at: '2019-08-07T09:26:23Z'
+    text: 'Flame Robin? small white mark above beak, red all the way up under chin'
+    ref: 5d4a993fc347d55c5e00031d
+    name: Wendy Moore
+    username: wendymoore
+  - replying_to: 5d4a993fc347d55c5e00031d
+    created_at: '2019-08-08T04:10:28Z'
+    text: 'Yep, I''m pretty sure this is a Flame Robin'
+    ref: 5d4ba0b4c347d53bf80002af
+    name: Andrew Allen
+    username: andrew_allen
+  - created_at: '2019-08-09T00:54:22Z'
+    text: Correct. Male Flame Robin. Very nice!
+    ref: 5d4cc43ec347d53bf80002b7
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2019-08-09T00:54:39Z'
+    text: <em>Petroica phoenicea</em> species id suggested
+    ref: 5d4cc44fc347d55c5e000335
+    name: Lawrie Conole
+    username: lconole

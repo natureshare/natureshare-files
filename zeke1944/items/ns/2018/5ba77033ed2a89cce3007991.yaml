@@ -1,0 +1,37 @@
+id:
+  - Coprinellus spp.
+created_at: '2018-09-23T10:54:06Z'
+datetime: '2011-06-16T10:41:20+10:00'
+elevation: 230.8
+latitude: -38.551249
+location_name: 'Barwon Downs VIC 3243, Australia'
+longitude: 143.74665
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-09-23T10:55:21Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-06-16T10:41:20Z'
+    height: 1749
+    width: 2487
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ba77035ed2a891efe0000e0.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ba77035ed2a891efe0000e0.jpg'
+  - datetime: '2011-06-16T10:41:53Z'
+    height: 1671
+    width: 2142
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ba770e5ed2a89402b0000c8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ba770e5ed2a89402b0000c8.jpg'
+  - datetime: '2011-06-16T10:42:29Z'
+    height: 1833
+    width: 2148
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ba77107ed2a8928070000e9.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ba77107ed2a8928070000e9.jpg'
+comments:
+  - created_at: '2018-09-23T10:58:42Z'
+    text: Silimilar to Coprinellus disseminatus but smaller with grey gills and does not have yellow coloring. Featured in Fuhrer at no 42.
+    ref: 5ba771e2ed2a89cce300799b
+    name: zeke1944
+    username: zeke1944
+collections:
+  - otway_ranges_-_fungi

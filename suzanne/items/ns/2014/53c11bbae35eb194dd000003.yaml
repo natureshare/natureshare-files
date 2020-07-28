@@ -1,0 +1,39 @@
+id:
+  - name: Microeca fascinans
+created_at: '2014-07-12T11:27:54Z'
+datetime: '2014-07-07T09:25:31+10:00'
+description: 'Little bird that perched on the wire and would periodically fly to catch insects, then land back on the wire again.  I wondered if it is a Jacky Winter?'
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-07-13T12:11:22Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-07-07T09:25:31Z'
+    height: 1765
+    width: 2236
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53c11bb9e35eb194dd000001.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53c11bb9e35eb194dd000001.JPG'
+  - datetime: '2014-07-07T09:24:51Z'
+    height: 1685
+    width: 2227
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53c11bb9e35eb194dd000002.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53c11bb9e35eb194dd000002.JPG'
+tags:
+  - bird
+comments:
+  - created_at: '2014-07-12T11:31:09Z'
+    ref: 53c11c7de35eb194dd000006
+    name: Suzanne Jones
+    username: suzanne
+  - created_at: '2014-07-12T11:54:05Z'
+    text: Photo shows dark blackish tail with white outer feathers which fits Jacky Winter
+    ref: 53c121dde35eb1c30f000001
+    name: David Francis
+    username: david_francis
+collections:
+  - birds_seen_at_145_gibsons_road_cobains

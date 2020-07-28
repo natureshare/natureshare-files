@@ -1,0 +1,44 @@
+id:
+  - Chrysococcyx basalis
+created_at: '2015-11-24T03:41:16Z'
+datetime: '2015-11-23T10:15:50+10:00'
+elevation: 7
+latitude: -37.797021
+location_name: 'Footscray VIC, Australia'
+longitude: 144.912584
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-11-24T03:41:16Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-11-23T10:15:50Z'
+    height: 1536
+    width: 2048
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5653dbc0ed2a899c63000207.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5653dbc0ed2a899c63000207.jpg'
+tags:
+  - juvenile
+comments:
+  - created_at: '2015-11-25T02:16:18Z'
+    text: Great footage!!!! How far away were you to take that video Thomas?
+    ref: 565519f2ed2a89e56e000e87
+    name: Gill Best
+    username: gill
+  - created_at: '2015-11-25T11:02:32Z'
+    text: Excellent video and sound recording of the downwardly inflected call of the Horsefield's Bronze.
+    ref: 56559548ed2a89e56e000edb
+    name: David Francis
+    username: david_francis
+  - replying_to: 565519f2ed2a89e56e000e87
+    created_at: '2015-11-26T11:17:59Z'
+    text: 'Maybe about 5 M away, with our two Jack Russell Terriers in tow.'
+    ref: 5656ea67ed2a89e56e000f8e
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong
+videos:
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/video/20151124/1448336135817-1nbg6o25ivm-aa492e199b5e56ef38188fca6d77ac44/Horsfield%20bronze%20cuckoo.mp4'

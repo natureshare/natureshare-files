@@ -1,0 +1,40 @@
+id:
+  - Tortricidae spp.
+created_at: '2015-09-23T03:59:46Z'
+datetime: '2015-09-22T18:11:26+10:00'
+description: Small moth about 10 MM long.
+elevation: 25.3
+latitude: -37.7861
+location_name: 'Newmarket, Flemington VIC 3031, Australia'
+longitude: 144.924982
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-09-24T02:12:07Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-09-22T18:11:26Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560223d6ed2a890d9500022f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560223d6ed2a890d9500022f.jpg'
+  - datetime: '2015-09-22T18:16:20Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560223c8ed2a890d9500022e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560223c8ed2a890d9500022e.jpg'
+comments:
+  - created_at: '2015-09-23T04:42:32Z'
+    text: Thomas - I think this is in the Tortricidae family.
+    ref: 56022db8ed2a89b06c000f24
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2019-03-11T04:49:34Z'
+    text: 'suggest ID Acroceuthes metaxanthana '
+    ref: 5c85e8de3abbd6f6b1000058
+    name: Wendy Moore
+    username: wendymoore
+collections:
+  - flemington_kensington_3031

@@ -1,0 +1,32 @@
+id:
+  - Pachycephala pectoralis
+created_at: '2017-07-02T03:45:02Z'
+datetime: '2017-07-02T09:18:00+10:00'
+description: 'First observation of a Golden Whistler, usually only see the Rufous Whistlers.'
+elevation: 224.4
+latitude: -36.785883
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.374245
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-07-02T03:45:02Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 2694
+    width: 1796
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59586120ed2a8939840000bb.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59586120ed2a8939840000bb.JPG'
+  - height: 2544
+    width: 1696
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59586128ed2a8939840000bc.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59586128ed2a8939840000bc.JPG'
+tags:
+  - bird
+  - bird-small
+  - head-black-white
+  - yellow-breast
+collections:
+  - wildlife_of_junortoun

@@ -1,0 +1,41 @@
+id:
+  - name: Cryptocheilus bicolor
+    by: argybee
+created_at: '2016-01-15T07:11:57Z'
+datetime: '2016-01-15T17:10:01+10:00'
+elevation: 282.8
+latitude: -37.527452
+location_name: 'Sunbury VIC 3429, Australia'
+longitude: 144.763084
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-01-16T08:31:05Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-01-15T17:10:01Z'
+    height: 2592
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56989b0aed2a897bc7000007.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56989b0aed2a897bc7000007.JPG'
+  - datetime: '2016-01-15T17:09:30Z'
+    height: 2592
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56989b1ced2a897bc7000008.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56989b1ced2a897bc7000008.JPG'
+  - datetime: '2016-01-15T17:10:18Z'
+    height: 2592
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56989b2eed2a897bc7000009.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56989b2eed2a897bc7000009.JPG'
+comments:
+  - created_at: '2016-01-15T22:17:01Z'
+    text: 'It looks similar to a few of these, but not an exact match: https://natureshare.org.au/species?photos=yes&query%5B%5D%5Bq%5D=wasp'
+    ref: 56996fdded2a896358000001
+    name: 'Reilly '
+    username: reilly
+  - created_at: '2016-01-16T08:33:21Z'
+    text: 'Hi Peter; I''m pretty sure it''s one of these http://www.padil.gov.au/pests-and-diseases/pest/main/136372/6067'
+    ref: 569a0051ed2a8922f500000d
+    name: Mark Ridgway
+    username: argybee

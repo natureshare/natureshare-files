@@ -1,0 +1,37 @@
+id:
+  - Cracticus tibicen
+created_at: '2017-06-08T23:55:46Z'
+datetime: '2017-06-02T09:02:10+10:00'
+description: The only bird tame enough for me to get a nice photo of. We have a family of 5 which tap on the kitchen window of a morning.
+elevation: 476
+latitude: -37.417294
+location_name: 'Macedon VIC, Australia'
+longitude: 144.580388
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-06-16T04:01:21Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-06-02T09:02:10Z'
+    height: 2592
+    width: 3888
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/593956f1ed2a89398400004a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/593956f1ed2a89398400004a.JPG'
+tags:
+  - adult
+comments:
+  - created_at: '2017-06-09T07:33:48Z'
+    text: I wonder if the baby birds will "move out" before the breeding season in Spring.
+    ref: 593a4f5ced2a890cca000218
+    name: David Francis
+    username: david_francis
+  - replying_to: 593a4f5ced2a890cca000218
+    created_at: '2017-06-10T06:05:18Z'
+    text: They don't seem to at the moment. I suggest they have been buying too much Smashed Avo on toast so can't afford a deposit for their own nests.
+    ref: 593b8c1eed2a890cca0003da
+    name: Chris Steffanoni
+    username: chris_steff
+collections:
+  - birds_of_the_macedon_ranges

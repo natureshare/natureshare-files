@@ -1,0 +1,32 @@
+id:
+  - Entoloma aromaticum
+created_at: '2018-08-18T05:39:12Z'
+datetime: '2017-09-03T16:00:12+10:00'
+elevation: 402
+latitude: -38.516022
+location_name: 'Lorne VIC 3232, Australia'
+longitude: 143.926659
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-20T01:38:40Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-09-03T16:00:12Z'
+    height: 2496
+    width: 2151
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b77b0b4ed2a8928070000a1.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b77b0b4ed2a8928070000a1.jpg'
+comments:
+  - created_at: '2018-08-18T05:45:54Z'
+    text: A common species found on litter. Has a sweet scent not unlike bubblegum
+    ref: 5b77b292ed2a89a7f1005ac2
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-19T07:23:55Z'
+    text: The translucently striate cap with the prominent nipple-like umbo make this easier to identify than many other Entoloma species.
+    ref: 5b791b0bed2a89a7f10061c2
+    name: John Walter
+    username: 249pbr
+collections:
+  - otway_ranges_-_fungi

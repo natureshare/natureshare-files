@@ -1,0 +1,30 @@
+id:
+  - Leucopogon glacialis
+created_at: '2016-06-07T09:44:30Z'
+datetime: '2016-05-12T13:43:00+10:00'
+description: A single plant observed beside Quarry Track.
+latitude: -37.792443
+longitude: 144.288389
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-06-08T00:26:51Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-05-12T13:43:00Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57569574ed2a890be700021f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57569574ed2a890be700021f.jpg'
+  - datetime: '2016-05-12T13:42:15Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57569641ed2a890be7000222.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57569641ed2a890be7000222.jpg'
+tags:
+  - bud
+  - leaf
+collections:
+  - brisbane_ranges_national_park_plants
+  - brisbane_ranges_significant_flora_species

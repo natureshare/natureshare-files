@@ -1,0 +1,41 @@
+id:
+  - name: Laccaria spp.
+    by: funkeytom
+created_at: '2017-05-16T12:40:56Z'
+datetime: '2017-05-13T14:56:53+10:00'
+elevation: 122.2
+latitude: -37.954817
+location_name: 'Little River VIC 3211, Australia'
+longitude: 144.413733
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-05-18T10:13:17Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-05-13T14:56:53Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/591af23aed2a89e548000147.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/591af23aed2a89e548000147.jpg'
+  - datetime: '2017-05-13T14:57:15Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/591af240ed2a891d6d00014b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/591af240ed2a891d6d00014b.jpg'
+comments:
+  - created_at: '2017-05-18T10:15:12Z'
+    text: Pileus is quite dried out and has changed colour from the fresh reddish brown to very pale orange brown (technical term for this property is hygrophanous). Lamellae are relatively thick and widely-spaced.
+    ref: 591d7430ed2a893e6b0013d3
+    name: Tom May
+    username: funkeytom
+  - replying_to: 591d7430ed2a893e6b0013d3
+    created_at: '2017-05-18T10:23:42Z'
+    text: Thanks Tom for the id.
+    ref: 591d762eed2a893e6b0013e5
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - flora_of_the_you_yangs

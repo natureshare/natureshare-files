@@ -1,0 +1,21 @@
+id:
+  - name: Acacia rostriformis
+created_at: '2014-03-30T18:10:31Z'
+datetime: '2014-03-30T13:49:11+10:00'
+description: Just one plant at this location - close to the location of a larger population at observation 12173.
+latitude: -37.686375
+longitude: 144.365143
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-07-02T10:21:29Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-03-30T13:49:11Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986ce35eb1298401515f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb1298401515f.jpg'
+  - datetime: '2014-03-30T13:49:50Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986ce35eb12984015161.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb12984015161.jpg'
+collections:
+  - acacia_rostriformis_distribution

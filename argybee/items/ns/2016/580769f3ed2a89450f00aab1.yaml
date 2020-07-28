@@ -1,0 +1,47 @@
+id:
+  - Parablax spp.
+created_at: '2016-10-20T05:50:19Z'
+datetime: '2016-09-24T14:45:37+10:00'
+description: "About 25mm long.. \r\nParablax sp. but not sure which one."
+elevation: 385.9
+latitude: -37.888861
+location_name: 'Sherbrooke VIC 3789, Australia'
+longitude: 145.369568
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-20T07:41:51Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-09-24T14:45:37Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58076a06ed2a89b71800012c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58076a06ed2a89b71800012c.JPG'
+tags:
+  - click-beetle
+comments:
+  - created_at: '2016-10-20T06:24:34Z'
+    text: 'Looks like Parablax ooliekirra (Tasmanian record) http://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:e469368e-e526-4ac6-bd20-1c19f432e5fe'
+    ref: 58086322ed2a89450f00abf2
+    name: David Francis
+    username: david_francis
+  - replying_to: 58086322ed2a89450f00abf2
+    created_at: '2016-10-20T06:39:09Z'
+    text: Great! Thanks so much David. There's not much around on these and ALA is in chaos today.
+    ref: 5808668ded2a89450f00abf7
+    name: Mark Ridgway
+    username: argybee
+  - created_at: '2016-10-20T06:43:24Z'
+    text: 'Mark, it might be worth uploading this one to Bowerbird if you haven''t already done so. The experts there may confirm that it is a first record for the Australian mainland.'
+    ref: 5808678ced2a89450f00abf9
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-10-20T07:19:45Z'
+    text: Ha ha yes I'm getting there... (I notice TonyD has it as cf. on Insects of Tasmania)
+    ref: 58087011ed2a897ce2000004
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_coleoptera

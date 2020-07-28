@@ -1,0 +1,33 @@
+id:
+  - name: Chrysococcyx basalis
+    by: chrisl
+created_at: '2015-10-16T04:41:57Z'
+datetime: '2015-10-16T10:32:09+10:00'
+description: Cuckoo?
+elevation: 3.5
+latitude: -37.796711
+location_name: 'Footscray VIC, Australia'
+longitude: 144.913085
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-10-18T10:54:56Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-10-16T10:32:09Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5620803aed2a890d950004df.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5620803aed2a890d950004df.jpg'
+  - datetime: '2015-10-16T10:33:46Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5620802ced2a890d950004de.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5620802ced2a890d950004de.jpg'
+tags:
+  - juvenile
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong

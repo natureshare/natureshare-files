@@ -1,0 +1,41 @@
+id:
+  - name: Neosparassus spp.
+    by: david_francis
+created_at: '2018-10-11T12:27:39Z'
+datetime: '2018-10-11T11:04:57+10:00'
+latitude: -37.490094
+longitude: 144.576294
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-10-12T00:55:22Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-10-11T11:04:57Z'
+    height: 1536
+    width: 2048
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bbf41bfed2a89402b0000f9.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbf41bfed2a89402b0000f9.jpeg'
+tags:
+  - juvenile
+comments:
+  - created_at: '2018-10-11T12:29:07Z'
+    text: Can someone please confirm if this is a Juvenile Football Spider
+    ref: 5bbf4213ed2a89c10e0033c9
+    name: Helen Ryvitch
+    username: helenr
+  - created_at: '2018-10-11T23:27:56Z'
+    text: <em>Neosparassus spp.</em> species id suggested
+    ref: 5bbfdc7ced2a89c10e003566
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-10-11T23:40:59Z'
+    text: Juveniles are bright green. One of the Badge Huntsman spiders. Impossible to determine id to species level from photo. The common name "Football spider" not recognised.
+    ref: 5bbfdf8bed2a894bc0000147
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-10-12T01:04:57Z'
+    text: "I see that Bowerbird (Museum of Vic) recognises the name \"football spider\" for one of the species of Badge Huntsman. \"Neosparassus patellatus\r\n(species)\r\nTaxonomy: Animalia: Arthropoda: Arachnida: Araneae: Sparassidae: Neosparassus: patellatus\r\nCommon Names: Spiders, Huntsman spiders, football spider"
+    ref: 5bbff339ed2a89c10e0035f7
+    name: David Francis
+    username: david_francis

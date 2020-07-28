@@ -1,0 +1,27 @@
+id:
+  - name: Melicytus dentatus s.s.
+    by: chrisl
+created_at: '2014-10-25T01:59:51Z'
+datetime: '2013-12-18T12:08:00+10:00'
+latitude: -37.290561
+location_name: 'Clunes VIC 3370, Australia'
+longitude: 143.752972
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2017-08-14T00:22:51Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-12-18T12:08:00Z'
+    height: 3264
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/544b0417e35eb1c76700009a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544b0417e35eb1c76700009a.jpg'
+comments:
+  - created_at: '2014-10-25T03:57:38Z'
+    text: Can you upload a better photo? It is out of focus and the leaf details are not clear
+    ref: 544b1fb2e35eb1faaa000134
+    name: David Francis
+    username: david_francis
+collections:
+  - clunes_finchesgully_flora_and_fauna

@@ -1,0 +1,23 @@
+id:
+  - name: Manorina flavigula
+created_at: '2012-08-28T22:34:37Z'
+datetime: '2012-03-31T17:49:02+10:00'
+latitude: -34.259991
+longitude: 141.525665
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2012-08-28T22:39:24Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-03-31T17:49:02Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39864e35eb12984012f7a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb12984012f7a.jpg'
+  - datetime: '2012-03-31T17:56:27Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39864e35eb12984012f7b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb12984012f7b.jpg'
+  - datetime: '2012-03-31T17:49:18Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39864e35eb12984012f7c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb12984012f7c.jpg'
+collections:
+  - neds_corner_birds

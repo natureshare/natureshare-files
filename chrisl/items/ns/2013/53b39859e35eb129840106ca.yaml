@@ -1,0 +1,37 @@
+id:
+  - Anilios bicolor
+created_at: '2013-11-04T00:37:40Z'
+datetime: '2013-02-01T19:55:00+10:00'
+latitude: -35.920364
+longitude: 141.860703
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-11-16T04:27:26Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-02-01T19:55:00Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39869e35eb12984014742.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb12984014742.jpg'
+  - datetime: '2013-02-01T19:55:26Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39869e35eb12984014743.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb12984014743.jpg'
+  - datetime: '2013-02-01T19:38:13Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39869e35eb12984014744.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb12984014744.jpg'
+comments:
+  - created_at: '2016-11-15T10:10:34Z'
+    text: 'Chris, Anilios australis WA only. Could this be A. bicolor?'
+    ref: 582adf1aed2a897480003dbd
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-11-15T12:24:12Z'
+    text: Remove A. australis from NS?
+    ref: 582afe6ced2a897480003e24
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-11-16T04:19:07Z'
+    text: Good pickup. The species have now been split. Not all that long ago it was Ramphotyphlops.
+    ref: 582bde3bed2a89de5700008b
+    name: Chris Lindorff
+    username: chrisl

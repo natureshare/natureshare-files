@@ -1,0 +1,30 @@
+id:
+  - Rhipidura albiscapa
+created_at: '2016-09-25T02:55:32Z'
+datetime: '2016-09-22T14:26:00+10:00'
+elevation: 223.2
+latitude: -36.784646
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.375382
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-09-25T02:56:01Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-22T14:41:37Z'
+    height: 1791
+    width: 1815
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e73beeed2a89d73e00008c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e73beeed2a89d73e00008c.JPG'
+  - datetime: '2016-09-22T14:26:00Z'
+    height: 1350
+    width: 1467
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e73be3ed2a89b718000092.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e73be3ed2a89b718000092.JPG'
+tags:
+  - adult
+collections:
+  - wildlife_of_junortoun

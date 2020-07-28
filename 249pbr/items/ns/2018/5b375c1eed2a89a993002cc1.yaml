@@ -1,0 +1,29 @@
+id:
+  - Panellus stipticus
+created_at: '2018-06-30T10:36:22Z'
+datetime: '2017-06-18T16:05:09+10:00'
+description: Two images. This is a white spored species.
+elevation: 627.2
+latitude: -37.479947
+location_name: 'Blackwood VIC 3458, Australia'
+longitude: 144.288496
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-06-30T10:36:35Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-06-18T16:05:09Z'
+    height: 2999
+    width: 3732
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b375c15ed2a89402b000022.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b375c15ed2a89402b000022.jpg'
+  - datetime: '2017-06-18T16:04:45Z'
+    height: 2285
+    width: 2808
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b375c23ed2a89402b000024.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b375c23ed2a89402b000024.jpg'
+collections:
+  - wombat_forest_-_fungi

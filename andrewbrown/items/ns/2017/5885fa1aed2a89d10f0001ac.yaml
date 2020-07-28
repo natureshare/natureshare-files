@@ -1,0 +1,54 @@
+id:
+  - Cassinia scabrida
+created_at: '2017-01-27T12:39:07Z'
+datetime: '2017-01-21T09:37:39+10:00'
+description: Everlasting?
+elevation: 215.2
+latitude: -36.775907
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.356976
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-04-03T04:54:23Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-21T09:37:39Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5885f9f5ed2a89b718000314.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5885f9f5ed2a89b718000314.jpeg'
+  - datetime: '2017-01-21T09:37:57Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5885f9b6ed2a892daf000343.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5885f9b6ed2a892daf000343.jpeg'
+  - datetime: '2017-01-21T09:37:32Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5885fa35ed2a89d73e0002f3.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5885fa35ed2a89d73e0002f3.jpeg'
+tags:
+  - everlasting
+  - flowers-green
+comments:
+  - created_at: '2017-01-28T06:50:44Z'
+    text: 'I''m thinking Cassinia complanata but I''d like to see a close-up of a leaf and stem. See https://vicflora.rbg.vic.gov.au/flora/taxon/24a22b5d-75e6-4a93-ab77-f10eddc9f626'
+    ref: 588c3f44ed2a89d10f0013a8
+    name: David Francis
+    username: david_francis
+  - replying_to: 588c3f44ed2a89d10f0013a8
+    created_at: '2017-01-28T11:43:28Z'
+    text: Did you see the 2nd photo David as it shows a closer view?
+    ref: 588c83e0ed2a89d10f0014c8
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 588c3f44ed2a89d10f0013a8
+    created_at: '2017-01-28T12:03:51Z'
+    text: Looks quite likely the one. I'll have to wait until the flowers open as at this stage they look grenish/yellow rather than white.
+    ref: 588c88a7ed2a89d10f0014de
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - junortoun_flora

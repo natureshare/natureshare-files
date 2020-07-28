@@ -1,0 +1,41 @@
+id:
+  - Fungi spp.
+created_at: '2017-05-31T10:29:26Z'
+datetime: '2017-05-21T09:29:20+10:00'
+description: species TBC
+elevation: 266.1
+latitude: -37.779445
+location_name: 'Warburton VIC 3799, Australia'
+longitude: 145.758051
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2017-06-01T14:51:32Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-05-21T09:29:20Z'
+    height: 3024
+    width: 4032
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/592e9a7bed2a893984000002.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592e9a7bed2a893984000002.JPG'
+  - datetime: '2017-05-21T09:29:07Z'
+    height: 3024
+    width: 4032
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/592e9a8ced2a893984000003.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592e9a8ced2a893984000003.JPG'
+comments:
+  - created_at: '2017-06-01T00:36:27Z'
+    text: Not unlike a Cortinarius sp. - a large and difficult group.
+    ref: 592f618bed2a89eb040002f2
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-11-07T01:36:34Z'
+    text: <em>Fungi spp.</em> species id suggested
+    ref: 5a010e22ed2a895e8900004a
+    name: 'Reilly '
+    username: reilly
+  - created_at: '2019-06-11T07:37:01Z'
+    text: 'Not Cortinarius on wood. Probable Gymnopilus ferruginosus. '
+    ref: 5cff5a1d76a894c6ac00001a
+    name: zeke1944
+    username: zeke1944

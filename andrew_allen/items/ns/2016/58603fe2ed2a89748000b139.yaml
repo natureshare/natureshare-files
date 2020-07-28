@@ -1,0 +1,30 @@
+id:
+  - name: Trichoptera spp.
+    by: david_francis
+created_at: '2016-12-25T21:57:47Z'
+datetime: '2016-12-25T22:00:00+10:00'
+description: Strange looking moth
+latitude: -37.733361
+longitude: 144.824379
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-12-27T00:17:46Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 4633
+    width: 3088
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58603feded2a89b71800029b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58603feded2a89b71800029b.jpg'
+comments:
+  - created_at: '2016-12-25T22:29:35Z'
+    text: 'Andrew - this is not a moth but a Caddisfly.  I have been tricked by these guys as well. '
+    ref: 5860484fed2a898f2f000001
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5860484fed2a898f2f000001
+    created_at: '2016-12-25T22:31:40Z'
+    text: Thanks Cathy. I was completely stumped with this one!
+    ref: 586048cced2a8977fd000001
+    name: Andrew Allen
+    username: andrew_allen

@@ -1,0 +1,38 @@
+id:
+  - Sapromyza alboatra
+created_at: '2015-12-02T05:07:59Z'
+datetime: '2015-11-29T12:16:24+10:00'
+description: Fly sitting on a leaf of Hakea francisiana planted in the garden.
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-12-02T05:07:59Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-11-29T12:16:24Z'
+    height: 938
+    width: 1410
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/565e7c44ed2a899c6300026b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/565e7c44ed2a899c6300026b.JPG'
+  - datetime: '2015-11-29T12:16:29Z'
+    height: 1069
+    width: 1582
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/565e7c50ed2a899c6300026c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/565e7c50ed2a899c6300026c.JPG'
+  - datetime: '2015-11-29T12:17:20Z'
+    height: 915
+    width: 1367
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/565e7c5ded2a899c6300026d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/565e7c5ded2a899c6300026d.JPG'
+comments:
+  - created_at: '2015-12-02T10:18:09Z'
+    text: Identified by Ken Walker.
+    ref: 565ec561ed2a892b48000008
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains

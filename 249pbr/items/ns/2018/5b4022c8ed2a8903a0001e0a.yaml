@@ -1,0 +1,40 @@
+id:
+  - Callistosporium spp.
+created_at: '2018-07-07T03:03:13Z'
+datetime: '2017-07-01T13:01:22+10:00'
+description: '3 images, this looks very similar to the last species (Tubaria rufofulva), but lacks the annulus and has white spores, The gill edge is also coloured. This is an as yet unnamed species of Callistosporium, recorded as Callistosporium ''maroon with yellow rhizomorphs'' in Gates & Ratkowsky - A Field Guide to Tasmanian Fungi. Could Callistosporium spp be added to the database please.'
+elevation: 602.9
+latitude: -37.478959
+location_name: 'Blackwood VIC 3458, Australia'
+longitude: 144.292937
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2020-06-12T14:17:46Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-07-01T13:01:22Z'
+    height: 2700
+    width: 3852
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b4022e9ed2a89402b000031.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b4022e9ed2a89402b000031.jpg'
+  - datetime: '2017-07-01T13:00:11Z'
+    height: 2304
+    width: 3138
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b4022cced2a89c6aa000032.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b4022cced2a89c6aa000032.jpg'
+  - datetime: '2017-07-01T13:02:26Z'
+    height: 1554
+    width: 1944
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b402301ed2a891efe000038.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b402301ed2a891efe000038.jpg'
+comments:
+  - created_at: '2018-07-07T21:52:09Z'
+    text: Added to database
+    ref: 5b413609ed2a8903a0002209
+    name: Cathy Powers
+    username: koolah
+collections:
+  - wombat_forest_-_fungi

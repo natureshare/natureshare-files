@@ -1,0 +1,32 @@
+id:
+  - Caladenia cucullata
+created_at: '2016-10-08T10:07:10Z'
+datetime: '2016-10-08T10:45:33+10:00'
+description: Amazingly beautiful.
+elevation: 211.7
+latitude: -36.785608
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.387742
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-08T12:28:40Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-08T10:45:33Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57f8c115ed2a892daf000113.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f8c115ed2a892daf000113.JPG'
+  - datetime: '2016-10-08T10:42:40Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57f8c10eed2a89b3fe0000f2.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f8c10eed2a89b3fe0000f2.JPG'
+tags:
+  - flower-orchid
+  - flower-white
+collections:
+  - junortoun_flora

@@ -1,0 +1,30 @@
+id:
+  - name: Circus approximans
+    by: lconole
+created_at: '2016-09-07T07:08:11Z'
+datetime: '2016-09-04T10:37:28+10:00'
+elevation: 39.3
+latitude: -38.629814
+location_name: 'Wonthaggi VIC 3995, Australia'
+longitude: 145.564367
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-09-07T07:08:11Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-04T10:37:28Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57cfbb33ed2a89d73e000029.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57cfbb33ed2a89d73e000029.jpg'
+comments:
+  - created_at: '2016-09-09T00:17:07Z'
+    text: <em>Circus approximans</em> species id suggested
+    ref: 57d1ff83ed2a89450f00123f
+    name: Lawrie Conole
+    username: lconole
+collections:
+  - wonthaggi_heathlands_nature_conservation_reserve

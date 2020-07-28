@@ -1,0 +1,37 @@
+id:
+  - Egretta garzetta
+created_at: '2017-03-30T04:50:58Z'
+datetime: '2017-03-30T10:02:55+10:00'
+description: 'Little Egret? Black legs, black bill. Smaller than the great egret spotted in the same area.'
+elevation: 6.2
+latitude: -37.797255
+location_name: 'Footscray VIC 3011, Australia'
+longitude: 144.914475
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-03-30T21:18:55Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-03-30T10:02:55Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58dc8c11ed2a89e5480000a4.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58dc8c11ed2a89e5480000a4.jpg'
+comments:
+  - created_at: '2017-03-30T12:17:44Z'
+    text: 'Yes, agree - Little Egret. Will you please edit the id, Thomas'
+    ref: 58dcf768ed2a89634100242f
+    name: David Francis
+    username: david_francis
+  - replying_to: 58dcf768ed2a89634100242f
+    created_at: '2017-03-30T21:19:21Z'
+    text: 'Thanks, David. '
+    ref: 58dd7659ed2a8963410024be
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong

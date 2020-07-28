@@ -1,0 +1,32 @@
+id:
+  - name: Brachyscome lineariloba
+    by: russell
+created_at: '2010-07-22T20:13:39Z'
+datetime: '2005-09-22T14:39:08+10:00'
+latitude: -34.201581
+longitude: 141.514378
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-07-30T14:10:39Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2005-09-22T14:39:08Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ce35eb12984011392.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ce35eb12984011392.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2015-07-30T14:05:02Z'
+    text: 'Hi Chris, this is B. lineariloba, not one of the B. ciliaris varieties.'
+    ref: 55ba2f0eed2a89db810006c5
+    name: Russell Best
+    username: russell
+  - replying_to: 55ba2f0eed2a89db810006c5
+    created_at: '2015-07-31T04:25:46Z'
+    text: Thanks Russell.
+    ref: 55baf8caed2a89db81000718
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - neds_corner_plants

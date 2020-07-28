@@ -1,0 +1,28 @@
+id:
+  - Stereum illudens
+created_at: '2018-09-01T03:40:07Z'
+datetime: '2018-09-01T11:44:17+10:00'
+description: "Two photos. \r\nGrowing of fallen eucalypt in damp forest."
+elevation: 71.2
+latitude: -38.092628
+location_name: 'Heywood VIC 3304, Australia'
+longitude: 141.735905
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-09-01T03:40:27Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-09-01T11:44:17Z'
+    height: 1200
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b8a095ded2a89402b0000b0.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b8a095ded2a89402b0000b0.jpg'
+  - datetime: '2018-09-01T11:35:40Z'
+    height: 1200
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b8a0987ed2a89c6aa0000ae.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b8a0987ed2a89c6aa0000ae.jpg'
+collections:
+  - homerton_and_milltown_fungi

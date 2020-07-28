@@ -1,0 +1,51 @@
+id:
+  - Badimiella pteridophila
+created_at: '2018-08-16T07:45:37Z'
+datetime: '2015-07-29T15:06:43+10:00'
+elevation: 116.9
+latitude: -38.538381
+location_name: 'Lorne VIC 3232, Australia'
+longitude: 143.950241
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-16T07:46:07Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-07-29T15:06:43Z'
+    height: 777
+    width: 838
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b752afded2a89c6aa000087.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b752afded2a89c6aa000087.jpg'
+comments:
+  - created_at: '2018-08-16T07:57:22Z'
+    text: This is growing on Forest wire grass ( Tetrarrhena juncea) in a wet gully. rare.
+    ref: 5b752e62ed2a89a7f1005043
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-16T09:06:18Z'
+    text: What on earth is a licenized fungus? I thought all lichen had a fungus component. (I have so much to learn. Sigh.)
+    ref: 5b753e8aed2a89a7f10050a9
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - replying_to: 5b753e8aed2a89a7f10050a9
+    created_at: '2018-08-16T12:02:31Z'
+    text: Best Google  the relationship it will explain it better than me. Basically ia Lichen is a symbiotic relationship between an  Algae and a fungus. Most of the Fungi are ascomycota but several belong to Basidiomycota.  Several of these are Corals. I'm not sure about Lichenomphalina.
+    ref: 5b7567d7ed2a89a7f10051bf
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-18T10:19:28Z'
+    text: These little "helmets" or "shells" are significantly less than one millimetre high and wide and are a special structure produced by this lichen to release "conidia" or asexual spores. The structure is known as a "campylidium" and the shape is quite distinctive on this species. The thallus of this lichen lacks a cortex or skin so is not readily seen. It is a follicolose species meaning that it occurs on the foliage of plants. It also produces small discs similar to other lichens (less than 0.5 mm diameter) which release spores resulting from sexual reproduction.
+    ref: 5b77f2b0ed2a89de6c0000ca
+    name: John Walter
+    username: 249pbr
+  - replying_to: 5b753e8aed2a89a7f10050a9
+    created_at: '2018-08-18T10:57:40Z'
+    text: >-
+      This gets more than a little confusing, especially as lichens are a composite organism, sometimes encompassing species from three different Kingdoms. All lichens have a fungal partner (mycobiont) but not all fungi produce lichens. Lichens are traditionally classified under the genus and species of the mycobiont and a lichenized fungus is really just another name for a lichen. This naming convention causes issues in the uncommon instances of a "chimera" lichen, more correctly known as a photosymbiodeme. Given the right fungal species and circumstances you could find that the mycobiont's mycelium forms one lichen when in contact with a particular algal species, and, if another part of the same mycelium comes into contact with the right cyanobacterium species, it also forms a completely different looking lichen that would rightly be classified as a different species. This is a conundrum for the taxonomy experts as technically both of the lichens in this example should have the same
+      name as they share the one fungal species.
+    ref: 5b77fba4ed2a89a7f1005d2f
+    name: John Walter
+    username: 249pbr
+collections:
+  - otway_ranges_-_fungi

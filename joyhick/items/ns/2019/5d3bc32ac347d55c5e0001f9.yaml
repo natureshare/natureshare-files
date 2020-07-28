@@ -1,0 +1,35 @@
+id:
+  - name: Pholiota multicingulata
+    by: zeke1944
+created_at: '2019-07-27T03:21:14Z'
+datetime: '2019-07-27T10:31:00+10:00'
+latitude: -36.392361
+longitude: 143.655472
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2019-07-27T03:22:16Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_581bb264ed2a897480002085/2019-07-27/d00af14c_b187_448a_8ddd_497991a29cf9.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_581bb264ed2a897480002085/2019-07-27/d00af14c_b187_448a_8ddd_497991a29cf9.jpeg'
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_581bb264ed2a897480002085/2019-07-27/6735ab79_0925_4822_94b7_5ffe3171ddfd.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_581bb264ed2a897480002085/2019-07-27/6735ab79_0925_4822_94b7_5ffe3171ddfd.jpeg'
+  - datetime: '2019-07-27T10:31:19Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_581bb264ed2a897480002085/2019-07-27/94f4b921_b5b6_44c6_a698_ac3f4b962f86.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_581bb264ed2a897480002085/2019-07-27/94f4b921_b5b6_44c6_a698_ac3f4b962f86.jpeg'
+comments:
+  - created_at: '2019-07-29T00:21:08Z'
+    text: <em>Pholiota multicingulata</em> species id suggested
+    ref: 5d3e3bf4c347d56c430001bd
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2019-07-29T00:22:21Z'
+    text: On Wood or litter in wet and dryer forests.
+    ref: 5d3e3c3dc347d55c5e000200
+    name: zeke1944
+    username: zeke1944
+collections:
+  - wedderburn_josephine_drive

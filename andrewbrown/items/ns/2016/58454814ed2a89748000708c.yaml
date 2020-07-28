@@ -1,0 +1,44 @@
+id:
+  - Lepidosperma laterale
+created_at: '2016-12-05T11:45:43Z'
+datetime: '2016-11-26T09:33:23+10:00'
+description: Clump forming approx. 40cm high. Strap leaves approx. 1cm width.
+elevation: 228.1
+latitude: -36.78468
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.371348
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-12-08T11:55:09Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-11-26T09:33:23Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58454856ed2a89b71800021c.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58454856ed2a89b71800021c.jpeg'
+  - datetime: '2016-11-26T09:32:28Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5845481eed2a892daf000247.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5845481eed2a892daf000247.jpeg'
+  - datetime: '2016-11-26T09:32:35Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584548aaed2a89b3fe000224.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584548aaed2a89b3fe000224.jpeg'
+tags:
+  - clumping
+  - flower-spike
+  - leaves-strap
+comments:
+  - created_at: '2016-12-06T00:28:43Z'
+    text: Suggest Sword-sedge species. Possibly Lepidosperma (?laterale).
+    ref: 5846063bed2a897480007227
+    name: David Francis
+    username: david_francis
+collections:
+  - junortoun_flora

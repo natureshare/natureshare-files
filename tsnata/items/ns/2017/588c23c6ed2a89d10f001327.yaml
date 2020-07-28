@@ -1,0 +1,40 @@
+id:
+  - name: Dispar compacta
+    by: david_francis
+created_at: '2017-01-28T04:57:21Z'
+datetime: '2017-01-18T12:05:30+10:00'
+description: Dispar compacta?
+elevation: 32.1
+latitude: -38.684071
+location_name: 'Grey River VIC 3234, Australia'
+longitude: 143.838376
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-01-28T04:57:21Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-18T12:05:30Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588c23dfed2a89b3fe000358.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588c23dfed2a89b3fe000358.jpg'
+comments:
+  - created_at: '2017-01-28T05:04:03Z'
+    text: I reckon thats a match!
+    ref: 588c2643ed2a89d10f00133f
+    name: Chris Clarke
+    username: cclarke
+  - created_at: '2017-01-30T10:25:47Z'
+    text: <em>Dispar compacta</em> species id suggested
+    ref: 588f14abed2a89d10f001b5d
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-30T10:26:03Z'
+    text: Id by Thomas N.
+    ref: 588f14bbed2a89d10f001b5e
+    name: David Francis
+    username: david_francis
+collections:
+  - grey_river

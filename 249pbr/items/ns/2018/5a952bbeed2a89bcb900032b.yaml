@@ -1,0 +1,32 @@
+id:
+  - Cymatoderma elegans
+created_at: '2018-02-27T11:22:13Z'
+datetime: '2014-05-04T13:21:06+10:00'
+description: Three images
+latitude: -38.724522
+longitude: 143.58223
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-02-27T11:22:21Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2014-05-04T13:21:06Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a952bc2ed2a897fc800000e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a952bc2ed2a897fc800000e.jpg'
+  - datetime: '2014-05-04T13:21:51Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a952bd8ed2a8929e700000c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a952bd8ed2a8929e700000c.jpg'
+  - datetime: '2014-05-04T13:23:50Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a952bdded2a89cf90000013.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a952bdded2a89cf90000013.jpg'
+collections:
+  - otway_ranges_-_fungi

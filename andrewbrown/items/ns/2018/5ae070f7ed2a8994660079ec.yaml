@@ -1,0 +1,39 @@
+id:
+  - Nisista sp. (1)
+created_at: '2018-04-25T12:15:36Z'
+datetime: '2018-04-22T19:46:47+10:00'
+elevation: 199.4
+latitude: -36.778256
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381049
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-05-02T13:03:59Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-04-22T20:57:20Z'
+    height: 2942
+    width: 3155
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ae9b685ed2a89cf900000a7.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ae9b685ed2a89cf900000a7.JPG'
+  - datetime: '2018-04-22T19:46:47Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ae070fced2a89cf9000009a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ae070fced2a89cf9000009a.JPG'
+tags:
+  - moth
+  - moth-dark
+  - moth-grey-brown
+  - wings
+comments:
+  - created_at: '2018-04-25T12:18:43Z'
+    text: <em>Nisista sp. (1)</em> species id suggested
+    ref: 5ae07223ed2a8994660079f7
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - moths_of_junortoun
+  - moths_of_central_victoria

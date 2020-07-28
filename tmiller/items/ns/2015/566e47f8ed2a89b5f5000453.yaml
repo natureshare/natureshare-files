@@ -1,0 +1,33 @@
+id:
+  - Tachyglossus aculeatus
+created_at: '2015-12-14T04:41:31Z'
+datetime: '2015-12-11T14:13:56+10:00'
+elevation: 156.4
+latitude: -37.728078
+location_name: 'Rowsley VIC 3340, Australia'
+longitude: 144.393106
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-01-17T12:07:25Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-12-11T14:13:56Z'
+    height: 1476
+    width: 2576
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/566e480ded2a899c630002ae.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/566e480ded2a899c630002ae.jpg'
+comments:
+  - created_at: '2015-12-14T04:47:41Z'
+    text: What a wonderful image of such a shy creature.
+    ref: 566e49eded2a89b5f5000456
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2015-12-14T23:54:39Z'
+    text: Beautiful photo.  I hadn't realized that they were white under the throat.
+    ref: 566f56bfed2a89d6d600003b
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - bacchus_marsh_gun_club

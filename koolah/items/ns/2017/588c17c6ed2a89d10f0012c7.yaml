@@ -1,0 +1,30 @@
+id:
+  - Monopis icterogastra
+created_at: '2017-01-28T04:04:26Z'
+datetime: '2017-01-26T23:04:31+10:00'
+elevation: 262.5
+latitude: -37.806568
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.296975
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-01-28T04:04:26Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-26T23:04:31Z'
+    height: 1178
+    width: 1851
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588c17cfed2a89b3fe000355.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588c17cfed2a89b3fe000355.JPG'
+  - datetime: '2017-01-26T23:05:04Z'
+    height: 1556
+    width: 2819
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588c17dded2a89b71800035b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588c17dded2a89b71800035b.JPG'
+tags:
+  - moth
+  - moth-small
+collections:
+  - brisbane_ranges_moths

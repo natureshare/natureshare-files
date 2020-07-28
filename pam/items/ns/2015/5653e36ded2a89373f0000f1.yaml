@@ -1,0 +1,56 @@
+id:
+  - name: Omyta centrolineata centrolineata
+    by: david_francis
+created_at: '2015-11-24T04:14:19Z'
+datetime: '2015-11-24T12:38:38+10:00'
+description: On my fly screen.
+elevation: 378
+latitude: -37.458476
+location_name: 'Riddells Creek VIC, Australia'
+longitude: 144.683219
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-11-25T09:21:22Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-11-24T12:38:38Z'
+    height: 2322
+    width: 4128
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5653e37ded2a899c63000208.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5653e37ded2a899c63000208.jpg'
+comments:
+  - created_at: '2015-11-24T07:38:25Z'
+    text: "good job nanna for doing your very first observation!\r\n\r\nlove ellie.G"
+    ref: 565413f1ed2a89e56e000e45
+    name: Ellena Best
+    username: ellena
+  - created_at: '2015-11-24T09:03:43Z'
+    text: 'Hi Pam. Nice observation. It may look similar to a beetle, but is in fact a bug - a true bug. I am not certain of the species, but maybe someone else can help in time. Regards. Chris.'
+    ref: 565427efed2a89e56e000e4a
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 565427efed2a89e56e000e4a
+    created_at: '2015-11-24T09:46:33Z'
+    text: Thanks for that Chris .pam
+    ref: 565431f9ed2a89e56e000e4f
+    name: Pam Brooks
+    username: pam
+  - replying_to: 565413f1ed2a89e56e000e45
+    created_at: '2015-11-24T09:48:09Z'
+    text: Thank you Elli xx
+    ref: 56543259ed2a89e56e000e55
+    name: Pam Brooks
+    username: pam
+  - created_at: '2015-11-25T09:23:22Z'
+    text: Hi Pam. A very interesting shield bug or stink bug. Note the pale line down the middle which I think is the identifying feature. Well done!
+    ref: 56557e0aed2a89e56e000e9e
+    name: David Francis
+    username: david_francis
+  - created_at: '2015-11-25T09:28:02Z'
+    text: First record of this species for Riddells Creek and NatureShare!
+    ref: 56557f22ed2a89e56e000ea4
+    name: David Francis
+    username: david_francis

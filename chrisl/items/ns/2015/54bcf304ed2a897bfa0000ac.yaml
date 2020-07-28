@@ -1,0 +1,61 @@
+id:
+  - Goodenia geniculata
+created_at: '2015-01-19T12:05:24Z'
+datetime: '2014-11-29T13:31:02+10:00'
+latitude: -36.851736
+longitude: 142.469575
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-01-19T12:06:27Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-11-29T13:31:02Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54bcf302ed2a897bfa0000a9.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54bcf302ed2a897bfa0000a9.jpg'
+  - datetime: '2014-11-29T13:31:16Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54bcf302ed2a897bfa0000aa.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54bcf302ed2a897bfa0000aa.jpg'
+  - datetime: '2014-11-29T13:30:47Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54bcf302ed2a897bfa0000ab.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54bcf302ed2a897bfa0000ab.jpg'
+tags:
+  - flower
+  - habit
+comments:
+  - created_at: '2015-01-19T14:50:29Z'
+    text: 'Technically this keys out to willisiana but you''re probably right, although sandy soil makes willisiana worth looking into despite being outside its known range. Do you have pics of other plants with longer stems?'
+    ref: 54bd19b5ed2a89d37e0000f8
+    name: Russell Best
+    username: russell
+  - replying_to: 54bd19b5ed2a89d37e0000f8
+    created_at: '2015-01-20T01:41:16Z'
+    text: 'I wouldnt be using length of flowering stem as guide to ID. The leaves on all plants are typically shorter than G. willisiana. Leaf colour and hairs also not consistent. Dry season possibly producing shorter flowering stems. Leaf undersurface tending towards tomentose, but clearly hairy on leaf upper-surface to discount possibility of G. blackiana. Relatively confident best fit is G. geniculata and will check indusium next I am there (strongly bent in G. geniculata).'
+    ref: 54bdb23ced2a897bfa000105
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 54bdb23ced2a897bfa000105
+    created_at: '2015-01-20T03:44:34Z'
+    text: I should have mentioned that it is the Flora of Victoria key that separated willisiana from geniculata and blackiana on scape length (and no other parameter). Your pic is easily the shortest flower stem I've seen on geniculata. At worst it is a freak!
+    ref: 54bdcf22ed2a89d37e00014f
+    name: Russell Best
+    username: russell
+  - created_at: '2015-01-20T04:14:24Z'
+    text: 'Number 23 in the key is where they split I think:http://keybase.rbg.vic.gov.au/key/bracketedkey/2658'
+    ref: 54bdd620ed2a894a48000119
+    name: Russell Best
+    username: russell
+  - replying_to: 54bdd620ed2a894a48000119
+    created_at: '2015-01-20T05:16:18Z'
+    text: 'Unfortunately, I only have these photos and didnt take a lot of notice of scape length amongst others. Was quite common across the site. Well outside of range for G. willisiana also. Will get some more photos when I am there next. Cheers.'
+    ref: 54bde4a2ed2a89d37e000159
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - 401_fulbrooks_road_dadswells_bridge_vic_plants

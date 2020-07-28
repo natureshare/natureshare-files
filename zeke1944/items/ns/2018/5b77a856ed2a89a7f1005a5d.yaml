@@ -1,0 +1,43 @@
+id:
+  - Entoloma spp.
+created_at: '2018-08-18T05:04:26Z'
+datetime: '2014-06-12T14:46:31+10:00'
+elevation: 164.7
+latitude: -38.549324
+location_name: 'Lorne VIC 3232, Australia'
+longitude: 143.937345
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-19T12:41:18Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-06-12T14:46:31Z'
+    height: 2208
+    width: 3141
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b77a85aed2a891efe000096.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b77a85aed2a891efe000096.jpg'
+comments:
+  - created_at: '2018-08-18T05:10:06Z'
+    text: 'Entoloma tomentosolilacium  This name was Tentatively given by  Genevieve Gates. It is quite a common species in Victoria that grows on wood, mostly fallen logs.'
+    ref: 5b77aa2eed2a89a7f1005a65
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-19T11:16:19Z'
+    text: 'I can see why Gates was tentative. It does have a tomemtose cap and it is on wood which is unusual for Entoloma and I guess you could see some lilac in the stipe. I see no metallic lilac in the cap however and the shape is quite different from Gates'' photos appearing in the Noordeloos and Gates paper in Persoonia in 2007, and in the 2012 book on Tasmanian Entoloma. You can readily download the paper as a pdf by Googling "Preliminary Studies in the Genus Entoloma in Tasmania", refer plate 20. Part 1 was in 2007 and Part 2 appeared in 2009. The book is more comprehensive but the pdf papers are free. I can be a bit forgiving when it comes to colour but the big broad umbo makes this one look quite different.'
+    ref: 5b795183ed2a895b03000073
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-08-19T11:55:04Z'
+    text: 'Have posted the other time I have found this in the Otways. It generally does not have an umbo and the specimen of the initial image is probable unusual it was also on a very juicy log and quite vigorous. '
+    ref: 5b795a98ed2a89a7f10062ec
+    name: zeke1944
+    username: zeke1944
+  - replying_to: 5b795a98ed2a89a7f10062ec
+    created_at: '2018-08-19T12:26:11Z'
+    text: 'Sorry to be a pain, but if the second set is a different time and location then it is best done as a separate post. This set is closer to what I was expecting to see and the lower left image shows the silky fibrillose stipe and white basal tomentum. Gates gives the cap size as 5 - 15 diameter and the cap is described as lilac-grey to greyish ruby.'
+    ref: 5b7961e3ed2a89a7f100631e
+    name: John Walter
+    username: 249pbr
+collections:
+  - otway_ranges_-_fungi

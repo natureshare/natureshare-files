@@ -1,0 +1,65 @@
+id:
+  - name: Aphalaridae spp.
+    by: david_francis
+created_at: '2016-01-18T01:23:26Z'
+datetime: '2015-10-20T23:51:00+10:00'
+description: "About 12mm body length. These psylloideans insert eggs into leaves or stems which develop into galls to house developing nymphs. \r\nhttps://www.flickr.com/photos/69610519@N08/6683564239/in/photostream/\r\nhttp://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:16e0872c-89ee-4cd3-b80e-8dd3227de0de#tab_gallery\r\n\r\nStephen Thorpe on BowerBird has IDed this one and after much reading I think we need to add Aphalaridae\r\n\r\norder\r\nHEMIPTERA\r\nsuborder\r\nSTERNORRHYNCHA\r\nsuperfamily\r\nPSYLLOIDEA\r\nfamily\r\nAPHALARIDAE"
+elevation: 157.8
+latitude: -37.892264
+location_name: 'Tremont VIC 3785, Australia'
+longitude: 145.313693
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-21T03:16:22Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-10-20T11:51:37Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/569c3be7ed2a89e050000017.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/569c3be7ed2a89e050000017.JPG'
+  - datetime: '2015-10-20T11:51:05Z'
+    height: 750
+    width: 1000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/569c3bdded2a89e050000016.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/569c3bdded2a89e050000016.JPG'
+  - datetime: '2015-10-20T11:51:17Z'
+    height: 750
+    width: 1000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/569c3be5ed2a897bc7000014.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/569c3be5ed2a897bc7000014.JPG'
+  - datetime: '2015-10-20T11:50:54Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/569c3be6ed2a89b31c000010.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/569c3be6ed2a89b31c000010.JPG'
+tags:
+  - adult
+comments:
+  - created_at: '2016-01-18T01:31:03Z'
+    text: 'Hi Mark, I added Triozidae spp.'
+    ref: 569c4057ed2a893d8b000002
+    name: 'Reilly '
+    username: reilly
+  - replying_to: 569c4057ed2a893d8b000002
+    created_at: '2016-01-18T01:59:54Z'
+    text: Thank you sir.
+    ref: 569c471aed2a89e944000001
+    name: Mark Ridgway
+    username: argybee
+  - replying_to: 569c471aed2a89e944000001
+    created_at: '2016-01-18T02:05:07Z'
+    text: no problem!
+    ref: 569c4853ed2a89e944000003
+    name: 'Reilly '
+    username: reilly
+  - created_at: '2016-12-28T01:27:03Z'
+    text: <em>Aphalaridae spp.</em> species id suggested
+    ref: 586314e7ed2a89748000b74c
+    name: David Francis
+    username: david_francis
+collections:
+  - dandenong_ranges_hemiptera

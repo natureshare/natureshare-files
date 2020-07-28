@@ -1,0 +1,29 @@
+id:
+  - name: Poaceae spp.
+    by: russell
+created_at: '2014-10-25T02:23:20Z'
+datetime: '2013-12-18T12:10:17+10:00'
+latitude: -37.290561
+location_name: 'Clunes VIC 3370, Australia'
+longitude: 143.752972
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-10-25T02:46:40Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-12-18T12:10:17Z'
+    height: 3264
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/544b0997e35eb1faaa000115.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544b0997e35eb1faaa000115.jpg'
+tags:
+  - seedhead
+comments:
+  - created_at: '2014-10-25T05:04:54Z'
+    text: 'Elymus scaber - possible name change, but not sure if yet accepted in Victoria.'
+    ref: 544b2f76e35eb1c7670000bf
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - clunes_finchesgully_flora_and_fauna

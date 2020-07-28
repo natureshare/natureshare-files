@@ -1,0 +1,35 @@
+created_at: '2017-09-20T05:01:03Z'
+datetime: '2017-09-20T10:42:42+10:00'
+description: caterpillar
+elevation: 286.5
+latitude: -37.526865
+location_name: 'Sunbury VIC 3429, Australia'
+longitude: 144.762607
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-09-20T05:01:03Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-09-20T10:42:42Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c1f491ed2a89398400026e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c1f491ed2a89398400026e.JPG'
+  - datetime: '2017-09-20T10:42:39Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c1f4a6ed2a89398400026f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c1f4a6ed2a89398400026f.JPG'
+  - datetime: '2017-09-20T10:42:13Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c1f4b2ed2a893984000270.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c1f4b2ed2a893984000270.JPG'
+comments:
+  - created_at: '2017-09-20T09:55:32Z'
+    text: Possibly Anthelidae sp. but need to see head etc.
+    ref: 59c23b14ed2a89eed500062c
+    name: David Francis
+    username: david_francis

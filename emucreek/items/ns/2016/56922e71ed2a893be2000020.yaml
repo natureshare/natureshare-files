@@ -1,0 +1,71 @@
+id:
+  - name: Pompilidae spp.
+    by: reilly
+created_at: '2016-01-10T10:22:45Z'
+datetime: '2016-01-09T16:32:35+10:00'
+elevation: 286.3
+latitude: -37.527347
+location_name: 'Sunbury VIC 3429, Australia'
+longitude: 144.76309
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-01-17T02:30:42Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-01-09T16:32:35Z'
+    height: 2592
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56923114ed2a890f7e00001c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56923114ed2a890f7e00001c.JPG'
+  - datetime: '2016-01-09T16:32:48Z'
+    height: 2592
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5692312ced2a890f7e00001d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5692312ced2a890f7e00001d.JPG'
+  - datetime: '2016-01-09T16:32:46Z'
+    height: 2592
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5692313fed2a890f7e00001e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5692313fed2a890f7e00001e.JPG'
+comments:
+  - created_at: '2016-01-10T19:55:04Z'
+    text: Hi Peter. Consider one of the Spider Wasps. Pompilidae. Cheers.
+    ref: 5692b718ed2a893be2000030
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2016-01-11T03:16:17Z'
+    text: It looks like it is carrying a spider thorax and abdomen in the photos?
+    ref: 56931e81ed2a893be200003b
+    name: 'Reilly '
+    username: reilly
+  - replying_to: 56931e81ed2a893be200003b
+    created_at: '2016-01-12T03:12:27Z'
+    text: 'hello reilly,yeah,looks like you can see its eyes in the third photo...I thought it was carrying a praying mantis cocoon...'
+    ref: 56946f1bed2a8932c9000008
+    name: Peter Clark
+    username: emucreek
+  - replying_to: 56931e81ed2a893be200003b
+    created_at: '2016-01-18T03:00:42Z'
+    text: 'Clever insect to be able to subdue a large spider, keep it fresh by paralyzing it only, such that newly hatched wasps have something to feed on.'
+    ref: 569c555aed2a8918b6000007
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 569c555aed2a8918b6000007
+    created_at: '2016-01-18T03:38:55Z'
+    text: Don't even need to paralyse it... just need to gnaw its legs off by the looks of it!
+    ref: 569c5e4fed2a8918b600000b
+    name: 'Reilly '
+    username: reilly
+  - replying_to: 569c5e4fed2a8918b600000b
+    created_at: '2016-01-18T04:20:53Z'
+    text: Very true. Have inspected a nest before and found many smaller spiders with all legs attached. Must remove legs on larger spiders for ease of transport and to fit into the nest.
+    ref: 569c6825ed2a8918b600000e
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 569c6825ed2a8918b600000e
+    created_at: '2016-01-18T04:24:00Z'
+    text: 'I agree, that is the more logical assumption :)'
+    ref: 569c68e0ed2a8918b6000011
+    name: 'Reilly '
+    username: reilly

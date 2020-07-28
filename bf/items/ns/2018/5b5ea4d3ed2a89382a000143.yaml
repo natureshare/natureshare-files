@@ -1,0 +1,66 @@
+id:
+  - Cheilanthes spp.
+created_at: '2018-07-30T05:44:40Z'
+datetime: '2012-10-21T17:47:10+10:00'
+description: 2 Photos
+elevation: 492.2
+latitude: -37.308543
+location_name: 'Mount Beckworth VIC 3363, Australia'
+longitude: 143.717936
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2018-07-31T12:51:06Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2012-10-21T17:47:10Z'
+    height: 4592
+    width: 3056
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b5ea4d9ed2a892807000082.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b5ea4d9ed2a892807000082.JPG'
+  - datetime: '2012-10-21T17:47:06Z'
+    height: 4592
+    width: 3056
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b5ea4fced2a89402b000073.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b5ea4fced2a89402b000073.JPG'
+comments:
+  - created_at: '2018-07-30T06:51:59Z'
+    text: <em>Cheilanthes austrotenuifolia</em> species id suggested
+    ref: 5b5eb58fed2a89382a00014a
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-07-30T07:10:29Z'
+    text: Thanks Zeke! I would try and help with the Fungi but it's not something i am any good at.
+    ref: 5b5eb9e5ed2a89382a00015e
+    name: Ben Fisher
+    username: bf
+  - created_at: '2018-07-30T15:48:54Z'
+    text: This has the look of Ceilanthes sieberi (Narrow Rock-fern) but impossible to distinguish from photos
+    ref: 5b5f3366ed2a8903a0008eb4
+    name: David Francis
+    username: david_francis
+  - replying_to: 5b5f3366ed2a8903a0008eb4
+    created_at: '2018-07-30T16:44:38Z'
+    text: Thanks David. What would you look for in the field? Good to know if i come across it again.
+    ref: 5b5f4076ed2a8903a0008ee3
+    name: Ben Fisher
+    username: bf
+  - created_at: '2018-07-31T03:02:47Z'
+    text: austrotenuifolia often has more widely spaced "leaflets" along the "stem" which is often not so vertical; and the general outine of on frond (the lamina) is more wide/triangular rather  narrow ellips
+    ref: 5b5fd157ed2a898ec20000c0
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-07-31T03:07:11Z'
+    text: .... rather than narrow/elliptical. Close up of underside showing position of sori is used in id.
+    ref: 5b5fd25fed2a8903a0009052
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-07-31T12:13:04Z'
+    text: Thanks for the detailed response David.
+    ref: 5b605250ed2a898ec20001a7
+    name: Ben Fisher
+    username: bf
+collections:
+  - mount_beckworth

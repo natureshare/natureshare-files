@@ -1,0 +1,32 @@
+id:
+  - Capusa senilis
+created_at: '2017-01-27T05:41:13Z'
+datetime: '2017-01-26T23:47:59+10:00'
+elevation: 262.3
+latitude: -37.806609
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.296967
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-01-27T05:48:04Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-01-26T23:47:24Z'
+    height: 2321
+    width: 2504
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588adf42ed2a892daf00036b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588adf42ed2a892daf00036b.jpg'
+  - primary: true
+    datetime: '2017-01-26T23:47:59Z'
+    height: 2890
+    width: 3660
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588adce5ed2a89d73e000324.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588adce5ed2a89d73e000324.JPG'
+tags:
+  - grey
+  - male
+  - moth
+collections:
+  - brisbane_ranges_moths

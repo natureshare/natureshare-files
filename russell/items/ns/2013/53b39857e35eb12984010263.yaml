@@ -1,0 +1,31 @@
+id:
+  - name: Caladenia transitoria
+    by: david_francis
+created_at: '2013-06-28T11:30:49Z'
+datetime: '2012-10-20T10:38:38+10:00'
+latitude: -38.646762
+longitude: 143.330017
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-11-13T10:49:00Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-10-20T10:38:38Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39868e35eb12984014016.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014016.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2016-11-13T05:56:19Z'
+    text: "Not sure if this isn't Caladenia transitoria. C.iridescens is usually purplish and possibly confined to the Grampians.\r\n"
+    ref: 58280083ed2a897480003777
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-11-13T10:19:46Z'
+    text: I agree David. Unlikely to be C.iridescens and probably better placed with C. transitoria.
+    ref: 58283e42ed2a897480003866
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - great_otway_np_plants

@@ -1,0 +1,34 @@
+id:
+  - Scarabaeidae spp.
+created_at: '2014-09-18T06:31:45Z'
+datetime: '2012-03-24T11:02:13+10:00'
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-09-18T06:32:55Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-03-24T11:02:13Z'
+    height: 2432
+    width: 3648
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/541a7c50e35eb1d53d00001c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/541a7c50e35eb1d53d00001c.jpg'
+tags:
+  - beetle
+  - larva
+comments:
+  - created_at: '2014-09-18T20:26:03Z'
+    text: 'Hi Suzanne. Is this a red headed cockchafer? Adoryphorus coulonii? '
+    ref: 541b3fdbe35eb1201b000001
+    name: Annemaree Docking
+    username: anni75
+  - created_at: '2014-09-18T23:44:57Z'
+    text: 'Possibly, I have photographed the adult here.  But maybe other scarab larvae look like that too.  I just don''t know.'
+    ref: 541b6e79e35eb1d53d000042
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains

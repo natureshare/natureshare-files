@@ -1,0 +1,40 @@
+id:
+  - Entometa fervens
+created_at: '2014-10-20T01:04:25Z'
+datetime: '2014-10-19T21:20:32+10:00'
+latitude: -37.806588
+location_name: 'Balliang VIC, Australia'
+longitude: 144.296933
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-10-20T01:05:44Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-19T21:20:32Z'
+    height: 1528
+    width: 2456
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54445f98e35eb11add000012.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54445f98e35eb11add000012.JPG'
+  - datetime: '2014-10-19T21:05:15Z'
+    height: 1657
+    width: 1915
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54445f98e35eb11add000013.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54445f98e35eb11add000013.JPG'
+  - datetime: '2014-10-19T21:11:13Z'
+    height: 1948
+    width: 2483
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54445f98e35eb11add000014.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54445f98e35eb11add000014.JPG'
+tags:
+  - hindwing
+  - moth
+  - underside
+comments:
+  - created_at: '2014-10-20T01:09:09Z'
+    text: This is a very active moth and takes an enormous amount of time to settle.  It has an almost florescent blue on part of the antennae.
+    ref: 544460b5e35eb11add00001c
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brisbane_ranges_moths

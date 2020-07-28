@@ -1,0 +1,37 @@
+id:
+  - Plesanemma fucata
+created_at: '2018-04-30T03:56:58Z'
+datetime: '2018-04-21T21:54:25+10:00'
+description: 'This form is darker, more mottled.  Note the large reddish circle on the forewing.'
+latitude: -37.88409
+longitude: 145.59762
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-04-30T03:57:17Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-04-21T21:54:25Z'
+    height: 1267
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ae693bded2a8929e70000d3.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ae693bded2a8929e70000d3.jpg'
+tags:
+  - moth
+  - variable
+comments:
+  - created_at: '2018-04-30T04:09:46Z'
+    text: A favourite location.
+    ref: 5ae6970aed2a899466009232
+    name: Mark Ridgway
+    username: argybee
+  - replying_to: 5ae6970aed2a899466009232
+    created_at: '2018-04-30T04:15:11Z'
+    text: Happy to have you add your species to the location list.
+    ref: 5ae6984fed2a89ed78000164
+    name: Cathy Powers
+    username: koolah
+collections:
+  - shiprock_falls_-_moths

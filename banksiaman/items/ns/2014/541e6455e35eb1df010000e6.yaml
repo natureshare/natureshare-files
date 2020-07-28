@@ -1,0 +1,43 @@
+id:
+  - Vombatus ursinus
+created_at: '2014-09-21T05:38:29Z'
+datetime: '2014-09-01T17:00:17+10:00'
+latitude: -38.849502
+longitude: 146.186123
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-01-30T00:54:27Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-01T17:00:17Z'
+    height: 1572
+    width: 1612
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/541e6454e35eb1df010000e5.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/541e6454e35eb1df010000e5.JPG'
+comments:
+  - created_at: '2015-01-29T10:57:53Z'
+    text: 'Hi Kevin. Are you confident with this ID. Not known from that part of Vic (scarcely enter Vic at all now). If you are positive, could it be a released animal?'
+    ref: 54ca1231ed2a8971510001c0
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 54ca1231ed2a8971510001c0
+    created_at: '2015-01-30T00:52:49Z'
+    text: 'I''m not an expert on Wombats, so if you think it is another one, I bow to your superior knowledge'
+    ref: 54cad5e1ed2a899aeb0001b7
+    name: Kevin Sparrow
+    username: banksiaman
+  - replying_to: 54cad5e1ed2a899aeb0001b7
+    created_at: '2015-01-30T03:29:22Z'
+    text: 'Not and expert either, but distribution maps of Southern Hairy-nosed Wombat do not include anywhere near Wilson''s Prom. The Common Wombat is very common at the Prom.'
+    ref: 54cafa92ed2a897151000253
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 54cafa92ed2a897151000253
+    created_at: '2015-01-30T08:26:49Z'
+    text: "Thanks Chris, I have changed it. Cheers,\r\nKevin"
+    ref: 54cb4049ed2a897151000274
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - wilsons_prom_np_plants

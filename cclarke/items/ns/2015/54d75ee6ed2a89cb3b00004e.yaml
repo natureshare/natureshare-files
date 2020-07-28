@@ -1,0 +1,39 @@
+id:
+  - Hypolepis muelleri
+created_at: '2015-02-08T13:04:38Z'
+datetime: '2015-02-08T14:04:22+10:00'
+latitude: -37.88711
+longitude: 145.352072
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-02-09T10:01:33Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-02-08T14:04:22Z'
+    height: 2298
+    width: 3213
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54d75ee6ed2a89cb3b00004c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54d75ee6ed2a89cb3b00004c.jpg'
+  - datetime: '2015-02-08T14:04:34Z'
+    height: 2266
+    width: 2666
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54d75ee6ed2a89cb3b00004d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54d75ee6ed2a89cb3b00004d.jpg'
+comments:
+  - created_at: '2015-02-08T13:12:48Z'
+    text: 'Form similair to small bracken. H. melleri? Stipe yellow/brown. '
+    ref: 54d760d0ed2a89d31300002d
+    name: Chris Clarke
+    username: cclarke
+  - created_at: '2015-02-09T04:21:43Z'
+    text: 'Yes, probably H. muelleri. (Unprotected sori away from the margins of pinnules).'
+    ref: 54d835d7ed2a89d31300005d
+    name: David Francis
+    username: david_francis
+  - replying_to: 54d835d7ed2a89d31300005d
+    created_at: '2015-02-09T07:59:37Z'
+    text: Thanks David
+    ref: 54d868e9ed2a89d313000077
+    name: Chris Clarke
+    username: cclarke

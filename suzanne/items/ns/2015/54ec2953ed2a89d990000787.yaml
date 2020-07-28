@@ -1,0 +1,45 @@
+id:
+  - Leioproctus spp.
+created_at: '2015-02-24T07:33:39Z'
+datetime: '2015-02-22T17:49:00+10:00'
+description: Feeding on Eucalyptus wimmerensis.
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-02-24T07:35:05Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-02-22T17:49:00Z'
+    height: 1331
+    width: 1996
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54ec2951ed2a89d990000783.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ec2951ed2a89d990000783.JPG'
+  - datetime: '2015-02-22T17:48:54Z'
+    height: 1515
+    width: 2262
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54ec2951ed2a89d990000784.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ec2951ed2a89d990000784.JPG'
+  - datetime: '2015-02-22T17:48:47Z'
+    height: 1329
+    width: 1999
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54ec2951ed2a89d990000785.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ec2951ed2a89d990000785.JPG'
+  - datetime: '2015-02-22T17:48:38Z'
+    height: 1632
+    width: 2447
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54ec2951ed2a89d990000786.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ec2951ed2a89d990000786.JPG'
+tags:
+  - bee
+comments:
+  - created_at: '2015-02-24T07:35:23Z'
+    text: Identified by Ken Walker.
+    ref: 54ec29bbed2a89d99000078b
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains

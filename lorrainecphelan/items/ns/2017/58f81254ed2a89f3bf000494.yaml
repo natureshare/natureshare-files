@@ -1,0 +1,33 @@
+id:
+  - Zizina labradus labradus
+created_at: '2017-04-20T01:49:40Z'
+datetime: '2017-04-19T11:35:11+10:00'
+elevation: 70.7
+latitude: -38.092425
+location_name: 'Heywood VIC 3304, Australia'
+longitude: 141.74054
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-04-20T01:49:40Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-04-19T11:26:34Z'
+    height: 1067
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58f81312ed2a89e5480000f4.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58f81312ed2a89e5480000f4.JPG'
+  - datetime: '2017-04-19T11:35:11Z'
+    height: 1157
+    width: 1543
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58f8125fed2a891d6d0000fd.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58f8125fed2a891d6d0000fd.JPG'
+  - datetime: '2017-04-19T11:24:49Z'
+    height: 1067
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58f81313ed2a8944100000fb.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58f81313ed2a8944100000fb.JPG'
+collections:
+  - homerton_and_milltown_insects

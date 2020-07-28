@@ -1,0 +1,36 @@
+id:
+  - Ciampa arietaria
+created_at: '2015-04-12T02:10:16Z'
+datetime: '2015-04-09T22:52:04+10:00'
+description: These images include both female and male of the species.  The male is about 1/3 the size of the female and duller in colour.
+latitude: -37.80854
+longitude: 144.298477
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-04-12T02:21:21Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-04-09T22:52:04Z'
+    height: 1457
+    width: 2157
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5529d406ed2a89f7040000dd.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5529d406ed2a89f7040000dd.JPG'
+  - datetime: '2015-04-09T22:54:12Z'
+    height: 1895
+    width: 1634
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5529d406ed2a89f7040000de.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5529d406ed2a89f7040000de.JPG'
+  - datetime: '2015-04-09T23:07:10Z'
+    height: 1299
+    width: 2006
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5529d406ed2a89f7040000df.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5529d406ed2a89f7040000df.JPG'
+tags:
+  - brown
+  - female
+  - male
+  - moth
+collections:
+  - brisbane_ranges_moths

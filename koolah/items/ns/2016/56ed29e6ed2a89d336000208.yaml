@@ -1,0 +1,30 @@
+id:
+  - Nola paromoea
+created_at: '2016-03-19T10:30:07Z'
+datetime: '2016-03-16T23:09:37+10:00'
+latitude: -37.806558
+longitude: 144.297135
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-03-19T10:30:07Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-03-16T23:09:37Z'
+    height: 1239
+    width: 1239
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56ed29eeed2a890be700012c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ed29eeed2a890be700012c.JPG'
+  - datetime: '2016-03-16T23:10:50Z'
+    height: 1299
+    width: 1212
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56ed29faed2a89211c00015b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ed29faed2a89211c00015b.JPG'
+tags:
+  - grey
+  - moth
+  - white
+collections:
+  - brisbane_ranges_moths

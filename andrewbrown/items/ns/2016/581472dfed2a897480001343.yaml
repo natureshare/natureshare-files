@@ -1,0 +1,31 @@
+id:
+  - Senecio quadridentatus
+created_at: '2016-10-29T11:22:32Z'
+datetime: '2016-10-29T12:44:32+10:00'
+elevation: 208.9
+latitude: -36.776457
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.362147
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-29T11:22:32Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-29T12:44:32Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/581472e1ed2a89b718000160.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/581472e1ed2a89b718000160.JPG'
+  - datetime: '2016-10-29T12:44:26Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/581472eeed2a89d73e00015a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/581472eeed2a89d73e00015a.JPG'
+tags:
+  - flower-greenish-yellow
+  - leaves-grey
+collections:
+  - junortoun_flora

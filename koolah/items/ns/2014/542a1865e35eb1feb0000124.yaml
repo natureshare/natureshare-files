@@ -1,0 +1,50 @@
+id:
+  - Thelymitra hiemalis
+created_at: '2014-09-30T02:41:41Z'
+datetime: '2014-09-30T12:40:00+10:00'
+description: The conditions were difficult - dry and windy.
+elevation: 338.9
+latitude: -37.86721
+location_name: 'Steiglitz VIC 3331, Australia'
+longitude: 144.219102
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2014-10-20T00:42:10Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 670
+    width: 514
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/542a1865e35eb1feb0000123.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/542a1865e35eb1feb0000123.jpg'
+comments:
+  - created_at: '2014-09-30T02:46:20Z'
+    text: Please note that the GPS location is not exact.
+    ref: 542a197ce35eb1feb000012b
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2014-10-19T04:41:16Z'
+    text: It is still named on the observation as T. hiemalis. Should this be changed? Maybe just T. spp. for now if ID is unsure?
+    ref: 544340ece35eb1a26000001e
+    name: Russell Best
+    username: russell
+  - replying_to: 544340ece35eb1a26000001e
+    created_at: '2014-10-20T00:41:42Z'
+    text: J. Jeanes advised that it is OK to use this name - I will edit the description which I forgot to do.
+    ref: 54445a46e35eb13865000047
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 54445a46e35eb13865000047
+    created_at: '2014-10-20T04:53:00Z'
+    text: NB. This would be a new species for the park so would need adding to the collection species list.
+    ref: 5444952ce35eb1a228000029
+    name: Russell Best
+    username: russell
+  - replying_to: 54445a46e35eb13865000047
+    created_at: '2014-10-20T05:34:33Z'
+    text: I will add to the Brisbane Ranges collection! Cheers.
+    ref: 54449ee9e35eb11add000022
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - brisbane_ranges_national_park_plants

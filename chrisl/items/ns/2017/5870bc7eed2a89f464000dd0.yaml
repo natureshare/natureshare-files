@@ -1,0 +1,48 @@
+id:
+  - Falco berigora
+created_at: '2017-01-07T10:09:40Z'
+datetime: '2016-04-08T18:43:23+10:00'
+description: A dark brown colour morph.
+latitude: -34.243169
+longitude: 141.285553
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-01-07T10:17:15Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-04-08T18:43:23Z'
+    height: 1182
+    width: 1773
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5870bc84ed2a89b7180002c5.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5870bc84ed2a89b7180002c5.jpg'
+  - datetime: '2016-04-08T18:47:27Z'
+    height: 717
+    width: 1075
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5870bc2aed2a89b3fe0002c8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5870bc2aed2a89b3fe0002c8.jpg'
+  - datetime: '2016-04-08T18:47:26Z'
+    height: 1117
+    width: 1675
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5870bc35ed2a892daf0002d9.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5870bc35ed2a892daf0002d9.jpg'
+  - datetime: '2016-04-08T18:47:26Z'
+    height: 1867
+    width: 2800
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5870bde3ed2a892daf0002de.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5870bde3ed2a892daf0002de.jpg'
+comments:
+  - created_at: '2017-01-07T10:24:06Z'
+    text: Great shots in flight!
+    ref: 5870c1c6ed2a89f464000e0b
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 5870c1c6ed2a89f464000e0b
+    created_at: '2017-01-07T10:27:05Z'
+    text: 'Thanks Andrew. I sat a long time waiting for this bird to take flight so I could get my once only chance of a few shots in flight. Pity the sun was behind the bird, so I had to lighten the photo a bit.'
+    ref: 5870c279ed2a89f464000e0f
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - neds_corner_birds

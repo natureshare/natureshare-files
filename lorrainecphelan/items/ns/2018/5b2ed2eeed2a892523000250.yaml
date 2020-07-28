@@ -1,0 +1,37 @@
+id:
+  - Ascomycota spp.
+created_at: '2018-06-23T23:10:13Z'
+datetime: '2018-06-23T16:42:06+10:00'
+elevation: 207.4
+latitude: -38.529056
+location_name: 'Forrest VIC 3236, Australia'
+longitude: 143.719628
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-06-24T06:52:18Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-06-23T16:42:06Z'
+    height: 1201
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b2ed30ced2a89402b000004.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2ed30ced2a89402b000004.jpg'
+  - datetime: '2018-06-23T16:28:23Z'
+    height: 1082
+    width: 1442
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b2ed2f3ed2a892807000009.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2ed2f3ed2a892807000009.jpg'
+comments:
+  - created_at: '2018-06-24T03:53:53Z'
+    text: 'This could be Hymenoscyphus sp. "white disc bruising orange" as per my postings above but we cannot tell without the bruising, you could post it as Ascomycota spp.'
+    ref: 5b2f15d1ed2a89a993000b52
+    name: John Walter
+    username: 249pbr
+  - replying_to: 5b2f15d1ed2a89a993000b52
+    created_at: '2018-06-24T06:54:31Z'
+    text: 'Thanks John. The damaged parts of the fungi are quite brown/orange so you could be right. '
+    ref: 5b2f4027ed2a89a993000c34
+    name: Lorraine Phelan
+    username: lorrainecphelan

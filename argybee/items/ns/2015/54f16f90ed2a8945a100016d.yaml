@@ -1,0 +1,50 @@
+id:
+  - Castiarina punctatosulcata
+created_at: '2015-02-28T07:34:40Z'
+datetime: '2014-11-28T15:34:00+10:00'
+description: "About 14mm long. Feeding on various flowers including a Daucus-like plant and some large Asteraceae.\r\nIn a local nature reserve.\r\n"
+elevation: 158
+latitude: -37.90765
+location_name: 'Upwey VIC 3158, Australia'
+longitude: 145.312569
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2015-05-29T08:21:34Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 512
+    width: 512
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54f16f8fed2a8945a100016b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f16f8fed2a8945a100016b.jpg'
+  - height: 512
+    width: 512
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54f16f8fed2a8945a100016c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f16f8fed2a8945a100016c.jpg'
+tags:
+  - beetle
+comments:
+  - created_at: '2015-03-03T09:47:28Z'
+    text: Castiarina aeraticollis added to the database
+    ref: 54f58330ed2a8983c20004da
+    name: David Francis
+    username: david_francis
+  - created_at: '2015-05-12T07:01:12Z'
+    text: This is actually Castiarina punctatosulcata.
+    ref: 5551a538ed2a890e03000048
+    name: entom2
+    username: entom2
+  - replying_to: 5551a538ed2a890e03000048
+    created_at: '2015-05-12T08:07:46Z'
+    text: 'I think C. punctatosulcata is in the database, if you would like to update the record, Mark. Great photos, by the way. David'
+    ref: 5551b4d2ed2a890e03000056
+    name: David Francis
+    username: david_francis
+  - replying_to: 5551b4d2ed2a890e03000056
+    created_at: '2015-05-29T08:12:25Z'
+    text: Thank you peoples. Updating.
+    ref: 55681f69ed2a8925200003dd
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_coleoptera

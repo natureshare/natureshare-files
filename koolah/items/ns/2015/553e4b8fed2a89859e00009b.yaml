@@ -1,0 +1,35 @@
+id:
+  - Monoctenia smerintharia
+created_at: '2015-04-27T14:45:35Z'
+datetime: '2015-04-27T22:06:20+10:00'
+latitude: -37.806558
+longitude: 144.29708
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-04-27T14:46:27Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-04-27T22:06:20Z'
+    height: 2395
+    width: 3600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/553e4b8eed2a89859e000099.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/553e4b8eed2a89859e000099.JPG'
+  - datetime: '2015-04-27T22:06:51Z'
+    height: 1900
+    width: 2808
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/553e4b8eed2a89859e00009a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/553e4b8eed2a89859e00009a.JPG'
+tags:
+  - brown
+  - female
+  - moth
+comments:
+  - created_at: '2015-04-27T15:33:22Z'
+    text: great photos
+    ref: 553e56c2ed2a891575000001
+    name: 'Reilly '
+    username: reilly
+collections:
+  - brisbane_ranges_moths

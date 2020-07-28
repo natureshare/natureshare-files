@@ -1,0 +1,43 @@
+id:
+  - Aulactinia veratra
+created_at: '2018-04-02T05:16:06Z'
+datetime: '2018-03-22T15:49:26+10:00'
+description: "The anemone was about 50 mm with tentacles extended and floating in the water. Tentacles were numerous, translucent but dark green in colour and had pointy ends. The oral disc was covered by sand and therefore not visible. \r\nWhere the anemones were out of water, they looked like dark clumps studded with sand grains. Partially submerged anemones (pic 3) were interesting in that the submerged part had extended tentacles and the exposed part was curled up displaying a sand encrusted column. Long striations could be seen in the retracted column which was the same colour as the tentacles.\r\nSpotted in rock pools - rocky intertidal zone (Cape Conran) "
+elevation: 13
+latitude: -37.801149
+location_name: 'Cape Conran VIC 3888, Australia'
+longitude: 148.739458
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-05-28T05:21:13Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-03-22T15:49:26Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ac1bb36ed2a897fc8000059.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ac1bb36ed2a897fc8000059.jpg'
+  - datetime: '2018-03-22T15:57:03Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ac1bb58ed2a897fc800005a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ac1bb58ed2a897fc800005a.jpg'
+  - datetime: '2018-03-22T16:01:43Z'
+    height: 902
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ac1bb7fed2a89abdd000064.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ac1bb7fed2a89abdd000064.jpg'
+comments:
+  - created_at: '2018-04-04T04:13:35Z'
+    text: 'Name added to db https://natureshare.org.au/species/aulactinia_veratra (new name).'
+    ref: 5ac450efed2a899466000f52
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-04-04T12:40:21Z'
+    text: Thank you David.
+    ref: 5ac4c7b5ed2a899466001179
+    name: Leuba Ridgway
+    username: leuba
+collections:
+  - littoral_zones

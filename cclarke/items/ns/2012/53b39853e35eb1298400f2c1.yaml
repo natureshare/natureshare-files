@@ -1,0 +1,25 @@
+id:
+  - name: Zieria veronicea subsp. veronicea
+created_at: '2012-02-05T11:07:01Z'
+datetime: '2006-09-30T11:34:30+10:00'
+description: Small plant about 0.5m in the little desert.
+latitude: -36.555016
+longitude: 141.642351
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2012-02-05T11:20:05Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2006-09-30T11:34:30Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39862e35eb12984012939.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012939.jpg'
+  - datetime: '2006-09-30T11:34:19Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39862e35eb1298401293a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb1298401293a.jpg'
+comments:
+  - created_at: '2012-02-05T11:16:14Z'
+    text: Location rough only
+    ref: 53b3984be35eb1298400d9ce
+collections:
+  - little_desert_np_plants

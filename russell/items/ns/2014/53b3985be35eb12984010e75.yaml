@@ -1,0 +1,26 @@
+id:
+  - name: Persoonia rigida
+created_at: '2014-05-30T18:13:43Z'
+datetime: '2010-09-25T18:11:12+10:00'
+latitude: -36.922586
+longitude: 142.3851
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-07-02T08:06:12Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2010-09-25T18:11:12Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986ce35eb129840153a6.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb129840153a6.jpg'
+  - datetime: '2010-09-25T18:10:52Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986ce35eb129840153a7.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb129840153a7.jpg'
+tags:
+  - fruit
+comments:
+  - created_at: '2014-06-08T20:50:41Z'
+    text: Location approximate.
+    ref: 53b3984de35eb1298400dd3f
+collections:
+  - grampians_np_plants

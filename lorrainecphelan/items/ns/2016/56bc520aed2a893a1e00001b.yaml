@@ -1,0 +1,47 @@
+id:
+  - Caladenia congesta
+created_at: '2016-02-11T09:20:53Z'
+datetime: '2007-11-19T20:19:00+10:00'
+elevation: 116.2
+latitude: -38.011819
+location_name: 'Myamyn VIC 3304, Australia'
+longitude: 141.665993
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-15T06:24:43Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 600
+    width: 800
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56bc520fed2a893b01000001.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56bc520fed2a893b01000001.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2016-02-11T10:16:31Z'
+    text: Always a treat to spot this one!
+    ref: 56bc5f7fed2a8916fe000002
+    name: David Francis
+    username: david_francis
+  - replying_to: 56bc5f7fed2a8916fe000002
+    created_at: '2016-02-11T10:21:39Z'
+    text: 'Yes, I was very excited when I found it.'
+    ref: 56bc60b3ed2a89c42d000085
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - created_at: '2017-04-05T02:31:01Z'
+    text: 'Lorraine, I''m wondering if you have the right location for this orchid as you have it near Myamyn but it''s in the collection/interest group for Anglesea Heath.'
+    ref: 58e456e5ed2a894865000814
+    name: David Francis
+    username: david_francis
+  - replying_to: 58e456e5ed2a894865000814
+    created_at: '2017-04-05T10:15:20Z'
+    text: 'Thanks David. The location is right, the collection was wrong. I''ve corrected it now.'
+    ref: 58e4c3b8ed2a897711000024
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - homerton_and_milltown

@@ -1,0 +1,33 @@
+id:
+  - name: Astroloma humifusum
+    by: russell
+created_at: '2015-10-02T11:05:30Z'
+datetime: '2015-09-18T15:02:16+10:00'
+latitude: -37.4251
+longitude: 142.458438
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-10-03T04:55:51Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-09-18T15:02:16Z'
+    height: 3587
+    width: 4267
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560e6514ed2a890d950003c0.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560e6514ed2a890d950003c0.JPG'
+tags:
+  - developing-fruit
+comments:
+  - created_at: '2015-10-02T11:41:53Z'
+    text: Is it possibly Astroloma humifusum?
+    ref: 560e6d81ed2a89401600019b
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2015-10-03T06:38:47Z'
+    text: No flowers that I could see
+    ref: 560f77f7ed2a89401600026a
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - grampians_np_plants

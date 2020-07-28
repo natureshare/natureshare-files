@@ -1,0 +1,42 @@
+id:
+  - Tortricopsis uncinella
+created_at: '2016-11-17T12:43:47Z'
+datetime: '2016-11-11T13:11:26+10:00'
+description: "A small, pale pink moth disturbed in daylight in dense muttonwood area of Churchill NP. \r\nAbout 15mm long.\r\nOnly one shot.\r\nWingia subgroup 9... "
+elevation: 85.7
+latitude: -37.948801
+location_name: 'Lysterfield South VIC 3156, Australia'
+longitude: 145.249823
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-11-18T00:05:17Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-11-11T13:11:26Z'
+    height: 1200
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/582c524ced2a89b3fe0001db.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/582c524ced2a89b3fe0001db.JPG'
+tags:
+  - moth
+comments:
+  - created_at: '2016-11-17T22:07:46Z'
+    text: By the shape of the wings it appears to be in the Tortricopsis genus
+    ref: 582e2a32ed2a897480004302
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 582e2a32ed2a897480004302
+    created_at: '2016-11-17T23:48:07Z'
+    text: Thanks Cathy. I see what you mean. I might find another today with any luck.
+    ref: 582e41b7ed2a89de570002c7
+    name: Mark Ridgway
+    username: argybee
+  - replying_to: 582e41b7ed2a89de570002c7
+    created_at: '2016-11-18T00:03:35Z'
+    text: Looks like it has to be T uncinella
+    ref: 582e4557ed2a89748000433c
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_lepidoptera

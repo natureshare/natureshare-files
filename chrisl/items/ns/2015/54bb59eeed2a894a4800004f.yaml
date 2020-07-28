@@ -1,0 +1,33 @@
+id:
+  - Leptospermum obovatum
+created_at: '2015-01-18T06:59:58Z'
+datetime: '2014-11-29T11:41:34+10:00'
+latitude: -36.855065
+longitude: 142.482081
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-01-18T07:02:18Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-11-29T11:41:34Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54bb59eeed2a894a4800004e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54bb59eeed2a894a4800004e.jpg'
+tags:
+  - fruit
+comments:
+  - created_at: '2015-01-18T12:52:25Z'
+    text: 'Re the common name, are the plants on a creekline?'
+    ref: 54bbac89ed2a894a4800006e
+    name: Russell Best
+    username: russell
+  - replying_to: 54bbac89ed2a894a4800006e
+    created_at: '2015-01-18T15:23:38Z'
+    text: 'HI Russell. Yes, largely fringing the Mount William Creek. At first, appeared like Kunzea, but flowering plants and closer inspection helped with the ID.'
+    ref: 54bbcffaed2a894a48000076
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - 401_fulbrooks_road_dadswells_bridge_vic_plants

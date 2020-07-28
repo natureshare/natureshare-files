@@ -1,0 +1,30 @@
+id:
+  - name: Australomimetus spp.
+created_at: '2011-05-18T16:38:52Z'
+datetime: '2007-05-07T20:45:00+10:00'
+description: A species of Pirate Spider.
+latitude: -37.430909
+longitude: 144.654689
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2011-05-18T16:53:01Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2007-05-07T20:45:00Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ee35eb12984011aec.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011aec.jpg'
+  - datetime: '2007-05-07T20:45:58Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ee35eb12984011aed.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011aed.jpg'
+  - datetime: '2007-05-07T20:48:38Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ee35eb12984011aee.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011aee.jpg'
+comments:
+  - created_at: '2017-05-07T00:01:11Z'
+    text: These are way less common than I thought!
+    ref: 590e63c7ed2a893d8c0024ec
+    name: Robert Whyte
+    username: robertwhyte
+collections:
+  - spiders_of_riddells_creek

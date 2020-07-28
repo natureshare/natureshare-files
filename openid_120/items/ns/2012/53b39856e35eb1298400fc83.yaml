@@ -1,0 +1,33 @@
+id:
+  - name: Pterostylis longifolia s.l.
+    by: chrisl
+created_at: '2012-12-18T12:14:55Z'
+datetime: '2012-09-30T17:40:46+10:00'
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-01-12T06:33:56Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-09-30T17:40:46Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39865e35eb129840136e2.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb129840136e2.jpg'
+  - datetime: '2012-09-30T17:41:21Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39865e35eb129840136e3.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb129840136e3.jpg'
+comments:
+  - created_at: '2012-12-18T19:32:41Z'
+    text: Perhaps an old Pterostylis melagramma.
+    ref: 53b3984be35eb1298400da4d
+  - created_at: '2015-01-12T06:24:47Z'
+    text: 'Difficult to separate from Pterostylis smaragdyna from this photo, but possible species given locality and date.'
+    ref: 54b368afed2a8995c7000013
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2015-01-12T06:26:42Z'
+    text: 'In order to assign a name, safe approach is to use Pterostylis longifolia s.l.'
+    ref: 54b36922ed2a8995c7000016
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - christmas_hills_nillumbik

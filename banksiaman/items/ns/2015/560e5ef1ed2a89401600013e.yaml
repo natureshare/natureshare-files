@@ -1,0 +1,31 @@
+id:
+  - name: Leptomeria aphylla
+    by: chrisl
+created_at: '2015-10-02T10:39:45Z'
+datetime: '2015-09-18T14:56:47+10:00'
+latitude: -37.423563
+longitude: 142.444755
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-10-02T10:56:24Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-09-18T14:56:47Z'
+    height: 6000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560e5f37ed2a890d950003b9.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560e5f37ed2a890d950003b9.JPG'
+  - datetime: '2015-09-18T14:56:32Z'
+    height: 4729
+    width: 3934
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560e600fed2a890d950003ba.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560e600fed2a890d950003ba.jpg'
+comments:
+  - created_at: '2015-10-02T11:00:19Z'
+    text: 'Thanks Chris, this is new to me'
+    ref: 560e63c3ed2a89401600015e
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - grampians_np_plants

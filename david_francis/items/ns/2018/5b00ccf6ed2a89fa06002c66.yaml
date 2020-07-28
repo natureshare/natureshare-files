@@ -1,0 +1,32 @@
+id:
+  - Ninox strenua
+created_at: '2018-05-20T01:22:31Z'
+datetime: '2018-05-19T10:42:13+10:00'
+description: Powerful Owl with prey (Corella sp.)
+latitude: -37.107053
+longitude: 144.060883
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-05-21T08:10:16Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-05-19T10:42:13Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b00ccfaed2a89e822000008.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b00ccfaed2a89e822000008.jpg'
+tags:
+  - predation
+comments:
+  - created_at: '2018-05-20T01:21:02Z'
+    text: Location precision +- 3 km
+    ref: 5b00cd7eed2a89249e000032
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-05-20T22:56:33Z'
+    text: great pic David
+    ref: 5b01fd21ed2a89fa0600310b
+    name: Mark Williams
+    username: markwilliams

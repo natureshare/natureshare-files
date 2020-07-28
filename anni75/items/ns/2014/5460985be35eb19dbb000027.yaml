@@ -1,0 +1,40 @@
+id:
+  - Lomandra spp.
+created_at: '2014-11-10T10:50:03Z'
+datetime: '2014-10-26T16:33:34+10:00'
+elevation: 491.1
+latitude: -37.371818
+location_name: 'Victoria 3762, Australia'
+longitude: 144.962783
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-11-10T12:05:02Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-26T16:33:34Z'
+    height: 1936
+    width: 2592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5460985ae35eb19dbb000026.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5460985ae35eb19dbb000026.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2014-11-10T11:17:59Z'
+    text: I think this is probably L. filiformis coriacae?
+    ref: 54609ee7e35eb1b31700007b
+    name: Russell Best
+    username: russell
+  - created_at: '2014-11-12T09:32:51Z'
+    text: Still thinking about this one. How tall was the plant? Do you have a pic of the whole plant and a pic of the leaf tips?
+    ref: 54632943e35eb194f500000a
+    name: Russell Best
+    username: russell
+  - replying_to: 54632943e35eb194f500000a
+    created_at: '2014-11-12T13:23:55Z'
+    text: 'I have double checked my photos Russell, but I don''t have anything with any better detail. It''s not far from home - I will try to get back there this weekend for another look. '
+    ref: 54635f6be35eb194f5000024
+    name: Annemaree Docking
+    username: anni75
+collections:
+  - poulters_lane_kilmore

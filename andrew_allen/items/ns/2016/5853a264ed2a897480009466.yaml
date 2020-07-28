@@ -1,0 +1,55 @@
+id:
+  - name: Heteromicta pachytera
+    by: koolah
+created_at: '2016-12-16T08:15:49Z'
+datetime: '2016-12-15T20:00:00+10:00'
+description: Unidentified moth seen scarmbling along the ground
+latitude: -37.702224
+longitude: 144.791913
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-12-16T09:37:54Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 1912
+    width: 2867
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5853a26bed2a89b3fe00025e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5853a26bed2a89b3fe00025e.jpg'
+  - height: 2127
+    width: 3191
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5853b593ed2a892daf000283.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5853b593ed2a892daf000283.jpg'
+comments:
+  - created_at: '2016-12-16T08:34:20Z'
+    text: This is a beautiful image and will be a challenge
+    ref: 5853a70ced2a897480009477
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5853a70ced2a897480009477
+    created_at: '2016-12-16T09:38:37Z'
+    text: 'I''ve added a side view, if that helps at all. It was about 2cm long'
+    ref: 5853b61ded2a897480009510
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 5853a70ced2a897480009477
+    created_at: '2016-12-27T01:56:43Z'
+    text: Any thoughts on this one Cathy?
+    ref: 5861ca5bed2a89748000b457
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 5861ca5bed2a89748000b457
+    created_at: '2016-12-27T02:41:20Z'
+    text: Still struggling - am going to seek help from some 'experts'
+    ref: 5861d4d0ed2a89748000b467
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2017-01-02T04:21:50Z'
+    text: <em>Heteromicta pachytera</em> species id suggested
+    ref: 5869d55eed2a89748000c393
+    name: Cathy Powers
+    username: koolah
+collections:
+  - moths_of_metropolitan_melbourne

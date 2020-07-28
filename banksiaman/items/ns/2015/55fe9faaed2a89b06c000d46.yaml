@@ -1,0 +1,44 @@
+id:
+  - name: Erodium spp.
+    by: russell
+created_at: '2015-09-20T11:59:38Z'
+datetime: '2015-09-13T13:51:58+10:00'
+latitude: -37.884823
+longitude: 142.810715
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-09-20T14:38:47Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-09-13T13:51:58Z'
+    height: 1532
+    width: 1462
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55fe9fb9ed2a890d950001f3.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55fe9fb9ed2a890d950001f3.JPG'
+  - datetime: '2015-09-13T13:52:13Z'
+    height: 3990
+    width: 4504
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55fe9fd1ed2a890d950001f4.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55fe9fd1ed2a890d950001f4.JPG'
+  - datetime: '2015-09-13T13:52:43Z'
+    height: 4692
+    width: 3417
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55fe9fe4ed2a890d950001f5.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55fe9fe4ed2a890d950001f5.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2015-09-21T02:08:58Z'
+    text: Thanks Russell
+    ref: 55ff66baed2a89b06c000da5
+    name: Kevin Sparrow
+    username: banksiaman
+  - created_at: '2015-09-21T06:20:54Z'
+    text: 'Difficult to distringuish Erodium botrys from Erodium brachycarpum, but based on location and apparent long length (>8.5cm) of awns, quite possibly E. botrys. Inspection of pits of mericarp will help to confirm (hairy vs glabrous).'
+    ref: 55ffa1c6ed2a89b06c000df8
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - victorian_volcanic_plains_native_plants

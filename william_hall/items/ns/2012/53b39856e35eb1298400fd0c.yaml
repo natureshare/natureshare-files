@@ -1,0 +1,40 @@
+id:
+  - name: Strepera versicolor
+created_at: '2012-12-25T12:49:28Z'
+datetime: '2012-12-25T12:35:07+10:00'
+description: adult + young
+latitude: -37.445833
+longitude: 144.684722
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2012-12-25T14:31:48Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-12-25T12:35:07Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39866e35eb129840137ba.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb129840137ba.jpg'
+  - datetime: '2012-12-25T12:35:07Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39866e35eb129840137bb.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb129840137bb.jpg'
+  - datetime: '2012-12-25T12:35:07Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39866e35eb129840137bc.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb129840137bc.jpg'
+tags:
+  - adult
+  - fledgling
+comments:
+  - created_at: '2012-12-25T14:24:34Z'
+    text: 'Parent was first observed feeding on small whole plums in "wild" (i.e., rootstock suckers) plum tree. Young was waiting on ground. The birds then moved into a Eucalyptus thicket, where "baby" was heard to beg using a feed-me, feed-me call similar to that used by ravens and magpies. When examined with binoculars, the baby had a clearly visible pink patch on the base of the lower bill, very similar to that of a baby raven. '
+    ref: 53b3984be35eb1298400da54
+  - created_at: '2012-12-25T14:39:36Z'
+    text: 'In the large picture, the fledgling is sitting on the tree branch, the adult fossicking on the ground.'
+    ref: 53b3984be35eb1298400da56
+  - created_at: '2012-12-25T20:08:28Z'
+    text: I've seen more this year than any other previously. But I've never seen young. Their call is also very distinctive.
+    ref: 53b3984be35eb1298400da57
+  - created_at: '2012-12-25T14:37:09Z'
+    text: Adult's eyes were bright yellow orange. Young's eyes seemed to be dark grey.
+    ref: 53b3984be35eb1298400da55
+collections:
+  - birds_of_riddells_creek

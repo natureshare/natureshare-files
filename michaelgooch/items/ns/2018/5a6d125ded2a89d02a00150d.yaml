@@ -1,0 +1,43 @@
+id:
+  - Amphibolurus muricatus
+created_at: '2018-01-28T00:02:42Z'
+datetime: '2018-01-14T11:09:13+10:00'
+elevation: 345.1
+latitude: -37.29053
+location_name: 'Clunes VIC 3370, Australia'
+longitude: 143.753315
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-01-30T05:37:55Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-01-14T11:09:13Z'
+    height: 1667
+    width: 2500
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a6d1264ed2a8966a0000025.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a6d1264ed2a8966a0000025.jpg'
+  - datetime: '2018-01-14T11:08:08Z'
+    height: 1667
+    width: 2500
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a6d127ded2a895fa2000033.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a6d127ded2a895fa2000033.jpg'
+comments:
+  - created_at: '2018-01-28T00:01:01Z'
+    text: I'm not sure if this is just a standard Jacky Lizard? Approx 20cm in length.
+    ref: 5a6d12bded2a89d02a001518
+    name: Michael Gooch
+    username: michaelgooch
+  - created_at: '2018-01-28T09:03:41Z'
+    text: 'Hi Michael, that is a Jacky Lizard. James'
+    ref: 5a6d91eded2a895eab00001b
+    name: James Booth
+    username: jamesbooth
+  - replying_to: 5a6d91eded2a895eab00001b
+    created_at: '2018-01-30T05:38:28Z'
+    text: 'Much appreciated, thank you James!'
+    ref: 5a7004d4ed2a890fb3000008
+    name: Michael Gooch
+    username: michaelgooch
+collections:
+  - clunes_finchesgully_flora_and_fauna

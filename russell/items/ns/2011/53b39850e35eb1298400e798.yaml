@@ -1,0 +1,36 @@
+id:
+  - name: Australomisidia spp.
+    by: david_francis
+created_at: '2011-05-20T20:11:49Z'
+datetime: '2008-11-06T12:50:34+10:00'
+description: Tiny spider on a peg on the clothes line.
+latitude: -37.430757
+longitude: 144.654585
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2017-05-07T02:35:56Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2008-11-06T12:50:34Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ee35eb12984011b2f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b2f.jpg'
+  - datetime: '2008-11-06T12:50:42Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ee35eb12984011b30.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b30.jpg'
+  - datetime: '2008-11-06T12:50:16Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ee35eb12984011b31.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b31.jpg'
+comments:
+  - created_at: '2017-05-06T23:53:30Z'
+    text: 'Thomisidae Australomisidia sp. '
+    ref: 590e61faed2a893d8c0024d7
+    name: Robert Whyte
+    username: robertwhyte
+  - created_at: '2017-05-07T02:36:09Z'
+    text: id by RW - thanks
+    ref: 590e8819ed2a8901c0000001
+    name: David Francis
+    username: david_francis
+collections:
+  - spiders_of_riddells_creek

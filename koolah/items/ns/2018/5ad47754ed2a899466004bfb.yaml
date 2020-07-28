@@ -1,0 +1,30 @@
+id:
+  - Glyphipterix perimetalla
+created_at: '2018-04-16T10:15:55Z'
+datetime: '2018-04-08T21:32:13+10:00'
+description: Second image shows some of the abdomen
+latitude: -38.405782
+longitude: 144.068174
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-04-20T12:46:42Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-04-08T21:32:13Z'
+    height: 1566
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ad47759ed2a89abdd000093.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ad47759ed2a89abdd000093.jpg'
+  - datetime: '2018-04-08T21:32:04Z'
+    height: 1381
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ad47786ed2a89abdd000094.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ad47786ed2a89abdd000094.jpg'
+tags:
+  - moth
+  - moth-small
+collections:
+  - otway_ranges_-_moths

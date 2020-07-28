@@ -1,0 +1,39 @@
+id:
+  - Philomachus pugnax
+created_at: '2015-11-01T09:14:14Z'
+datetime: '2015-11-01T16:22:09+10:00'
+description: A highly unusual sighting of a male Ruff exiting full breeding plumage.
+elevation: 4
+latitude: -37.992561
+location_name: 'Cocoroc VIC, Australia'
+longitude: 144.617982
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2015-11-01T09:14:14Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-11-01T16:22:09Z'
+    height: 1428
+    width: 2142
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5635d59bed2a899c6300009e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5635d59bed2a899c6300009e.jpg'
+  - datetime: '2015-11-01T16:48:24Z'
+    height: 1943
+    width: 2914
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5635d5a8ed2a899c6300009f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5635d5a8ed2a899c6300009f.jpg'
+comments:
+  - created_at: '2015-11-13T10:33:17Z'
+    text: Great catch Michael - we went to look for it but no sign!
+    ref: 5645bc6ded2a89e56e000937
+    name: Chris Clarke
+    username: cclarke
+  - replying_to: 5645bc6ded2a89e56e000937
+    created_at: '2015-12-06T00:00:55Z'
+    text: "It was pretty hard to find - took a while :)\r\n"
+    ref: 56637ab7ed2a89b5f50001a9
+    name: Michael Gooch
+    username: michaelgooch

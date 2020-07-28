@@ -1,0 +1,31 @@
+id:
+  - name: Verbascum virgatum
+    by: david_francis
+created_at: '2017-02-06T10:16:59Z'
+datetime: '2017-02-06T18:54:30+10:00'
+elevation: 270.5
+latitude: -37.526797
+location_name: 'Sunbury VIC 3429, Australia'
+longitude: 144.769559
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-02-06T10:16:59Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-02-06T18:54:30Z'
+    height: 4608
+    width: 3456
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58984be1ed2a892daf0003ab.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58984be1ed2a892daf0003ab.JPG'
+  - datetime: '2017-02-06T18:54:36Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58984c57ed2a89b718000393.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58984c57ed2a89b718000393.JPG'
+comments:
+  - created_at: '2017-02-06T10:20:25Z'
+    text: <em>Verbascum virgatum</em> species id suggested
+    ref: 58984de9ed2a89d10f003199
+    name: David Francis
+    username: david_francis

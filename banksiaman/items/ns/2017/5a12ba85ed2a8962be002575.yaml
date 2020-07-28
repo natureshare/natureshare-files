@@ -1,0 +1,31 @@
+id:
+  - name: Centipeda cunninghamii
+    by: 249pbr
+created_at: '2017-11-20T11:20:37Z'
+datetime: '2017-11-19T10:29:46+10:00'
+latitude: -38.319467
+longitude: 142.62723
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-11-20T11:21:11Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-11-19T10:29:46Z'
+    height: 2256
+    width: 1575
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a12ba9bed2a8939840006ec.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a12ba9bed2a8939840006ec.JPG'
+comments:
+  - created_at: '2017-11-20T11:50:39Z'
+    text: <em>Centipeda cunninghamii</em> species id suggested
+    ref: 5a12c18fed2a8960ed000059
+    name: John Walter
+    username: 249pbr
+  - created_at: '2017-11-21T08:23:10Z'
+    text: Thanks John
+    ref: 5a13e26eed2a8962be00292a
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - emeny_property_overlooking_hopkins_river_near_warrnambool

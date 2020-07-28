@@ -1,0 +1,34 @@
+id:
+  - Pterostylis truncata
+created_at: '2017-05-14T22:16:22Z'
+datetime: '2017-05-13T13:29:29+10:00'
+description: Near Bacchus Marsh.
+elevation: 102.2
+latitude: -37.676379
+location_name: 'Bacchus Marsh VIC 3340, Australia'
+longitude: 144.446321
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-05-16T10:04:43Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-05-13T13:29:29Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5918d687ed2a89e548000141.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5918d687ed2a89e548000141.jpg'
+comments:
+  - created_at: '2017-05-15T00:42:32Z'
+    text: "Great obs. \"This species is regarded as endangered in Victoria due to massive habitat loss and degradation.\"(VicFlora)\r\n\r\n"
+    ref: 5918f978ed2a893f78000004
+    name: David Francis
+    username: david_francis
+  - replying_to: 5918f978ed2a893f78000004
+    created_at: '2017-05-16T02:12:02Z'
+    text: Paul Phillip spotted the orchid clusters.
+    ref: 591a5ff2ed2a893e6b000c86
+    name: Thomas Nataprawira
+    username: tsnata

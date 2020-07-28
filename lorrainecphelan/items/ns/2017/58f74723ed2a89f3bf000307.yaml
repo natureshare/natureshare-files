@@ -1,0 +1,29 @@
+id:
+  - Astroloma humifusum
+created_at: '2017-04-19T11:20:00Z'
+datetime: '2017-04-19T14:33:47+10:00'
+elevation: 69.3
+latitude: -38.113498
+location_name: 'Homerton VIC 3304, Australia'
+longitude: 141.815041
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-02-26T07:57:59Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-04-19T14:33:47Z'
+    height: 1067
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58f7472ced2a891d6d0000f9.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58f7472ced2a891d6d0000f9.JPG'
+  - datetime: '2017-04-19T14:15:10Z'
+    height: 1067
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58f74763ed2a89e5480000f2.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58f74763ed2a89e5480000f2.JPG'
+collections:
+  - mt_eccles_np_plants
+  - homerton_and_milltown

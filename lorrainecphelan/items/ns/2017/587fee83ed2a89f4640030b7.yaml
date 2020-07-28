@@ -1,0 +1,39 @@
+id:
+  - name: Icerya purchasi
+    by: david_francis
+created_at: '2017-01-18T22:45:37Z'
+datetime: '2017-01-15T16:47:21+10:00'
+description: 'Scale insect, attended by ants, on Black Wattle.'
+elevation: 58.3
+latitude: -38.090203
+location_name: 'Heywood VIC 3304, Australia'
+longitude: 141.752804
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-01-18T22:45:37Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-01-15T16:47:21Z'
+    height: 800
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/587fee88ed2a89b718000307.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/587fee88ed2a89b718000307.JPG'
+comments:
+  - created_at: '2017-01-20T05:49:46Z'
+    text: 'Try http://www.bowerbird.org.au/sightings?query=Icerya%20purchasi (Cottony Cushion Scale)'
+    ref: 5881a4faed2a89650c000032
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-20T05:55:20Z'
+    text: <em>Icerya purchasi</em> species id suggested
+    ref: 5881a648ed2a89f464003320
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-20T05:56:22Z'
+    text: 'Also see http://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:e0cfc2d0-9496-4d6d-a185-f32020da5816#overview'
+    ref: 5881a686ed2a89f464003321
+    name: David Francis
+    username: david_francis
+collections:
+  - homerton_and_milltown_insects

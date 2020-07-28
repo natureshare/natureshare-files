@@ -1,0 +1,36 @@
+id:
+  - name: Petroica boodang
+    by: lconole
+created_at: '2018-04-22T09:40:04Z'
+datetime: '2018-04-21T10:17:40+10:00'
+description: A pair of robins.
+elevation: 19.7
+latitude: -37.784277
+location_name: 'Parkville VIC 3052, Australia'
+longitude: 144.944247
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-04-22T09:40:17Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-04-21T10:17:40Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5adc57c6ed2a897fc8000086.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5adc57c6ed2a897fc8000086.jpg'
+  - datetime: '2018-04-21T10:18:34Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5adc57c8ed2a8929e70000ba.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5adc57c8ed2a8929e70000ba.jpg'
+comments:
+  - created_at: '2018-04-23T00:02:43Z'
+    text: <em>Petroica boodang</em> species id suggested
+    ref: 5add22a3ed2a899466006b1b
+    name: Lawrie Conole
+    username: lconole
+collections:
+  - royal_park_parkville

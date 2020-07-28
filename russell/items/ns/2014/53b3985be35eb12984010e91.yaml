@@ -1,0 +1,27 @@
+id:
+  - name: Sprengelia incarnata
+created_at: '2014-06-04T20:38:18Z'
+datetime: '2010-09-30T14:27:37+10:00'
+description: Victoria Valley.
+latitude: -37.435761
+longitude: 142.458975
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-07-02T07:55:57Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2010-09-30T14:27:37Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986ce35eb129840153d1.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb129840153d1.jpg'
+  - datetime: '2010-09-30T14:26:30Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986ce35eb129840153d2.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb129840153d2.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2014-06-08T20:57:22Z'
+    text: Location approximate (to a few 100m).
+    ref: 53b3984de35eb1298400dd53
+collections:
+  - grampians_np_plants

@@ -1,0 +1,40 @@
+id:
+  - name: Doratifera oxleyi
+    by: koolah
+created_at: '2017-03-28T09:39:48Z'
+datetime: '2017-03-27T08:48:20+10:00'
+description: Cup moth (Doratifera pinguis?) approx. 15mm
+elevation: 270.4
+latitude: -36.783333
+location_name: 'Kangaroo Flat VIC 3555, Australia'
+longitude: 144.233333
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-03-28T10:22:06Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-03-27T08:48:20Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58da2e0ced2a89441000009f.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58da2e0ced2a89441000009f.jpeg'
+  - datetime: '2017-03-27T08:48:11Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58da2e1bed2a8944100000a0.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58da2e1bed2a8944100000a0.jpeg'
+tags:
+  - moth
+  - moth-hairy
+  - moth-pale
+comments:
+  - created_at: '2017-03-28T11:46:17Z'
+    text: <em>Doratifera oxleyi</em> species id suggested
+    ref: 58da4d09ed2a896341001d78
+    name: Cathy Powers
+    username: koolah
+collections:
+  - moths_of_central_victoria

@@ -1,0 +1,33 @@
+id:
+  - Rhipidura albiscapa
+created_at: '2016-03-05T21:15:12Z'
+datetime: '2016-03-05T10:16:21+10:00'
+description: Enjoying what little water is around.
+latitude: -37.430889
+longitude: 144.654572
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2016-03-05T21:16:14Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-03-05T10:16:21Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56db4be6ed2a890be70000ca.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56db4be6ed2a890be70000ca.jpeg'
+  - datetime: '2016-03-05T10:16:28Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56db4bf4ed2a890be70000cb.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56db4bf4ed2a890be70000cb.jpeg'
+  - datetime: '2016-03-05T10:16:08Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56db4c02ed2a890be70000cc.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56db4c02ed2a890be70000cc.jpeg'
+collections:
+  - birds_of_410_gap_road_riddells_creek
+  - birds_of_riddells_creek

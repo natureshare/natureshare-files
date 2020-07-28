@@ -1,0 +1,35 @@
+id:
+  - Chaetophyes compacta
+created_at: '2016-04-22T11:55:18Z'
+datetime: '2009-01-09T09:48:00+10:00'
+description: 'Froghopper, Chaetophyes compacta.'
+elevation: 105.3
+latitude: -38.037433
+location_name: 'Milltown VIC 3304, Australia'
+longitude: 141.669569
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-04-23T02:04:34Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 700
+    width: 932
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/571a0f81ed2a89211c0001d3.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/571a0f81ed2a89211c0001d3.jpg'
+comments:
+  - created_at: '2016-04-22T14:24:10Z'
+    text: 'Chaetophyes compacta now added to database, Loraine. Lovely picture as usual'
+    ref: 571a340aed2a892b340000c1
+    name: David Francis
+    username: david_francis
+  - replying_to: 571a340aed2a892b340000c1
+    created_at: '2016-04-23T02:17:49Z'
+    text: Thanks David. And thanks for your complimentary words - it's always nice when the camera settings are just right.
+    ref: 571adb4ded2a892b34000112
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - homerton_and_milltown_insects

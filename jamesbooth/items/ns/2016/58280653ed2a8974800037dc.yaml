@@ -1,0 +1,37 @@
+created_at: '2016-11-13T07:19:15Z'
+datetime: '2016-11-07T09:43:49+10:00'
+elevation: 182
+latitude: -36.457434
+location_name: 'Glenalbyn VIC 3517, Australia'
+longitude: 143.775359
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-11-14T02:38:47Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-11-07T09:43:49Z'
+    height: 3000
+    width: 2246
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58280627ed2a89b7180001b7.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58280627ed2a89b7180001b7.JPG'
+  - datetime: '2016-11-07T09:43:34Z'
+    height: 4000
+    width: 3000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5828066eed2a89b3fe0001d1.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5828066eed2a89b3fe0001d1.JPG'
+comments:
+  - created_at: '2016-11-15T10:01:59Z'
+    text: 'My best guess is Schoenus sp., possibly Schoenus apogon.'
+    ref: 582add17ed2a897480003dba
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-08-01T07:25:14Z'
+    text: 'Possibly Isolepsis congrua Slender Club Sedge, which is an indicator species for the spring soaks found across Mt Korong'
+    ref: 59802cdaed2a89aae5002a9b
+    name: James Nelsson
+    username: yames
+collections:
+  - montana
+  - korong_ridge_conservation_estate_-_flora

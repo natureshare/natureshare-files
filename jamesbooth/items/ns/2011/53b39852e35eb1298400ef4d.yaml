@@ -1,0 +1,45 @@
+id:
+  - name: Jotus spp.
+    by: david_francis
+created_at: '2011-11-13T17:48:00Z'
+datetime: '2011-11-13T11:18:24+10:00'
+latitude: -37.459705
+longitude: 144.672255
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2017-05-08T03:22:58Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-11-13T11:18:24Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39860e35eb1298401246c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb1298401246c.jpg'
+  - datetime: '2011-11-13T11:17:43Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39860e35eb1298401246d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb1298401246d.jpg'
+tags:
+  - female
+comments:
+  - created_at: '2015-02-22T14:06:00Z'
+    text: ID to genus by Robert Whyte.
+    ref: 54e9e248ed2a89d9900006eb
+    name: Russell Best
+    username: russell
+  - created_at: '2015-02-22T14:37:36Z'
+    text: 'Robert added that this might be the female of http://natureshare.org.au/observations/53b39850e35eb1298400e80c '
+    ref: 54e9e9b0ed2a8987b70005fc
+    name: Russell Best
+    username: russell
+  - created_at: '2017-05-06T23:27:40Z'
+    text: 'This might be a mistake, it''s not Menemerus, it looks Like a female Jotus. '
+    ref: 590e5beced2a893d8c0024b5
+    name: Robert Whyte
+    username: robertwhyte
+  - replying_to: 590e5beced2a893d8c0024b5
+    created_at: '2017-05-08T03:23:44Z'
+    text: Corrected to female Jotus sp.
+    ref: 590fe4c0ed2a893d8c0028f1
+    name: David Francis
+    username: david_francis
+collections:
+  - spiders_of_riddells_creek

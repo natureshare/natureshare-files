@@ -1,0 +1,59 @@
+id:
+  - Andrenosoma queenslandi
+created_at: '2015-03-06T11:27:30Z'
+datetime: '2015-02-17T11:11:00+10:00'
+description: "This black robber fly was about 15 mm long. The thorax was flat along the midline and symmetrically lumpy on either side. Eyes were large and facing upwards. Stiff white bristles seen between the eyes and on the face. Legs also had stiff white setae. Wings were dark and folded over the abdomen which had white spots on the lateral aspects of some of the tergites.\r\nSpotted flying around dried logs ( Langwarrin Flora & Fauna Reserve).\r\nSynonym: Laphria maura \r\n"
+elevation: 97
+latitude: -38.171257
+location_name: 'Langwarrin VIC 3910, Australia'
+longitude: 145.176826
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2015-03-07T01:08:34Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 512
+    width: 512
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54f98f20ed2a89097e00055a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f98f20ed2a89097e00055a.jpg'
+  - datetime: '2015-02-17T14:47:58Z'
+    height: 1200
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54f98f20ed2a89097e00055b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f98f20ed2a89097e00055b.jpg'
+  - height: 512
+    width: 512
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54f98f20ed2a89097e00055c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f98f20ed2a89097e00055c.jpg'
+comments:
+  - created_at: '2015-03-06T11:53:39Z'
+    text: Hi Leuba. The name has now been added. Cheers. Chris.
+    ref: 54f99543ed2a89097e000570
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2015-03-07T00:35:25Z'
+    text: "Was this identified from brisbaneinsects?\r\nhttp://www.brisbaneinsects.com/brisbane_robberflies/BlackLeggedBlackRobberFly.htm"
+    ref: 54fa47cded2a89097e000632
+    name: David Francis
+    username: david_francis
+  - replying_to: 54fa47cded2a89097e000632
+    created_at: '2015-03-07T00:41:37Z'
+    text: Yes David. If it is incorrect please let me know. Thanks.
+    ref: 54fa4941ed2a89097e000644
+    name: Leuba Ridgway
+    username: leuba
+  - replying_to: 54fa4941ed2a89097e000644
+    created_at: '2015-03-07T00:51:49Z'
+    text: "Leuba, your observation is a perfect match to the photos on brisbaneinsects which I always accept as being correct.\r\nGreat record and photos, by the way - first on ALA for Australia!"
+    ref: 54fa4ba5ed2a89097e00064f
+    name: David Francis
+    username: david_francis
+  - replying_to: 54fa47cded2a89097e000632
+    created_at: '2015-03-07T01:07:16Z'
+    text: Thank you David. Andrenosoma queenslandi seems to be the accepted name on the Australian Faunal Directory which lists  Laphria maura ( on Brisb. insects) as a synonym. I agree Mr Chew does a great job !
+    ref: 54fa4f44ed2a89097e000657
+    name: Leuba Ridgway
+    username: leuba
+collections:
+  - langwarrin_flora_and_fauna_reserve

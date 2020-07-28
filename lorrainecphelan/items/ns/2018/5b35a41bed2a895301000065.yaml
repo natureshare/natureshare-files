@@ -1,0 +1,44 @@
+id:
+  - Eucalyptus obliqua
+created_at: '2018-06-29T03:18:11Z'
+datetime: '2018-06-28T16:31:47+10:00'
+description: 'Four photos showing form, fruit, bud, leaf and flower.'
+elevation: 22.4
+latitude: -38.404872
+location_name: 'Anglesea VIC 3230, Australia'
+longitude: 144.204318
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-06-29T03:18:20Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-06-28T16:31:47Z'
+    height: 1201
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b35a43bed2a89c6aa000027.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b35a43bed2a89c6aa000027.jpg'
+  - datetime: '2018-06-28T16:38:06Z'
+    height: 1200
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b35a41eed2a89280700002c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b35a41eed2a89280700002c.jpg'
+  - datetime: '2018-06-28T16:25:54Z'
+    height: 1201
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b35a42ced2a89c6aa000026.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b35a42ced2a89c6aa000026.jpg'
+  - datetime: '2018-06-28T16:34:04Z'
+    height: 1201
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b35a446ed2a89c6aa000028.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b35a446ed2a89c6aa000028.jpg'
+tags:
+  - buds
+  - flower-creamy-white
+  - fruit-capsules
+  - leaf
+collections:
+  - anglesea_heath_flora_and_fauna

@@ -1,0 +1,46 @@
+id:
+  - Exocarpos cupressiformis
+created_at: '2017-05-18T11:00:39Z'
+datetime: '2017-05-13T15:00:24+10:00'
+elevation: 119
+latitude: -37.954851
+location_name: 'Little River VIC 3211, Australia'
+longitude: 144.41309
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-05-18T11:00:39Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-05-13T14:59:57Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/591d7cf1ed2a89a81f00013a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/591d7cf1ed2a89a81f00013a.jpg'
+  - datetime: '2017-05-13T15:00:24Z'
+    height: 2400
+    width: 1800
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/591d7ceaed2a891d6d000154.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/591d7ceaed2a891d6d000154.jpg'
+comments:
+  - created_at: '2018-09-11T05:26:11Z'
+    text: What time do they get there ‘fruit’?
+    ref: 5b9751f3ed2a89cce3003801
+    name: Ethan Travis
+    username: westernplainsgardener
+  - replying_to: 5b9751f3ed2a89cce3003801
+    created_at: '2018-10-08T21:05:15Z'
+    text: Flowering/fruiting season is spring-summer.
+    ref: 5bbbc68bed2a89c10e0022a6
+    name: Thomas Nataprawira
+    username: tsnata
+  - replying_to: 5bbbc68bed2a89c10e0022a6
+    created_at: '2018-10-11T05:32:06Z'
+    text: Thanks went to the you yang's yesterday and there were some fruit .
+    ref: 5bbee056ed2a89c10e00313e
+    name: Ethan Travis
+    username: westernplainsgardener
+collections:
+  - flora_of_the_you_yangs

@@ -1,0 +1,55 @@
+id:
+  - Ecnolagria grandis
+created_at: '2016-12-11T05:01:53Z'
+datetime: '2016-12-11T08:00:00+10:00'
+elevation: 60.2
+latitude: -37.714295
+location_name: 'Chirnside Park VIC 3116, Australia'
+longitude: 145.296216
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-02-18T11:12:10Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 1858
+    width: 2787
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584cdd3bed2a89d73e00022c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584cdd3bed2a89d73e00022c.jpg'
+  - height: 2161
+    width: 3242
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584cdd3ced2a892daf000262.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584cdd3ced2a892daf000262.jpg'
+  - height: 1757
+    width: 2635
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584cdd3eed2a89b718000238.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584cdd3eed2a89b718000238.jpg'
+  - height: 1780
+    width: 2671
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584cdd3fed2a89b3fe000243.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584cdd3fed2a89b3fe000243.jpg'
+comments:
+  - created_at: '2016-12-11T05:22:57Z'
+    text: 'Suggest Honeybrown/Darkling beetle, Ecnolagria grandis'
+    ref: 584ce2b1ed2a8974800081f5
+    name: David Francis
+    username: david_francis
+  - replying_to: 584ce2b1ed2a8974800081f5
+    created_at: '2016-12-11T05:29:57Z'
+    text: Thanks David!
+    ref: 584ce455ed2a89748000820e
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 584ce455ed2a89748000820e
+    created_at: '2016-12-11T05:32:49Z'
+    text: Brilliant photos!
+    ref: 584ce501ed2a89748000821a
+    name: David Francis
+    username: david_francis
+  - replying_to: 584ce501ed2a89748000821a
+    created_at: '2016-12-11T05:48:52Z'
+    text: 'Thanks David. I had a good day with the macro lens at Heritage Wetlands, Wonga Park. '
+    ref: 584ce8c4ed2a897480008243
+    name: Andrew Allen
+    username: andrew_allen

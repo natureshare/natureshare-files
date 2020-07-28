@@ -1,0 +1,29 @@
+id:
+  - name: Correa reflexa var. reflexa
+    by: david_francis
+created_at: '2018-10-15T10:30:17Z'
+datetime: '2018-09-21T11:53:20+10:00'
+description: Location approximate. Enfield State park.
+elevation: 429
+latitude: -37.770356
+location_name: 'Enfield VIC 3352, Australia'
+longitude: 143.777203
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-10-15T10:30:23Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-09-21T11:53:20Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bc46beded2a89c6aa000107.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bc46beded2a89c6aa000107.jpg'
+comments:
+  - created_at: '2018-10-16T09:15:29Z'
+    text: <em>Correa reflexa var. reflexa</em> species id suggested
+    ref: 5bc5ac31ed2a89c10e00506d
+    name: David Francis
+    username: david_francis
+collections:
+  - victorian_volcanic_plains_native_plants

@@ -1,0 +1,40 @@
+id:
+  - Olearia teretifolia
+created_at: '2017-10-09T10:51:11Z'
+datetime: '2017-10-03T10:52:46+10:00'
+description: 'Straggly plants up to 1 mtr '
+elevation: 210.7
+latitude: -36.625914
+location_name: 'Whipstick VIC 3556, Australia'
+longitude: 144.26146
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-10-09T11:21:28Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-03T10:52:46Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59db4fd7ed2a893984000451.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59db4fd7ed2a893984000451.JPG'
+  - datetime: '2017-10-03T10:53:03Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59db4fc1ed2a893984000450.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59db4fc1ed2a893984000450.JPG'
+tags:
+  - flowers-daisylike
+  - flowers-white
+  - leaves-small
+  - shrub-straggly
+comments:
+  - created_at: '2017-10-09T11:16:31Z'
+    text: 'Compare: https://natureshare.org.au/observations?species=Olearia+teretifolia'
+    ref: 59db5a8fed2a898156000019
+    name: David Francis
+    username: david_francis
+collections:
+  - whipstick_flora

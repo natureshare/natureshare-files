@@ -1,0 +1,35 @@
+id:
+  - name: Agaricus spp.
+    by: funkeytom
+created_at: '2017-04-28T07:19:38Z'
+datetime: '2017-04-28T11:07:17+10:00'
+description: 'Cluster of fungi growing under elm tree, in Kensington Bank.'
+elevation: 13.8
+latitude: -37.790434
+location_name: 'Kensington VIC 3031, Australia'
+longitude: 144.923466
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-05-18T14:23:03Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-04-28T11:07:17Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5902ea3fed2a89e548000110.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5902ea3fed2a89e548000110.JPG'
+  - datetime: '2017-04-28T11:07:41Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5902eb60ed2a891d6d000115.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5902eb60ed2a891d6d000115.jpg'
+  - datetime: '2017-04-28T11:07:22Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5902eb66ed2a89a81f000102.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5902eb66ed2a89a81f000102.jpg'
+collections:
+  - flemington_kensington_3031

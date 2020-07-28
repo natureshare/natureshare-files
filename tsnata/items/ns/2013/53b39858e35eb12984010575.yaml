@@ -1,0 +1,28 @@
+id:
+  - name: Discinella terrestris
+    by: argybee
+created_at: '2013-10-16T23:36:41Z'
+datetime: '2013-10-14T16:06:51+10:00'
+description: Discinella terrestris as per Mark Ridgway's comment on observation 10233. The name is not found in NatureShare.
+latitude: -38.683912
+longitude: 143.837836
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2016-06-13T08:59:15Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-10-14T16:06:51Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39869e35eb129840144c6.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb129840144c6.jpg'
+comments:
+  - created_at: '2013-10-17T10:31:46Z'
+    text: |-
+      Discinella terrestris
+
+      http://bie.ala.org.au/species/Discinella+terrestris#
+
+      (not in this taxonomy?)
+    ref: 53b3984ce35eb1298400db77
+collections:
+  - grey_river

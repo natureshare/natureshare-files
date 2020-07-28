@@ -1,0 +1,43 @@
+id:
+  - name: Stereum ostrea
+    by: david_francis
+created_at: '2017-03-09T02:31:57Z'
+datetime: '2016-06-12T14:26:00+10:00'
+elevation: 196.9
+latitude: -37.975851
+location_name: 'Mount Burnett VIC 3781, Australia'
+longitude: 145.484786
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: true
+updated_at: '2018-01-08T10:31:15Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-06-12T14:26:31Z'
+    height: 3264
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58c0bde9ed2a89441000004b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c0bde9ed2a89441000004b.JPG'
+tags:
+  - fungi
+comments:
+  - created_at: '2018-01-08T07:55:46Z'
+    text: <em>Trametes versicolor</em> species id suggested
+    ref: 5a532402ed2a89d22b000aec
+    name: Reiner Richter
+    username: ausdigi
+  - created_at: '2018-01-08T07:56:14Z'
+    text: <em>Stereum spp.</em> species id suggested
+    ref: 5a53241eed2a89d22b000aed
+    name: Reiner Richter
+    username: ausdigi
+  - created_at: '2018-01-08T07:56:26Z'
+    text: 'sorry, its Stereum ostrea (missing sp)'
+    ref: 5a53242aed2a89d22b000aee
+    name: Reiner Richter
+    username: ausdigi
+  - created_at: '2018-01-08T10:27:25Z'
+    text: 'Thanks for the id Reiner, Stereum ostrea (fungimap) added to database'
+    ref: 5a53478ded2a89d22b000ba2
+    name: David Francis
+    username: david_francis

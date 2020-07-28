@@ -1,0 +1,43 @@
+id:
+  - Actites megalocarpus
+created_at: '2015-04-12T13:48:35Z'
+datetime: '2015-04-12T11:34:08+10:00'
+latitude: -38.792648
+longitude: 143.624084
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-04-13T13:10:16Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-04-12T11:34:08Z'
+    height: 1604
+    width: 1188
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/552a77b2ed2a89c9c1000003.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/552a77b2ed2a89c9c1000003.jpg'
+  - datetime: '2015-04-12T11:35:07Z'
+    height: 1823
+    width: 1402
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/552a77b2ed2a89c9c1000004.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/552a77b2ed2a89c9c1000004.jpg'
+  - datetime: '2015-04-12T11:34:30Z'
+    height: 2705
+    width: 2032
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/552a77b2ed2a89c9c1000005.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/552a77b2ed2a89c9c1000005.jpg'
+  - datetime: '2015-04-11T13:02:17Z'
+    height: 3445
+    width: 2173
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/552bbffeed2a8961ed0001c8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/552bbffeed2a8961ed0001c8.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2015-04-12T13:58:15Z'
+    text: The geotag was 50m in the bush whereas the actual location was at the bush-beach interface. Hence the location is done manually rather than using the geotag.
+    ref: 552a79f7ed2a89c9c100000d
+    name: Russell Best
+    username: russell
+collections:
+  - great_otway_np_plants

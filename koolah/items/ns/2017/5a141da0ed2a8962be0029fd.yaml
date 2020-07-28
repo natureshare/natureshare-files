@@ -1,0 +1,32 @@
+id:
+  - Mallada tripunctatus
+created_at: '2017-11-21T12:39:22Z'
+datetime: '2017-11-17T21:45:42+10:00'
+description: Thanks to Ken Harris for ID.
+elevation: 262.2
+latitude: -37.806564
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.296978
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-11-22T01:47:15Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-11-17T21:45:42Z'
+    height: 1868
+    width: 3000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a141db3ed2a8939840006f2.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a141db3ed2a8939840006f2.jpg'
+  - datetime: '2017-11-17T21:40:16Z'
+    height: 1163
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a141e04ed2a8939840006f3.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a141e04ed2a8939840006f3.jpg'
+tags:
+  - insect
+  - lacewing-green
+collections:
+  - brisbane_ranges_insects

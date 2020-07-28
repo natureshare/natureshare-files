@@ -1,0 +1,45 @@
+id:
+  - Lichenostomus melanops
+created_at: '2015-12-24T05:55:40Z'
+datetime: '2007-06-24T11:33:01+10:00'
+elevation: 236.3
+latitude: -37.804817
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297748
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-12-24T05:55:40Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2007-06-24T11:33:01Z'
+    height: 1500
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/567b881eed2a898328000064.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/567b881eed2a898328000064.jpg'
+tags:
+  - bird
+  - black
+  - yellow
+  - yellow-ear-tuft
+comments:
+  - created_at: '2015-12-24T05:57:43Z'
+    text: Excellent photo. How did you get so close?
+    ref: 567b8957ed2a89d6d600047b
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 567b8957ed2a89d6d600047b
+    created_at: '2015-12-24T05:59:28Z'
+    text: I was just sitting near the Grevillea it landed in - waiting for anything and used my old camera which often took great images.  Only two images - the other one is blurry.
+    ref: 567b89c0ed2a89d6d600047d
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2015-12-24T21:32:48Z'
+    text: Such a beautiful bird.  Lovely photo.
+    ref: 567c6480ed2a89d6d6000499
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - brisbane_ranges_birds

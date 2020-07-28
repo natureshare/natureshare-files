@@ -1,0 +1,40 @@
+id:
+  - Heteronympha merope merope
+created_at: '2014-09-27T06:32:08Z'
+datetime: '2014-09-27T10:31:05+10:00'
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-09-27T08:45:39Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-27T10:31:05Z'
+    height: 1589
+    width: 2387
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/542659e7e35eb1cc74000171.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/542659e7e35eb1cc74000171.JPG'
+  - datetime: '2014-09-27T10:31:44Z'
+    height: 1483
+    width: 2215
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/542659e7e35eb1cc74000172.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/542659e7e35eb1cc74000172.JPG'
+tags:
+  - butterfly
+  - caterpillar
+comments:
+  - created_at: '2014-09-27T08:48:37Z'
+    text: Great find. Where did you find the caterpillar? The host plants are all grasses for this species.
+    ref: 542679e5e35eb1aeb30000e9
+    name: Russell Best
+    username: russell
+  - created_at: '2014-09-27T10:45:48Z'
+    text: 'This caterpillar was on our back doormat this morning.  I photographed it and was unsure if it was alive or not, then put it at the base of a bush.  An hour later I went and looked.  It was gone and when I lifted a piece of bark nearby, the caterpillar was underneath, so I would guess it is ready to pupate - definitely not dead.  The doormat where it was found is not far from the Microlaena stipoides lawn.'
+    ref: 5426955ce35eb1ffe700000a
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains
+  - butterflies_moths_seen_at_145_gibsons_road_cobains

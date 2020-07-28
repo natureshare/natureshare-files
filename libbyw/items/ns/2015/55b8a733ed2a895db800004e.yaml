@@ -1,0 +1,25 @@
+id:
+  - Trichosurus spp.
+created_at: '2015-07-29T10:13:07Z'
+datetime: '2015-03-18T22:01:34+10:00'
+latitude: -36.521837
+longitude: 145.715141
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-07-29T10:13:43Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-03-18T22:01:34Z'
+    height: 1280
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55b8a732ed2a895db800004d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55b8a732ed2a895db800004d.JPG'
+comments:
+  - created_at: '2017-03-29T22:37:00Z'
+    text: trichosurus vulpecula
+    ref: 58dc370ced2a8963410021ae
+    name: Lawrie Conole
+    username: lconole
+collections:
+  - thorpewood_n_w_pond

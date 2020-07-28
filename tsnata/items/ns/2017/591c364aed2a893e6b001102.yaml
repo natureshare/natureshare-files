@@ -1,0 +1,41 @@
+id:
+  - Correa reflexa
+created_at: '2017-05-17T11:42:42Z'
+datetime: '2017-05-13T10:52:37+10:00'
+elevation: 490.7
+latitude: -37.484274
+location_name: 'Bullengarook VIC 3437, Australia'
+longitude: 144.541359
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-05-19T10:35:57Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-05-13T10:52:37Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/591c3653ed2a89a81f000126.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/591c3653ed2a89a81f000126.jpg'
+comments:
+  - created_at: '2017-05-19T01:11:27Z'
+    text: 'Thomas the hairy leaves and flared corolla tips indicate C. reflexa, not glabra.'
+    ref: 591e463fed2a89928b000001
+    name: David Francis
+    username: david_francis
+  - replying_to: 591e463fed2a89928b000001
+    created_at: '2017-05-19T01:14:04Z'
+    text: 'Correa glabra not recorded in the Macedon, Gisborne, Lerderderg area.'
+    ref: 591e46dced2a893e6b001619
+    name: David Francis
+    username: david_francis
+  - replying_to: 591e463fed2a89928b000001
+    created_at: '2017-05-19T10:36:51Z'
+    text: Thanks David. I have changed the species.
+    ref: 591ecac3ed2a893e6b001836
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - hobbs_road_bushland_reserve

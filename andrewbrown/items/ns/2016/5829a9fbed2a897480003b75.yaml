@@ -1,0 +1,36 @@
+id:
+  - Chrysocephalum semipapposum
+created_at: '2016-11-14T12:20:29Z'
+datetime: '2016-11-13T07:57:57+10:00'
+elevation: 222.4
+latitude: -36.786777
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.375082
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-11-14T12:20:29Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-11-13T07:57:30Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5829aa24ed2a892daf0001f2.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5829aa24ed2a892daf0001f2.JPG'
+  - datetime: '2016-11-13T07:57:57Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5829a9faed2a89d73e0001bf.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5829a9faed2a89d73e0001bf.JPG'
+  - datetime: '2016-11-13T07:58:28Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5829aa0fed2a89d73e0001c0.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5829aa0fed2a89d73e0001c0.JPG'
+tags:
+  - flowers-yellow
+  - leaves-grey
+collections:
+  - junortoun_flora

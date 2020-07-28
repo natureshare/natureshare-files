@@ -1,0 +1,38 @@
+id:
+  - name: Pyrorchis nigricans
+    by: koolah
+created_at: '2015-09-30T09:26:35Z'
+datetime: '2015-09-18T12:28:20+10:00'
+latitude: -37.627585
+longitude: 142.330568
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-10-26T10:48:41Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-09-18T12:28:20Z'
+    height: 3197
+    width: 4695
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560bab07ed2a890d95000336.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560bab07ed2a890d95000336.JPG'
+tags:
+  - leaves
+comments:
+  - created_at: '2015-09-30T11:19:02Z'
+    text: 'Appear small, but likely Pyrorchis nigrican leaves. The reddened margins are indicative, among other features.'
+    ref: 560bc526ed2a894812000109
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2015-10-26T10:48:05Z'
+    text: I agree with Chris - P. nigrican leaves can be any size it seems.
+    ref: 562e04e5ed2a895c9500008a
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2015-10-27T00:51:38Z'
+    text: Thanks Guys
+    ref: 562eca9aed2a8980e700000c
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - grampians_walk_to_summit_of_mt_sturgeon_at_dunkeld

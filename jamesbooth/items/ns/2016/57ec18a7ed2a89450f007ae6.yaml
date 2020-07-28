@@ -1,0 +1,63 @@
+id:
+  - Hyalosperma praecox
+created_at: '2016-09-28T20:02:40Z'
+datetime: '2016-09-27T15:23:02+10:00'
+elevation: 192.4
+latitude: -36.455644
+location_name: 'Glenalbyn VIC 3517, Australia'
+longitude: 143.774115
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-03-08T01:37:16Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-27T15:23:02Z'
+    height: 3002
+    width: 2250
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57ec187fed2a89b7180000b7.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57ec187fed2a89b7180000b7.JPG'
+  - datetime: '2016-09-27T15:22:38Z'
+    height: 3082
+    width: 2315
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57ec18d7ed2a892daf0000ce.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57ec18d7ed2a892daf0000ce.JPG'
+  - datetime: '2016-09-27T15:25:59Z'
+    height: 3000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57ec194eed2a89b7180000b9.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57ec194eed2a89b7180000b9.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2016-09-29T04:57:51Z'
+    text: My guess is Rhodanthe anthemoides.
+    ref: 57ec9f4fed2a89450f007bbb
+    name: David Francis
+    username: david_francis
+  - replying_to: 57ec9f4fed2a89450f007bbb
+    created_at: '2016-09-29T05:42:12Z'
+    text: Plants were only about 10cm tall.
+    ref: 57eca9b4ed2a89450f007bc1
+    name: James Booth
+    username: jamesbooth
+  - created_at: '2016-09-30T21:33:33Z'
+    text: My first thought was Leucochrysum albicans
+    ref: 57eeda2ded2a89450f008078
+    name: Giorgio De Nola
+    username: giorgiod
+  - created_at: '2017-03-08T01:05:14Z'
+    text: 'Widespread ephemeral annual forb in central, western Victoria often associated with granite but not generally the soaks'
+    ref: 58bf58caed2a8938900032a3
+    name: Paul Foreman
+    username: paulforeman
+  - created_at: '2017-03-08T01:05:49Z'
+    text: Hyalosperma praecox (F.Muell.) Paul G.Wilson
+    ref: 58bf58eded2a8938900032a7
+    name: Paul Foreman
+    username: paulforeman
+collections:
+  - montana
+  - korong_ridge_conservation_estate_-_flora

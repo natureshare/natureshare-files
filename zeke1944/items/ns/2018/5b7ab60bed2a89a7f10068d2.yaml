@@ -1,0 +1,32 @@
+id:
+  - Cordyceps spp.
+created_at: '2018-08-20T12:40:14Z'
+datetime: '2016-03-27T14:32:50+10:00'
+elevation: 308.3
+latitude: -38.496531
+location_name: 'Lorne VIC 3232, Australia'
+longitude: 143.949377
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-20T12:40:26Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-03-27T14:32:50Z'
+    height: 2915
+    width: 3142
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b7ab610ed2a891efe0000a1.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b7ab610ed2a891efe0000a1.jpg'
+comments:
+  - created_at: '2018-08-20T23:03:22Z'
+    text: his species is listed as Cordyceps taylorii in gates p219. However this species is also described as large to 30cm and not unlike C robertsii. Some dispute here. Specimen here 2 to 3 cm.
+    ref: 5b7b48baed2a89a7f1006a4c
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-26T05:15:20Z'
+    text: 'Agree, some dispute here. The Willis paper on Cordyceps from Muelleria does not provide any answers however they has long been uncertainty around C. taylorii.'
+    ref: 5b823768ed2a89a7f1008763
+    name: John Walter
+    username: 249pbr
+collections:
+  - otway_ranges_-_fungi

@@ -1,0 +1,32 @@
+id:
+  - Fungi spp.
+created_at: '2016-09-24T07:38:57Z'
+datetime: '2016-09-22T14:28:19+10:00'
+elevation: 217.7
+latitude: -36.784268
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.376927
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-09-24T07:38:57Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-22T14:28:19Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e6010ced2a89d73e000078.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e6010ced2a89d73e000078.JPG'
+tags:
+  - fungi
+comments:
+  - created_at: '2016-10-19T12:23:53Z'
+    text: Looks like Polyporus arcularius but undersides are important for an ID
+    ref: 580765d9ed2a89284d00002d
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - fungus_of_central_victoria
+  - junortoun_flora

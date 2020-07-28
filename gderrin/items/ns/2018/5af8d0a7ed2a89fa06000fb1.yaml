@@ -1,0 +1,40 @@
+created_at: '2018-05-13T23:56:23Z'
+datetime: '2017-11-01T06:29:14+10:00'
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-05-14T00:18:30Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-11-01T06:29:14Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5af8d0b3ed2a89e822000002.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5af8d0b3ed2a89e822000002.JPG'
+  - datetime: '2016-09-19T06:15:09Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5af8d3baed2a89e822000003.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5af8d3baed2a89e822000003.JPG'
+  - datetime: '2016-08-03T14:02:40Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5af8d5deed2a89e822000004.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5af8d5deed2a89e822000004.JPG'
+comments:
+  - created_at: '2018-05-14T00:02:42Z'
+    text: 'Many specimens of this small tree were growing near Coombell Road, about 2.5 km west of the Summerland Way near Casino'
+    ref: 5af8d222ed2a89fa06000fb3
+    name: Geoff Derrin
+    username: gderrin
+  - created_at: '2018-05-16T11:17:36Z'
+    text: 3 different species here so they should be uploaded as separate observations Geoff. This site is set up for Victorian observations.
+    ref: 5afc1350ed2a8932570001c9
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 5afc1350ed2a8932570001c9
+    created_at: '2018-05-17T07:18:56Z'
+    text: 'Yep - sorry. '
+    ref: 5afd2ce0ed2a89fa060020a6
+    name: Geoff Derrin
+    username: gderrin

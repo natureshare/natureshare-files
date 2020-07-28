@@ -1,0 +1,45 @@
+id:
+  - Sclerolaena divaricata
+created_at: '2015-10-02T13:59:42Z'
+datetime: '2015-09-13T21:22:26+10:00'
+elevation: 30.8
+latitude: -34.12987
+location_name: 'Neds Corner VIC 3496, Australia'
+longitude: 141.290471
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-10-02T14:14:52Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-09-13T21:22:26Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560e8e0fed2a890d950003d6.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560e8e0fed2a890d950003d6.jpg'
+  - datetime: '2015-09-13T21:23:42Z'
+    height: 3264
+    width: 4928
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560e8ddbed2a890d950003d4.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560e8ddbed2a890d950003d4.jpg'
+  - datetime: '2015-09-13T21:24:05Z'
+    height: 3264
+    width: 4928
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560e8e1fed2a890d950003d7.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560e8e1fed2a890d950003d7.jpg'
+tags:
+  - fruit
+comments:
+  - created_at: '2015-10-03T05:11:27Z'
+    text: Sorry for this Chris but I'm pretty sure I've  mucked  up your dare-time on this one as it looks like you've  taken pics after the time of observation.
+    ref: 560f637fed2a89401600025f
+    name: Russell Best
+    username: russell
+  - created_at: '2015-10-03T07:17:48Z'
+    text: No worries. Easy to change again.
+    ref: 560f811ced2a894016000270
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - neds_corner_plants

@@ -1,0 +1,50 @@
+id:
+  - name: Neosparassus spp.
+    by: russell
+created_at: '2014-10-05T09:34:44Z'
+datetime: '2014-10-05T12:09:07+10:00'
+elevation: 386.9
+latitude: -37.460267
+location_name: 'Riddells Creek VIC 3431, Australia'
+longitude: 144.672599
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-02-19T13:23:46Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-05T12:09:07Z'
+    height: 1069
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/543110b3e35eb1bbd0000028.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/543110b3e35eb1bbd0000028.JPG'
+  - datetime: '2014-10-05T12:09:38Z'
+    height: 1204
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/543110b3e35eb1bbd0000029.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/543110b3e35eb1bbd0000029.JPG'
+tags:
+  - juvenile
+comments:
+  - created_at: '2014-10-05T09:44:43Z'
+    text: Very stunning specimen!
+    ref: 5431130be35eb1bbd000002d
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2015-01-03T10:51:39Z'
+    text: Think this is Sparassidae family (Huntsman).
+    ref: 54a7c9bbe35eb10a6f000009
+    name: Suzanne Jones
+    username: suzanne
+  - created_at: '2015-02-19T13:25:00Z'
+    text: ID by Robert Whyte who added "Juvenile Neosparassus sp. they are often green as JUV".
+    ref: 54e5e42ced2a8987b700041b
+    name: Russell Best
+    username: russell
+  - created_at: '2015-03-07T10:16:44Z'
+    text: '? Football Spider (Neosparassus patellatus) - http://davesgarden.com/guides/bf/showimage/6171/ '
+    ref: 54fad00ced2a89097e000723
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - spiders_of_riddells_creek

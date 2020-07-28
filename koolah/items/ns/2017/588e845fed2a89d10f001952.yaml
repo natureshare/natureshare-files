@@ -1,0 +1,42 @@
+id:
+  - Melithreptus brevirostris
+created_at: '2017-01-30T00:12:16Z'
+datetime: '2017-01-30T07:36:54+10:00'
+elevation: 259.9
+latitude: -37.806872
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.29695
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-01-30T10:13:54Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-30T07:36:54Z'
+    height: 1168
+    width: 1317
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588e846bed2a89b3fe000363.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588e846bed2a89b3fe000363.JPG'
+tags:
+  - bird
+  - honeyeater
+comments:
+  - created_at: '2017-01-30T01:12:40Z'
+    text: 'Great photo Cathy, how did you get it to sit so still?'
+    ref: 588e9308ed2a89d10f00198b
+    name: Kevin Sparrow
+    username: banksiaman
+  - created_at: '2017-01-30T02:34:48Z'
+    text: Snuck around the corner of the house and surprised it.
+    ref: 588ea648ed2a89d10f0019b6
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2017-01-30T04:48:03Z'
+    text: Stunning detail - best I've seen with either camera or binos.
+    ref: 588ec583ed2a89d10f001a0c
+    name: David Francis
+    username: david_francis
+collections:
+  - brisbane_ranges_birds

@@ -1,0 +1,30 @@
+id:
+  - Anhinga novaehollandiae
+created_at: '2016-01-22T10:43:02Z'
+datetime: '2013-09-24T17:19:59+10:00'
+latitude: -34.136017
+longitude: 141.333191
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-01-23T23:31:01Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2013-09-24T17:19:59Z'
+    height: 2415
+    width: 3623
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a2070eed2a89e050000033.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a2070eed2a89e050000033.jpg'
+  - datetime: '2013-09-24T17:20:01Z'
+    height: 2204
+    width: 3306
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a2070ded2a897bc700002f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a2070ded2a897bc700002f.jpg'
+  - datetime: '2013-09-24T17:20:00Z'
+    height: 2579
+    width: 3869
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a20717ed2a891f7600002a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a20717ed2a891f7600002a.jpg'
+collections:
+  - neds_corner_birds

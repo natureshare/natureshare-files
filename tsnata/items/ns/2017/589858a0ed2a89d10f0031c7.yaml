@@ -1,0 +1,49 @@
+id:
+  - name: Clematis aristata
+    by: david_francis
+created_at: '2017-02-06T11:09:23Z'
+datetime: '2017-01-21T14:34:45+10:00'
+elevation: 33.6
+latitude: -38.684654
+location_name: 'Grey River VIC 3234, Australia'
+longitude: 143.838205
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-02-06T11:09:23Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-21T14:34:45Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/589858caed2a89b718000398.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/589858caed2a89b718000398.jpg'
+  - datetime: '2017-01-21T14:35:10Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/589858cbed2a892daf0003ae.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/589858cbed2a892daf0003ae.jpg'
+comments:
+  - created_at: '2017-02-06T11:12:20Z'
+    text: Clematis of some sort. These are the seed heads.
+    ref: 58985a14ed2a89d10f0031d7
+    name: Andrew Brown
+    username: andrewbrown
+  - created_at: '2017-02-06T11:54:44Z'
+    text: 'Yes, Clematis and seems to be C. aristata.'
+    ref: 58986404ed2a89962b000005
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-06T21:51:48Z'
+    text: Agree C. aristata
+    ref: 5898eff4ed2a899d60000009
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2017-02-07T11:55:49Z'
+    text: <em>Clematis aristata</em> species id suggested
+    ref: 5899b5c5ed2a89d10f003453
+    name: David Francis
+    username: david_francis
+collections:
+  - grey_river

@@ -1,0 +1,32 @@
+id:
+  - Ocyphaps lophotes
+created_at: '2016-01-22T06:58:57Z'
+datetime: '2013-09-24T17:59:52+10:00'
+latitude: -34.138805
+longitude: 141.331177
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-01-22T06:58:57Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2013-09-24T17:59:16Z'
+    height: 1087
+    width: 1631
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a1c022ed2a89e05000002f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a1c022ed2a89e05000002f.jpg'
+  - datetime: '2013-09-24T17:59:52Z'
+    height: 667
+    width: 1000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a1c008ed2a89b31c00002c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a1c008ed2a89b31c00002c.jpg'
+  - datetime: '2013-09-24T18:00:21Z'
+    height: 1831
+    width: 1221
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a1c016ed2a89b31c00002d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a1c016ed2a89b31c00002d.jpg'
+tags:
+  - pair
+collections:
+  - neds_corner_birds

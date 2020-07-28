@@ -1,0 +1,37 @@
+id:
+  - Carduelis chloris
+created_at: '2016-07-06T02:21:23Z'
+datetime: '2016-07-06T10:24:17+10:00'
+description: They are in Newell's Paddock in Autumn and Winter. Sometimes accompanied by a flock of house sparrows.
+elevation: 2.2
+latitude: -37.796905
+location_name: 'Footscray VIC 3011, Australia'
+longitude: 144.912669
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-07-06T02:21:23Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-07-06T10:24:17Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/577c6a2eed2a890be7000248.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/577c6a2eed2a890be7000248.jpg'
+comments:
+  - created_at: '2016-07-08T07:33:55Z'
+    text: A resident population in Newell's Paddock?
+    ref: 577f5763ed2a890502000011
+    name: David Francis
+    username: david_francis
+  - replying_to: 577f5763ed2a890502000011
+    created_at: '2016-07-09T05:36:37Z'
+    text: Not permanent. Have not seen them in Summer. Only a small group of about 4.
+    ref: 57808d65ed2a89050200003e
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong

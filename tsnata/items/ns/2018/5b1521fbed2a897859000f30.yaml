@@ -1,0 +1,38 @@
+created_at: '2018-06-04T11:33:39Z'
+datetime: '2018-06-04T11:19:02+10:00'
+description: 'A group of fungi. '
+elevation: 2.7
+latitude: -37.796686
+location_name: 'Footscray VIC 3011, Australia'
+longitude: 144.90981
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-06-04T11:34:14Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-06-04T11:19:02Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b152202ed2a89b04700001a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b152202ed2a89b04700001a.jpg'
+  - datetime: '2018-06-04T11:20:21Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b15222eed2a89e82200001e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b15222eed2a89e82200001e.jpg'
+  - datetime: '2018-06-04T11:18:56Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b152259ed2a89e82200001f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b152259ed2a89e82200001f.jpg'
+  - datetime: '2018-06-04T11:18:41Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b15227aed2a89e822000020.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b15227aed2a89e822000020.jpg'
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong

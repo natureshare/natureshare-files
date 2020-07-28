@@ -1,0 +1,58 @@
+id:
+  - Haliastur sphenurus
+created_at: '2017-03-11T03:19:55Z'
+datetime: '2017-03-07T17:15:15+10:00'
+elevation: 12.7
+latitude: -38.08211
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086204
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-03-11T10:09:43Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-03-07T17:15:15Z'
+    height: 1859
+    width: 2747
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58c36b2ded2a894410000051.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c36b2ded2a894410000051.JPG'
+  - datetime: '2017-03-07T17:13:06Z'
+    height: 2152
+    width: 3303
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58c36b6ced2a89a81f000040.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c36b6ced2a89a81f000040.JPG'
+  - datetime: '2017-03-07T17:15:33Z'
+    height: 1902
+    width: 2854
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58c36ba2ed2a894410000052.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c36ba2ed2a894410000052.JPG'
+  - datetime: '2017-03-07T17:15:40Z'
+    height: 1900
+    width: 2888
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58c36bb7ed2a89e54800004a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c36bb7ed2a89e54800004a.JPG'
+tags:
+  - bird
+  - feeding
+  - raptor
+comments:
+  - created_at: '2017-03-11T03:31:00Z'
+    text: Look a bit more like a Whistling Kire...
+    ref: 58c36f74ed2a893890003cd8
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 58c36f74ed2a893890003cd8
+    created_at: '2017-03-11T03:31:21Z'
+    text: '*kite... typo'
+    ref: 58c36f89ed2a893890003cdc
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 58c36f74ed2a893890003cd8
+    created_at: '2017-03-11T10:08:54Z'
+    text: 'Thanks Andrew.  I really don''t know.  It was just that two other people who were here when the bird came in identified it as a Swamp Harrier.  I will amend my identification. '
+    ref: 58c3ccb6ed2a896f27000003
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - birds_seen_at_145_gibsons_road_cobains

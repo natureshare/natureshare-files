@@ -1,0 +1,38 @@
+id:
+  - name: Anas superciliosa
+    by: david_francis
+created_at: '2017-02-06T09:42:35Z'
+datetime: '2017-02-01T18:36:24+10:00'
+description: duckling
+elevation: 286
+latitude: -37.527681
+location_name: 'Sunbury VIC 3429, Australia'
+longitude: 144.76295
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-02-06T09:42:35Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-02-01T18:36:19Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58984339ed2a89d73e000367.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58984339ed2a89d73e000367.JPG'
+  - datetime: '2017-02-01T18:36:24Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/589842a2ed2a892daf0003a4.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/589842a2ed2a892daf0003a4.JPG'
+  - datetime: '2017-02-01T18:35:53Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/589843dbed2a89d73e000368.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/589843dbed2a89d73e000368.JPG'
+comments:
+  - created_at: '2017-02-06T10:17:10Z'
+    text: <em>Anas superciliosa</em> species id suggested
+    ref: 58984d26ed2a89d10f003193
+    name: David Francis
+    username: david_francis

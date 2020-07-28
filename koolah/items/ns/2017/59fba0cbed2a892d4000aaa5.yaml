@@ -1,0 +1,31 @@
+id:
+  - Distoleon bistrigatus
+created_at: '2017-11-02T22:51:23Z'
+datetime: '2017-03-25T23:27:03+10:00'
+description: Two images.  Thanks to Ken Harris for ID.
+elevation: 260.3
+latitude: -37.806557
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297038
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-11-02T22:51:23Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-03-25T23:27:03Z'
+    height: 1122
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59fba0d2ed2a8939840005b7.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59fba0d2ed2a8939840005b7.jpg'
+  - datetime: '2017-03-25T22:10:08Z'
+    height: 1679
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59fba0dfed2a8939840005b8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59fba0dfed2a8939840005b8.jpg'
+tags:
+  - insect
+collections:
+  - brisbane_ranges_insects

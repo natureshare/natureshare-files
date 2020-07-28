@@ -1,0 +1,42 @@
+id:
+  - Callibracon spp.
+created_at: '2018-02-10T05:28:05Z'
+datetime: '2018-02-09T22:55:15+10:00'
+description: ID assistance would be appreciated.
+elevation: 261.2
+latitude: -37.806584
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297013
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-02-14T11:14:26Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-02-09T22:55:15Z'
+    height: 1370
+    width: 2500
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a7e8288ed2a8966a0000042.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a7e8288ed2a8966a0000042.jpg'
+tags:
+  - wasp
+comments:
+  - created_at: '2018-02-10T05:43:06Z'
+    text: 'Callibracon sp.? https://natureshare.org.au/observations?species=Callibracon+spp.'
+    ref: 5a7e866aed2a89def700179b
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-02-10T05:43:39Z'
+    text: Fantastic photo for such a small insect!
+    ref: 5a7e868bed2a89def700179d
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-02-10T10:49:00Z'
+    text: 'Thanks David, will use Callibracon for now.'
+    ref: 5a7ece1ced2a89def700192a
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brisbane_ranges_insects

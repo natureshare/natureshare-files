@@ -1,0 +1,51 @@
+id:
+  - Mecoptera spp.
+  - Pentatomidae spp.
+  - Harpobittacus spp.
+created_at: '2018-12-05T23:07:38Z'
+datetime: '2018-12-05T16:47:19+10:00'
+description: This Scorpionfly was carrying another small unidentified insect.
+elevation: 62.1
+latitude: -38.090804
+location_name: '1308 Ettrick-Condah Rd, Heywood VIC 3304, Australia'
+longitude: 141.753414
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2019-04-25T11:57:26Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-12-05T16:47:19Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_56b45e90ed2a89d4ab000026/2018-12-06/1544051214/PC040059.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_56b45e90ed2a89d4ab000026/2018-12-06/1544051214/PC040059.jpg'
+comments:
+  - created_at: '2018-12-06T00:02:30Z'
+    text: Interesting/distinctive markings on prey. Some sort of beetle or bug instar?
+    ref: 5c0867161779a453580000e6
+    name: David Francis
+    username: david_francis
+  - replying_to: 5c0867161779a453580000e6
+    created_at: '2018-12-06T09:01:04Z'
+    text: 'Someone elsewhere has suggested larva of Pentatomidae sp., maybe 4th instar.'
+    ref: 5c08e5501779a4a86e00012e
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - created_at: '2018-12-06T09:12:16Z'
+    text: 'Yes, good suggestion. '
+    ref: 5c08e7f01779a4535800012b
+    name: David Francis
+    username: david_francis
+  - created_at: '2019-04-25T10:01:41Z'
+    text: Scorpion fly is Harpobittacus sp.
+    ref: 5cc185853abbd621db00012e
+    name: Kimberi Pullen
+    username: kimberip
+  - replying_to: 5cc185853abbd621db00012e
+    created_at: '2019-04-25T11:56:43Z'
+    text: 'Thankyou for the ID. '
+    ref: 5cc1a07b3abbd63bf4000045
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - homerton_and_milltown_insects

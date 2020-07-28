@@ -1,0 +1,40 @@
+id:
+  - Antitrogus spp.
+created_at: '2014-09-08T04:00:40Z'
+datetime: '2012-01-11T12:03:26+10:00'
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-09-08T04:04:07Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-01-11T12:03:26Z'
+    height: 1364
+    width: 2037
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/540d29e7e35eb17588000046.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/540d29e7e35eb17588000046.jpg'
+  - datetime: '2012-01-11T12:02:45Z'
+    height: 1077
+    width: 1612
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/540d29e7e35eb17588000047.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/540d29e7e35eb17588000047.jpg'
+  - datetime: '2012-01-11T12:02:31Z'
+    height: 1323
+    width: 1973
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/540d29e7e35eb17588000048.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/540d29e7e35eb17588000048.jpg'
+tags:
+  - beetle
+  - scarab
+comments:
+  - created_at: '2014-09-08T04:01:59Z'
+    text: 'Identified by Ken Walker,'
+    ref: 540d2a37e35eb1758800004d
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains

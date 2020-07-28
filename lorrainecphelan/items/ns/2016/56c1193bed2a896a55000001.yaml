@@ -1,0 +1,32 @@
+id:
+  - Diuris chryseopsis
+created_at: '2016-02-15T01:01:06Z'
+datetime: '2011-09-15T14:35:13+10:00'
+elevation: 126.6
+latitude: -38.060683
+location_name: 'Inverleigh VIC 3321, Australia'
+longitude: 144.033153
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-02-15T01:01:46Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2011-09-15T14:35:13Z'
+    height: 769
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56c1194bed2a890be700000c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56c1194bed2a890be700000c.jpg'
+  - datetime: '2011-09-15T14:27:13Z'
+    height: 768
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56c11950ed2a89211c000011.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56c11950ed2a89211c000011.jpg'
+tags:
+  - bud
+  - flower
+collections:
+  - victorian_volcanic_plains_native_plants
+  - inverleigh_nature_conservation_reserve

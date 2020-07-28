@@ -1,0 +1,31 @@
+id:
+  - name: Radumeris spp.
+    by: david_francis
+created_at: '2017-01-25T06:45:44Z'
+datetime: '2017-01-25T12:00:00+10:00'
+description: Maybe 4-5cm long
+elevation: 153.7
+latitude: -36.93674
+location_name: 'Mangalore VIC 3663, Australia'
+longitude: 145.150051
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-01-25T06:47:30Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 2166
+    width: 3250
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58884944ed2a89b3fe000330.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58884944ed2a89b3fe000330.jpg'
+  - height: 2073
+    width: 3109
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58884944ed2a892daf00034b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58884944ed2a892daf00034b.jpg'
+comments:
+  - created_at: '2017-01-27T11:11:35Z'
+    text: <em>Radumeris spp.</em> species id suggested
+    ref: 588b2ae7ed2a896dbc000002
+    name: David Francis
+    username: david_francis

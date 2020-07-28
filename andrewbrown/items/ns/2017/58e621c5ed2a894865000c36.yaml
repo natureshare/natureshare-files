@@ -1,0 +1,46 @@
+id:
+  - Proteuxoa spp.
+created_at: '2017-04-06T11:53:06Z'
+datetime: '2017-04-05T10:28:01+10:00'
+description: Moth approx. 20mm
+elevation: 204.8
+latitude: -36.77842
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381503
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-04-06T11:53:06Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-04-05T10:28:01Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58e621cbed2a891d6d0000c2.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e621cbed2a891d6d0000c2.jpeg'
+  - datetime: '2017-04-05T10:28:40Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58e621d1ed2a891d6d0000c3.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e621d1ed2a891d6d0000c3.jpeg'
+tags:
+  - moth
+  - moth-grey-black
+  - moth-patterned
+comments:
+  - created_at: '2017-04-06T12:03:46Z'
+    text: <em>Proteuxoa spp.</em> species id suggested
+    ref: 58e62ea2ed2a894865000c99
+    name: Andrew Brown
+    username: andrewbrown
+  - created_at: '2018-04-19T12:43:03Z'
+    text: Proteuxoa cinereicollis ?
+    ref: 5ad88ed7ed2a899466005a89
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - wildlife_of_junortoun
+  - moths_of_junortoun
+  - moths_of_central_victoria

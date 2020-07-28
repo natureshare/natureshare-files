@@ -1,0 +1,40 @@
+id:
+  - Stylidium armeria subsp. armeria
+created_at: '2017-10-16T09:58:34Z'
+datetime: '2017-10-14T10:22:20+10:00'
+elevation: 102.4
+latitude: -38.27684
+location_name: 'Cape Bridgewater VIC 3305, Australia'
+longitude: 141.438394
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-10-19T10:50:49Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-14T10:22:20Z'
+    height: 2400
+    width: 1800
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59e4814eed2a8939840004e2.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59e4814eed2a8939840004e2.jpg'
+  - datetime: '2017-10-14T10:22:40Z'
+    height: 2400
+    width: 1800
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59e48147ed2a8939840004e1.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59e48147ed2a8939840004e1.jpg'
+comments:
+  - created_at: '2017-10-16T10:29:41Z'
+    text: My impression is that it is Stylidium armeria subsp. armeria
+    ref: 59e48a15ed2a892d40005ddb
+    name: David Francis
+    username: david_francis
+  - replying_to: 59e48a15ed2a892d40005ddb
+    created_at: '2017-10-17T02:53:59Z'
+    text: Thanks David. It is similar to the one in Grey River.
+    ref: 59e570c7ed2a892d40006061
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - mt_richmond_np_plants

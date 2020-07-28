@@ -1,0 +1,28 @@
+created_at: '2014-11-07T14:12:15Z'
+datetime: '2014-11-01T12:41:10+10:00'
+latitude: -37.064439
+longitude: 148.310272
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-11-07T14:13:20Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-11-01T12:41:10Z'
+    height: 1324
+    width: 1984
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/545cd33fe35eb18d9f000004.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545cd33fe35eb18d9f000004.jpg'
+  - datetime: '2014-11-01T12:41:14Z'
+    height: 1324
+    width: 1984
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/545cd33fe35eb18d9f000005.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545cd33fe35eb18d9f000005.jpg'
+comments:
+  - created_at: '2014-11-09T10:45:19Z'
+    text: 'I keep coming back to Senna, but not confident.'
+    ref: 545f45bfe35eb10dae000018
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - little-river-gorge-2014

@@ -1,0 +1,52 @@
+id:
+  - Cephaloscyllium laticeps
+created_at: '2018-03-28T13:25:50Z'
+datetime: '2018-03-22T17:20:11+10:00'
+description: "Found at low tide in a rocky channel this egg-case was well attached by the tendril at one end to something below a covering of sand.\r\nAlso known as Swellshark or Draughtboard shark. The case was about 250mm long, squared at one end and tapered to a point at the other. Each end had two long, curly tendrils. The shark is a benthic zone species native to Australian waters. A very similar and related species is found in New Zealand.\r\n"
+elevation: 0.6
+latitude: -37.800064
+location_name: 'Victoria, Australia'
+longitude: 148.743578
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-03-31T10:44:12Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-03-22T17:20:11Z'
+    height: 1200
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5abb968bed2a89cf9000004e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5abb968bed2a89cf9000004e.jpg'
+  - datetime: '2018-03-22T17:20:24Z'
+    height: 1600
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5abb97e3ed2a89abdd00005b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5abb97e3ed2a89abdd00005b.jpg'
+comments:
+  - created_at: '2018-03-28T23:16:50Z'
+    text: Is it an egg case?
+    ref: 5abc2262ed2a896baf0083eb
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - replying_to: 5abc2262ed2a896baf0083eb
+    created_at: '2018-03-29T03:16:21Z'
+    text: Yes Lorraine... from an all Aussie benthic shark.
+    ref: 5abc5a85ed2a896baf0084d0
+    name: Mark Ridgway
+    username: argybee
+  - created_at: '2018-03-29T03:53:53Z'
+    text: Cephaloscyllium laticeps added to database. Nice to see marine species.
+    ref: 5abc6351ed2a89aeb9000053
+    name: David Francis
+    username: david_francis
+  - replying_to: 5abc6351ed2a89aeb9000053
+    created_at: '2018-03-29T11:53:57Z'
+    text: Thanks David
+    ref: 5abcd3d5ed2a896baf0086b1
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - littoral_zones

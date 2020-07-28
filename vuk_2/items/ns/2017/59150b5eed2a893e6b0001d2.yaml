@@ -1,0 +1,58 @@
+id:
+  - Dirhinus anthracia
+created_at: '2017-05-12T01:09:50Z'
+datetime: '2017-05-12T11:08:00+10:00'
+elevation: 5
+latitude: -38.039704
+location_name: 'Chelsea Heights VIC 3196, Australia'
+longitude: 145.127334
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2017-05-16T10:05:29Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-05-12T01:29:45Z'
+    height: 1504
+    width: 2528
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59150baded2a89a81f000113.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59150baded2a89a81f000113.JPG'
+  - datetime: '2017-05-12T01:25:29Z'
+    height: 1168
+    width: 684
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/591580b9ed2a894410000126.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/591580b9ed2a894410000126.JPG'
+comments:
+  - created_at: '2017-05-12T01:24:24Z'
+    text: 'Dirhinus anthracia, Parasite of Fly pupae, species determined by shape of horns.'
+    ref: 59150ec8ed2a895348000044
+    name: Vuk Vojis
+    username: vuk_2
+  - created_at: '2017-05-12T03:00:30Z'
+    text: Genus Dirhinus is not in DB
+    ref: 5915254eed2a893e6b00021f
+    name: Vuk Vojis
+    username: vuk_2
+  - created_at: '2017-05-12T06:45:03Z'
+    text: 'Great photo showing insertion of antennae in cleft between two "horns" - diagnostic for genus Dirhinus. Vuk, do you have a reference for Dirhinus species?'
+    ref: 591559efed2a893e6b000294
+    name: David Francis
+    username: david_francis
+  - replying_to: 5915254eed2a893e6b00021f
+    created_at: '2017-05-12T06:45:29Z'
+    text: Dirhinus added
+    ref: 59155a09ed2a893e6b000296
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-05-12T09:31:47Z'
+    text: 'Do you think keys. Not for all but anthracia has specific end of horns, I will just add proximal image of the head.The top of the horn have small cut.'
+    ref: 59158103ed2a893e6b0002ee
+    name: Vuk Vojis
+    username: vuk_2
+  - replying_to: 59158103ed2a893e6b0002ee
+    created_at: '2017-05-12T13:59:14Z'
+    text: Excellent! D. anthracia available in db.
+    ref: 5915bfb2ed2a893e6b00039c
+    name: David Francis
+    username: david_francis

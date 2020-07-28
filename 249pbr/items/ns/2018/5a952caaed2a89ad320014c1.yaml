@@ -1,0 +1,33 @@
+id:
+  - Panellus pusillus
+created_at: '2018-02-27T11:25:47Z'
+datetime: '2017-05-17T10:01:06+10:00'
+description: Upper surface in second image
+latitude: -38.762718
+longitude: 143.548062
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-02-27T11:25:57Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-05-17T10:01:06Z'
+    height: 2831
+    width: 4560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a952cb6ed2a89cf9000001b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a952cb6ed2a89cf9000001b.jpg'
+  - datetime: '2017-05-17T09:59:44Z'
+    height: 2603
+    width: 4290
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a952caded2a897fc8000019.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a952caded2a897fc8000019.jpg'
+comments:
+  - created_at: '2018-09-17T12:58:29Z'
+    text: Now known as Dictyopanus pusillus
+    ref: 5b9fa4f5ed2a89cce3005bbe
+    name: zeke1944
+    username: zeke1944
+collections:
+  - otway_ranges_-_fungi

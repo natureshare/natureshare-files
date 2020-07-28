@@ -1,0 +1,33 @@
+id:
+  - name: Insecta spp.
+    by: russell
+created_at: '2014-08-15T11:05:59Z'
+datetime: '2014-08-16T17:03:00+10:00'
+description: Wood boring grubs have killed one of our shrubs
+elevation: 10.1
+latitude: -38.370278
+location_name: 'Warrnambool VIC 3280, Australia'
+longitude: 142.4894
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2014-08-15T11:18:47Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-08-08T16:52:03Z'
+    height: 2474
+    width: 4076
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53ede997e35eb12536000032.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53ede997e35eb12536000032.JPG'
+comments:
+  - created_at: '2014-08-15T11:16:10Z'
+    text: What plant was it boring in?
+    ref: 53edebfae35eb12536000036
+    name: Russell Best
+    username: russell
+  - replying_to: 53edebfae35eb12536000036
+    created_at: '2014-08-16T10:27:13Z'
+    text: 'It was a Myoporum bateae from NSW growing in our garden, totally destroyed it.'
+    ref: 53ef3201e35eb1c08100001b
+    name: Kevin Sparrow
+    username: banksiaman

@@ -1,0 +1,51 @@
+id:
+  - Malurus cyaneus
+created_at: '2016-09-25T02:48:32Z'
+datetime: '2016-09-22T14:29:24+10:00'
+description: 'Usually heard before they are seen '
+elevation: 223.2
+latitude: -36.78468
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.375382
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-09-25T02:48:32Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-22T14:41:32Z'
+    height: 1860
+    width: 1890
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e73884ed2a89b3fe000093.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e73884ed2a89b3fe000093.JPG'
+  - datetime: '2016-09-22T14:29:24Z'
+    height: 1203
+    width: 1206
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e7385fed2a892daf0000a4.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e7385fed2a892daf0000a4.JPG'
+  - datetime: '2016-09-22T14:30:32Z'
+    height: 1503
+    width: 1425
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e7386ced2a89d73e00008a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e7386ced2a89d73e00008a.JPG'
+  - datetime: '2016-09-22T14:29:20Z'
+    height: 1788
+    width: 1695
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e73871ed2a89b718000091.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e73871ed2a89b718000091.JPG'
+  - datetime: '2016-09-22T14:31:01Z'
+    height: 1527
+    width: 1689
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e73875ed2a892daf0000a5.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e73875ed2a892daf0000a5.JPG'
+  - datetime: '2016-09-22T14:29:37Z'
+    height: 1461
+    width: 1629
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e73883ed2a89d73e00008b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e73883ed2a89d73e00008b.JPG'
+tags:
+  - adult-male
+collections:
+  - wildlife_of_junortoun

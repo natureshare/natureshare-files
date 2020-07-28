@@ -1,0 +1,44 @@
+id:
+  - Paropsis dilatata
+created_at: '2015-03-22T04:02:43Z'
+datetime: '2015-03-22T11:36:59+10:00'
+description: "Leaf Beetle on Bracken Fern in Alpine Ash Damp Forest.\r\nIdentified by Martin Lagerwey and Dr. Chris Reid (Australian Museum, Sydney)."
+latitude: -37.373172
+longitude: 144.6244
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-05-01T10:56:15Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-03-22T11:36:59Z'
+    height: 767
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/550e3f57ed2a8974d30008c6.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/550e3f57ed2a8974d30008c6.jpg'
+  - datetime: '2015-03-22T11:36:03Z'
+    height: 767
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/550e4113ed2a8974d30008cc.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/550e4113ed2a8974d30008cc.jpg'
+comments:
+  - created_at: '2015-03-22T11:44:59Z'
+    text: "I do not believe that your exciting beetle discovery is Paropsis intermedia although I can see why you consider the possibility.  These are my reasons; 1/ the pronotum is uniquely very strongly puncturated (but more finely than the elytra).  2/ the pronotum is smooth along the lateral margins rather than weakly sinuate (wavy) as in intermedia.  See my image and the reference image from PaDIL to demonstrate sinuate.      https://sites.google.com/site/paropsispages/paropsis-intermedia \r\nA closer match is Paropsisterna dilatata which (I think) is a Tasmanian endemic and still not an exact match anyway.  https://sites.google.com/site/insectsoftaschrysomeloidea/suborder-polyphaga/chrysomelidae-leaf-beetles/subfamily-chrysomelinae/genus-paropsis/paropsis-dilatata \r\nPeter Merriot has an image of your exact beetle (I think on Flickr, but not sure).\r\nI am uncertain of your beetle and have not encountered one yet.  I will try a little harder to solve it.   I doubt that it feeds on fern.   \r\n"
+    ref: 550eab3bed2a8994a9000722
+    name: Martin Lagerwey
+    username: martinl
+  - replying_to: 550eab3bed2a8994a9000722
+    created_at: '2015-03-22T23:58:46Z'
+    text: 'Thanks for the information, Martin. I''ll follow up your links. The trees in the area were Eucalyptus delegatensis and the beetle may have fallen from the canopy above.'
+    ref: 550f5736ed2a8994a900076c
+    name: David Francis
+    username: david_francis
+  - created_at: '2015-03-23T07:52:46Z'
+    text: 'I am inclined to point you to Paropsis montana.  It fits in with my keys to this genus.  I only know of museum specimens which do (sometimes) share the fine puncturations on the pronotum.  It is the best feasible match in my opinion.   https://sites.google.com/site/paropsispages/paropsis-montana '
+    ref: 550fc64eed2a8974d300098c
+    name: Martin Lagerwey
+    username: martinl
+collections:
+  - insects_and_other_arthropods_of_mt_macedon
+  - leaf_beetles_of_the_macedon_range_chrysomelidae

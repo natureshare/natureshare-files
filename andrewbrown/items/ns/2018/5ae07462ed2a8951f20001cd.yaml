@@ -1,0 +1,44 @@
+id:
+  - name: Fisera spp.
+    by: koolah
+created_at: '2018-04-25T12:30:11Z'
+datetime: '2018-04-22T19:49:38+10:00'
+elevation: 199.4
+latitude: -36.778256
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381049
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-04-25T12:31:05Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-04-22T19:49:38Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ae0748eed2a897fc80000a0.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ae0748eed2a897fc80000a0.JPG'
+  - datetime: '2018-04-22T19:49:28Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ae07469ed2a89abdd0000a6.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ae07469ed2a89abdd0000a6.JPG'
+tags:
+  - moth
+  - moth-brown
+comments:
+  - created_at: '2018-04-25T12:30:57Z'
+    text: 2 photos showing different views
+    ref: 5ae07501ed2a899466007a2c
+    name: Andrew Brown
+    username: andrewbrown
+  - created_at: '2018-04-27T08:04:47Z'
+    text: <em>Fisera spp.</em> species id suggested
+    ref: 5ae2d99fed2a89946600837d
+    name: Cathy Powers
+    username: koolah
+collections:
+  - moths_of_junortoun
+  - moths_of_central_victoria

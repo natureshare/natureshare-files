@@ -1,0 +1,36 @@
+id:
+  - name: Paropsisterna variicollis
+created_at: '2014-02-07T17:34:01Z'
+datetime: '2014-01-01T12:12:14+10:00'
+description: 'These Leaf beetles have been identified as Paropsisterna variicollis by Martin Lagerwey and as Paropsis atomaria by Ken Walker.  I think the former is more likely correct, but???'
+latitude: -38.082
+longitude: 147.086
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-09-21T06:32:39Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-01-01T12:12:14Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986be35eb12984014ea8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb12984014ea8.jpg'
+tags:
+  - adult
+  - beetle
+comments:
+  - created_at: '2014-05-21T15:37:17Z'
+    text: These leaf beetles were identified by Ken Walker on Bowerbird website as Paropsis atomaria.
+    ref: 53b3984de35eb1298400dd1c
+  - created_at: '2014-09-20T10:46:31Z'
+    text: Yes... I agree with the former.
+    ref: 541d5b07e35eb1df0100006c
+    name: Mark Ridgway
+    username: argybee
+  - replying_to: 541d5b07e35eb1df0100006c
+    created_at: '2014-09-21T06:32:13Z'
+    text: Thanks Mark.  I will amend the 'species' to Paropsisterna variicollis and delete the other identification.
+    ref: 541e70ede35eb1201b000083
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains

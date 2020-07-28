@@ -1,0 +1,43 @@
+id:
+  - name: Velesunio ambiguus
+    by: david_francis
+created_at: '2018-05-29T13:54:01Z'
+datetime: '2018-05-17T16:51:17+10:00'
+elevation: 113
+latitude: -37.854785
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.383553
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-06-15T20:00:57Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-05-17T16:51:17Z'
+    height: 2560
+    width: 1920
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b0d5b7fed2a89d0e700001c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b0d5b7fed2a89d0e700001c.jpg'
+  - datetime: '2018-05-17T16:50:41Z'
+    height: 2560
+    width: 1920
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b0d60cded2a89d0e700001d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b0d60cded2a89d0e700001d.jpg'
+comments:
+  - created_at: '2018-05-29T14:11:36Z'
+    text: Fresh water mussel? Found in the river bank of Little River near Balliang.
+    ref: 5b0d5f98ed2a89fa06005ad0
+    name: 'Fletcher Grant '
+    username: fletch
+  - created_at: '2018-05-30T10:09:57Z'
+    text: <em>Velesunio ambiguus</em> species id suggested
+    ref: 5b0e7875ed2a89fa06005f5a
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-06-09T14:41:35Z'
+    text: Nice to see a freshwater mussel.
+    ref: 5b1be71fed2a897859002553
+    name: Leuba Ridgway
+    username: leuba

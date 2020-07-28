@@ -1,0 +1,24 @@
+id:
+  - Chironomidae spp.
+created_at: '2016-04-06T10:02:15Z'
+datetime: '2009-04-10T10:15:17+10:00'
+description: A midge.
+elevation: 59.7
+latitude: -38.090345
+location_name: 'Heywood VIC 3304, Australia'
+longitude: 141.751022
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-04-06T10:02:15Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2009-04-10T10:15:17Z'
+    height: 873
+    width: 1234
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5704de54ed2a89211c0001b3.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5704de54ed2a89211c0001b3.jpg'
+collections:
+  - homerton_and_milltown_insects

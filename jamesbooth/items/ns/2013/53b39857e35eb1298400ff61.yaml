@@ -1,0 +1,23 @@
+id:
+  - name: Petaurus breviceps
+created_at: '2013-03-13T18:19:57Z'
+datetime: '2013-03-10T21:32:40+10:00'
+latitude: -37.452272
+longitude: 144.647491
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2013-03-13T23:53:15Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-03-10T21:32:40Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39866e35eb12984013b45.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013b45.jpg'
+  - datetime: '2013-03-10T21:34:43Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39866e35eb12984013b46.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013b46.jpg'
+  - datetime: '2013-03-10T21:37:27Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39866e35eb12984013b47.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013b47.jpg'
+collections:
+  - mammals_of_riddells_creek

@@ -1,0 +1,53 @@
+id:
+  - name: Pultenaea hispidula
+    by: russell
+created_at: '2014-10-12T09:54:14Z'
+datetime: '2014-10-12T11:58:09+10:00'
+latitude: -37.44597
+longitude: 145.11303
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-10-20T07:35:36Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-12T11:58:09Z'
+    height: 3228
+    width: 2410
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/543a4fc6e35eb1314d00003f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/543a4fc6e35eb1314d00003f.JPG'
+  - datetime: '2014-10-12T11:58:31Z'
+    height: 1603
+    width: 2131
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/543a4fc6e35eb1314d000040.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/543a4fc6e35eb1314d000040.JPG'
+  - height: 1024
+    width: 684
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5444bb2fe35eb11add00004e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5444bb2fe35eb11add00004e.jpg'
+tags:
+  - flower
+  - habit
+comments:
+  - created_at: '2014-10-12T10:39:42Z'
+    text: 'Hi James. Maybe P. daltonii, which would be a significant record at this location.'
+    ref: 543a5a6ee35eb1314d000091
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2014-10-20T04:37:50Z'
+    text: ID to P. hispidula by Neville Walsh.
+    ref: 5444919ee35eb13865000055
+    name: Russell Best
+    username: russell
+  - replying_to: 5444919ee35eb13865000055
+    created_at: '2014-10-20T05:35:25Z'
+    text: I'll go with Neville any day.
+    ref: 54449f1de35eb11add000025
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 54449f1de35eb11add000025
+    created_at: '2014-10-21T00:11:14Z'
+    text: 'I thought daltonii was the best option and keyed it out to daltonii but on reflection he is right. Shows that keys are no replacement for hands on experience, especially with species that are close and variable.'
+    ref: 5445a4a2e35eb1c13c00001a
+    name: Russell Best
+    username: russell

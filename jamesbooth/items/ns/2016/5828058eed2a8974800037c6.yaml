@@ -1,0 +1,61 @@
+id:
+  - name: Pachycephala inornata
+    by: lconole
+created_at: '2016-11-14T06:58:52Z'
+datetime: '2016-11-07T12:27:09+10:00'
+elevation: 189.7
+latitude: -36.465062
+location_name: 'Glenalbyn VIC 3517, Australia'
+longitude: 143.769523
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2016-11-14T06:58:52Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-11-07T12:27:09Z'
+    height: 2107
+    width: 2809
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/582805bced2a89b7180001b4.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/582805bced2a89b7180001b4.JPG'
+comments:
+  - created_at: '2016-11-15T00:12:06Z'
+    text: <em>Pachycephala inornata</em> species id suggested
+    ref: 582a52d6ed2a897480003ca7
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2016-11-15T03:41:03Z'
+    text: Female with pale eye-ring?
+    ref: 582a83cfed2a897480003cf5
+    name: David Francis
+    username: david_francis
+  - replying_to: 582a83cfed2a897480003cf5
+    created_at: '2016-11-16T03:57:44Z'
+    text: 'When viewed in close detail the apparent eye-ring is just the raised skin around the eye and the same grey as the rest of the bird. '
+    ref: 582bd938ed2a897480003f05
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2016-11-16T04:00:19Z'
+    text: 'Dark (brown) eye, so definitely immature. Sex?'
+    ref: 582bd9d3ed2a897480003f09
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2016-11-16T04:16:15Z'
+    text: 'Looks the same as - https://www.flickr.com/photos/bassia09/7044338415'
+    ref: 582bdd8fed2a89de57000085
+    name: David Francis
+    username: david_francis
+  - replying_to: 582bdd8fed2a89de57000085
+    created_at: '2016-11-18T02:37:25Z'
+    text: 'Similar, but not the same. Bird above is almost featureless grey other than wing coverts. Flickr bird has definte pale eye ring and light flecking on breast plus pale buff lores (feathers between eye and beak). we may have to agree to differ! ;-)'
+    ref: 582e6965ed2a897480004379
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2016-11-18T04:20:55Z'
+    text: 'Yes, agree - female Gilbert''s W.'
+    ref: 582e81a7ed2a8974800043a4
+    name: David Francis
+    username: david_francis
+collections:
+  - montana

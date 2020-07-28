@@ -1,0 +1,31 @@
+id:
+  - Diplodactylus tessellatus
+created_at: '2016-04-09T11:43:09Z'
+datetime: '2016-04-01T21:10:18+10:00'
+elevation: 31.3
+latitude: -34.140198
+location_name: 'Neds Corner VIC 3496, Australia'
+longitude: 141.320114
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-04-09T13:43:34Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-04-01T21:10:18Z'
+    height: 1710
+    width: 2270
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57083ec5ed2a89211c0001ba.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57083ec5ed2a89211c0001ba.JPG'
+tags:
+  - juvenile
+comments:
+  - created_at: '2016-04-12T10:36:35Z'
+    text: So small!
+    ref: 570ccfb3ed2a897bb20000e1
+    name: Ellena Best
+    username: ellena
+collections:
+  - neds_corner_reptiles

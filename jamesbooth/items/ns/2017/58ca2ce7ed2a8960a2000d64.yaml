@@ -1,0 +1,42 @@
+id:
+  - Solanum lacunarium
+created_at: '2017-03-16T09:10:26Z'
+datetime: '2017-03-09T17:51:44+10:00'
+elevation: 24.5
+latitude: -34.150783
+location_name: 'Neds Corner VIC 3496, Australia'
+longitude: 141.263901
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-03-17T03:21:33Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-03-09T17:51:44Z'
+    height: 2375
+    width: 1781
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58ca5432ed2a89a81f000052.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ca5432ed2a89a81f000052.JPG'
+  - datetime: '2017-03-09T17:51:24Z'
+    height: 2770
+    width: 2026
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58ca2c86ed2a89a81f00004e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ca2c86ed2a89a81f00004e.JPG'
+  - datetime: '2017-03-09T17:51:12Z'
+    height: 3000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58ca2cf7ed2a89e54800005c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ca2cf7ed2a89e54800005c.JPG'
+tags:
+  - fruit
+  - leaf
+comments:
+  - created_at: '2017-03-17T03:09:59Z'
+    text: Nice to have a photo of the interesting fruit of this rare Victorian native.
+    ref: 58cb5387ed2a8960a200100c
+    name: David Francis
+    username: david_francis
+collections:
+  - neds_corner_plants

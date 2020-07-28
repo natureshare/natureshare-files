@@ -1,0 +1,25 @@
+id:
+  - name: Nymphes myrmeleonoides
+created_at: '2013-05-21T14:31:45Z'
+datetime: '2009-01-16T16:24:23+10:00'
+description: Large for a lacewing. Weak flier. See comments.
+latitude: -37.50673
+longitude: 149.846553
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-07-03T06:43:26Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2009-01-16T16:24:23Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39867e35eb12984013e08.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39867e35eb12984013e08.jpg'
+  - datetime: '2009-01-16T16:23:31Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39867e35eb12984013e09.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39867e35eb12984013e09.jpg'
+comments:
+  - created_at: '2013-05-21T16:04:24Z'
+    text: From Ken Walker "Hi Russell -- I just checked our collection and we do not have a single specimen from Victoria -- all from NSW and QLD. That Mallacoota area is usually about 5 degrees warmer than the rest of Victoria due to the easterly weather patterns that flow down the east coast. There are a number of species that only enter Victoria in that area. Good record. Cheers Ken"
+    ref: 53b3984be35eb1298400dac3
+collections:
+  - mallacoota_area_insects_spiders_and_other_invertebrates

@@ -1,0 +1,36 @@
+id:
+  - Anas gracilis
+  - Anas castanea
+created_at: '2018-04-13T11:59:23Z'
+datetime: '2018-03-12T12:37:01+10:00'
+description: Many of these ducks on the Coolart Wetlands.
+elevation: 8.4
+latitude: -38.38449
+location_name: 'Somers VIC 3927, Australia'
+longitude: 145.141121
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-04-18T11:22:51Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-03-12T12:37:01Z'
+    height: 1274
+    width: 1873
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ad09b0aed2a89abdd000082.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ad09b0aed2a89abdd000082.JPG'
+tags:
+  - ducks
+comments:
+  - created_at: '2018-04-17T05:38:52Z'
+    text: 'Grey Teal on the left, female Chestnut Teal on the right.'
+    ref: 5ad5886ced2a899466004f62
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2018-04-18T11:23:09Z'
+    text: Thanks Lawrie
+    ref: 5ad72a9ded2a89090c000097
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - mornington_peninsula_wildlife

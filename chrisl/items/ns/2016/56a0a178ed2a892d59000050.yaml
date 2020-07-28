@@ -1,0 +1,27 @@
+id:
+  - Bromus rubens
+created_at: '2016-01-21T09:17:55Z'
+datetime: '2013-09-24T16:14:01+10:00'
+latitude: -34.147911
+longitude: 141.306078
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-01-21T09:17:55Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2013-09-24T16:14:22Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a0a1afed2a891f76000023.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a0a1afed2a891f76000023.jpg'
+  - datetime: '2013-09-24T16:14:01Z'
+    height: 4235
+    width: 2823
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a0a184ed2a897bc700002a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a0a184ed2a897bc700002a.jpg'
+tags:
+  - inflorescence
+collections:
+  - neds_corner_plants

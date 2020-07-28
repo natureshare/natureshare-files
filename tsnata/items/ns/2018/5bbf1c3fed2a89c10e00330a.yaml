@@ -1,0 +1,29 @@
+id:
+  - Conospermum mitchellii
+created_at: '2018-10-11T10:00:11Z'
+datetime: '2018-09-22T09:36:48+10:00'
+elevation: 272.3
+latitude: -37.621114
+location_name: 'Victoria Valley Rd, Dunkeld VIC 3294, Australia'
+longitude: 142.32887
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-10-11T10:16:56Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-09-22T09:36:48Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bbf1c48ed2a89402b0000f7.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbf1c48ed2a89402b0000f7.jpg'
+  - datetime: '2018-09-22T09:36:41Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bbf1c56ed2a89c6aa0000f6.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbf1c56ed2a89c6aa0000f6.jpg'
+collections:
+  - grampians_np_plants
+  - flora_and_fauna_of_the_grampians

@@ -1,0 +1,46 @@
+id:
+  - Caladenia moschata
+created_at: '2014-10-16T10:44:05Z'
+datetime: '2014-10-16T14:02:41+10:00'
+description: "Labellum with 3 lobes (2 lateral lobes, rounded, entire. mid-lobe tightly recurved, tapered to an acute purplish apex, margins fringed.)\r\nThanks to Russell Best for the id."
+latitude: -37.142619
+longitude: 144.321814
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-02-16T11:38:49Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-16T14:02:41Z'
+    height: 803
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54405a05e35eb1314d0003a6.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54405a05e35eb1314d0003a6.jpg'
+  - datetime: '2014-10-16T14:02:17Z'
+    height: 1024
+    width: 1365
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5501685fed2a8974d30002ef.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5501685fed2a8974d30002ef.jpg'
+tags:
+  - flower
+  - orchid
+comments:
+  - created_at: '2014-10-16T23:12:04Z'
+    text: Do you a pic of the whole plant? C. gracilis and praecox are very different in stem length. I found some praecox flowers two weeks ago at Mt. Tenerife along with some plants still in bud. The altitude there was over 600m I think. What is the altitude at your location?
+    ref: 544050c4e35eb132b00003af
+    name: Russell Best
+    username: russell
+  - replying_to: 544050c4e35eb132b00003af
+    created_at: '2014-10-16T23:40:32Z'
+    text: I don't have a photo of the whole plants but they were all under 15 cm tall. Altitude of location was 475 m.
+    ref: 54405770e35eb1314d0003a2
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-02-16T11:41:32Z'
+    text: 'Also observed in the Macedon Regional Park, Nursery Road, Macedon'
+    ref: 56c30aeced2a898f66000200
+    name: David Francis
+    username: david_francis
+collections:
+  - fryers_ridge_south_diggings_national_heritage_park_state_forest_plants

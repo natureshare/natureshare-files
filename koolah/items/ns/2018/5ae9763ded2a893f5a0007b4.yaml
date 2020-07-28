@@ -1,0 +1,29 @@
+id:
+  - Pantydia diemeni
+created_at: '2018-05-02T08:28:40Z'
+datetime: '2018-04-21T20:55:28+10:00'
+description: Second image shows head
+latitude: -37.88409
+longitude: 145.59762
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-05-02T08:30:19Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-04-21T20:35:05Z'
+    height: 2000
+    width: 1912
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ae97646ed2a8929e70000db.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ae97646ed2a8929e70000db.jpg'
+  - datetime: '2018-04-21T20:55:28Z'
+    height: 1623
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ae976bfed2a89abdd0000b7.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ae976bfed2a89abdd0000b7.jpg'
+tags:
+  - moth
+collections:
+  - shiprock_falls_-_moths

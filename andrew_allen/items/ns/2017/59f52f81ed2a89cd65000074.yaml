@@ -1,0 +1,65 @@
+id:
+  - Aporocera (Aporocera) haematodes
+created_at: '2017-10-29T01:32:38Z'
+datetime: '2017-10-29T10:15:00+10:00'
+elevation: 148.1
+latitude: -37.64948
+location_name: 'Greenvale VIC 3059, Australia'
+longitude: 144.865507
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-10-29T02:29:27Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 1679
+    width: 2519
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59f52f82ed2a89398400056e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59f52f82ed2a89398400056e.jpg'
+  - height: 1809
+    width: 2714
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59f52f87ed2a89398400056f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59f52f87ed2a89398400056f.jpg'
+  - height: 1807
+    width: 2711
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59f52f8aed2a893984000570.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59f52f8aed2a893984000570.jpg'
+comments:
+  - created_at: '2017-10-29T02:02:24Z'
+    text: Striking colour. New to me
+    ref: 59f536b0ed2a892d40009476
+    name: David Francis
+    username: david_francis
+  - replying_to: 59f536b0ed2a892d40009476
+    created_at: '2017-10-29T02:07:01Z'
+    text: 'It looks like some type of leaf beetle, but I''m looking for some sort of match...'
+    ref: 59f537c5ed2a892d40009479
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 59f536b0ed2a892d40009476
+    created_at: '2017-10-29T02:14:52Z'
+    text: 'At the moment, I''m thinking Aporocera (Aporocera) haematodes '
+    ref: 59f5399ced2a892d4000947b
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 59f5399ced2a892d4000947b
+    created_at: '2017-10-29T02:20:10Z'
+    text: 'Yes, it seems an exact match to Martin Lagerwey''s obs http://www.bowerbird.org.au/observations/46741'
+    ref: 59f53adaed2a892d40009485
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-10-29T02:27:38Z'
+    text: Aporocera (Aporocera) haematodes added to NS database
+    ref: 59f53c9aed2a892d4000948d
+    name: David Francis
+    username: david_francis
+  - replying_to: 59f53c9aed2a892d4000948d
+    created_at: '2017-10-29T02:30:00Z'
+    text: Thanks David
+    ref: 59f53d28ed2a8914b9000001
+    name: Andrew Allen
+    username: andrew_allen
+collections:
+  - woodlands_historic_park_insects_and_spiders
+  - woodlands_historic_park_-_coleoptera

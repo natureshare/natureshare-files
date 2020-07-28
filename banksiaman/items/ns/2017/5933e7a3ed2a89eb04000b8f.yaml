@@ -1,0 +1,56 @@
+created_at: '2017-06-04T10:59:38Z'
+datetime: '2016-11-04T15:24:09+10:00'
+description: Anybody have any idea what this is? I feel I should know it.
+latitude: -38.165307
+longitude: 142.368832
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-06-04T10:59:38Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-11-04T15:24:09Z'
+    height: 2371
+    width: 3683
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5933e7afed2a89398400001d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5933e7afed2a89398400001d.JPG'
+  - datetime: '2016-11-04T15:24:17Z'
+    height: 4496
+    width: 3000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5933e7c0ed2a89398400001e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5933e7c0ed2a89398400001e.JPG'
+comments:
+  - created_at: '2017-06-04T11:11:46Z'
+    text: Lycium sp.? (Box thorn)
+    ref: 5933eaf2ed2a8973fc000034
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-06-04T11:13:55Z'
+    text: 'On second thoughts, no thorns.'
+    ref: 5933eb73ed2a8973fc000036
+    name: David Francis
+    username: david_francis
+  - replying_to: 5933eb73ed2a8973fc000036
+    created_at: '2017-06-05T02:59:33Z'
+    text: 'No, not Box Thorn'
+    ref: 5934c915ed2a89eb04000d92
+    name: Kevin Sparrow
+    username: banksiaman
+  - created_at: '2017-06-06T01:12:13Z'
+    text: 'There are indeed thorns, but it''s not Boxthorn! Looks familiar but I can''t immediately name it.'
+    ref: 5936016ded2a89eb04000fa9
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2017-06-06T01:13:54Z'
+    text: Prunus spinosa?
+    ref: 593601d2ed2a89eb04000fac
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2017-06-08T04:44:46Z'
+    text: Looks like a Pyrus (pear)
+    ref: 5938d63eed2a899443000245
+    name: Jeff Latter
+    username: treedenvirons
+collections:
+  - woolsthorpe

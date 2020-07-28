@@ -1,0 +1,44 @@
+id:
+  - Pimelea humilis
+created_at: '2018-10-11T09:30:32Z'
+datetime: '2018-09-21T15:14:20+10:00'
+elevation: 207.4
+latitude: -37.886842
+location_name: 'Recreation St, Woorndoo VIC 3272, Australia'
+longitude: 142.798767
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-10-13T10:25:46Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-09-21T15:14:20Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bbf179ced2a892807000115.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbf179ced2a892807000115.jpg'
+  - datetime: '2018-09-21T15:22:46Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bbf1912ed2a892807000116.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbf1912ed2a892807000116.jpg'
+comments:
+  - created_at: '2018-10-11T10:49:31Z'
+    text: Possible Pimelea humilis
+    ref: 5bbf2abbed2a89c10e00338e
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-10-12T10:09:17Z'
+    text: <em>Pimelea glauca</em> species id suggested
+    ref: 5bc072cded2a89c10e0038d0
+    name: Kevin Sparrow
+    username: banksiaman
+  - created_at: '2018-10-13T09:29:17Z'
+    text: 'I also suggest P. humilis, the stem just below the bracts of the flower head is hairy, a classic indicator for P. humilis and this is smooth on the other candidates. Also the tips of the bracts on P. glauca are fringed with hairs but this is not apparent in this plant.'
+    ref: 5bc1baeded2a89c10e003e95
+    name: John Walter
+    username: 249pbr
+collections:
+  - victorian_volcanic_plains_native_plants

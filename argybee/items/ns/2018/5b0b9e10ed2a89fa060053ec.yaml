@@ -1,0 +1,43 @@
+id:
+  - Nerita spp.
+created_at: '2018-05-28T06:17:42Z'
+datetime: '2013-03-11T14:34:00+10:00'
+description: "Many of these were found on small rocky areas near an ocean beach at low tide. \r\nAbout 20mm diameter, mostly matte black.\r\nOcean/bay beach on a small patch of sedimentary rocks.\r\nNo operculum was found nor live specimens so species ID is difficult."
+elevation: 1.1
+latitude: -38.397643
+location_name: 'Victoria, Australia'
+longitude: 145.114738
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-05-31T06:58:36Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2013-03-19T14:34:26Z'
+    height: 1200
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b0b9e14ed2a89e822000014.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b0b9e14ed2a89e822000014.jpg'
+tags:
+  - snail
+comments:
+  - created_at: '2018-05-29T04:01:02Z'
+    text: 'Nerita melanotragus (syn: N. atramentosa) added.'
+    ref: 5b0cd07eed2a89fa0600581e
+    name: David Francis
+    username: david_francis
+  - replying_to: 5b0cd07eed2a89fa0600581e
+    created_at: '2018-05-29T10:31:02Z'
+    text: 'Hi David. I just chatted with Audrey Falconer and Simon Grove who treat them as two species. Unfortunately my pic doesn''t have the information to distinguish - an operculum with either black or brown colouration. :-) Can I therefore ask a favour to add Nerita sp. - thanks.'
+    ref: 5b0d2be6ed2a89fa06005a03
+    name: Mark Ridgway
+    username: argybee
+  - created_at: '2018-05-30T10:26:59Z'
+    text: Nerita genus added (Nerita spp.)
+    ref: 5b0e7c73ed2a8949fd000322
+    name: David Francis
+    username: david_francis
+collections:
+  - littoral_zones

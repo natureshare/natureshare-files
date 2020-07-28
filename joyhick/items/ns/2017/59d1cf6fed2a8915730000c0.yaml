@@ -1,0 +1,27 @@
+id:
+  - name: Goodenia blackiana
+    by: andrewbrown
+created_at: '2017-10-02T06:26:12Z'
+datetime: '2017-10-02T12:52:51+10:00'
+latitude: -36.394511
+longitude: 143.654586
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2017-10-02T06:26:12Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-10-02T12:52:51Z'
+    height: 2048
+    width: 1536
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59d1cf88ed2a8939840003a3.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59d1cf88ed2a8939840003a3.jpeg'
+comments:
+  - created_at: '2017-10-02T10:20:52Z'
+    text: <em>Goodenia blackiana</em> species id suggested
+    ref: 59d21304ed2a892d40002186
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - wedderburn_josephine_drive

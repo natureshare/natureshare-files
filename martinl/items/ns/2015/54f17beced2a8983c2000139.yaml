@@ -1,0 +1,30 @@
+id:
+  - Paropsis variolosa
+created_at: '2015-02-28T08:27:24Z'
+datetime: '2015-01-20T16:59:00+10:00'
+description: 'This is Paropsis variolosa.  This large leaf beetle is widespread across thew Australian mainland.  It is red or brown with mottles white specks.  I have also seen it at Taggerty and Sydney. '
+elevation: 201
+latitude: -37.628448
+location_name: 'Licola VIC 3858, Australia'
+longitude: 146.6229
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2015-03-20T21:50:12Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-01-20T16:59:03Z'
+    height: 769
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54f17beced2a8983c2000138.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f17beced2a8983c2000138.JPG'
+tags:
+  - beetle
+comments:
+  - created_at: '2015-03-02T10:00:49Z'
+    text: Species name added. Ready for you to assign to this observation. Cheers.
+    ref: 54f434d1ed2a8983c20003aa
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - beetles_leaf_beetle_reference_collection

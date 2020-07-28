@@ -1,0 +1,27 @@
+created_at: '2018-10-16T06:12:35Z'
+datetime: '2018-09-21T12:33:44+10:00'
+elevation: 191.2
+latitude: -37.890384
+location_name: 'Rokewood VIC 3330, Australia'
+longitude: 143.712089
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-10-16T06:12:46Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-09-21T12:33:44Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bc5805bed2a89c6aa000109.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bc5805bed2a89c6aa000109.jpg'
+comments:
+  - created_at: '2018-10-16T09:12:51Z'
+    text: Looks like a bud of Chrysocephalum apiculatum
+    ref: 5bc5ab93ed2a891c48000159
+    name: John Walter
+    username: 249pbr
+collections:
+  - victorian_volcanic_plains_native_plants

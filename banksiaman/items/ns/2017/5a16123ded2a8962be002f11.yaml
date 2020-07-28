@@ -1,0 +1,33 @@
+id:
+  - Helicoverpa armigera
+created_at: '2017-11-23T00:12:24Z'
+datetime: '2017-11-19T10:00:51+10:00'
+latitude: -38.324487
+longitude: 142.633485
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-11-23T00:32:26Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-11-19T10:00:51Z'
+    height: 1032
+    width: 1246
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a161249ed2a893984000707.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a161249ed2a893984000707.JPG'
+tags:
+  - moth
+comments:
+  - created_at: '2017-11-23T00:26:08Z'
+    text: 'Without seeing the hindwings, which is helpful in separating one species  from the other species in this group.  I suggest that it is Helicoverpa armigera.'
+    ref: 5a1615a0ed2a8962be002f2a
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5a1615a0ed2a8962be002f2a
+    created_at: '2017-11-23T00:31:47Z'
+    text: 'I knew you would know it, Cathy. Thanks'
+    ref: 5a1616f3ed2a8962be002f2f
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - emeny_property_overlooking_hopkins_river_near_warrnambool

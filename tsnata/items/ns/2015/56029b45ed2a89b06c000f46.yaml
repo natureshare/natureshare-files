@@ -1,0 +1,31 @@
+id:
+  - name: Hibbertia spp.
+    by: chrisl
+created_at: '2015-09-23T12:29:57Z'
+datetime: '2015-09-19T10:15:26+10:00'
+elevation: 164.2
+latitude: -36.58447
+location_name: 'Nurcoung VIC 3401, Australia'
+longitude: 141.651597
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-09-23T21:33:20Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-09-19T10:15:26Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56029b5ded2a890d95000239.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56029b5ded2a890d95000239.jpg'
+tags:
+  - flower-yellow
+comments:
+  - created_at: '2015-09-23T21:32:26Z'
+    text: Possibly Hibbertia virgata.
+    ref: 56031a6aed2a89b06c000f60
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - little_desert_np_plants

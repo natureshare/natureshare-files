@@ -1,0 +1,36 @@
+id:
+  - name: Paropsisterna interlita
+    by: david_francis
+created_at: '2014-04-06T20:02:34Z'
+datetime: '2014-04-06T12:28:45+10:00'
+latitude: -37.430755
+longitude: 144.65468
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2018-03-11T04:28:43Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-04-06T12:28:45Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986ce35eb129840151b6.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb129840151b6.jpg'
+  - datetime: '2014-04-06T12:28:29Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986ce35eb129840151b7.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb129840151b7.jpg'
+  - datetime: '2014-04-06T12:22:55Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986ce35eb129840151b9.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb129840151b9.jpg'
+comments:
+  - created_at: '2015-06-01T12:34:04Z'
+    text: "Hello Russell \r\nI have looked again at the leaf beetle that you photographed ages ago in the grass.  I have checked the museum beetles again and have posted a representative example  of a pinned specimen onto bowerbird.  Here is the link.  http://www.bowerbird.org.au/observations/36963"
+    ref: 556c513ced2a8918dd0002c7
+    name: Martin Lagerwey
+    username: martinl
+  - created_at: '2018-03-11T04:29:50Z'
+    text: Id by Martin L. See his link above.
+    ref: 5aa4b0beed2a896baf002e18
+    name: David Francis
+    username: david_francis
+collections:
+  - insects_and_other_invertebrates_of_riddells_creek

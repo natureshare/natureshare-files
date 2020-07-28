@@ -1,0 +1,32 @@
+id:
+  - Zyganisus propedia
+created_at: '2017-06-09T11:50:52Z'
+datetime: '2017-06-03T19:43:13+10:00'
+elevation: 261.9
+latitude: -37.80657
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.296995
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-06-09T11:50:52Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-06-03T19:43:13Z'
+    height: 1502
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/593a8b00ed2a893984000055.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/593a8b00ed2a893984000055.JPG'
+  - datetime: '2017-06-03T19:44:08Z'
+    height: 1502
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/593a8b1bed2a893984000056.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/593a8b1bed2a893984000056.JPG'
+tags:
+  - male
+  - moth
+  - moth-grey
+collections:
+  - brisbane_ranges_moths

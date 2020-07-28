@@ -1,0 +1,40 @@
+id:
+  - Cladia retipora
+created_at: '2016-05-18T07:07:25Z'
+datetime: '2016-03-21T09:10:06+10:00'
+latitude: -37.881348
+longitude: 144.177313
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-06-18T00:07:43Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-03-21T09:10:06Z'
+    height: 1704
+    width: 2272
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/573c1414ed2a890be7000207.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/573c1414ed2a890be7000207.JPG'
+  - datetime: '2016-03-21T09:09:51Z'
+    height: 1704
+    width: 2272
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/573c1412ed2a89211c000233.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/573c1412ed2a89211c000233.JPG'
+  - datetime: '2016-03-21T09:10:27Z'
+    height: 1704
+    width: 2272
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/573c1422ed2a89211c000234.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/573c1422ed2a89211c000234.JPG'
+comments:
+  - created_at: '2018-06-18T00:07:41Z'
+    text: This looks different from C.retipora in habitat form and colour. No tubes/holes.
+    ref: 5b26f7cded2a897859004aaf
+    name: Mark Ridgway
+    username: argybee
+  - replying_to: 5b26f7cded2a897859004aaf
+    created_at: '2018-06-19T07:36:18Z'
+    text: 'No photo is close enough to see, but they are made of tubular appendages that are perforated throughout. Colour may be due to light or moisture'
+    ref: 5b28b272ed2a897859005138
+    name: Chris Lindorff
+    username: chrisl

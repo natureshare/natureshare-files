@@ -1,0 +1,40 @@
+id:
+  - Lonicera tatarica
+created_at: '2015-01-21T14:38:25Z'
+datetime: '2015-01-08T09:04:30+10:00'
+description: Came up in in-laws' garden. It was 1.5m tall when we pulled it out. Could be first record in Australia.
+latitude: -37.458534
+longitude: 144.68306
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-03-24T11:29:05Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-01-08T09:04:30Z'
+    height: 905
+    width: 1547
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54bfb9e1ed2a89fdd900004c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54bfb9e1ed2a89fdd900004c.jpg'
+tags:
+  - fruit
+comments:
+  - created_at: '2015-01-22T06:51:11Z'
+    text: A wild guess - Coprosma rotundifolia (NZ).
+    ref: 54c09ddfed2a8962a80000bf
+    name: David Francis
+    username: david_francis
+  - replying_to: 54c09ddfed2a8962a80000bf
+    created_at: '2015-01-24T13:09:43Z'
+    text: Thanks David. I hadn't looked at that one. Looks close but I'm not sure it is quite right. I'm stuck on the various Cotoneaster.
+    ref: 54c39997ed2a895d68000084
+    name: Russell Best
+    username: russell
+  - created_at: '2015-03-24T11:29:56Z'
+    text: ID by the team at the Herbarium.
+    ref: 55114ab4ed2a8994a90008aa
+    name: Russell Best
+    username: russell
+collections:
+  - weeds_of_riddells_creek
+  - riddells_creek_plants

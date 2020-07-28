@@ -1,0 +1,36 @@
+id:
+  - Castiarina sexplagiata
+created_at: '2016-11-09T10:23:51Z'
+datetime: '2016-10-30T09:48:26+10:00'
+elevation: 217.3
+latitude: -36.775434
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.355431
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-11-09T11:13:01Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-30T09:48:26Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5821bd35ed2a89b71800019c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5821bd35ed2a89b71800019c.JPG'
+  - datetime: '2016-10-30T09:46:45Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5821bd27ed2a89b3fe0001bb.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5821bd27ed2a89b3fe0001bb.JPG'
+tags:
+  - adults
+comments:
+  - created_at: '2016-11-09T10:59:53Z'
+    text: <em>Castiarina spp.</em> species id suggested
+    ref: 582301a9ed2a897480002f68
+    name: David Francis
+    username: david_francis
+collections:
+  - wildlife_of_junortoun

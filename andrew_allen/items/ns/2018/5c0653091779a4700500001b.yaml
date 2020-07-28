@@ -1,0 +1,32 @@
+id:
+  - Asilidae spp.
+created_at: '2018-12-04T10:12:25Z'
+datetime: '2018-12-03T16:45:00+10:00'
+elevation: 137.4
+latitude: -37.649497
+location_name: 'Greenvale VIC 3059, Australia'
+longitude: 144.865318
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2018-12-05T09:53:14Z'
+license: CC BY 2.5 AU
+photos:
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_583ba1bbed2a897480005b25/2018-12-04/1543918314/robber-fly-2018-12-03-woodlands.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_583ba1bbed2a897480005b25/2018-12-04/1543918314/robber-fly-2018-12-03-woodlands.jpg'
+comments:
+  - created_at: '2018-12-05T09:53:31Z'
+    text: 'Super shot, Andrew!'
+    ref: 5c07a01b1779a4700500009e
+    name: Michael Gooch
+    username: michaelgooch
+  - replying_to: 5c07a01b1779a4700500009e
+    created_at: '2018-12-05T21:55:58Z'
+    text: Thanks Michael!
+    ref: 5c08496e1779a470050000c1
+    name: Andrew Allen
+    username: andrew_allen
+collections:
+  - woodlands_historic_park_insects_and_spiders
+  - woodlands_historic_park_-_diptera

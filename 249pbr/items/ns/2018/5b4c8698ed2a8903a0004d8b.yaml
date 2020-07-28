@@ -1,0 +1,35 @@
+id:
+  - Gloeoporus taxicola
+created_at: '2018-07-16T12:25:11Z'
+datetime: '2016-03-19T11:31:29+10:00'
+description: 'Two images. Species is Gloeoporus taxicola, please add to the dataset'
+elevation: 914.3
+latitude: -37.377589
+location_name: 'Mount Macedon VIC 3441, Australia'
+longitude: 144.611567
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-07-18T04:56:47Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-03-19T11:31:29Z'
+    height: 1626
+    width: 1890
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b4c869fed2a892807000063.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b4c869fed2a892807000063.jpg'
+  - datetime: '2016-03-19T11:31:29Z'
+    height: 2946
+    width: 4122
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b4c8612ed2a89280700005f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b4c8612ed2a89280700005f.jpg'
+comments:
+  - created_at: '2018-07-18T02:50:11Z'
+    text: Species added to dataset.
+    ref: 5b4eaae3ed2a89ecd800017b
+    name: Cathy Powers
+    username: koolah
+collections:
+  - macedon_ranges_-_fungi

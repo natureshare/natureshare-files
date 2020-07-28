@@ -1,0 +1,30 @@
+id:
+  - name: Orthetrum caledonicum
+    by: david_francis
+created_at: '2018-02-10T07:28:11Z'
+datetime: '2018-02-10T08:57:49+10:00'
+elevation: 30.9
+latitude: -37.784265
+location_name: 'Parkville VIC 3052, Australia'
+longitude: 144.94531
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-02-10T07:28:17Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-02-10T08:57:49Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a7e9e7fed2a895fa2000065.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a7e9e7fed2a895fa2000065.jpg'
+comments:
+  - created_at: '2018-02-10T11:29:37Z'
+    text: <em>Orthetrum caledonicum</em> species id suggested
+    ref: 5a7ed7a1ed2a89def700195d
+    name: David Francis
+    username: david_francis
+collections:
+  - royal_park_parkville

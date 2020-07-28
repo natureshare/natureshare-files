@@ -1,0 +1,36 @@
+id:
+  - Clematis glycinoides
+created_at: '2014-11-26T10:34:56Z'
+datetime: '2014-09-03T15:59:34+10:00'
+latitude: -38.533352
+longitude: 146.856338
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-11-27T10:17:38Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-03T15:59:34Z'
+    height: 2380
+    width: 3092
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5475acd0e35eb1d02c00003f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5475acd0e35eb1d02c00003f.JPG'
+  - datetime: '2014-09-03T15:59:40Z'
+    height: 2848
+    width: 4288
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5476f9fde35eb1a4e5000033.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5476f9fde35eb1a4e5000033.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2014-11-26T12:37:08Z'
+    text: 'From your photo I''d have said this was C. glycinoides. Do you have another pic showing evidence for C. aristata, or is it glycinoides?'
+    ref: 5475c974e35eb16ff0000001
+    name: Russell Best
+    username: russell
+  - replying_to: 5475c974e35eb16ff0000001
+    created_at: '2014-11-27T10:12:48Z'
+    text: I think you are right
+    ref: 5476f920e35eb1a4e500002c
+    name: Kevin Sparrow
+    username: banksiaman

@@ -1,0 +1,33 @@
+id:
+  - name: Acacia ulicifolia
+created_at: '2012-09-02T22:25:09Z'
+datetime: '2012-09-01T14:51:13+10:00'
+description: "Species information:\r\nErect, often straggly shrub, mostly 1–2 m high.\r\nPhyllodes spreading, linear-triangular, 5–15 mm long, 0.5–1.5 mm wide, thorn-like.\r\nFlower heads, globular, one per leaf axil, creamy yellow.\r\nFlowers Apr - Oct."
+latitude: -37.40159
+longitude: 144.563756
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-02-12T09:57:16Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-09-01T14:51:13Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39864e35eb12984012f85.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb12984012f85.jpg'
+  - datetime: '2012-09-01T14:52:09Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39864e35eb12984012f86.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb12984012f86.jpg'
+tags:
+  - acacia
+  - flower-yellow
+  - shrub
+comments:
+  - created_at: '2017-02-12T09:58:57Z'
+    text: 'Uncommon in the Macedon Range where only observed in the Old Scout Camp area, Macedon.'
+    ref: 58a031e1ed2a89e63e00004f
+    name: David Francis
+    username: david_francis
+collections:
+  - macedon_regional_park_environs_native_plants
+  - macedon_ranges_native_plants

@@ -1,0 +1,30 @@
+id:
+  - Unplaced leucophanes
+created_at: '2019-07-08T07:02:16Z'
+datetime: '2019-01-01T02:03:00+10:00'
+description: 'formerly Chrysolarentia leucophanes '
+elevation: 58.7
+latitude: -38.252387
+location_name: 'Freshwater Creek VIC 3217, Australia'
+longitude: 144.269452
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2019-08-03T06:17:58Z'
+license: CC BY 2.5 AU
+photos:
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_5c639c983abbd6ed0f00003c/2019-07-08/dec31_18_fwck_geo_lar_chrysolarentia_leucophanes_p1130088_cropa.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-07-08/dec31_18_fwck_geo_lar_chrysolarentia_leucophanes_p1130088_cropa.jpeg'
+comments:
+  - created_at: '2019-08-03T05:49:12Z'
+    text: Species added but listed as Unplaced leucophanes as per AFD.
+    ref: 5d452058c347d56c43000248
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2019-08-03T06:18:27Z'
+    text: Thank you Cathy
+    ref: 5d452733c347d5589900029a
+    name: Wendy Moore
+    username: wendymoore
+collections:
+  - freshwater_creek

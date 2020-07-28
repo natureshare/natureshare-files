@@ -1,0 +1,29 @@
+created_at: '2017-09-02T08:43:26Z'
+datetime: '2017-08-05T14:09:17+10:00'
+elevation: 222.3
+latitude: -36.783031
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.372035
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-09-02T08:43:26Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-08-05T14:09:17Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/599297b5ed2a893984000197.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/599297b5ed2a893984000197.JPG'
+  - datetime: '2017-08-05T14:09:09Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59929849ed2a89398400019c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59929849ed2a89398400019c.JPG'
+tags:
+  - light-green
+  - moss
+collections:
+  - junortoun_flora

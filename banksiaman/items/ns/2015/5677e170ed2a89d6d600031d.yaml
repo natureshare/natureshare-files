@@ -1,0 +1,44 @@
+id:
+  - Muellerina eucalyptoides
+  - Exocarpos cupressiformis
+created_at: '2015-12-21T11:27:24Z'
+datetime: '2015-12-21T16:04:36+10:00'
+description: A hemiparasitic growing on a hemiparasitic
+latitude: -38.207715
+longitude: 142.03729
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-12-21T11:30:22Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-12-21T16:04:36Z'
+    height: 3043
+    width: 4477
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5677e1b6ed2a898328000039.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5677e1b6ed2a898328000039.JPG'
+  - datetime: '2015-12-21T16:04:56Z'
+    height: 6000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5677e198ed2a898328000038.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5677e198ed2a898328000038.JPG'
+  - datetime: '2015-12-21T16:05:05Z'
+    height: 4000
+    width: 6000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5677e1d7ed2a89832800003a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5677e1d7ed2a89832800003a.JPG'
+comments:
+  - created_at: '2015-12-21T11:31:43Z'
+    text: 'Hi Chris, Went back today and got some better photos of this, you were right on the ID. I must be more careful and not assume things.'
+    ref: 5677e31fed2a89d6d6000320
+    name: Kevin Sparrow
+    username: banksiaman
+  - created_at: '2015-12-21T13:17:50Z'
+    text: Great series of photos Kevin.
+    ref: 5677fbfeed2a89d6d600032c
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - pallisters_reserve_orford

@@ -1,0 +1,38 @@
+id:
+  - Lichenostomus leucotis
+created_at: '2017-04-08T12:40:39Z'
+datetime: '2017-04-08T22:35:00+10:00'
+elevation: 209.4
+latitude: -36.754271
+location_name: 'Longlea VIC 3551, Australia'
+longitude: 144.403119
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-04-09T04:20:46Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 1036
+    width: 908
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58e8d90aed2a89a81f0000c3.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e8d90aed2a89a81f0000c3.jpeg'
+  - height: 1028
+    width: 856
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58e8d923ed2a891d6d0000ca.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e8d923ed2a891d6d0000ca.jpeg'
+tags:
+  - honeyeater
+comments:
+  - created_at: '2017-04-09T01:58:56Z'
+    text: 'Andrew, this would be a White-eared Honeyeater. Lewins doesn''t have the black upper breast and is coastal, east of Melbourne.'
+    ref: 58e99560ed2a89ccb1000001
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-04-09T04:20:25Z'
+    text: 'Yes you''re right David, I thought White-eared at first but changed it.'
+    ref: 58e9b689ed2a894865001607
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - wildlife_of_junortoun

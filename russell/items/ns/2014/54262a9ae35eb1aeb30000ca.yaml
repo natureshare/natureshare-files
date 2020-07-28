@@ -1,0 +1,30 @@
+id:
+  - Eragrostis dielsii
+created_at: '2014-09-27T03:10:18Z'
+datetime: '2014-09-05T11:12:09+10:00'
+latitude: -34.135807
+longitude: 141.297699
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-09-27T03:11:14Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-05T11:12:09Z'
+    height: 2032
+    width: 3347
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54262a99e35eb1aeb30000c8.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54262a99e35eb1aeb30000c8.JPG'
+  - datetime: '2014-09-05T11:12:38Z'
+    height: 1664
+    width: 1727
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54262a99e35eb1aeb30000c9.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54262a99e35eb1aeb30000c9.JPG'
+comments:
+  - created_at: '2014-09-27T03:11:07Z'
+    text: ID by Nathan Wong.
+    ref: 54262acbe35eb1aeb30000cd
+    name: Russell Best
+    username: russell
+collections:
+  - neds_corner_plants

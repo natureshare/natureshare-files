@@ -1,0 +1,32 @@
+id:
+  - Cordyceps robertsii
+created_at: '2018-02-27T11:12:15Z'
+datetime: '2016-03-19T11:51:54+10:00'
+description: 'This species is now known as Ophiocordyceps robertsii, three images'
+latitude: -37.378667
+longitude: 144.61275
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-02-27T11:12:27Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-03-19T11:51:54Z'
+    height: 4000
+    width: 4140
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a952c7fed2a89abdd000014.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a952c7fed2a89abdd000014.jpg'
+  - datetime: '2016-03-19T11:52:57Z'
+    height: 4000
+    width: 2442
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a952c97ed2a89abdd000015.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a952c97ed2a89abdd000015.jpg'
+  - datetime: '2016-03-19T11:52:38Z'
+    height: 3402
+    width: 2286
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a952c9bed2a8929e7000012.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a952c9bed2a8929e7000012.jpg'
+collections:
+  - macedon_ranges_-_fungi

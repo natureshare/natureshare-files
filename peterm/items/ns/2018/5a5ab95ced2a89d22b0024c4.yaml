@@ -1,0 +1,29 @@
+id:
+  - name: Scopula spp.
+    by: koolah
+created_at: '2018-01-14T04:01:01Z'
+datetime: '2018-01-05T23:46:39+10:00'
+description: Scopula sp. (1) in MoV 3.
+elevation: 694.9
+latitude: -37.709838
+location_name: 'Warburton VIC 3799, Australia'
+longitude: 145.711463
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-01-14T11:49:51Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-01-05T23:46:39Z'
+    height: 1443
+    width: 1925
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a5ab960ed2a890e9e000080.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a5ab960ed2a890e9e000080.jpg'
+  - datetime: '2018-01-05T23:46:39Z'
+    height: 1443
+    width: 1925
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a5ad600ed2a890e9e000083.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a5ad600ed2a890e9e000083.jpg'
+collections:
+  - yarra_ranges_national_park_-_moths

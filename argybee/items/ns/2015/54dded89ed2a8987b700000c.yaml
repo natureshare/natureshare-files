@@ -1,0 +1,46 @@
+id:
+  - Rutilia spp.
+created_at: '2015-02-13T12:26:49Z'
+datetime: '2014-02-20T11:26:00+10:00'
+description: "A robust, metallic green and tan tachinid fly. About 22mm long overall.\r\nResting on a bench in a local nature reserve adjoining national park. Species name not yet known."
+latitude: -37.86
+longitude: 145.32
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2016-01-18T21:48:32Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 1200
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54dded89ed2a8987b700000a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54dded89ed2a8987b700000a.jpg'
+  - height: 512
+    width: 512
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54dded89ed2a8987b700000b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54dded89ed2a8987b700000b.jpg'
+comments:
+  - created_at: '2015-02-13T12:36:44Z'
+    text: Wonderful detail!
+    ref: 54ddefdced2a8987b7000017
+    name: David Francis
+    username: david_francis
+  - created_at: '2015-02-14T05:19:45Z'
+    text: Wow thats great macro photography!
+    ref: 54dedaf1ed2a89d99000004b
+    name: Chris Clarke
+    username: cclarke
+  - replying_to: 54dedaf1ed2a89d99000004b
+    created_at: '2015-02-14T06:19:46Z'
+    text: "Thanks Chris. I'm not sure if their huge size makes them over confident but all these Rutilia seem very cooperative.\r\n"
+    ref: 54dee902ed2a89ef27000041
+    name: Mark Ridgway
+    username: argybee
+  - replying_to: 54ddefdced2a8987b7000017
+    created_at: '2015-02-14T06:22:31Z'
+    text: Thanks David. I like how their faces resemble a stitched leather mask. Then again maybe there's something Hannibal Lecterish about it too.
+    ref: 54dee9a7ed2a89ef27000046
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_diptera

@@ -1,0 +1,35 @@
+id:
+  - Apocrita spp.
+  - Lissopimpla excelsa
+created_at: '2014-11-14T02:14:56Z'
+datetime: '2014-11-09T10:26:25+10:00'
+elevation: 4.4
+latitude: -37.796037
+location_name: 'Footscray VIC, Australia'
+longitude: 144.911768
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-11-22T05:11:31Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-11-09T10:26:25Z'
+    height: 1500
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5465659fe35eb1e8b8000187.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5465659fe35eb1e8b8000187.jpg'
+comments:
+  - created_at: '2014-11-15T00:23:54Z'
+    text: This looks most like Lissopimpla excelsa to me.  You can check out the other photos of that species on Natureshare.
+    ref: 54669d1ae35eb140d30000bf
+    name: Suzanne Jones
+    username: suzanne
+  - replying_to: 54669d1ae35eb140d30000bf
+    created_at: '2014-11-22T05:12:19Z'
+    text: Confirmed.
+    ref: 54701b33e35eb198b100001e
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong

@@ -1,0 +1,41 @@
+id:
+  - name: Nataxa flavescens
+    by: koolah
+created_at: '2016-03-12T12:31:20Z'
+datetime: '2016-01-27T13:00:01+10:00'
+description: 'Moth found resting on decking of house, where it remained for several days.'
+latitude: -37.901991
+longitude: 144.223366
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-03-13T05:17:36Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-01-27T13:00:01Z'
+    height: 2709
+    width: 4064
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56e40a4eed2a89211c000126.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56e40a4eed2a89211c000126.jpg'
+  - datetime: '2016-01-27T13:01:58Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56e40a32ed2a890be70000ff.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56e40a32ed2a890be70000ff.jpg'
+  - datetime: '2016-01-27T13:01:34Z'
+    height: 2597
+    width: 3895
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56e40a62ed2a89211c000127.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56e40a62ed2a89211c000127.jpg'
+tags:
+  - adult
+comments:
+  - created_at: '2016-03-13T04:57:22Z'
+    text: <em>Nataxa flavescens</em> species id suggested
+    ref: 56e4f332ed2a89be3600083a
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brisbane_ranges_moths
+  - moths_of_jollys_road_anakie

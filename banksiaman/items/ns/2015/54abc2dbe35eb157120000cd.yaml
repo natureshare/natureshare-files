@@ -1,0 +1,38 @@
+id:
+  - Hovea heterophylla
+created_at: '2015-01-06T11:11:23Z'
+datetime: '2014-09-10T11:48:27+10:00'
+latitude: -37.538705
+longitude: 149.469005
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-01-08T06:03:44Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-10T11:48:27Z'
+    height: 1918
+    width: 2297
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54abc2dbe35eb157120000cc.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54abc2dbe35eb157120000cc.JPG'
+tags:
+  - flower
+  - pea
+comments:
+  - created_at: '2015-01-08T00:10:21Z'
+    text: What is the size of the plant? Is it not H. heterophylla?
+    ref: 54adcaede35eb1d400000005
+    name: Russell Best
+    username: russell
+  - replying_to: 54adcaede35eb1d400000005
+    created_at: '2015-01-08T01:25:34Z'
+    text: The one I know has a narrower leaf but maybe it is variable
+    ref: 54addc8ee35eb16ba4000006
+    name: Kevin Sparrow
+    username: banksiaman
+  - replying_to: 54addc8ee35eb16ba4000006
+    created_at: '2015-01-08T02:58:52Z'
+    text: heterophylla means variable leaf. Your narrow leaf used to be called H. linearis but they have all been lumped together now into H. heterophylla.
+    ref: 54adf26ce35eb1fb57000008
+    name: Russell Best
+    username: russell

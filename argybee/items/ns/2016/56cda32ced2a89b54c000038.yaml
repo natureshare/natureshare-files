@@ -1,0 +1,41 @@
+id:
+  - Pterygophorus cinctus
+created_at: '2016-02-24T12:58:06Z'
+datetime: '2016-02-19T14:06:19+10:00'
+description: 'Several of these were resting on bottlebrush leaves at the edge of DRNP. The males should have extravagantly pectinate antennae. '
+elevation: 157.8
+latitude: -37.892196
+location_name: 'Tremont VIC 3785, Australia'
+longitude: 145.313436
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-02-26T10:25:38Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-02-19T14:06:19Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56cda341ed2a890be7000077.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56cda341ed2a890be7000077.JPG'
+  - datetime: '2016-02-19T14:06:10Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56cda345ed2a89211c000082.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56cda345ed2a89211c000082.JPG'
+comments:
+  - created_at: '2016-02-26T09:40:25Z'
+    text: 'Nice photos, Mark. I can find Pterygophorus cinctus on ALA and Bowerbird but not Phylacteophaga cinctus.'
+    ref: 56d01d89ed2a899584000164
+    name: David Francis
+    username: david_francis
+  - replying_to: 56d01d89ed2a899584000164
+    created_at: '2016-02-26T10:29:22Z'
+    text: Thanks David. Some others have it wrong also. Fixed here.
+    ref: 56d02902ed2a89958400016c
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_hymenoptera

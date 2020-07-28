@@ -1,0 +1,24 @@
+id:
+  - name: Brassica tournefortii
+created_at: '2012-10-01T10:44:16Z'
+datetime: '2009-09-25T11:13:29+10:00'
+description: Location approximate.
+latitude: -35.592753
+longitude: 142.109678
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2013-02-27T20:20:02Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2009-09-25T11:13:29Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39864e35eb12984013310.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb12984013310.jpg'
+  - datetime: '2009-09-25T11:13:40Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39864e35eb12984013311.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb12984013311.jpg'
+tags:
+  - flower
+  - fruit
+collections:
+  - wyperfeld_np_plants

@@ -1,0 +1,48 @@
+id:
+  - name: Celmisia spp.
+    by: russell
+created_at: '2015-01-08T13:53:55Z'
+datetime: '2015-01-04T12:50:52+10:00'
+latitude: -37.486222
+longitude: 145.881619
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-01-22T00:24:34Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-01-04T12:50:52Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54ae8bf3e35eb1be75000034.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ae8bf3e35eb1be75000034.jpg'
+  - datetime: '2015-01-04T12:51:06Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54ae8bf3e35eb1be75000035.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ae8bf3e35eb1be75000035.jpg'
+  - datetime: '2015-01-04T12:51:06Z'
+    height: 555
+    width: 707
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54c0430ced2a8962a8000092.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54c0430ced2a8962a8000092.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2015-01-14T05:39:56Z'
+    text: Did you another pic like your flower pic that shows the structure below the petals?
+    ref: 54b6012ced2a89960c000041
+    name: Russell Best
+    username: russell
+  - replying_to: 54b6012ced2a89960c000041
+    created_at: '2015-01-22T00:25:18Z'
+    text: Unfortunately not but I have added a more zoomed-in one in case that helps.
+    ref: 54c0436eed2a89364f00007e
+    name: 'Reilly '
+    username: reilly
+  - replying_to: 54c0436eed2a89364f00007e
+    created_at: '2015-01-24T12:58:29Z'
+    text: Thanks Reilly. I can't see the bracts clearly enough so Celmisia spp. is the best I can do.
+    ref: 54c396f5ed2a89f7f2000079
+    name: Russell Best
+    username: russell

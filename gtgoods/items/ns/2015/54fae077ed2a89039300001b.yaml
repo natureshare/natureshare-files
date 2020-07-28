@@ -1,0 +1,52 @@
+id:
+  - Temognatha spp.
+created_at: '2015-03-07T11:26:47Z'
+datetime: '2012-01-16T11:43:55+10:00'
+elevation: 135.7
+latitude: -36.516242
+location_name: 'Little Desert VIC 3418, Australia'
+longitude: 141.906333
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-05-19T05:25:07Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-01-16T11:43:55Z'
+    height: 2361
+    width: 3563
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54fae077ed2a89039300001a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54fae077ed2a89039300001a.jpg'
+tags:
+  - beetle
+comments:
+  - created_at: '2015-03-07T12:53:12Z'
+    text: "A terrific beetle.\r\nThis is Temognatha spp.\r\nI think it is Temognatha oleata \r\n"
+    ref: 54faf4b8ed2a8904e800003f
+    name: Martin Lagerwey
+    username: martinl
+  - replying_to: 54faf4b8ed2a8904e800003f
+    created_at: '2015-05-12T06:56:30Z'
+    text: >-
+      Hi there. Actually, this is a female of Temognatha yarrelli, which occurs from what's left of the mallee habitats of south-west western Australia, through what's left of the mallee habitats in southern South Australia, to the little bits of mallee habitats left in western Victoria (and under severe threat from deliberate so-called 'hazard reduction' burns which in fact will dramatically increase the severity of future fires), and as far east as what's left of the mallee habitats of central New South Wales. Generally the males of Temognatha yarrelli have no dark foreground bands on the elytra, whereas the females usually posses such banding, or reduced bands. Rarely, the situation is reversed, and a known population of such a rare reversed banding in the Little Desert is now in serious danger of being wiped out by the deliberate burning of the mallee in Victoria. Mallee takes at least 75 years, more likely100 years, to properly mature, and should not be burnt, at least
+      deliberately, at lesser intervals. Also, southerly populations of this taxon tend to have pink or red forms, and likewise in Victoria, these forms, especially in the Little Desert, are in real danger of being wiped out by the deliberate burning of what's left of our precious mallee habitat heritage.
+    ref: 5551a41eed2a890e03000043
+    name: entom2
+    username: entom2
+  - replying_to: 5551a41eed2a890e03000043
+    created_at: '2015-05-22T02:04:50Z'
+    text: 'Hi Entom2. There appear to be multiple names being used for this taxon. The most commonly used name appears to be Calotemognatha, eg. ALA, Museum Vic, GBIF. Coleoptera Atlas uses Themognatha, which I think is misspelling. ALA uses Temognatha, as does Wikipedia and a few other sites. ALA uses Temognatha for some species and Calotemognatha for other species, and yarelli is listed under Calotemognatha. In NatureShare we used ABRS names (which is limited to species records that could be positively identified in the ABRS data as occurring in Victoria) which resulted in us having numerous Temognatha species, whereas only Calotemognatha spp. is there too. Interestingly there is no cross-reference in ALA associating Temognatha as a previous name for Calotemognatha species, nor vice-versa. Wondering if you can shed any light on what is happening?'
+    ref: 555e8ec2ed2a897a0300020c
+    name: Russell Best
+    username: russell
+  - replying_to: 555e8ec2ed2a897a0300020c
+    created_at: '2015-05-22T11:01:12Z'
+    text: "Hello Russell\r\nI am not the expert but I understand that the extra 'h' was an old spelling.  AFD is the database used by ALA and will agree with eachother.    The AFD page usually will list the history of changes in names but only mentions that Calotemognatha was proposed as a subgenus but has evidently been promoted.  This appears to have been in 1991.   http://www.environment.gov.au/biodiversity/abrs/online-resources/fauna/afd/taxa/Calotemognatha "
+    ref: 555f0c78ed2a897a0300025b
+    name: Martin Lagerwey
+    username: martinl
+  - created_at: '2016-06-27T03:29:12Z'
+    text: 'May apologies, Martin is absolutely correct. The correct name is indeed Calotemognatha yarrelli! I have used the prior generic name ''Temognatha'' for so long, since the 1970''s, that I sometimes forget the new combination created in 1991. '
+    ref: 57709d88ed2a89e69f000091
+    name: entom2
+    username: entom2

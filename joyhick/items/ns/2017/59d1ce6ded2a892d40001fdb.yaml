@@ -1,0 +1,32 @@
+id:
+  - name: Acacia euthycarpa subsp. euthycarpa
+    by: chrisl
+created_at: '2017-10-02T06:42:02Z'
+datetime: '2017-10-02T10:43:34+10:00'
+latitude: -36.394031
+longitude: 143.653747
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2017-10-02T06:42:02Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-10-02T10:43:34Z'
+    height: 2048
+    width: 1536
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59d1ce97ed2a893984000389.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59d1ce97ed2a893984000389.jpeg'
+  - datetime: '2017-10-02T10:43:54Z'
+    height: 2048
+    width: 1536
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59d1ceaaed2a89398400038c.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59d1ceaaed2a89398400038c.jpeg'
+comments:
+  - created_at: '2017-10-04T23:34:31Z'
+    text: <em>Acacia euthycarpa subsp. euthycarpa</em> species id suggested
+    ref: 59d57007ed2a892d40002ca9
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - wedderburn_josephine_drive

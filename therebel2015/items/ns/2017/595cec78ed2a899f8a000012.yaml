@@ -1,0 +1,37 @@
+id:
+  - name: Lycoperdon spp.
+    by: david_francis
+created_at: '2017-07-05T13:44:07Z'
+datetime: '2017-06-16T09:30:29+10:00'
+description: Puffball fungus.Needs to be identified.
+elevation: 729.9
+latitude: -37.389892
+location_name: 'Macedon VIC, Australia'
+longitude: 144.592488
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-07-05T13:44:07Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-06-16T09:30:29Z'
+    height: 3024
+    width: 4032
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/595cec89ed2a8939840000d7.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/595cec89ed2a8939840000d7.JPG'
+tags:
+  - fruit
+comments:
+  - created_at: '2017-07-06T01:17:39Z'
+    text: <em>Lycoperdon spp.</em> species id suggested
+    ref: 595d8fb3ed2a897cef002b96
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-07-25T13:24:41Z'
+    text: Lycoperdon pyriforme
+    ref: 5b587a19ed2a8903a00075de
+    name: zeke1944
+    username: zeke1944
+collections:
+  - fungus_of_central_victoria

@@ -1,0 +1,57 @@
+id:
+  - Acanthiza pusilla
+created_at: '2015-04-13T01:10:05Z'
+datetime: '2015-04-12T11:16:32+10:00'
+description: Bird found sitting on the window sill in the shed.  Brown Thornbill??
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-04-13T11:31:26Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-04-12T11:16:32Z'
+    height: 1923
+    width: 2884
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/552b176ced2a89c9c100010c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/552b176ced2a89c9c100010c.JPG'
+  - datetime: '2015-04-12T11:17:38Z'
+    height: 1596
+    width: 2351
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/552b176ced2a89c9c100010d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/552b176ced2a89c9c100010d.JPG'
+  - datetime: '2015-04-12T11:17:47Z'
+    height: 1595
+    width: 2360
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/552b176ced2a89c9c100010e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/552b176ced2a89c9c100010e.JPG'
+tags:
+  - bird
+comments:
+  - created_at: '2015-04-13T06:43:54Z'
+    text: 'Yes, Brown Thornbill. (Buff scallops on forehead and large dark red eye). What''s that on its foot?'
+    ref: 552b65aaed2a8961ed000041
+    name: David Francis
+    username: david_francis
+  - created_at: '2015-04-13T07:06:52Z'
+    text: Agree with David - Brown Thornbill. Would suggest an adult or near-adult bird.
+    ref: 552b6b0ced2a8961ed00008e
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 552b6b0ced2a8961ed00008e
+    created_at: '2015-04-13T11:25:16Z'
+    text: 'Thanks.  We thought juvenile, mainly because it was so quiet, but I really didn''t know.  Didn''t panic at all when we approached it.'
+    ref: 552ba79ced2a8961ed000102
+    name: Suzanne Jones
+    username: suzanne
+  - replying_to: 552b65aaed2a8961ed000041
+    created_at: '2015-04-13T11:28:18Z'
+    text: 'Thanks.  Not sure what is on its foot - maybe cobweb??  We didn''t notice it at the time I took the photos.  The bird was very quiet and approachable.  Graeme just opened the shed window a bit wider and it flew away.  '
+    ref: 552ba852ed2a8961ed000105
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - birds_seen_at_145_gibsons_road_cobains

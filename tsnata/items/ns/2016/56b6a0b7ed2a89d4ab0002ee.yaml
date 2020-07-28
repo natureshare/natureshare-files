@@ -1,0 +1,29 @@
+id:
+  - Podargus strigoides
+created_at: '2016-02-07T01:47:02Z'
+datetime: '2016-02-07T10:57:17+10:00'
+description: 'Maybe the same bird that was spotted in Newell''s Paddock on January 31st, 2016, also on February 5th.'
+elevation: 3.6
+latitude: -37.790714
+location_name: 'Kensington VIC, Australia'
+longitude: 144.922982
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-02-07T01:47:02Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-02-07T10:55:28Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56b6a0c4ed2a89e050000074.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56b6a0c4ed2a89e050000074.jpg'
+  - datetime: '2016-02-07T10:57:17Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56b6a0baed2a89b31c000066.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56b6a0baed2a89b31c000066.jpg'
+collections:
+  - flemington_kensington_3031

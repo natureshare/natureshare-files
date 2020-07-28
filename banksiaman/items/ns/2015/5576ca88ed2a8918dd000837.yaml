@@ -1,0 +1,30 @@
+created_at: '2015-06-09T11:14:16Z'
+datetime: '2015-06-08T13:12:04+10:00'
+description: What look like eggs attached to a Xanthorrhoea australis frond
+latitude: -38.254115
+longitude: 141.413003
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-06-09T11:17:33Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-06-08T13:12:04Z'
+    height: 6000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5576ca87ed2a8918dd000836.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5576ca87ed2a8918dd000836.jpg'
+comments:
+  - created_at: '2015-06-12T12:27:08Z'
+    text: 'Hi Kevin. I have seen very similar on the stems of a bracken ferns. http://www.projectnoah.org/spottings/773726003 '
+    ref: 557ad01ced2a8918dd000a6f
+    name: Mark Ridgway
+    username: argybee
+  - replying_to: 557ad01ced2a8918dd000a6f
+    created_at: '2015-06-13T12:07:00Z'
+    text: 'Interesting, I have never seen anything like this before. Thanks Mark for your input'
+    ref: 557c1ce4ed2a8918dd000ba3
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - mt_richmond_np_plants

@@ -1,0 +1,32 @@
+id:
+  - name: Leucopogon parviflorus
+    by: david_francis
+created_at: '2017-09-02T11:21:43Z'
+datetime: '2017-08-07T12:17:56+10:00'
+description: Medium shrub in bud.
+elevation: 64.5
+latitude: -38.458384
+location_name: 'Cape Schanck VIC 3939, Australia'
+longitude: 144.884758
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-09-02T11:21:43Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-08-07T12:17:56Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59aa71b6ed2a8939840001cd.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59aa71b6ed2a8939840001cd.JPG'
+tags:
+  - flowers-white
+  - shrub-medium
+comments:
+  - created_at: '2017-09-02T12:48:00Z'
+    text: <em>Leucopogon parviflorus</em> species id suggested
+    ref: 59aaa880ed2a892c7400010c
+    name: David Francis
+    username: david_francis
+collections:
+  - cape_schank_flora

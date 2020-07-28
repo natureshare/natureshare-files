@@ -1,0 +1,37 @@
+id:
+  - Cerambycidae spp.
+created_at: '2016-01-19T10:20:16Z'
+datetime: '2015-10-23T15:49:32+10:00'
+description: About 22mm body length. These were common on the day but I haven't seen them before or since. Yet to search for species...
+elevation: 159
+latitude: -37.907841
+location_name: 'Upwey VIC 3158, Australia'
+longitude: 145.312835
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-01-19T10:20:16Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-10-23T15:50:10Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/569e0a91ed2a89e05000001a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/569e0a91ed2a89e05000001a.JPG'
+  - datetime: '2015-10-23T15:49:32Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/569e0a82ed2a891f7600000e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/569e0a82ed2a891f7600000e.JPG'
+  - datetime: '2015-10-23T15:49:16Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/569e0aa0ed2a89b31c000014.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/569e0aa0ed2a89b31c000014.JPG'
+tags:
+  - beetle
+  - longicorn
+collections:
+  - dandenong_ranges_coleoptera

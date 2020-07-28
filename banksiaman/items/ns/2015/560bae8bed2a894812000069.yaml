@@ -1,0 +1,39 @@
+id:
+  - Calytrix spp.
+created_at: '2015-09-30T09:42:35Z'
+datetime: '2015-09-18T12:33:10+10:00'
+latitude: -37.627278
+longitude: 142.329827
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-09-30T10:54:30Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-09-18T12:33:10Z'
+    height: 3246
+    width: 4651
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560baea6ed2a890d9500033a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560baea6ed2a890d9500033a.JPG'
+tags:
+  - buds
+comments:
+  - created_at: '2015-09-30T10:51:23Z'
+    text: Hi Kevin. Do you think it could be a Calytrix species?
+    ref: 560bbeabed2a8948120000c8
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 560bbeabed2a8948120000c8
+    created_at: '2015-09-30T10:54:00Z'
+    text: 'Most likely, the brown nobby bits threw me though'
+    ref: 560bbf48ed2a8948120000ce
+    name: Kevin Sparrow
+    username: banksiaman
+  - created_at: '2015-09-30T11:16:57Z'
+    text: I think a disease of some sort. Perhaps insect or fungal-induced.
+    ref: 560bc4a9ed2a894812000102
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - grampians_walk_to_summit_of_mt_sturgeon_at_dunkeld

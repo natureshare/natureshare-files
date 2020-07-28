@@ -1,0 +1,35 @@
+id:
+  - Orthodera ministralis
+created_at: '2016-03-19T10:00:56Z'
+datetime: '2016-03-16T22:20:18+10:00'
+description: Safe and not so safe.
+latitude: -37.806622
+longitude: 144.297118
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-03-23T05:31:20Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-03-16T22:20:18Z'
+    height: 1586
+    width: 2511
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56ed222eed2a890be700012a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ed222eed2a890be700012a.JPG'
+  - datetime: '2016-03-16T23:13:40Z'
+    height: 2036
+    width: 2813
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56ed2266ed2a89211c000156.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ed2266ed2a89211c000156.JPG'
+tags:
+  - green
+  - insect
+comments:
+  - created_at: '2016-03-19T10:30:08Z'
+    text: Clever!
+    ref: 56ed2a30ed2a891f40000002
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - brisbane_ranges_insects

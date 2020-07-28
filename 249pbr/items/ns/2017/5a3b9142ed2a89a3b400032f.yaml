@@ -1,0 +1,38 @@
+id:
+  - Coleophora alcyonipennella
+created_at: '2017-12-21T11:45:04Z'
+datetime: '2017-11-24T20:47:45+10:00'
+description: I believe this is Coleophora alcyonipennella - could this please be added to the database
+latitude: -37.224434
+longitude: 144.309678
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-12-22T07:12:33Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-11-24T20:47:45Z'
+    height: 1152
+    width: 1188
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a3b9173ed2a893fb7000051.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a3b9173ed2a893fb7000051.jpg'
+  - datetime: '2017-11-24T20:47:34Z'
+    height: 1026
+    width: 858
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a3b914ded2a89298f000043.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a3b914ded2a89298f000043.jpg'
+  - datetime: '2017-11-24T20:47:36Z'
+    height: 1026
+    width: 1314
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a3b915ded2a89298f000044.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a3b915ded2a89298f000044.jpg'
+comments:
+  - created_at: '2017-12-22T02:51:17Z'
+    text: Confirmed and species added.  Common name must come from the white tipped antennae.
+    ref: 5a3c7325ed2a89e23c000f35
+    name: Cathy Powers
+    username: koolah
+collections:
+  - drummond_nearby_forests_-_moths

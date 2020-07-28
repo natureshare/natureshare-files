@@ -1,0 +1,32 @@
+id:
+  - Mycena spp.
+created_at: '2018-08-06T11:31:07Z'
+datetime: '2018-08-05T14:06:06+10:00'
+elevation: 615.3
+latitude: -37.478349
+location_name: 'Blackwood VIC 3458, Australia'
+longitude: 144.291268
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-06T11:31:23Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-08-05T14:06:06Z'
+    height: 3252
+    width: 3819
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b68305ced2a891efe00008d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b68305ced2a891efe00008d.jpg'
+comments:
+  - created_at: '2018-08-08T23:28:15Z'
+    text: <em>Mycena spp.</em> species id suggested
+    ref: 5b6b7c8fed2a89a7f10029c6
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2019-06-29T06:28:08Z'
+    text: Could also belong to Entoloma although there was no hint of pink in the gills.
+    ref: 5d1704f8c347d59c400000a5
+    name: zeke1944
+    username: zeke1944
+collections:
+  - wombat_forest_-_fungi

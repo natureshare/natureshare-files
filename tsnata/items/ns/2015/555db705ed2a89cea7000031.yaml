@@ -1,0 +1,40 @@
+id:
+  - name: Lichenomphalia chromacea
+    by: funkeytom
+created_at: '2015-05-21T10:44:21Z'
+datetime: '2015-05-16T11:51:05+10:00'
+description: on the Red Beak Track. Location approximate.
+elevation: 363.2
+latitude: -37.868137
+location_name: 'Staughton Vale VIC 3221, Australia'
+longitude: 144.245603
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-08-24T10:24:10Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-05-16T11:51:05Z'
+    height: 1650
+    width: 2200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/555db704ed2a89cea7000030.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/555db704ed2a89cea7000030.jpg'
+comments:
+  - created_at: '2015-06-03T09:39:40Z'
+    text: '? Lichenomphalia umbellifera'
+    ref: 556ecb5ced2a8918dd00043a
+    name: Mark Ridgway
+    username: argybee
+  - created_at: '2015-08-24T10:26:36Z'
+    text: 'Yellow enough to be L. chromacea, but L. umbellifera (which is more orange) can be hard to separate. t is possible that there is one rather variable species that has pileus from bright yellow to orange brown, but more research is definitely needed on this group to clarify species limits and how to tell them apart.  '
+    ref: 55daf15ced2a892a7900000d
+    name: Tom May
+    username: funkeytom
+  - replying_to: 55daf15ced2a892a7900000d
+    created_at: '2015-09-15T01:18:03Z'
+    text: thanks again Tom
+    ref: 55f771cbed2a891b5900009d
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - brisbane_ranges_fungi

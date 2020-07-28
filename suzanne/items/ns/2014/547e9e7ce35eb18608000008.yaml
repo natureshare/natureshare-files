@@ -1,0 +1,41 @@
+id:
+  - Lepidoptera spp.
+created_at: '2014-12-03T05:24:12Z'
+datetime: '2014-03-13T12:47:44+10:00'
+description: Large moth perched on side of pot plant.
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-12-11T10:28:55Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-03-13T12:47:44Z'
+    height: 1462
+    width: 2223
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/547e9e7be35eb18608000005.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/547e9e7be35eb18608000005.JPG'
+  - datetime: '2014-03-13T12:47:20Z'
+    height: 1342
+    width: 1991
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/547e9e7be35eb18608000006.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/547e9e7be35eb18608000006.JPG'
+  - datetime: '2014-03-13T12:46:04Z'
+    height: 1552
+    width: 2334
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/547e9e7be35eb18608000007.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/547e9e7be35eb18608000007.JPG'
+tags:
+  - moth
+comments:
+  - created_at: '2016-01-24T12:58:01Z'
+    text: Could this possibly be a species of Oxycanus?
+    ref: 56a4ca59ed2a89e31b000057
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains
+  - butterflies_moths_seen_at_145_gibsons_road_cobains

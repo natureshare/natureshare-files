@@ -1,0 +1,30 @@
+id:
+  - Larus pacificus pacificus
+created_at: '2015-04-15T03:38:49Z'
+datetime: '2015-04-11T13:42:18+10:00'
+description: Followed us around the beach and tried joining us for a picnic.
+latitude: -38.850464
+longitude: 143.559051
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2015-04-15T03:40:26Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-04-11T13:42:18Z'
+    height: 777
+    width: 688
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/552ddd49ed2a8947a60001b1.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/552ddd49ed2a8947a60001b1.jpg'
+comments:
+  - created_at: '2017-01-01T02:24:59Z'
+    text: 'I might be wrong here, but speaking as a veterinarian and also having seen one of my banded birds in South Australia with an identical eye, this bird is blind in its right eye.'
+    ref: 5868687bed2a89748000c06e
+    name: Bruce Robertson
+    username: pacificgull
+  - created_at: '2017-02-02T00:37:56Z'
+    text: I see what you mean - it's squinting.
+    ref: 58927f64ed2a89d10f00229d
+    name: David Francis
+    username: david_francis

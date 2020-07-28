@@ -1,0 +1,45 @@
+id:
+  - name: Pseudanthus ovalifolius
+    by: chrisl
+created_at: '2017-10-15T11:32:17Z'
+datetime: '2017-10-14T15:40:00+10:00'
+description: Small shrubs with tiny leaves and flowers.
+elevation: 182.1
+latitude: -36.548756
+location_name: 'Bagshot North VIC 3551, Australia'
+longitude: 144.382948
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-10-15T11:32:17Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 1529
+    width: 1019
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59e1e988ed2a8939840004df.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59e1e988ed2a8939840004df.JPG'
+tags:
+  - flowers-creamy-white
+  - flowers-tiny
+  - leaves-tiny
+  - shrub-compact
+  - shrub-small
+comments:
+  - created_at: '2017-10-15T20:18:12Z'
+    text: Phebalium springs to mind but I'm guessing.
+    ref: 59e3c284ed2a892d40005a6a
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 59e3c284ed2a892d40005a6a
+    created_at: '2017-10-16T04:31:42Z'
+    text: Dainty Phebelium is listed in the area but these flowers were much smaller without the long stamens.
+    ref: 59e4362eed2a892d40005c44
+    name: Andrew Brown
+    username: andrewbrown
+  - created_at: '2017-10-18T06:32:16Z'
+    text: <em>Pseudanthus ovalifolius</em> species id suggested
+    ref: 59e6f570ed2a892d400065d4
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - kamarooka_flora

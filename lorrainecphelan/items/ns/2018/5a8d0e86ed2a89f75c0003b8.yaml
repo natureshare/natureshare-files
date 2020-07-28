@@ -1,0 +1,36 @@
+id:
+  - Eryngium vesiculosum
+created_at: '2018-02-21T06:18:21Z'
+datetime: '2018-02-20T19:35:12+10:00'
+description: Three images.
+elevation: 58.8
+latitude: -38.092628
+location_name: 'Heywood VIC 3304, Australia'
+longitude: 141.753114
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-02-26T06:30:17Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-02-20T19:35:12Z'
+    height: 1201
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a8d0ea6ed2a8966a000006d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a8d0ea6ed2a8966a000006d.jpg'
+  - datetime: '2018-02-20T19:40:03Z'
+    height: 1201
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a8d0e8ded2a8966a000006c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a8d0e8ded2a8966a000006c.jpg'
+  - datetime: '2018-02-20T19:37:29Z'
+    height: 1200
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a8d0ec3ed2a8966a000006e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a8d0ec3ed2a8966a000006e.jpg'
+tags:
+  - flower-blue
+collections:
+  - homerton_and_milltown

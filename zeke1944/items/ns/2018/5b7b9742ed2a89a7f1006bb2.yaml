@@ -1,0 +1,32 @@
+id:
+  - Aleurodiscus spp.
+created_at: '2018-08-21T04:46:29Z'
+datetime: '2012-04-15T12:20:52+10:00'
+elevation: 400.3
+latitude: -38.516324
+location_name: 'Lorne VIC 3232, Australia'
+longitude: 143.918205
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-21T15:43:20Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-04-15T12:20:52Z'
+    height: 1314
+    width: 956
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b7b9744ed2a89c6aa000093.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b7b9744ed2a89c6aa000093.jpg'
+comments:
+  - created_at: '2018-08-21T04:39:43Z'
+    text: <em>Aleurodiscus spp.</em> species id suggested
+    ref: 5b7b978fed2a89a7f1006bb5
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-21T04:48:15Z'
+    text: ' Featured in Fuhrer 428. Found on dead Bracken fronds (Pteridium asculentum) in wetter forests. Seen only once.'
+    ref: 5b7b998fed2a89a7f1006bc0
+    name: zeke1944
+    username: zeke1944
+collections:
+  - otway_ranges_-_fungi

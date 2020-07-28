@@ -1,0 +1,37 @@
+id:
+  - Platycercus elegans elegans
+created_at: '2015-12-14T06:05:19Z'
+datetime: '2015-12-14T17:04:00+10:00'
+description: Pond visitor drinking on a warm day.
+latitude: -37.805234
+longitude: 144.297866
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2015-12-14T10:31:22Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-12-12T16:17:12Z'
+    height: 1426
+    width: 1505
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/566e9a33ed2a899c630002b0.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/566e9a33ed2a899c630002b0.jpg'
+tags:
+  - bird
+comments:
+  - created_at: '2015-12-14T11:06:57Z'
+    text: Such beautiful colours and sounds!
+    ref: 566ea2d1ed2a89a3ca000001
+    name: Gill Best
+    username: gill
+  - created_at: '2015-12-15T00:24:34Z'
+    text: Great video!
+    ref: 566f5dc2ed2a89d6d6000042
+    name: 'Reilly '
+    username: reilly
+collections:
+  - brisbane_ranges_birds
+videos:
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/video/20151214/1450072879596-g5tra6hc8dc-bf9e54d5d6c83f6133131182a1337437/Rosellas%207_1.mp4'

@@ -1,0 +1,30 @@
+id:
+  - name: Gminatus australis
+    by: david_francis
+created_at: '2017-02-02T09:10:29Z'
+datetime: '2017-01-18T09:57:30+10:00'
+elevation: 41.9
+latitude: -38.684126
+location_name: 'Grey River VIC 3234, Australia'
+longitude: 143.837846
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-02-02T09:10:29Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-18T09:57:30Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5892f748ed2a892daf000386.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5892f748ed2a892daf000386.jpg'
+comments:
+  - created_at: '2017-02-02T10:54:27Z'
+    text: <em>Gminatus australis</em> species id suggested
+    ref: 58930fe3ed2a89d10f002486
+    name: David Francis
+    username: david_francis
+collections:
+  - grey_river

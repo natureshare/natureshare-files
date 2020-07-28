@@ -1,0 +1,34 @@
+id:
+  - Turnix spp.
+created_at: '2016-11-09T11:16:36Z'
+datetime: '2016-11-04T16:13:46+10:00'
+description: Turnix sp.
+elevation: 29
+latitude: -34.144816
+location_name: 'Neds Corner VIC 3496, Australia'
+longitude: 141.328146
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2016-11-09T11:16:36Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-11-04T16:13:46Z'
+    height: 1205
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/582300b9ed2a89d73e0001aa.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/582300b9ed2a89d73e0001aa.JPG'
+comments:
+  - created_at: '2016-11-10T07:36:17Z'
+    text: Turnix spp. added to database.
+    ref: 58242371ed2a89748000311b
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-11-14T20:04:02Z'
+    text: <em>Turnix spp.</em> species id suggested
+    ref: 582a18b2ed2a897480003bf5
+    name: James Booth
+    username: jamesbooth
+collections:
+  - neds_corner_birds

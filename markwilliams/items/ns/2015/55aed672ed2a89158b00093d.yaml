@@ -1,0 +1,40 @@
+id:
+  - Melanodryas cucullata
+created_at: '2015-07-21T23:32:02Z'
+datetime: '2015-06-30T12:50:43+10:00'
+latitude: -37.612722
+longitude: 145.071948
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-07-21T23:32:27Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-06-30T12:50:43Z'
+    height: 3021
+    width: 4028
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55aed672ed2a89158b00093b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55aed672ed2a89158b00093b.jpg'
+tags:
+  - adult
+  - male
+comments:
+  - created_at: '2015-07-24T03:50:25Z'
+    text: G'day Mark. Fantastic find and great record. Have you recorded the Hooded Robin in this area before? Rather distant from its usual range. Cheers.
+    ref: 55b1b601ed2a89db810000a5
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 55b1b601ed2a89db810000a5
+    created_at: '2015-07-28T06:08:52Z'
+    text: 'Hi Chris, I took the photo for one of our bushland guys (who''s a birdo)- he hadn''t seen one before in the area'
+    ref: 55b71c74ed2a89db810002b0
+    name: Mark Williams
+    username: markwilliams
+  - created_at: '2015-07-28T06:53:14Z'
+    text: Great find - I'd be excited to find one there also.
+    ref: 55b726daed2a89db810002b6
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - birds_of_whittlesea

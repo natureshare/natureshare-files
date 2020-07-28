@@ -1,0 +1,30 @@
+id:
+  - name: Dysbatus sp. (1)
+    by: koolah
+created_at: '2017-02-09T09:45:56Z'
+datetime: '2017-02-09T19:15:00+10:00'
+latitude: -37.735268
+longitude: 144.847271
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-02-09T09:45:56Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 1966
+    width: 2950
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/589c39daed2a89b71800039d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/589c39daed2a89b71800039d.jpg'
+  - height: 2145
+    width: 3218
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/589c39d0ed2a892daf0003b5.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/589c39d0ed2a892daf0003b5.jpg'
+comments:
+  - created_at: '2017-02-09T12:20:43Z'
+    text: <em>Dysbatus sp. (1)</em> species id suggested
+    ref: 589c5e9bed2a899dbd000002
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brimbank_park_insects_and_spiders

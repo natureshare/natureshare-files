@@ -1,0 +1,39 @@
+id:
+  - Ptilonorhynchus violaceus
+created_at: '2015-02-02T05:08:14Z'
+datetime: '2015-01-17T08:02:53+10:00'
+description: 'Satin bowerbird on the back fence, then moved to a tree on the other side of the fire break. a female or a young male bird?'
+elevation: 34
+latitude: -38.683993
+location_name: 'Grey River VIC 3234, Australia'
+longitude: 143.8383
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-02-03T11:28:17Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-01-17T08:02:53Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54cf063ded2a8980b7000466.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54cf063ded2a8980b7000466.jpg'
+  - datetime: '2015-01-17T08:05:53Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54cf063ded2a8980b7000467.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54cf063ded2a8980b7000467.jpg'
+comments:
+  - created_at: '2015-02-02T07:41:50Z'
+    text: 'Hi Thomas. Can you be sure this is a female bird? It is quite possible, but you may or may not know that immature males (up to 5 years old) have the same plumage as the females - referred to collectively as ''green'' birds.'
+    ref: 54cf2a3eed2a899aeb00048f
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 54cf2a3eed2a899aeb00048f
+    created_at: '2015-02-03T11:27:08Z'
+    text: 'Hi Chris, not 100% sure so I have remove the female tag.'
+    ref: 54d0b08ced2a899aeb000591
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - grey_river

@@ -1,0 +1,29 @@
+id:
+  - Nyctophilus geoffroyi
+created_at: '2016-04-09T11:51:51Z'
+datetime: '2016-04-03T23:03:15+10:00'
+elevation: 29
+latitude: -34.131717
+location_name: 'Neds Corner VIC 3496, Australia'
+longitude: 141.306231
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-04-09T23:55:32Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-04-03T23:03:15Z'
+    height: 2148
+    width: 2859
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57083ef0ed2a890be7000191.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57083ef0ed2a890be7000191.JPG'
+comments:
+  - created_at: '2016-04-12T10:34:13Z'
+    text: Awwww...
+    ref: 570ccf25ed2a897bb20000db
+    name: Ellena Best
+    username: ellena
+collections:
+  - neds_corner_mammals

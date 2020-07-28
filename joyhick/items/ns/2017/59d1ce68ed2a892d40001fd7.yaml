@@ -1,0 +1,48 @@
+id:
+  - name: Podolepis spp.
+    by: lorrainecphelan
+created_at: '2017-10-02T06:40:58Z'
+datetime: '2017-10-02T10:42:45+10:00'
+latitude: -36.394028
+longitude: 143.653672
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2017-10-02T06:40:58Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-10-02T10:42:45Z'
+    height: 2048
+    width: 1536
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59d1ce7aed2a893984000386.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59d1ce7aed2a893984000386.jpeg'
+  - datetime: '2017-10-02T10:43:13Z'
+    height: 2048
+    width: 1536
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59d1ce85ed2a893984000388.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59d1ce85ed2a893984000388.jpeg'
+comments:
+  - created_at: '2017-10-02T07:13:34Z'
+    text: Trifolium campestre var. campestre Hop Clover
+    ref: 59d1e71eed2a8915730000dd
+    name: Kevin Sparrow
+    username: banksiaman
+  - created_at: '2017-10-02T10:13:05Z'
+    text: <em>Podolepis spp.</em> species id suggested
+    ref: 59d21131ed2a892d4000216b
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - created_at: '2017-10-03T23:19:14Z'
+    text: 'I think this is Triptilodiscus pygmaeus. See http://natureshare.org.au/observations/57ec190fed2a89450f007af2?species=Triptilodiscus+pygmaeus'
+    ref: 59d41af2ed2a892d40002771
+    name: James Booth
+    username: jamesbooth
+  - replying_to: 59d41af2ed2a892d40002771
+    created_at: '2017-10-03T23:32:02Z'
+    text: 'Yes, Joy, I think James is right. The leaves enfold the flowerheads.'
+    ref: 59d41df2ed2a892d4000278d
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - wedderburn_josephine_drive

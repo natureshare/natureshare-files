@@ -1,0 +1,37 @@
+id:
+  - name: Isochorista panaeolana
+    by: koolah
+created_at: '2018-10-05T10:54:23Z'
+datetime: '2018-10-05T14:38:51+10:00'
+description: Swarms of these tiny moths flying during the day. Two images - second photo dorsal view of another individual.
+latitude: -37.408492
+longitude: 144.594772
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-10-05T11:20:40Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-10-05T14:38:51Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bb74247ed2a891efe0000ed.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bb74247ed2a891efe0000ed.jpg'
+  - datetime: '2018-10-05T14:36:10Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bb74253ed2a89402b0000d7.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bb74253ed2a89402b0000d7.jpg'
+comments:
+  - created_at: '2018-10-11T07:49:48Z'
+    text: <em>Isochorista panaeolana</em> species id suggested
+    ref: 5bbf009ced2a89c10e003232
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2018-10-13T04:13:52Z'
+    text: 'Thanks for the id, Cathy'
+    ref: 5bc17100ed2a89c10e003d2d
+    name: David Francis
+    username: david_francis
+collections:
+  - insects_and_other_arthropods_of_mt_macedon

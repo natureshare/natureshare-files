@@ -1,0 +1,38 @@
+id:
+  - name: Calandrinia eremaea
+    by: chrisl
+created_at: '2015-09-21T02:38:24Z'
+datetime: '2015-09-20T14:05:43+10:00'
+description: 'Plant with pink globular leaves growing on top of moss. Location approximate, on the walking path toward Mt Zero lookout.'
+elevation: 296.1
+latitude: -36.893231
+location_name: 'Laharum VIC 3401, Australia'
+longitude: 142.37674
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-09-21T06:08:28Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-09-20T14:05:43Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55ff6dc3ed2a890d950001fb.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55ff6dc3ed2a890d950001fb.jpg'
+  - datetime: '2015-09-20T14:05:51Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55ff6db4ed2a890d950001fa.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55ff6db4ed2a890d950001fa.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2015-09-21T06:07:41Z'
+    text: This is a Calandrinia species and almost certainly C. eremaea.
+    ref: 55ff9eaded2a89b06c000dee
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - grampians_np_plants

@@ -1,0 +1,33 @@
+id:
+  - Ctenotus regius
+created_at: '2016-04-09T00:10:59Z'
+datetime: '2016-04-03T13:44:01+10:00'
+elevation: 32.6
+latitude: -34.133778
+location_name: 'Neds Corner VIC 3496, Australia'
+longitude: 141.292155
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-04-09T09:09:46Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-04-03T13:44:01Z'
+    height: 2617
+    width: 3482
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57083f0ded2a89211c0001bb.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57083f0ded2a89211c0001bb.JPG'
+  - datetime: '2016-04-03T13:51:27Z'
+    height: 1200
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57083e7fed2a890be700018f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57083e7fed2a890be700018f.JPG'
+  - datetime: '2016-04-03T13:44:15Z'
+    height: 1667
+    width: 1255
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57083eb8ed2a89211c0001b9.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57083eb8ed2a89211c0001b9.JPG'
+collections:
+  - neds_corner_reptiles

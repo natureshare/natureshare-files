@@ -1,0 +1,32 @@
+id:
+  - name: Usnea spp.
+    by: david_francis
+created_at: '2016-10-22T08:58:20Z'
+datetime: '2016-10-15T13:48:00+10:00'
+latitude: -37.882228
+longitude: 144.180835
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-22T08:58:20Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-10-15T13:48:00Z'
+    height: 2056
+    width: 2949
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/580b2480ed2a89d73e000135.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/580b2480ed2a89d73e000135.jpg'
+comments:
+  - created_at: '2016-10-22T09:51:53Z'
+    text: <em>Usnea spp.</em> species id suggested
+    ref: 580b36b9ed2a89748000036a
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-10-22T10:01:31Z'
+    text: Thanks David
+    ref: 580b38fbed2a89748000037a
+    name: Chris Clarke
+    username: cclarke
+collections:
+  - brisbane_ranges_national_park_plants

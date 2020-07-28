@@ -1,0 +1,33 @@
+id:
+  - Hypertropha tortriciformis
+created_at: '2015-10-20T10:56:47Z'
+datetime: '2015-10-05T21:35:04+10:00'
+latitude: -37.806497
+longitude: 144.297112
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-10-20T10:57:59Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-10-05T21:35:04Z'
+    height: 936
+    width: 1350
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56261dfbed2a890d95000585.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56261dfbed2a890d95000585.JPG'
+  - datetime: '2015-10-05T21:35:56Z'
+    height: 874
+    width: 1054
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56261e02ed2a890d95000586.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56261e02ed2a890d95000586.JPG'
+  - datetime: '2015-10-05T21:34:28Z'
+    height: 1122
+    width: 930
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56261e0aed2a890d95000587.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56261e0aed2a890d95000587.JPG'
+tags:
+  - brown
+  - moth
+collections:
+  - brisbane_ranges_moths

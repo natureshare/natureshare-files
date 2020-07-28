@@ -1,0 +1,33 @@
+id:
+  - Patersonia fragilis
+created_at: '2017-11-12T01:11:42Z'
+datetime: '2017-11-11T13:23:51+10:00'
+elevation: 119.6
+latitude: -38.412959
+location_name: 'Anglesea VIC 3230, Australia'
+longitude: 144.159472
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-11-12T01:23:07Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 1198
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a079faded2a893984000684.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a079faded2a893984000684.jpg'
+  - datetime: '2017-11-11T13:23:51Z'
+    height: 1198
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a079ec3ed2a893984000682.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a079ec3ed2a893984000682.jpg'
+comments:
+  - created_at: '2017-11-12T01:14:28Z'
+    text: 'Great detail, Lorraine.'
+    ref: 5a07a074ed2a8962be0001cb
+    name: Cathy Powers
+    username: koolah
+collections:
+  - anglesea_heath_flora_and_fauna

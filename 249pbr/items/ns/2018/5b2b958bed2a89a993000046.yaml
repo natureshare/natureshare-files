@@ -1,0 +1,40 @@
+id:
+  - Cortinarius chrysopocos
+created_at: '2018-06-21T12:16:50Z'
+datetime: '2016-06-19T11:27:53+10:00'
+description: 'This is Cortinarius chrysopocos, apparently common in Tasmania but with only one other record in Victoria on ALA, See other images for finer details.Could it be added to the database please'
+elevation: 615.8
+latitude: -37.477256
+location_name: 'Blackwood VIC 3458, Australia'
+longitude: 144.288098
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-06-23T23:04:00Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-06-19T11:27:53Z'
+    height: 4000
+    width: 6000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b2b9591ed2a89402b000001.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2b9591ed2a89402b000001.jpg'
+  - datetime: '2016-06-19T11:30:21Z'
+    height: 4000
+    width: 6000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b2b9596ed2a892807000001.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2b9596ed2a892807000001.jpg'
+  - datetime: '2016-06-19T11:29:35Z'
+    height: 4000
+    width: 6000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b2b959bed2a892807000002.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2b959bed2a892807000002.jpg'
+comments:
+  - created_at: '2018-06-21T12:23:30Z'
+    text: Species added.
+    ref: 5b2b98c2ed2a89a99300005f
+    name: Cathy Powers
+    username: koolah
+collections:
+  - wombat_forest_-_fungi

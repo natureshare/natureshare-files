@@ -1,0 +1,36 @@
+id:
+  - name: Histrioacrida roseipennis
+created_at: '2012-08-28T22:11:04Z'
+datetime: '2012-03-31T16:58:28+10:00'
+description: 'As per observation #6014 taken by Russell Best.'
+latitude: -34.21207
+longitude: 141.535507
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2012-08-28T22:14:48Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-03-31T16:58:28Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39864e35eb12984012f72.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb12984012f72.jpg'
+  - datetime: '2012-03-31T16:58:04Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39864e35eb12984012f73.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb12984012f73.jpg'
+comments:
+  - created_at: '2014-03-18T11:33:05Z'
+    text: ID by DR.
+    ref: 53b3984de35eb1298400dcf6
+  - created_at: '2018-04-22T09:30:05Z'
+    text: This is Scurra marmoralis
+    ref: 5adc561ded2a89946600685a
+    name: Michael Kearney
+    username: warramaba
+  - replying_to: 5adc561ded2a89946600685a
+    created_at: '2018-05-30T22:28:41Z'
+    text: Thanks Michael. My ID was simply based on someone else's observation. Thanks for your expertise.
+    ref: 5b0f2599ed2a89fa06006128
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - neds_corner_insects_spiders_and_other_invertebrates

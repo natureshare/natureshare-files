@@ -1,0 +1,58 @@
+id:
+  - Acrotriche serrulata
+created_at: '2016-12-18T11:19:58Z'
+datetime: '2016-12-18T08:43:10+10:00'
+description: 'Low growing, dense stems forming a clump. Not sure of id. as no flowers seen.'
+elevation: 221.3
+latitude: -36.782824
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.373837
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-12-21T10:47:16Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-12-18T08:43:10Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58566a4bed2a89b3fe00026a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58566a4bed2a89b3fe00026a.JPG'
+tags:
+  - leaves-small
+  - low-growing
+comments:
+  - created_at: '2016-12-18T11:42:21Z'
+    text: Looks more like Acrotriche serrulata.
+    ref: 5856761ded2a897480009b40
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-12-18T19:50:45Z'
+    text: I agree with David.
+    ref: 5856e895ed2a897480009b89
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2016-12-20T00:56:33Z'
+    text: Not Asperula.
+    ref: 585881c1ed2a897480009eac
+    name: Kevin Sparrow
+    username: banksiaman
+  - created_at: '2016-12-20T11:12:02Z'
+    text: Doesn't match the description of A.serrulata but more like A.prostrata as plants are approx.15cm high at most?
+    ref: 58591202ed2a89748000a0a7
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 58591202ed2a89748000a0a7
+    created_at: '2016-12-20T23:10:42Z'
+    text: A. prostrata is hardly ascending and leaves are broader and not whorled.
+    ref: 5859ba72ed2a89748000a1d0
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2016-12-21T04:26:51Z'
+    text: 'Definitely A. serrulata which more typically grows to about 15 cm tall (Vicflora says to 30 - 60 cm but this is the maximum height possible). see http://natureshare.org.au/observations/6934 which is an exact match.'
+    ref: 585a048bed2a890cf4000001
+    name: David Francis
+    username: david_francis
+collections:
+  - junortoun_flora

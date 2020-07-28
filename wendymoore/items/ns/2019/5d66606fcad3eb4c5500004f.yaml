@@ -1,0 +1,30 @@
+id:
+  - Scoparia exhibitalis
+created_at: '2019-08-28T11:07:27Z'
+datetime: '2012-02-10T01:31:08+10:00'
+elevation: 65.3
+latitude: -37.7383
+location_name: '42 High St, Coburg VIC 3058, Australia'
+longitude: 144.956818
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2019-09-02T20:12:24Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-02-10T01:31:08Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_5c639c983abbd6ed0f00003c/2019-08-28/feb09_12_pyrcram_scop_scoparia_exhibitalis_imgp0732_cropns.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-08-28/feb09_12_pyrcram_scop_scoparia_exhibitalis_imgp0732_cropns.jpeg'
+comments:
+  - created_at: '2019-08-31T01:12:07Z'
+    text: Scoparia exhibitalis added to dataset
+    ref: 5d69c967cad3ebb2a1000079
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2019-09-01T12:52:32Z'
+    text: Thanks Cathy
+    ref: 5d6bbf10cad3eb91f300007d
+    name: Wendy Moore
+    username: wendymoore
+collections:
+  - coburg_moths

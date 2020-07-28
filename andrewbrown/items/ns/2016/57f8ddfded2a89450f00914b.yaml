@@ -1,0 +1,35 @@
+id:
+  - name: Chlenias auctaria
+    by: andrew_allen
+created_at: '2016-10-08T12:02:23Z'
+datetime: '2016-10-05T10:34:09+10:00'
+description: Colourful caterpillar approx. 5cm found on the same bush as the following insects.
+elevation: 221.6
+latitude: -36.782038
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.365822
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-03-24T23:43:44Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-05T10:34:09Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57f8de18ed2a89d73e0000f7.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f8de18ed2a89d73e0000f7.JPG'
+tags:
+  - caterpillar
+comments:
+  - created_at: '2016-11-29T22:06:51Z'
+    text: <em>Chlenias auctaria</em> species id suggested
+    ref: 583dfbfbed2a89ee390000f9
+    name: Andrew Allen
+    username: andrew_allen
+collections:
+  - wildlife_of_junortoun
+  - moths_of_junortoun
+  - moths_of_central_victoria

@@ -1,0 +1,36 @@
+id:
+  - Iridomyrmex spp.
+created_at: '2017-05-19T05:52:34Z'
+datetime: '2017-05-19T15:47:00+10:00'
+elevation: 6.4
+latitude: -38.034972
+location_name: 'Chelsea Heights VIC 3196, Australia'
+longitude: 145.135316
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2017-05-19T05:56:28Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-05-19T16:03:35Z'
+    height: 1512
+    width: 2640
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/591e88e8ed2a89e548000153.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/591e88e8ed2a89e548000153.JPG'
+  - datetime: '2017-05-19T16:01:33Z'
+    height: 2648
+    width: 3856
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/591e88efed2a89e548000154.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/591e88efed2a89e548000154.JPG'
+comments:
+  - created_at: '2017-05-19T06:16:44Z'
+    text: Ochetellus glaber 2.4 mm Lenght
+    ref: 591e8dcced2a89d1c2000039
+    name: Vuk Vojis
+    username: vuk_2
+  - replying_to: 591e8dcced2a89d1c2000039
+    created_at: '2017-05-19T09:15:29Z'
+    text: Ochetellus glaber now ready to use in db.
+    ref: 591eb7b1ed2a89d1c2000058
+    name: David Francis
+    username: david_francis

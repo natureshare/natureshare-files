@@ -1,0 +1,37 @@
+created_at: '2016-10-04T11:33:16Z'
+datetime: '2016-09-17T09:20:12+10:00'
+elevation: 221.2
+latitude: -36.783599
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.368616
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2016-10-06T00:33:43Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-17T09:20:12Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57de9837ed2a89b718000053.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57de9837ed2a89b718000053.JPG'
+tags:
+  - 2-3metres
+  - flowers-yellow
+  - shrub-medium
+  - wattle
+comments:
+  - created_at: '2016-10-04T21:35:13Z'
+    text: Leaves are uncharacteristic of A. aspera. Is A. ausfeldii a possibility?
+    ref: 57f42091ed2a89450f008934
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2016-10-05T00:33:59Z'
+    text: Maybe even A. montana or montana aspera hybrid? Need more photos to consider this.
+    ref: 57f44a77ed2a89450f0089a5
+    name: David Francis
+    username: david_francis
+collections:
+  - junortoun_flora

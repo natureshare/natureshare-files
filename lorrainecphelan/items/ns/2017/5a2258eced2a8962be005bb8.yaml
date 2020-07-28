@@ -1,0 +1,36 @@
+id:
+  - name: Geranium robertianum
+    by: chrisl
+created_at: '2017-12-02T07:50:05Z'
+datetime: '2017-11-27T15:40:00+10:00'
+description: Growing at Maits Rest rainforest walk. I think it's a geranium but I can't work out the species. Two photos.
+elevation: 259
+latitude: -38.754552
+location_name: 'Cape Otway VIC 3233, Australia'
+longitude: 143.556702
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-12-04T06:40:07Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 1198
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a2258f6ed2a8939840007e8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a2258f6ed2a8939840007e8.jpg'
+  - height: 1198
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a225925ed2a8939840007e9.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a225925ed2a8939840007e9.jpg'
+tags:
+  - flower-pink
+comments:
+  - created_at: '2017-12-02T09:08:39Z'
+    text: 'Interesting find Lorraine. Not a well known naturalised species of Geranium, but known to occur at Maits Rest.'
+    ref: 5a226d97ed2a8962be005be4
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - great_otway_np_plants

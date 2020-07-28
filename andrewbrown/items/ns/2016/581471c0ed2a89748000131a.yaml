@@ -1,0 +1,35 @@
+id:
+  - Cheiranthera linearis
+created_at: '2016-10-29T11:34:55Z'
+datetime: '2016-10-29T12:07:25+10:00'
+elevation: 217.8
+latitude: -36.775322
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.354895
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-29T11:34:55Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-29T12:08:04Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58147208ed2a89d73e000155.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58147208ed2a89d73e000155.JPG'
+  - datetime: '2016-10-29T12:07:25Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/581471c1ed2a89b71800015b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/581471c1ed2a89b71800015b.JPG'
+  - datetime: '2016-10-29T12:06:51Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/581471d9ed2a89d73e000154.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/581471d9ed2a89d73e000154.JPG'
+tags:
+  - flower-purple
+collections:
+  - junortoun_flora

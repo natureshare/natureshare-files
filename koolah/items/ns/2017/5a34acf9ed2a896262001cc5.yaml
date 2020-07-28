@@ -1,0 +1,31 @@
+id:
+  - Leistarcha scitissimella
+created_at: '2017-12-16T05:22:58Z'
+datetime: '2017-12-13T22:08:52+10:00'
+description: 'Two images, different aspects.'
+elevation: 261.6
+latitude: -37.806559
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-03-04T11:52:55Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-12-13T22:08:52Z'
+    height: 1172
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a34ad09ed2a893fb7000030.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a34ad09ed2a893fb7000030.jpg'
+  - datetime: '2017-12-13T23:20:32Z'
+    height: 1236
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a34ad43ed2a893fb7000031.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a34ad43ed2a893fb7000031.jpg'
+tags:
+  - moth
+collections:
+  - brisbane_ranges_moths

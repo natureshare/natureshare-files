@@ -1,0 +1,33 @@
+id:
+  - name: Cynosurus echinatus
+created_at: '2014-01-20T14:38:35Z'
+datetime: '2014-01-18T12:45:24+10:00'
+latitude: -38.392312
+longitude: 142.83542
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-07-02T14:06:10Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-01-18T12:45:24Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986be35eb12984014d85.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb12984014d85.jpg'
+tags:
+  - grass
+comments:
+  - created_at: '2014-01-20T14:40:06Z'
+    text: Unknown grass
+    ref: 53b3984ce35eb1298400dc96
+  - created_at: '2014-01-20T15:01:12Z'
+    text: Looks like Echinopogon ovatus.
+    ref: 53b3984ce35eb1298400dc97
+  - created_at: '2014-01-20T19:06:18Z'
+    text: |
+      Also compare with Cynosurus echinatus.
+    ref: 53b3984ce35eb1298400dc99
+  - created_at: '2014-02-05T14:10:34Z'
+    text: I think Chris is correct.
+    ref: 53b3984ce35eb1298400dcb7
+collections:
+  - plants_of_warrnambool_and_district

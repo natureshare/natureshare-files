@@ -1,0 +1,34 @@
+id:
+  - name: Lauxaniidae spp.
+    by: david_francis
+created_at: '2018-02-12T03:06:16Z'
+datetime: '2018-02-08T10:15:51+10:00'
+elevation: 141.1
+latitude: -37.644112
+location_name: 'Greenvale VIC 3059, Australia'
+longitude: 144.86064
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-02-12T03:24:47Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-02-08T10:15:51Z'
+    height: 669
+    width: 573
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a810445ed2a8966a0000048.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a810445ed2a8966a0000048.jpg'
+comments:
+  - created_at: '2018-02-13T02:28:33Z'
+    text: <em>Lauxaniidae spp.</em> species id suggested
+    ref: 5a824d51ed2a89def700257f
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-02-13T02:31:10Z'
+    text: Possibly Homoneura sp.
+    ref: 5a824deeed2a89def7002580
+    name: David Francis
+    username: david_francis
+collections:
+  - woodlands_historic_park_insects_and_spiders
+  - woodlands_historic_park_-_diptera

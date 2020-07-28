@@ -1,0 +1,53 @@
+id:
+  - Electroma papilionacea
+created_at: '2018-05-27T14:08:48Z'
+datetime: '2018-05-25T14:02:47+10:00'
+description: "A bivalve with paper-thin shells and about 40 mm wide. It had broken orange bands radiating from the umbo (where the valves are hinged). A very fragile specimen that was surprisingly intact despite being blown about in the wind. The slightly flared part of the shell near the umbo (on the Lt side in Pic 1) is called the auricle or wing, giving the species it's common name. \r\n"
+elevation: 0.7
+latitude: -37.994539
+location_name: 'Beaumaris VIC 3193, Australia'
+longitude: 145.031324
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-05-31T13:58:41Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-05-25T14:02:47Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b0abaabed2a89b04700000a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b0abaabed2a89b04700000a.jpg'
+  - datetime: '2018-05-25T14:02:55Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b0abacaed2a89d0e7000015.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b0abacaed2a89d0e7000015.jpg'
+tags:
+  - shell
+comments:
+  - created_at: '2018-05-29T04:41:48Z'
+    text: So beautiful and delicate! E. virens added.
+    ref: 5b0cda0ced2a89fa06005869
+    name: David Francis
+    username: david_francis
+  - replying_to: 5b0cda0ced2a89fa06005869
+    created_at: '2018-05-29T13:03:12Z'
+    text: 'David, I am sorry to do this to you. I have just been informed by an expert from Tasmania that E. virens is no longer the accepted name. It is now Electroma papilionacea. Could this be rectified please.'
+    ref: 5b0d4f90ed2a89fa06005a7e
+    name: Leuba Ridgway
+    username: leuba
+  - created_at: '2018-05-30T10:32:14Z'
+    text: 'Electroma papilionacea added. Would you please update the name, Leuba.'
+    ref: 5b0e7daeed2a89fa06005f84
+    name: David Francis
+    username: david_francis
+  - replying_to: 5b0e7daeed2a89fa06005f84
+    created_at: '2018-05-31T13:56:38Z'
+    text: Thank you David.
+    ref: 5b0fff16ed2a89fa0600657e
+    name: Leuba Ridgway
+    username: leuba
+collections:
+  - littoral_zones

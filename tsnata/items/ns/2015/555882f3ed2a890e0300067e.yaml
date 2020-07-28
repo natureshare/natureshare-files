@@ -1,0 +1,38 @@
+id:
+  - Melithreptus lunatus
+created_at: '2015-05-17T12:00:51Z'
+datetime: '2015-05-16T13:55:15+10:00'
+description: "A group of honey-eaters feasting on eucalypt flowers. Very active. Second photo showed a bit of the head.\r\nLocation approximate. On the track between Stony Creek and Anakie Gorge Picnic Area. Id by David Francis and Chris Lindorff as White-naped Honeyeater."
+elevation: 237
+latitude: -37.860936
+location_name: 'Staughton Vale VIC 3221, Australia'
+longitude: 144.259602
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-05-18T03:25:03Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-05-16T13:55:15Z'
+    height: 1650
+    width: 2200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/555882f2ed2a890e0300067c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/555882f2ed2a890e0300067c.jpg'
+  - datetime: '2015-05-16T13:55:15Z'
+    height: 1650
+    width: 2200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/555882f2ed2a890e0300067d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/555882f2ed2a890e0300067d.jpg'
+comments:
+  - created_at: '2015-05-17T14:39:59Z'
+    text: White-naped Honeyeater?
+    ref: 5558a83fed2a890e03000698
+    name: David Francis
+    username: david_francis
+  - created_at: '2015-05-17T23:27:37Z'
+    text: 'Hi Thomas. Unlikely to be anything other than White-naped Honeyeater. Black-chinned Honeyeater is seldom seen in the Brisbane Ranges, and not likely to be in the Gorge in any case. Cheers. Chris.'
+    ref: 555923e9ed2a890e030006dc
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - brisbane_ranges_birds

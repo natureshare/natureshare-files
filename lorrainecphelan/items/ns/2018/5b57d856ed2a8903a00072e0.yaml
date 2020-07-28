@@ -1,0 +1,35 @@
+id:
+  - Tremella mesenterica Group
+created_at: '2018-07-25T01:55:40Z'
+datetime: '2018-07-14T21:46:48+10:00'
+description: Growing on a small dead branch.
+elevation: 582.2
+latitude: -38.62446
+location_name: 'Barramunga VIC 3249, Australia'
+longitude: 143.734099
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-07-26T03:01:13Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-07-14T21:46:48Z'
+    height: 1200
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b57d859ed2a89c6aa000056.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b57d859ed2a89c6aa000056.jpg'
+comments:
+  - created_at: '2018-07-25T05:30:48Z'
+    text: 'What an unusual specimen, it almost looks like is has a Tremella fusciformis growing out of the T. mesenterica but the last bit of orange colour says it is T. mesenterica.'
+    ref: 5b580b08ed2a893c4f00026f
+    name: John Walter
+    username: 249pbr
+  - replying_to: 5b580b08ed2a893c4f00026f
+    created_at: '2018-07-25T10:32:14Z'
+    text: I'll upload the photo of a T. growing about 10 cm from this one.
+    ref: 5b5851aeed2a8903a00074f3
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - otway_ranges_-_fungi

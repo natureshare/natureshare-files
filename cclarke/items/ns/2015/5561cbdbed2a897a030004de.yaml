@@ -1,0 +1,36 @@
+id:
+  - name: Omphalotus nidiformis
+    by: funkeytom
+created_at: '2015-05-24T13:02:19Z'
+datetime: '2015-05-24T12:58:35+10:00'
+latitude: -38.266943
+longitude: 145.044845
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-07-18T12:15:20Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-05-24T12:58:35Z'
+    height: 1380
+    width: 1458
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5561cbdbed2a897a030004dd.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5561cbdbed2a897a030004dd.jpg'
+comments:
+  - created_at: '2015-06-01T09:25:34Z'
+    text: 'Hi Chris.. very likely Pleurotus australis. Quite variable appearance as they develop - here''s a good set of pics to compare https://morrie2.wordpress.com/2010/03/09/pleurotis-australis-the-native-oyster-mushroom/ '
+    ref: 556c250eed2a8918dd0002b5
+    name: Mark Ridgway
+    username: argybee
+  - created_at: '2015-07-18T12:17:01Z'
+    text: 'Hi Chris, I reckon this matches Omphalotus nidiformis well. When it is young, the stipe can be strongly coloured, and the pileus can have stron brown, purple andor blue tints. The clincher is that it would glow in the dark. '
+    ref: 55aa43bded2a89158b000650
+    name: Tom May
+    username: funkeytom
+  - replying_to: 55aa43bded2a89158b000650
+    created_at: '2015-07-31T13:30:42Z'
+    text: Thanks again Tom. I haven't seen these young. It works well.
+    ref: 55bb7882ed2a89db81000779
+    name: Mark Ridgway
+    username: argybee

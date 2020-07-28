@@ -1,0 +1,34 @@
+id:
+  - Cortinarius pseudorotundisporus
+created_at: '2018-08-02T08:27:43Z'
+datetime: '2016-05-15T13:09:56+10:00'
+description: Several images
+elevation: 726.2
+latitude: -37.43145
+location_name: 'Lerderderg VIC 3458, Australia'
+longitude: 144.306871
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-08-02T08:28:01Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-05-15T13:09:56Z'
+    height: 2490
+    width: 3294
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b62bfe8ed2a891efe000086.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b62bfe8ed2a891efe000086.jpg'
+  - datetime: '2016-05-15T13:11:15Z'
+    height: 4000
+    width: 6000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b62bf02ed2a891efe000084.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b62bf02ed2a891efe000084.jpg'
+  - datetime: '2016-05-15T13:10:08Z'
+    height: 3228
+    width: 4110
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b62c02aed2a891efe000087.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b62c02aed2a891efe000087.jpg'
+collections:
+  - wombat_forest_-_fungi

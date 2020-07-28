@@ -1,0 +1,38 @@
+id:
+  - Fungi spp.
+created_at: '2017-11-04T13:41:28Z'
+datetime: '2017-05-21T11:43:06+10:00'
+latitude: -37.784878
+longitude: 145.762772
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-11-07T20:40:52Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-05-21T11:43:06Z'
+    height: 4032
+    width: 3024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59fdc384ed2a8939840005ef.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59fdc384ed2a8939840005ef.jpg'
+  - datetime: '2017-05-21T11:42:55Z'
+    height: 3024
+    width: 4032
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59fdc39bed2a8939840005f2.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59fdc39bed2a8939840005f2.jpg'
+comments:
+  - created_at: '2017-11-07T00:55:21Z'
+    text: Possibly Omphalotus nidiformis?
+    ref: 5a010479ed2a89ad95000174
+    name: 'Reilly '
+    username: reilly
+  - created_at: '2017-11-07T00:56:39Z'
+    text: 'https://commons.wikimedia.org/wiki/File:Omphalotus_nidiformis_lawson_lighton_email.jpg'
+    ref: 5a0104c7ed2a89ad95000175
+    name: 'Reilly '
+    username: reilly
+  - created_at: '2017-11-07T00:59:51Z'
+    text: <em>Fungi spp.</em> species id suggested
+    ref: 5a010587ed2a89ad9500017f
+    name: 'Reilly '
+    username: reilly

@@ -1,0 +1,43 @@
+id:
+  - Endoxyla lichenea
+created_at: '2017-11-29T10:57:48Z'
+datetime: '2014-01-11T18:39:00+10:00'
+description: "About 45mm long. Male antennae. Found under MV lights next to a national park.\r\nThanks Cathy and Peter."
+elevation: 136.5
+latitude: -37.893518
+location_name: 'Upper Ferntree Gully VIC 3156, Australia'
+longitude: 145.314207
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-11-30T00:46:20Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2014-01-11T06:39:10Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a1e91cced2a89398400079e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a1e91cced2a89398400079e.jpg'
+  - height: 384
+    width: 512
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a1e91d4ed2a89398400079f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a1e91d4ed2a89398400079f.jpg'
+tags:
+  - moth
+  - moth-patterned
+comments:
+  - created_at: '2017-11-29T23:03:34Z'
+    text: Mark - this is Endoxyla lichenea with ID assistance by Peter Marriott.
+    ref: 5a1f3cc6ed2a8962be00513d
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5a1f3cc6ed2a8962be00513d
+    created_at: '2017-11-30T00:40:18Z'
+    text: Thanks Cathy and Peter. A new species for me.
+    ref: 5a1f5372ed2a8962be0051b4
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_lepidoptera

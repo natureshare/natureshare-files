@@ -1,0 +1,36 @@
+id:
+  - Paropsis spp.
+created_at: '2016-12-15T06:48:44Z'
+datetime: '2016-12-15T14:23:44+10:00'
+description: "A large Paropsis leaf beetle (GM-sp.46). In Eucalyptus delegatensis forest at about 900m altitude at Mt Macedon.\r\n"
+latitude: -37.373297
+longitude: 144.624373
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-12-16T05:19:03Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-12-15T14:23:44Z'
+    height: 1024
+    width: 1365
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58523c6bed2a89b3fe000258.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58523c6bed2a89b3fe000258.jpg'
+  - datetime: '2016-12-15T14:23:06Z'
+    height: 1024
+    width: 1365
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58524564ed2a892daf00027b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58524564ed2a892daf00027b.jpg'
+tags:
+  - adult-female
+comments:
+  - created_at: '2016-12-15T11:20:49Z'
+    text: <em>Paropsis spp.</em> species id suggested
+    ref: 58527c91ed2a897480008fc4
+    name: David Francis
+    username: david_francis
+collections:
+  - insects_and_other_arthropods_of_mt_macedon
+  - leaf_beetles_of_the_macedon_range_chrysomelidae

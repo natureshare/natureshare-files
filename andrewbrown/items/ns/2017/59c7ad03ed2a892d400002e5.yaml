@@ -1,0 +1,39 @@
+id:
+  - name: Laetiporus spp.
+    by: david_francis
+created_at: '2017-09-24T22:41:48Z'
+datetime: '2017-09-24T10:59:28+10:00'
+description: Large fungus growing on a live eucalypt trunk.
+elevation: 217.8
+latitude: -36.78853
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.385252
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-09-24T22:41:48Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-09-24T10:59:28Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c7ad12ed2a8939840002d2.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c7ad12ed2a8939840002d2.JPG'
+  - datetime: '2017-09-24T11:00:04Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c7ad1fed2a8939840002d3.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c7ad1fed2a8939840002d3.JPG'
+tags:
+  - fungi-large
+  - fungus
+comments:
+  - created_at: '2017-09-25T06:34:19Z'
+    text: <em>Laetiporus spp.</em> species id suggested
+    ref: 59c8a36bed2a892d400005b8
+    name: David Francis
+    username: david_francis
+collections:
+  - junortoun_flora

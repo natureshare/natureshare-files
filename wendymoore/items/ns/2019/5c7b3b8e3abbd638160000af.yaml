@@ -1,0 +1,28 @@
+id:
+  - Fungi spp.
+created_at: '2019-03-03T02:27:26Z'
+datetime: '2010-08-29T15:24:13+10:00'
+description: prob. Agaricus sp.
+latitude: -36.091124
+location_name: 'Morton Plains VIC 3482, Australia'
+longitude: 142.82867
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2019-06-12T02:57:15Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2010-08-29T15:24:13Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_5c639c983abbd6ed0f00003c/2019-03-03/1551580112/Aug29%2010Watchem%20024%20crop.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c639c983abbd6ed0f00003c/2019-03-03/1551580112/Aug29%2010Watchem%20024%20crop.JPG'
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_5c639c983abbd6ed0f00003c/2019-03-03/1551580056/Aug29%2010Watchem%20023%20crop.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c639c983abbd6ed0f00003c/2019-03-03/1551580056/Aug29%2010Watchem%20023%20crop.jpg'
+comments:
+  - created_at: '2019-06-11T07:12:41Z'
+    text: Would have to see underneath but likely a Agaricus sp.
+    ref: 5cff546976a8947f4c00001f
+    name: zeke1944
+    username: zeke1944
+collections:
+  - dryland_fungi
+  - watchem_fauna_flora

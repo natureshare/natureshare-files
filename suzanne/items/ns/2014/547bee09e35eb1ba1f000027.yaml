@@ -1,0 +1,43 @@
+id:
+  - Epyaxa subidaria
+created_at: '2014-12-01T04:26:49Z'
+datetime: '2014-12-01T12:58:45+10:00'
+description: Identified by Ken Harris.
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-02-05T06:26:43Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-12-01T12:58:45Z'
+    height: 1432
+    width: 2150
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/547bee08e35eb1ba1f000024.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/547bee08e35eb1ba1f000024.JPG'
+  - datetime: '2014-12-01T12:57:20Z'
+    height: 1433
+    width: 2136
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/547bee08e35eb1ba1f000025.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/547bee08e35eb1ba1f000025.JPG'
+  - datetime: '2014-12-01T12:56:26Z'
+    height: 1328
+    width: 1976
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/547bee08e35eb1ba1f000026.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/547bee08e35eb1ba1f000026.JPG'
+tags:
+  - moth
+  - underside
+  - upperside
+comments:
+  - created_at: '2014-12-04T00:26:26Z'
+    text: Maybe Epyaxa subidaria?
+    ref: 547faa32e35eb1475f000001
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains
+  - butterflies_moths_seen_at_145_gibsons_road_cobains

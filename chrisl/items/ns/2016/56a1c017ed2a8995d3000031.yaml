@@ -1,0 +1,25 @@
+id:
+  - Nymphicus hollandicus
+created_at: '2016-01-22T06:59:33Z'
+datetime: '2013-09-24T17:35:02+10:00'
+latitude: -34.137421
+longitude: 141.333893
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-01-22T06:59:33Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2013-09-24T17:34:57Z'
+    height: 1609
+    width: 2413
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a1c020ed2a89b31c00002e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a1c020ed2a89b31c00002e.jpg'
+  - datetime: '2013-09-24T17:35:02Z'
+    height: 1108
+    width: 1662
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a1c018ed2a89e05000002e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a1c018ed2a89e05000002e.jpg'
+collections:
+  - neds_corner_birds

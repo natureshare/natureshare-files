@@ -1,0 +1,36 @@
+id:
+  - name: Sminthopsis leucopus
+    by: david_francis
+created_at: '2013-02-04T17:20:04Z'
+datetime: '2013-01-24T16:47:03+10:00'
+description: '""Probably what would have been called a brown antechinus but this species doesn''t seem to be recognised by DSE (hence not in this database either).""'
+latitude: -37.555088
+longitude: 149.757523
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-12-24T01:31:56Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-01-24T16:47:03Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39866e35eb12984013989.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013989.jpg'
+  - datetime: '2013-01-24T16:45:38Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39866e35eb1298401398a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb1298401398a.jpg'
+comments:
+  - created_at: '2016-12-20T11:26:28Z'
+    text: 'Looks like a Common Dunnart to me. '
+    ref: 58591564ed2a89748000a0bf
+    name: William Terry
+    username: william
+  - created_at: '2016-12-23T12:46:04Z'
+    text: 'Yes, I think you are right, William.'
+    ref: 585d1c8ced2a89748000ab6c
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-12-24T01:30:08Z'
+    text: 'John Harris has identified this as the White-footed Dunnart (longer, tapered snout?).'
+    ref: 585dcfa0ed2a89748000ac7f
+    name: David Francis
+    username: david_francis

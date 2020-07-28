@@ -1,0 +1,46 @@
+id:
+  - Thelymitra peniculata
+created_at: '2016-11-08T01:35:36Z'
+datetime: '2016-11-07T16:12:01+10:00'
+description: 'Leaves fleshy, distinctly ribbed on the outside. Apex of mid-lobe of column (yellow part) somewhat dorsally compressed with a V-notch. Lateral lobes of column with a terminal tuft of white hairs, extending horizontally and converging. More than 5 flowers per stem (I can count 7 or 8 including the buds).'
+latitude: -37.417498
+longitude: 144.554378
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-11-08T10:19:32Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-11-07T16:12:01Z'
+    height: 3600
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58212b96ed2a89d73e000196.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58212b96ed2a89d73e000196.jpg'
+  - datetime: '2016-11-07T16:13:19Z'
+    height: 800
+    width: 1067
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58219a70ed2a892daf0001d8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58219a70ed2a892daf0001d8.jpg'
+tags:
+  - habit
+  - leaf
+comments:
+  - created_at: '2016-11-08T01:37:38Z'
+    text: Still working on species id. Can anyone help?
+    ref: 58212c62ed2a897480002ba3
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-11-08T08:55:41Z'
+    text: 'David, my suggestion is Thelymitra peniculata.'
+    ref: 5821930ded2a897480002c54
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2016-11-08T09:45:04Z'
+    text: 'Thanks, Chris. It keys out to peniculata (Jeanes;Muelleria 19: 19–79 (2004) if I guess that the leaf is <75% of the inflorescence. (leaves are cut off and inflorescence not fully extended).'
+    ref: 58219ea0ed2a897480002caa
+    name: David Francis
+    username: david_francis
+collections:
+  - macedon_regional_park_environs_native_plants
+  - macedon_ranges_native_plants

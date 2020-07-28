@@ -1,0 +1,54 @@
+id:
+  - Acacia ausfeldii
+created_at: '2017-09-09T08:54:49Z'
+datetime: '2017-09-09T10:32:45+10:00'
+description: 'Upright, open shrub with narrow leaves approx.3-5cm long'
+elevation: 223.6
+latitude: -36.784199
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.36828
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-09-09T23:54:47Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-09-09T10:32:45Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59b399a3ed2a893984000222.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59b399a3ed2a893984000222.JPG'
+  - datetime: '2017-09-09T10:30:25Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59b39981ed2a893984000220.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59b39981ed2a893984000220.JPG'
+  - datetime: '2017-09-09T10:33:45Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59b3999bed2a893984000221.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59b3999bed2a893984000221.JPG'
+  - datetime: '2017-09-09T10:29:34Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59b399eeed2a893984000225.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59b399eeed2a893984000225.JPG'
+tags:
+  - flowers-spherical
+  - flowers-yellow
+  - shrub-straggly
+comments:
+  - created_at: '2017-09-09T11:57:54Z'
+    text: Acacia ausfeldii worth investigating.
+    ref: 59b3d742ed2a892c74001fdb
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-09-09T12:37:55Z'
+    text: 'Yes, Thanks David'
+    ref: 59b3e0a3ed2a892c74001ffe
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - junortoun_flora

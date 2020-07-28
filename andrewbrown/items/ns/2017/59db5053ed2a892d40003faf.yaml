@@ -1,0 +1,58 @@
+id:
+  - Eucalyptus viridis
+created_at: '2017-10-09T11:20:04Z'
+datetime: '2017-10-03T11:48:22+10:00'
+description: Abundant small eucalypts with stringy bark in the area.
+elevation: 209.7
+latitude: -36.624055
+location_name: 'Whipstick VIC 3556, Australia'
+longitude: 144.257383
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-10-10T07:50:43Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-03T11:48:22Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59db5063ed2a893984000456.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59db5063ed2a893984000456.JPG'
+  - datetime: '2017-10-03T11:48:29Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59db503fed2a893984000454.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59db503fed2a893984000454.JPG'
+  - datetime: '2017-10-03T11:48:16Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59db5059ed2a893984000455.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59db5059ed2a893984000455.JPG'
+  - datetime: '2017-10-03T11:49:19Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59db50e7ed2a89398400045c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59db50e7ed2a89398400045c.JPG'
+  - datetime: '2017-10-03T11:48:42Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59db5103ed2a89398400045e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59db5103ed2a89398400045e.JPG'
+tags:
+  - bark-stringy
+  - eucalypt-small
+  - leaqves-linear
+  - leaves-green
+  - leaves-narrow-long
+  - stems-red-green
+  - tree-small
+comments:
+  - created_at: '2017-10-09T12:08:43Z'
+    text: Investigate Eucalyptus viridis
+    ref: 59db66cbed2a892d40004070
+    name: David Francis
+    username: david_francis
+collections:
+  - whipstick_flora

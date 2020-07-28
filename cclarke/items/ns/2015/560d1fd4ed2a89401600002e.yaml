@@ -1,0 +1,29 @@
+id:
+  - Acacia spp.
+created_at: '2015-10-01T11:58:12Z'
+datetime: '2015-09-25T12:55:05+10:00'
+latitude: -37.56841
+longitude: 149.216258
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-10-01T12:03:34Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-09-25T12:55:05Z'
+    height: 2444
+    width: 2364
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560d1fe4ed2a890d9500038c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560d1fe4ed2a890d9500038c.jpg'
+comments:
+  - created_at: '2015-10-01T12:04:02Z'
+    text: genistifolia?
+    ref: 560d2132ed2a894016000031
+    name: Chris Clarke
+    username: cclarke
+  - created_at: '2015-10-01T13:05:40Z'
+    text: Resemblances of A. genistifolia. Can be rather variable.
+    ref: 560d2fa4ed2a894016000042
+    name: Chris Lindorff
+    username: chrisl

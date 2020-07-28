@@ -1,0 +1,35 @@
+id:
+  - name: Platylobium formosum spp. agg.
+    by: russell
+created_at: '2014-09-29T12:42:18Z'
+datetime: '2014-09-27T13:03:55+10:00'
+elevation: 293.9
+latitude: -37.202924
+location_name: 'Broadford VIC 3658, Australia'
+longitude: 145.000605
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-09-29T13:36:30Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-27T13:03:55Z'
+    height: 3000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/542953aae35eb1dec1000073.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/542953aae35eb1dec1000073.JPG'
+  - datetime: '2014-09-27T13:04:07Z'
+    height: 3000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/542953cde35eb1dec1000077.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/542953cde35eb1dec1000077.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2014-09-29T13:36:51Z'
+    text: 'Probably one of the newly named subspecies of Platylobium montanum, formerly included in the P. formosum complex of entities. I''ll look into it further.'
+    ref: 54296073e35eb1398e000111
+    name: Russell Best
+    username: russell
+collections:
+  - mt_piper_spring_2014

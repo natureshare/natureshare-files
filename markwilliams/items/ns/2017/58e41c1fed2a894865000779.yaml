@@ -1,0 +1,62 @@
+id:
+  - Eucalyptus leucoxylon subsp. connata
+created_at: '2017-04-04T22:21:54Z'
+datetime: '2017-04-04T16:15:14+10:00'
+latitude: -37.669981
+longitude: 145.090772
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-04-21T04:09:33Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-04-04T16:15:14Z'
+    height: 3672
+    width: 4896
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58e41c26ed2a89a81f0000b1.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e41c26ed2a89a81f0000b1.JPG'
+  - datetime: '2017-04-04T16:17:19Z'
+    height: 3672
+    width: 4896
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58e41c37ed2a89e5480000b6.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e41c37ed2a89e5480000b6.JPG'
+  - datetime: '2017-04-04T16:17:07Z'
+    height: 3672
+    width: 4896
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58e41c38ed2a89a81f0000b2.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e41c38ed2a89a81f0000b2.JPG'
+  - datetime: '2017-04-04T16:18:42Z'
+    height: 3672
+    width: 4896
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58e41c40ed2a891d6d0000bc.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e41c40ed2a891d6d0000bc.JPG'
+  - datetime: '2017-04-04T16:15:51Z'
+    height: 3672
+    width: 4896
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58e41c48ed2a8944100000bc.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e41c48ed2a8944100000bc.JPG'
+tags:
+  - adult-leaf
+  - bark
+  - flower-buds
+  - fruit
+  - juvenile-leaf
+comments:
+  - created_at: '2017-04-05T05:19:44Z'
+    text: 'Hi Mark, Were the buds and young branches covered with wax (pruinose)?'
+    ref: 58e47e70ed2a892988000001
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-04-21T04:11:22Z'
+    text: Hi David- I was pretty sure it was subsp. pruinosa but PV ranger has identified as subsp. connata
+    ref: 58f9866aed2a895139000012
+    name: Mark Williams
+    username: markwilliams
+  - replying_to: 58f9866aed2a895139000012
+    created_at: '2017-04-21T06:16:01Z'
+    text: 'Good record. VIcFlora says "... E. leucoxylon subsp. connata a non-glaucous(waxy) form of ssp. pruinosa, the two taxa being linked by the connate(fused) juvenile leaves. "'
+    ref: 58f9a3a1ed2a890aaa000001
+    name: David Francis
+    username: david_francis

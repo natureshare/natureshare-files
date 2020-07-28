@@ -1,0 +1,35 @@
+id:
+  - Correa reflexa var. scabridula
+created_at: '2015-02-02T10:07:38Z'
+datetime: '2015-02-02T13:07:59+10:00'
+elevation: 161.4
+latitude: -36.475601
+location_name: 'Little Desert VIC 3418, Australia'
+longitude: 141.567173
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-02-02T10:10:52Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-02-02T13:07:59Z'
+    height: 3264
+    width: 2162
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54cf4c6aed2a899aeb0004b9.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54cf4c6aed2a899aeb0004b9.jpg'
+  - datetime: '2015-02-02T13:08:39Z'
+    height: 2381
+    width: 3594
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54cf4c95ed2a899aeb0004bd.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54cf4c95ed2a899aeb0004bd.jpg'
+tags:
+  - flowers
+  - leaves
+comments:
+  - created_at: '2015-02-04T01:41:35Z'
+    text: Beautiful bush!
+    ref: 54d178cfed2a899aeb0005d8
+    name: David Francis
+    username: david_francis
+collections:
+  - little_desert_np_plants

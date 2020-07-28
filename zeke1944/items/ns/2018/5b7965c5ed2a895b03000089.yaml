@@ -1,0 +1,38 @@
+id:
+  - name: Entoloma tomentosolilacinum
+    by: 249pbr
+created_at: '2018-08-19T12:45:52Z'
+datetime: '2014-05-15T12:16:12+10:00'
+elevation: 62.1
+latitude: -38.572545
+location_name: 'Lorne VIC 3232, Australia'
+longitude: 143.944147
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-26T05:45:42Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-05-15T12:16:12Z'
+    height: 2145
+    width: 1235
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b7965c8ed2a8928070000a4.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b7965c8ed2a8928070000a4.jpg'
+comments:
+  - created_at: '2018-08-19T12:49:03Z'
+    text: Entoloma tomentosolilacium take 2
+    ref: 5b79673fed2a895b0300008b
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-19T13:27:39Z'
+    text: 'This set is closer to what I was expecting to see and the lower left image shows the silky fibrillose stipe and white basal tomentum. Gates gives the cap size as 5 - 15 diameter and the cap is described as lilac-grey to greyish ruby. The stipes look very dark in the upper image. One thing I have noticed after working through the images in The Entolomataceae of Tasmania, is that there is a lot of variation in colour with many species. The combination of the tomentose cap, fibrillose stipe, located on wood etc. all points to E. tomentosolilacinum. Could Entoloma tomentosolilacinum be added to the dataset please.'
+    ref: 5b79704bed2a89a7f1006368
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-08-21T01:27:31Z'
+    text: Entoloma tomentosolilacinum added to dataset.
+    ref: 5b7b6a83ed2a89a7f1006ad5
+    name: Cathy Powers
+    username: koolah
+collections:
+  - otway_ranges_-_fungi

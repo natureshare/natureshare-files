@@ -1,0 +1,49 @@
+id:
+  - name: Acanthopagrus butcheri
+    by: david_francis
+created_at: '2018-04-11T11:35:22Z'
+datetime: '2018-04-01T09:36:29+10:00'
+description: Common fish in Maribyrnong River. Black Bream (Acanthopagrus butcheri ) ?
+elevation: 1.5
+latitude: -37.796477
+location_name: 'Footscray VIC 3011, Australia'
+longitude: 144.914766
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-04-11T11:35:33Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-04-01T09:36:29Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5acdf264ed2a89abdd00007a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5acdf264ed2a89abdd00007a.jpg'
+tags:
+  - fish
+comments:
+  - created_at: '2018-04-13T00:51:26Z'
+    text: <em>Acanthopagrus butcheri</em> species id suggested
+    ref: 5acfff0eed2a8992f700004e
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-04-13T00:52:07Z'
+    text: id by Thomas N.
+    ref: 5acfff37ed2a8992f700004f
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-04-13T00:54:16Z'
+    text: Nice photo looking as if taken with an underwater camera (no reflections)!
+    ref: 5acfffb8ed2a899466003986
+    name: David Francis
+    username: david_francis
+  - replying_to: 5acfffb8ed2a899466003986
+    created_at: '2018-04-13T11:40:40Z'
+    text: What you can do with photoshop elements 2018!
+    ref: 5ad09738ed2a899466003bdd
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - flora_fauna_of_the_city_of_maribyrnong

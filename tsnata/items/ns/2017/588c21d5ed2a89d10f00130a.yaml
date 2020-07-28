@@ -1,0 +1,45 @@
+id:
+  - name: Candalides hyacinthina
+    by: david_francis
+created_at: '2017-01-28T04:52:30Z'
+datetime: '2017-01-21T11:23:37+10:00'
+description: Candalides hyacinthina?
+elevation: 32.2
+latitude: -38.684071
+location_name: 'Grey River VIC 3234, Australia'
+longitude: 143.838372
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-01-28T04:52:30Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-21T11:23:37Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588c21dded2a89b71800035e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588c21dded2a89b71800035e.jpg'
+  - datetime: '2017-01-21T11:20:41Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588c21e5ed2a89b3fe000357.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588c21e5ed2a89b3fe000357.jpg'
+comments:
+  - created_at: '2017-01-29T10:51:25Z'
+    text: 'Checks out with photos on ALA, so go ahead and add the id.'
+    ref: 588dc92ded2a89d10f0017fc
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-30T10:27:35Z'
+    text: <em>Candalides hyacinthina</em> species id suggested
+    ref: 588f1517ed2a89d10f001b66
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-30T10:27:47Z'
+    text: Id by Thomas N.
+    ref: 588f1523ed2a89d10f001b67
+    name: David Francis
+    username: david_francis
+collections:
+  - grey_river

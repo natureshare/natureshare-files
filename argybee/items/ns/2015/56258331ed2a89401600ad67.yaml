@@ -1,0 +1,41 @@
+id:
+  - Euchaetis rhizobola
+created_at: '2015-10-19T23:56:33Z'
+datetime: '2015-10-20T00:30:00+10:00'
+description: 'About 22mm long. Attracted to lights. '
+elevation: 149.3
+latitude: -37.892805
+location_name: 'Upper Ferntree Gully VIC 3156, Australia'
+longitude: 145.312395
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-10-24T01:53:07Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-10-19T12:30:34Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56258349ed2a890d95000569.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56258349ed2a890d95000569.JPG'
+  - datetime: '2015-10-19T12:30:18Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56258351ed2a890d9500056a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56258351ed2a890d9500056a.JPG'
+comments:
+  - created_at: '2015-10-20T08:40:09Z'
+    text: Mark - I think this is Euchaetis rhizobola.
+    ref: 5625fde9ed2a89401600ad83
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5625fde9ed2a89401600ad83
+    created_at: '2015-10-24T01:47:31Z'
+    text: Brilliant. Thanks Cathy.
+    ref: 562ae333ed2a8904a200019c
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_lepidoptera

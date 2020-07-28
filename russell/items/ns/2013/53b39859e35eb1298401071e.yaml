@@ -1,0 +1,32 @@
+id:
+  - name: Cleridae spp.
+created_at: '2013-11-11T18:45:50Z'
+datetime: '2013-11-05T14:30:48+10:00'
+latitude: -37.430713
+longitude: 144.654835
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-07-02T20:01:05Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-11-05T14:30:48Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39869e35eb129840147ba.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb129840147ba.jpg'
+  - datetime: '2013-11-05T14:16:44Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39869e35eb129840147bb.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb129840147bb.jpg'
+  - datetime: '2013-11-05T13:51:46Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39869e35eb129840147bd.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb129840147bd.jpg'
+comments:
+  - created_at: '2013-11-14T17:57:09Z'
+    text: ID by Stephen Thorpe.
+    ref: 53b3984ce35eb1298400dbc0
+  - created_at: '2017-12-31T07:43:00Z'
+    text: Eleale sp.
+    ref: 5a489504ed2a89c4380000d6
+    name: Kimberi Pullen
+    username: kimberip
+collections:
+  - insects_and_other_invertebrates_of_riddells_creek

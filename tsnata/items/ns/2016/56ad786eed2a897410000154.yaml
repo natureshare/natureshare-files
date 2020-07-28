@@ -1,0 +1,52 @@
+id:
+  - Podargus strigoides
+created_at: '2016-01-31T03:01:25Z'
+datetime: '2016-01-31T10:40:16+10:00'
+elevation: 2.3
+latitude: -37.796713
+location_name: 'Footscray VIC, Australia'
+longitude: 144.911427
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-04-11T06:18:22Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-01-31T10:40:16Z'
+    height: 1499
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56ad7872ed2a897bc700004c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ad7872ed2a897bc700004c.jpg'
+  - datetime: '2016-01-31T10:35:35Z'
+    height: 1499
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56ad7878ed2a89e050000058.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ad7878ed2a89e050000058.jpg'
+comments:
+  - created_at: '2016-01-31T06:56:31Z'
+    text: 'Lovely shot Thomas, it''s giving you "the look"!'
+    ref: 56adb01fed2a897410000170
+    name: Pauline McCarthy
+    username: pauline
+  - created_at: '2016-01-31T10:46:08Z'
+    text: Wow those eyes!!!!
+    ref: 56ade5f0ed2a89741000017e
+    name: Gill Best
+    username: gill
+  - replying_to: 56adb01fed2a897410000170
+    created_at: '2016-01-31T11:17:04Z'
+    text: 'Thanks, Pauline. You submitted a lot of good photos too.'
+    ref: 56aded30ed2a897410000181
+    name: Thomas Nataprawira
+    username: tsnata
+  - created_at: '2016-01-31T11:18:24Z'
+    text: This is bird species no 100 for Newell's Paddock. First owl I observed there.
+    ref: 56aded80ed2a897410000184
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - maribyrnong_river_valley_fauna
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong

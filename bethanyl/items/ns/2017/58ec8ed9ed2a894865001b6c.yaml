@@ -1,0 +1,30 @@
+id:
+  - Anthela varia
+created_at: '2017-04-11T08:10:35Z'
+datetime: '2017-04-11T16:07:00+10:00'
+description: Found on the ground.
+elevation: 284.8
+latitude: -37.902205
+location_name: 'Anakie VIC 3213, Australia'
+longitude: 144.222896
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-04-11T10:39:40Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 918
+    width: 1632
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58ec8edced2a89e5480000ca.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ec8edced2a89e5480000ca.jpeg'
+tags:
+  - caterpillar
+  - larvae
+comments:
+  - created_at: '2017-04-11T10:36:22Z'
+    text: Great photo of a beautiful caterpillar.
+    ref: 58ecb1a6ed2a894865001bab
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brisbane_ranges_moths

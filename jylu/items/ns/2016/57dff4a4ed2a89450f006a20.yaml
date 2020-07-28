@@ -1,0 +1,41 @@
+id:
+  - Senecio linearifolius var. linearifolius
+created_at: '2016-09-19T14:30:10Z'
+datetime: '2016-09-18T15:30:20+10:00'
+description: 'In the forest of stringybarks and ironbarks, understory herbs close to shrubs. '
+elevation: 356.1
+latitude: -37.739942
+location_name: Glenmore VIC 3340澳洲
+longitude: 144.314555
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: n/a
+updated_at: '2016-09-20T13:25:15Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-18T15:30:20Z'
+    height: 2592
+    width: 3872
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57dff4ceed2a89b3fe000053.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57dff4ceed2a89b3fe000053.JPG'
+  - datetime: '2016-09-18T15:30:13Z'
+    height: 2592
+    width: 3872
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57dff6a4ed2a89b3fe000054.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57dff6a4ed2a89b3fe000054.JPG'
+comments:
+  - created_at: '2016-09-20T10:29:11Z'
+    text: Your ID looks plausible.
+    ref: 57e10f77ed2a89450f006a9a
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 57e10f77ed2a89450f006a9a
+    created_at: '2016-09-20T13:19:53Z'
+    text: Thanks! I'd edit my description.
+    ref: 57e13779ed2a89450f006b12
+    name: Jing-Yi Lu
+    username: jylu
+collections:
+  - brisbane_ranges_national_park_plants

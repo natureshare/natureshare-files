@@ -1,0 +1,29 @@
+id:
+  - name: Araneinae spp.
+    by: david_francis
+created_at: '2011-05-20T22:39:53Z'
+datetime: '2010-03-04T14:53:24+10:00'
+latitude: -37.468574
+longitude: 144.648882
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2017-05-07T02:18:08Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2010-03-04T14:53:24Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ee35eb12984011b3a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b3a.jpg'
+comments:
+  - created_at: '2017-05-06T23:51:58Z'
+    text: 'Araneidae Araneinae '
+    ref: 590e619eed2a893d8c0024d1
+    name: Robert Whyte
+    username: robertwhyte
+  - created_at: '2017-05-07T02:17:40Z'
+    text: 'Thanks again, Robert. I''ve added the subfamily Araneinae to the NatureShare database.'
+    ref: 590e83c4ed2a893d8c00254b
+    name: David Francis
+    username: david_francis
+collections:
+  - spiders_of_riddells_creek

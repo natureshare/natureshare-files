@@ -1,0 +1,29 @@
+created_at: '2014-10-07T11:10:16Z'
+datetime: '2014-10-03T13:47:00+10:00'
+latitude: -37.241605
+longitude: 141.872978
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-10-07T11:10:33Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-03T13:47:00Z'
+    height: 2935
+    width: 2061
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5433ca18e35eb1d446000082.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5433ca18e35eb1d446000082.JPG'
+comments:
+  - created_at: '2014-10-07T13:18:46Z'
+    text: Dou you have a pic of the full plant or leaf tips?
+    ref: 5433e836e35eb1957000006b
+    name: Russell Best
+    username: russell
+  - replying_to: 5433e836e35eb1957000006b
+    created_at: '2014-10-09T01:39:03Z'
+    text: No thats it. Found a similar one in Grampians
+    ref: 5435e737e35eb1c78a000040
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - plants_of_balmoral_rocklands_area

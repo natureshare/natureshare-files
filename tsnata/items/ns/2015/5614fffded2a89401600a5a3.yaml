@@ -1,0 +1,34 @@
+id:
+  - Plutella xylostella
+created_at: '2015-10-07T11:20:29Z'
+datetime: '2015-09-29T12:57:14+10:00'
+description: Plutella xylostella ?
+elevation: 25.3
+latitude: -37.786032
+location_name: 'Newmarket, Flemington VIC 3031, Australia'
+longitude: 144.924921
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-02-17T01:49:19Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-09-29T12:57:14Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5615000aed2a890d9500046a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5615000aed2a890d9500046a.jpg'
+comments:
+  - created_at: '2016-02-15T06:17:05Z'
+    text: 'Hi Thomas. Yes, I agree with Plutella xylostella.'
+    ref: 56c16d61ed2a898f66000064
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 56c16d61ed2a898f66000064
+    created_at: '2016-02-17T01:49:36Z'
+    text: 'Thanks, Chris.'
+    ref: 56c3d1b0ed2a898f660002f5
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - flemington_kensington_3031

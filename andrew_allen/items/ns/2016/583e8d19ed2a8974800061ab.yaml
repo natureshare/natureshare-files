@@ -1,0 +1,37 @@
+id:
+  - Proteuxoa sanguinipuncta
+created_at: '2016-11-30T08:28:27Z'
+datetime: '2015-01-14T18:30:00+10:00'
+elevation: 64.4
+latitude: -37.73337
+location_name: 'Kealba VIC 3021, Australia'
+longitude: 144.824385
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-11-30T23:35:20Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 2318
+    width: 3478
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/583e8d23ed2a89d73e0001fb.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/583e8d23ed2a89d73e0001fb.jpg'
+  - height: 3369
+    width: 2246
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/583e8d23ed2a892daf00022d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/583e8d23ed2a892daf00022d.jpg'
+comments:
+  - created_at: '2016-11-30T22:42:00Z'
+    text: This is Proteuxoa sanguinipuncta and your images are beautiful.
+    ref: 583f55b8ed2a8974800062c2
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2016-11-30T23:28:13Z'
+    text: Thanks Cathy
+    ref: 583f608ded2a897480006312
+    name: Andrew Allen
+    username: andrew_allen
+collections:
+  - moths_of_metropolitan_melbourne

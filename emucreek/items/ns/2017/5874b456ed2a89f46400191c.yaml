@@ -1,0 +1,43 @@
+id:
+  - name: Terobiella spp.
+    by: david_francis
+created_at: '2017-01-10T10:20:34Z'
+datetime: '2017-01-07T19:55:29+10:00'
+description: on a gumtree
+elevation: 285
+latitude: -37.527681
+location_name: 'Sunbury VIC 3429, Australia'
+longitude: 144.764495
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-01-10T10:20:34Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-07T19:55:29Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5874b469ed2a89d73e0002bd.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5874b469ed2a89d73e0002bd.JPG'
+  - datetime: '2017-01-07T19:56:11Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5874b4afed2a892daf000303.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5874b4afed2a892daf000303.JPG'
+  - datetime: '2017-01-07T19:56:17Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5874b51ded2a89b3fe0002ee.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5874b51ded2a89b3fe0002ee.JPG'
+comments:
+  - created_at: '2017-01-10T10:44:17Z'
+    text: 'Galls containing wasp larvae. See http://www.bowerbird.org.au/observations/76389'
+    ref: 5874bb01ed2a89f464001952
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-10T10:50:46Z'
+    text: <em>Terobiella spp.</em> species id suggested
+    ref: 5874bc86ed2a89f464001960
+    name: David Francis
+    username: david_francis

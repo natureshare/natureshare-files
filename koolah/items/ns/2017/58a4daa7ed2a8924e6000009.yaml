@@ -1,0 +1,36 @@
+id:
+  - Crioa hades
+created_at: '2017-02-15T22:50:44Z'
+datetime: '2017-02-15T23:11:26+10:00'
+elevation: 262
+latitude: -37.806545
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.296994
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-02-15T22:50:44Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-02-15T23:11:26Z'
+    height: 3132
+    width: 2617
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58a4dabeed2a892daf0003c1.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a4dabeed2a892daf0003c1.jpg'
+  - datetime: '2017-02-15T23:14:29Z'
+    height: 3132
+    width: 2617
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58a4dae5ed2a89b3fe0003aa.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a4dae5ed2a89b3fe0003aa.jpg'
+tags:
+  - moth
+comments:
+  - created_at: '2017-02-16T01:28:57Z'
+    text: Weird wings!
+    ref: 58a50059ed2a896c5c00015b
+    name: David Francis
+    username: david_francis
+collections:
+  - brisbane_ranges_moths

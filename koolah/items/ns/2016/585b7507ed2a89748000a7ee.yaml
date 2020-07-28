@@ -1,0 +1,55 @@
+id:
+  - Accipiter fasciatus
+created_at: '2016-12-22T06:43:15Z'
+datetime: '2016-12-21T14:29:11+10:00'
+description: Need help with the ID - two stills and the video show many angles.
+elevation: 232.9
+latitude: -37.804775
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297962
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-12-22T08:30:30Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-12-21T14:29:11Z'
+    height: 1606
+    width: 1112
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/585b750eed2a89d73e00026f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/585b750eed2a89d73e00026f.jpg'
+  - datetime: '2016-12-21T14:29:44Z'
+    height: 1695
+    width: 893
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/585b7521ed2a89b71800028f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/585b7521ed2a89b71800028f.jpg'
+tags:
+  - juvenile
+  - raptor
+comments:
+  - created_at: '2016-12-22T06:50:34Z'
+    text: 'It seems to have a pronounced brow, thick legs and a round-ish tail so I would think Brown Goshawk fits best, but not certain. Perhaps posting images on the facebook Australian Bird Identification group would get a more confident ID.'
+    ref: 585b77baed2a89748000a813
+    name: Andrew Allen
+    username: andrew_allen
+  - created_at: '2016-12-22T06:59:29Z'
+    text: Andrew-I thought that might be the ID.  Looks like a juvenile.  Excited to have it spend the time at the water tub.
+    ref: 585b79d1ed2a89748000a816
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2016-12-22T07:58:13Z'
+    text: Brown Goshawk Juvenile
+    ref: 585b8795ed2a89748000a829
+    name: William Terry
+    username: william
+  - created_at: '2016-12-22T08:30:51Z'
+    text: Thanks for all the help with the ID
+    ref: 585b8f3bed2a89748000a85c
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brisbane_ranges_birds
+videos:
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/video/20161222/1482388782132-brwn1zagr8f2-b12b790c5a4eed54d2a054e720ecf34a/Raptor%2021_12_16.mp4'

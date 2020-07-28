@@ -1,0 +1,40 @@
+id:
+  - name: Gymnopilus junonius
+    by: zeke1944
+created_at: '2017-04-08T11:57:27Z'
+datetime: '2017-04-07T14:11:52+10:00'
+description: Large fungi approx. 25-30 cm growing from a dead tree-stump.
+elevation: 161
+latitude: -36.792441
+location_name: 'Axedale VIC 3551, Australia'
+longitude: 144.506582
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-04-08T11:57:27Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-04-07T14:12:14Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58e8c5f2ed2a89a81f0000ba.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e8c5f2ed2a89a81f0000ba.jpeg'
+  - datetime: '2017-04-07T14:11:52Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58e8c5dded2a8944100000c8.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e8c5dded2a8944100000c8.jpeg'
+tags:
+  - fungi
+  - fungi-large
+  - fungi-orange-brown
+comments:
+  - created_at: '2018-07-25T13:28:07Z'
+    text: <em>Gymnopilus junonius</em> species id suggested
+    ref: 5b587ae7ed2a8903a00075e2
+    name: zeke1944
+    username: zeke1944
+collections:
+  - fungus_of_central_victoria

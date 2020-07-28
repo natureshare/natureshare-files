@@ -1,0 +1,35 @@
+id:
+  - Opodiphthera helena
+created_at: '2016-10-02T09:59:52Z'
+datetime: '2016-10-01T21:58:16+10:00'
+description: The female is larger than the male.
+latitude: -37.806623
+longitude: 144.297013
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2016-10-03T05:03:32Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-01T21:58:16Z'
+    height: 1821
+    width: 2341
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57f0dab2ed2a89d73e0000c5.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f0dab2ed2a89d73e0000c5.jpg'
+  - datetime: '2016-10-01T21:59:22Z'
+    height: 2332
+    width: 4415
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57f0da3eed2a89d73e0000c4.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f0da3eed2a89d73e0000c4.jpg'
+  - datetime: '2016-10-01T23:12:43Z'
+    height: 2228
+    width: 3308
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57f0dafbed2a89b3fe0000ca.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f0dafbed2a89b3fe0000ca.jpg'
+tags:
+  - female
+  - moth
+collections:
+  - brisbane_ranges_moths

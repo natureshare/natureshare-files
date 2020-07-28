@@ -1,0 +1,33 @@
+id:
+  - name: Debiliana GROUP debiliana
+created_at: '2013-02-27T16:24:43Z'
+datetime: '2012-09-19T22:52:22+10:00'
+latitude: -37.806597
+longitude: 144.297009
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2013-02-27T16:34:53Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-09-19T22:52:22Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39866e35eb12984013aae.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013aae.jpg'
+  - datetime: '2012-09-22T21:39:38Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39866e35eb12984013aaf.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013aaf.jpg'
+tags:
+  - moth
+comments:
+  - created_at: '2017-01-20T09:53:39Z'
+    text: 'Lovely pair of photos, one now appearing at http://lepidoptera.butterflyhouse.com.au/tort/debiliana.html, thanks Cathy. '
+    ref: 5881de23ed2a89f464003351
+    name: Don Herbison-Evans
+    username: donhe
+  - created_at: '2017-01-20T10:19:48Z'
+    text: 'oops that is http://lepidoptera.butterflyhouse.com.au/tort/debiliana.html with no comma.'
+    ref: 5881e444ed2a89650c000040
+    name: Don Herbison-Evans
+    username: donhe
+collections:
+  - brisbane_ranges_moths

@@ -1,0 +1,41 @@
+id:
+  - name: Brachyloma depressum
+    by: banksiaman
+created_at: '2018-10-12T07:44:40Z'
+datetime: '2018-09-22T09:56:34+10:00'
+elevation: 381.1
+latitude: -37.617672
+location_name: 'Dunkeld VIC 3294, Australia'
+longitude: 142.334891
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-10-22T08:13:25Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-09-22T09:56:34Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bc050aced2a891efe0000fc.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bc050aced2a891efe0000fc.jpg'
+comments:
+  - created_at: '2018-10-12T10:04:56Z'
+    text: <em>Brachyloma ciliatum</em> species id suggested
+    ref: 5bc071c8ed2a894bc00001bb
+    name: Kevin Sparrow
+    username: banksiaman
+  - created_at: '2018-10-21T10:43:04Z'
+    text: 'I think it is depressum, which is very common at the Piccaninny hike'
+    ref: 5bcc5838ed2a891abb000026
+    name: 'steff '
+    username: steff
+  - created_at: '2018-10-22T08:12:55Z'
+    text: 'Thanks, Steff'
+    ref: 5bcd8687ed2a891abb0004bc
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - grampians_np_plants
+  - flora_and_fauna_of_the_grampians

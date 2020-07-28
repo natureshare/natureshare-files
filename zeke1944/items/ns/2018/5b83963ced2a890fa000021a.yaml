@@ -1,0 +1,33 @@
+id:
+  - Mycena leaiana
+created_at: '2018-08-27T06:14:55Z'
+datetime: '2014-05-15T13:45:30+10:00'
+elevation: 100.6
+latitude: -38.572831
+location_name: 'Lorne VIC 3232, Australia'
+longitude: 143.942495
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-08-27T10:41:09Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-05-15T13:45:30Z'
+    height: 2778
+    width: 4260
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b839642ed2a8928070000be.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b839642ed2a8928070000be.jpg'
+comments:
+  - created_at: '2018-08-27T06:17:39Z'
+    text: Orange gilled Mycena. Appears more common in the Otway area. Has only been found on large fallen logs that litter fern gullies.
+    ref: 5b839783ed2a890fa000022a
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-27T10:42:28Z'
+    text: 'Not found this one so far, hopefully I will get some free time in the Otways next fungi season'
+    ref: 5b83d594ed2a89a7f1008ee5
+    name: John Walter
+    username: 249pbr
+collections:
+  - otway_ranges_-_fungi

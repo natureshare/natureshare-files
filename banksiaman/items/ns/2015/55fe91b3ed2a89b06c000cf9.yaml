@@ -1,0 +1,34 @@
+id:
+  - Plantago varia
+created_at: '2015-09-20T11:00:03Z'
+datetime: '2015-09-13T12:52:09+10:00'
+latitude: -37.88797
+longitude: 142.810003
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-09-21T02:08:07Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-09-13T12:52:09Z'
+    height: 4056
+    width: 3697
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55fe91caed2a890d950001e4.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55fe91caed2a890d950001e4.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2015-09-20T22:13:26Z'
+    text: Kevin. Leaf characters would suggest Plantago varia.
+    ref: 55ff2f86ed2a89b06c000d60
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 55ff2f86ed2a89b06c000d60
+    created_at: '2015-09-21T02:07:31Z'
+    text: 'Thanks Chris, I don''t know these'
+    ref: 55ff6663ed2a89b06c000da1
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - victorian_volcanic_plains_native_plants

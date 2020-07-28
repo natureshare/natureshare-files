@@ -1,0 +1,33 @@
+id:
+  - Praxis pandesma
+created_at: '2018-10-18T02:19:43Z'
+datetime: '2018-06-10T22:42:51+10:00'
+description: Antennae orangish which is an identification feature of this species. Second photo shows close-up.
+elevation: 260.9
+latitude: -37.806569
+location_name: 'Brisbane Track, Balliang VIC 3340, Australia'
+longitude: 144.29702
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-10-18T10:06:32Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-06-10T22:42:51Z'
+    height: 1784
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bc7ecd0ed2a891efe00010b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bc7ecd0ed2a891efe00010b.jpg'
+  - datetime: '2018-06-10T22:48:57Z'
+    height: 1975
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bc7edcced2a89402b000108.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bc7edcced2a89402b000108.jpg'
+tags:
+  - moth
+  - moth-dark
+  - moth-female
+collections:
+  - brisbane_ranges_moths

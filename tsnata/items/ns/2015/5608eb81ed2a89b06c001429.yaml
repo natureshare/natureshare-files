@@ -1,0 +1,29 @@
+id:
+  - name: Coprinellus spp.
+    by: argybee
+created_at: '2015-09-28T07:25:53Z'
+datetime: '2015-09-23T10:42:47+10:00'
+elevation: 2.8
+latitude: -37.796021
+location_name: 'Footscray VIC, Australia'
+longitude: 144.911136
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-19T12:33:59Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-09-23T10:42:47Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5608eb93ed2a890d950002f8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5608eb93ed2a890d950002f8.jpg'
+  - datetime: '2015-09-23T10:42:02Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5608eba3ed2a890d950002f9.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5608eba3ed2a890d950002f9.jpg'
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong

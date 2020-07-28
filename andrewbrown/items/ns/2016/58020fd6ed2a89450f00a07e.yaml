@@ -1,0 +1,53 @@
+id:
+  - Petrorhagia nanteuilii
+created_at: '2016-10-15T11:46:59Z'
+datetime: '2016-10-15T22:09:51+10:00'
+description: Unusual small pink flowers with large ovary structure on stems approx 30-40cm.
+elevation: 203.2
+latitude: -36.780225
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.383069
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-15T12:26:59Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-15T22:09:51Z'
+    height: 3264
+    width: 2225
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5802104bed2a89b718000110.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5802104bed2a89b718000110.JPG'
+  - datetime: '2016-10-14T14:50:45Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58020fe0ed2a89b71800010f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58020fe0ed2a89b71800010f.JPG'
+  - datetime: '2016-10-14T14:51:42Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58020feeed2a892daf000137.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58020feeed2a892daf000137.JPG'
+  - datetime: '2016-10-14T14:51:29Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58021011ed2a892daf000138.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58021011ed2a892daf000138.JPG'
+tags:
+  - flowers-pink
+  - leaves-glabrous
+comments:
+  - created_at: '2016-10-15T12:18:55Z'
+    text: Try Petrorhagia nanteuilii (Childing Pink). Identified by stems being glabrous at internodes and the leaf sheath less than twice as long as wide (just visible in closeup of leaf base).
+    ref: 58021eafed2a89450f00a0d8
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-10-15T12:29:18Z'
+    text: 'That''s it, thanks David, I thought the leaves and stems were carnation-like.'
+    ref: 5802211eed2a89450f00a0e5
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - junortoun_flora

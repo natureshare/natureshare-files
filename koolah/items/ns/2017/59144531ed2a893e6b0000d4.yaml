@@ -1,0 +1,31 @@
+id:
+  - Epicoma sp. (1)
+created_at: '2017-05-11T11:07:25Z'
+datetime: '2017-05-10T18:55:45+10:00'
+elevation: 260.8
+latitude: -37.806589
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297025
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-05-11T11:41:59Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-05-10T18:55:45Z'
+    height: 1500
+    width: 1418
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59144539ed2a89e548000132.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59144539ed2a89e548000132.jpg'
+  - datetime: '2017-05-10T19:23:36Z'
+    height: 1650
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59144563ed2a894410000125.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59144563ed2a894410000125.jpg'
+tags:
+  - male
+  - moth
+collections:
+  - brisbane_ranges_moths

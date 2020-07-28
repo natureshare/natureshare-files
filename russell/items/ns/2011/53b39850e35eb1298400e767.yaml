@@ -1,0 +1,35 @@
+id:
+  - name: Miturgidae spp.
+    by: david_francis
+created_at: '2011-05-18T14:17:27Z'
+datetime: '2008-12-22T22:54:43+10:00'
+latitude: -37.430901
+longitude: 144.654653
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2017-05-08T02:55:12Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2008-12-22T22:54:43Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ee35eb12984011ae0.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011ae0.jpg'
+comments:
+  - created_at: '2017-05-07T00:03:11Z'
+    text: 'I''m not sure this is Badumna insignis or even a relative, the eyes are wrong, I think its Miturgidae  '
+    ref: 590e643fed2a893d8c0024f2
+    name: Robert Whyte
+    username: robertwhyte
+  - replying_to: 590e643fed2a893d8c0024f2
+    created_at: '2017-05-08T02:55:42Z'
+    text: 'Thanks for the correction, Robert.'
+    ref: 590fde2eed2a893d8c0028c3
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-10-31T13:05:35Z'
+    text: To me this seems pretty clearly a Lycosidae.
+    ref: 5bd9a89fed2a895e15001d48
+    name: stuart longhorn
+    username: sjl197
+collections:
+  - spiders_of_riddells_creek

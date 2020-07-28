@@ -1,0 +1,40 @@
+id:
+  - Hemicordulia australiae
+created_at: '2016-12-18T05:52:59Z'
+datetime: '2015-11-18T17:00:00+10:00'
+description: I think this one is Hemicordulia tau because it has yellow-ish pterostigma.
+latitude: -37.702224
+longitude: 144.791913
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-12-19T23:04:31Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 2618
+    width: 3927
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58562389ed2a892daf000287.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58562389ed2a892daf000287.jpg'
+  - height: 3310
+    width: 3310
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5856238bed2a89b71800026b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5856238bed2a89b71800026b.jpg'
+comments:
+  - created_at: '2016-12-18T12:01:23Z'
+    text: Tau Emerald has bright yellow leading edge to the wings and bright yellow pterostima (wing spot)
+    ref: 58567a93ed2a897480009b47
+    name: David Francis
+    username: david_francis
+  - replying_to: 58567a93ed2a897480009b47
+    created_at: '2016-12-19T10:04:29Z'
+    text: 'So is this H. tau or H. australiae? I can''t see a yellow leading edge, but the pterostigma aren''t black and to my eyes look a bit yellow-ish. Unfortunately I am quite colourblind, but yellow doesn''t usually give me too much trouble.'
+    ref: 5857b0aded2a89485a000034
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 5857b0aded2a89485a000034
+    created_at: '2016-12-19T11:58:24Z'
+    text: I reckon H. australiae.
+    ref: 5857cb60ed2a897480009dba
+    name: David Francis
+    username: david_francis

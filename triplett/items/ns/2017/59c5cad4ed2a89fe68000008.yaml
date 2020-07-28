@@ -1,0 +1,40 @@
+id:
+  - name: Melanerythrus mactans
+    by: david_francis
+created_at: '2017-09-23T02:48:44Z'
+datetime: '2017-09-22T11:42:24+10:00'
+description: On Acacia mearnsii.
+elevation: 150.5
+latitude: -37.644811
+location_name: 'Greenvale VIC 3059, Australia'
+longitude: 144.863205
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-09-23T02:48:44Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-09-22T11:42:24Z'
+    height: 432
+    width: 640
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c5cad8ed2a8939840002b8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c5cad8ed2a8939840002b8.jpg'
+comments:
+  - created_at: '2017-09-23T02:49:19Z'
+    text: Crap photo due to gunk on lense - probably spitfire juice!
+    ref: 59c5cbafed2a89eed50010d9
+    name: Jeff Triplett
+    username: triplett
+  - created_at: '2017-09-23T03:42:24Z'
+    text: <em>Melanerythrus mactans</em> species id suggested
+    ref: 59c5d820ed2a89eed50010f3
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-09-23T03:44:12Z'
+    text: 'See http://www.bowerbird.org.au/observations/71113'
+    ref: 59c5d88ced2a89eed50010f4
+    name: David Francis
+    username: david_francis
+collections:
+  - woodlands_historic_park_insects_and_spiders
+  - woodlands_historic_park_-_hemiptera

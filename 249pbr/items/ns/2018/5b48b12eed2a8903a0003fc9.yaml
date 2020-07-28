@@ -1,0 +1,35 @@
+id:
+  - Lactarius piperatus
+created_at: '2018-07-13T15:23:46Z'
+datetime: '2011-03-14T13:06:10+10:00'
+description: 'Two images. This is Lactarius piperatus, please add to the database'
+elevation: 580.9
+latitude: -37.334255
+location_name: 'Spring Hill VIC 3444, Australia'
+longitude: 144.351214
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-07-13T22:27:53Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2011-03-14T13:06:10Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b48b133ed2a892807000056.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b48b133ed2a892807000056.jpg'
+  - datetime: '2011-03-14T13:05:05Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b48b133ed2a891efe00004f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b48b133ed2a891efe00004f.jpg'
+comments:
+  - created_at: '2018-07-13T20:13:48Z'
+    text: Species added to dataset.
+    ref: 5b4907fced2a8903a00040a0
+    name: Cathy Powers
+    username: koolah
+collections:
+  - wombat_forest_-_fungi

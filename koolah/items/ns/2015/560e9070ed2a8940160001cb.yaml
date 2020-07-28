@@ -1,0 +1,31 @@
+id:
+  - Praxis porphyretica
+created_at: '2015-10-02T14:10:56Z'
+datetime: '2015-10-02T20:27:13+10:00'
+description: Both top view and underside from same pose.
+latitude: -37.806528
+longitude: 144.296967
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-10-02T14:13:53Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-10-02T20:27:13Z'
+    height: 1556
+    width: 1784
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560e9077ed2a890d950003d9.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560e9077ed2a890d950003d9.JPG'
+  - datetime: '2015-10-02T20:27:22Z'
+    height: 1446
+    width: 1736
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560e907fed2a890d950003da.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560e907fed2a890d950003da.JPG'
+tags:
+  - dark-spot-underwing
+  - moth
+  - white-spot-fore-wing
+collections:
+  - brisbane_ranges_moths

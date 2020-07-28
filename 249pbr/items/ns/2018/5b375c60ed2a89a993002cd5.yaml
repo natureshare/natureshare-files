@@ -1,0 +1,29 @@
+id:
+  - Pleurotopsis longinqua
+created_at: '2018-06-30T10:54:55Z'
+datetime: '2014-05-24T12:16:00+10:00'
+description: Two images
+elevation: 749.5
+latitude: -37.428029
+location_name: 'Bullarto South VIC 3461, Australia'
+longitude: 144.227339
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2020-06-12T14:19:06Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2014-05-24T12:16:00Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b375c66ed2a89402b000028.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b375c66ed2a89402b000028.jpg'
+  - datetime: '2014-05-24T12:16:15Z'
+    height: 1704
+    width: 2284
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b375c67ed2a891efe000027.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b375c67ed2a891efe000027.jpg'
+collections:
+  - wombat_forest_-_fungi

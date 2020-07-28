@@ -1,0 +1,34 @@
+id:
+  - Eristalinus punctulatus
+created_at: '2016-12-05T22:09:37Z'
+datetime: '2016-12-02T14:48:54+10:00'
+description: Small fly which hovers like hover fly. Among parsley flowers.
+elevation: 21.6
+latitude: -37.786015
+location_name: 'Flemington VIC 3031, Australia'
+longitude: 144.924943
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-12-06T03:50:58Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-12-02T14:48:54Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5845e43fed2a89b3fe00022c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5845e43fed2a89b3fe00022c.jpg'
+  - datetime: '2016-12-02T14:47:17Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5845e46ded2a89d73e000212.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5845e46ded2a89d73e000212.jpg'
+comments:
+  - created_at: '2016-12-05T22:37:38Z'
+    text: Native Drone Fly - Eristalinus punctulatus
+    ref: 5845ec32ed2a8974800071e4
+    name: Andrew Allen
+    username: andrew_allen
+collections:
+  - flemington_kensington_3031

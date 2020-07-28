@@ -1,0 +1,33 @@
+id:
+  - Cordyceps spp.
+created_at: '2018-08-20T04:06:55Z'
+datetime: '2017-09-03T15:00:31+10:00'
+elevation: 386
+latitude: -38.516324
+location_name: 'Lorne VIC 3232, Australia'
+longitude: 143.923741
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-08-26T05:32:16Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-09-03T15:00:31Z'
+    height: 2799
+    width: 3354
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b7a3d91ed2a8928070000a5.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b7a3d91ed2a8928070000a5.jpg'
+comments:
+  - created_at: '2018-08-20T04:10:30Z'
+    text: Smaller than any known species and a different color.
+    ref: 5b7a3f36ed2a89990e000075
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-26T05:32:14Z'
+    text: 'It is not dissimilar to C. hawksii and the host seems smaller than usual for that species (see my image in the Otway group). Perhaps a smaller host has produced a scaled down fruiting body however the transition between the fertile section of the club and the base, is not abrupt like you expect for C. hawksii. A very interesting find.'
+    ref: 5b823b5eed2a89a7f1008786
+    name: John Walter
+    username: 249pbr
+collections:
+  - otway_ranges_-_fungi

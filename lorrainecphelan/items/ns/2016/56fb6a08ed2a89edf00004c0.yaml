@@ -1,0 +1,35 @@
+id:
+  - Scopula rubraria
+created_at: '2016-03-30T05:55:37Z'
+datetime: '2016-03-28T14:52:56+10:00'
+elevation: 53.7
+latitude: -38.057442
+location_name: 'Breakaway Creek VIC 3303, Australia'
+longitude: 141.824079
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-11-15T10:22:00Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-03-28T14:52:56Z'
+    height: 861
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56fb6a0ded2a890be7000173.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56fb6a0ded2a890be7000173.JPG'
+comments:
+  - created_at: '2016-03-30T10:21:49Z'
+    text: 'Lorraine - this is one of the best photos I have seen of this moth.  Great antennae, good view of neck area.'
+    ref: 56fba8bded2a89edf00004d1
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 56fba8bded2a89edf00004d1
+    created_at: '2016-03-30T10:29:59Z'
+    text: 'Thanks Kathy. Sometimes the stars align:) '
+    ref: 56fbaaa7ed2a89edf00004d3
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - homerton_and_milltown_insects

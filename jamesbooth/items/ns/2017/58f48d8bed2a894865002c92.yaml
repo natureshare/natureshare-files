@@ -1,0 +1,54 @@
+id:
+  - name: Hoggicosa spp.
+    by: david_francis
+created_at: '2017-04-17T10:06:44Z'
+datetime: '2017-04-16T22:01:24+10:00'
+elevation: 178
+latitude: -36.459139
+location_name: 'Glenalbyn VIC 3517, Australia'
+longitude: 143.773236
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-02-05T10:16:04Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-04-16T22:01:24Z'
+    height: 2386
+    width: 3182
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58f48d93ed2a891d6d0000e9.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58f48d93ed2a891d6d0000e9.JPG'
+  - datetime: '2017-04-16T22:01:36Z'
+    height: 2591
+    width: 3455
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58f48ccaed2a89e5480000e3.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58f48ccaed2a89e5480000e3.JPG'
+comments:
+  - created_at: '2017-04-17T10:41:02Z'
+    text: Great shot of the face James.
+    ref: 58f49bbeed2a894865002ce9
+    name: Andrew Brown
+    username: andrewbrown
+  - created_at: '2017-04-18T03:38:23Z'
+    text: <em>Hoggicosa spp.</em> species id suggested
+    ref: 58f58a2fed2a894865002ea8
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-04-18T03:40:40Z'
+    text: 'Wolf Spider (8 eyes: 4 small + 2 large + 2 medium size on top)'
+    ref: 58f58ab8ed2a894865002ea9
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-04-18T03:43:18Z'
+    text: 'http://www.bowerbird.org.au/observations/56016'
+    ref: 58f58b56ed2a894865002eac
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-02-05T10:17:43Z'
+    text: 'This is an amazing shot! Love it, Love it.'
+    ref: 5a782f47ed2a89d925001ec3
+    name: Christopher Mason
+    username: chris_mason10
+collections:
+  - montana

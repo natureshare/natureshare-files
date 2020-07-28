@@ -1,0 +1,27 @@
+id:
+  - Geranium sp. 2
+created_at: '2014-10-26T01:56:41Z'
+datetime: '2014-10-25T14:53:16+10:00'
+latitude: -37.452328
+longitude: 144.647522
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-10-26T01:57:45Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-25T14:53:16Z'
+    height: 2263
+    width: 1506
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/544c54d9e35eb1faaa000178.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544c54d9e35eb1faaa000178.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2014-10-26T01:58:11Z'
+    text: New species record for Conglomerate Gully.
+    ref: 544c5533e35eb1c767000120
+    name: Russell Best
+    username: russell
+collections:
+  - conglomerate_gully_riddells_creek_plants

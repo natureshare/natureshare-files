@@ -1,0 +1,27 @@
+id:
+  - Spiranthes australis s.l.
+created_at: '2017-01-22T04:21:05Z'
+datetime: '2017-01-22T11:27:34+10:00'
+description: Habitat example.
+latitude: -37.82342
+longitude: 144.18448
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2017-01-23T06:15:39Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-22T11:27:34Z'
+    height: 2000
+    width: 1500
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588432b9ed2a89b71800030b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588432b9ed2a89b71800030b.JPG'
+tags:
+  - flowers-pink
+  - flowers-white
+  - orchid
+  - orchid-plant
+collections:
+  - brisbane_ranges_national_park_plants

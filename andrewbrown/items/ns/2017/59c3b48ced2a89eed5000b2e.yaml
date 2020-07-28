@@ -1,0 +1,32 @@
+id:
+  - Grevillea alpina
+created_at: '2017-09-24T04:33:52Z'
+datetime: '2017-09-16T10:23:12+10:00'
+elevation: 226
+latitude: -36.785643
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.373451
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-09-24T04:33:52Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-09-16T10:23:12Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c3b490ed2a893984000289.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c3b490ed2a893984000289.JPG'
+  - datetime: '2017-09-16T10:22:16Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c3b495ed2a89398400028a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c3b495ed2a89398400028a.JPG'
+tags:
+  - flowers-red
+  - grevillea
+  - shrub-small
+collections:
+  - junortoun_flora

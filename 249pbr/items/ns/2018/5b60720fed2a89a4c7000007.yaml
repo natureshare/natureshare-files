@@ -1,0 +1,29 @@
+id:
+  - Amanita punctata
+created_at: '2018-07-31T14:33:51Z'
+datetime: '2014-05-04T08:31:50+10:00'
+description: Second image shows volva detail
+elevation: 273.9
+latitude: -38.763705
+location_name: 'Cape Otway VIC 3233, Australia'
+longitude: 143.547609
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-07-31T14:34:06Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2014-05-04T08:31:50Z'
+    height: 1854
+    width: 1060
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b607216ed2a89c6aa00006f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b607216ed2a89c6aa00006f.jpg'
+  - datetime: '2014-05-04T08:33:17Z'
+    height: 1227
+    width: 1720
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b607219ed2a89402b000075.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b607219ed2a89402b000075.jpg'
+collections:
+  - otway_ranges_-_fungi

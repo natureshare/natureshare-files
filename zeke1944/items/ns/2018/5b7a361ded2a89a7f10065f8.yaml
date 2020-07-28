@@ -1,0 +1,33 @@
+id:
+  - name: Phaeoclavulina abietina
+    by: 249pbr
+created_at: '2018-08-20T03:34:27Z'
+datetime: '2012-07-11T11:02:45+10:00'
+elevation: 17.7
+latitude: -38.394947
+location_name: 'Bells Beach VIC 3228, Australia'
+longitude: 144.251287
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-26T05:34:04Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-07-11T11:02:45Z'
+    height: 1563
+    width: 2124
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b7a361fed2a89c6aa000091.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b7a361fed2a89c6aa000091.jpg'
+comments:
+  - created_at: '2018-08-20T03:37:25Z'
+    text: 'Ramaria abietina. Rare is Australia. Only found in 2 sites in Victoria. '
+    ref: 5b7a3775ed2a89a7f10065fe
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-21T01:41:15Z'
+    text: Phaeoclavulina abietina added to dataset.  Ramaria abietina is a synonym.
+    ref: 5b7b6dbbed2a89a7f1006aef
+    name: Cathy Powers
+    username: koolah
+collections:
+  - otway_ranges_-_fungi

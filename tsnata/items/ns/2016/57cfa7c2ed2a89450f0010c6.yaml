@@ -1,0 +1,34 @@
+id:
+  - Microeca fascinans
+created_at: '2016-09-07T05:40:09Z'
+datetime: '2016-09-03T16:52:25+10:00'
+elevation: 125.2
+latitude: -38.420643
+location_name: 'Grantville VIC 3984, Australia'
+longitude: 145.545703
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-01-06T05:22:43Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-03T16:52:25Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57cfa7f2ed2a89d73e000026.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57cfa7f2ed2a89d73e000026.JPG'
+comments:
+  - created_at: '2016-09-26T08:03:49Z'
+    text: Head and posture like a robin. The yellow belly may simply be a reflection of light.
+    ref: 57e8d665ed2a89450f0075e8
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2017-01-05T22:06:08Z'
+    text: Looks somewhat like a Jacky Winter. Agree - yellow belly is reflected light from somewhere.
+    ref: 586ec350ed2a89f4640009d8
+    name: Lawrie Conole
+    username: lconole
+collections:
+  - grantville_lodge

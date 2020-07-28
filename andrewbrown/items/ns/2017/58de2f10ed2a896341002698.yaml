@@ -1,0 +1,38 @@
+id:
+  - Piptoporus spp.
+created_at: '2017-03-31T10:45:22Z'
+datetime: '2017-03-31T16:42:33+10:00'
+description: "Fresh fungi growing from a dead stump. It had been broken off showing the bright orange centre.\r\nPiptoporus australiensis needs to be added to data base."
+elevation: 209.6
+latitude: -36.777565
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.365598
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-04T12:19:48Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-03-31T16:42:33Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58de2f1bed2a8944100000ab.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58de2f1bed2a8944100000ab.jpeg'
+tags:
+  - fungi
+  - fungi-white
+  - orange-centre
+comments:
+  - created_at: '2018-07-25T13:20:12Z'
+    text: Curry Punk a young specimen
+    ref: 5b58790ced2a8903a00075da
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-04T12:20:31Z'
+    text: Thanks Zeke. Just need the species added to the data base.
+    ref: 5b659a0fed2a89a7f100129a
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - fungus_of_central_victoria
+  - junortoun_flora

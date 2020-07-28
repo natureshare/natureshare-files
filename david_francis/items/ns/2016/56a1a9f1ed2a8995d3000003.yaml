@@ -1,0 +1,48 @@
+id:
+  - Tiphiidae spp.
+created_at: '2016-01-22T04:06:46Z'
+datetime: '2016-01-21T10:42:00+10:00'
+description: Mating pair on garden Babingtonia.  Female is wingless and carried by male.
+latitude: -37.408489
+longitude: 144.595117
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-01-22T04:09:54Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-01-21T10:41:56Z'
+    height: 768
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a1a9f8ed2a89e05000002c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a1a9f8ed2a89e05000002c.jpg'
+  - datetime: '2016-01-21T10:42:00Z'
+    height: 678
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a1a9f8ed2a89b31c000029.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a1a9f8ed2a89b31c000029.jpg'
+tags:
+  - female
+  - male
+  - mating
+comments:
+  - created_at: '2016-01-22T07:05:29Z'
+    text: Good photo.  I know it is difficult to get both insects in focus when they are moving so quickly over a flowering bush.
+    ref: 56a1d4b9ed2a89f93b000004
+    name: Suzanne Jones
+    username: suzanne
+  - replying_to: 56a1d4b9ed2a89f93b000004
+    created_at: '2016-01-22T13:00:19Z'
+    text: 'Yes, it''s almost impossible to get both in focus as the female is usually curled in another direction and they are never still for even a second.'
+    ref: 56a227e3ed2a899a9a00005f
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-03-22T00:59:00Z'
+    text: You did well. I didn't succeed in getting both in focus.
+    ref: 58d1cc54ed2a8963410009a1
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - insects_and_other_arthropods_of_mt_macedon

@@ -1,0 +1,37 @@
+id:
+  - Asterophora mirabilis
+created_at: '2018-08-11T01:31:30Z'
+datetime: '2012-07-18T14:33:21+10:00'
+elevation: 590.7
+latitude: -38.561103
+location_name: 'Lorne VIC 3232, Australia'
+longitude: 143.846021
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-11T01:32:15Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-07-18T14:33:21Z'
+    height: 1067
+    width: 1006
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b6e3bb9ed2a892807000093.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b6e3bb9ed2a892807000093.jpg'
+  - datetime: '2012-07-18T14:33:21Z'
+    height: 1000
+    width: 964
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b6e3bd3ed2a89402b000082.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b6e3bd3ed2a89402b000082.jpg'
+comments:
+  - created_at: '2018-08-15T06:54:17Z'
+    text: Grey Jockey. Predates on Members of the Russula genus.
+    ref: 5b73ce19ed2a894c86000129
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-19T00:02:56Z'
+    text: This is a rarely seen species.
+    ref: 5b78b3b0ed2a89a7f1005f39
+    name: John Walter
+    username: 249pbr
+collections:
+  - otway_ranges_-_fungi

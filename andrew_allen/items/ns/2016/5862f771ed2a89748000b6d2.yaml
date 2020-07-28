@@ -1,0 +1,32 @@
+id:
+  - name: Poecilasthena pulchraria
+    by: david_francis
+created_at: '2016-12-27T23:22:02Z'
+datetime: '2016-12-28T09:30:00+10:00'
+description: 'Pale white geometrid, wingspan approximately 4cm, looking a bit tattered'
+latitude: -37.702224
+longitude: 144.791913
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-12-27T23:23:43Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 2134
+    width: 3201
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5862f779ed2a89b7180002a0.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5862f779ed2a89b7180002a0.jpg'
+comments:
+  - created_at: '2016-12-28T00:55:09Z'
+    text: <em>Poecilasthena pulchraria</em> species id suggested
+    ref: 58630d6ded2a89748000b71a
+    name: David Francis
+    username: david_francis
+  - replying_to: 58630d6ded2a89748000b71a
+    created_at: '2017-03-16T10:53:23Z'
+    text: Thank you David. Looks good.
+    ref: 58ca6ea3ed2a8960a2000e44
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - moths_of_metropolitan_melbourne

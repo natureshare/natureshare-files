@@ -1,0 +1,39 @@
+id:
+  - Amperea xiphoclada var. xiphoclada
+created_at: '2017-10-16T10:25:28Z'
+datetime: '2017-10-14T10:20:03+10:00'
+elevation: 102.4
+latitude: -38.276836
+location_name: 'Cape Bridgewater VIC 3305, Australia'
+longitude: 141.43837
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-10-19T10:48:40Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-14T10:20:03Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59e4884ced2a8939840004e3.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59e4884ced2a8939840004e3.jpg'
+  - datetime: '2017-10-14T10:19:47Z'
+    height: 2400
+    width: 1800
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59e48853ed2a8939840004e4.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59e48853ed2a8939840004e4.jpg'
+comments:
+  - created_at: '2017-10-17T00:15:26Z'
+    text: Possibly Amperea xiphoclada var. xiphoclada
+    ref: 59e54b9eed2a892d40005fab
+    name: Kevin Sparrow
+    username: banksiaman
+  - replying_to: 59e54b9eed2a892d40005fab
+    created_at: '2017-10-17T02:57:41Z'
+    text: 'Thanks, Kevin. The branches are the same as in your observation in 2015.'
+    ref: 59e571a5ed2a892d4000606d
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - mt_richmond_np_plants

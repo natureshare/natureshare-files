@@ -1,0 +1,43 @@
+id:
+  - name: Anthus novaeseelandiae
+    by: david_francis
+created_at: '2018-01-24T10:00:16Z'
+datetime: '2018-01-16T15:52:42+10:00'
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-01-24T10:03:52Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-01-16T15:52:42Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a68593ced2a89f453000016.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a68593ced2a89f453000016.JPG'
+  - datetime: '2018-01-16T15:54:56Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a68599fed2a896ec0000010.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a68599fed2a896ec0000010.JPG'
+  - datetime: '2018-01-16T15:54:51Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a6859f7ed2a896ec0000011.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a6859f7ed2a896ec0000011.JPG'
+comments:
+  - created_at: '2018-01-24T10:03:44Z'
+    text: 3 pix
+    ref: 5a685a00ed2a89d02a000340
+    name: Peter Clark
+    username: emucreek
+  - replying_to: 5a685c63ed2a89d02a00034f
+    created_at: '2018-01-24T10:31:20Z'
+    text: 'never seen one before.....just stood there,didnt move....i was chasing a tiny bird late this evening,couldnt get close to it..'
+    ref: 5a686078ed2a89d02a00036e
+    name: Peter Clark
+    username: emucreek
+  - created_at: '2018-01-24T10:37:22Z'
+    text: <em>Anthus novaeseelandiae</em> species id suggested
+    ref: 5a6861e2ed2a89d02a000379
+    name: David Francis
+    username: david_francis

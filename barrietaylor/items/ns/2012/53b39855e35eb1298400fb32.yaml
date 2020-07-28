@@ -1,0 +1,28 @@
+id:
+  - name: Acacia acinacea s.s.
+  - Lomandra filiformis subsp. coriacea
+created_at: '2012-11-06T09:39:55Z'
+datetime: '2012-11-06T00:00:00+10:00'
+description: surveyTest
+latitude: -36.397106
+longitude: 143.627229
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2014-12-19T04:12:10Z'
+license: CC BY 2.5 AU
+comments:
+  - created_at: '2012-11-06T10:10:00Z'
+    text: testing
+    ref: 53b3984be35eb1298400da1a
+  - created_at: '2014-11-11T12:35:38Z'
+    text: Hi Barrie. Are you sure it was subsp. filiformis and not subsp. coriacea?
+    ref: 5462029ae35eb11f3c00002b
+    name: Russell Best
+    username: russell
+  - replying_to: 5462029ae35eb11f3c00002b
+    created_at: '2014-12-19T04:10:19Z'
+    text: 'Yes Russell, you are correct. the leaves are definitely flat and 2.5-4mm wide (unlike subspecies filiformis)  Thanks. '
+    ref: 5493a52be35eb184ad000022
+    name: Barrie Taylor
+    username: barrietaylor

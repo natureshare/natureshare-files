@@ -1,0 +1,39 @@
+created_at: '2016-10-04T10:58:58Z'
+datetime: '2016-10-01T11:11:01+10:00'
+description: Possibly Thelymitra benthamianna
+latitude: -37.808648
+longitude: 141.417742
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-10-04T10:59:22Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-01T11:10:46Z'
+    height: 3188
+    width: 2212
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57f38b08ed2a89b3fe0000dc.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f38b08ed2a89b3fe0000dc.JPG'
+  - datetime: '2016-10-01T11:11:01Z'
+    height: 2001
+    width: 2229
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57f38b79ed2a89d73e0000e2.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f38b79ed2a89d73e0000e2.JPG'
+tags:
+  - buds
+  - orchid
+comments:
+  - created_at: '2016-10-05T05:20:49Z'
+    text: wrong leaf for T benthamianna
+    ref: 57f48db1ed2a89450f008a30
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 57f48db1ed2a89450f008a30
+    created_at: '2016-10-05T09:22:08Z'
+    text: Oh OK
+    ref: 57f4c640ed2a89450f008aca
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - natureshare_org_au_collections_wilkinff

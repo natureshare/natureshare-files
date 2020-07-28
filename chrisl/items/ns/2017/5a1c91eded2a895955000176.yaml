@@ -1,0 +1,32 @@
+id:
+  - Acacia stricta
+created_at: '2017-11-27T22:32:19Z'
+datetime: '2016-01-26T15:06:05+10:00'
+latitude: -38.442733
+longitude: 144.094767
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-11-27T22:32:33Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-01-26T15:06:05Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a1c9205ed2a893984000730.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a1c9205ed2a893984000730.jpg'
+  - datetime: '2016-01-26T15:06:51Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a1c91f7ed2a89398400072f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a1c91f7ed2a89398400072f.jpg'
+  - datetime: '2016-01-26T15:05:28Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a1c921ced2a893984000731.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a1c921ced2a893984000731.jpg'
+tags:
+  - leaf
+collections:
+  - great_otway_np_plants

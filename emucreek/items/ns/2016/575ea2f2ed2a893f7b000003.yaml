@@ -1,0 +1,32 @@
+id:
+  - name: Dianella longifolia s.l.
+    by: chrisl
+created_at: '2016-06-13T12:14:37Z'
+datetime: '2016-06-13T14:01:56+10:00'
+description: 'dianella '
+elevation: 236.1
+latitude: -37.529792
+location_name: 'Sunbury VIC 3429, Australia'
+longitude: 144.772048
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-06-13T12:14:37Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-06-13T14:01:56Z'
+    height: 2592
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/575ea302ed2a890be7000229.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/575ea302ed2a890be7000229.JPG'
+comments:
+  - created_at: '2016-06-14T00:13:40Z'
+    text: <em>Dianella longifolia s.l.</em> species id suggested
+    ref: 575f4c34ed2a89e6680012ea
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2016-06-14T00:13:44Z'
+    text: 'Possibly Dianella longifolia var. grandis, given appearance of wide leaves.'
+    ref: 575f4c38ed2a89e6680012eb
+    name: Chris Lindorff
+    username: chrisl

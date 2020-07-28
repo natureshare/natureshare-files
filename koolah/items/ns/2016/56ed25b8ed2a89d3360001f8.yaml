@@ -1,0 +1,31 @@
+id:
+  - Lipogya exprimataria
+created_at: '2016-03-19T10:12:35Z'
+datetime: '2016-03-16T22:48:53+10:00'
+elevation: 263.8
+latitude: -37.806679
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.296915
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2016-03-19T10:16:13Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-03-16T22:33:40Z'
+    height: 1319
+    width: 1554
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56ed26f4ed2a89211c000159.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ed26f4ed2a89211c000159.JPG'
+  - primary: true
+    datetime: '2016-03-16T22:48:53Z'
+    height: 1393
+    width: 1634
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56ed25c0ed2a89211c000158.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ed25c0ed2a89211c000158.JPG'
+tags:
+  - male
+  - moth
+collections:
+  - brisbane_ranges_moths

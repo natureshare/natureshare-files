@@ -1,0 +1,34 @@
+id:
+  - name: Merocroca automima
+    by: russell
+created_at: '2015-02-12T13:42:55Z'
+datetime: '2014-11-02T12:42:00+10:00'
+description: "This attractive little moth was about 12mm long. Resting on a wall in a public barbecue area.\r\n"
+latitude: -37.86
+longitude: 145.32
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2015-02-19T15:47:47Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 1200
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54dcaddfed2a890aea0000b7.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54dcaddfed2a890aea0000b7.jpg'
+tags:
+  - moth
+comments:
+  - created_at: '2015-02-19T15:49:23Z'
+    text: 'ID by Marilyn Hewish who added "Re Eulechria heliophanes. If we go by the MV collection this is Oecophoridae Merocroca automima. However there are pics on the internet called M. automima that have a yellow, not black thorax. ANIC has both under that name. It may be a male/female difference."'
+    ref: 54e60603ed2a89ef2700043b
+    name: Russell Best
+    username: russell
+  - replying_to: 54e60603ed2a89ef2700043b
+    created_at: '2015-02-19T23:52:07Z'
+    text: 'Excellent! :)'
+    ref: 54e67727ed2a8987b700045e
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_lepidoptera

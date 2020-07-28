@@ -1,0 +1,33 @@
+id:
+  - name: Hispidula dicksoniae
+    by: 249pbr
+created_at: '2018-08-14T03:03:04Z'
+datetime: '2018-08-14T12:54:00+10:00'
+elevation: 152
+latitude: -38.55372
+location_name: 'Lorne VIC 3232, Australia'
+longitude: 143.943525
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-08-18T11:04:52Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 2259
+    width: 1842
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b72446aed2a89402b000085.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b72446aed2a89402b000085.jpg'
+comments:
+  - created_at: '2018-08-14T03:04:19Z'
+    text: Named as Hispidula dicksoniae in Fuhrer (485)
+    ref: 5b7246b3ed2a89a7f1004515
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-14T09:43:49Z'
+    text: Hispidula dicksoniae added to dataset
+    ref: 5b72a455ed2a8901e4000001
+    name: David Francis
+    username: david_francis
+collections:
+  - otway_ranges_-_fungi

@@ -1,0 +1,59 @@
+id:
+  - Dianella longifolia s.l.
+created_at: '2014-12-22T23:17:58Z'
+datetime: '2014-12-22T17:51:06+10:00'
+description: A dozen or so plants scattered over this corner of Stanley Park
+latitude: -37.405278
+longitude: 144.578508
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-06-08T01:51:24Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-12-22T17:51:06Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5498a6a5e35eb1bae5000038.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5498a6a5e35eb1bae5000038.jpg'
+  - datetime: '2014-12-22T17:48:05Z'
+    height: 1200
+    width: 800
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5498a6a5e35eb1bae5000039.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5498a6a5e35eb1bae5000039.jpg'
+  - datetime: '2014-12-22T17:47:00Z'
+    height: 1200
+    width: 900
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5498a6a5e35eb1bae500003a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5498a6a5e35eb1bae500003a.jpg'
+tags:
+  - flower
+  - habit
+  - leaf
+comments:
+  - created_at: '2014-12-23T02:03:32Z'
+    text: Hi David. The best key for these is in the additions/corrections at the back of FoV4. If you've used it already you can at least determine whether it is D. amoena or not. I think the key feature for amoena is leaf length less than 40cm. Otherwise it will be sp. aff. longifolia (Benambra) I think.
+    ref: 5498cd74e35eb12222000002
+    name: Russell Best
+    username: russell
+  - created_at: '2014-12-23T02:06:35Z'
+    text: 'Also, amoena spreads by rhizomes forming a clump over a large area - but it takes lots of time for this to develop and often amoena is seen as a single plant. The Benambra species is obviously not rhizomatous.'
+    ref: 5498ce2be35eb110df000003
+    name: Russell Best
+    username: russell
+  - replying_to: 5498ce2be35eb110df000003
+    created_at: '2014-12-23T02:29:10Z'
+    text: Leaf length certainly greater than 40cm. Leaves with entire margins - no "finger-like" projections or teeth. Also plants mainly solitary - not in spreading clumps. That makes it sp. aff. longifolia (Benambra) then?
+    ref: 5498d376e35eb1222200000b
+    name: David Francis
+    username: david_francis
+  - replying_to: 5498d376e35eb1222200000b
+    created_at: '2014-12-23T03:55:44Z'
+    text: Yep. Benambra.
+    ref: 5498e7c0e35eb11929000002
+    name: Russell Best
+    username: russell
+collections:
+  - macedon_regional_park_environs_native_plants
+  - macedon_ranges_native_plants
+  - stanley_park_mt_macedon_-_flora

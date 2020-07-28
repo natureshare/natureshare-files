@@ -1,0 +1,29 @@
+id:
+  - Lycopodium fastigiatum
+created_at: '2016-01-29T10:05:45Z'
+datetime: '2016-01-23T09:11:15+10:00'
+latitude: -37.84352
+longitude: 146.27092
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2016-01-29T21:57:11Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-01-23T09:11:15Z'
+    height: 2801
+    width: 2801
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56ab38f1ed2a897bc7000042.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ab38f1ed2a897bc7000042.jpg'
+  - datetime: '2016-01-23T09:11:31Z'
+    height: 2749
+    width: 2749
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56ab3916ed2a89e05000004b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ab3916ed2a89e05000004b.jpg'
+tags:
+  - green
+  - moss
+collections:
+  - baw_baw_np_plants

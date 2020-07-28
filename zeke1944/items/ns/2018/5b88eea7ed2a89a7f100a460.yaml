@@ -1,0 +1,32 @@
+id:
+  - Lactarius spp.
+created_at: '2018-08-31T07:33:16Z'
+datetime: '2016-05-11T14:45:41+10:00'
+elevation: 385.6
+latitude: -38.516139
+location_name: 'Lorne VIC 3232, Australia'
+longitude: 143.921455
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-31T07:35:11Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-05-11T14:45:41Z'
+    height: 1873
+    width: 2594
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b88eea9ed2a891efe0000bd.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b88eea9ed2a891efe0000bd.jpg'
+comments:
+  - created_at: '2018-08-31T07:46:44Z'
+    text: This species has been seen in the same gully several times. I am leaning towards Lactarius genevievae(gates p101) as several of the specimens have milky droplets attached. Also this lactarius bruises orange and maybe there are a couple of  orange spots there as well.
+    ref: 5b88f264ed2a89a7f100a486
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-31T07:47:18Z'
+    text: <em>Lactarius spp.</em> species id suggested
+    ref: 5b88f286ed2a89bb60000056
+    name: zeke1944
+    username: zeke1944
+collections:
+  - otway_ranges_-_fungi

@@ -1,0 +1,37 @@
+id:
+  - Nemophora spp.
+created_at: '2017-11-13T05:49:04Z'
+datetime: '2017-11-04T13:06:00+10:00'
+description: "A small (10mm) colourful fairy moth exploring in a dense, eucalypt dominated forest.\r\nSuspected undescribed... "
+elevation: 199.8
+latitude: -37.891317
+location_name: 'Tremont VIC 3785, Australia'
+longitude: 145.321031
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-11-16T04:05:25Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-11-07T13:06:44Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a093134ed2a893984000699.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a093134ed2a893984000699.jpg'
+tags:
+  - moth
+comments:
+  - created_at: '2017-11-15T02:29:02Z'
+    text: 'Mark - Axel Kallies (one of the MOV booklet/s authors) made this comment about your observation:  "It is an undescribed species of Nemophora".'
+    ref: 5a0ba66eed2a8962be000db2
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5a0ba66eed2a8962be000db2
+    created_at: '2017-11-15T07:50:13Z'
+    text: 'Thanks for the confirmation Cathy. '
+    ref: 5a0bf1b5ed2a8962be000f57
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_lepidoptera

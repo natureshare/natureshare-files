@@ -1,0 +1,36 @@
+id:
+  - Gratiola pubescens
+created_at: '2016-02-11T09:04:51Z'
+datetime: '2008-01-01T20:03:00+10:00'
+elevation: 74.8
+latitude: -38.091426
+location_name: 'Heywood VIC 3304, Australia'
+longitude: 141.739177
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2019-01-06T12:03:42Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 600
+    width: 751
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56bc4e49ed2a899c67000002.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56bc4e49ed2a899c67000002.jpg'
+tags:
+  - flower
+  - leaf
+comments:
+  - created_at: '2016-02-11T09:10:39Z'
+    text: Could this be G. pubescens rather than peruviana?
+    ref: 56bc500fed2a893a1e00001a
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - created_at: '2016-02-11T11:01:09Z'
+    text: 'Lanceolate rather than ovate leaves suggest pubescens as does the presence of hairs on the leaves... but I can''t see the diagnostic conspicuous sessile glands with globular heads on the leaves, bracteoles and sepals. G.peruviana, although nearly always glabrous, can have dense, coarse eglandular hairs on the stems and leaves like in your photo. I would tend to favour G. peruviana.'
+    ref: 56bc69f5ed2a89c42d000094
+    name: David Francis
+    username: david_francis
+collections:
+  - homerton_and_milltown

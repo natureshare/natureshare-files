@@ -1,0 +1,46 @@
+id:
+  - Helminthotheca echioides
+created_at: '2016-05-13T03:32:39Z'
+datetime: '2014-04-04T23:33:37+10:00'
+elevation: 42
+latitude: -38.326464
+location_name: 'Torquay VIC 3228, Australia'
+longitude: 144.315669
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-05-14T04:10:35Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-04-04T23:33:37Z'
+    height: 480
+    width: 640
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57354a73ed2a89211c000205.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57354a73ed2a89211c000205.JPG'
+comments:
+  - created_at: '2016-05-13T03:38:49Z'
+    text: BRISTLY OX-TONGUE (Helminthotheca echioides)
+    ref: 57354c49ed2a89e6680007fe
+    name: JUDITH MCGINNESS
+    username: aussietrekker
+  - created_at: '2016-05-13T07:53:22Z'
+    text: 'Hi Judith. Helminthotheca echioides is in the database, so you can add the id. Do you know how to add the locations to your observations?  Cheers, David'
+    ref: 573587f2ed2a89e66800085d
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-05-14T03:46:00Z'
+    text: 'Thanks David, I''m a newbie at this and can''t figure why the database keeps knocking this one back. i''ve added most locations so far. This H. echioides was from Torquay.'
+    ref: 57369f78ed2a89e66800088f
+    name: JUDITH MCGINNESS
+    username: aussietrekker
+  - created_at: '2016-05-14T03:48:12Z'
+    text: 'Hooray, it''s been fixed.'
+    ref: 57369ffced2a89e668000895
+    name: JUDITH MCGINNESS
+    username: aussietrekker
+  - replying_to: 57369ffced2a89e668000895
+    created_at: '2016-05-14T04:58:54Z'
+    text: Fantastic! Looking forward to some more great photos.
+    ref: 5736b08eed2a89e6680008b5
+    name: David Francis
+    username: david_francis

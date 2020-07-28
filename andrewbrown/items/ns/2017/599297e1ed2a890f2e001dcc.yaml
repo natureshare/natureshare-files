@@ -1,0 +1,37 @@
+id:
+  - Leptodontium paradoxum
+created_at: '2017-09-02T08:42:24Z'
+datetime: '2017-08-05T14:24:01+10:00'
+elevation: 223
+latitude: -36.783306
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.372121
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-09-02T08:42:24Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-08-05T14:24:01Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/599297e9ed2a893984000198.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/599297e9ed2a893984000198.JPG'
+  - datetime: '2017-08-05T14:23:47Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/599297f5ed2a893984000199.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/599297f5ed2a893984000199.JPG'
+tags:
+  - light-green
+  - moss
+comments:
+  - created_at: '2017-09-02T08:50:27Z'
+    text: <em>Leptodontium paradoxum</em> species id suggested
+    ref: 59aa70d3ed2a89daa000144c
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - junortoun_flora

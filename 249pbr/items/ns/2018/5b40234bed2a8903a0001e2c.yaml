@@ -1,0 +1,29 @@
+id:
+  - Artomyces colensoi
+created_at: '2018-07-07T02:40:40Z'
+datetime: '2017-04-23T16:23:26+10:00'
+description: 'Two images, the smaller coral species occurring on wood'
+elevation: 734
+latitude: -37.429678
+location_name: 'Lerderderg VIC 3458, Australia'
+longitude: 144.307086
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-07-07T02:41:02Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-04-23T16:23:26Z'
+    height: 1303
+    width: 1740
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b40232fed2a89402b000033.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b40232fed2a89402b000033.jpg'
+  - datetime: '2017-04-23T16:23:26Z'
+    height: 3725
+    width: 5742
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b402352ed2a89402b000035.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b402352ed2a89402b000035.jpg'
+collections:
+  - wombat_forest_-_fungi

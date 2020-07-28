@@ -1,0 +1,35 @@
+id:
+  - Marasmius crinis-equi
+created_at: '2018-06-19T11:17:16Z'
+datetime: '2017-07-01T14:19:02+10:00'
+description: 'This is Marasmius crinis-equi, the small dimple with the dark spot in the centre of the cap and the horse-hair stem (see second image) are clear indentifiers. Please add to database.'
+elevation: 631.4
+latitude: -37.479624
+location_name: 'Blackwood VIC 3458, Australia'
+longitude: 144.288485
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-06-20T03:50:25Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-07-01T14:19:02Z'
+    height: 2022
+    width: 2724
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b28dde0ed2a897570000029.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b28dde0ed2a897570000029.jpg'
+  - datetime: '2017-07-01T10:58:59Z'
+    height: 1974
+    width: 2526
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b28dddbed2a897570000028.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b28dddbed2a897570000028.jpg'
+comments:
+  - created_at: '2018-06-19T12:34:56Z'
+    text: Species added
+    ref: 5b28f870ed2a899498000568
+    name: Cathy Powers
+    username: koolah
+collections:
+  - wombat_forest_-_fungi

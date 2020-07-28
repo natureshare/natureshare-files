@@ -1,0 +1,30 @@
+id:
+  - Mnesampela lenaea
+created_at: '2017-03-14T12:44:26Z'
+datetime: '2017-03-09T21:39:40+10:00'
+elevation: 260.8
+latitude: -37.806587
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297021
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-03-14T12:44:26Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-03-09T21:37:02Z'
+    height: 2115
+    width: 3525
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58c7e523ed2a891d6d000050.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c7e523ed2a891d6d000050.jpg'
+  - datetime: '2017-03-09T21:39:40Z'
+    height: 2217
+    width: 2729
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58c7e512ed2a891d6d00004f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c7e512ed2a891d6d00004f.jpg'
+tags:
+  - moth
+collections:
+  - brisbane_ranges_moths

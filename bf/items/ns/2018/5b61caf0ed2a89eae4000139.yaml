@@ -1,0 +1,53 @@
+id:
+  - Grevillea steiglitziana
+created_at: '2018-08-01T15:05:33Z'
+datetime: '2012-10-20T16:47:53+10:00'
+description: 4 Photos
+elevation: 198.8
+latitude: -37.890991
+location_name: 'Steiglitz VIC 3331, Australia'
+longitude: 144.167914
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-09-11T05:31:12Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2012-10-20T16:47:53Z'
+    height: 3056
+    width: 4592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b61cb37ed2a89c6aa000072.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b61cb37ed2a89c6aa000072.JPG'
+  - datetime: '2012-10-20T16:42:18Z'
+    height: 3056
+    width: 4592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b61cb65ed2a89280700008a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b61cb65ed2a89280700008a.JPG'
+  - datetime: '2012-10-20T16:43:47Z'
+    height: 4592
+    width: 3056
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b61cba5ed2a89280700008b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b61cba5ed2a89280700008b.JPG'
+  - datetime: '2012-10-20T16:44:03Z'
+    height: 3056
+    width: 4592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b61cbd0ed2a89280700008c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b61cbd0ed2a89280700008c.JPG'
+tags:
+  - flowering
+comments:
+  - created_at: '2018-09-11T05:28:29Z'
+    text: Is there a nursery you can buy them at?
+    ref: 5b97527ded2a89cce300380a
+    name: Ethan Travis
+    username: westernplainsgardener
+  - replying_to: 5b97527ded2a89cce300380a
+    created_at: '2018-10-29T15:22:26Z'
+    text: 'Not that i am aware of, but if you find one please let me know! According to "Growing Australian Plants from Seed" by Murray Ralph it is one of the Grevillea species that produce very little seed. '
+    ref: 5bd725b2ed2a895e15001247
+    name: Ben Fisher
+    username: bf
+collections:
+  - brisbane_ranges_national_park_plants

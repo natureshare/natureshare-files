@@ -1,0 +1,44 @@
+id:
+  - name: Russula spp.
+    by: argybee
+created_at: '2015-06-01T00:44:50Z'
+datetime: '2015-05-31T13:41:00+10:00'
+description: Camel's Hump track
+latitude: -37.370908
+location_name: 'Mount Macedon VIC 3441, Australia'
+longitude: 144.596932
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2015-06-01T09:39:31Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-05-31T02:50:07Z'
+    height: 3216
+    width: 4288
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/556bab02ed2a8918dd00017c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/556bab02ed2a8918dd00017c.JPG'
+tags:
+  - fungi
+comments:
+  - created_at: '2015-06-01T06:41:00Z'
+    text: 'Hi Wendy, This is possibly a Cortinarius species but spores, gills, stem etc. needed for identification. David'
+    ref: 556bfe7ced2a8918dd00028b
+    name: David Francis
+    username: david_francis
+  - created_at: '2015-06-01T09:14:11Z'
+    text: 'Sorry I can''t agree with David. This is a Russulaceae, Russula genus, possibly Russula persanguinea as we can see a pure white stipe with a slight flare towards the base. It is more important though to see shots of the gills and the whole stipe to be certain of species. (I know  knees might complain so sometimes a compact mirror is handy to place underneath) '
+    ref: 556c2263ed2a8918dd0002ae
+    name: Mark Ridgway
+    username: argybee
+  - created_at: '2015-06-01T09:15:20Z'
+    text: 'Sorry forgot... here''s a good link http://australianfungi.blogspot.com.au/ '
+    ref: 556c22a8ed2a8918dd0002b1
+    name: Mark Ridgway
+    username: argybee
+  - created_at: '2015-06-01T09:42:13Z'
+    text: 'Thanks for the link, Mark Those fungi are not easy! '
+    ref: 556c28f5ed2a8918dd0002ba
+    name: David Francis
+    username: david_francis

@@ -1,0 +1,31 @@
+id:
+  - Eleale pulcher
+created_at: '2017-01-25T09:05:39Z'
+datetime: '2017-01-25T17:01:24+10:00'
+latitude: -37.4083
+longitude: 144.595255
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-02-03T08:34:41Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-01-25T17:01:24Z'
+    height: 1024
+    width: 1365
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58886964ed2a89d73e0002f7.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58886964ed2a89d73e0002f7.jpg'
+comments:
+  - created_at: '2017-02-03T06:50:19Z'
+    text: 'Hi. This is actually Eleale pulcher (it is misidentified on Dave''s Garden website also). Eleale lepida has the elytra apices yellow, while Eleale pulcher has the same area smooth with a metallic sheen, not yellow. Regards, Justin.'
+    ref: 5894282bed2a89d10f002723
+    name: Justin Bartlett
+    username: cleridoz
+  - created_at: '2017-02-03T08:34:23Z'
+    text: Thanks Justin. Great to have your expert eye cast on our Clerid and other ids.
+    ref: 5894408fed2a89d10f002766
+    name: David Francis
+    username: david_francis
+collections:
+  - insects_and_other_arthropods_of_mt_macedon

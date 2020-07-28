@@ -1,0 +1,34 @@
+id:
+  - Acyphas chionitis
+created_at: '2017-03-23T08:07:37Z'
+datetime: '2017-03-23T16:45:00+10:00'
+description: 'Trichiocercus sparshalli, I think...'
+elevation: 135.9
+latitude: -37.649021
+location_name: 'Greenvale VIC 3059, Australia'
+longitude: 144.861468
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-11-14T21:26:04Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 2578
+    width: 3868
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58d38217ed2a891d6d00008d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58d38217ed2a891d6d00008d.jpg'
+comments:
+  - created_at: '2017-11-14T13:15:50Z'
+    text: Hi Andrew. T sparshalli doesn't look quite right to me. No extended  'tail' showing and the peak angle seems too rounded among other things. How about something like Acyphas chionitis ?
+    ref: 5a0aec86ed2a8962be000c15
+    name: Mark Ridgway
+    username: argybee
+  - replying_to: 5a0aec86ed2a8962be000c15
+    created_at: '2017-11-14T21:25:54Z'
+    text: That looks much better. Thanks!
+    ref: 5a0b5f62ed2a8962be000cb6
+    name: Andrew Allen
+    username: andrew_allen
+collections:
+  - woodlands_historic_park_insects_and_spiders
+  - woodlands_historic_park_-_lepidoptera

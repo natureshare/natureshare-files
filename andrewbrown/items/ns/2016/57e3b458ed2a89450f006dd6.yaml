@@ -1,0 +1,38 @@
+id:
+  - Hexagonia tenuis
+created_at: '2016-09-22T11:50:44Z'
+datetime: '2016-09-21T10:05:55+10:00'
+description: Unusual fungi growing on a eucalypt trunk
+elevation: 223.6
+latitude: -36.78523
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.375211
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-05-19T07:21:52Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-21T10:05:55Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e3b480ed2a89b3fe00006a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e3b480ed2a89b3fe00006a.JPG'
+tags:
+  - fungi
+comments:
+  - created_at: '2016-10-19T12:26:49Z'
+    text: Hexagonia tenuis (not in the taxonomy here yet?)
+    ref: 58076689ed2a89450f00aa86
+    name: Mark Ridgway
+    username: argybee
+  - created_at: '2017-05-18T14:28:48Z'
+    text: Hexagonia tenuis available for you in the db.
+    ref: 591dafa0ed2a893e6b0014d3
+    name: David Francis
+    username: david_francis
+collections:
+  - fungus_of_central_victoria
+  - junortoun_flora

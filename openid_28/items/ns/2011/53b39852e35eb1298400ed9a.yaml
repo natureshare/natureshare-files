@@ -1,0 +1,29 @@
+id:
+  - name: Microseris spp.
+created_at: '2011-10-05T10:06:33Z'
+datetime: '2011-09-25T13:28:53+10:00'
+latitude: -38.407208
+longitude: 144.196672
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2011-10-05T10:11:02Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-09-25T13:28:53Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39860e35eb1298401224c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb1298401224c.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2011-10-05T10:11:37Z'
+    text: |-
+      Edna Bowman Reserve.
+      Anglesea.
+      Victoria.
+    ref: 53b3984be35eb1298400d94c
+  - created_at: '2011-10-05T10:11:57Z'
+    text: 'Microseris was previously considered to have one species in Australia. Recent studies have recognised three distinct entities in Australia that are not formally delineated. It has not been established to which of the three, the name Microseris lanceolata will be applied to (Wildflowers of Victoria by Corrick and Fuhrer).'
+    ref: 53b3984be35eb1298400d94d
+collections:
+  - anglesea_heath_flora_and_fauna

@@ -1,0 +1,55 @@
+id:
+  - Calidris ferruginea
+  - Calidris acuminata
+  - Calidris ruficollis
+created_at: '2015-11-20T05:11:31Z'
+datetime: '2015-11-12T16:45:42+10:00'
+elevation: 2.5
+latitude: -38.005342
+location_name: 'Victoria, Australia'
+longitude: 144.59075
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2015-11-20T05:14:13Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-11-12T16:45:42Z'
+    height: 589
+    width: 1000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/564eab34ed2a899c630001d3.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/564eab34ed2a899c630001d3.jpg'
+  - datetime: '2015-11-12T16:50:01Z'
+    height: 667
+    width: 1000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/564eab3bed2a899c630001d4.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/564eab3bed2a899c630001d4.jpg'
+  - datetime: '2015-11-12T16:50:09Z'
+    height: 548
+    width: 1000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/564eab42ed2a899c630001d5.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/564eab42ed2a899c630001d5.jpg'
+  - datetime: '2015-11-12T16:49:12Z'
+    height: 659
+    width: 1000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/564eab49ed2a899c630001d6.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/564eab49ed2a899c630001d6.jpg'
+  - datetime: '2015-11-12T16:49:21Z'
+    height: 972
+    width: 1118
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/564eab55ed2a899c630001d7.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/564eab55ed2a899c630001d7.jpg'
+comments:
+  - created_at: '2015-11-20T05:15:57Z'
+    text: Note leg band ID's on the two Curlew Sandpipers
+    ref: 564eac8ded2a89e56e000c7f
+    name: Jason Caruso
+    username: openid_126
+  - created_at: '2015-11-20T07:30:39Z'
+    text: Great photos.  What an enormous number of birds.
+    ref: 564ecc1fed2a89e56e000c9a
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - birds_of_the_western_treatment_plant_werribee

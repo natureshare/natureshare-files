@@ -1,0 +1,43 @@
+id:
+  - name: Entolomataceae spp.
+    by: 249pbr
+created_at: '2018-08-22T05:52:33Z'
+datetime: '2016-06-01T15:22:28+10:00'
+elevation: 114.7
+latitude: -38.541293
+location_name: 'Lorne VIC 3232, Australia'
+longitude: 143.949661
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-27T12:10:32Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-06-01T15:22:28Z'
+    height: 3727
+    width: 5571
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b7cf943ed2a8928070000a9.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b7cf943ed2a8928070000a9.jpg'
+comments:
+  - created_at: '2018-08-23T06:19:40Z'
+    text: This may be another fan shaped Entoloma the Mycelium is similar to that of E piterika and the cap has purplish hues and the spore seems to be pinkish. I know there is at least one more fan shaped species in the Entoloma genus I just don't know anything about it.
+    ref: 5b7e51fced2a89a7f100775b
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-26T01:50:00Z'
+    text: 'I guess you are referring to E. byssisedum which has been collected twice in Perth (once near pines) and in rainforest at the Bunya Mountains in Qld, plus there are two collections from the North Island in NZ one of which was from Nothofagus forest. This European species is the type species for the group E. pitereka is linked too. I have not spent long chasing images for it but it could be a possibility although it is more olive or brown toned rather than purplish and the basal mycelium seems to be more cobwebby.'
+    ref: 5b820748ed2a89a7f100865e
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-08-26T02:05:23Z'
+    text: 'I have also been looking closely at another fan shaped Clitopilus, C. conchatus. Gates & Ratkowsky does not provide a lot of data but Noordeloos & Gates has better detail. Some of your group appear too large for this species as it is listed as 5-6 mm diameter and the gills on this one are thicker than what I can see on yours. It does have "white, cottony rhizomorphs" like yours and the cap colour is described as "white, tomentose with a soft jelly-like greyish context revealed upon the collapse of the ... tomentum with handling". I do not this it is your species but I think we could record yours as Entolomataceae spp.'
+    ref: 5b820ae3ed2a89a7f1008662
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-08-26T23:52:32Z'
+    text: Entoloma pitereka has been added to database.
+    ref: 5b833d40ed2a89a7f1008b6d
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - otway_ranges_-_fungi

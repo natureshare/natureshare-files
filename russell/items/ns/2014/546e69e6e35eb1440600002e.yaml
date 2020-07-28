@@ -1,0 +1,36 @@
+id:
+  - name: Dicranosterna immaculata
+    by: david_francis
+created_at: '2014-11-20T22:23:34Z'
+datetime: '2014-11-15T12:03:40+10:00'
+latitude: -37.452301
+longitude: 144.647446
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-01-27T06:42:36Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-11-15T12:03:40Z'
+    height: 1038
+    width: 870
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/546e69e5e35eb1440600002b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/546e69e5e35eb1440600002b.jpg'
+  - datetime: '2014-11-15T12:00:06Z'
+    height: 979
+    width: 1333
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/546e69e5e35eb1440600002c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/546e69e5e35eb1440600002c.jpg'
+  - datetime: '2014-11-15T12:01:29Z'
+    height: 1125
+    width: 1255
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/546e69e5e35eb1440600002d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/546e69e5e35eb1440600002d.jpg'
+comments:
+  - created_at: '2015-01-27T06:43:36Z'
+    text: Identified by Martin L. on BB
+    ref: 54c73398ed2a899aeb000078
+    name: David Francis
+    username: david_francis
+collections:
+  - insects_and_other_invertebrates_of_riddells_creek

@@ -1,0 +1,46 @@
+id:
+  - Fergusonina spp.
+created_at: '2015-03-04T22:18:20Z'
+datetime: '2011-09-24T09:16:18+10:00'
+description: "This fly is Fergusonina spp.  A small parasitic fly lays eggs while the leaves are still in bud.  \r\nThe pupae were collected and flies emerged in a few days.  "
+elevation: 106.2
+latitude: -37.805545
+location_name: 'Croydon VIC, Australia'
+longitude: 145.291679
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-03-10T05:31:38Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-09-24T09:16:18Z'
+    height: 750
+    width: 1000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54f784abed2a89097e00020c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f784abed2a89097e00020c.JPG'
+  - datetime: '2011-09-26T17:27:48Z'
+    height: 750
+    width: 1000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54f784abed2a89097e00020d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f784abed2a89097e00020d.JPG'
+  - datetime: '2011-09-26T17:28:29Z'
+    height: 751
+    width: 1000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54f784abed2a89097e00020e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f784abed2a89097e00020e.JPG'
+tags:
+  - galls
+comments:
+  - created_at: '2015-03-06T10:26:51Z'
+    text: 'Hi Martin. I''m having trouble finding a reference to this species. Google returns a couple of results only, but returns results for Fergusinia flies also. I''m particularly looking for the classification in order to add this species. Cheers.'
+    ref: 54f980ebed2a89097e000535
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 54f980ebed2a89097e000535
+    created_at: '2015-03-06T13:12:28Z'
+    text: "Sorry Chris.  The name is Fergusonina \r\nhttp://www.projectnoah.org/spottings/8045518 \r\nhttp://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:a3ddf308-340b-4127-a77c-c1b79e86b204#tab_classification \r\n"
+    ref: 54f9a7bced2a89097e0005de
+    name: Martin Lagerwey
+    username: martinl
+collections:
+  - galls_of_victoria

@@ -1,0 +1,49 @@
+id:
+  - name: Trichia spp.
+    by: david_francis
+created_at: '2016-07-09T05:55:26Z'
+datetime: '2016-07-08T10:13:16+10:00'
+description: "Very small fungi. They may have come from wood-chip mulch.\r\n(Update information) It is not fungi, but slime-mould."
+elevation: 2.2
+latitude: -37.795953
+location_name: 'Footscray VIC 3011, Australia'
+longitude: 144.911692
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-05-20T07:48:54Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-07-08T10:13:16Z'
+    height: 1596
+    width: 2129
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57809113ed2a89211c000270.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57809113ed2a89211c000270.JPG'
+  - datetime: '2016-07-08T10:36:48Z'
+    height: 1865
+    width: 2487
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5780911eed2a890be700024d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5780911eed2a890be700024d.JPG'
+tags:
+  - slime-mould
+comments:
+  - created_at: '2016-10-19T12:20:06Z'
+    text: Trichia spp. ? (Myxogastria not fungi)
+    ref: 580764f6ed2a89450f00aa7f
+    name: Mark Ridgway
+    username: argybee
+  - created_at: '2017-02-01T04:52:10Z'
+    text: <em>Trichia spp.</em> species id suggested
+    ref: 5891697aed2a89d10f002074
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-01T04:53:39Z'
+    text: 'Compare with http://www.bowerbird.org.au/observations/70306'
+    ref: 589169d3ed2a89d10f002075
+    name: David Francis
+    username: david_francis
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong

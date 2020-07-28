@@ -1,0 +1,28 @@
+id:
+  - Tachyglossus aculeatus
+created_at: '2015-12-26T05:19:05Z'
+datetime: '2015-12-26T16:15:00+10:00'
+description: On opposite side of road to our house.
+elevation: 505.9
+latitude: -37.430341
+location_name: 'Riddells Creek VIC, Australia'
+longitude: 144.653733
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-12-26T05:19:05Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 3264
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/567e229eed2a898328000078.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/567e229eed2a898328000078.jpg'
+comments:
+  - created_at: '2015-12-26T05:19:31Z'
+    ref: 567e2363ed2a89d6d600056b
+    name: Gill Best
+    username: gill
+collections:
+  - mammals_of_riddells_creek

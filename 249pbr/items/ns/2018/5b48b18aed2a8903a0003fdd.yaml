@@ -1,0 +1,45 @@
+id:
+  - Neolentiporus maculatissimus
+created_at: '2018-07-13T14:51:38Z'
+datetime: '2013-03-24T16:31:16+10:00'
+description: 'Several images of Neolentiporus maculatissimus, a FungiMap species. Could it be added to the database please.'
+elevation: 568.8
+latitude: -37.294651
+location_name: 'Spring Hill VIC 3444, Australia'
+longitude: 144.311706
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-07-13T22:32:41Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2013-03-24T16:31:16Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b48b18fed2a89280700005a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b48b18fed2a89280700005a.jpg'
+  - datetime: '2013-03-24T16:33:51Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b48b196ed2a89c6aa000047.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b48b196ed2a89c6aa000047.jpg'
+  - datetime: '2013-03-24T16:32:42Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b48b19ded2a89402b00004e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b48b19ded2a89402b00004e.jpg'
+  - datetime: '2013-03-24T16:33:25Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b48b234ed2a89c6aa00004c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b48b234ed2a89c6aa00004c.jpg'
+comments:
+  - created_at: '2018-07-13T20:29:41Z'
+    text: Species added to dataset
+    ref: 5b490bb5ed2a89556d000006
+    name: Cathy Powers
+    username: koolah
+collections:
+  - wombat_forest_-_fungi

@@ -1,0 +1,49 @@
+id:
+  - Geranium gardneri
+created_at: '2018-12-05T06:36:56Z'
+datetime: '2018-12-04T08:12:00+10:00'
+description: 'Matches all points of description in Flora of Victoria (online), except that sepals are 7mm long versus max 4mm in description. (Fine hairs on sepals are too small to see in photo, but were examined under microscope.) Have not examined taproot or seed. Measured several stems to 1.8m but they may be longer as I could not get to the base of the plant.'
+elevation: 20.8
+latitude: -37.81046
+location_name: 'Kororoit Creek Trail, Sunshine West VIC 3020, Australia'
+longitude: 144.82898
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2018-12-13T00:17:39Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_595341e2ed2a89e53c000001/2018-12-05/1543991702/20181204_0003c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_595341e2ed2a89e53c000001/2018-12-05/1543991702/20181204_0003c.jpg'
+  - datetime: '2018-12-04T08:12:24Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_595341e2ed2a89e53c000001/2018-12-05/1543991777/20181204_0004.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_595341e2ed2a89e53c000001/2018-12-05/1543991777/20181204_0004.JPG'
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_595341e2ed2a89e53c000001/2018-12-05/1543991746/20181204_0005c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_595341e2ed2a89e53c000001/2018-12-05/1543991746/20181204_0005c.jpg'
+comments:
+  - created_at: '2018-12-06T00:09:52Z'
+    text: Perhaps Geranium solanderi? This has petals to over 7mm. Status of Geranium gardneri as a separate species to the highly variable solanderi yet to be resolved. (see VicFlora)
+    ref: 5c0868d01779a4a86e0000cd
+    name: David Francis
+    username: david_francis
+  - replying_to: 5c0868d01779a4a86e0000cd
+    created_at: '2018-12-07T06:15:50Z'
+    text: >-
+      The description of solanderi says sepals to 5.5mm long. Which is still too short. I am not qualified to comment on whether gardneri should be a separate species or not, but as long as it is in FOV I think it is a better match for this specimen. One of the key differences is the shape of the taproot which I have not looked at since I don't have a collection permit. However gardneri is supposed to be rough to the touch unlike solanderi. Also solanderi is supposed to have petals of a uniform colour whereas in gardneri they grade to white in the centre. In my photo they appear to be purple rather than pink which they are supposed to be in both species, but this could be due to incorrect white balance - will have to have another look at the plant. A fourth difference between the species is the longer stems, 2m versus 50cm. Since there is no scale you cannot tell from the photo but the plant photographed is well over a metre across. I must admit I did not try to follow individual stems
+      to see how long they are, will have to do this.
+    ref: 5c0a10161779a49d7d0001db
+    name: Jeff Triplett
+    username: triplett
+  - replying_to: 5c0a10161779a49d7d0001db
+    created_at: '2018-12-07T22:16:57Z'
+    text: 'Ok, Jeff , you seem to be well on top of this. I find geraniums to be a difficult genus.'
+    ref: 5c0af1591779a4ac150001e8
+    name: David Francis
+    username: david_francis
+  - replying_to: 5c0af1591779a4ac150001e8
+    created_at: '2018-12-13T00:16:40Z'
+    text: Difficult is putting it mildly. I have been trying to ID the ones at Woodlands Historic Park for years.
+    ref: 5c11a4e82a53d7a122000118
+    name: Jeff Triplett
+    username: triplett

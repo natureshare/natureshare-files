@@ -1,0 +1,40 @@
+id:
+  - name: Oenochroma vinaria
+    by: argybee
+created_at: '2017-01-14T12:17:16Z'
+datetime: '2017-01-08T08:29:35+10:00'
+description: Brown spotted caterpillar approx.40mm found on a grevillea in the garden .
+elevation: 204.8
+latitude: -36.77842
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381503
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-09-24T13:54:53Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-08T08:29:35Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/587a0a20ed2a89d73e0002d3.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/587a0a20ed2a89d73e0002d3.jpeg'
+  - datetime: '2017-01-08T08:30:13Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/587a0aaaed2a89b3fe000304.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/587a0aaaed2a89b3fe000304.jpeg'
+tags:
+  - caterpillar-brown
+  - caterpillar-spotted
+comments:
+  - created_at: '2017-01-14T22:25:28Z'
+    text: <em>Oenochroma vinaria</em> species id suggested
+    ref: 587aa558ed2a89f464002489
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - wildlife_of_junortoun
+  - moths_of_junortoun
+  - moths_of_central_victoria

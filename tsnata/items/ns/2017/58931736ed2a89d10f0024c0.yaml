@@ -1,0 +1,29 @@
+id:
+  - name: Bombyliidae spp.
+    by: david_francis
+created_at: '2017-02-02T11:31:28Z'
+datetime: '2017-01-22T15:37:29+10:00'
+elevation: 31.1
+latitude: -38.684061
+location_name: 'Grey River VIC 3234, Australia'
+longitude: 143.838429
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-02-02T11:31:28Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-22T15:37:29Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5893174bed2a89d73e00034d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5893174bed2a89d73e00034d.jpg'
+comments:
+  - created_at: '2017-02-02T11:53:20Z'
+    text: <em>Bombyliidae spp.</em> species id suggested
+    ref: 58931db0ed2a89d10f0024fd
+    name: David Francis
+    username: david_francis
+collections:
+  - grey_river

@@ -1,0 +1,28 @@
+id:
+  - Trichoglossus haematodus
+created_at: '2016-09-20T12:01:32Z'
+datetime: '2016-09-10T14:42:34+10:00'
+elevation: 21.8
+latitude: -37.998579
+location_name: 'Doveton VIC 3177, Australia'
+longitude: 145.238597
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-09-21T08:53:09Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-09-10T14:42:34Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e124d3ed2a89b718000057.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e124d3ed2a89b718000057.JPG'
+comments:
+  - created_at: '2016-09-21T01:36:13Z'
+    text: 'That''s a rainbow lorikeet, Brett.'
+    ref: 57e1e40ded2a890a72000001
+    name: Pauline McCarthy
+    username: pauline
+collections:
+  - eumemmerring_creek_parklands

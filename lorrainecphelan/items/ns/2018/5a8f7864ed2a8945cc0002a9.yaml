@@ -1,0 +1,41 @@
+id:
+  - Allocasuarina paludosa
+created_at: '2018-02-23T02:14:21Z'
+datetime: '2018-02-21T14:14:10+10:00'
+description: Male. Four images.
+elevation: 113.1
+latitude: -38.036114
+location_name: 'Myamyn VIC 3304, Australia'
+longitude: 141.672243
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-02-23T02:14:43Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-02-21T14:14:10Z'
+    height: 1200
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a8f787ded2a895fa2000091.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a8f787ded2a895fa2000091.jpg'
+  - datetime: '2018-02-21T14:18:06Z'
+    height: 1201
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a8f786aed2a89f453000093.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a8f786aed2a89f453000093.jpg'
+  - datetime: '2018-02-21T14:12:07Z'
+    height: 1200
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a8f7873ed2a89f453000094.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a8f7873ed2a89f453000094.jpg'
+  - datetime: '2018-02-21T14:16:20Z'
+    height: 1201
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a8f7888ed2a895fa2000092.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a8f7888ed2a895fa2000092.jpg'
+tags:
+  - male-flower
+collections:
+  - homerton_and_milltown

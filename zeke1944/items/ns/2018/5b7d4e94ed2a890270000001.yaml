@@ -1,0 +1,38 @@
+id:
+  - name: Laccocephalum tumulosum
+    by: 249pbr
+created_at: '2018-08-22T11:56:19Z'
+datetime: '2014-06-20T13:11:23+10:00'
+elevation: 438.8
+latitude: -38.474859
+location_name: 'Benwerrin VIC 3235, Australia'
+longitude: 143.933547
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-26T11:03:43Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-06-20T13:11:23Z'
+    height: 1796
+    width: 2718
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b7d4e98ed2a89402b000098.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b7d4e98ed2a89402b000098.jpg'
+comments:
+  - created_at: '2018-08-22T12:18:54Z'
+    text: 'Laccocephalum tumulosum. The Stonemaker form a pseudosclerotia underground and fruits after fire. Found conveniently washed out in a roadside gutter. The Sclerotia was about the size of a cricket ball and the cap about 50mm diam. '
+    ref: 5b7d54aeed2a8935c30000ff
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-23T07:01:01Z'
+    text: ID by the Herbarium
+    ref: 5b7e5baded2a89472f000043
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-23T10:02:52Z'
+    text: Added to database.
+    ref: 5b7e864ced2a89a7f10078b9
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - otway_ranges_-_fungi

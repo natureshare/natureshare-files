@@ -1,0 +1,31 @@
+id:
+  - name: Stemodia florulenta
+  - name: Amegilla chlorocyanea
+created_at: '2011-11-13T18:07:39Z'
+datetime: '2011-11-05T16:52:54+10:00'
+latitude: -34.240364
+longitude: 141.233018
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2011-11-13T18:08:45Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-11-05T16:52:54Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39860e35eb1298401246e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb1298401246e.jpg'
+  - datetime: '2011-11-05T16:52:40Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39860e35eb1298401246f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb1298401246f.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2011-11-15T21:33:52Z'
+    text: Probably Amegilla chlorocyanea.
+    ref: 53b3984be35eb1298400d980
+  - created_at: '2012-09-13T14:08:44Z'
+    text: ID confirmed via Padil and Ken Walker at the Museum.
+    ref: 53b3984be35eb1298400da07
+collections:
+  - neds_corner_plants
+  - neds_corner_insects_spiders_and_other_invertebrates

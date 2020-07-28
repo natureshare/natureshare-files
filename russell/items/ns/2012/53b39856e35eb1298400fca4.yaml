@@ -1,0 +1,21 @@
+id:
+  - name: Badumna insignis
+created_at: '2012-12-19T10:03:01Z'
+datetime: '2012-12-16T15:30:37+10:00'
+description: 7 legs.
+latitude: -37.430909
+longitude: 144.654657
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2012-12-19T10:10:19Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-12-16T15:30:37Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39865e35eb1298401371a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb1298401371a.jpg'
+  - datetime: '2012-12-16T15:31:16Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39865e35eb1298401371b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb1298401371b.jpg'
+collections:
+  - spiders_of_riddells_creek

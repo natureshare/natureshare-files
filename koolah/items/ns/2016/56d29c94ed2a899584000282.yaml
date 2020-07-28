@@ -1,0 +1,43 @@
+id:
+  - Cerceris spp.
+created_at: '2016-02-28T07:10:24Z'
+datetime: '2015-11-12T08:36:47+10:00'
+description: ID by Ken Walker.
+latitude: -37.93628
+longitude: 142.73009
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-02-29T05:07:39Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-11-12T08:36:47Z'
+    height: 2075
+    width: 1467
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56d29c9ded2a89211c000091.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56d29c9ded2a89211c000091.JPG'
+  - datetime: '2015-11-12T08:36:39Z'
+    height: 1587
+    width: 1122
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56d29cb4ed2a89211c000092.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56d29cb4ed2a89211c000092.JPG'
+tags:
+  - black
+  - orange
+  - wasp
+comments:
+  - created_at: '2016-02-29T05:08:39Z'
+    text: 'Lovely, sharp image. What is it sitting on, Cathy?'
+    ref: 56d3d257ed2a899584000327
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - replying_to: 56d3d257ed2a899584000327
+    created_at: '2016-02-29T07:34:22Z'
+    text: Thanks Lorraine - sometimes you just get lucky.  It is sitting on Ptilotus erubescens.
+    ref: 56d3f47eed2a8962c2000019
+    name: Cathy Powers
+    username: koolah
+collections:
+  - cobra_killuc_wildlife_reserve_and_ridge_paddock

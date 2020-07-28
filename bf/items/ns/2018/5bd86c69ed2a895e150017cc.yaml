@@ -1,0 +1,41 @@
+id:
+  - name: Curculionidae spp.
+    by: david_francis
+created_at: '2018-10-30T14:39:16Z'
+datetime: '2018-10-30T18:00:49+10:00'
+description: 2 Photos
+elevation: 516.7
+latitude: -37.623905
+location_name: '400 Sullivans Rd, Mount Egerton VIC 3352, Australia'
+longitude: 144.068585
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2018-10-30T14:39:50Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-10-30T18:00:49Z'
+    height: 3056
+    width: 4592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bd86c71ed2a891efe00011e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bd86c71ed2a891efe00011e.JPG'
+  - datetime: '2018-10-30T18:00:01Z'
+    height: 3056
+    width: 4592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bd86cb6ed2a89c6aa000125.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bd86cb6ed2a89c6aa000125.JPG'
+comments:
+  - created_at: '2018-10-31T00:20:34Z'
+    text: <em>Curculionidae spp.</em> species id suggested
+    ref: 5bd8f552ed2a895e15001985
+    name: David Francis
+    username: david_francis
+  - created_at: '2019-04-25T10:40:26Z'
+    text: Lepispilus sp.
+    ref: 5cc18e9a3abbd6cb52000018
+    name: Kimberi Pullen
+    username: kimberip
+collections:
+  - millbrook

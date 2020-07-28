@@ -1,0 +1,59 @@
+id:
+  - Maskellia globosa
+created_at: '2019-10-29T06:07:41Z'
+datetime: '2019-10-27T11:56:38+10:00'
+description: 'Galls on twigs of a grey box. The galls are about 4mm wide on twigs about 1mm wide, and light green underneath. There were several groups like the one shown on the same waist high sapling. The largest group about 100mm across. Most of the stunted leaves attached to the galled twigs had conical galls on the underside, about 1.5mm high (see third photo). These appear to be associated since they do not appear anywhere else on the sapling.'
+elevation: 143
+latitude: -37.64558
+location_name: '123 Providence Rd, Greenvale VIC 3059, Australia'
+longitude: 144.864568
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2020-01-29T05:22:29Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2019-10-27T11:56:38Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_595341e2ed2a89e53c000001/2019-10-29/20191027_0048c.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_595341e2ed2a89e53c000001/2019-10-29/20191027_0048c.jpeg'
+  - datetime: '2019-10-27T12:07:21Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_595341e2ed2a89e53c000001/2019-10-29/20191027_0057c.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_595341e2ed2a89e53c000001/2019-10-29/20191027_0057c.jpeg'
+tags:
+  - eucalypt-galls
+comments:
+  - created_at: '2019-11-16T00:47:07Z'
+    text: I wonder if there is any point posting gall photos on inaturalist? There is no way of grouping galls together and the only identification I could give for this post would be Insecta or Eucalyptus microcarpa.
+    ref: 5dcf470b64be480710000033
+    name: Jeff Triplett
+    username: triplett
+  - created_at: '2019-11-25T02:17:04Z'
+    text: 'I think it is a Coccoidea, Eriococcidae see https://www.projectnoah.org/spottings/14032552 and https://www.projectnoah.org/spottings/15211207 '
+    ref: 5ddb39a064be48a03200005f
+    name: Wendy Moore
+    username: wendymoore
+  - replying_to: 5ddb39a064be48a03200005f
+    created_at: '2019-11-27T05:32:13Z'
+    text: 'Thanks Wendy. I personally would not have picked it from the Hardy and Gullan paper since all the photos show individual galls, not joined up like this, with the possible exception of Tanyscelis megagibba but that is a pretty useless photo. I note that the project noah postings are all 7 years old. Knowledge does not seem to have improved much since then since there are no similar photos anywhere on the web under the name Tanyscelis at least. There is a project on inaturalist for australian scale insects, maybe I should post it there.'
+    ref: 5dde0a5d64be484f81000073
+    name: Jeff Triplett
+    username: triplett
+  - created_at: '2020-01-19T02:34:09Z'
+    text: 'I now think this is Maskellia globosa (not in database). See p. 119 in Roger Farrow "Insects of SE Australia" (a great little book). See also http://www.bowerbird.org.au/observations/16575. I have found another group which is green and 30cm across (also on Grey Box). Original description from scalenet.info: "The female galls are green and red or brown, according to their age, and are formed upon the young twigs, great numbers usually growing side by side, producing an uneven, aborted growth. The apex of each gall is conical, and the orifice small. When formed singly the galls are uneven, globose excrescences, somewhat longer than high. Height, 0.18 inch; width, 0.23 inch. Female chamber-contour pyriform; diameter, 0.08 inch. Adult male, unobserved. Male galls, small, elongated, striated longitudinally, green formed upon leaves; length 0.12 inch. The galls protrude upon the opposite side of the leaf, the orifice being at the base instead at the apex." (Fuller, 1897).'
+    ref: 5e23c021643711fd08000023
+    name: Jeff Triplett
+    username: triplett
+  - replying_to: 5e23c021643711fd08000023
+    created_at: '2020-01-20T10:34:51Z'
+    text: Well done
+    ref: 5e25824b643711be86000029
+    name: Wendy Moore
+    username: wendymoore
+  - created_at: '2020-01-22T07:15:35Z'
+    text: Maskellia globose now in dataset.
+    ref: 5e27f697643711be8600002e
+    name: Cathy Powers
+    username: koolah
+collections:
+  - galls_of_victoria

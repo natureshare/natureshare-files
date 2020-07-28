@@ -1,0 +1,28 @@
+id:
+  - Lichenostomus leucotis
+created_at: '2014-10-13T11:49:48Z'
+datetime: '2014-10-11T16:22:11+10:00'
+description: 'Location approximate. Burnside camp, Anglesea.'
+elevation: 42.1
+latitude: -38.400457
+location_name: 'Anglesea VIC 3230, Australia'
+longitude: 144.204453
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-10-13T11:59:16Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-11T16:22:11Z'
+    height: 1500
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/543bbc5be35eb1314d000156.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/543bbc5be35eb1314d000156.jpg'
+comments:
+  - created_at: '2014-10-13T12:48:48Z'
+    text: Good catch Thomas!
+    ref: 543bca30e35eb1314d00018b
+    name: Chris Clarke
+    username: cclarke
+collections:
+  - anglesea_heath_flora_and_fauna

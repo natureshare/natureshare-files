@@ -1,0 +1,36 @@
+id:
+  - Thalassarche chlororhynchos
+created_at: '2016-03-24T10:29:36Z'
+datetime: '2016-03-20T10:49:37+10:00'
+latitude: -38.576591
+longitude: 142.076477
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-03-22T11:18:19Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-03-20T10:49:37Z'
+    height: 3648
+    width: 5472
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56f3c153ed2a89211c000174.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56f3c153ed2a89211c000174.jpg'
+  - datetime: '2016-03-20T10:27:31Z'
+    height: 3442
+    width: 5163
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56f3c136ed2a89211c000173.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56f3c136ed2a89211c000173.jpg'
+comments:
+  - created_at: '2017-03-22T11:18:22Z'
+    text: I've just taken another look through your pelagic birds photos to check the names. It's great to have these observations on NS.
+    ref: 58d25d7eed2a896341000bb8
+    name: David Francis
+    username: david_francis
+  - replying_to: 58d25d7eed2a896341000bb8
+    created_at: '2017-04-11T10:41:01Z'
+    text: 'Thanks David :)'
+    ref: 58ecb2bded2a890b58000054
+    name: Michael Gooch
+    username: michaelgooch

@@ -1,0 +1,34 @@
+id:
+  - Rhipidura rufifrons
+created_at: '2016-03-05T20:41:24Z'
+datetime: '2016-03-05T10:19:30+10:00'
+description: 'Taken with iPhone. Very flighty, very beautiful.'
+latitude: -37.430917
+longitude: 144.654647
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2016-03-08T09:03:42Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-03-05T10:19:30Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56db4361ed2a890be70000c8.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56db4361ed2a890be70000c8.jpeg'
+  - datetime: '2016-03-05T10:19:49Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56db4361ed2a89211c0000e2.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56db4361ed2a89211c0000e2.jpeg'
+comments:
+  - created_at: '2016-03-06T06:22:07Z'
+    text: I'd love to have a rufous fantail in my birdbath.
+    ref: 56dbcc8fed2a8972fb000171
+    name: Pauline McCarthy
+    username: pauline
+collections:
+  - birds_of_410_gap_road_riddells_creek
+  - birds_of_riddells_creek

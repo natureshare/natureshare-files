@@ -1,0 +1,30 @@
+id:
+  - Grevillea alpina
+created_at: '2016-09-24T07:25:13Z'
+datetime: '2016-09-03T09:50:47+10:00'
+elevation: 226.2
+latitude: -36.78554
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.373408
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-09-24T07:25:13Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-03T09:50:23Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e6286ced2a89d73e00007e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e6286ced2a89d73e00007e.JPG'
+  - datetime: '2016-09-03T09:50:47Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e62819ed2a892daf000097.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e62819ed2a892daf000097.JPG'
+tags:
+  - bush
+collections:
+  - junortoun_flora

@@ -1,0 +1,28 @@
+id:
+  - name: Cosmodes elegans
+    by: russell
+created_at: '2014-09-10T11:09:49Z'
+datetime: '2014-09-10T19:15:59+10:00'
+elevation: 25.2
+latitude: -37.786035
+location_name: 'Newmarket, Flemington VIC 3031, Australia'
+longitude: 144.92485
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-09-10T11:23:44Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-10T19:15:59Z'
+    height: 2020
+    width: 2694
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5410317de35eb14435000067.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5410317de35eb14435000067.jpg'
+comments:
+  - created_at: '2014-09-17T11:57:58Z'
+    text: Looks like an old/worn specimen.
+    ref: 54197746e35eb109b7000046
+    name: Russell Best
+    username: russell
+collections:
+  - flemington_kensington_3031

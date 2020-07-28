@@ -1,0 +1,30 @@
+id:
+  - name: Tubifera ferruginosa
+created_at: '2013-10-16T15:42:28Z'
+datetime: '2013-10-11T00:00:00+10:00'
+description: 'Sporangiform process on the base of an old eucalyptus stump in a designated nature reserve. Species is Tubifera ferruginosa. '
+latitude: -37.857101
+longitude: 145.321999
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2015-02-16T05:13:41Z'
+license: CC BY 2.5 AU
+photos:
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39869e35eb129840144bc.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb129840144bc.jpg'
+tags:
+  - protozoa
+  - tubifera
+comments:
+  - created_at: '2013-10-16T15:57:14Z'
+    text: Simple tidy system. All kingdoms allowed? What taxonomic database is it linked to? Test...
+    ref: 53b3984ce35eb1298400db71
+  - created_at: '2013-10-17T20:02:27Z'
+    text: 'Thanks Russell. I''ll put them into comments in the meantime then. '
+    ref: 53b3984ce35eb1298400db7b
+  - created_at: '2013-10-17T13:09:58Z'
+    text: 'All kingdoms. NS is for Vic species only but there aren''t good Vic lists for many groups, including spiders, beetles, fungi, etc but working on those. If you find a species name isn''t on NS let me know and I will upload the name. Sources for Vic data in NS is available at https://sites.google.com/site/naturesharehelp/acknowledgements'
+    ref: 53b3984ce35eb1298400db79
+collections:
+  - dandenong_ranges_myxogastria

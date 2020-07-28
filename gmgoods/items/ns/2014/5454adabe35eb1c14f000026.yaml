@@ -1,0 +1,44 @@
+id:
+  - name: Boronia nana
+    by: russell
+  - name: Boronia nana var. pubescens
+    by: russell
+created_at: '2014-11-01T09:53:47Z'
+datetime: '2011-11-03T16:00:55+10:00'
+elevation: 114.9
+latitude: -36.53114
+location_name: 'Serviceton VIC 3420, Australia'
+longitude: 140.992408
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-11-09T06:25:32Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-11-03T16:00:55Z'
+    height: 1354
+    width: 2044
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5454adabe35eb1c14f000025.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5454adabe35eb1c14f000025.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2014-11-02T03:43:58Z'
+    text: 'Hi Marie, this seems to key out well to var. pubescens. What do you think? See key: http://keybase.rbg.vic.gov.au/key/bracketedkey/2506 '
+    ref: 5455a87ee35eb1c14f000045
+    name: Russell Best
+    username: russell
+  - replying_to: 5455a87ee35eb1c14f000045
+    created_at: '2014-11-08T06:18:36Z'
+    text: 'Hi Russell. Still learning my way around this website but am improving. Neville Walsh just gave it Boronia nana when he saw the photo so not sure. '
+    ref: 545db5bce35eb1671600001f
+    name: Maree Goods
+    username: gmgoods
+  - replying_to: 545db5bce35eb1671600001f
+    created_at: '2014-11-08T10:00:37Z'
+    text: 'I noticed also that B. nana var. nana is on the Little Desert species list (which is glabrous), so var. pubescens is a new species record for the Little Desert. Nearest record is Mt Arapiles. Do you have B. nana pics from other locations in the Little Desert for comparison? Loving all your uploads BTW!'
+    ref: 545de9c5e35eb16716000057
+    name: Russell Best
+    username: russell
+collections:
+  - little_desert_np_plants

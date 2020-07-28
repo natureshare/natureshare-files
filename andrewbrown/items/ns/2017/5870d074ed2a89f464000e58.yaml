@@ -1,0 +1,51 @@
+id:
+  - Leucopogon rufus
+created_at: '2017-01-09T21:37:17Z'
+datetime: '2016-12-30T08:27:39+10:00'
+description: Small shrub with pointed 'tea-tree' type leaves and small white fringed flowers.
+elevation: 205.7
+latitude: -36.784178
+location_name: 'Longlea VIC 3551, Australia'
+longitude: 144.404051
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-01-10T12:28:33Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-12-30T08:27:39Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5870d057ed2a892daf0002e1.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5870d057ed2a892daf0002e1.jpeg'
+  - datetime: '2016-12-30T08:25:03Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5870d082ed2a89b7180002c8.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5870d082ed2a89b7180002c8.jpeg'
+  - datetime: '2016-12-30T08:26:37Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5870d09fed2a89d73e0002a5.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5870d09fed2a89d73e0002a5.jpeg'
+tags:
+  - flowers-fringed
+  - flowers-small
+  - flowers-white
+  - leaves-prickly
+  - shrub-small
+comments:
+  - created_at: '2017-01-10T06:38:52Z'
+    text: 'I suggest Leucopogon rufus. https://vicflora.rbg.vic.gov.au/flora/taxon/ea3fbe19-80a7-4134-8140-82d994de00df   More common in the Grampians but known in your area.  An interesting observation.'
+    ref: 5874817ced2a89bd21000007
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-10T12:29:09Z'
+    text: Thanks David-looks like it.
+    ref: 5874d395ed2a89f464001991
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - junortoun_flora

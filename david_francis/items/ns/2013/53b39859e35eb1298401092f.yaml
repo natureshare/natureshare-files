@@ -1,0 +1,29 @@
+id:
+  - Amorbus alternatus
+created_at: '2013-12-14T13:34:20Z'
+datetime: '2013-12-14T12:04:40+10:00'
+latitude: -37.408528
+longitude: 144.595161
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-03-12T10:13:25Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-12-14T12:04:40Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986ae35eb12984014b3a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ae35eb12984014b3a.jpg'
+comments:
+  - created_at: '2017-03-12T09:29:47Z'
+    text: 'I''ve been looking into Amorbus, and I think this is A. alternatus'
+    ref: 58c5150bed2a8960a2000169
+    name: Andrew Allen
+    username: andrew_allen
+  - created_at: '2017-03-12T10:13:50Z'
+    text: 'Thanks for the identification, Andrew.'
+    ref: 58c51f5eed2a8960a20001c1
+    name: David Francis
+    username: david_francis
+collections:
+  - insects_and_other_arthropods_of_mt_macedon

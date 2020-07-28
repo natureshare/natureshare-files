@@ -1,0 +1,46 @@
+id:
+  - name: Hibbertia humifusa subsp. humifusa
+    by: russell
+created_at: '2015-03-10T22:47:49Z'
+datetime: '2007-09-16T13:11:04+10:00'
+elevation: 316.4
+latitude: -37.182305
+location_name: 'High Camp VIC 3764, Australia'
+longitude: 144.889987
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-03-17T05:52:16Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2007-09-16T13:11:04Z'
+    height: 2048
+    width: 3072
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54ff7495ed2a8974d3000157.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ff7495ed2a8974d3000157.JPG'
+  - datetime: '2007-09-16T13:11:15Z'
+    height: 2048
+    width: 3072
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54ff750ded2a8974d300015d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ff750ded2a8974d300015d.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2015-03-10T23:33:32Z'
+    text: Hi 'Team'. Adding location will help us with ID.
+    ref: 54ff7f4ced2a8994a90000c0
+    name: Russell Best
+    username: russell
+  - replying_to: 54ff7f4ced2a8994a90000c0
+    created_at: '2015-03-10T23:54:55Z'
+    text: 'Thanks Russell, I am new at this and just getting the hang of it!   I also noticed how you added the tags/aspects, so I shall do that in future too.  thanks for your help! Elyse Kelly'
+    ref: 54ff844fed2a8974d300016b
+    name: Mitchell_Shire_Council_Environment_Team
+    username: mitchell_shire_council_environment_team
+  - created_at: '2015-03-17T05:54:59Z'
+    text: ID by Neville Walsh.
+    ref: 5507c1b3ed2a8974d30005db
+    name: Russell Best
+    username: russell
+collections:
+  - highcamp_flora_reserve_highcamp

@@ -1,0 +1,30 @@
+created_at: '2015-04-16T10:44:33Z'
+datetime: '2015-04-16T13:48:08+10:00'
+elevation: 25.3
+latitude: -37.785978
+location_name: 'Newmarket, Flemington VIC 3031, Australia'
+longitude: 144.924884
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-04-16T10:50:20Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-04-16T13:48:08Z'
+    height: 1500
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/552f9290ed2a898ba3000178.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/552f9290ed2a898ba3000178.jpg'
+  - datetime: '2015-04-16T13:47:14Z'
+    height: 1500
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/552f9290ed2a898ba3000179.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/552f9290ed2a898ba3000179.jpg'
+comments:
+  - created_at: '2015-04-16T13:49:02Z'
+    text: Epidesmia came to mind first?
+    ref: 552fbdceed2a898ba30001ff
+    name: Russell Best
+    username: russell
+collections:
+  - flemington_kensington_3031

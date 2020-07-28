@@ -1,0 +1,47 @@
+id:
+  - Anthus novaeseelandiae
+created_at: '2018-09-18T08:50:08Z'
+datetime: '2018-09-17T14:23:42+10:00'
+elevation: 270.9
+latitude: -37.530608
+location_name: 'Wildwood VIC 3429, Australia'
+longitude: 144.771147
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-09-20T07:33:48Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-09-17T14:23:41Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ba0ba90ed2a89402b0000c3.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ba0ba90ed2a89402b0000c3.JPG'
+  - datetime: '2018-09-17T14:23:46Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ba0baf9ed2a891efe0000d9.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ba0baf9ed2a891efe0000d9.JPG'
+  - datetime: '2018-09-17T14:23:42Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ba0bc4ded2a89c6aa0000c7.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ba0bc4ded2a89c6aa0000c7.JPG'
+comments:
+  - created_at: '2018-09-18T08:51:06Z'
+    text: 3 pix..
+    ref: 5ba0bc7aed2a89b4f30000d3
+    name: Peter Clark
+    username: emucreek
+  - replying_to: 5ba0d799ed2a89cce3006037
+    created_at: '2018-09-20T00:22:32Z'
+    text: 'yes'
+    ref: 5ba2e848ed2a89cce3006752
+    name: Andrew Allen
+    username: andrew_allen
+  - created_at: '2018-09-20T07:33:14Z'
+    text: <em>Anthus novaeseelandiae</em> species id suggested
+    ref: 5ba34d3aed2a89e953000005
+    name: Peter Clark
+    username: emucreek

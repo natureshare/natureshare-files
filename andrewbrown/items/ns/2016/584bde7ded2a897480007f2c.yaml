@@ -1,0 +1,45 @@
+id:
+  - Persoonia rigida
+created_at: '2016-12-10T11:21:41Z'
+datetime: '2016-12-10T09:52:12+10:00'
+description: Small shrub with small yellow flowers in leaf axils.
+elevation: 221.2
+latitude: -36.782962
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.366113
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-12-11T11:03:27Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-12-10T09:52:12Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584bde38ed2a89b718000234.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584bde38ed2a89b718000234.jpeg'
+  - datetime: '2016-12-10T09:52:19Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584bde65ed2a89d73e000228.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584bde65ed2a89d73e000228.jpeg'
+  - datetime: '2016-12-10T09:51:56Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584bdea4ed2a89b718000235.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584bdea4ed2a89b718000235.jpeg'
+tags:
+  - early-summer-flowering
+  - flowers-yellow
+  - hairy-leaves
+  - shrub-small
+comments:
+  - created_at: '2016-12-10T13:05:07Z'
+    text: Looks like Persoonia rigida which is found in that area.
+    ref: 584bfd83ed2a897480007fc4
+    name: David Francis
+    username: david_francis
+collections:
+  - junortoun_flora

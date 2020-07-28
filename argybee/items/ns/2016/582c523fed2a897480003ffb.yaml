@@ -1,0 +1,36 @@
+id:
+  - Nyssus coloripes
+created_at: '2016-11-17T12:52:27Z'
+datetime: '2016-11-16T14:11:58+10:00'
+description: A very fast spider exploring old bleached timber in our back yard.
+elevation: 162.5
+latitude: -37.899749
+location_name: 'Upper Ferntree Gully VIC 3156, Australia'
+longitude: 145.311546
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-11-17T12:52:27Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-11-16T14:11:58Z'
+    height: 1200
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/582c524ced2a892daf0001f4.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/582c524ced2a892daf0001f4.JPG'
+tags:
+  - spider
+comments:
+  - created_at: '2016-11-17T23:23:24Z'
+    text: 'High image quality! '
+    ref: 582e3beced2a89de570002c3
+    name: David Francis
+    username: david_francis
+  - replying_to: 582e3beced2a89de570002c3
+    created_at: '2016-11-18T00:07:04Z'
+    text: Thanks David. Just luck I'm afraid. The auto-focus on the pocket cam works well with strongly contrasting light.
+    ref: 582e4628ed2a897480004340
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_arachnids

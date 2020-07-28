@@ -1,0 +1,30 @@
+id:
+  - name: Crinia signifera
+    by: russell
+created_at: '2014-10-14T09:28:06Z'
+datetime: '2014-09-23T09:00:23+10:00'
+latitude: -36.814342
+longitude: 141.468414
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-10-18T12:38:21Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-23T09:00:23Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/543ceca6e35eb1314d0001fa.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/543ceca6e35eb1314d0001fa.JPG'
+comments:
+  - created_at: '2014-10-18T03:57:14Z'
+    text: Unusual markings. How big was this frog?
+    ref: 5441e51ae35eb132b00003ef
+    name: Russell Best
+    username: russell
+  - replying_to: 5441e51ae35eb132b00003ef
+    created_at: '2014-10-18T11:43:18Z'
+    text: 'Not a big one, probably 30-40mm'
+    ref: 54425256e35eb132b0000452
+    name: Peter Bire
+    username: openid_120

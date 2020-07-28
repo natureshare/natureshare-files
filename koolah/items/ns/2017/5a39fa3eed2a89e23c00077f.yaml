@@ -1,0 +1,31 @@
+id:
+  - Anthela varia
+created_at: '2017-12-20T05:52:41Z'
+datetime: '2017-12-18T23:30:15+10:00'
+description: Two images
+elevation: 261.5
+latitude: -37.806568
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297001
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-12-20T05:57:31Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-12-18T23:29:37Z'
+    height: 2816
+    width: 4311
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a39fa55ed2a892d15000030.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a39fa55ed2a892d15000030.jpg'
+  - datetime: '2017-12-18T23:30:15Z'
+    height: 2965
+    width: 2858
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a39fbaaed2a89298f00003b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a39fbaaed2a89298f00003b.jpg'
+tags:
+  - moth
+collections:
+  - brisbane_ranges_moths

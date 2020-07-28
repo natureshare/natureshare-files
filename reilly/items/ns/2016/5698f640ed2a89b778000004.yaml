@@ -1,0 +1,52 @@
+id:
+  - Bombyliidae spp.
+created_at: '2016-01-15T13:42:47Z'
+datetime: '2015-11-01T13:15:51+10:00'
+latitude: -38.920794
+longitude: 146.451919
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-01-16T04:27:52Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-11-01T13:15:51Z'
+    height: 2027
+    width: 2027
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5698f64aed2a89e05000000a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5698f64aed2a89e05000000a.jpg'
+  - datetime: '2015-11-01T13:16:02Z'
+    height: 1730
+    width: 1730
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5698f652ed2a89b31c000003.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5698f652ed2a89b31c000003.jpg'
+  - datetime: '2015-11-01T13:15:59Z'
+    height: 2118
+    width: 2118
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5698f6baed2a89e05000000b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5698f6baed2a89e05000000b.jpg'
+tags:
+  - fly
+comments:
+  - created_at: '2016-01-16T03:30:21Z'
+    text: 'This looks like a bee fly (family: Bombyliidae).'
+    ref: 5699b94ded2a89132e00000a
+    name: Suzanne Jones
+    username: suzanne
+  - replying_to: 5699b94ded2a89132e00000a
+    created_at: '2016-01-16T04:28:27Z'
+    text: 'Thanks again :)'
+    ref: 5699c6ebed2a89132e000018
+    name: 'Reilly '
+    username: reilly
+  - created_at: '2016-01-16T04:42:26Z'
+    text: 'Looks a lot like Meomyia fasciculate here: http://www.bowerbird.org.au/observations/51937'
+    ref: 5699ca32ed2a897f8200000b
+    name: 'Reilly '
+    username: reilly
+  - replying_to: 5699ca32ed2a897f8200000b
+    created_at: '2016-01-16T10:38:41Z'
+    text: 'Yes, I agree.  I also had a look at Atlas of Living Australia at Bombyliidae and yes, these photos look most like Meomyia fasciculata.'
+    ref: 569a1db1ed2a89783400003c
+    name: Suzanne Jones
+    username: suzanne

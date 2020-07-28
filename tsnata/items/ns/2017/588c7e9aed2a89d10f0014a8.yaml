@@ -1,0 +1,30 @@
+id:
+  - name: Tipulidae spp.
+    by: andrewbrown
+created_at: '2017-01-28T11:24:23Z'
+datetime: '2017-01-21T15:13:21+10:00'
+elevation: 47.3
+latitude: -38.683952
+location_name: 'Grey River VIC 3234, Australia'
+longitude: 143.837559
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-01-28T11:24:23Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-21T15:13:21Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588c7ec2ed2a89d73e000335.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588c7ec2ed2a89d73e000335.jpg'
+comments:
+  - created_at: '2017-01-28T12:57:46Z'
+    text: <em>Tipulidae spp.</em> species id suggested
+    ref: 588c954aed2a89d10f00150e
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - grey_river

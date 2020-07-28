@@ -1,0 +1,29 @@
+id:
+  - name: Glycine clandestina
+created_at: '2011-09-10T10:58:59Z'
+datetime: '2011-09-08T13:54:45+10:00'
+latitude: -36.488247
+longitude: 146.658425
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2011-09-10T11:04:56Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-09-08T13:54:45Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985fe35eb12984012038.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984012038.jpg'
+tags:
+  - flower
+  - leaf
+  - stem
+comments:
+  - created_at: '2011-09-10T11:05:15Z'
+    text: |-
+      Twining Glycine - Glycine clandestina.
+      Stanley State Forest.
+      Ovens Valley.
+      Victoria.
+    ref: 53b3984be35eb1298400d8c8
+collections:
+  - stanley_state_forest

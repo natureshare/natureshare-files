@@ -1,0 +1,32 @@
+id:
+  - Prometopus inassueta
+created_at: '2018-03-02T11:24:11Z'
+datetime: '2018-03-02T21:14:57+10:00'
+description: Three images
+latitude: -37.224434
+longitude: 144.309678
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-03-02T13:04:17Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-03-02T21:14:57Z'
+    height: 2928
+    width: 2040
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a993370ed2a89abdd000023.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a993370ed2a89abdd000023.jpg'
+  - datetime: '2018-03-02T21:15:32Z'
+    height: 2688
+    width: 2256
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a993375ed2a8929e7000020.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a993375ed2a8929e7000020.jpg'
+  - datetime: '2018-03-02T21:16:51Z'
+    height: 1884
+    width: 1902
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a99337bed2a89abdd000024.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a99337bed2a89abdd000024.jpg'
+collections:
+  - drummond_nearby_forests_-_moths

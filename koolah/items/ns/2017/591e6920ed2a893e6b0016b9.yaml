@@ -1,0 +1,42 @@
+id:
+  - name: Chironomidae spp.
+    by: david_francis
+created_at: '2017-05-19T03:42:39Z'
+datetime: '2017-05-19T00:13:19+10:00'
+elevation: 261.4
+latitude: -37.806586
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297001
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-05-22T14:01:40Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-05-19T00:13:19Z'
+    height: 1502
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/591e6937ed2a89a81f00013d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/591e6937ed2a89a81f00013d.JPG'
+tags:
+  - insect
+comments:
+  - created_at: '2017-05-19T04:06:06Z'
+    text: <em>Chironomidae spp.</em> species id suggested
+    ref: 591e6f2eed2a893e6b0016cf
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-05-19T04:08:11Z'
+    text: 'Male. These are tiny, so it is amazing to see such a clear photo.'
+    ref: 591e6fabed2a893e6b0016d0
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-05-19T05:40:20Z'
+    text: 'David - thanks for the genus information.  I was so excited to get such a good image and thought it just had a frizz hair cut.  :-)'
+    ref: 591e8544ed2a893e6b00170b
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brisbane_ranges_insects

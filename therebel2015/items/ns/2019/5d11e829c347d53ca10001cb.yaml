@@ -1,0 +1,27 @@
+id:
+  - Agaricus arvensis
+created_at: '2019-06-25T09:23:53Z'
+datetime: '2019-06-25T14:15:01+10:00'
+elevation: 520
+latitude: -37.277926
+location_name: '524 Kyneton-Springhill Rd, Kyneton South VIC 3444, Australia'
+longitude: 144.406321
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2019-06-25T09:26:41Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2019-06-25T14:15:01Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_53b39818e35eb12984000012/2019-06-25/2b18585e_4434_48c6_be0d_58e721029b29.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000012/2019-06-25/2b18585e_4434_48c6_be0d_58e721029b29.jpeg'
+  - datetime: '2019-06-25T14:16:52Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_53b39818e35eb12984000012/2019-06-25/42db2e7d_f1fb_405b_893e_433adce7b102.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000012/2019-06-25/42db2e7d_f1fb_405b_893e_433adce7b102.jpeg'
+  - datetime: '2019-06-25T14:16:19Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_53b39818e35eb12984000012/2019-06-25/85bb584c_d172_4a54_b1a6_12fdf5660a0b.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000012/2019-06-25/85bb584c_d172_4a54_b1a6_12fdf5660a0b.jpeg'
+collections:
+  - fungus_of_central_victoria

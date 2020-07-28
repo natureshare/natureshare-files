@@ -1,0 +1,27 @@
+id:
+  - Capusa graodes
+created_at: '2017-12-21T12:59:04Z'
+datetime: '2017-06-23T21:34:08+10:00'
+description: Second image with head detail
+latitude: -37.224434
+longitude: 144.309678
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-12-21T12:59:21Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-06-23T21:34:08Z'
+    height: 1626
+    width: 2868
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a3b9243ed2a89298f000046.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a3b9243ed2a89298f000046.jpg'
+  - datetime: '2017-06-23T21:35:53Z'
+    height: 1518
+    width: 1452
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a3b9134ed2a89298f000042.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a3b9134ed2a89298f000042.jpg'
+collections:
+  - drummond_nearby_forests_-_moths

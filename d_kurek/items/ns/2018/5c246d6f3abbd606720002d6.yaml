@@ -1,0 +1,29 @@
+id:
+  - Simplicia armatalis
+created_at: '2018-12-27T06:13:03Z'
+datetime: '2018-12-25T23:23:57+10:00'
+latitude: -37.910997
+longitude: 145.055963
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2019-01-04T08:00:30Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-12-25T23:23:57Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_5c1ed10e3abbd6b7f00000e2/2018-12-27/1545891132/DSCN3437.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c1ed10e3abbd6b7f00000e2/2018-12-27/1545891132/DSCN3437.JPG'
+comments:
+  - created_at: '2018-12-28T09:39:16Z'
+    text: This is Simplicia armatalis - great observation.
+    ref: 5c25ef443abbd6b213000376
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2018-12-29T01:12:41Z'
+    text: Thank you.
+    ref: 5c26ca093abbd6d30d0003f2
+    name: Daniel Kurek
+    username: d_kurek
+collections:
+  - moths_of_metropolitan_melbourne
+  - bentleigh_east_-_invertebrates

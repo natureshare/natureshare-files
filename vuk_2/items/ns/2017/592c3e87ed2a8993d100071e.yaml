@@ -1,0 +1,36 @@
+id:
+  - Fungi spp.
+created_at: '2017-05-29T15:30:15Z'
+datetime: '2017-05-30T01:29:00+10:00'
+latitude: -38.041462
+location_name: 'Chelsea Heights VIC 3196, Australia'
+longitude: 145.127935
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2017-05-29T15:32:35Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-05-29T13:52:46Z'
+    height: 2432
+    width: 3443
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/592c3f1bed2a894410000151.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592c3f1bed2a894410000151.JPG'
+comments:
+  - created_at: '2017-05-30T02:45:24Z'
+    text: Maybe Hygrocybe sp.
+    ref: 592cdcc4ed2a8993d1000876
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-05-30T04:13:02Z'
+    text: 'Thanks David. Many years age some Mycologist told me that without observation of spores, it would very difficult to go to the species level.'
+    ref: 592cf14eed2a897b47000001
+    name: Vuk Vojis
+    username: vuk_2
+  - created_at: '2019-06-11T07:37:57Z'
+    text: More likely Laccaria sp
+    ref: 5cff5a5576a8947f4c000023
+    name: zeke1944
+    username: zeke1944
+collections:
+  - edithvale_insects

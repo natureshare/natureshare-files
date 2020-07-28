@@ -1,0 +1,28 @@
+id:
+  - Tettigoniidae spp.
+created_at: '2015-10-08T03:29:30Z'
+datetime: '2015-10-08T13:41:00+10:00'
+elevation: 25.3
+latitude: -37.786035
+location_name: 'Newmarket, Flemington VIC 3031, Australia'
+longitude: 144.924933
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-10-08T03:31:20Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-10-08T13:42:21Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5615e341ed2a890d95000472.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5615e341ed2a890d95000472.jpg'
+  - datetime: '2015-10-08T13:41:00Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5615e333ed2a890d95000471.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5615e333ed2a890d95000471.jpg'
+collections:
+  - flemington_kensington_3031

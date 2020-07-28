@@ -1,0 +1,51 @@
+id:
+  - name: Medicago polymorpha
+    by: chrisl
+created_at: '2016-02-16T03:00:16Z'
+datetime: '2016-02-15T10:24:05+10:00'
+description: Trifolium species??
+latitude: -38.392282
+longitude: 142.48017
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-02-16T03:00:16Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-02-15T10:24:05Z'
+    height: 2112
+    width: 2473
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56c29089ed2a89211c000026.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56c29089ed2a89211c000026.JPG'
+  - datetime: '2016-02-15T10:24:53Z'
+    height: 1573
+    width: 1867
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56c2908eed2a890be700001a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56c2908eed2a890be700001a.JPG'
+tags:
+  - flower
+  - weed
+comments:
+  - created_at: '2016-02-20T22:26:19Z'
+    text: Or possibly Medicago spp.
+    ref: 56c8e80bed2a89c52300002f
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2016-02-27T10:29:15Z'
+    text: 'Suggestion is not with 100% confidence to species level, but is likely candidate without seeing the pods.'
+    ref: 56d17a7bed2a8995840001d0
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2016-02-27T10:29:26Z'
+    text: <em>Medicago polymorpha</em> species id suggested
+    ref: 56d17a86ed2a8995840001d3
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 56d17a7bed2a8995840001d0
+    created_at: '2016-03-02T11:00:45Z'
+    text: Thanks Chris will try to get a pod
+    ref: 56d6c7dded2a89e7ba000191
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - plants_of_warrnambool_and_district

@@ -1,0 +1,50 @@
+id:
+  - name: Tapeigaster spp.
+    by: david_francis
+created_at: '2017-07-17T00:54:13Z'
+datetime: '2015-06-28T14:03:03+10:00'
+description: 'Photos of two different flies in different parts of the park in different years, but appear to be the same species. It seems to like fungus - the primary photo is on an unnamed brown bolete which is very common in the park. The other two are on a Rhizopogon species probably associated with pine trees.'
+elevation: 144.6
+latitude: -37.650066
+location_name: 'Greenvale VIC 3059, Australia'
+longitude: 144.864791
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-07-17T01:02:08Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-06-28T14:03:03Z'
+    height: 543
+    width: 640
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/596c0471ed2a893984000122.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/596c0471ed2a893984000122.jpg'
+  - datetime: '2016-06-28T14:31:49Z'
+    height: 474
+    width: 640
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/596c047bed2a893984000124.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/596c047bed2a893984000124.jpg'
+  - datetime: '2016-06-28T14:32:42Z'
+    height: 588
+    width: 636
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/596c047ded2a893984000125.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/596c047ded2a893984000125.jpg'
+comments:
+  - created_at: '2017-07-17T01:59:41Z'
+    text: <em>Tapeigaster spp.</em> species id suggested
+    ref: 596c1a0ded2a897cef004f72
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-07-17T01:59:52Z'
+    text: 'Similar to https://natureshare.org.au/observations/53b39857e35eb1298401021c?species=Tapeigaster+luteipennis'
+    ref: 596c1a18ed2a897cef004f73
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-07-17T02:03:50Z'
+    text: "Better to have different individuals as separate observations unless they are in the same photo. This allows the observation to be linked to other databases such as the Atlas of Living Australia.www.ala.org.au/\r\n"
+    ref: 596c1b06ed2a897cef004f7d
+    name: David Francis
+    username: david_francis
+collections:
+  - woodlands_historic_park_insects_and_spiders

@@ -1,0 +1,38 @@
+created_at: '2017-10-08T10:18:31Z'
+datetime: '2017-10-05T16:09:59+10:00'
+elevation: 325
+latitude: -36.464012
+location_name: 'Glenalbyn VIC 3517, Australia'
+longitude: 143.75229
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-10-08T10:18:31Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-05T16:09:59Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59d77251ed2a89398400041e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59d77251ed2a89398400041e.JPG'
+  - datetime: '2017-10-05T16:10:10Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59d7726bed2a89398400041f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59d7726bed2a89398400041f.JPG'
+tags:
+  - moss
+comments:
+  - created_at: '2017-10-08T10:42:01Z'
+    text: 'A moss, which needs to be dissected out under a microscope to observe the structure and shape of individual leaves and sporangia for identification.'
+    ref: 59da00f9ed2a892d40003b8b
+    name: David Francis
+    username: david_francis
+  - replying_to: 59da00f9ed2a892d40003b8b
+    created_at: '2017-10-08T10:43:58Z'
+    text: That makes it difficult!
+    ref: 59da016eed2a892d40003ba0
+    name: Andrew Brown
+    username: andrewbrown

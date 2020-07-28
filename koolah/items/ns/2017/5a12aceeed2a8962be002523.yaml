@@ -1,0 +1,33 @@
+id:
+  - Agrotis porphyricollis
+created_at: '2017-11-20T10:26:49Z'
+datetime: '2017-11-18T00:44:09+10:00'
+description: Light colour form with second image showing head close up.
+elevation: 261.5
+latitude: -37.806576
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297005
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-11-20T10:28:33Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-11-18T00:44:09Z'
+    height: 1806
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a12ad0aed2a8939840006e1.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a12ad0aed2a8939840006e1.jpg'
+  - datetime: '2017-11-18T00:45:19Z'
+    height: 1770
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a12ad70ed2a8939840006e2.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a12ad70ed2a8939840006e2.jpg'
+tags:
+  - black-spot
+  - brown
+  - moth
+collections:
+  - brisbane_ranges_moths

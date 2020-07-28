@@ -1,0 +1,50 @@
+id:
+  - Hypochaeris glabra
+created_at: '2017-09-24T22:00:39Z'
+datetime: '2017-09-24T10:39:52+10:00'
+description: Small daisy-like plants approx. 5-8mm in hight.
+elevation: 216
+latitude: -36.788427
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.385896
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2019-11-12T01:26:35Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-09-24T10:39:52Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c7ac58ed2a8939840002c9.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c7ac58ed2a8939840002c9.JPG'
+  - datetime: '2017-09-24T10:40:04Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c7ac5eed2a8939840002ca.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c7ac5eed2a8939840002ca.JPG'
+  - datetime: '2017-09-24T10:47:12Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c7ad27ed2a8939840002d4.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c7ad27ed2a8939840002d4.JPG'
+tags:
+  - flower-daisy
+  - flower-yellow
+  - leaves-oval
+  - leaves-pubescent
+  - plant-verysmall
+comments:
+  - created_at: '2017-09-25T21:46:31Z'
+    text: Possibly Hypochaeris glabra.
+    ref: 59c97937ed2a892d40000774
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2017-09-25T22:19:11Z'
+    text: The leaf shape does not match for Hypochaeris glabra?
+    ref: 59c980dfed2a892d40000790
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - junortoun_flora

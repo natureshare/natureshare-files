@@ -1,0 +1,65 @@
+id:
+  - name: Pterostylis concinna
+    by: chrisl
+created_at: '2015-08-24T16:58:10Z'
+datetime: '2015-08-22T14:19:09+10:00'
+description: 'New species record for Barrm Birrm, Riddells Creek and the Macedon Range. One clump of about 1m diameter.'
+latitude: -37.434868
+longitude: 144.661163
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-08-25T10:01:40Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-08-22T14:19:09Z'
+    height: 2865
+    width: 1652
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55db4d2eed2a890d95000001.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55db4d2eed2a890d95000001.jpeg'
+  - datetime: '2015-08-22T14:18:33Z'
+    height: 3709
+    width: 2001
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55db4d3ced2a890d95000002.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55db4d3ced2a890d95000002.jpeg'
+  - datetime: '2015-08-22T14:18:10Z'
+    height: 3215
+    width: 1959
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55db4d4ded2a890d95000003.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55db4d4ded2a890d95000003.jpeg'
+  - datetime: '2015-08-22T14:21:11Z'
+    height: 1030
+    width: 1282
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55db4d55ed2a890d95000004.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55db4d55ed2a890d95000004.jpeg'
+tags:
+  - flower
+comments:
+  - created_at: '2015-08-25T13:34:46Z'
+    text: Great find!
+    ref: 55dc6ef6ed2a892a79000146
+    name: David Francis
+    username: david_francis
+  - created_at: '2015-09-21T23:43:42Z'
+    ref: 5600962eed2a89b06c000e78
+    name: Russell Best
+    username: russell
+  - created_at: '2015-09-21T23:43:45Z'
+    ref: 56009631ed2a891b590000ed
+    name: Russell Best
+    username: russell
+  - created_at: '2015-09-21T23:43:46Z'
+    ref: 56009632ed2a89238b000003
+    name: Russell Best
+    username: russell
+  - created_at: '2015-09-21T23:43:48Z'
+    ref: 56009634ed2a89507f000009
+    name: Russell Best
+    username: russell
+collections:
+  - barrm_birrm_native_plants_riddells_creek
+  - macedon_ranges_native_plants
+  - riddells_creek_plants
+  - rare_locally_endangered_and_locally_significant_species_of_riddells_creek

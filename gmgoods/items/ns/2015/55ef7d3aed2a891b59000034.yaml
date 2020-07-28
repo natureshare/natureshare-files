@@ -1,0 +1,37 @@
+id:
+  - Pseudanthus ovalifolius
+created_at: '2015-09-09T00:28:42Z'
+datetime: '2015-08-10T10:49:39+10:00'
+description: Most of the plants had white flowers but there were a couple with these lovely pink flowers.
+elevation: 166.8
+latitude: -36.574839
+location_name: 'Goroke VIC 3412, Australia'
+longitude: 141.55877
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-09-13T08:14:33Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-08-10T10:49:39Z'
+    height: 1560
+    width: 2355
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55ef7d54ed2a890d9500010d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55ef7d54ed2a890d9500010d.jpg'
+tags:
+  - flowers
+  - leaves
+comments:
+  - created_at: '2015-09-10T15:51:50Z'
+    text: Were all plants like this with flowers this colour? I think they are normally white.
+    ref: 55f1a716ed2a89b06c00054e
+    name: Russell Best
+    username: russell
+  - replying_to: 55f1a716ed2a89b06c00054e
+    created_at: '2015-09-12T01:24:58Z'
+    text: Most of the plants were white but a couple were this lovely pink. I had better add this to the record.
+    ref: 55f37eeaed2a89b06c0005e0
+    name: Maree Goods
+    username: gmgoods
+collections:
+  - little_desert_np_plants

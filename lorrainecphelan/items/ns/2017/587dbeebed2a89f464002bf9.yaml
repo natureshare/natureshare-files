@@ -1,0 +1,47 @@
+id:
+  - name: Staurostichus spp.
+    by: david_francis
+created_at: '2017-01-17T06:54:05Z'
+datetime: '2017-01-17T14:49:16+10:00'
+description: Unknown fly on flowering mint in a dried-out swamp.
+elevation: 60.9
+latitude: -38.093186
+location_name: 'Heywood VIC 3304, Australia'
+longitude: 141.741808
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-01-17T06:54:05Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-17T14:48:38Z'
+    height: 800
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/587dbef2ed2a89b718000302.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/587dbef2ed2a89b718000302.JPG'
+  - datetime: '2017-01-17T14:49:16Z'
+    height: 800
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/587dbef1ed2a89b3fe00030c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/587dbef1ed2a89b3fe00030c.JPG'
+comments:
+  - created_at: '2017-01-17T08:44:25Z'
+    text: <em>Staurostichus spp.</em> species id suggested
+    ref: 587dd969ed2a89f464002c56
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-17T08:46:13Z'
+    text: An interestingly marked bee-fly (A family of flies that mimic bees).
+    ref: 587dd9d5ed2a89f464002c5f
+    name: David Francis
+    username: david_francis
+  - replying_to: 587dd9d5ed2a89f464002c5f
+    created_at: '2017-01-17T10:55:03Z'
+    text: 'Thanks David. '
+    ref: 587df807ed2a89f464002ce6
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - homerton_and_milltown_insects

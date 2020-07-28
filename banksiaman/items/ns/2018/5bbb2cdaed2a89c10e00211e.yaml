@@ -1,0 +1,35 @@
+id:
+  - name: Acacia paradoxa
+    by: david_francis
+created_at: '2018-10-08T10:09:30Z'
+datetime: '2018-10-06T15:19:10+10:00'
+latitude: -37.197082
+longitude: 142.527262
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-10-08T10:09:56Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-10-06T15:19:10Z'
+    height: 4496
+    width: 3000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bbb2ce0ed2a89280700010b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbb2ce0ed2a89280700010b.JPG'
+comments:
+  - created_at: '2018-10-09T01:05:04Z'
+    text: <em>Acacia paradoxa</em> species id suggested
+    ref: 5bbbfec0ed2a89893a0003c0
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-10-09T07:21:44Z'
+    text: Had me wondering! Even thinking about a hybrid???
+    ref: 5bbc5708ed2a89c10e00264a
+    name: Kevin Sparrow
+    username: banksiaman
+  - replying_to: 5bbc5708ed2a89c10e00264a
+    created_at: '2018-10-10T02:44:22Z'
+    text: A very polymorphic species and as you say a hybrid can't be ruled out.
+    ref: 5bbd6786ed2a89893a0004d6
+    name: David Francis
+    username: david_francis

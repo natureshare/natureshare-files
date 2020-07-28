@@ -1,0 +1,45 @@
+id:
+  - name: Bossiaea cordifolia
+created_at: '2013-06-25T20:58:54Z'
+datetime: '2012-10-20T08:48:19+10:00'
+description: New Bossiaea species from Otways - separated from B. cinerea. Yellow wing and stipules forming V-shape (pic 2) are key features.
+latitude: -38.724512
+longitude: 143.236001
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-07-03T04:33:54Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-10-20T08:48:19Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39867e35eb12984013fb8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39867e35eb12984013fb8.jpg'
+  - datetime: '2012-10-20T08:48:01Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39867e35eb12984013fb9.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39867e35eb12984013fb9.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2015-04-16T07:49:51Z'
+    text: 'Hi Russell. APC is considering this synonymous with B. cinerea. The VBA has not included this name either. For consistency with VBA and APC, should the name remain as B. cordifolia for now? Thanks.'
+    ref: 552f699fed2a898ba300010d
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 552f699fed2a898ba300010d
+    created_at: '2015-04-16T13:54:02Z'
+    text: You might want to follow this up with Ian Thompson since he did the Bossiaea work. I assume I implemented the relevant Vic stuff into NS.
+    ref: 552fbefaed2a898ba3000202
+    name: Russell Best
+    username: russell
+  - replying_to: 552f699fed2a898ba300010d
+    created_at: '2015-04-16T13:57:20Z'
+    text: 'Bossiaea in keybase doesn''t seem to have been updated yet ... http://keybase.rbg.vic.gov.au/key/bracketedkey/2397 '
+    ref: 552fbfc0ed2a898ba3000207
+    name: Russell Best
+    username: russell
+  - replying_to: 552fbefaed2a898ba3000202
+    created_at: '2015-04-18T09:32:30Z'
+    text: 'Have checked APC for species added by Ian Thompson, including B. sericea and B. alpina. Have now added both of these to NS database, along with B. distichoclada. Will ask Ian about B. cordifolia.'
+    ref: 553224aeed2a89a30b000068
+    name: Chris Lindorff
+    username: chrisl

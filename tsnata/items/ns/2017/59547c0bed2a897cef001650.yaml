@@ -1,0 +1,37 @@
+id:
+  - Trichoglossus haematodus
+created_at: '2017-06-29T04:08:18Z'
+datetime: '2017-06-29T09:58:55+10:00'
+description: First observation of Lorikeet using the nest box in Newell's Paddock.
+elevation: 8.4
+latitude: -37.797463
+location_name: 'Footscray VIC 3011, Australia'
+longitude: 144.910085
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-06-29T04:08:18Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-06-29T09:58:55Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59547c24ed2a8939840000b3.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59547c24ed2a8939840000b3.jpg'
+comments:
+  - created_at: '2017-07-01T07:30:06Z'
+    text: 'Nice camouflage paint on this nest box. '
+    ref: 59574f7eed2a897cef001d9c
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 59574f7eed2a897cef001d9c
+    created_at: '2017-07-12T10:32:48Z'
+    text: The boxes were built by the local men shed group.
+    ref: 5965fad0ed2a897cef003ffe
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong

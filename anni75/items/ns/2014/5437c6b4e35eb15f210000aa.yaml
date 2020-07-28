@@ -1,0 +1,29 @@
+id:
+  - name: Pimelea linifolia
+    by: russell
+created_at: '2014-10-10T11:44:52Z'
+datetime: '2014-10-05T10:44:28+10:00'
+latitude: -37.220308
+location_name: 'Broadford VIC 3658, Australia'
+longitude: 145.041921
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-10-10T11:47:39Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-05T10:44:28Z'
+    height: 3000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5437c6b3e35eb15f210000a9.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5437c6b3e35eb15f210000a9.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2014-10-10T15:03:36Z'
+    text: 'No hairs on stem below the flower, linearish leaves and reddish stems are features of linifolia.'
+    ref: 5437f548e35eb15f210000b1
+    name: Russell Best
+    username: russell
+collections:
+  - colin_officer_flora_reserve_spring_2014

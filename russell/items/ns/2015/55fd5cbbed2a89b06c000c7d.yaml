@@ -1,0 +1,27 @@
+id:
+  - Tetratheca ciliata
+created_at: '2015-09-19T13:01:47Z'
+datetime: '2015-09-19T17:16:05+10:00'
+latitude: -37.572739
+longitude: 144.507584
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-09-19T13:03:52Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-09-19T17:16:05Z'
+    height: 2322
+    width: 3066
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55fd5cd4ed2a890d950001d7.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55fd5cd4ed2a890d950001d7.jpeg'
+  - datetime: '2015-09-19T17:15:35Z'
+    height: 2128
+    width: 2511
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55fd5ce0ed2a890d950001d8.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55fd5ce0ed2a890d950001d8.jpeg'
+tags:
+  - flower
+collections:
+  - pyrete_range_plants

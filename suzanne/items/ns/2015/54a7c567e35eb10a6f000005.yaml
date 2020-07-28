@@ -1,0 +1,35 @@
+id:
+  - name: Araneus circulissparsus
+    by: russell
+created_at: '2015-01-03T10:33:11Z'
+datetime: '2015-01-01T19:31:03+10:00'
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-02-18T10:32:57Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-01-01T19:31:03Z'
+    height: 1143
+    width: 1689
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54a7c567e35eb10a6f000003.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54a7c567e35eb10a6f000003.JPG'
+  - datetime: '2015-01-01T19:30:52Z'
+    height: 1289
+    width: 1927
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54a7c567e35eb10a6f000004.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54a7c567e35eb10a6f000004.JPG'
+tags:
+  - spider
+comments:
+  - created_at: '2015-02-18T10:33:30Z'
+    text: ID by Robert Whyte.
+    ref: 54e46a7aed2a89d990000414
+    name: Russell Best
+    username: russell
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains

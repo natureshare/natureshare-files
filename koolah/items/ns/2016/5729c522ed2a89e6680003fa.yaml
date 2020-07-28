@@ -1,0 +1,30 @@
+id:
+  - Spilosoma glatignyi
+created_at: '2016-05-04T09:49:03Z'
+datetime: '2016-04-14T22:27:47+10:00'
+description: The GPS record from the camera is not quite right - it should be -37.806631/144.296932
+latitude: -37.804035
+longitude: 144.29633
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-05-04T09:55:17Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-04-14T22:27:47Z'
+    height: 2110
+    width: 2023
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5729c530ed2a89211c0001ec.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5729c530ed2a89211c0001ec.JPG'
+  - datetime: '2016-04-14T22:33:55Z'
+    height: 1420
+    width: 1788
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5729c541ed2a89211c0001ed.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5729c541ed2a89211c0001ed.JPG'
+tags:
+  - male
+  - moth
+  - white
+collections:
+  - brisbane_ranges_moths

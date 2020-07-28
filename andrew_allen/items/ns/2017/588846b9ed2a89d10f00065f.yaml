@@ -1,0 +1,47 @@
+id:
+  - Dicranolaius spp.
+created_at: '2017-01-25T06:37:57Z'
+datetime: '2017-01-25T11:45:00+10:00'
+description: Small colourful beetle...
+elevation: 151.7
+latitude: -36.939976
+location_name: 'Mangalore VIC 3663, Australia'
+longitude: 145.150684
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-01-26T08:54:46Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 1788
+    width: 1192
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588846c2ed2a89b718000322.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588846c2ed2a89b718000322.jpg'
+  - height: 1525
+    width: 1017
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588846c3ed2a892daf00034a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588846c3ed2a892daf00034a.jpg'
+comments:
+  - created_at: '2017-01-26T03:46:42Z'
+    text: 'Looks like a Clerid beetle, Cleridae sp. but no match on ALA.'
+    ref: 58897122ed2a89d10f0009b6
+    name: David Francis
+    username: david_francis
+  - replying_to: 58897122ed2a89d10f0009b6
+    created_at: '2017-01-26T06:47:41Z'
+    text: I'm not sure. It has some features of Cleridae. I've also had a look at Melyridae and see some similarities there as well...
+    ref: 58899b8ded2a89d10f000abe
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 58897122ed2a89d10f0009b6
+    created_at: '2017-01-26T06:49:29Z'
+    text: Maybe Dicranolaius sp.?
+    ref: 58899bf9ed2a89d10f000ac0
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 58899bf9ed2a89d10f000ac0
+    created_at: '2017-01-26T08:34:37Z'
+    text: 'Yes, agree. See http://www.bowerbird.org.au/observations/63354'
+    ref: 5889b49ded2a89d10f000ad1
+    name: David Francis
+    username: david_francis

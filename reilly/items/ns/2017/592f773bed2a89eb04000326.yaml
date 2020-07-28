@@ -1,0 +1,51 @@
+id:
+  - Fungi spp.
+created_at: '2017-06-01T14:50:49Z'
+datetime: '2017-05-21T11:10:10+10:00'
+elevation: 286.2
+latitude: -37.782711
+location_name: 'Warburton VIC 3799, Australia'
+longitude: 145.760447
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: record-only
+updated_at: '2017-06-01T14:50:49Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-05-21T11:10:10Z'
+    height: 3024
+    width: 4032
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/592f774ded2a893984000006.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592f774ded2a893984000006.JPG'
+  - datetime: '2017-05-21T11:11:05Z'
+    height: 3024
+    width: 4032
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/592f7755ed2a893984000007.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592f7755ed2a893984000007.JPG'
+  - datetime: '2017-05-21T11:10:17Z'
+    height: 3024
+    width: 4032
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/592f7760ed2a893984000008.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592f7760ed2a893984000008.JPG'
+  - datetime: '2017-05-21T11:11:12Z'
+    height: 3024
+    width: 4032
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/592f776ded2a893984000009.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592f776ded2a893984000009.JPG'
+  - datetime: '2017-05-21T11:10:40Z'
+    height: 3024
+    width: 4032
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/592f777bed2a89398400000a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592f777bed2a89398400000a.JPG'
+comments:
+  - created_at: '2017-11-07T01:36:19Z'
+    text: <em>Fungi spp.</em> species id suggested
+    ref: 5a010e13ed2a89ad9500018d
+    name: 'Reilly '
+    username: reilly
+  - created_at: '2019-06-11T07:34:01Z'
+    text: Cortinarius archeri
+    ref: 5cff596976a894aeef000023
+    name: zeke1944
+    username: zeke1944

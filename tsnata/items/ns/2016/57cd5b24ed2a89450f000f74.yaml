@@ -1,0 +1,35 @@
+id:
+  - name: Pterostylis nutans
+    by: koolah
+created_at: '2016-09-05T12:02:20Z'
+datetime: '2016-09-04T06:58:38+10:00'
+elevation: 129.4
+latitude: -38.420345
+location_name: 'Grantville VIC 3984, Australia'
+longitude: 145.546395
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-09-05T12:04:03Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-04T06:57:43Z'
+    height: 2400
+    width: 1800
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57cd5b4ced2a89b718000016.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57cd5b4ced2a89b718000016.jpg'
+  - datetime: '2016-09-04T06:58:38Z'
+    height: 2400
+    width: 1800
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57cd5f24ed2a89b3fe00001c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57cd5f24ed2a89b3fe00001c.jpg'
+comments:
+  - created_at: '2016-09-05T12:21:35Z'
+    text: <em>Pterostylis nutans</em> species id suggested
+    ref: 57cd634fed2a89450f000f89
+    name: Cathy Powers
+    username: koolah
+collections:
+  - grantville_lodge

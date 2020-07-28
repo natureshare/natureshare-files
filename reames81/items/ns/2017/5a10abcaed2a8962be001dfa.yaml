@@ -1,0 +1,42 @@
+id:
+  - name: Aira spp.
+    by: chrisl
+created_at: '2017-11-18T21:53:14Z'
+datetime: '2017-11-19T07:50:45+10:00'
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-11-18T21:55:44Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-11-19T07:50:45Z'
+    height: 1458
+    width: 2592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a10abdded2a8939840006c6.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a10abdded2a8939840006c6.jpg'
+comments:
+  - created_at: '2017-11-18T21:54:49Z'
+    text: Can someone identify this grass for me please. Is it native
+    ref: 5a10ac29ed2a897a210000f7
+    name: Robyn Eames
+    username: reames81
+  - created_at: '2017-11-18T22:41:06Z'
+    text: 'Hi Robyn, Your grass could be a Poa species but magnified details of flowers, stems and leaves are required for identification of grasses.'
+    ref: 5a10b702ed2a897a2100010a
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-11-19T11:00:48Z'
+    text: <em>Aira spp.</em> species id suggested
+    ref: 5a116460ed2a8962be0020a8
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2017-11-19T11:01:47Z'
+    text: An Aira species. Introduced annual grass. Difficult to judge species without closer inspection.
+    ref: 5a11649bed2a892e7c000048
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2017-11-19T11:03:44Z'
+    text: 'Robyn, are you able to add a location to make this record complete? Cheers.'
+    ref: 5a116510ed2a892e7c00004b
+    name: Chris Lindorff
+    username: chrisl

@@ -1,0 +1,46 @@
+id:
+  - Podargus strigoides
+created_at: '2015-08-24T00:39:54Z'
+datetime: '2015-08-17T20:12:58+10:00'
+latitude: -37.860222
+longitude: 145.031906
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2015-08-24T00:41:03Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-08-17T20:12:58Z'
+    height: 3264
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55da67e6ed2a8973dd000004.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55da67e6ed2a8973dd000004.jpg'
+comments:
+  - created_at: '2015-08-24T00:41:50Z'
+    text: 'Please check my id :)'
+    ref: 55da684eed2a89cd6b00001f
+    name: 'Reilly '
+    username: reilly
+  - created_at: '2015-08-25T13:05:45Z'
+    text: 'What a great photo :) great adaptability to our human constructions :)'
+    ref: 55dc6829ed2a892a79000144
+    name: Gill Best
+    username: gill
+  - created_at: '2015-08-26T03:57:52Z'
+    text: 'Yep, your ID is correct. '
+    ref: 55dd3940ed2a89ac7e00005d
+    name: Russell Best
+    username: russell
+  - replying_to: 55dd3940ed2a89ac7e00005d
+    created_at: '2015-08-31T12:12:29Z'
+    text: 'Thanks :)'
+    ref: 55e444aded2a891d6d0000a9
+    name: 'Reilly '
+    username: reilly
+  - replying_to: 55dc6829ed2a892a79000144
+    created_at: '2015-08-31T12:13:03Z'
+    text: Yeah I would have guessed it was just passing through but my sister observed it again tonight.
+    ref: 55e444cfed2a891d6d0000ac
+    name: 'Reilly '
+    username: reilly

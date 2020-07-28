@@ -1,0 +1,54 @@
+id:
+  - Amanita spp.
+created_at: '2017-06-07T01:47:46Z'
+datetime: '2017-06-04T14:33:05+10:00'
+description: Very thick stipe with large bulbous base.
+latitude: -37.406897
+longitude: 144.564564
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-06-08T02:11:59Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-06-04T14:33:05Z'
+    height: 1200
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59375ae3ed2a893984000039.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59375ae3ed2a893984000039.jpg'
+  - datetime: '2017-06-04T14:34:18Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59375adfed2a893984000038.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59375adfed2a893984000038.jpg'
+  - datetime: '2017-06-04T14:33:57Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59375af0ed2a89398400003a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59375af0ed2a89398400003a.jpg'
+comments:
+  - created_at: '2017-06-07T23:30:00Z'
+    text: Looks like one of the 'Amanita ochrophylla group' that are abundant over my way in the Spring Hill area of Wombat State Forest.
+    ref: 59388c78ed2a892c93000001
+    name: Lawrie Conole
+    username: lconole
+  - replying_to: 59388c78ed2a892c93000001
+    created_at: '2017-06-08T01:27:07Z'
+    text: 'Thanks, Lawrie. It had a large bulbous base which also agrees with ochrophylla.'
+    ref: 5938a7ebed2a895917000005
+    name: David Francis
+    username: david_francis
+  - replying_to: 5938a7ebed2a895917000005
+    created_at: '2017-06-08T02:02:04Z'
+    text: 'Yep, but could also be A. ochrophylloides ..'
+    ref: 5938b01ced2a89a94f000001
+    name: Lawrie Conole
+    username: lconole
+  - replying_to: 5938b01ced2a89a94f000001
+    created_at: '2017-06-08T02:11:25Z'
+    text: 'My book on fungi say ochrophylloides has large pointed warts that darken with age and the gills are pale golden yellow, not dull creamy yellow as in ochrophylla ... but happy to demote it to Amanita spp.'
+    ref: 5938b24ded2a890622000001
+    name: David Francis
+    username: david_francis

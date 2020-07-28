@@ -1,0 +1,39 @@
+id:
+  - Botaurus poiciloptilus
+created_at: '2015-10-01T13:23:51Z'
+datetime: '2015-07-01T11:35:30+10:00'
+elevation: 4.9
+latitude: -38.042601
+location_name: 'Point Wilson VIC 3212, Australia'
+longitude: 144.526511
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-10-01T13:29:03Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-07-01T11:35:30Z'
+    height: 2251
+    width: 3377
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560d3411ed2a890d95000394.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560d3411ed2a890d95000394.jpg'
+  - datetime: '2015-07-01T12:01:32Z'
+    height: 2698
+    width: 3597
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560d343bed2a890d95000395.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560d343bed2a890d95000395.jpg'
+comments:
+  - created_at: '2015-10-01T14:44:49Z'
+    text: Great catch!
+    ref: 560d46e1ed2a89401600006c
+    name: Chris Clarke
+    username: cclarke
+  - replying_to: 560d46e1ed2a89401600006c
+    created_at: '2015-10-02T05:44:15Z'
+    text: I'd be a lier if I said I wasn't very happy when I saw it ;)
+    ref: 560e19afed2a8940160000b3
+    name: Michael Gooch
+    username: michaelgooch
+collections:
+  - birds_of_the_western_treatment_plant_werribee

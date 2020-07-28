@@ -1,0 +1,34 @@
+id:
+  - Opisthoncus spp.
+created_at: '2016-12-19T09:08:34Z'
+datetime: '2016-12-19T16:05:14+10:00'
+description: "Female on same branch as male.\r\nhttps://natureshare.org.au/observations/5857a3cded2a897480009d61\r\nSimilar to O. femoratus"
+latitude: -37.408237
+longitude: 144.594972
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-12-24T04:49:11Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-12-19T16:05:14Z'
+    height: 1024
+    width: 1365
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5857aa78ed2a89b3fe00026e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5857aa78ed2a89b3fe00026e.jpg'
+  - datetime: '2016-12-19T16:06:37Z'
+    height: 1024
+    width: 1365
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5857aa86ed2a89b3fe00026f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5857aa86ed2a89b3fe00026f.jpg'
+tags:
+  - female
+comments:
+  - created_at: '2016-12-20T04:19:50Z'
+    text: Great photo David
+    ref: 5858b166ed2a897480009f5a
+    name: Pauline McCarthy
+    username: pauline
+collections:
+  - insects_and_other_arthropods_of_mt_macedon

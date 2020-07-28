@@ -1,0 +1,48 @@
+id:
+  - Trichoderma viride
+created_at: '2018-06-24T07:04:00Z'
+datetime: '2018-06-23T16:51:09+10:00'
+description: "Two photos\r\n"
+elevation: 207.7
+latitude: -38.529224
+location_name: 'Forrest VIC 3236, Australia'
+longitude: 143.719542
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-07-23T14:31:23Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-06-23T16:51:09Z'
+    height: 1369
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b2f41efed2a89c6aa000009.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2f41efed2a89c6aa000009.jpg'
+  - datetime: '2018-06-23T16:55:14Z'
+    height: 1384
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b2f4205ed2a89280700000e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2f4205ed2a89280700000e.jpg'
+comments:
+  - created_at: '2018-06-25T09:28:25Z'
+    text: 'This is a wonderful example of the complexity our our fungi, the orange blobs were named as Hypocrea rufa and the blue/green mould was listed as Trichoderma viride, two names for two separate species. Then, by the late 19th century, it was realised that they are the same species, the Hypocrea being the teleomorph, or sexual phase, and the Trichoderma being the anamorph or asexual phase. Traditionally species such as this are known by their teleomorph name, but in the case of the Hypocrea, the species are impossible to separate by their teleomorph structure but a clear separation of species can be obtained by studying the anamorph. So this species is now officially known by the name Trichoderma, not Hypocrea.'
+    ref: 5b30b5b9ed2a89a99300125e
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-06-25T09:32:29Z'
+    text: Perhaps even more interesting is that this fungus lives on and feeds off other fungi species and is now a recognised fungicide used to control fungal pathogens in seeds and soil.
+    ref: 5b30b6aded2a89a993001261
+    name: John Walter
+    username: 249pbr
+  - replying_to: 5b30b5b9ed2a89a99300125e
+    created_at: '2018-06-25T09:42:33Z'
+    text: Thanks John. I had thought the orange blobs might be another species so I'm glad you have clarified it.
+    ref: 5b30b909ed2a89a993001269
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - created_at: '2018-06-25T09:43:19Z'
+    text: 'Yes, if you google it the fungicide gets priority.'
+    ref: 5b30b937ed2a89d839000002
+    name: Lorraine Phelan
+    username: lorrainecphelan

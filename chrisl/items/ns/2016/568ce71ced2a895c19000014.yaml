@@ -1,0 +1,25 @@
+id:
+  - Pseudonaja textilis
+created_at: '2016-01-06T10:08:39Z'
+datetime: '2013-09-24T10:43:10+10:00'
+latitude: -34.138964
+longitude: 141.329702
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-01-06T10:08:39Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2013-09-24T10:43:10Z'
+    height: 1044
+    width: 696
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/568ce734ed2a89038f000020.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/568ce734ed2a89038f000020.jpg'
+  - datetime: '2013-09-24T10:43:10Z'
+    height: 2164
+    width: 3246
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/568ce740ed2a89038f000021.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/568ce740ed2a89038f000021.jpg'
+collections:
+  - neds_corner_reptiles

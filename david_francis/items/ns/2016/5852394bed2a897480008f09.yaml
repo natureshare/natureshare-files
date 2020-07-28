@@ -1,0 +1,42 @@
+id:
+  - name: Spilosoma glatignyi
+    by: koolah
+created_at: '2016-12-15T06:35:24Z'
+datetime: '2016-12-15T14:18:46+10:00'
+latitude: -37.372782
+longitude: 144.624137
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-12-20T12:28:58Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-12-15T14:18:46Z'
+    height: 1024
+    width: 1365
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58523951ed2a89b718000261.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58523951ed2a89b718000261.jpg'
+  - datetime: '2016-12-15T14:18:15Z'
+    height: 1024
+    width: 1365
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5852395ded2a892daf00027a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5852395ded2a892daf00027a.jpg'
+  - datetime: '2016-12-15T14:17:18Z'
+    height: 1024
+    width: 1365
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58523969ed2a89d73e000241.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58523969ed2a89d73e000241.jpg'
+comments:
+  - created_at: '2016-12-15T07:19:12Z'
+    text: <em>Spilosoma glatignyi</em> species id suggested
+    ref: 585243f0ed2a89ca7f00002b
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2016-12-15T07:27:41Z'
+    text: 'Thanks, Cathy'
+    ref: 585245eded2a89ca7f00003f
+    name: David Francis
+    username: david_francis
+collections:
+  - insects_and_other_arthropods_of_mt_macedon

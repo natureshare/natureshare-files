@@ -1,0 +1,44 @@
+id:
+  - name: Eleale pulcher
+    by: david_francis
+created_at: '2016-12-11T05:14:29Z'
+datetime: '2016-12-11T09:15:00+10:00'
+latitude: -37.714295
+longitude: 145.296216
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-02-03T08:36:15Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 1869
+    width: 2803
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584ce062ed2a892daf000265.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584ce062ed2a892daf000265.jpg'
+  - height: 1603
+    width: 2405
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584ce059ed2a89b71800023f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584ce059ed2a89b71800023f.jpg'
+comments:
+  - created_at: '2016-12-11T06:34:33Z'
+    text: Trogodendron tenebricosum
+    ref: 584cf379ed2a897480008264
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-03T06:51:13Z'
+    text: 'Hi. This is actually Eleale pulcher (it is misidentified on Dave''s Garden website also). Regards, Justin. '
+    ref: 58942861ed2a89d10f002725
+    name: Justin Bartlett
+    username: cleridoz
+  - replying_to: 58942861ed2a89d10f002725
+    created_at: '2017-02-03T08:35:55Z'
+    text: Thanks again Justin. That's two misidentifications fixed.
+    ref: 589440ebed2a89d10f00276b
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-03T08:36:46Z'
+    text: Id by Justin Bartlett.
+    ref: 5894411eed2a89d10f002771
+    name: David Francis
+    username: david_francis

@@ -1,0 +1,31 @@
+id:
+  - name: Lomandra longifolia subsp. longifolia
+created_at: '2014-05-01T21:47:14Z'
+datetime: '2013-11-24T12:57:26+10:00'
+latitude: -38.19927
+longitude: 142.034422
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-05-21T11:59:55Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-11-24T12:57:26Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986ce35eb129840152d0.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb129840152d0.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2015-05-20T16:28:19Z'
+    text: 'Hi Kevin. If these photos are from different plants, would it be possible to remove one and re-produce it into a new observation? Cheers.'
+    ref: 555cb623ed2a897a03000094
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 555cb623ed2a897a03000094
+    created_at: '2015-05-21T12:00:19Z'
+    text: No worries
+    ref: 555dc8d3ed2a897a03000185
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - pallisters_reserve_orford

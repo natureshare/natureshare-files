@@ -1,0 +1,38 @@
+id:
+  - Leptospermum myrsinoides
+created_at: '2017-09-24T22:20:24Z'
+datetime: '2017-09-24T10:28:17+10:00'
+elevation: 214.9
+latitude: -36.788049
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.38654
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-09-24T22:20:24Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-09-24T10:27:54Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c7ac52ed2a8939840002c8.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c7ac52ed2a8939840002c8.JPG'
+  - datetime: '2017-09-24T10:28:17Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c7ac4ded2a8939840002c7.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c7ac4ded2a8939840002c7.JPG'
+  - datetime: '2017-09-24T10:28:25Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c7ad53ed2a8939840002d8.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c7ad53ed2a8939840002d8.JPG'
+tags:
+  - flower-white
+  - leaves-obovate
+  - petals-6
+  - shrub-medium
+collections:
+  - junortoun_flora

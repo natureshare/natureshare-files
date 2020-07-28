@@ -1,0 +1,31 @@
+id:
+  - name: Spectrotrota fimbrialis
+    by: koolah
+created_at: '2017-02-04T02:19:23Z'
+datetime: '2017-02-04T10:45:00+10:00'
+latitude: -37.728518
+longitude: 144.834458
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-02-04T02:19:23Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 2038
+    width: 3058
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/589539cced2a892daf000392.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/589539cced2a892daf000392.jpg'
+comments:
+  - created_at: '2017-02-04T02:48:21Z'
+    text: <em>Spectrotrota fimbrialis</em> species id suggested
+    ref: 589540f5ed2a89d10f0029a0
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 589540f5ed2a89d10f0029a0
+    created_at: '2017-02-04T03:45:14Z'
+    text: Thanks again Cathy
+    ref: 58954e4aed2a89d10f0029e4
+    name: Andrew Allen
+    username: andrew_allen
+collections:
+  - brimbank_park_insects_and_spiders

@@ -1,0 +1,38 @@
+id:
+  - Ehrharta longiflora
+created_at: '2016-11-07T12:32:05Z'
+datetime: '2016-10-29T12:34:56+10:00'
+description: Common grass with leaves approx 1 cm wide forming clumps to approx. 50-60 cm.
+elevation: 213.8
+latitude: -36.7776
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.366499
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-11-08T11:13:36Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-29T12:34:56Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/581472b3ed2a89b71800015f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/581472b3ed2a89b71800015f.JPG'
+tags:
+  - flowerhead
+  - grass
+comments:
+  - created_at: '2016-11-08T04:37:40Z'
+    text: 'Annual Veldt-grass (Ehrharta longiflora), I''d guess.'
+    ref: 58215694ed2a897480002bf8
+    name: Lauren Fraser
+    username: lauren_fraser
+  - created_at: '2016-11-08T09:01:42Z'
+    text: My thoughts also.
+    ref: 58219476ed2a897480002c62
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - junortoun_flora

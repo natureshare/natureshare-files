@@ -1,0 +1,27 @@
+id:
+  - Levenhookia dubia
+created_at: '2016-10-07T10:13:37Z'
+datetime: '2016-10-07T12:26:01+10:00'
+description: Ephemeral herb about 4 cm tall.
+latitude: -36.85283
+longitude: 144.750363
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-07T10:13:37Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-07T12:26:01Z'
+    height: 1024
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57f774afed2a892daf00010c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f774afed2a892daf00010c.jpg'
+  - datetime: '2016-10-07T12:26:30Z'
+    height: 768
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57f774beed2a89b3fe0000e9.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f774beed2a89b3fe0000e9.jpg'
+collections:
+  - mt_ida_heathcote_graytown_national_park

@@ -1,0 +1,40 @@
+id:
+  - Hyalarcta huebneri
+created_at: '2017-01-28T04:23:04Z'
+datetime: '2017-01-26T23:59:00+10:00'
+elevation: 261.9
+latitude: -37.806572
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.29699
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-02-10T06:33:22Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-26T23:59:00Z'
+    height: 1909
+    width: 2925
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588c1bfced2a89d73e000332.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588c1bfced2a89d73e000332.JPG'
+  - datetime: '2017-01-27T00:00:54Z'
+    height: 2370
+    width: 2758
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588c1c03ed2a89b3fe000356.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588c1c03ed2a89b3fe000356.jpg'
+  - datetime: '2017-01-27T00:03:54Z'
+    height: 1503
+    width: 2102
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588c1c06ed2a89b71800035d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588c1c06ed2a89b71800035d.jpg'
+tags:
+  - antennae-pectinate
+  - casemoth
+  - male
+  - moth
+  - moth-small
+  - wings-blue
+collections:
+  - brisbane_ranges_moths

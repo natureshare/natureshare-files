@@ -1,0 +1,32 @@
+id:
+  - name: Hepialidae spp.
+  - Trictena atripalpis
+created_at: '2014-04-09T15:58:20Z'
+datetime: '2014-04-09T11:19:16+10:00'
+description: 'Looks like Trictena atripalpis, but it has a slightly different wing pattern'
+latitude: -37.795938
+longitude: 144.915588
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-12-24T01:01:54Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-04-09T11:19:16Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986ce35eb129840151f4.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb129840151f4.jpg'
+  - datetime: '2014-04-09T11:19:31Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986ce35eb129840151f5.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb129840151f5.jpg'
+comments:
+  - created_at: '2014-04-09T16:33:28Z'
+    text: I always struggle between Trictena atripalpis and Abantiades labyrinthicus.
+    ref: 53b3984de35eb1298400dd02
+  - created_at: '2015-12-23T12:10:37Z'
+    text: Thomas - I think this is Trictena atripalpis.
+    ref: 567a8f3ded2a89d6d60003e7
+    name: Cathy Powers
+    username: koolah
+collections:
+  - maribyrnong_river_valley_fauna
+  - flemington_kensington_3031

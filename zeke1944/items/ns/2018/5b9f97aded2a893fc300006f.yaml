@@ -1,0 +1,31 @@
+id:
+  - Entoloma spp.
+created_at: '2018-09-17T12:08:29Z'
+datetime: '2012-08-15T16:02:49+10:00'
+latitude: -37.685069
+longitude: 144.312607
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-09-17T12:08:35Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-08-15T16:02:49Z'
+    height: 2156
+    width: 2892
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b9f97b1ed2a8928070000e2.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b9f97b1ed2a8928070000e2.jpg'
+comments:
+  - created_at: '2018-09-17T12:11:42Z'
+    text: 'Entoloma percrinitum.  Gates p74. Seen in a grassy area in dry woodland. '
+    ref: 5b9f99feed2a893fc3000074
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-09-27T04:35:31Z'
+    text: "\r\nEntoloma percrinitum added to dataset."
+    ref: 5bac5e13ed2a89cce3008d8e
+    name: Cathy Powers
+    username: koolah
+collections:
+  - dryland_fungi

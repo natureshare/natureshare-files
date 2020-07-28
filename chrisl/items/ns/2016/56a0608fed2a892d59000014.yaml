@@ -1,0 +1,30 @@
+id:
+  - Hirundo nigricans
+created_at: '2016-01-21T04:50:26Z'
+datetime: '2013-09-24T10:26:12+10:00'
+latitude: -34.138234
+longitude: 141.32932
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-01-25T08:10:08Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2013-09-24T10:26:12Z'
+    height: 1108
+    width: 1662
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a060dfed2a89b31c000024.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a060dfed2a89b31c000024.jpg'
+  - datetime: '2013-09-24T10:27:43Z'
+    height: 946
+    width: 1419
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a0604ded2a89b31c000020.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a0604ded2a89b31c000020.jpg'
+  - datetime: '2013-09-24T10:26:04Z'
+    height: 879
+    width: 1318
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a06097ed2a891f7600001f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a06097ed2a891f7600001f.jpg'
+collections:
+  - neds_corner_birds

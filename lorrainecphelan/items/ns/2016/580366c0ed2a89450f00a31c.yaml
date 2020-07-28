@@ -1,0 +1,41 @@
+id:
+  - Pterostylis tasmanica
+created_at: '2016-10-16T11:40:07Z'
+datetime: '2016-10-16T09:19:58+10:00'
+elevation: 116.7
+latitude: -38.344463
+location_name: 'Anglesea VIC 3230, Australia'
+longitude: 144.166123
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-10-29T15:13:51Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-16T09:19:58Z'
+    height: 800
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/580366caed2a89b71800011b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/580366caed2a89b71800011b.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2016-10-16T11:45:59Z'
+    text: Hi Lorraine - do you think it could be this one? Pterostylis sp. aff. plumosa (Anglesea)?
+    ref: 58036877ed2a89450f00a32b
+    name: Chris Clarke
+    username: cclarke
+  - created_at: '2016-10-16T11:52:28Z'
+    text: I think you are correct - dorsal sepal blunt - cheers
+    ref: 580369fced2a89450f00a336
+    name: Chris Clarke
+    username: cclarke
+  - replying_to: 58036877ed2a89450f00a32b
+    created_at: '2016-10-16T11:53:03Z'
+    text: Hi Chris. I've just uploaded the one you mention. It has a green knob at the apex of the labellum. This one has a brown knob and I believe it is tasmanica but I'm happy to be corrected..
+    ref: 58036a1fed2a89450f00a338
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - anglesea_heath_flora_and_fauna

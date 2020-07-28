@@ -1,0 +1,37 @@
+id:
+  - Hemicordulia tau
+created_at: '2016-10-24T10:09:12Z'
+datetime: '2016-10-24T12:46:03+10:00'
+elevation: 24.6
+latitude: -38.149665
+location_name: 'East Geelong VIC 3219, Australia'
+longitude: 144.377619
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-29T10:29:56Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-10-24T12:46:03Z'
+    height: 1133
+    width: 1510
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/580ddd59ed2a89b718000143.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/580ddd59ed2a89b718000143.JPG'
+  - datetime: '2016-10-24T12:45:02Z'
+    height: 1194
+    width: 1593
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/580ddd68ed2a892daf000169.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/580ddd68ed2a892daf000169.JPG'
+comments:
+  - created_at: '2016-10-28T01:04:05Z'
+    text: 'Hi Lorraine, great photos. I can see every vein. But I think this may be the very similar Emerald Tau (H. tau) which has a yellow leading edge to the wings with a yellow pterostigma (colour patch). H. australiae has a black leading edge vein and black pterostigma.'
+    ref: 5812a405ed2a897480000fdb
+    name: David Francis
+    username: david_francis
+  - replying_to: 5812a405ed2a897480000fdb
+    created_at: '2016-10-29T10:28:36Z'
+    text: Hi David. Thanks for the very useful info. I'll edit the image file.
+    ref: 581479d4ed2a89748000135f
+    name: Lorraine Phelan
+    username: lorrainecphelan

@@ -1,0 +1,35 @@
+id:
+  - Grifola colensoi
+created_at: '2018-07-13T15:19:28Z'
+datetime: '2011-05-15T17:44:25+10:00'
+description: 'This is Grifola colensoi, could the database be updated please. Two images. Most times I have found this species it has been mostly eaten by the Black Wallabies.'
+elevation: 746.4
+latitude: -37.407642
+location_name: 'Trentham VIC 3458, Australia'
+longitude: 144.300713
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-07-25T11:38:20Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2011-05-15T17:44:25Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b48b0fced2a891efe00004d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b48b0fced2a891efe00004d.jpg'
+  - datetime: '2011-05-15T17:45:02Z'
+    height: 1768
+    width: 2170
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b48b11fed2a891efe00004e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b48b11fed2a891efe00004e.jpg'
+comments:
+  - created_at: '2018-07-13T20:19:18Z'
+    text: Species added to dataset
+    ref: 5b490946ed2a8903a00040b1
+    name: Cathy Powers
+    username: koolah
+collections:
+  - wombat_forest_-_fungi

@@ -1,0 +1,31 @@
+id:
+  - name: Tettigoniidae spp.
+    by: david_francis
+created_at: '2016-04-11T11:52:15Z'
+datetime: '2016-04-10T09:15:16+10:00'
+description: Torbia viridissima (Gum Leaf Katydid) ?
+elevation: 22
+latitude: -37.786031
+location_name: 'Newmarket, Flemington VIC 3031, Australia'
+longitude: 144.924968
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-02-01T05:06:11Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-04-10T09:15:16Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/570b8e11ed2a89211c0001c2.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/570b8e11ed2a89211c0001c2.jpg'
+comments:
+  - created_at: '2017-02-01T05:08:14Z'
+    text: 'Not on a gum leaf, although could have fallen, but detail not clear enough for a definitive id.'
+    ref: 58916d3eed2a89d10f00208d
+    name: David Francis
+    username: david_francis
+collections:
+  - flemington_kensington_3031

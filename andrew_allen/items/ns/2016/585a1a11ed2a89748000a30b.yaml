@@ -1,0 +1,42 @@
+id:
+  - Eleale pulcher
+created_at: '2016-12-21T06:00:31Z'
+datetime: '2016-12-21T10:45:00+10:00'
+description: Clerid beetle
+latitude: -37.649068
+longitude: 144.862584
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-12-21T06:43:59Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 2263
+    width: 3393
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/585a1a1fed2a892daf00029b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/585a1a1fed2a892daf00029b.jpg'
+  - height: 1872
+    width: 2808
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/585a1a1ced2a89d73e00025b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/585a1a1ced2a89d73e00025b.jpg'
+comments:
+  - created_at: '2016-12-21T06:20:05Z'
+    text: 'Eleale pulcher is a strong possibility - see http://www.bowerbird.org.au/observations/24204 identified by Ken Walker.'
+    ref: 585a1f15ed2a89748000a344
+    name: David Francis
+    username: david_francis
+  - replying_to: 585a1f15ed2a89748000a344
+    created_at: '2016-12-21T06:43:39Z'
+    text: Looks good to me
+    ref: 585a249bed2a89748000a369
+    name: Andrew Allen
+    username: andrew_allen
+  - created_at: '2017-01-25T08:57:12Z'
+    text: Gold marks on end of elytra distinguishes it from Trogodendron tenebricosum
+    ref: 58886868ed2a89d10f0006d0
+    name: David Francis
+    username: david_francis
+collections:
+  - woodlands_historic_park_insects_and_spiders
+  - woodlands_historic_park_-_coleoptera

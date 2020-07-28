@@ -1,0 +1,45 @@
+id:
+  - Neophema chrysostoma
+created_at: '2017-12-10T11:34:49Z'
+datetime: '2017-12-10T11:21:43+10:00'
+description: Immature parrot
+elevation: 134.9
+latitude: -36.498703
+location_name: 'Powlett Plains VIC 3517, Australia'
+longitude: 143.812728
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-12-14T11:50:08Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-12-10T11:21:43Z'
+    height: 992
+    width: 992
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a2d1b28ed2a890e9e00000a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a2d1b28ed2a890e9e00000a.JPG'
+tags:
+  - bird-juvenile
+  - parrot-green
+comments:
+  - created_at: '2017-12-10T21:01:55Z'
+    text: Red-rumped Parrot. Female or Immature.
+    ref: 5a2da0c3ed2a8962620004c9
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2017-12-12T10:45:47Z'
+    text: They're generally a duller green with black beaks I thought? Slightly larger than Red-rumps too.
+    ref: 5a2fb35bed2a896262000cc7
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 5a2fb35bed2a896262000cc7
+    created_at: '2017-12-13T05:10:00Z'
+    text: Have you thought of blue winged parrot?
+    ref: 5a30b628ed2a89626200103d
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2017-12-14T11:49:43Z'
+    text: 'Thanks Chris, I''d say that''s it comparing the other images on NS.'
+    ref: 5a326557ed2a89626200161b
+    name: Andrew Brown
+    username: andrewbrown

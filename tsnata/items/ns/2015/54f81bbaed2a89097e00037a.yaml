@@ -1,0 +1,39 @@
+id:
+  - name: Badumna longinqua
+    by: russell
+created_at: '2015-03-05T09:02:50Z'
+datetime: '2015-03-05T11:21:20+10:00'
+elevation: 25.3
+latitude: -37.786044
+location_name: 'Newmarket, Flemington VIC 3031, Australia'
+longitude: 144.924932
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-03-14T15:54:45Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-03-05T11:21:20Z'
+    height: 1500
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54f81bbaed2a89097e000379.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f81bbaed2a89097e000379.jpg'
+comments:
+  - created_at: '2015-03-06T01:11:24Z'
+    text: This one looks Lycosidae to me. Size?
+    ref: 54f8febced2a89097e00044b
+    name: Mark Ridgway
+    username: argybee
+  - replying_to: 54f8febced2a89097e00044b
+    created_at: '2015-03-12T02:16:58Z'
+    text: 'Mark, the body length of the spider is about 1.6 cm.'
+    ref: 5500f71aed2a8974d3000297
+    name: Thomas Nataprawira
+    username: tsnata
+  - created_at: '2015-03-14T15:55:20Z'
+    text: ID by Robert Whyte.
+    ref: 550459e8ed2a8994a90002e4
+    name: Russell Best
+    username: russell
+collections:
+  - flemington_kensington_3031

@@ -1,0 +1,34 @@
+id:
+  - name: Peltoschema pandora
+    by: david_francis
+created_at: '2015-04-08T03:04:11Z'
+datetime: '2014-08-30T13:00:00+10:00'
+description: "This is Peltoschema pandora.\r\nSmall, scarce and illustrated already on ALA website.  "
+elevation: 123.8
+latitude: -37.705664
+location_name: 'Bend Of Islands VIC, Australia'
+longitude: 145.278817
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2017-02-01T05:40:01Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-08-30T11:18:16Z'
+    height: 766
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55249aaaed2a89048b000020.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55249aaaed2a89048b000020.JPG'
+comments:
+  - created_at: '2016-12-16T09:14:07Z'
+    text: Peltoschema pandora added to the database
+    ref: 5853b05fed2a8974800094cb
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-01T05:40:24Z'
+    text: id by Martin Lagerwey
+    ref: 589174c8ed2a89d10f0020bf
+    name: David Francis
+    username: david_francis
+collections:
+  - beetles_leaf_beetle_reference_collection

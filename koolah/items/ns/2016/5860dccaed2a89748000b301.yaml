@@ -1,0 +1,29 @@
+id:
+  - Elesma sp. (1)
+created_at: '2016-12-26T09:04:26Z'
+datetime: '2015-12-04T22:20:28+10:00'
+latitude: -37.806573
+longitude: 144.296992
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-12-27T00:05:28Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-12-04T22:20:28Z'
+    height: 1480
+    width: 1481
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5860dcbaed2a89d73e000277.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5860dcbaed2a89d73e000277.JPG'
+  - datetime: '2015-12-04T22:20:20Z'
+    height: 1157
+    width: 1853
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5860dcd5ed2a89d73e000278.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5860dcd5ed2a89d73e000278.JPG'
+tags:
+  - grey
+  - moth
+collections:
+  - brisbane_ranges_moths

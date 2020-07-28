@@ -1,0 +1,29 @@
+id:
+  - Mycena cystidiosa
+created_at: '2018-07-25T12:59:04Z'
+datetime: '2013-04-20T12:29:06+10:00'
+description: Two images
+elevation: 921.1
+latitude: -37.377905
+location_name: 'Mount Macedon VIC 3441, Australia'
+longitude: 144.612691
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-07-26T01:07:17Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2013-04-20T12:29:06Z'
+    height: 1920
+    width: 1504
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b5873b1ed2a89c6aa00005c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b5873b1ed2a89c6aa00005c.jpg'
+  - datetime: '2013-04-20T12:29:30Z'
+    height: 2252
+    width: 1581
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b5873b8ed2a89402b000063.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b5873b8ed2a89402b000063.jpg'
+collections:
+  - macedon_ranges_-_fungi

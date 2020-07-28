@@ -1,0 +1,36 @@
+id:
+  - name: Gerridae spp.
+    by: david_francis
+created_at: '2016-11-27T11:02:26Z'
+datetime: '2016-11-27T12:25:14+10:00'
+description: 'I think this is a different insect. It has longer legs and different colored head. '
+elevation: 1.6
+latitude: -37.797303
+location_name: 'Footscray VIC 3011, Australia'
+longitude: 144.91499
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-11-27T11:02:26Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-11-27T12:25:14Z'
+    height: 1994
+    width: 2658
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/583abbc4ed2a89d73e0001ed.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/583abbc4ed2a89d73e0001ed.JPG'
+  - datetime: '2016-11-27T12:17:05Z'
+    height: 2132
+    width: 2842
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/583abbe5ed2a89d73e0001ee.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/583abbe5ed2a89d73e0001ee.JPG'
+comments:
+  - created_at: '2016-11-27T12:39:56Z'
+    text: <em>Gerridae spp.</em> species id suggested
+    ref: 583ad41ced2a8974800059c7
+    name: David Francis
+    username: david_francis
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong

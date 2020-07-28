@@ -1,0 +1,29 @@
+id:
+  - Malurus cyaneus
+created_at: '2015-10-25T09:22:07Z'
+datetime: '2015-10-25T17:27:44+10:00'
+description: Left the window down slightly and this guy found his way and couldn't get out again.
+elevation: 386.2
+latitude: -37.460291
+location_name: 'Riddells Creek VIC, Australia'
+longitude: 144.672999
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-10-25T09:26:10Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-10-25T17:27:44Z'
+    height: 3000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/562c9f59ed2a899c6300003b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/562c9f59ed2a899c6300003b.JPG'
+comments:
+  - created_at: '2015-10-26T03:08:12Z'
+    text: Made a great photo though.
+    ref: 562d991ced2a895c95000022
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - birds_of_riddells_creek

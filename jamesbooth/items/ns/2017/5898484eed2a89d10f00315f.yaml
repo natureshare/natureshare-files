@@ -1,0 +1,38 @@
+id:
+  - name: Paragryllacris spp.
+    by: david_francis
+created_at: '2017-02-06T09:57:35Z'
+datetime: '2017-02-04T22:12:12+10:00'
+elevation: 179
+latitude: -36.458758
+location_name: 'Glenalbyn VIC 3517, Australia'
+longitude: 143.772568
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-02-06T09:57:35Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-02-04T22:12:12Z'
+    height: 3000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58984860ed2a892daf0003aa.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58984860ed2a892daf0003aa.JPG'
+comments:
+  - created_at: '2017-02-07T10:19:26Z'
+    text: Suggest Paragryllacris sp.
+    ref: 58999f2eed2a89d10f003421
+    name: Kimberi Pullen
+    username: kimberip
+  - created_at: '2017-02-07T12:03:39Z'
+    text: <em>Paragryllacris spp.</em> species id suggested
+    ref: 5899b79bed2a89d10f003462
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-07T12:04:05Z'
+    text: Identification by Kimberi Pullen. Thanks.
+    ref: 5899b7b5ed2a89d10f003463
+    name: David Francis
+    username: david_francis
+collections:
+  - montana

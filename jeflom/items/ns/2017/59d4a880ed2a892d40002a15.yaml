@@ -1,0 +1,40 @@
+created_at: '2017-10-04T09:59:30Z'
+datetime: '2017-10-03T10:06:37+10:00'
+description: 'We do not know what this plant is.   Tightly clumped circle 40cm in diameter, 10cm high, of shiny green elongated leaves 4-7cm long.  Mass of leaves with lots of flowers hidden under the leaves.  Flowers are hooded, cup-like 3-4cm long with a thick white column inside.  White base with purple hood.  Plant appears to be connected with roots, not bulbs.'
+elevation: 399.7
+latitude: -38.694068
+location_name: 'Lavers Hill VIC 3238, Australia'
+longitude: 143.370261
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-10-04T09:59:30Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-03T10:06:03Z'
+    height: 2848
+    width: 4288
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59d4a8b1ed2a8939840003e3.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59d4a8b1ed2a8939840003e3.JPG'
+  - datetime: '2017-10-03T10:06:37Z'
+    height: 2848
+    width: 4288
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59d4a88ded2a8939840003e2.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59d4a88ded2a8939840003e2.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2017-10-04T10:37:17Z'
+    text: 'Arisarum proboscideum (Mouse-tail Arum) - a garden escape, native to the Mediterranean region. Not in our database.'
+    ref: 59d4b9dded2a895d85000080
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-10-04T22:50:31Z'
+    text: 'If truly naturalised, we could decide to add to database.'
+    ref: 59d565b7ed2a892d40002c82
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - great_otway_np_plants

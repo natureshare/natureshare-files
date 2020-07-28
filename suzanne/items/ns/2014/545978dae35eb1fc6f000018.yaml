@@ -1,0 +1,30 @@
+id:
+  - Eriophora spp.
+created_at: '2014-11-05T01:09:46Z'
+datetime: '2012-04-05T16:17:33+10:00'
+description: This spider was quite small.
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-11-05T01:10:58Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-04-05T16:17:33Z'
+    height: 1290
+    width: 1855
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/545978dae35eb1fc6f000017.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545978dae35eb1fc6f000017.jpg'
+tags:
+  - spider
+comments:
+  - created_at: '2014-11-05T01:11:16Z'
+    text: Identified by Ken Walker.
+    ref: 54597934e35eb1fc6f00001e
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains

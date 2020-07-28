@@ -1,0 +1,35 @@
+id:
+  - Accipiter fasciatus
+created_at: '2015-04-18T05:55:50Z'
+datetime: '2015-04-18T10:53:52+10:00'
+description: Frequent visitor to Royal Park. Spotted near the White's Skink Habitat.
+elevation: 22.5
+latitude: -37.78267
+location_name: 'Parkville VIC, Australia'
+longitude: 144.945028
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2015-04-18T05:58:35Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-04-18T10:53:52Z'
+    height: 1500
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5531f1e6ed2a89fadb000011.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5531f1e6ed2a89fadb000011.jpg'
+comments:
+  - created_at: '2015-04-27T12:22:34Z'
+    text: 'Great catch Thomas - I didn''t know you could find them in Royal Park,'
+    ref: 553e2a0aed2a894e7000001d
+    name: Chris Clarke
+    username: cclarke
+  - replying_to: 553e2a0aed2a894e7000001d
+    created_at: '2015-04-28T04:37:34Z'
+    text: We have spotted them a few times in Royal Park and Newell's Paddock lately.
+    ref: 553f0e8eed2a89c9bd00001f
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - royal_park_parkville

@@ -1,0 +1,34 @@
+id:
+  - Microseris sp. 3
+created_at: '2014-08-30T09:54:14Z'
+datetime: '2014-08-30T16:46:23+10:00'
+elevation: 509.8
+latitude: -37.451387
+location_name: 'Riddells Creek VIC 3431, Australia'
+longitude: 144.651266
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-08-30T09:56:36Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-08-30T16:46:23Z'
+    height: 1600
+    width: 1069
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54019f46e35eb19d94000142.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54019f46e35eb19d94000142.JPG'
+  - datetime: '2014-08-30T16:45:40Z'
+    height: 1069
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54019f46e35eb19d94000143.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54019f46e35eb19d94000143.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2014-08-30T12:11:41Z'
+    text: 'That''s the first we''ve recorded it flowering in August ... http://natureshare.org.au/observations?display=calendar&order_by=date&species=Microseris+sp.+3&tag=flower'
+    ref: 5401bf7de35eb198520000d8
+    name: Russell Best
+    username: russell
+collections:
+  - conglomerate_gully_riddells_creek_plants

@@ -1,0 +1,30 @@
+id:
+  - name: Chiloglottis valida
+    by: koolah
+created_at: '2017-11-09T11:11:59Z'
+datetime: '2017-10-14T11:19:30+10:00'
+elevation: 211.8
+latitude: -38.268355
+location_name: 'Mount Richmond VIC 3305, Australia'
+longitude: 141.419185
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-11-09T11:12:14Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-14T11:19:30Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a04378fed2a89398400064a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a04378fed2a89398400064a.jpg'
+comments:
+  - created_at: '2017-11-09T11:17:13Z'
+    text: <em>Chiloglottis valida</em> species id suggested
+    ref: 5a043939ed2a89ad95000c15
+    name: Cathy Powers
+    username: koolah
+collections:
+  - mt_richmond_np_plants

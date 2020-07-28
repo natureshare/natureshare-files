@@ -1,0 +1,37 @@
+id:
+  - Myiagra rubecula
+created_at: '2018-03-01T03:02:13Z'
+datetime: '2016-01-03T12:32:37+10:00'
+elevation: 330.8
+latitude: -37.484785
+location_name: 'Beveridge VIC 3753, Australia'
+longitude: 145.037785
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-03-02T12:04:12Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-01-03T12:32:37Z'
+    height: 2699
+    width: 3908
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a976c74ed2a8929e7000019.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a976c74ed2a8929e7000019.jpg'
+  - datetime: '2016-01-03T12:32:38Z'
+    height: 2250
+    width: 3325
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a976ca6ed2a89abdd00001c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a976ca6ed2a89abdd00001c.jpg'
+comments:
+  - created_at: '2018-03-02T03:41:50Z'
+    text: Always a treat to see these!
+    ref: 5a98c7feed2a89761c00005c
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-03-03T05:55:47Z'
+    text: Thank you David. They come at the end of summer every year and stay for a couple of weeks.
+    ref: 5a9a38e3ed2a898aa20000a3
+    name: Suzi Duncan
+    username: suzid
+collections:
+  - birds_of_whittlesea

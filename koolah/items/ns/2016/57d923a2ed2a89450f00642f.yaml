@@ -1,0 +1,34 @@
+id:
+  - Paromphale caeca
+created_at: '2016-09-14T10:18:33Z'
+datetime: '2015-01-09T00:25:48+10:00'
+latitude: -37.806643
+longitude: 144.297078
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-09-14T10:32:42Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-01-09T00:25:48Z'
+    height: 1095
+    width: 1554
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57d923b0ed2a892daf000030.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57d923b0ed2a892daf000030.JPG'
+  - datetime: '2015-01-09T00:26:15Z'
+    height: 1333
+    width: 1195
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57d923bfed2a89d73e00002e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57d923bfed2a89d73e00002e.JPG'
+tags:
+  - moth
+comments:
+  - created_at: '2017-01-03T11:48:41Z'
+    text: 'An amazing find for a tropical desert species, see http://lepidoptera.butterflyhouse.com.au/amph/caeca.html'
+    ref: 586b8f99ed2a892a0d00005c
+    name: Don Herbison-Evans
+    username: donhe
+collections:
+  - brisbane_ranges_moths

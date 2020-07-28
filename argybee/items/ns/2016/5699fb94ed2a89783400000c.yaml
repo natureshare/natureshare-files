@@ -1,0 +1,36 @@
+id:
+  - Odontomyia spp.
+created_at: '2016-01-16T08:17:26Z'
+datetime: '2016-01-15T15:11:00+10:00'
+description: Small vivid flower feeders. Soldier flies. Stratiomyidae.
+elevation: 129.2
+latitude: -37.869496
+location_name: 'Ferntree Gully VIC 3156, Australia'
+longitude: 145.295729
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-01-16T09:03:10Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-01-15T03:11:22Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5699fba0ed2a89e05000000f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5699fba0ed2a89e05000000f.JPG'
+  - datetime: '2016-01-15T03:11:29Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5699fb9aed2a89b31c000009.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5699fb9aed2a89b31c000009.JPG'
+  - datetime: '2016-01-15T03:11:08Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5699fb9bed2a897bc700000e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5699fb9bed2a897bc700000e.JPG'
+tags:
+  - fly
+collections:
+  - dandenong_ranges_diptera

@@ -1,0 +1,27 @@
+id:
+  - Sameodes iolealis
+created_at: '2018-03-07T10:59:23Z'
+datetime: '2018-02-22T20:49:05+10:00'
+description: 'This is Sameodes iolealis, please add to database'
+latitude: -37.224434
+longitude: 144.309678
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-03-08T09:11:02Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-02-22T20:49:05Z'
+    height: 1424
+    width: 1816
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a9fc547ed2a8929e7000030.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a9fc547ed2a8929e7000030.jpg'
+comments:
+  - created_at: '2018-03-07T12:08:03Z'
+    text: Added - nice observation.
+    ref: 5a9fd623ed2a896baf001d49
+    name: Cathy Powers
+    username: koolah
+collections:
+  - drummond_nearby_forests_-_moths

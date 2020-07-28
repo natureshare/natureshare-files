@@ -1,0 +1,32 @@
+id:
+  - Solanum aviculare
+created_at: '2017-10-12T12:24:22Z'
+datetime: '2017-10-10T15:07:43+10:00'
+elevation: 188.8
+latitude: -36.595566
+location_name: 'Neilborough VIC 3570, Australia'
+longitude: 144.28917
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-10-12T12:24:22Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-10T15:07:43Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59df4e6eed2a893984000494.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59df4e6eed2a893984000494.JPG'
+  - datetime: '2017-10-10T15:07:53Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59df4ecced2a893984000499.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59df4ecced2a893984000499.JPG'
+tags:
+  - flowers-mauve
+  - leaves-long
+  - shrub-medium
+collections:
+  - whipstick_flora

@@ -1,0 +1,39 @@
+id:
+  - name: Fisera eribola
+    by: koolah
+created_at: '2015-03-13T16:03:03Z'
+datetime: '2015-03-14T02:36:44+10:00'
+latitude: -37.430603
+longitude: 144.654694
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-03-15T02:35:01Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-03-14T02:36:44Z'
+    height: 1517
+    width: 1679
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55030a36ed2a8974d300037a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55030a36ed2a8974d300037a.jpg'
+  - datetime: '2015-03-14T02:35:31Z'
+    height: 1308
+    width: 1041
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55030a36ed2a8974d300037b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55030a36ed2a8974d300037b.jpg'
+tags:
+  - male
+comments:
+  - created_at: '2015-03-14T03:54:38Z'
+    text: Fisera eribola - male
+    ref: 5503b0feed2a8994a9000283
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5503b0feed2a8994a9000283
+    created_at: '2015-03-14T15:26:34Z'
+    text: Thanks Cathy. Would you edit the observation and change the species name for me please? Then you get the credit for the ID. That's the way it should be. Cheers.
+    ref: 5504532aed2a8974d3000408
+    name: Russell Best
+    username: russell
+collections:
+  - moths_of_riddells_creek

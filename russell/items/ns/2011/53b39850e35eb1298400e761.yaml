@@ -1,0 +1,29 @@
+id:
+  - name: Agrotis porphyricollis
+created_at: '2011-05-16T17:22:26Z'
+datetime: '2010-03-23T23:15:21+10:00'
+latitude: -37.430909
+longitude: 144.654659
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2011-05-16T17:26:25Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2010-03-23T23:15:21Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ee35eb12984011acd.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011acd.jpg'
+  - datetime: '2010-03-23T23:15:32Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ee35eb12984011ace.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011ace.jpg'
+comments:
+  - created_at: '2011-08-28T19:25:29Z'
+    text: |-
+      Noctuid 
+      try Noctuidae Amphipyrinae or Noctuidae Noctuinae maybe Noctuoidea Noctuidae Noctuinae Agrotis porphyricollis which is very common and VERY variable
+    ref: 53b3984be35eb1298400d8ae
+  - created_at: '2011-12-15T14:32:12Z'
+    text: Definitely Agrotis porphyricollis
+    ref: 53b3984be35eb1298400d9aa
+collections:
+  - moths_of_riddells_creek

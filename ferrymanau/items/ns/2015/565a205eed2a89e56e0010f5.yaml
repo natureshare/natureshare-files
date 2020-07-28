@@ -1,0 +1,31 @@
+id:
+  - name: Adversaeschna brevistyla
+    by: ausdigi
+created_at: '2015-11-28T21:47:30Z'
+datetime: '2015-11-28T15:52:38+10:00'
+elevation: 847.7
+latitude: -37.366469
+location_name: 'Hesket VIC 3442, Australia'
+longitude: 144.613388
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-12-01T11:24:24Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-11-28T15:52:38Z'
+    height: 798
+    width: 937
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/565a2074ed2a899c63000263.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/565a2074ed2a899c63000263.jpg'
+comments:
+  - created_at: '2015-11-28T22:00:43Z'
+    text: A most beautiful photograph.
+    ref: 565a240bed2a89e56e0010ff
+    name: Gill Best
+    username: gill
+  - created_at: '2015-12-01T11:25:29Z'
+    text: 'Sorry, I thought this may have been an Austroeaschna so messed up your ID. Still a bit unclear but you would have seen it in action.'
+    ref: 565d83a9ed2a89fd4400007c
+    name: Reiner Richter
+    username: ausdigi

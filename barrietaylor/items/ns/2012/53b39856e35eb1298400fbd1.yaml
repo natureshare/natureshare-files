@@ -1,0 +1,36 @@
+created_at: '2012-11-23T08:22:45Z'
+datetime: '2011-10-04T13:30:13+10:00'
+description: |
+  site1 East and West
+latitude: -36.39322
+longitude: 143.62833
+non_identifying_photo: true
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2013-02-15T06:59:21Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-10-04T13:30:13Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39866e35eb129840139fe.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb129840139fe.jpg'
+  - datetime: '2011-10-04T13:30:17Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39866e35eb129840139ff.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb129840139ff.jpg'
+comments:
+  - created_at: '2013-02-13T17:27:39Z'
+    text: |-
+      Prosthanthera 3
+      Gonocarpus tetragynus Raspwort 5
+      Lomandra 3
+      Hibbertia exutacies
+      Prickly Hibbertia 1
+      Bearded Heath 1
+      Glossodia major Waxlip Orchid 1
+      Grasses 1
+      Arthropodium strictum Chocolate Lilly 5
+    ref: 53b3984be35eb1298400da6a
+  - created_at: '2013-02-15T05:41:19Z'
+    text: 'Site quadrat (circle) preburn data recorded by wcmn Observers on 4th Oct 2011. Each line has a maximum of 3 fields which are scientific name, common name, and quadrat quantity for that plant species. One of the first 2 fields may be omitted from the record. '
+    ref: 53b3984be35eb1298400da72
+collections:
+  - wcmnpreburnedsites

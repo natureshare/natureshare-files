@@ -1,0 +1,40 @@
+id:
+  - name: Senostoma spp.
+    by: david_francis
+created_at: '2017-01-28T11:19:54Z'
+datetime: '2017-01-19T16:44:54+10:00'
+elevation: 118.2
+latitude: -38.679216
+location_name: 'Grey River VIC 3234, Australia'
+longitude: 143.833541
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-01-28T11:19:54Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-19T16:44:54Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588c7d21ed2a892daf000376.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588c7d21ed2a892daf000376.jpg'
+comments:
+  - created_at: '2017-01-30T05:28:49Z'
+    text: 'Compare http://www.bowerbird.org.au/observations/72370'
+    ref: 588ecf11ed2a89d10f001a37
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-30T05:33:01Z'
+    text: <em>Senostoma spp.</em> species id suggested
+    ref: 588ed00ded2a89d10f001a41
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-30T05:42:48Z'
+    text: 'Good photos on Brisbane Insects site. http://www.brisbaneinsects.com/brisbane_tachinids/LongTongue1.html'
+    ref: 588ed258ed2a89d10f001a45
+    name: David Francis
+    username: david_francis
+collections:
+  - grey_river

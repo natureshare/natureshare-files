@@ -1,0 +1,47 @@
+id:
+  - name: Pogona vitticeps
+    by: jamesbooth
+created_at: '2015-08-21T06:52:31Z'
+datetime: '2015-08-16T13:30:00+10:00'
+description: Sitting on a fence post by the road as we drove by.
+elevation: 31.9
+latitude: -34.140811
+location_name: 'Neds Corner VIC 3496, Australia'
+longitude: 141.327517
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2015-09-18T21:27:32Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '1970-01-03T00:06:45Z'
+    height: 1536
+    width: 1152
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55d6caafed2a89db810012fe.png'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55d6caafed2a89db810012fe.png'
+comments:
+  - created_at: '2015-08-21T07:07:38Z'
+    text: Magnificent creature.  Lovely photo of the dragon.
+    ref: 55d6ce3aed2a89db81001309
+    name: Suzanne Jones
+    username: suzanne
+  - replying_to: 55d6ce3aed2a89db81001309
+    created_at: '2015-08-21T07:08:31Z'
+    text: thx!
+    ref: 55d6ce6fed2a89db8100130b
+    name: Lydia Best
+    username: lydia
+  - replying_to: 55d6ce3aed2a89db81001309
+    created_at: '2015-08-21T07:09:09Z'
+    text: Everyone commented on how well fed it looked so that's pretty good
+    ref: 55d6ce95ed2a89db8100130d
+    name: Lydia Best
+    username: lydia
+  - created_at: '2015-08-22T04:47:02Z'
+    text: Beautiful scales!
+    ref: 55d7fec6ed2a89db810013d7
+    name: David Francis
+    username: david_francis
+collections:
+  - neds_corner_reptiles

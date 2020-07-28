@@ -1,0 +1,29 @@
+id:
+  - name: Mycena spp.
+    by: funkeytom
+created_at: '2015-05-21T10:50:27Z'
+datetime: '2015-05-16T11:52:00+10:00'
+description: On the Red Beak Track. Location approximate.
+elevation: 369.5
+latitude: -37.866521
+location_name: 'Staughton Vale VIC 3221, Australia'
+longitude: 144.244133
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2016-07-12T13:07:56Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-05-16T11:52:00Z'
+    height: 1650
+    width: 2200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/555db872ed2a897a0300016d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/555db872ed2a897a0300016d.jpg'
+comments:
+  - created_at: '2016-07-12T13:08:38Z'
+    text: 'For mushrooms, it helps to have a photo from on top, but also one closer up showing the lamellae and stipe, otherwise it is difficult to get to species.'
+    ref: 5784ebd6ed2a89e69f00061d
+    name: Tom May
+    username: funkeytom
+collections:
+  - brisbane_ranges_fungi

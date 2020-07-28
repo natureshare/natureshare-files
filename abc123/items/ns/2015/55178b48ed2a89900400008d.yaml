@@ -1,0 +1,34 @@
+id:
+  - name: Acanthiza chrysorrhoa
+    by: david_francis
+created_at: '2015-03-29T05:19:04Z'
+datetime: '2014-06-18T16:10:00+10:00'
+description: Unknown
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2015-03-29T06:19:03Z'
+license: CC BY 2.5 AU
+photos:
+  - {}
+  - datetime: '2014-06-18T23:10:14Z'
+    height: 602
+    width: 800
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55179331ed2a8990040000a4.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55179331ed2a8990040000a4.jpg'
+  - datetime: '2014-06-18T23:10:14Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55179932ed2a8990040000ad.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55179932ed2a8990040000ad.jpeg'
+comments:
+  - created_at: '2015-03-29T05:44:56Z'
+    text: "Hi Tom, It's great to see your interesting bird photographs. There is still a problem with your photos not displaying properly. I suspect that the software you are using may be the problem. Are you able to resize your images to no more than 1200 pixels wide before uploading them. 1024 pixel wide jpegs usually work well. \r\nCheers, David"
+    ref: 55179158ed2a8990040000a0
+    name: David Francis
+    username: david_francis
+  - created_at: '2015-03-29T06:12:44Z'
+    text: "Hi again, Tom. I cut down your picture and uploaded it again to see if it would display correctly on the observations page but it does not seem to have helped. Did you have a location for this observation? If so it seems to have been deleted. Could you please add the location again? Sorry.\r\nIt might also help if you keep the image filename shorter than 32 characters. (for example: Afton_St_Wetlands_and_Reserve_BEES_056.jpg may be too long (38 char?)"
+    ref: 551797dced2a8990040000a9
+    name: David Francis
+    username: david_francis

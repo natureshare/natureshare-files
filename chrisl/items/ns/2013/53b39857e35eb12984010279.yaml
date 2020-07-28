@@ -1,0 +1,30 @@
+id:
+  - name: Anogramma leptophylla
+created_at: '2013-07-01T14:37:24Z'
+datetime: '2008-05-04T04:24:00+10:00'
+description: Small annual fern growing under rock crevice with liverwort.
+latitude: -37.959109
+longitude: 143.197715
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-07-03T03:55:19Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2008-05-04T04:24:00Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39868e35eb12984014039.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014039.jpg'
+comments:
+  - created_at: '2014-11-11T10:55:49Z'
+    text: Would this be regarded as Vic Volcanic Plains?
+    ref: 5461eb35e35eb11f3c000025
+    name: Russell Best
+    username: russell
+  - replying_to: 5461eb35e35eb11f3c000025
+    created_at: '2014-11-11T11:02:09Z'
+    text: 'Yes, definately.'
+    ref: 5461ecb1e35eb1ef1d00004b
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - victorian_volcanic_plains_native_plants

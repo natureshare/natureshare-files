@@ -1,0 +1,50 @@
+created_at: '2014-11-09T08:40:39Z'
+datetime: '2014-11-07T17:17:32+10:00'
+description: Unknown at this stage. One plant growing  on a rock face.
+latitude: -37.251316
+longitude: 142.544479
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-11-09T08:42:47Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-11-07T17:17:32Z'
+    height: 3319
+    width: 1744
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/545f2887e35eb1ecf800001c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545f2887e35eb1ecf800001c.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2014-11-09T10:43:29Z'
+    text: Looks like Xanthosia huegelii to me.
+    ref: 545f4551e35eb1b8a0000017
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 545f4551e35eb1b8a0000017
+    created_at: '2014-11-09T11:28:08Z'
+    text: Thanks Chris. I didn't know where to start. Your Xanthosia suggestion led me to the Xanthosia species known at the Grampians and X. tasmanica looks a good possibility too. X. huegellii flowers seem to be yellowish whereas X. tasmanica seems more pinkish.
+    ref: 545f4fc8e35eb1a43b000005
+    name: Russell Best
+    username: russell
+  - replying_to: 545f4fc8e35eb1a43b000005
+    created_at: '2014-11-09T11:46:27Z'
+    text: X. tasmanica from Anglesea in not very hairy and leaf more divided I think. Worth a look though.
+    ref: 545f5413e35eb1a43b00000c
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 545f5413e35eb1a43b00000c
+    created_at: '2014-11-09T12:06:13Z'
+    text: 'The pic here shows lower leaves that are glabrescent while the upper leaves (new growth?) are very hairy. This seems to match with pics I can find of tasmanica. It is a new plant so hard to tell. All this would fit with both huegellii or tasmanica using the FoV key. I didn''t take the best of pics but I''d say the umbel is 2- or 3-flowered, which tends towards tasmanica perhaps (although huegellii is also 3-6-flowered!).'
+    ref: 545f58b5e35eb1baff000008
+    name: Russell Best
+    username: russell
+  - replying_to: 545f58b5e35eb1baff000008
+    created_at: '2014-11-09T23:22:53Z'
+    text: "Here is a useful paper: https://www.rbgsyd.nsw.gov.au/__data/assets/pdf_file/0006/73194/Tel8Hae441.pdf\r\nThe key weighs heavily on leaflet shape, with your photo tending more towards X. tasmanica I would say. A correct assignment would be to call it Xanthosia pusilla spp. agg."
+    ref: 545ff74de35eb10c4f000001
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - grampians_np_plants

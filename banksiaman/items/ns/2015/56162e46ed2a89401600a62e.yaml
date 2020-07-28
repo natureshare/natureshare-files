@@ -1,0 +1,40 @@
+id:
+  - Salvia spp.
+created_at: '2015-10-08T08:50:14Z'
+datetime: '2015-10-08T10:14:59+10:00'
+latitude: -38.393802
+longitude: 142.464318
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-10-16T07:42:19Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-10-08T10:14:59Z'
+    height: 3599
+    width: 2687
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56162e65ed2a890d95000473.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56162e65ed2a890d95000473.jpg'
+tags:
+  - flower
+  - weed
+comments:
+  - created_at: '2015-10-08T08:56:35Z'
+    text: Beach Salvia -  Salvia africana-lutea not yet listed
+    ref: 56162fc3ed2a89401600a638
+    name: Kevin Sparrow
+    username: banksiaman
+  - created_at: '2015-10-08T10:22:17Z'
+    text: 'Hi Kevin. If this plant has truly naturalised, it would be good to collect material and send to the herbarium. Perhaps you have already. Will add to the database.'
+    ref: 561643d9ed2a89401600a63a
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 561643d9ed2a89401600a63a
+    created_at: '2015-10-09T01:05:09Z'
+    text: It has very much naturalised in Warrnambool along Thunder Point Coastal Reserve. The Green Army has been working on removing it over the past few weeks. Still plenty left though.
+    ref: 561712c5ed2a89401600a65b
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - plants_of_warrnambool_and_district

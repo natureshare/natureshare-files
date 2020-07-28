@@ -1,0 +1,44 @@
+id:
+  - name: Apolinus lividigaster
+    by: david_francis
+created_at: '2017-04-26T13:19:48Z'
+datetime: '2017-04-26T23:18:00+10:00'
+elevation: 2.1
+latitude: -38.039963
+location_name: 'Chelsea Heights VIC 3196, Australia'
+longitude: 145.129447
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2017-04-29T22:28:40Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-04-18T00:36:19Z'
+    height: 3628
+    width: 3822
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59009ef1ed2a89e54800010f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59009ef1ed2a89e54800010f.JPG'
+comments:
+  - created_at: '2017-04-27T01:04:12Z'
+    text: Apolinus lividigaster
+    ref: 5901438ced2a893d8c000754
+    name: Vuk Vojis
+    username: vuk_2
+  - created_at: '2017-04-27T05:55:04Z'
+    text: 'Another interesting, less-known species. Apolinus lividigaster now available in NatureShare database. Edit observation to add/change the id.'
+    ref: 590187b8ed2a89348600000d
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-04-27T05:56:13Z'
+    text: Great shots of the different stages!
+    ref: 590187fded2a893d8c000877
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-04-29T22:30:10Z'
+    text: Id by Vuk Vojis
+    ref: 590513f2ed2a893d8c000ff2
+    name: David Francis
+    username: david_francis
+collections:
+  - edithvale_insects

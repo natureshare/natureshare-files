@@ -1,0 +1,38 @@
+id:
+  - Ganoderma spp.
+created_at: '2018-07-06T20:27:39Z'
+datetime: '2018-07-02T15:53:13+10:00'
+latitude: -38.471883
+longitude: 143.97661
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-07-06T20:31:36Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-07-02T15:53:13Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b3fd0c0ed2a892807000037.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b3fd0c0ed2a892807000037.jpg'
+  - datetime: '2018-07-02T15:53:02Z'
+    height: 2560
+    width: 1920
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b3fd104ed2a89c6aa000030.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b3fd104ed2a89c6aa000030.jpg'
+comments:
+  - created_at: '2018-07-07T02:11:29Z'
+    text: 'This is the Artist''s Conk or Artist''s bracket, Ganoderma applanatum. It is not yet in the database but is on ALA'
+    ref: 5b402151ed2a8903a0001dfc
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-07-07T14:43:51Z'
+    text: <em>Ganoderma spp.</em> species id suggested
+    ref: 5b40d1a7ed2a8903a000216c
+    name: 'Fletcher Grant '
+    username: fletch
+  - created_at: '2018-07-08T05:01:14Z'
+    text: Species added to database
+    ref: 5b419a9aed2a8903a00023b2
+    name: Cathy Powers
+    username: koolah

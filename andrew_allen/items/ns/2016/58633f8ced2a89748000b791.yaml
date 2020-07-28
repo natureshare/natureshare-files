@@ -1,0 +1,31 @@
+id:
+  - Apoidea spp.
+created_at: '2016-12-28T04:33:34Z'
+datetime: '2016-12-28T13:15:00+10:00'
+description: This blue colour on this bee was far more vibrant than the photo is showing. Megachile?
+latitude: -37.728518
+longitude: 144.834458
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-12-29T22:19:47Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 1390
+    width: 2086
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58633f9eed2a89d73e00027d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58633f9eed2a89d73e00027d.jpg'
+comments:
+  - created_at: '2016-12-28T10:36:48Z'
+    text: Megachidae sp. a possibility but side view needed for positive id.
+    ref: 586395c0ed2a89748000b874
+    name: David Francis
+    username: david_francis
+  - replying_to: 586395c0ed2a89748000b874
+    created_at: '2016-12-28T11:32:56Z'
+    text: Unfortunately this is the only photo I got. It was quite fast!
+    ref: 5863a2e8ed2a89748000b886
+    name: Andrew Allen
+    username: andrew_allen
+collections:
+  - brimbank_park_insects_and_spiders

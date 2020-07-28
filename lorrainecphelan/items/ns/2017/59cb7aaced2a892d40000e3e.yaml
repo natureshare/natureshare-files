@@ -1,0 +1,32 @@
+id:
+  - Tubifera ferruginosa
+created_at: '2017-09-27T10:18:53Z'
+datetime: '2017-09-27T20:17:00+10:00'
+description: 'Slime mould and moss, on a fallen eucalypt.'
+elevation: 74.3
+latitude: -38.091615
+location_name: 'Heywood VIC 3304, Australia'
+longitude: 141.735733
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-09-27T22:58:07Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 1198
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59cb7ab3ed2a8939840002ed.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59cb7ab3ed2a8939840002ed.jpg'
+comments:
+  - created_at: '2017-09-27T11:19:36Z'
+    text: 'Lorraine, do you think it could be Tubifera (ferruginosa) ? Compare: http://www.bowerbird.org.au/observations/70601'
+    ref: 59cb8948ed2a892d40000e5d
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-09-27T22:58:22Z'
+    text: Thankyou David.
+    ref: 59cc2d0eed2a892d40000f64
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - homerton_and_milltown_fungi

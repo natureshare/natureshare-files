@@ -1,0 +1,45 @@
+created_at: '2018-08-22T11:42:37Z'
+datetime: '2014-06-12T12:30:34+10:00'
+elevation: 166.4
+latitude: -38.549256
+location_name: 'Lorne VIC 3232, Australia'
+longitude: 143.937173
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-09-04T01:50:42Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-06-12T12:30:34Z'
+    height: 1972
+    width: 2128
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b7d4bc2ed2a8928070000af.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b7d4bc2ed2a8928070000af.jpg'
+  - datetime: '2014-06-12T12:30:57Z'
+    height: 2040
+    width: 2295
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b8480b9ed2a89402b0000a4.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b8480b9ed2a89402b0000a4.jpg'
+  - datetime: '2014-06-08T15:19:03Z'
+    height: 1479
+    width: 1113
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b8de4f4ed2a891efe0000c5.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b8de4f4ed2a891efe0000c5.jpg'
+comments:
+  - created_at: '2018-08-22T11:50:52Z'
+    text: 'This species was seen at Mt Worth by the Fungi group a week earlier. And lo and behold was seen again in the Lorne area on the mentioned date and hasn''t been seen since. It grows on the remains of old dead stipes on the trunk of the soft tree fern Dicksonia antartica. It was suggested that it may belong to the Beenakia genus but at this stage it is only speculation. The size was about  30 by 40mm. '
+    ref: 5b7d4e1ced2a89a7f10073b3
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-27T12:25:19Z'
+    text: 'The Mt Worth specimen referred to was older and darker in colour and the spines have a more feathered look (or that could be just the photo quality). It had a pale brown spore print, hence the link to Beenakia. Other spined resupinate fungi like Steccherinum have white spores. It would be nice to track down at least a Family name for this very interesting specimen.'
+    ref: 5b83edafed2a890fa0000284
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-09-04T01:52:00Z'
+    text: The third image is the  Mt Worth specimen.
+    ref: 5b8de540ed2a89a1f0000077
+    name: zeke1944
+    username: zeke1944
+collections:
+  - otway_ranges_-_fungi

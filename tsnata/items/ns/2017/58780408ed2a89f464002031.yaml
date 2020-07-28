@@ -1,0 +1,41 @@
+id:
+  - name: Austrolestes psyche
+    by: david_francis
+created_at: '2017-01-12T22:35:02Z'
+datetime: '2017-01-12T10:24:17+10:00'
+elevation: 8.2
+latitude: -37.797393
+location_name: 'Footscray VIC 3011, Australia'
+longitude: 144.914897
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-01-12T22:35:02Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-12T10:24:17Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58780426ed2a892daf000319.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58780426ed2a892daf000319.jpg'
+comments:
+  - created_at: '2017-01-28T03:28:07Z'
+    text: 'Female as per http://photos.rnr.id.au/2013/11/01/damselfly_Austrolestes_psyche_f_Glenelg131101-3566.jpg'
+    ref: 588c0fc7ed2a899964000001
+    name: Chris Clarke
+    username: cclarke
+  - created_at: '2017-02-01T03:55:53Z'
+    text: <em>Austrolestes psyche</em> species id suggested
+    ref: 58915c49ed2a89d10f002043
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-01T03:56:10Z'
+    text: id by Chris Clarke
+    ref: 58915c5aed2a89d10f002044
+    name: David Francis
+    username: david_francis
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong

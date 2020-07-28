@@ -1,0 +1,38 @@
+id:
+  - name: Pomaderris spp.
+    by: russell
+created_at: '2014-09-21T05:56:26Z'
+datetime: '2014-09-01T17:14:43+10:00'
+latitude: -38.848515
+longitude: 146.189122
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-09-28T08:55:58Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-01T17:14:43Z'
+    height: 4288
+    width: 2848
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/541e688ae35eb1d53d00009b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/541e688ae35eb1d53d00009b.JPG'
+tags:
+  - leaves
+comments:
+  - created_at: '2014-09-21T08:50:55Z'
+    text: Possibly Pomaderris sp.
+    ref: 541e916fe35eb158b1000005
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2014-09-21T09:23:36Z'
+    text: I agree but which one?
+    ref: 541e9918e35eb158b1000008
+    name: Kevin Sparrow
+    username: banksiaman
+  - created_at: '2014-09-28T08:57:57Z'
+    text: Possibly P. paniculosa subsp. paralia but leaves seem too sparse.
+    ref: 5427cd95e35eb192b9000010
+    name: Russell Best
+    username: russell
+collections:
+  - wilsons_prom_np_plants

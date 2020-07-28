@@ -1,0 +1,28 @@
+created_at: '2012-11-23T12:23:12Z'
+datetime: '2011-10-04T12:50:09+10:00'
+description: site4 East and West
+latitude: -36.402078
+longitude: 143.627176
+non_identifying_photo: true
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2013-02-15T05:47:06Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-10-04T12:50:09Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39866e35eb12984013a08.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013a08.jpg'
+  - datetime: '2011-10-04T12:50:14Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39866e35eb12984013a09.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013a09.jpg'
+comments:
+  - created_at: '2013-02-15T05:44:18Z'
+    text: |-
+      Fringe Lilly 1
+      Grasses 2
+    ref: 53b3984be35eb1298400da77
+  - created_at: '2013-02-15T05:35:09Z'
+    text: Site quadrat (circle) preburn data recorded by wcmn Observers on 4th Oct 2011
+    ref: 53b3984be35eb1298400da70
+collections:
+  - wcmnpreburnedsites

@@ -1,0 +1,39 @@
+id:
+  - Grevillea alpina
+created_at: '2017-09-09T08:39:08Z'
+datetime: '2017-09-09T10:27:04+10:00'
+description: The Junortoun Apricot form of the Cat's Claw Grevillea
+elevation: 221.5
+latitude: -36.783116
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.365962
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-09-09T13:31:20Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-09-09T10:27:04Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59b39977ed2a89398400021f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59b39977ed2a89398400021f.JPG'
+  - datetime: '2017-09-09T10:23:52Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59b3991ded2a89398400021b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59b3991ded2a89398400021b.JPG'
+tags:
+  - flowers-orange
+  - shrub-compact
+  - shrub-small
+comments:
+  - created_at: '2017-09-09T12:02:28Z'
+    text: Very attractive form!
+    ref: 59b3d854ed2a892c74001ff1
+    name: David Francis
+    username: david_francis
+collections:
+  - junortoun_flora

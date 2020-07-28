@@ -1,0 +1,44 @@
+id:
+  - Thelymitra nuda
+created_at: '2014-10-12T13:42:19Z'
+datetime: '2014-10-11T14:38:36+10:00'
+latitude: -37.194726
+location_name: 'High Camp VIC 3764, Australia'
+longitude: 144.875362
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-10-13T10:43:11Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-11T14:38:36Z'
+    height: 4000
+    width: 3000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/543a853be35eb1314d0000c9.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/543a853be35eb1314d0000c9.JPG'
+  - datetime: '2014-10-11T14:46:12Z'
+    height: 4000
+    width: 3000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/543bac70e35eb184d5000143.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/543bac70e35eb184d5000143.JPG'
+  - datetime: '2014-10-11T14:38:09Z'
+    height: 3000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/543bac99e35eb184d5000146.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/543bac99e35eb184d5000146.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2014-10-12T14:30:20Z'
+    text: 'I don''t suppose you have a close-up of the flower? The blue thelymitra are very difficult to ID. What feature(s) made you ID it as T. nuda? '
+    ref: 543a907ce35eb1314d0000df
+    name: Russell Best
+    username: russell
+  - replying_to: 543a907ce35eb1314d0000df
+    created_at: '2014-10-14T12:25:46Z'
+    text: 'I have attached a close up, but it is blurred. The reason I went for T. nuda was that it did not have the spots of T. ixioides and the stem seems too fine for T. aristata.'
+    ref: 543d164ae35eb1314d000243
+    name: Annemaree Docking
+    username: anni75
+collections:
+  - trust_for_nature_property_high_camp_spring_2014

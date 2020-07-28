@@ -1,0 +1,38 @@
+id:
+  - Mutusca brevicornis
+created_at: '2016-12-09T10:06:14Z'
+datetime: '2015-10-09T17:30:00+10:00'
+description: 'Maybe some type of assassin bug, or maybe Alydidae...?'
+latitude: -37.733361
+longitude: 144.824379
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-12-09T11:22:09Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 3780
+    width: 2520
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584a80f6ed2a89d73e000223.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584a80f6ed2a89d73e000223.jpg'
+  - height: 3456
+    width: 5184
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584a9360ed2a89d73e000224.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584a9360ed2a89d73e000224.jpg'
+comments:
+  - created_at: '2016-12-09T11:08:33Z'
+    text: 'Great observation, Andrew. The first Alydid on NatureShare! Most likely Mutusca brevicornis as this is the only Alydid recorded on the ALA in the Melbourne area. Features, e.g. antenna checks out.'
+    ref: 584a90b1ed2a897480007cb0
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-12-09T11:23:25Z'
+    text: Thanks David. I added a second picture showing a top down view as well.
+    ref: 584a942ded2a897480007cc5
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 584a942ded2a897480007cc5
+    created_at: '2016-12-09T12:05:34Z'
+    text: Great - I was wishing to see the top.
+    ref: 584a9e0eed2a897480007ce2
+    name: David Francis
+    username: david_francis

@@ -1,0 +1,37 @@
+id:
+  - Caladenia cucullata
+created_at: '2016-10-13T10:22:37Z'
+datetime: '2016-10-13T18:42:36+10:00'
+description: 'Many flowering at the moment, 3 photos.'
+elevation: 226
+latitude: -36.783065
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.369975
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-13T22:37:32Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-10-13T18:42:36Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57ff61eced2a89d73e00010a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57ff61eced2a89d73e00010a.JPG'
+  - primary: true
+    datetime: '2016-10-13T18:27:01Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57ff5e4ded2a89d73e000107.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57ff5e4ded2a89d73e000107.JPG'
+  - datetime: '2016-10-13T18:26:40Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57ff5e48ed2a892daf00012c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57ff5e48ed2a892daf00012c.JPG'
+tags:
+  - flower-orchid
+  - flower-white
+collections:
+  - junortoun_flora

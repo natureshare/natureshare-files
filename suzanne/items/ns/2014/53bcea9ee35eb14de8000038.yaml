@@ -1,0 +1,40 @@
+id:
+  - name: Cerceris antipodes
+created_at: '2014-07-09T07:09:18Z'
+datetime: '2013-02-09T15:42:46+10:00'
+description: This wasp is pictured on the foliage of a carrot plant.
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-03-05T06:37:43Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-02-09T15:42:46Z'
+    height: 1158
+    width: 1804
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53bcea9de35eb14de8000035.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53bcea9de35eb14de8000035.JPG'
+  - datetime: '2013-02-09T15:40:16Z'
+    height: 1913
+    width: 2886
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53bcea9de35eb14de8000036.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53bcea9de35eb14de8000036.JPG'
+  - datetime: '2013-02-09T15:38:34Z'
+    height: 1331
+    width: 1942
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53bcea9de35eb14de8000037.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53bcea9de35eb14de8000037.JPG'
+tags:
+  - wasp
+comments:
+  - created_at: '2014-07-09T07:11:29Z'
+    text: This wasp was identified by Ken Walker as Cerceris antipodes.
+    ref: 53bceb21e35eb14de800003c
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains

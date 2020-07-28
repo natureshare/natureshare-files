@@ -1,0 +1,36 @@
+id:
+  - Plantago lanceolata
+created_at: '2014-11-05T09:59:22Z'
+datetime: '2014-10-11T14:22:13+10:00'
+elevation: 44
+latitude: -38.356785
+location_name: 'Warrnambool VIC 3280, Australia'
+longitude: 142.52955
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-11-06T01:06:16Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-11T14:22:13Z'
+    height: 1748
+    width: 1487
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5459f4fae35eb1fc6f000067.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5459f4fae35eb1fc6f000067.jpg'
+tags:
+  - flower
+  - weed
+comments:
+  - created_at: '2014-11-05T11:59:16Z'
+    text: 'Looks like the weed, Plantago lanceolata.'
+    ref: 545a1114e35eb1fc6f000089
+    name: David Francis
+    username: david_francis
+  - replying_to: 545a1114e35eb1fc6f000089
+    created_at: '2014-11-06T01:06:48Z'
+    text: 'Thanks David, I wasn''t sure which one'
+    ref: 545ac9a8e35eb1be820001f9
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - plants_of_tozer_reserve_near_warrnambool

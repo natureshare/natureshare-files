@@ -1,0 +1,39 @@
+id:
+  - name: Isopeda spp.
+created_at: '2014-07-14T07:12:48Z'
+datetime: '2012-11-22T15:55:37+10:00'
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-07-14T07:27:46Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-11-22T15:55:37Z'
+    height: 2432
+    width: 3648
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53c38639e35eb1025d00003d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53c38639e35eb1025d00003d.jpg'
+tags:
+  - spider
+comments:
+  - created_at: '2014-07-14T07:14:17Z'
+    text: Identified by Ken Walker on Bowerbird website.
+    ref: 53c38349e35eb12157000028
+    name: Suzanne Jones
+    username: suzanne
+  - created_at: '2014-07-14T07:31:13Z'
+    text: 'The above comment is not relevant to this particular photo, but I believe this spider is also Isopeda spp.'
+    ref: 53c38741e35eb1215700002c
+    name: Suzanne Jones
+    username: suzanne
+  - created_at: '2017-09-02T06:23:03Z'
+    text: Delena cancerides female social huntsman  id. David Hirst
+    ref: 59aa4e47ed2a89daa0001390
+    name: David Hirst
+    username: davidh
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains

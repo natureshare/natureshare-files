@@ -1,0 +1,40 @@
+id:
+  - Yoyetta abdominalis
+created_at: '2017-01-13T09:36:23Z'
+datetime: '2016-12-23T22:46:29+10:00'
+description: Not sure of this ID but it looks like a post by D.F.
+latitude: -37.806588
+longitude: 144.297087
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-01-13T09:36:23Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-12-23T22:46:29Z'
+    height: 1460
+    width: 2533
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58789f38ed2a892daf00031a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58789f38ed2a892daf00031a.JPG'
+tags:
+  - insect
+comments:
+  - created_at: '2017-01-13T10:15:32Z'
+    text: Nice photo.
+    ref: 5878a8c4ed2a89f464002194
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2017-01-13T11:37:14Z'
+    text: 'Yes, it looks right for Y. abdominalis.'
+    ref: 5878bbeaed2a89f4640021bc
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-13T23:41:47Z'
+    text: Thanks to you both.
+    ref: 587965bbed2a89f464002276
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brisbane_ranges_insects

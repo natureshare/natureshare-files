@@ -1,0 +1,50 @@
+id:
+  - name: Nyctophilus spp.
+    by: lconole
+created_at: '2018-05-12T12:23:38Z'
+datetime: '2018-05-12T21:37:25+10:00'
+description: Small bat under our veranda. Slightly larger than a mouse in size.
+elevation: 199.4
+latitude: -36.778256
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381049
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-05-17T01:17:37Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-05-12T21:37:25Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5af6db6bed2a897570000002.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5af6db6bed2a897570000002.JPG'
+  - datetime: '2018-05-12T21:37:47Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5af6db9bed2a89b047000003.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5af6db9bed2a89b047000003.JPG'
+tags:
+  - bat
+  - bat-small
+  - microbat
+comments:
+  - created_at: '2018-05-15T01:51:05Z'
+    text: 'Very fuzzy picture which makes ID a little tricky.  It''s clearly a long-eared bat (Nyctophilus sp.), and although it''s hard to tell from the photo it looks not to have a y-shaped noseleaf. That with it''s warm brown colouration suggests that in your area it''s most likely Gould''s Long-eared Bat (Nyctophilus gouldi).'
+    ref: 5afa3d09ed2a89fa06001529
+    name: Lawrie Conole
+    username: lconole
+  - replying_to: 5afa3d09ed2a89fa06001529
+    created_at: '2018-05-16T11:08:20Z'
+    text: 'Thanks Lawrie. Yes, low light didn''t help with the photo.'
+    ref: 5afc1124ed2a89fa06001cd1
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 5afc1124ed2a89fa06001cd1
+    created_at: '2018-05-17T00:43:23Z'
+    text: I'd go with Nyctophilus sp. as I don't think it's definitively verifiable from the photo.
+    ref: 5afcd02bed2a89fa06001ebe
+    name: Lawrie Conole
+    username: lconole
+collections:
+  - wildlife_of_junortoun

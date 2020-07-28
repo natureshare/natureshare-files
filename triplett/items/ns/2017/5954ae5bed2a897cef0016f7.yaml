@@ -1,0 +1,47 @@
+id:
+  - name: Netelia spp.
+    by: david_francis
+created_at: '2017-06-29T07:42:25Z'
+datetime: '2017-01-05T06:54:09+10:00'
+description: wasp on Acacia paradoxa
+elevation: 162.6
+latitude: -37.642032
+location_name: 'Greenvale VIC 3059, Australia'
+longitude: 144.865029
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-06-29T23:13:17Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-01-05T06:54:09Z'
+    height: 489
+    width: 640
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5954ae61ed2a8939840000b8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5954ae61ed2a8939840000b8.jpg'
+tags:
+  - adult
+comments:
+  - created_at: '2017-06-29T11:30:43Z'
+    text: <em>Dicamptus spp.</em> species id suggested
+    ref: 5954e4e3ed2a897cef0017d0
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-06-29T22:16:43Z'
+    text: Netelia producta???
+    ref: 59557c4bed2a897cef001866
+    name: Andrew Allen
+    username: andrew_allen
+  - created_at: '2017-06-29T23:05:11Z'
+    text: Thanks Andrew. I've changed the id
+    ref: 595587a7ed2a897cef0018ae
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-06-29T23:16:13Z'
+    text: 'See comment for https://natureshare.org.au/observations/546e06bae35eb14406000010  According to Ken Walker there are many species/genera with this shape and appearance which can be separated by the wing venation.'
+    ref: 59558a3ded2a897cef0018bd
+    name: David Francis
+    username: david_francis
+collections:
+  - woodlands_historic_park_insects_and_spiders
+  - woodlands_historic_park_-_hymenoptera

@@ -1,0 +1,33 @@
+id:
+  - Delias aganippe
+created_at: '2017-04-02T05:12:36Z'
+datetime: '2017-03-30T17:45:00+10:00'
+description: 'Ongoing observation, see http://natureshare.org.au/collections/58e2d2e1ed2a8948650003e0'
+latitude: -37.648512
+longitude: 144.858555
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-04-03T23:04:20Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 2511
+    width: 4464
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58e087c1ed2a8944100000b0.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e087c1ed2a8944100000b0.jpg'
+comments:
+  - created_at: '2017-04-02T07:46:26Z'
+    text: 'Andrew, it would work well to see this series of photos together in a new Collection. You can set the collection so that only you can add observations.'
+    ref: 58e0ac52ed2a89b6470000a8
+    name: David Francis
+    username: david_francis
+  - replying_to: 58e0ac52ed2a89b6470000a8
+    created_at: '2017-04-03T23:06:02Z'
+    text: 'Thanks David, good idea.'
+    ref: 58e2d55aed2a8998e6000004
+    name: Andrew Allen
+    username: andrew_allen
+collections:
+  - woodlands_historic_park_insects_and_spiders
+  - delias_aganippe_caterpillar_development
+  - woodlands_historic_park_-_lepidoptera

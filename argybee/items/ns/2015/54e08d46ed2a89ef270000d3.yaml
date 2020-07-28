@@ -1,0 +1,39 @@
+id:
+  - name: Rhuma sp. (3)
+    by: russell
+created_at: '2015-02-15T12:12:54Z'
+datetime: '2014-10-25T11:02:00+10:00'
+description: 'A medium sized moth with tints of olive and tan on black, white and brown. Fine antennae suggests female? About 30mm long. Attracted to lights at night at the local school.'
+latitude: -37.9
+longitude: 145.31
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2015-02-20T00:35:33Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-10-25T11:02:21Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54e08d45ed2a89ef270000d1.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e08d45ed2a89ef270000d1.jpg'
+  - height: 512
+    width: 512
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54e08d45ed2a89ef270000d2.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e08d45ed2a89ef270000d2.jpg'
+tags:
+  - moth
+comments:
+  - created_at: '2015-02-19T15:29:30Z'
+    text: ID by Marilyn Hewish who added " I think this not R. argyraspis but the undescribed Rhuma sp. (3). MoV4."
+    ref: 54e6015aed2a8987b7000443
+    name: Russell Best
+    username: russell
+  - replying_to: 54e6015aed2a8987b7000443
+    created_at: '2015-02-20T00:35:01Z'
+    text: Thanks Russell and Marilyn.
+    ref: 54e68135ed2a89d99000053d
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_lepidoptera

@@ -1,0 +1,30 @@
+id:
+  - Luzula acutifolia subsp. acutifolia
+created_at: '2015-02-01T12:33:24Z'
+datetime: '2015-01-26T16:19:00+10:00'
+latitude: -36.844952
+longitude: 147.343369
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-02-02T04:21:42Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-01-26T16:19:00Z'
+    height: 3687
+    width: 1871
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54ce1d13ed2a897151000478.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ce1d13ed2a897151000478.jpg'
+  - datetime: '2015-01-26T16:19:15Z'
+    height: 1363
+    width: 1928
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54ce1d13ed2a897151000479.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ce1d13ed2a897151000479.jpg'
+comments:
+  - created_at: '2015-02-02T04:26:13Z'
+    text: ID by Neville Walsh.
+    ref: 54cefc65ed2a8971510004ab
+    name: Russell Best
+    username: russell
+collections:
+  - bogong_high_plains

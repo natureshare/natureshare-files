@@ -1,0 +1,51 @@
+id:
+  - name: Gymnopus sp. nov. sensu Gates & Ratkowsky(1) 2016
+    by: 249pbr
+created_at: '2018-07-29T08:57:03Z'
+datetime: '2018-07-29T18:48:00+10:00'
+description: Gymnopus Pink Furry
+elevation: 736.5
+latitude: -37.429594
+location_name: 'Lerderderg VIC 3458, Australia'
+longitude: 144.306652
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-07-29T09:00:03Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 2870
+    width: 2608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b5d7f58ed2a892807000075.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b5d7f58ed2a892807000075.jpg'
+tags:
+  - small-fungi
+comments:
+  - created_at: '2018-07-29T10:52:00Z'
+    text: 'This is an interesting find, the gill colour had me wondering for a while but is does seem to fit well. The gills appear to be reflecting a bit of colour but I think they are more white than they look in the image which is good.  Could this be added to the dataset please either as Gymnopus spp or preferrably as Gymnopus sp. nov. sensu Gates & Ratkowsky(1) 2016 in the same way the Xylaria "Spikey" was set up.'
+    ref: 5b5d9c50ed2a8903a00087ea
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-07-29T11:58:07Z'
+    text: Preferred name added to dataset.
+    ref: 5b5dabcfed2a89382a00006e
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2018-07-29T12:05:08Z'
+    text: <em>Gymnopus sp. nov. sensu Gates & Ratkowsky(1) 2016</em> species id suggested
+    ref: 5b5dad74ed2a89382a000072
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-07-29T12:09:14Z'
+    text: 'Thanks Cathy, last time David added the "tag" name to the Common name field as well, in this instance it would be "Pink Furry". There are so many well known but unnamed fungi species out there but this allows us to separate them out while we wait for the taxonomy to catch up.'
+    ref: 5b5dae6aed2a8903a0008874
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-07-30T00:41:45Z'
+    text: Common name added.
+    ref: 5b5e5ec9ed2a896055000001
+    name: Cathy Powers
+    username: koolah
+collections:
+  - wombat_forest_-_fungi

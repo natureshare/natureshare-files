@@ -1,0 +1,29 @@
+id:
+  - Thyridia repens
+created_at: '2017-04-07T13:24:17Z'
+datetime: '2017-04-07T10:10:17+10:00'
+elevation: 8.3
+latitude: -37.797303
+location_name: 'Footscray VIC 3011, Australia'
+longitude: 144.915015
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-04-07T13:24:17Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-04-07T10:10:17Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58e790bfed2a89a81f0000b8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e790bfed2a89a81f0000b8.jpg'
+  - datetime: '2017-04-07T10:10:55Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58e790c4ed2a89e5480000be.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e790c4ed2a89e5480000be.jpg'
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong

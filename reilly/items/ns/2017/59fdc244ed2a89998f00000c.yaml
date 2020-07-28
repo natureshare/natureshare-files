@@ -1,0 +1,34 @@
+id:
+  - Mycena interrupta
+created_at: '2017-11-04T13:36:04Z'
+datetime: '2017-05-21T09:26:29+10:00'
+latitude: -37.750806
+longitude: 145.716583
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-11-05T04:37:49Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-05-21T09:26:29Z'
+    height: 3024
+    width: 4032
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59fdc24ded2a8939840005e8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59fdc24ded2a8939840005e8.jpg'
+  - datetime: '2017-05-21T09:27:20Z'
+    height: 3024
+    width: 4032
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59fdc2d8ed2a8939840005ea.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59fdc2d8ed2a8939840005ea.jpg'
+comments:
+  - created_at: '2017-11-04T19:58:54Z'
+    text: The fungi is Mycena interrupta.
+    ref: 59fe1bfeed2a89998f00004f
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 59fe1bfeed2a89998f00004f
+    created_at: '2017-11-05T04:38:16Z'
+    text: 'Hi Cathy, thanks! :)'
+    ref: 59fe95b8ed2a89f76c0000b4
+    name: 'Reilly '
+    username: reilly

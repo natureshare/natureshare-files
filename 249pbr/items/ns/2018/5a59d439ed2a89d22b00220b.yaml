@@ -1,0 +1,38 @@
+id:
+  - Craniosara pyrotricha
+created_at: '2018-01-13T09:50:35Z'
+datetime: '2017-11-23T22:01:12+10:00'
+description: See two more images - Thanks Cathy
+latitude: -37.224434
+longitude: 144.309678
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-01-13T10:14:16Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-11-23T22:01:12Z'
+    height: 1482
+    width: 840
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a59d45ced2a890e9e00007b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a59d45ced2a890e9e00007b.jpg'
+  - datetime: '2017-11-23T22:00:00Z'
+    height: 427
+    width: 546
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a59d43ced2a892d15000095.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a59d43ced2a892d15000095.jpg'
+  - datetime: '2017-11-23T22:01:44Z'
+    height: 630
+    width: 1062
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a59d43eed2a892d15000096.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a59d43eed2a892d15000096.jpg'
+comments:
+  - created_at: '2018-01-13T10:00:22Z'
+    text: Species added.
+    ref: 5a59d8b6ed2a89d22b002241
+    name: Cathy Powers
+    username: koolah
+collections:
+  - drummond_nearby_forests_-_moths

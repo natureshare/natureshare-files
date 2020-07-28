@@ -1,0 +1,44 @@
+id:
+  - Mirounga leonina
+created_at: '2014-09-15T02:31:36Z'
+datetime: '2014-09-14T18:02:26+10:00'
+description: A rare visitor to Victoria. (according to Mark from The Zoo)
+elevation: 4.1
+latitude: -38.686769
+location_name: 'B100, Grey River VIC 3221, Australia'
+longitude: 143.840488
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-09-15T02:36:25Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-14T18:02:26Z'
+    height: 1382
+    width: 1843
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54164f88e35eb1d94b000015.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54164f88e35eb1d94b000015.jpg'
+  - datetime: '2014-09-14T18:03:59Z'
+    height: 1382
+    width: 1844
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54164f88e35eb1d94b000016.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54164f88e35eb1d94b000016.jpg'
+comments:
+  - created_at: '2014-09-15T04:26:51Z'
+    text: Great.  Love the 'sleepy face' photo.
+    ref: 54166a8be35eb1252e000020
+    name: Suzanne Jones
+    username: suzanne
+  - created_at: '2014-09-16T08:55:46Z'
+    text: Very interesting record and great photos!
+    ref: 5417fb12e35eb173a60000d1
+    name: David Francis
+    username: david_francis
+  - replying_to: 5417fb12e35eb173a60000d1
+    created_at: '2014-09-17T11:23:46Z'
+    text: 'The seal was first observed on 14/09, and gone on 16/09 morning. We rang Wildlife Victoria. Mark from Melbourne Zoo Marine Response unit contacted us, and identified the seal and told us that it was a healthy male seal.'
+    ref: 54196f42e35eb1778e000040
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - grey_river

@@ -1,0 +1,30 @@
+id:
+  - Abispa spp.
+created_at: '2017-01-28T02:13:01Z'
+datetime: '2017-01-28T11:30:00+10:00'
+description: "Looks like Abispa ephippium http://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:4901340b-3412-4dc1-95c9-75e298fede63#overview\r\n\r\nMoved about quickly, very difficult to get any photos!"
+latitude: -37.728518
+longitude: 144.834458
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-01-28T06:05:19Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 1741
+    width: 2611
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588bfdcaed2a89b718000354.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588bfdcaed2a89b718000354.jpg'
+  - height: 1802
+    width: 2703
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588bfdc7ed2a89b3fe000352.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588bfdc7ed2a89b3fe000352.jpg'
+comments:
+  - created_at: '2017-01-28T04:47:11Z'
+    text: Definitely Abispa sp. but markings on back don't match ephippium. There are many with the same markings as yours on Bowerbird and these have been left at Abispa sp. KW had it as ephippium but Reiner disputed this because of the back markings.
+    ref: 588c224fed2a89d10f00130c
+    name: David Francis
+    username: david_francis
+collections:
+  - brimbank_park_insects_and_spiders

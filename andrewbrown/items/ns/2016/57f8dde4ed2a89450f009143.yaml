@@ -1,0 +1,39 @@
+id:
+  - Leptotarsus (Macromastix) spp.
+created_at: '2016-10-08T11:56:12Z'
+datetime: '2016-10-05T10:35:36+10:00'
+description: Long legged insects both found resting on same bush.
+elevation: 221.8
+latitude: -36.782141
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.365822
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-09T11:59:23Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-05T10:35:36Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57f8de03ed2a89b3fe0000f7.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f8de03ed2a89b3fe0000f7.JPG'
+  - datetime: '2016-10-05T10:33:58Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57f8ddffed2a89d73e0000f6.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f8ddffed2a89d73e0000f6.JPG'
+tags:
+  - insect
+  - long-legged
+  - wings
+comments:
+  - created_at: '2016-10-09T04:39:43Z'
+    text: 'A Cranefly (Family Tipulidae). Possibly Leptotarsus spp. going by the wing venation. http://www.bowerbird.org.au/observations/65554'
+    ref: 57f9ca0fed2a89450f00928b
+    name: David Francis
+    username: david_francis
+collections:
+  - wildlife_of_junortoun

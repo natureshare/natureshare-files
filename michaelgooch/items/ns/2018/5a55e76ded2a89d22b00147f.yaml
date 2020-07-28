@@ -1,0 +1,32 @@
+id:
+  - name: Grevillea pterosperma
+    by: david_francis
+created_at: '2018-01-10T10:16:15Z'
+datetime: '2017-12-29T12:14:00+10:00'
+description: On sandy dunes in the Mallee
+elevation: 87.3
+latitude: -35.459465
+location_name: 'Patchewollock VIC 3491, Australia'
+longitude: 142.234998
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-01-10T22:39:20Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 1365
+    width: 2048
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a55e77aed2a892d15000090.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a55e77aed2a892d15000090.jpg'
+comments:
+  - created_at: '2018-01-10T10:55:03Z'
+    text: <em>Grevillea pterosperma</em> species id suggested
+    ref: 5a55f107ed2a89d22b00149a
+    name: David Francis
+    username: david_francis
+  - replying_to: 5a55f107ed2a89d22b00149a
+    created_at: '2018-01-10T22:10:09Z'
+    text: 'Excellent, thank you David!'
+    ref: 5a568f41ed2a89d22b0015c2
+    name: Michael Gooch
+    username: michaelgooch

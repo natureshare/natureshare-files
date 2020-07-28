@@ -1,0 +1,48 @@
+id:
+  - name: Rimbachia bryophila
+    by: david_francis
+created_at: '2017-07-05T13:13:58Z'
+datetime: '2017-06-16T11:07:43+10:00'
+description: Small white fungus shows a ring on the soil.
+elevation: 670
+latitude: -37.395784
+location_name: 'Macedon VIC, Australia'
+longitude: 144.590774
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-01-08T10:01:33Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-06-16T11:07:43Z'
+    height: 3024
+    width: 4032
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/595ce2e5ed2a8939840000d2.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/595ce2e5ed2a8939840000d2.JPG'
+  - datetime: '2017-06-16T11:07:31Z'
+    height: 3024
+    width: 4032
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/595ce2efed2a8939840000d3.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/595ce2efed2a8939840000d3.JPG'
+tags:
+  - fruit
+comments:
+  - created_at: '2017-07-06T01:37:38Z'
+    text: Possibly a Campanella species?
+    ref: 595d9462ed2a897cef002bc1
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-01-08T07:46:44Z'
+    text: Rimbachia bryophila - missing sp/genus
+    ref: 5a5321e4ed2a89427900020d
+    name: Reiner Richter
+    username: ausdigi
+  - replying_to: 5a5321e4ed2a89427900020d
+    created_at: '2018-01-08T10:02:18Z'
+    text: 'Thanks for the id, Reiner. Genus/species now added to database.'
+    ref: 5a5341aaed2a89d22b000b85
+    name: David Francis
+    username: david_francis
+collections:
+  - fungus_of_central_victoria

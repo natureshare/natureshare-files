@@ -1,0 +1,24 @@
+id:
+  - Vanellus miles
+created_at: '2016-08-24T11:12:30Z'
+datetime: '2016-08-24T09:47:50+10:00'
+description: One of a pair of lapwing on the beach.
+elevation: 0.2
+latitude: -38.692364
+location_name: 'Victoria, Australia'
+longitude: 143.83942
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-08-24T11:12:30Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-08-24T09:47:50Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57bd8097ed2a89d73e000009.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57bd8097ed2a89d73e000009.jpg'
+collections:
+  - grey_river

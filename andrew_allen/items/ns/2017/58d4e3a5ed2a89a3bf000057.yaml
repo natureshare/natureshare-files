@@ -1,0 +1,33 @@
+id:
+  - name: Syringoseca rhodoxantha
+    by: leuba
+created_at: '2017-03-24T09:15:54Z'
+datetime: '2017-03-24T16:15:00+10:00'
+elevation: 34.3
+latitude: -37.72884
+location_name: 'Keilor East VIC 3033, Australia'
+longitude: 144.834898
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-03-24T09:16:13Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 2506
+    width: 1670
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58d4e3aced2a89e548000096.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58d4e3aced2a89e548000096.jpg'
+comments:
+  - created_at: '2017-03-24T11:37:02Z'
+    text: <em>Syringoseca rhodoxantha</em> species id suggested
+    ref: 58d504deed2a8963410011cc
+    name: Leuba Ridgway
+    username: leuba
+  - replying_to: 58d504deed2a8963410011cc
+    created_at: '2017-03-25T03:27:58Z'
+    text: Thanks Leuba
+    ref: 58d5e3beed2a89634100132f
+    name: Andrew Allen
+    username: andrew_allen
+collections:
+  - brimbank_park_insects_and_spiders

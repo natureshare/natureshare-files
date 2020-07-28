@@ -1,0 +1,35 @@
+id:
+  - name: Boronia nana var. nana
+    by: david_francis
+created_at: '2017-11-08T10:12:17Z'
+datetime: '2017-10-14T10:22:52+10:00'
+elevation: 102.5
+latitude: -38.276802
+location_name: 'Cape Bridgewater VIC 3305, Australia'
+longitude: 141.438365
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-11-09T07:56:44Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-14T10:22:52Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a02d753ed2a893984000626.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a02d753ed2a893984000626.jpg'
+comments:
+  - created_at: '2017-11-08T12:57:17Z'
+    text: Leaves not clear in photo but Boronia nana var. nana seems a possibility.
+    ref: 5a02ff2ded2a89d581000005
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-11-08T23:51:48Z'
+    text: I would say Boronia nana too
+    ref: 5a039894ed2a899419000008
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - mt_richmond_np_plants

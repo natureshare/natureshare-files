@@ -1,0 +1,42 @@
+id:
+  - name: Tiliqua scincoides
+    by: david_francis
+created_at: '2017-10-31T08:41:27Z'
+datetime: '2017-10-31T13:54:55+10:00'
+description: ' bluey'
+elevation: 263.8
+latitude: -37.523325
+location_name: 'Wildwood VIC 3429, Australia'
+longitude: 144.769988
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-12-07T03:43:14Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-10-31T13:54:55Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59f83441ed2a89398400058f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59f83441ed2a89398400058f.JPG'
+  - datetime: '2017-10-31T13:54:37Z'
+    height: 4608
+    width: 3456
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59f8346ced2a893984000590.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59f8346ced2a893984000590.JPG'
+  - datetime: '2017-10-31T13:54:05Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59f83476ed2a893984000591.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59f83476ed2a893984000591.JPG'
+comments:
+  - created_at: '2017-10-31T10:14:46Z'
+    text: Looks more like "Tiliqua scincoides" I think.
+    ref: 59f84d16ed2a892d4000a098
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2017-10-31T11:05:06Z'
+    text: 'Yes, that is T. scincoides'
+    ref: 59f858e2ed2a892d4000a0ed
+    name: James Booth
+    username: jamesbooth

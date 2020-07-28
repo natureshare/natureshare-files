@@ -1,0 +1,46 @@
+id:
+  - name: Cortinarius archeri
+    by: funkeytom
+created_at: '2017-05-15T02:12:38Z'
+datetime: '2017-05-13T11:12:05+10:00'
+description: Mauve colored fungi in Hobbs Road Reserve.
+elevation: 489.9
+latitude: -37.484197
+location_name: 'Bullengarook VIC 3437, Australia'
+longitude: 144.541212
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-05-18T13:18:51Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-05-13T11:12:05Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59190b43ed2a89e548000142.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59190b43ed2a89e548000142.jpg'
+  - datetime: '2017-05-13T11:12:50Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59190b79ed2a891d6d000147.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59190b79ed2a891d6d000147.jpg'
+comments:
+  - created_at: '2017-05-15T03:56:10Z'
+    text: Possibly Cotinarius archeri
+    ref: 591926daed2a893e6b000a00
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-05-18T10:17:05Z'
+    text: 'Beautiful, rich purple colour on pileus. When quite fresh, the surface of the pileus and stipe is glutinous (slimy).'
+    ref: 591d74a1ed2a893e6b0013dc
+    name: Tom May
+    username: funkeytom
+  - replying_to: 591d74a1ed2a893e6b0013dc
+    created_at: '2017-05-18T10:25:31Z'
+    text: Thanks for the id.
+    ref: 591d769bed2a894adf000088
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - hobbs_road_bushland_reserve

@@ -1,0 +1,42 @@
+id:
+  - name: Caladenia cucullata
+    by: koolah
+created_at: '2016-10-02T05:26:33Z'
+datetime: '2016-10-02T10:53:08+10:00'
+description: Single flower on a slender stem about 10 cm high with a single almost prostrate narrow leaf about 5-6cm long.
+elevation: 222.2
+latitude: -36.783134
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.372335
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-10-02T06:11:02Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-02T10:53:08Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57f09885ed2a89b3fe0000c3.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f09885ed2a89b3fe0000c3.JPG'
+  - datetime: '2016-10-02T10:52:21Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57f09899ed2a89b7180000c8.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f09899ed2a89b7180000c8.JPG'
+tags:
+  - orchid
+comments:
+  - created_at: '2016-10-02T07:17:15Z'
+    text: <em>Caladenia cucullata</em> species id suggested
+    ref: 57f0b47bed2a89450f008303
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2016-10-02T09:25:10Z'
+    text: Thanks Cathy for your orchid knowledge.
+    ref: 57f0d276ed2a89450f008335
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - junortoun_flora

@@ -1,0 +1,43 @@
+id:
+  - name: Cedronella canariensis
+    by: david_francis
+created_at: '2017-03-19T10:20:27Z'
+datetime: '2017-03-13T12:04:12+10:00'
+latitude: -38.05718
+longitude: 141.92194
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-03-19T10:21:41Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-03-13T12:04:24Z'
+    height: 2064
+    width: 1970
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58ce5ad6ed2a891d6d000072.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce5ad6ed2a891d6d000072.JPG'
+  - datetime: '2017-03-13T12:04:12Z'
+    height: 2542
+    width: 2984
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58ce5b72ed2a894410000072.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce5b72ed2a894410000072.JPG'
+comments:
+  - created_at: '2017-03-20T23:51:59Z'
+    text: <em>Cedronella canariensis</em> species id suggested
+    ref: 58d06b1fed2a896341000579
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-03-20T23:57:50Z'
+    text: 'If my id is correct, it would probably be growing in a damp situation, such as along a water course. We have it growing at Mt Macedon beside a creek.'
+    ref: 58d06c7eed2a896341000582
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-03-21T00:07:59Z'
+    text: 'Looks like it, David. I have never seen this one before and I think you might be right about it being in a damp area. Thanks.'
+    ref: 58d06edfed2a895371000018
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - mt_eccles_np_plants

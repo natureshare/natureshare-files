@@ -1,0 +1,30 @@
+id:
+  - Acropolitis canana
+created_at: '2019-09-11T14:08:22Z'
+datetime: '2012-02-29T23:19:59+10:00'
+elevation: 65.3
+latitude: -37.7383
+location_name: '42 High St, Coburg VIC 3058, Australia'
+longitude: 144.956818
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2019-09-12T00:20:21Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-02-29T23:19:59Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_5c639c983abbd6ed0f00003c/2019-09-12/feb29_12_tort_acropolitis_canana_imgp1510_cropns.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-09-12/feb29_12_tort_acropolitis_canana_imgp1510_cropns.jpeg'
+comments:
+  - created_at: '2019-09-11T17:32:04Z'
+    text: Acropolitis canana added to dataset
+    ref: 5d792f94cad3ebb2a100017f
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2019-09-12T00:20:50Z'
+    text: Thanks Cathy
+    ref: 5d798f62cad3ebb2a1000190
+    name: Wendy Moore
+    username: wendymoore
+collections:
+  - coburg_moths

@@ -1,0 +1,25 @@
+id:
+  - name: Melicytus angustifolius subsp. divaricatus
+created_at: '2010-06-14T11:02:34Z'
+datetime: '2007-07-21T13:15:31+10:00'
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2017-08-14T00:12:54Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2007-07-21T13:15:31Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ce35eb1298401130e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ce35eb1298401130e.jpg'
+  - datetime: '2009-09-05T16:16:44Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ce35eb12984011310.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ce35eb12984011310.jpg'
+comments:
+  - created_at: '2010-06-14T11:05:34Z'
+    text: Dwarf form
+    ref: 53b3984ae35eb1298400d7b9
+  - created_at: '2011-08-15T22:58:29Z'
+    text: 'Known in the current Victorian plant census (Walsh & Stajsic 2007) as Melicytus sp. aff. dentatus (Volcanic Plain variant). Recent taxonomical developments may lead to its revision as M. angustifolius '
+    ref: 53b3984be35eb1298400d8a4
+collections:
+  - caroline_springs_patch_1_creek

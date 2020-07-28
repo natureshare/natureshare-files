@@ -1,0 +1,32 @@
+id:
+  - Hakea spp.
+created_at: '2016-10-12T12:21:24Z'
+datetime: '2016-10-11T13:15:41+10:00'
+description: A single plant growing on the roadside in full flower.
+elevation: 209.3
+latitude: -36.773561
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.36027
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-12T12:21:24Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-11T13:15:29Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57fe271ced2a89b7180000f9.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57fe271ced2a89b7180000f9.JPG'
+  - datetime: '2016-10-11T13:15:41Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57fe2707ed2a89b3fe00010a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57fe2707ed2a89b3fe00010a.JPG'
+tags:
+  - flower-creamy-white
+  - shrub-medium
+collections:
+  - junortoun_flora

@@ -1,0 +1,28 @@
+id:
+  - name: Idioses littleri
+created_at: '2012-02-20T20:08:37Z'
+datetime: '2012-02-14T20:47:15+10:00'
+latitude: -37.803003
+longitude: 144.29718
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2012-02-20T20:10:43Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-02-14T20:47:15Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39862e35eb12984012a4f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012a4f.jpg'
+comments:
+  - created_at: '2016-12-26T09:54:20Z'
+    text: 'Hi Cathy: what a find.'
+    ref: 5860e8cced2a89748000b314
+    name: Don Herbison-Evans
+    username: donhe
+  - created_at: '2016-12-26T09:55:27Z'
+    text: 'I have taken the liberty of incluing your photo in a webpage about the species, see http://lepidoptera.butterflyhouse.com.au/coss/littleri.html. I hope you approve, Don'
+    ref: 5860e90fed2a89748000b31a
+    name: Don Herbison-Evans
+    username: donhe
+collections:
+  - brisbane_ranges_moths

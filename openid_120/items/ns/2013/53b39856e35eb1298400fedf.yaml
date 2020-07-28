@@ -1,0 +1,26 @@
+id:
+  - name: Nymphicus hollandicus
+created_at: '2013-02-24T21:18:37Z'
+datetime: '2013-02-24T17:59:13+10:00'
+latitude: -37.667753
+longitude: 145.182352
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2013-02-24T21:23:22Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-02-24T17:59:13Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39866e35eb12984013a97.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013a97.jpg'
+  - datetime: '2013-02-24T17:59:31Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39866e35eb12984013a98.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013a98.jpg'
+comments:
+  - created_at: '2015-01-22T02:01:26Z'
+    text: Escaped from captivity?
+    ref: 54c059f6ed2a89fdd900009f
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - christmas_hills_nillumbik

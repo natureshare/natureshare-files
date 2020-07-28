@@ -1,0 +1,38 @@
+id:
+  - name: Idaea costaria
+    by: chrisl
+created_at: '2017-12-18T11:10:24Z'
+datetime: '2017-11-14T22:23:09+10:00'
+description: Small moth approx. 15mm
+elevation: 199.6
+latitude: -36.778338
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381276
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-12-18T11:10:40Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-11-14T22:23:09Z'
+    height: 2586
+    width: 2586
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a37a06aed2a890e9e00002c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a37a06aed2a890e9e00002c.JPG'
+tags:
+  - moth-small
+comments:
+  - created_at: '2017-12-19T22:08:41Z'
+    text: <em>Idaea costaria</em> species id suggested
+    ref: 5a398de9ed2a89a3b4000197
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2017-12-19T22:14:44Z'
+    text: 'Actually, the very similar Idaea inversata is a possibility too.'
+    ref: 5a398f54ed2a89a3b4000198
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - wildlife_of_junortoun
+  - moths_of_junortoun
+  - moths_of_central_victoria

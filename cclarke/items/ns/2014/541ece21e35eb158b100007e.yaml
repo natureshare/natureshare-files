@@ -1,0 +1,35 @@
+id:
+  - Falcunculus frontatus
+created_at: '2014-09-21T13:09:53Z'
+datetime: '2014-09-21T16:49:03+10:00'
+latitude: -37.291038
+longitude: 143.75341
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-09-21T13:10:53Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-21T16:49:03Z'
+    height: 524
+    width: 704
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/541ece21e35eb158b100007a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/541ece21e35eb158b100007a.jpg'
+  - datetime: '2014-09-21T16:49:13Z'
+    height: 746
+    width: 987
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/541ece21e35eb158b100007b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/541ece21e35eb158b100007b.jpg'
+  - datetime: '2014-09-21T16:49:02Z'
+    height: 714
+    width: 911
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/541ece21e35eb158b100007c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/541ece21e35eb158b100007c.jpg'
+comments:
+  - created_at: '2014-09-21T13:10:49Z'
+    text: Foraging in Eucalypyus leucoxylon
+    ref: 541ece59e35eb158b100007f
+    name: Chris Clarke
+    username: cclarke
+collections:
+  - clunes_finchesgully_flora_and_fauna

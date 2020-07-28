@@ -1,0 +1,31 @@
+id:
+  - Melaleuca squarrosa
+created_at: '2016-03-09T02:03:09Z'
+datetime: '2007-11-19T11:07:37+10:00'
+elevation: 111
+latitude: -38.013363
+location_name: 'Myamyn VIC 3304, Australia'
+longitude: 141.66356
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-03-09T02:03:09Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2007-11-18T15:11:45Z'
+    height: 1024
+    width: 818
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56df82e0ed2a890be70000dd.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56df82e0ed2a890be70000dd.JPG'
+  - datetime: '2007-11-19T11:07:37Z'
+    height: 820
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56df82dded2a89211c000102.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56df82dded2a89211c000102.JPG'
+tags:
+  - flower
+  - habit
+collections:
+  - homerton_and_milltown

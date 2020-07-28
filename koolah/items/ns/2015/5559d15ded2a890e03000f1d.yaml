@@ -1,0 +1,31 @@
+id:
+  - Phrataria replicataria
+created_at: '2015-05-18T11:47:41Z'
+datetime: '2015-02-26T22:16:38+10:00'
+latitude: -37.80656
+longitude: 144.297073
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2019-01-08T01:43:09Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-02-26T22:16:38Z'
+    height: 1764
+    width: 1892
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5559d15ded2a890e03000f1c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5559d15ded2a890e03000f1c.JPG'
+tags:
+  - adult
+  - brown
+  - moth
+  - white
+comments:
+  - created_at: '2015-05-19T06:58:49Z'
+    text: Such a beautiful moth.
+    ref: 555adf29ed2a894112000002
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - brisbane_ranges_moths

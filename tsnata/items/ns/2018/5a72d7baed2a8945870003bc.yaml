@@ -1,0 +1,35 @@
+id:
+  - name: Pterygophorus cinctus
+    by: david_francis
+created_at: '2018-02-01T09:08:52Z'
+datetime: '2018-02-01T10:33:08+10:00'
+elevation: 5.1
+latitude: -37.79059
+location_name: 'Kensington VIC 3031, Australia'
+longitude: 144.92351
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-02-01T09:09:17Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-02-01T10:33:08Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a72d802ed2a895fa200003f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a72d802ed2a895fa200003f.jpg'
+  - datetime: '2018-02-01T10:31:37Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a72d7c1ed2a895fa200003e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a72d7c1ed2a895fa200003e.jpg'
+comments:
+  - created_at: '2018-02-02T01:25:28Z'
+    text: <em>Pterygophorus cinctus</em> species id suggested
+    ref: 5a73be08ed2a89d925000f95
+    name: David Francis
+    username: david_francis
+collections:
+  - flemington_kensington_3031

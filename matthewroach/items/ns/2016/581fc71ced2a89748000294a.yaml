@@ -1,0 +1,38 @@
+id:
+  - name: Philobota arabella
+    by: koolah
+created_at: '2016-11-07T00:27:42Z'
+datetime: '2016-09-16T15:34:27+10:00'
+description: A moth species found in dry grassy woodland in Strathewen. Brown and gold colouration.
+latitude: -37.567458
+longitude: 145.256822
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-11-07T01:59:00Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-09-16T15:34:27Z'
+    height: 483
+    width: 362
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/581fdfe9ed2a892daf0001cb.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/581fdfe9ed2a892daf0001cb.jpg'
+  - primary: true
+    datetime: '2016-09-16T15:34:27Z'
+    height: 2204
+    width: 3920
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/581fc726ed2a892daf0001ca.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/581fc726ed2a892daf0001ca.JPG'
+tags:
+  - adult
+comments:
+  - created_at: '2016-11-07T02:01:53Z'
+    text: 'Hi Matthew, I cropped your picture so that the moth experts on NatureShare can find it.  DavidF (admin)'
+    ref: 581fe091ed2a897480002981
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-11-07T02:04:15Z'
+    text: <em>Philobota arabella</em> species id suggested
+    ref: 581fe11fed2a897480002984
+    name: Cathy Powers
+    username: koolah

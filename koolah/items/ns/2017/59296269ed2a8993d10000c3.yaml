@@ -1,0 +1,36 @@
+created_at: '2017-05-27T11:28:52Z'
+datetime: '2017-01-28T22:12:10+10:00'
+elevation: 261.4
+latitude: -37.806588
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-05-28T01:45:34Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-28T22:12:10Z'
+    height: 2504
+    width: 3343
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5929626fed2a891d6d000167.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5929626fed2a891d6d000167.JPG'
+comments:
+  - created_at: '2017-05-27T11:40:34Z'
+    text: Intriguing interspecies interaction - ant and water boatman?
+    ref: 592965b2ed2a8993d10000c8
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-05-27T12:18:39Z'
+    text: I think they were having dinner together.
+    ref: 59296e9fed2a8993d10000e2
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2017-05-28T09:52:51Z'
+    text: 'Maybe, the ant is Camponotus consobrinus'
+    ref: 592a9df3ed2a897c18000004
+    name: Vuk Vojis
+    username: vuk_2
+collections:
+  - brisbane_ranges_insects

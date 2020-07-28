@@ -1,0 +1,27 @@
+id:
+  - name: Acacia oxycedrus
+created_at: '2014-07-12T01:11:25Z'
+datetime: '2010-09-17T14:36:30+10:00'
+latitude: -37.502569
+longitude: 144.546547
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-07-01T16:59:06Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2010-09-17T14:36:30Z'
+    height: 1063
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53c08b3ce35eb118fa000001.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53c08b3ce35eb118fa000001.JPG'
+  - datetime: '2010-09-17T14:20:46Z'
+    height: 1063
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53c08b3ce35eb118fa000002.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53c08b3ce35eb118fa000002.JPG'
+tags:
+  - flower
+  - habit
+collections:
+  - pyrete_range_plants

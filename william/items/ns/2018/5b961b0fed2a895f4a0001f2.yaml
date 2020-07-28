@@ -1,0 +1,37 @@
+id:
+  - Acacia leprosa var. uninervia
+created_at: '2018-09-10T07:25:02Z'
+datetime: '2018-09-10T11:38:11+10:00'
+description: Confused about the variant but suspect large leaf variety but maybe someone can confirm.
+elevation: 480.5
+latitude: -37.42289
+location_name: 'Barringo Rd, Mount Macedon VIC 3441, Australia'
+longitude: 144.618687
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2018-09-12T01:17:22Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-09-10T11:38:11Z'
+    height: 1224
+    width: 1632
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b961b12ed2a891efe0000c9.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b961b12ed2a891efe0000c9.JPG'
+comments:
+  - created_at: '2018-09-11T00:54:09Z'
+    text: Hi William. I've updated the Acacia leprosa variants to conform to the four recognised by VicFlora. Several "forms" no longer given separate status have been deleted. So your observation would just be Acacia leprosa var. uninervia which you can add by editing your observation.
+    ref: 5b971231ed2a89cce30036bb
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-09-11T00:55:44Z'
+    text: 'See https://vicflora.rbg.vic.gov.au/flora/key/6061'
+    ref: 5b971290ed2a89439500004b
+    name: David Francis
+    username: david_francis
+  - replying_to: 5b971231ed2a89cce30036bb
+    created_at: '2018-09-12T01:17:41Z'
+    text: thank you
+    ref: 5b986935ed2a8997fd000033
+    name: William Terry
+    username: william

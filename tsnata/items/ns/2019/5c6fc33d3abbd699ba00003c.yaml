@@ -1,0 +1,28 @@
+id:
+  - name: Pentatomidae spp.
+    by: kimberip
+created_at: '2019-02-22T09:39:09Z'
+datetime: '2019-02-22T14:45:05+10:00'
+elevation: 21.5
+latitude: -37.786067
+location_name: '53 Edinburgh St, Flemington VIC 3031, Australia'
+longitude: 144.924903
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2019-02-22T09:40:03Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2019-02-22T14:45:05Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_53b39818e35eb12984000026/2019-02-22/1550828311/Bug2-FL.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_53b39818e35eb12984000026/2019-02-22/1550828311/Bug2-FL.jpg'
+comments:
+  - created_at: '2019-04-25T05:45:12Z'
+    text: <em>Pentatomidae spp.</em> species id suggested
+    ref: 5cc149683abbd6e3fc000167
+    name: Kimberi Pullen
+    username: kimberip
+collections:
+  - flemington_kensington_3031

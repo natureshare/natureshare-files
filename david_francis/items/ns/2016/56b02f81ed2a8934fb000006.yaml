@@ -1,0 +1,32 @@
+id:
+  - Hemicordulia tau
+created_at: '2016-02-02T04:26:03Z'
+datetime: '2016-02-02T09:06:48+10:00'
+description: Lots of this species flying. This one was resting on our lemon tree.
+latitude: -37.408192
+longitude: 144.595208
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-02-03T09:12:23Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-02-02T09:06:48Z'
+    height: 1018
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56b02f86ed2a89e05000005e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56b02f86ed2a89e05000005e.jpg'
+  - datetime: '2016-02-02T09:05:44Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56b02f93ed2a897bc7000052.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56b02f93ed2a897bc7000052.jpg'
+comments:
+  - created_at: '2016-02-02T05:55:22Z'
+    text: 'See https://natureshare.org.au/observations/54e3dd46ed2a89d9900003c3?species=Hemicordulia+tau for a good discussion of the features of this species.'
+    ref: 56b044caed2a89d94d000050
+    name: David Francis
+    username: david_francis
+collections:
+  - insects_and_other_arthropods_of_mt_macedon

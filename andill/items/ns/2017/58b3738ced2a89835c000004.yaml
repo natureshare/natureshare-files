@@ -1,0 +1,41 @@
+id:
+  - Dipodium pardalinum
+created_at: '2017-02-27T00:32:12Z'
+datetime: '2017-01-31T11:32:19+10:00'
+description: What appear to be hybrids of Dipodium pardalinum X roseum also grow here.
+latitude: -37.28346
+longitude: 144.287262
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-02-27T00:34:55Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-31T11:32:19Z'
+    height: 2048
+    width: 2048
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58b373dced2a894410000017.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58b373dced2a894410000017.jpg'
+  - datetime: '2017-01-31T11:32:04Z'
+    height: 2048
+    width: 1536
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58b373e2ed2a894410000018.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58b373e2ed2a894410000018.jpg'
+  - datetime: '2017-01-31T11:27:07Z'
+    height: 2048
+    width: 1536
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58b373e9ed2a894410000019.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58b373e9ed2a894410000019.jpg'
+tags:
+  - flower
+  - orchid
+comments:
+  - created_at: '2017-02-27T05:43:56Z'
+    text: Nice crisp photo.
+    ref: 58b3bc9ced2a8938900013a7
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - dipodium_pardalinum_distribution

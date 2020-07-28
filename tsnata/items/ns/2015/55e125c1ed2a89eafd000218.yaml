@@ -1,0 +1,47 @@
+id:
+  - Lichenostomus fuscus
+created_at: '2015-08-29T03:23:45Z'
+datetime: '2015-08-29T10:39:24+10:00'
+description: The closest id is fuscous honey-eater. There is no record of sighting in Royal Park in e-Bird.
+elevation: 23.2
+latitude: -37.782487
+location_name: 'Parkville VIC, Australia'
+longitude: 144.945122
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-02-18T09:09:30Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-08-29T10:39:24Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55e125d9ed2a890d9500008b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55e125d9ed2a890d9500008b.jpg'
+  - datetime: '2015-08-29T10:39:24Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55e125e7ed2a890d9500008c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55e125e7ed2a890d9500008c.jpg'
+tags:
+  - non-breeding
+comments:
+  - created_at: '2015-08-30T07:03:23Z'
+    text: "Love the photos. It has to be a non-breeding fuscous, doesn't it? Nothing else fits. \r\nA great new record for Royal Park?  David"
+    ref: 55e2aabbed2a89eafd000274
+    name: David Francis
+    username: david_francis
+  - created_at: '2015-08-30T07:34:21Z'
+    text: 'Nearest record Westgate Park, Port Melbourne, 2007?'
+    ref: 55e2b1fded2a89eafd000276
+    name: David Francis
+    username: david_francis
+  - replying_to: 55e2b1fded2a89eafd000276
+    created_at: '2015-08-30T09:50:45Z'
+    text: Thanks David for your confirmation. Until I looked at the photo in PC I thought it was just another white-plumed honeyeater.
+    ref: 55e2d1f5ed2a89eafd00027f
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - royal_park_parkville

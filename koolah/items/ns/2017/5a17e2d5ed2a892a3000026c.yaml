@@ -1,0 +1,38 @@
+id:
+  - Circus assimilis
+created_at: '2017-11-24T09:22:22Z'
+datetime: '2014-01-03T19:44:11+10:00'
+description: Not a great set of photos but the best I could do without a telephoto lens and a long distance.  Second photo shows the bird on the ground.
+elevation: 181.9
+latitude: -37.806022
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.310253
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2017-11-24T09:22:41Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2014-01-03T19:44:11Z'
+    height: 2125
+    width: 3000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a17e2eeed2a893984000710.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a17e2eeed2a893984000710.jpg'
+  - datetime: '2014-01-03T20:07:08Z'
+    height: 2230
+    width: 2832
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a17e368ed2a893984000711.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a17e368ed2a893984000711.jpg'
+tags:
+  - bird-of-prey
+  - raptor
+comments:
+  - created_at: '2017-11-24T10:01:54Z'
+    text: 'Still, not a bad effort to focus-track a bird in flight. Nice to see a bird together with it''s natural habitat.'
+    ref: 5a17ee12ed2a8962be003974
+    name: David Francis
+    username: david_francis
+collections:
+  - brisbane_ranges_birds

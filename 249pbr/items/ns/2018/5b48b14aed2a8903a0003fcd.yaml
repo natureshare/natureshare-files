@@ -1,0 +1,29 @@
+id:
+  - Roridomyces austrororidus
+created_at: '2018-07-13T15:07:50Z'
+datetime: '2012-06-24T12:02:14+10:00'
+description: 'This is Roridomyces austrororidus, formerly known as Mycena austrororida. Could it be added to the database please.'
+elevation: 607.3
+latitude: -37.478853
+location_name: 'Blackwood VIC 3458, Australia'
+longitude: 144.292288
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-07-13T22:31:04Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-06-24T12:02:14Z'
+    height: 918
+    width: 1155
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b48b180ed2a891efe000051.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b48b180ed2a891efe000051.jpg'
+comments:
+  - created_at: '2018-07-13T20:24:18Z'
+    text: Species added to dataset
+    ref: 5b490a72ed2a8903a00040bb
+    name: Cathy Powers
+    username: koolah
+collections:
+  - wombat_forest_-_fungi

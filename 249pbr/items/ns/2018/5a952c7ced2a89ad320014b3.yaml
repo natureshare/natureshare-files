@@ -1,0 +1,38 @@
+id:
+  - Leccinum aurantiacum
+created_at: '2018-02-27T10:59:04Z'
+datetime: '2016-02-13T12:18:23+10:00'
+description: 'This is Leccinum aurantiacum, an introduced species not previously recorded for Australia. The only record to date is the collection I made in 2016 for the Herbarium, Three images includes underside'
+latitude: -37.379667
+longitude: 144.583778
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-03-01T08:51:15Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-02-13T12:18:23Z'
+    height: 3102
+    width: 3660
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a952c70ed2a89cf9000001a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a952c70ed2a89cf9000001a.jpg'
+  - datetime: '2016-02-13T12:00:22Z'
+    height: 4000
+    width: 6000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a952c5aed2a897fc8000015.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a952c5aed2a897fc8000015.jpg'
+  - datetime: '2016-02-13T11:51:47Z'
+    height: 4000
+    width: 6000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a952c81ed2a897fc8000017.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a952c81ed2a897fc8000017.jpg'
+comments:
+  - created_at: '2018-02-27T11:13:01Z'
+    text: 'Great photos, John. An important record. L. aurantiacum now available in database.'
+    ref: 5a953d3ded2a89ad32001570
+    name: David Francis
+    username: david_francis
+collections:
+  - macedon_ranges_-_fungi

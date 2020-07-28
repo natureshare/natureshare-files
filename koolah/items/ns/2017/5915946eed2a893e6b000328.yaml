@@ -1,0 +1,31 @@
+id:
+  - Fisera hypoleuca
+created_at: '2017-05-12T10:57:29Z'
+datetime: '2017-05-10T19:21:29+10:00'
+elevation: 261.5
+latitude: -37.806584
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-05-12T11:25:23Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-05-10T19:21:29Z'
+    height: 1502
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59159480ed2a89a81f000114.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59159480ed2a89a81f000114.JPG'
+  - datetime: '2017-05-10T19:22:11Z'
+    height: 1147
+    width: 1776
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5915947ded2a891d6d00013f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5915947ded2a891d6d00013f.JPG'
+tags:
+  - male
+  - moth
+collections:
+  - brisbane_ranges_moths

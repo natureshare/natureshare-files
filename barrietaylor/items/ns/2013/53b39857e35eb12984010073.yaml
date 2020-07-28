@@ -1,0 +1,28 @@
+created_at: '2013-04-13T14:49:57Z'
+datetime: '2013-04-09T12:30:07+10:00'
+description: fire site 7
+non_identifying_photo: true
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2013-04-13T14:54:45Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-04-09T12:30:07Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39867e35eb12984013d01.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39867e35eb12984013d01.jpg'
+  - datetime: '2013-04-09T12:26:56Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39867e35eb12984013d02.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39867e35eb12984013d02.jpg'
+  - datetime: '2013-04-09T12:31:35Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39867e35eb12984013d03.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39867e35eb12984013d03.jpg'
+comments:
+  - created_at: '2013-04-13T15:48:01Z'
+    text: |-
+      In order the 3 photos are 
+      north half of quadrat
+      south half of quadrat
+      looking north
+    ref: 53b3984be35eb1298400daad
+collections:
+  - wcmnburnedsite07

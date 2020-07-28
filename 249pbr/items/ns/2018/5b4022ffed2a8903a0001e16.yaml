@@ -1,0 +1,40 @@
+id:
+  - Tubaria rufofulva
+created_at: '2018-07-07T02:55:18Z'
+datetime: '2016-05-15T12:32:38+10:00'
+description: '3 Images, this is Tubaria rufofulva. Could the database be updated please. This species has an annulus (ring on stem) and brown spores which you can see in the first image.'
+elevation: 740.4
+latitude: -37.42719
+location_name: 'Lerderderg VIC 3458, Australia'
+longitude: 144.307622
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-07-08T01:17:49Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-05-15T12:32:38Z'
+    height: 2453
+    width: 1764
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b40231ced2a89c6aa000033.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b40231ced2a89c6aa000033.jpg'
+  - datetime: '2016-05-15T12:32:11Z'
+    height: 2664
+    width: 1830
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b402306ed2a891efe000039.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b402306ed2a891efe000039.jpg'
+  - datetime: '2016-05-15T12:33:12Z'
+    height: 1404
+    width: 1836
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b402321ed2a89c6aa000034.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b402321ed2a89c6aa000034.jpg'
+comments:
+  - created_at: '2018-07-07T21:47:43Z'
+    text: Database updated.
+    ref: 5b4134ffed2a8903a00021fa
+    name: Cathy Powers
+    username: koolah
+collections:
+  - wombat_forest_-_fungi

@@ -1,0 +1,38 @@
+id:
+  - Stipiturus malachurus
+created_at: '2014-08-26T01:06:37Z'
+datetime: '2014-01-22T15:44:05+10:00'
+latitude: -37.660779
+longitude: 149.682938
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-08-26T01:10:07Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-01-22T15:44:05Z'
+    height: 1431
+    width: 2065
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53fbdd9de35eb12bd9000036.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53fbdd9de35eb12bd9000036.jpg'
+  - datetime: '2014-01-22T15:44:06Z'
+    height: 1814
+    width: 2371
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53fbde34e35eb12bd900003a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53fbde34e35eb12bd900003a.jpg'
+tags:
+  - male
+comments:
+  - created_at: '2014-08-26T01:42:12Z'
+    text: Beautiful bird.  I have never seen one.
+    ref: 53fbe5f4e35eb12bd9000040
+    name: Suzanne Jones
+    username: suzanne
+  - replying_to: 53fbe5f4e35eb12bd9000040
+    created_at: '2014-08-26T08:45:39Z'
+    text: 'Apparently rarely seen. Occurs mostly in coastal heath. They are very beautiful, especially colouring combo and the long tail feathers.'
+    ref: 53fc4933e35eb13ee1000106
+    name: Russell Best
+    username: russell
+collections:
+  - croajingalong_np_birds

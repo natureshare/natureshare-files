@@ -1,0 +1,32 @@
+id:
+  - Samolus repens
+created_at: '2015-02-15T12:56:55Z'
+datetime: '2015-01-26T11:10:17+10:00'
+elevation: 3.9
+latitude: -38.691277
+location_name: 'B100, Grey River VIC 3221, Australia'
+longitude: 143.839844
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-02-15T12:59:46Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-01-26T11:10:17Z'
+    height: 1500
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54e09796ed2a8987b70000f6.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e09796ed2a8987b70000f6.jpg'
+  - datetime: '2015-01-26T11:10:07Z'
+    height: 1500
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54e09796ed2a8987b70000f7.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e09796ed2a8987b70000f7.jpg'
+comments:
+  - created_at: '2015-02-16T12:25:34Z'
+    text: Do you have other photos of this one ... esp. flower detail or full plant?
+    ref: 54e1e1beed2a89ef2700025a
+    name: Russell Best
+    username: russell
+collections:
+  - grey_river

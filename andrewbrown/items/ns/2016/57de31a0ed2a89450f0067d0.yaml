@@ -1,0 +1,36 @@
+id:
+  - Caladenia fuscata
+created_at: '2016-09-18T06:23:48Z'
+datetime: '2016-09-10T09:37:58+10:00'
+elevation: 226.1
+latitude: -36.783993
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.371348
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-09-18T08:24:45Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-10T09:37:58Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57de31c1ed2a89b718000045.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57de31c1ed2a89b718000045.JPG'
+tags:
+  - flower-pink
+comments:
+  - created_at: '2016-09-18T07:50:30Z'
+    text: Can't be 100% sure but this looks more like Caladenia fuscata.
+    ref: 57de4746ed2a89450f006846
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2016-09-18T08:31:28Z'
+    text: You are probably correct as there is no yellow on the lip as in carnea but they are very similar
+    ref: 57de50e0ed2a89450f006850
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - junortoun_flora

@@ -1,0 +1,38 @@
+id:
+  - Acrocercops ophiodes
+created_at: '2017-01-29T08:58:57Z'
+datetime: '2017-01-29T00:22:15+10:00'
+description: 2mm long X 1mm or less wide.  A real challenge to photograph.
+elevation: 260.8
+latitude: -37.806591
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.29702
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-01-29T09:03:31Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-29T00:22:15Z'
+    height: 1907
+    width: 2765
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588dad89ed2a89d73e00033b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588dad89ed2a89d73e00033b.JPG'
+  - datetime: '2017-01-29T00:25:19Z'
+    height: 2160
+    width: 2319
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588dad9aed2a89b3fe000361.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588dad9aed2a89b3fe000361.jpg'
+tags:
+  - moth
+  - tiny-moth
+comments:
+  - created_at: '2017-01-30T04:55:36Z'
+    text: Amazing magnification for a camera! At this size you would think a microscope would be needed.
+    ref: 588ec748ed2a89d10f001a21
+    name: David Francis
+    username: david_francis
+collections:
+  - brisbane_ranges_moths

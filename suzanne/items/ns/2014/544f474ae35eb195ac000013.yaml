@@ -1,0 +1,55 @@
+id:
+  - Lampona spp.
+created_at: '2014-10-28T07:35:38Z'
+datetime: '2014-10-26T14:03:15+10:00'
+description: 'This spider was small, about 6mm long and was very slender, dark blue with white markings and with red on the legs.  It was found amongst garden refuse.'
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-11-11T04:18:12Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-26T14:03:15Z'
+    height: 1081
+    width: 1629
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/544f474ae35eb195ac00000f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544f474ae35eb195ac00000f.JPG'
+  - datetime: '2014-10-26T14:14:00Z'
+    height: 951
+    width: 1437
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/544f474ae35eb195ac000010.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544f474ae35eb195ac000010.JPG'
+  - datetime: '2014-10-26T13:46:44Z'
+    height: 1054
+    width: 1581
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/544f474ae35eb195ac000011.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544f474ae35eb195ac000011.JPG'
+  - datetime: '2014-10-26T13:46:56Z'
+    height: 1153
+    width: 1739
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/544f474ae35eb195ac000012.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544f474ae35eb195ac000012.JPG'
+tags:
+  - spider
+comments:
+  - created_at: '2014-10-28T10:50:02Z'
+    text: Abdomen markings look similar to some Storena spp..
+    ref: 544f74dae35eb195ac00002c
+    name: Russell Best
+    username: russell
+  - created_at: '2014-10-29T00:45:20Z'
+    text: 'Yes, they do. Maybe it is family Zodariidae.  I have put it on Bowerbird, but it hasn''t been identified by anyone. Might just label it Araneae. Maybe the colours are a bit bright for a White tail too. It was most distinctive in the way it sat with four legs above the head, all reaching about the same length.  Quite small and very slender.'
+    ref: 545038a0e35eb1cc7900002d
+    name: Suzanne Jones
+    username: suzanne
+  - created_at: '2014-11-11T04:19:46Z'
+    text: 'This spider has now been identified by Ken Walker as Lampona spp., a member of the White tailed spider family.'
+    ref: 54618e62e35eb1ef1d000003
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains

@@ -1,0 +1,39 @@
+id:
+  - Epacris impressa
+created_at: '2017-05-28T03:52:14Z'
+datetime: '2017-03-25T07:48:00+10:00'
+description: A beautiful dash of colour amongst the grass trees
+elevation: 605.5
+latitude: -37.398136
+location_name: 'Mount Macedon VIC 3441, Australia'
+longitude: 144.571774
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2017-05-28T03:52:14Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-04-25T07:48:05Z'
+    height: 1840
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/592a4889ed2a89e54800016c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592a4889ed2a89e54800016c.jpg'
+tags:
+  - flower-pink
+comments:
+  - created_at: '2017-05-28T04:37:14Z'
+    text: 'Wonderful to see such a beautiful display as we are heading into winter. Welcome to NatureShare, Chris.'
+    ref: 592a53faed2a8910ca000054
+    name: David Francis
+    username: david_francis
+  - replying_to: 592a53faed2a8910ca000054
+    created_at: '2017-05-28T10:15:35Z'
+    text: Thanks David
+    ref: 592aa347ed2a8993d1000344
+    name: Chris Steffanoni
+    username: chris_steff
+collections:
+  - macedon_regional_park_environs_native_plants
+  - macedon_ranges_native_plants

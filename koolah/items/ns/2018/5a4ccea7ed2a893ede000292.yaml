@@ -1,0 +1,32 @@
+id:
+  - Chrysodeixis argentifera
+created_at: '2018-01-03T12:41:03Z'
+datetime: '2017-12-31T23:32:33+10:00'
+description: Two images - second shows side view.
+elevation: 261.2
+latitude: -37.80657
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297008
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-01-03T12:41:28Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-12-31T23:32:33Z'
+    height: 1470
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a4ccefbed2a892d1500007c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a4ccefbed2a892d1500007c.jpg'
+  - datetime: '2017-12-31T22:32:37Z'
+    height: 1359
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a4cceb8ed2a89298f000081.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a4cceb8ed2a89298f000081.jpg'
+tags:
+  - insect
+  - moth
+collections:
+  - brisbane_ranges_moths

@@ -1,0 +1,45 @@
+id:
+  - Gonipterus spp.
+created_at: '2015-03-27T10:26:29Z'
+datetime: '2015-02-24T18:33:13+10:00'
+description: This weevil has been identified as Gonipterus spp. by Daniel Heald.
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-03-29T11:04:16Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-02-24T18:33:13Z'
+    height: 955
+    width: 1418
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55153053ed2a8994a90009ce.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55153053ed2a8994a90009ce.JPG'
+  - datetime: '2015-02-24T18:32:45Z'
+    height: 982
+    width: 1462
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55153053ed2a8994a90009cf.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55153053ed2a8994a90009cf.JPG'
+  - datetime: '2015-02-24T18:32:34Z'
+    height: 1138
+    width: 1700
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55153053ed2a8994a90009d0.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55153053ed2a8994a90009d0.JPG'
+  - datetime: '2015-02-24T18:29:43Z'
+    height: 1254
+    width: 1845
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55153053ed2a8994a90009d1.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55153053ed2a8994a90009d1.JPG'
+tags:
+  - weevil
+comments:
+  - created_at: '2015-03-29T05:27:38Z'
+    text: Gonipterus spp. added.
+    ref: 55178d4aed2a89900400009b
+    name: David Francis
+    username: david_francis
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains

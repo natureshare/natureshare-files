@@ -1,0 +1,42 @@
+id:
+  - Urocoma marginalis
+created_at: '2015-11-28T10:14:23Z'
+datetime: '2015-11-27T22:03:03+10:00'
+latitude: -37.806563
+longitude: 144.297095
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-01-17T12:17:46Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-11-27T22:03:03Z'
+    height: 1534
+    width: 1546
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56597e2eed2a899c6300023b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56597e2eed2a899c6300023b.jpg'
+  - datetime: '2015-11-27T21:12:22Z'
+    height: 1339
+    width: 2274
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56597e3aed2a899c6300023c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56597e3aed2a899c6300023c.JPG'
+tags:
+  - brown
+  - male
+  - moth
+comments:
+  - created_at: '2015-11-28T22:07:47Z'
+    text: Interesting pose.
+    ref: 565a25b3ed2a89e56e001104
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 565a25b3ed2a89e56e001104
+    created_at: '2015-11-29T08:09:46Z'
+    text: It looks like the wind was blowing but actually it was just fluttering its wings and I snapped the photo.  Makes me smile when I see it.
+    ref: 565ab2caed2a897861000008
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brisbane_ranges_moths

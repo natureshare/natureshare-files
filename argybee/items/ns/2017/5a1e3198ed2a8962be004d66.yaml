@@ -1,0 +1,43 @@
+id:
+  - Endoxyla cinereus
+created_at: '2017-11-29T04:11:10Z'
+datetime: '2014-01-14T07:11:25+10:00'
+description: "A really huge moth with over 200mm wingspan. \r\nDrawn to lights at the local primary school. \r\nCaught out trying to pull a brick wall over.\r\n"
+elevation: 126.3
+latitude: -37.896109
+location_name: 'Upper Ferntree Gully VIC 3156, Australia'
+longitude: 145.314293
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-11-29T05:10:01Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2014-01-14T07:11:25Z'
+    height: 1200
+    width: 900
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a1e31dbed2a893984000787.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a1e31dbed2a893984000787.jpg'
+  - height: 384
+    width: 512
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a1e319fed2a893984000786.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a1e319fed2a893984000786.jpg'
+tags:
+  - moth
+  - moth-female
+comments:
+  - created_at: '2017-11-29T04:53:01Z'
+    text: The species has been added.
+    ref: 5a1e3d2ded2a89928e0000c0
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5a1e3d2ded2a89928e0000c0
+    created_at: '2017-11-29T05:08:49Z'
+    text: Thanks again.
+    ref: 5a1e40e1ed2a8962be004e3e
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_lepidoptera

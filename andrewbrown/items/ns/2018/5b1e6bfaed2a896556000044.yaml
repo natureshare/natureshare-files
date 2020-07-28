@@ -1,0 +1,40 @@
+id:
+  - Fisera eribola
+created_at: '2018-06-11T12:36:16Z'
+datetime: '2018-06-05T20:07:09+10:00'
+description: Moth approx. 35mm length. 2 photos
+elevation: 199.4
+latitude: -36.778256
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381049
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-06-11T12:36:33Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-06-05T20:07:09Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b1e6c00ed2a89b047000021.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b1e6c00ed2a89b047000021.JPG'
+  - datetime: '2018-06-05T20:07:25Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b1e6c22ed2a89d0e700002f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b1e6c22ed2a89d0e700002f.JPG'
+tags:
+  - moth
+  - moth-dark
+  - moth-dark-grey
+comments:
+  - created_at: '2018-06-11T12:46:28Z'
+    text: <em>Fisera eribola</em> species id suggested
+    ref: 5b1e6f24ed2a897859002dd1
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - moths_of_junortoun
+  - moths_of_central_victoria

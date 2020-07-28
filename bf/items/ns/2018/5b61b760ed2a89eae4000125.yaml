@@ -1,0 +1,29 @@
+id:
+  - Hydrocotyle hirta
+created_at: '2018-08-01T13:40:01Z'
+datetime: '2012-10-21T17:34:02+10:00'
+description: 2 Photos
+elevation: 492.2
+latitude: -37.308543
+location_name: 'Mount Beckworth VIC 3363, Australia'
+longitude: 143.717936
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2018-08-01T13:40:10Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2012-10-21T17:34:02Z'
+    height: 3056
+    width: 4592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b61b784ed2a892807000088.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b61b784ed2a892807000088.JPG'
+  - datetime: '2012-10-21T17:33:49Z'
+    height: 3056
+    width: 4592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b61b766ed2a891efe00007c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b61b766ed2a891efe00007c.JPG'
+collections:
+  - mount_beckworth

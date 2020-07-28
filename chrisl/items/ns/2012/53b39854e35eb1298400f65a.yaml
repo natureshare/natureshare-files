@@ -1,0 +1,22 @@
+id:
+  - name: Anas gracilis
+created_at: '2012-07-01T20:47:40Z'
+datetime: '2012-03-31T09:55:36+10:00'
+description: |
+  Flying along Lindsay River.
+latitude: -34.137733
+longitude: 141.281403
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2012-07-01T20:50:22Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-03-31T09:55:36Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39863e35eb12984012e06.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012e06.jpg'
+  - datetime: '2012-03-31T09:55:37Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39863e35eb12984012e07.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012e07.jpg'
+collections:
+  - neds_corner_birds

@@ -1,0 +1,33 @@
+id:
+  - Hydrocotyle hirta
+created_at: '2014-11-11T10:08:58Z'
+datetime: '2014-11-11T10:48:40+10:00'
+latitude: -37.453136
+longitude: 144.647556
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-11-13T02:19:16Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-11-11T10:48:40Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5461e03ae35eb1040e000023.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5461e03ae35eb1040e000023.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2014-11-11T10:26:42Z'
+    text: 'Hi David. Strongly suggest Hydrocotyle hirta due to tightly packed bisexual flower umbels, with more than 15 flowers per umbel on short or sessile pedicels. Would not have been giving of strong odour if H. hirta.'
+    ref: 5461e462e35eb1ef1d000032
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2014-11-11T11:01:56Z'
+    text: 'Thanks for the id, Chris'
+    ref: 5461eca4e35eb1ef1d000049
+    name: David Francis
+    username: david_francis
+collections:
+  - macedon_ranges_native_plants
+  - conglomerate_gully_riddells_creek_plants

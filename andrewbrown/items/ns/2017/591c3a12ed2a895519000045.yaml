@@ -1,0 +1,48 @@
+id:
+  - Rhipidura leucophrys
+created_at: '2017-05-18T11:14:24Z'
+datetime: '2017-05-13T10:39:00+10:00'
+elevation: 222
+latitude: -36.783237
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.373065
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-05-18T11:14:24Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 867
+    width: 960
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/591c3a31ed2a891d6d000151.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/591c3a31ed2a891d6d000151.JPG'
+  - height: 1155
+    width: 1052
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/591c3a18ed2a89e54800014b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/591c3a18ed2a89e54800014b.JPG'
+tags:
+  - bird
+  - bird-black-white
+  - bird-small
+comments:
+  - created_at: '2017-05-18T13:52:08Z'
+    text: Nice close-up pose.
+    ref: 591da708ed2a893e6b0014a8
+    name: David Francis
+    username: david_francis
+  - replying_to: 591da708ed2a893e6b0014a8
+    created_at: '2017-05-19T07:20:09Z'
+    text: My new 100-400mm lens helps!
+    ref: 591e9ca9ed2a893e6b00175d
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 591e9ca9ed2a893e6b00175d
+    created_at: '2017-05-19T07:26:29Z'
+    text: I could see that it wasn't a heavily cropped image. I've always wanted a good birding lens.
+    ref: 591e9e25ed2a893e6b00176e
+    name: David Francis
+    username: david_francis
+collections:
+  - wildlife_of_junortoun

@@ -1,0 +1,31 @@
+id:
+  - name: Ganoderma spp.
+    by: david_francis
+created_at: '2018-01-23T09:13:25Z'
+datetime: '2018-01-23T12:06:37+10:00'
+description: 'A large fungi, on the Sanitorium Lake Eco-Tourism Trail (location approximate).'
+latitude: -37.377836
+longitude: 144.611217
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-01-23T11:33:36Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-01-23T12:06:37Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a66fb29ed2a895fa2000001.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a66fb29ed2a895fa2000001.jpg'
+comments:
+  - created_at: '2018-01-23T10:35:57Z'
+    text: 'I believe this is Ganoderma applanatum, sometimes called the Artist''s Conk in the older field guides. The rounded white edge and underside with massed brown spores at this time of year is a strong indicator of the identity. '
+    ref: 5a67100ded2a893983000159
+    name: John Walter
+    username: 249pbr
+  - replying_to: 5a67100ded2a893983000159
+    created_at: '2018-01-26T10:32:10Z'
+    text: 'John, thanks for the id.'
+    ref: 5a6b03aaed2a89d02a000dfa
+    name: Thomas Nataprawira
+    username: tsnata

@@ -1,0 +1,36 @@
+id:
+  - name: Oecobius navus
+    by: russell
+created_at: '2015-01-11T05:19:44Z'
+datetime: '2015-01-11T10:21:54+10:00'
+description: Very tiny spider on the concrete wall.
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-02-18T10:26:08Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-01-11T10:21:54Z'
+    height: 1741
+    width: 2598
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54b207efed2a896d8600000a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54b207efed2a896d8600000a.JPG'
+  - datetime: '2015-01-11T10:21:24Z'
+    height: 1853
+    width: 2783
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54b207efed2a896d8600000b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54b207efed2a896d8600000b.JPG'
+tags:
+  - spider
+comments:
+  - created_at: '2015-02-18T10:26:41Z'
+    text: ID by Robert Whyte.
+    ref: 54e468e1ed2a89ef2700036b
+    name: Russell Best
+    username: russell
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains

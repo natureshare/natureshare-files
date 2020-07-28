@@ -1,0 +1,43 @@
+id:
+  - name: Pogona barbata
+    by: lconole
+created_at: '2017-11-28T07:41:15Z'
+datetime: '2017-10-21T11:20:50+10:00'
+description: A bearded dragon sunbaking at my bush block
+elevation: 275.1
+latitude: -37.304969
+location_name: 'Moyston VIC 3377, Australia'
+longitude: 142.744899
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-12-07T01:18:21Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-21T11:20:50Z'
+    height: 1473
+    width: 2301
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a1d1234ed2a89398400075b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a1d1234ed2a89398400075b.JPG'
+  - datetime: '2017-10-21T11:23:02Z'
+    height: 4000
+    width: 6000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a1d128eed2a89398400075c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a1d128eed2a89398400075c.JPG'
+tags:
+  - reptile
+comments:
+  - created_at: '2017-11-29T01:22:05Z'
+    text: Pogona barbata I'd suggest
+    ref: 5a1e0bbded2a8962be004cbf
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2017-11-29T10:08:36Z'
+    text: Thanks Lawrie
+    ref: 5a1e8724ed2a8962be004f59
+    name: Pauline McCarthy
+    username: pauline
+collections:
+  - flora_and_fauna_of_the_grampians

@@ -1,0 +1,41 @@
+id:
+  - Hibbertia exutiacies
+created_at: '2015-08-13T12:01:46Z'
+datetime: '2015-08-13T15:50:42+10:00'
+description: Small shrub - all plants have been heavily grazed.  These plants have the propensity to grow amongst the mosses.
+latitude: -37.74237
+longitude: 144.31893
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-08-13T15:18:17Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-08-13T15:50:42Z'
+    height: 2678
+    width: 2090
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55cc8729ed2a89db81000f73.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55cc8729ed2a89db81000f73.JPG'
+  - datetime: '2015-08-13T15:51:56Z'
+    height: 2948
+    width: 2367
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55cc8729ed2a89db81000f74.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55cc8729ed2a89db81000f74.JPG'
+tags:
+  - green
+  - shrub
+comments:
+  - created_at: '2015-08-13T15:27:51Z'
+    text: 'I had to delete your ''flower-yellow'' tag as the pics don''t show a yellow flower. If you want to add the info that this plant has a yellow flower when in flower then this is a species ''identification feature'' which can be added by editing the species info. As it happens, flower: yellow is already there for this species. This means a search in your Brisbane Range collection for plants with yellow flowers will already have this species in the search result. See http://natureshare.org.au/observations?species=hibbertia_exutiacies '
+    ref: 55ccb777ed2a89db81000fa5
+    name: Russell Best
+    username: russell
+  - replying_to: 55ccb777ed2a89db81000fa5
+    created_at: '2015-08-14T00:00:10Z'
+    text: Thanks - glad you are keeping tabs
+    ref: 55cd2f8aed2a89db81000fc1
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brisbane_ranges_national_park_plants
+  - brisbane_ranges_significant_flora_species

@@ -1,0 +1,47 @@
+id:
+  - name: Anthela acuta group
+    by: koolah
+created_at: '2017-03-28T20:56:39Z'
+datetime: '2017-03-22T20:56:04+10:00'
+description: Moth on window at night.  Photos taken from both sides of window.  Last photo had a blue background placed up against the glass.
+elevation: 12.5
+latitude: -38.08255
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086493
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-03-28T20:58:08Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-03-22T20:56:04Z'
+    height: 1450
+    width: 2203
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58dacd2eed2a8944100000a3.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58dacd2eed2a8944100000a3.JPG'
+  - datetime: '2017-03-22T20:57:24Z'
+    height: 1614
+    width: 2434
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58dacd56ed2a89a81f00008c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58dacd56ed2a89a81f00008c.JPG'
+  - datetime: '2017-03-22T20:56:50Z'
+    height: 1154
+    width: 1754
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58dacd69ed2a891d6d00009a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58dacd69ed2a891d6d00009a.JPG'
+tags:
+  - moth
+comments:
+  - created_at: '2017-03-28T22:08:19Z'
+    text: <em>Anthela acuta group</em> species id suggested
+    ref: 58daded3ed2a896341001e76
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2017-03-29T04:44:02Z'
+    text: Thanks Cathy
+    ref: 58db3b92ed2a896341001f91
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains
+  - butterflies_moths_seen_at_145_gibsons_road_cobains

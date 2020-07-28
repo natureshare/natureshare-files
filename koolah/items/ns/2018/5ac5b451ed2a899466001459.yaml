@@ -1,0 +1,37 @@
+id:
+  - Mnesampela heliochrysa
+created_at: '2018-04-05T05:35:06Z'
+datetime: '2018-04-05T03:26:04+10:00'
+description: Two additional images - one from the side and also one of the head.
+elevation: 260.9
+latitude: -37.806569
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297017
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-04-05T05:35:26Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-04-05T03:26:04Z'
+    height: 1449
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ac5b457ed2a89abdd00006d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ac5b457ed2a89abdd00006d.jpg'
+  - datetime: '2018-04-05T03:39:02Z'
+    height: 1313
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ac5b493ed2a89cf90000060.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ac5b493ed2a89cf90000060.jpg'
+  - datetime: '2018-04-05T03:18:38Z'
+    height: 2000
+    width: 1933
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ac5b4c7ed2a89cf90000061.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ac5b4c7ed2a89cf90000061.jpg'
+tags:
+  - male
+  - moth
+collections:
+  - brisbane_ranges_moths

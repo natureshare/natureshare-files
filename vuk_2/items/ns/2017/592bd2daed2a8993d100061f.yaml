@@ -1,0 +1,37 @@
+id:
+  - Araecerus palmaris
+created_at: '2017-05-29T07:50:50Z'
+datetime: '2017-05-29T17:46:00+10:00'
+elevation: 4.9
+latitude: -38.043895
+location_name: 'Chelsea Heights VIC 3196, Australia'
+longitude: 145.129222
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2017-05-29T10:42:17Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-05-29T18:21:26Z'
+    height: 2544
+    width: 2816
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/592bd61ced2a891d6d00016d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592bd61ced2a891d6d00016d.JPG'
+  - datetime: '2017-05-29T18:22:09Z'
+    height: 1440
+    width: 1704
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/592bd5e3ed2a891d6d00016c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592bd5e3ed2a891d6d00016c.JPG'
+comments:
+  - created_at: '2017-05-29T08:05:59Z'
+    text: 'Araecerus palmaris, Not in DB;   Elytron with two subasal tubercle,  protarsus as long as tibia. Abundant all around melbourne.'
+    ref: 592bd667ed2a8993d100062a
+    name: Vuk Vojis
+    username: vuk_2
+  - replying_to: 592bd667ed2a8993d100062a
+    created_at: '2017-05-29T10:25:23Z'
+    text: Araecerus palmaris now available in db.
+    ref: 592bf713ed2a8993d100068e
+    name: David Francis
+    username: david_francis

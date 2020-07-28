@@ -1,0 +1,35 @@
+id:
+  - name: Platylobium triangulare
+    by: david_francis
+created_at: '2016-10-15T09:50:23Z'
+datetime: '2016-10-09T12:24:58+10:00'
+latitude: -37.716678
+longitude: 141.224765
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-10-16T09:40:22Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-10-09T12:24:58Z'
+    height: 1987
+    width: 2548
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5801fb9bed2a892daf000136.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5801fb9bed2a892daf000136.JPG'
+tags:
+  - flower
+  - pea
+comments:
+  - created_at: '2018-10-13T09:55:03Z'
+    text: 'This is Platylobium triangulare, not P obtusangulum. The leaves of these two species are easily confused however the long stem (pedicel) of the flowers with the small recurved bracteoles located just at the flower bases confirms this is P. triangulare. See Lorraine Phelan''s image of P. obtusangulum from Sept 4 2017 which shows the very large bracteoles completely hiding the short pedicel of the flower on P. obtusangulum.'
+    ref: 5bc1c0f7ed2a89c10e003eca
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-10-16T09:39:52Z'
+    text: Id corrected as described by John
+    ref: 5bc5b1e8ed2a89c10e00509c
+    name: David Francis
+    username: david_francis
+collections:
+  - natureshare_org_au_collections_wilkinff

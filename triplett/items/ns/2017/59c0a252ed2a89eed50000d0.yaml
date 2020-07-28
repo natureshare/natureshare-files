@@ -1,0 +1,57 @@
+id:
+  - Pilacmonotus sabulosus
+created_at: '2017-09-19T04:54:14Z'
+datetime: '2017-02-12T15:07:17+10:00'
+elevation: 156
+latitude: -37.635696
+location_name: 'Greenvale VIC 3059, Australia'
+longitude: 144.86423
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-09-21T02:30:57Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-02-12T15:07:17Z'
+    height: 756
+    width: 640
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c0a254ed2a893984000267.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c0a254ed2a893984000267.jpg'
+tags:
+  - adult
+comments:
+  - created_at: '2017-09-20T04:24:17Z'
+    text: 'Great photo of an unusual family/species. Jeff, do you have information on the Owl Flies that allowed you to identify the genus and species? '
+    ref: 59c1ed71ed2a89eed50004e5
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-09-21T04:47:55Z'
+    text: 'Jeff, I am writing a book on lacewings of Victoria and would like permission to use your photograph. Could you please email to me on kennedyh@iinet.net.au'
+    ref: 59c3447bed2a89eed500093e
+    name: Ken Harris
+    username: kennedyh
+  - replying_to: 59c3447bed2a89eed500093e
+    created_at: '2017-09-23T02:39:33Z'
+    text: 'Hi David, based it on the description of the abdominal pattern in T . R . New (1984) Revision of the Australian Ascalaphidae (Insecta : Neuroptera). Australian Journal of Zoology Supplementary Series 100:1-86. Not 100% conclusive except that there are only 4 species that have been found in Victoria according to New (plus the one that Ken found at Neds Corner, but that hardly counts as Victoria!).'
+    ref: 59c5c965ed2a89eed50010d4
+    name: Jeff Triplett
+    username: triplett
+  - replying_to: 59c5c965ed2a89eed50010d4
+    created_at: '2017-09-23T03:12:16Z'
+    text: Great! Nice to have the reference. I will consider you and Ken Harris to be the go to people for Owl Fly identification.
+    ref: 59c5d110ed2a89eed50010e3
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-09-25T00:54:41Z'
+    text: 'Better leave me out of that, I had to look up most of the words in the description! I only knew it was an owl fly because I accidently came across Ken''s photo of the Ned''s corner specimen somewhere on the web.'
+    ref: 59c853d1ed2a892d40000463
+    name: Jeff Triplett
+    username: triplett
+  - replying_to: 59c853d1ed2a892d40000463
+    created_at: '2017-09-25T04:22:54Z'
+    text: 'Well done anyway, Jeff. I admire your internet research skills.'
+    ref: 59c8849eed2a89fd1300003a
+    name: David Francis
+    username: david_francis
+collections:
+  - woodlands_historic_park_insects_and_spiders

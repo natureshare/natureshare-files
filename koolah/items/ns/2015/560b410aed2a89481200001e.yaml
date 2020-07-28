@@ -1,0 +1,29 @@
+id:
+  - Elesma sp. (1)
+created_at: '2015-09-30T01:55:22Z'
+datetime: '2015-09-20T19:54:49+10:00'
+latitude: -37.806497
+longitude: 144.297217
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-09-30T01:58:17Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-09-20T19:54:49Z'
+    height: 1373
+    width: 1721
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560b411ced2a890d9500032a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560b411ced2a890d9500032a.JPG'
+  - datetime: '2015-09-20T19:57:15Z'
+    height: 1406
+    width: 1941
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560b4124ed2a890d9500032b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560b4124ed2a890d9500032b.JPG'
+tags:
+  - grey
+  - hindwing-white
+  - moth
+collections:
+  - brisbane_ranges_moths

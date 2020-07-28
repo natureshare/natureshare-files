@@ -1,0 +1,28 @@
+id:
+  - Ptilotula penicillata
+created_at: '2017-07-11T02:16:02Z'
+datetime: '2017-07-11T10:22:21+10:00'
+elevation: 203.1
+latitude: -37.695893
+location_name: 'Bacchus Marsh VIC 3340, Australia'
+longitude: 144.400401
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-07-11T02:45:24Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-07-11T10:22:21Z'
+    height: 1760
+    width: 1760
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5964343aed2a893984000105.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5964343aed2a893984000105.jpg'
+  - datetime: '2017-07-11T10:22:18Z'
+    height: 1780
+    width: 1780
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59643431ed2a893984000104.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59643431ed2a893984000104.jpg'
+collections:
+  - bacchus_marsh_race_course_reserve

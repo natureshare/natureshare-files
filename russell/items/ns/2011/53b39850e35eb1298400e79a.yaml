@@ -1,0 +1,29 @@
+id:
+  - name: Badumna insignis
+    by: david_francis
+created_at: '2011-05-20T20:39:21Z'
+datetime: '2008-05-26T23:11:39+10:00'
+latitude: -37.430897
+longitude: 144.654676
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2017-05-07T02:29:01Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2008-05-26T23:11:39Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ee35eb12984011b33.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b33.jpg'
+comments:
+  - created_at: '2017-05-06T23:53:10Z'
+    text: Badumna insignis Black House Spider
+    ref: 590e61e6ed2a893d8c0024d5
+    name: Robert Whyte
+    username: robertwhyte
+  - created_at: '2017-05-07T02:29:14Z'
+    text: id by RW - thanks
+    ref: 590e867aed2a893d8c002566
+    name: David Francis
+    username: david_francis
+collections:
+  - spiders_of_riddells_creek

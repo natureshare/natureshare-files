@@ -1,0 +1,25 @@
+id:
+  - Platycercus elegans flaveolus
+created_at: '2016-01-22T07:00:33Z'
+datetime: '2013-09-24T16:58:57+10:00'
+latitude: -34.14061
+longitude: 141.329041
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-04-10T07:58:12Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2013-09-24T16:58:57Z'
+    height: 1829
+    width: 2744
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a1c03eed2a89e050000030.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a1c03eed2a89e050000030.jpg'
+  - datetime: '2013-09-24T16:58:31Z'
+    height: 1258
+    width: 1887
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a1c036ed2a89b31c000030.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a1c036ed2a89b31c000030.jpg'
+collections:
+  - neds_corner_birds

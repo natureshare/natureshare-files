@@ -1,0 +1,36 @@
+id:
+  - Lepidoptera spp.
+created_at: '2014-12-23T05:55:23Z'
+datetime: '2014-12-23T07:28:07+10:00'
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-12-23T05:56:45Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-12-23T07:28:07Z'
+    height: 1301
+    width: 1940
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/549903cbe35eb11929000010.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/549903cbe35eb11929000010.JPG'
+tags:
+  - moth
+comments:
+  - created_at: '2015-04-22T11:29:19Z'
+    text: Scioglyptis spp.?
+    ref: 5537860fed2a892a1d000001
+    name: Mark Ridgway
+    username: argybee
+  - replying_to: 5537860fed2a892a1d000001
+    created_at: '2015-04-23T00:22:29Z'
+    text: 'Thanks Mark.  It certainly does look similar.  I find moths very difficult, they seem to be so variable even within a species.  '
+    ref: 55383b45ed2a893232000070
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains
+  - butterflies_moths_seen_at_145_gibsons_road_cobains

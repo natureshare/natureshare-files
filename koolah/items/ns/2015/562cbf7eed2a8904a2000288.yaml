@@ -1,0 +1,40 @@
+id:
+  - Wheeleria spilodactylus
+created_at: '2015-10-25T11:39:42Z'
+datetime: '2015-10-19T21:51:56+10:00'
+latitude: -37.80657
+longitude: 144.29706
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-10-26T10:33:11Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-10-19T21:51:56Z'
+    height: 1301
+    width: 1784
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/562cbf98ed2a899c63000047.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/562cbf98ed2a899c63000047.JPG'
+  - datetime: '2015-10-19T21:53:21Z'
+    height: 1129
+    width: 1137
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/562cbf8fed2a899c63000046.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/562cbf8fed2a899c63000046.JPG'
+tags:
+  - moth
+  - white
+comments:
+  - created_at: '2015-10-26T07:53:28Z'
+    text: Looks like we have a mis-spelling in the database. Wheeleria - I wonder if I should add mine without ID.
+    ref: 562ddbf8ed2a895c9500003b
+    name: Mark Ridgway
+    username: argybee
+  - created_at: '2015-10-26T09:48:08Z'
+    text: Good pick up Mark. Corrected now.
+    ref: 562df6d8ed2a895c9500005b
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - brisbane_ranges_moths

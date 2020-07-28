@@ -1,0 +1,26 @@
+id:
+  - Eriophora spp.
+created_at: '2017-01-07T13:25:24Z'
+datetime: '2017-01-07T22:31:14+10:00'
+latitude: -37.407963
+longitude: 144.595005
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-01-07T13:27:09Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-01-07T22:31:14Z'
+    height: 1024
+    width: 1365
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5870ecb3ed2a89b7180002cd.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5870ecb3ed2a89b7180002cd.jpg'
+comments:
+  - created_at: '2017-01-07T13:39:41Z'
+    text: <em>Eriophora spp.</em> species id suggested
+    ref: 5870ef9ded2a89f464000f24
+    name: David Francis
+    username: david_francis
+collections:
+  - insects_and_other_arthropods_of_mt_macedon

@@ -1,0 +1,32 @@
+id:
+  - Heteroscelus brevipes
+created_at: '2015-10-01T14:09:08Z'
+datetime: '2015-03-19T14:29:49+10:00'
+elevation: 1.9
+latitude: -38.085493
+location_name: 'Avalon VIC, Australia'
+longitude: 144.43521
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-10-01T14:11:04Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-03-19T14:29:49Z'
+    height: 1653
+    width: 2479
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560d3e8ded2a890d9500039b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560d3e8ded2a890d9500039b.jpg'
+comments:
+  - created_at: '2015-10-01T14:40:18Z'
+    text: Great stuff Michael!
+    ref: 560d45d2ed2a894016000069
+    name: Chris Clarke
+    username: cclarke
+  - replying_to: 560d45d2ed2a894016000069
+    created_at: '2015-10-02T05:43:37Z'
+    text: 'Thanks Chris - more to come :)'
+    ref: 560e1989ed2a8940160000b1
+    name: Michael Gooch
+    username: michaelgooch

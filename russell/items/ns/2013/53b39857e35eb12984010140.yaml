@@ -1,0 +1,30 @@
+id:
+  - name: Cillibus incisus
+created_at: '2013-05-28T11:55:14Z'
+datetime: '2007-10-25T21:44:13+10:00'
+description: A type of Pie-dish Beetle.
+latitude: -37.430792
+longitude: 144.654772
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-07-03T06:28:32Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2007-10-25T21:44:13Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39867e35eb12984013e4b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39867e35eb12984013e4b.jpg'
+  - datetime: '2007-10-25T21:44:51Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39867e35eb12984013e4c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39867e35eb12984013e4c.jpg'
+comments:
+  - created_at: '2013-05-28T18:56:34Z'
+    text: ID by Ken Walker.
+    ref: 53b3984ce35eb1298400dacf
+  - created_at: '2017-12-31T08:16:45Z'
+    text: Saragus costatus
+    ref: 5a489ceded2a89e23c0039bb
+    name: Kimberi Pullen
+    username: kimberip
+collections:
+  - insects_and_other_invertebrates_of_riddells_creek

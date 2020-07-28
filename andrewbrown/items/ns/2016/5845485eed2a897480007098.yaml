@@ -1,0 +1,43 @@
+id:
+  - Eriophora transmarina
+created_at: '2016-12-05T12:34:51Z'
+datetime: '2016-12-03T09:42:51+10:00'
+description: Orb type spider? Body approx. 12mm with longest legs 25mm
+elevation: 207.3
+latitude: -36.781497
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.388949
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-12-08T12:07:35Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-12-03T09:42:51Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58454873ed2a89b71800021d.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58454873ed2a89b71800021d.jpeg'
+tags:
+  - spider
+comments:
+  - created_at: '2016-12-05T23:10:38Z'
+    text: <em>Eriophora spp.</em> species id suggested
+    ref: 5845f3eeed2a89c91b000002
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-12-08T11:25:44Z'
+    text: 'Maybe E. transmarina as they vary in  colour according to http://www.arachne.org.au/01_cms/details.asp?ID=1992'
+    ref: 58494338ed2a8974800079e0
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 58494338ed2a8974800079e0
+    created_at: '2016-12-08T11:56:07Z'
+    text: 'Yes, Andrew, I agree E. transmarina is most likely.'
+    ref: 58494a57ed2a8960c0000002
+    name: David Francis
+    username: david_francis
+collections:
+  - wildlife_of_junortoun

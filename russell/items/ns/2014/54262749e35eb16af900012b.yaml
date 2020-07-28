@@ -1,0 +1,35 @@
+id:
+  - Eragrostis setifolia
+created_at: '2014-09-27T02:56:09Z'
+datetime: '2014-09-05T11:05:43+10:00'
+latitude: -34.136051
+longitude: 141.297546
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-09-27T02:58:52Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-05T11:05:43Z'
+    height: 2378
+    width: 2429
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54262749e35eb16af9000129.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54262749e35eb16af9000129.JPG'
+  - datetime: '2014-09-05T11:05:07Z'
+    height: 1443
+    width: 2020
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54262749e35eb16af900012a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54262749e35eb16af900012a.JPG'
+  - datetime: '2014-09-05T11:04:51Z'
+    height: 2237
+    width: 1571
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/542627b1e35eb1aeb30000bf.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/542627b1e35eb1aeb30000bf.JPG'
+comments:
+  - created_at: '2014-09-27T03:08:16Z'
+    text: ID by Nathan Wong.
+    ref: 54262a20e35eb1aeb30000c5
+    name: Russell Best
+    username: russell
+collections:
+  - neds_corner_plants

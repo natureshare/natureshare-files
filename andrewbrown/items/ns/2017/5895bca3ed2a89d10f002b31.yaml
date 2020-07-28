@@ -1,0 +1,38 @@
+id:
+  - Lobelia simplicicaulis
+created_at: '2017-02-04T11:42:29Z'
+datetime: '2017-02-01T17:23:24+10:00'
+description: Quite a few Lobelia flowering in this spot. Plants single stemmed ranging in height from 10-30 cm with no leaves present (withered). Maybe Lobelia simplicicaulis as these are different to earlier observations of L. gibbosa?
+elevation: 215.7
+latitude: -36.775761
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.356461
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-02-05T09:50:56Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-02-01T17:23:24Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5895bcafed2a89b3fe000381.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5895bcafed2a89b3fe000381.jpeg'
+tags:
+  - flower-blue
+  - flower-purple
+  - single-stem
+comments:
+  - created_at: '2017-02-04T22:38:44Z'
+    text: 'Yes, I agree. It looks llike L. simplicaulis - Definitely not L. gibbosa which I know well. Simplicaulis flowers are longer, thiner, paler and pointier, I think.'
+    ref: 589657f4ed2a89d10f002c30
+    name: David Francis
+    username: david_francis
+  - replying_to: 589657f4ed2a89d10f002c30
+    created_at: '2017-02-05T09:50:09Z'
+    text: 'Thanks David, I''ll change id.'
+    ref: 5896f551ed2a89d10f002d92
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - junortoun_flora

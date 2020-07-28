@@ -1,0 +1,46 @@
+id:
+  - name: Carabidae spp.
+    by: david_francis
+created_at: '2018-09-18T09:00:52Z'
+datetime: '2018-09-18T15:37:04+10:00'
+elevation: 283.3
+latitude: -37.527443
+location_name: '405 Lancefield Rd, Sunbury VIC 3429, Australia'
+longitude: 144.763336
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-09-18T09:00:56Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-09-18T15:37:04Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ba0bdcced2a891efe0000da.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ba0bdcced2a891efe0000da.JPG'
+  - datetime: '2018-09-18T15:37:01Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ba0be2ded2a891efe0000db.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ba0be2ded2a891efe0000db.JPG'
+  - datetime: '2018-09-18T15:36:56Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ba0be6bed2a891efe0000dc.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ba0be6bed2a891efe0000dc.JPG'
+comments:
+  - created_at: '2018-09-18T09:00:13Z'
+    text: 3 pix...beetle under some fire wood..
+    ref: 5ba0be9ded2a89cce3005fb3
+    name: Peter Clark
+    username: emucreek
+  - created_at: '2018-09-19T04:21:14Z'
+    text: <em>Carabidae spp.</em> species id suggested
+    ref: 5ba1cebaed2a89cce3006385
+    name: David Francis
+    username: david_francis
+  - created_at: '2019-04-25T10:55:52Z'
+    text: Adelium sp.
+    ref: 5cc192383abbd680e000005e
+    name: Kimberi Pullen
+    username: kimberip

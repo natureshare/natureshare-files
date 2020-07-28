@@ -1,0 +1,40 @@
+id:
+  - name: Proteuxoa spp.
+    by: koolah
+created_at: '2017-03-19T10:57:47Z'
+datetime: '2017-03-18T22:19:38+10:00'
+description: Moth very similar to previous observation but lacks the white in the wing markings. Are they the same species -male/female maybe?
+elevation: 204.8
+latitude: -36.77842
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381503
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-03-19T10:57:47Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-03-18T22:19:38Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58ce1853ed2a891d6d00006b.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce1853ed2a891d6d00006b.jpeg'
+tags:
+  - moth
+  - moth-dark-grey
+comments:
+  - created_at: '2017-03-19T22:33:39Z'
+    text: 'At the moment, a review of the genus Proteuxoa is being undertaken for Victorian species and I would be reluctant to put a species name for most because it is bound to change.'
+    ref: 58cf0743ed2a896341000140
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2017-03-20T00:00:11Z'
+    text: <em>Proteuxoa spp.</em> species id suggested
+    ref: 58cf1b8bed2a8963410001be
+    name: Cathy Powers
+    username: koolah
+collections:
+  - wildlife_of_junortoun
+  - moths_of_junortoun
+  - moths_of_central_victoria

@@ -1,0 +1,39 @@
+id:
+  - name: Macrolepiota procera
+    by: david_francis
+created_at: '2017-03-09T02:35:00Z'
+datetime: '2016-06-12T14:16:00+10:00'
+elevation: 185.6
+latitude: -37.977306
+location_name: 'Pakenham Upper VIC 3810, Australia'
+longitude: 145.483971
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: true
+updated_at: '2017-03-09T02:45:16Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-06-12T14:16:38Z'
+    height: 3264
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58c0bdd2ed2a89e548000044.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c0bdd2ed2a89e548000044.JPG'
+tags:
+  - fungi
+comments:
+  - created_at: '2017-03-10T12:31:36Z'
+    text: <em>Macrolepiota procera</em> species id suggested
+    ref: 58c29ca8ed2a893890003b95
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-03-10T12:36:56Z'
+    text: Large size and the dark umbo (protruberance at top) are identifying features.
+    ref: 58c29de8ed2a893890003b96
+    name: David Francis
+    username: david_francis
+  - replying_to: 58c29de8ed2a893890003b96
+    created_at: '2017-03-13T22:09:38Z'
+    text: 'Thanks David for the id, cheers Mark'
+    ref: 58c718a2ed2a8960a2000686
+    name: Mark Williams
+    username: markwilliams

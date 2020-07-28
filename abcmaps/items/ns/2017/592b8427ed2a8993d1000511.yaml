@@ -1,0 +1,40 @@
+id:
+  - Viburnum tinus
+created_at: '2017-05-29T02:18:26Z'
+datetime: '2017-05-18T15:05:17+10:00'
+description: Introduced species. Recently noticed growing on roadside reserve. Identified by Lewis Hiller - Plant Identification Australia (Facebook).
+elevation: 166.6
+latitude: -37.80163
+location_name: 'Launching Place VIC 3139, Australia'
+longitude: 145.584693
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-05-30T00:28:58Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-05-18T15:05:17Z'
+    height: 2880
+    width: 3840
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/592b8431ed2a89e54800016e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592b8431ed2a89e54800016e.JPG'
+  - datetime: '2017-05-18T15:05:28Z'
+    height: 2880
+    width: 3840
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/592b8430ed2a89441000014f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592b8430ed2a89441000014f.JPG'
+comments:
+  - created_at: '2017-05-30T00:29:45Z'
+    text: Thanks Luke. A useful addition to Natureshare as it will help others identify this weed species.
+    ref: 592cbcf9ed2a8993d1000827
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 592cbcf9ed2a8993d1000827
+    created_at: '2017-05-30T12:43:20Z'
+    text: Seems to be growing quite rapidly. Its in a patch of native vegetation that I see regularly and haven't seen this plant before this year. I guess I should do a good deed and pull the group of plants out.
+    ref: 592d68e8ed2a8993d1000a06
+    name: Luke Steenhuis
+    username: abcmaps
+collections:
+  - hoddles_creek_region_wildflowers

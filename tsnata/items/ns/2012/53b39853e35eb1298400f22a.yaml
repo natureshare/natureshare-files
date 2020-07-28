@@ -1,0 +1,21 @@
+id:
+  - name: Platycercus elegans elegans
+created_at: '2012-01-21T18:39:17Z'
+datetime: '2012-01-12T08:01:57+10:00'
+description: Observed in Grey River
+latitude: -38.684055
+longitude: 143.838407
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2012-01-21T18:45:22Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-01-12T08:01:57Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39861e35eb1298401286b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb1298401286b.jpg'
+  - datetime: '2012-01-12T08:03:20Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39861e35eb1298401286c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb1298401286c.jpg'
+collections:
+  - grey_river

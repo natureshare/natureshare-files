@@ -1,0 +1,35 @@
+id:
+  - name: Australiphthiria spp.
+    by: david_francis
+created_at: '2017-01-28T11:34:30Z'
+datetime: '2017-01-22T15:40:58+10:00'
+elevation: 31.6
+latitude: -38.684082
+location_name: 'Grey River VIC 3234, Australia'
+longitude: 143.838402
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-01-28T15:29:38Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-22T15:40:58Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588c7fc3ed2a89d73e000336.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588c7fc3ed2a89d73e000336.jpg'
+  - datetime: '2017-01-22T15:41:33Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/588c7fcaed2a89b718000362.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588c7fcaed2a89b718000362.jpg'
+comments:
+  - created_at: '2017-01-29T11:03:29Z'
+    text: <em>Australiphthiria spp.</em> species id suggested
+    ref: 588dcc01ed2a89d10f00180d
+    name: David Francis
+    username: david_francis
+collections:
+  - grey_river

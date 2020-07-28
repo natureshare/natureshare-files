@@ -1,0 +1,57 @@
+id:
+  - name: Mormopterus spp.
+    by: david_francis
+created_at: '2017-01-08T04:57:42Z'
+datetime: '2016-04-04T21:26:20+10:00'
+description: Mormopterus spp. from Neds Corner.
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-01-08T05:30:38Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-04-04T21:26:20Z'
+    height: 3264
+    width: 4928
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5871c679ed2a892daf0002ec.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5871c679ed2a892daf0002ec.jpg'
+  - datetime: '2016-04-04T21:26:27Z'
+    height: 3264
+    width: 4928
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5871c675ed2a89d73e0002af.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5871c675ed2a89d73e0002af.jpg'
+  - datetime: '2016-04-04T21:28:04Z'
+    height: 3264
+    width: 4928
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5871c68ded2a89b3fe0002dc.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5871c68ded2a89b3fe0002dc.jpg'
+  - datetime: '2016-04-04T21:28:19Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5871c690ed2a89b7180002d4.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5871c690ed2a89b7180002d4.jpg'
+comments:
+  - created_at: '2017-01-27T11:23:42Z'
+    text: <em>Mormopterus spp.</em> species id suggested
+    ref: 588b2dbeed2a89d10f00106b
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-27T11:24:18Z'
+    text: Mormopterus spp. added to db. Id by Chris Lindorff.
+    ref: 588b2de2ed2a89d10f00106c
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-27T11:25:37Z'
+    text: 'Chris, please change the id attribution back to you.'
+    ref: 588b2e31ed2a89d10f00106e
+    name: David Francis
+    username: david_francis
+  - replying_to: 588b2e31ed2a89d10f00106e
+    created_at: '2017-01-28T11:34:56Z'
+    text: 'It is possible that James is able to assign a species, which would change the id again. Thanks.'
+    ref: 588c81e0ed2a89d10f0014be
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - neds_corner_mammals

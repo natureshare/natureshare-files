@@ -1,0 +1,23 @@
+id:
+  - name: Maireana spp.
+created_at: '2011-11-29T08:52:18Z'
+datetime: '2011-11-04T17:33:26+10:00'
+latitude: -34.163077
+longitude: 141.370295
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2011-11-29T08:54:18Z'
+license: CC BY 2.5 AU
+photos:
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39861e35eb12984012624.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb12984012624.jpg'
+  - datetime: '2011-11-04T17:33:26Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39861e35eb12984012625.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb12984012625.jpg'
+comments:
+  - created_at: '2012-04-15T00:11:20Z'
+    text: Either M. appressa or radiata but can't tell without fruit.
+    ref: 53b3984be35eb1298400d9e5
+collections:
+  - neds_corner_plants

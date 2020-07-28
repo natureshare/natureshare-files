@@ -1,0 +1,30 @@
+id:
+  - name: Stylidium despectum
+created_at: '2014-06-08T14:16:40Z'
+datetime: '2010-09-28T14:24:28+10:00'
+description: Burnt area on Rose Gap Road.
+latitude: -36.95712
+longitude: 142.479921
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-07-02T07:47:22Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2010-09-28T14:24:28Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986ce35eb129840153f6.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb129840153f6.jpg'
+  - datetime: '2010-09-28T14:17:57Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986ce35eb129840153f7.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb129840153f7.jpg'
+  - datetime: '2010-09-28T14:24:42Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986ce35eb129840153f8.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb129840153f8.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2014-06-08T16:42:36Z'
+    text: Location approximate.
+    ref: 53b3984de35eb1298400dd2f
+collections:
+  - grampians_np_plants

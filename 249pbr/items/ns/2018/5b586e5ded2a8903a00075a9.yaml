@@ -1,0 +1,35 @@
+id:
+  - Mycena interrupta
+created_at: '2018-07-25T12:39:09Z'
+datetime: '2012-06-09T13:41:21+10:00'
+description: Two images
+elevation: 896
+latitude: -37.381161
+location_name: 'Mount Macedon VIC 3441, Australia'
+longitude: 144.608507
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-08-04T12:27:16Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2012-06-09T13:41:21Z'
+    height: 928
+    width: 712
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b586e68ed2a89280700006b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b586e68ed2a89280700006b.jpg'
+  - datetime: '2012-06-09T13:35:52Z'
+    height: 1086
+    width: 1372
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b586e62ed2a89402b000062.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b586e62ed2a89402b000062.jpg'
+comments:
+  - created_at: '2018-08-04T12:27:19Z'
+    text: Amazing colour!
+    ref: 5b659ba7ed2a89a7f100129c
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - macedon_ranges_-_fungi

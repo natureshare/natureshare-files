@@ -1,0 +1,60 @@
+created_at: '2017-09-26T04:33:50Z'
+datetime: '2017-09-22T16:30:00+10:00'
+elevation: 158.1
+latitude: -37.648431
+location_name: 'Greenvale VIC 3059, Australia'
+longitude: 144.857697
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-09-26T07:38:07Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 1318
+    width: 1977
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c9d883ed2a8939840002df.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c9d883ed2a8939840002df.jpg'
+  - height: 1430
+    width: 2145
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c9d87eed2a8939840002de.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c9d87eed2a8939840002de.jpg'
+comments:
+  - created_at: '2017-09-26T06:52:32Z'
+    text: 'Very clear photos as usual, Andrew. Tenebrionidae sp.?'
+    ref: 59c9f930ed2a892d4000094e
+    name: David Francis
+    username: david_francis
+  - replying_to: 59c9f930ed2a892d4000094e
+    created_at: '2017-09-26T07:37:10Z'
+    text: Thanks David. From there I think I might have narrowed it down to Meloidae
+    ref: 59ca03a6ed2a892d40000988
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 59c9f930ed2a892d4000094e
+    created_at: '2017-09-26T07:47:16Z'
+    text: 'Similar to this one but not the same... http://www.bowerbird.org.au/observations/20374'
+    ref: 59ca0604ed2a892d40000990
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 59c9f930ed2a892d4000094e
+    created_at: '2017-09-26T08:06:54Z'
+    text: Now thinking Cantharidae
+    ref: 59ca0a9eed2a892d400009a9
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 59c9f930ed2a892d4000094e
+    created_at: '2017-09-26T08:14:06Z'
+    text: and Melyridae... too many beetles!!!!
+    ref: 59ca0c4eed2a891e6400000a
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 59ca0c4eed2a891e6400000a
+    created_at: '2017-09-26T08:54:09Z'
+    text: 'Yes, there are too many beetles of similar appearance but in different families. Too hard for me.'
+    ref: 59ca15b1ed2a891e6400000c
+    name: David Francis
+    username: david_francis
+collections:
+  - woodlands_historic_park_insects_and_spiders
+  - woodlands_historic_park_-_coleoptera

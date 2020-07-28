@@ -1,0 +1,37 @@
+id:
+  - Amphitropesa elegans
+created_at: '2015-03-11T09:29:32Z'
+datetime: '2015-03-11T11:04:33+10:00'
+description: A large and colourful Tachinid fly.
+latitude: -37.372192
+longitude: 144.621633
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-03-11T09:37:09Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-03-11T11:04:33Z'
+    height: 768
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55000afbed2a8994a9000164.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55000afbed2a8994a9000164.jpg'
+  - datetime: '2015-03-11T11:03:55Z'
+    height: 768
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55000afbed2a8994a9000165.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55000afbed2a8994a9000165.jpg'
+comments:
+  - created_at: '2015-03-12T02:37:24Z'
+    text: 'Well that one would have stood out I reckon. :)'
+    ref: 5500fbe4ed2a8994a90001a1
+    name: Mark Ridgway
+    username: argybee
+  - replying_to: 5500fbe4ed2a8994a90001a1
+    created_at: '2015-03-12T02:58:18Z'
+    text: 'Yes, I didn''t have to hunt for that one!'
+    ref: 550100caed2a8994a90001a3
+    name: David Francis
+    username: david_francis
+collections:
+  - insects_and_other_arthropods_of_mt_macedon

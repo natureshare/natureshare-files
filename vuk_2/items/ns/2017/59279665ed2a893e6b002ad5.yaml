@@ -1,0 +1,37 @@
+id:
+  - Rentinus dilatatus
+created_at: '2017-05-26T02:43:49Z'
+datetime: '2017-05-26T12:42:00+10:00'
+elevation: 7.1
+latitude: -38.037
+location_name: 'Edithvale VIC 3196, Australia'
+longitude: 145.113
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2017-05-26T12:17:00Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-05-26T12:59:17Z'
+    height: 3592
+    width: 2712
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/592796dfed2a891d6d000165.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592796dfed2a891d6d000165.JPG'
+  - datetime: '2017-05-26T12:58:59Z'
+    height: 1464
+    width: 2920
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/592796d8ed2a891d6d000164.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592796d8ed2a891d6d000164.JPG'
+comments:
+  - created_at: '2017-05-26T02:46:25Z'
+    text: 'Rentinus dilatatus not in Db, attracted by light'
+    ref: 59279701ed2a893e6b002ade
+    name: Vuk Vojis
+    username: vuk_2
+  - replying_to: 59279701ed2a893e6b002ade
+    created_at: '2017-05-26T12:02:13Z'
+    text: Rentinus dilatatus now in db
+    ref: 59281945ed2a893e6b002c29
+    name: David Francis
+    username: david_francis

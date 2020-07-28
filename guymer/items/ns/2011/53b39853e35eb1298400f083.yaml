@@ -1,0 +1,35 @@
+id:
+  - name: Linum marginale
+created_at: '2011-11-29T13:41:12Z'
+datetime: '2006-10-18T12:06:34+10:00'
+latitude: -37.773768
+longitude: 145.223572
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2011-11-29T13:46:45Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2006-10-18T12:06:34Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39861e35eb12984012629.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb12984012629.jpg'
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39869e35eb129840146bd.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb129840146bd.jpg'
+tags:
+  - flower
+  - habit
+comments:
+  - created_at: '2011-11-29T13:44:22Z'
+    text: 'Hundred Acres, Park Orchards'
+    ref: 53b3984be35eb1298400d992
+  - created_at: '2013-10-29T00:09:12Z'
+    text: Habit image from Cathy Willis
+    ref: 53b3984ce35eb1298400db96
+  - created_at: '2013-10-29T00:10:05Z'
+    text: |-
+      Habit image from Cathy Willis
+
+      Flower image from Hundred Acres
+    ref: 53b3984ce35eb1298400db97
+collections:
+  - eastern_melbourne_plants

@@ -1,0 +1,32 @@
+id:
+  - name: Neurachne alopecuroidea
+    by: chrisl
+created_at: '2017-12-11T09:07:52Z'
+datetime: '2017-12-11T16:07:00+10:00'
+elevation: 232
+latitude: -37.4978
+location_name: 'Victoria Valley VIC 3294, Australia'
+longitude: 142.345806
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-12-11T11:04:42Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 1625
+    width: 2236
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a2e4af5ed2a893fb700000c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a2e4af5ed2a893fb700000c.JPG'
+comments:
+  - created_at: '2017-12-11T10:34:32Z'
+    text: <em>Neurachne alopecuroidea</em> species id suggested
+    ref: 5a2e5f38ed2a896262000760
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2017-12-11T10:49:14Z'
+    text: Thanks Chris.
+    ref: 5a2e62aaed2a896262000773
+    name: Linley McGlashan
+    username: linleymcg
+collections:
+  - flora_of_panyyabyr_southern_grampians

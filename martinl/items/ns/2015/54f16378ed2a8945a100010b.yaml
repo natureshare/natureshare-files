@@ -1,0 +1,41 @@
+id:
+  - Paropsis augusta
+created_at: '2015-02-28T06:43:04Z'
+datetime: '2015-02-13T15:32:51+10:00'
+description: 'This is the montane Paropsis augusta.  It is the largest species of leaf beetle that I am familiar with.  The color can vary from red to yellow.  The black scutellum is consistent in this species.  '
+elevation: 344.9
+latitude: -37.634973
+location_name: 'Licola VIC 3858, Australia'
+longitude: 146.662039
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-03-02T11:34:34Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-02-13T15:32:51Z'
+    height: 770
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54f16377ed2a8945a1000107.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f16377ed2a8945a1000107.JPG'
+  - datetime: '2015-02-14T18:04:14Z'
+    height: 771
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54f16377ed2a8945a1000108.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f16377ed2a8945a1000108.JPG'
+tags:
+  - beetle
+comments:
+  - created_at: '2015-03-02T10:17:27Z'
+    text: Fantastic photos. Name now in dbase for you to assign.
+    ref: 54f438b7ed2a8945a10003fd
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 54f438b7ed2a8945a10003fd
+    created_at: '2015-03-02T11:23:53Z'
+    text: 'Thanks Chris.  It is a magnificent beetle.  I suspect that the yellow colors are early in the season and orange/red come later.  We need more sightings to check this suspicion.  Next time in Bright, Hotham, Falls Creek, Buller, in the summertime, you can find one.  They would also be in Kosciusko.  '
+    ref: 54f44849ed2a8983c20003cc
+    name: Martin Lagerwey
+    username: martinl
+collections:
+  - beetles_leaf_beetle_reference_collection

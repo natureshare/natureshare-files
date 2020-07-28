@@ -1,0 +1,50 @@
+id:
+  - name: Phebalium festivum
+    by: david_francis
+created_at: '2017-10-09T10:55:43Z'
+datetime: '2017-10-03T11:57:39+10:00'
+elevation: 211.9
+latitude: -36.625295
+location_name: 'Whipstick VIC 3556, Australia'
+longitude: 144.256997
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-10-09T10:56:11Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-03T11:57:39Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59db50ebed2a89398400045d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59db50ebed2a89398400045d.JPG'
+  - datetime: '2017-10-03T11:56:40Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59db50bbed2a89398400045a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59db50bbed2a89398400045a.JPG'
+  - datetime: '2017-10-03T11:57:13Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59db510aed2a89398400045f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59db510aed2a89398400045f.JPG'
+tags:
+  - flowers-white
+  - petals-5
+  - shrub-straggly
+  - stamens-10
+  - stamens-long
+comments:
+  - created_at: '2017-10-09T11:57:05Z'
+    text: <em>Phebalium festivum</em> species id suggested
+    ref: 59db6411ed2a892d40004065
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-10-09T11:58:50Z'
+    text: Nice find. Localised distribution in Goldfields area. Vulnerable in Vic.
+    ref: 59db647aed2a892d40004066
+    name: David Francis
+    username: david_francis
+collections:
+  - whipstick_flora

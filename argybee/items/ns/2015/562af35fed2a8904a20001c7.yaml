@@ -1,0 +1,31 @@
+id:
+  - Pseudopantilius australis
+created_at: '2015-10-24T02:56:31Z'
+datetime: '2015-10-23T13:23:00+10:00'
+description: 'Mirid bug on Leptospermum. About 12mm long '
+latitude: -38.169721
+location_name: 'Langwarrin VIC 3910, Australia'
+longitude: 145.171118
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: true
+updated_at: '2015-10-28T12:13:16Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-10-23T01:23:53Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/562af36eed2a899c6300002d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/562af36eed2a899c6300002d.JPG'
+comments:
+  - created_at: '2015-10-28T10:17:50Z'
+    text: HI Mark. Have added this name. Another great find.
+    ref: 5630a0ceed2a89e56e000031
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 5630a0ceed2a89e56e000031
+    created_at: '2015-10-28T12:12:32Z'
+    text: Thanks again Chris
+    ref: 5630bbb0ed2a89e56e00003a
+    name: Mark Ridgway
+    username: argybee

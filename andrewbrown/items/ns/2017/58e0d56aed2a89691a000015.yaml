@@ -1,0 +1,38 @@
+id:
+  - Lepus capensis
+created_at: '2017-04-02T10:59:04Z'
+datetime: '2017-04-02T20:41:00+10:00'
+description: Hare on the look out after being disturbed.
+elevation: 213.1
+latitude: -36.786124
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.387999
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-04-05T06:09:10Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 1568
+    width: 1692
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58e0d56eed2a89a81f0000a4.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e0d56eed2a89a81f0000a4.jpeg'
+tags:
+  - animal
+  - hare
+  - introduced
+comments:
+  - created_at: '2017-04-03T13:55:32Z'
+    text: First Hare on NatureShare.
+    ref: 58e25454ed2a894865000354
+    name: David Francis
+    username: david_francis
+  - replying_to: 58e25454ed2a894865000354
+    created_at: '2017-04-04T05:23:22Z'
+    text: Surprising as they're so common but they are usually quicker to move off than this one!
+    ref: 58e32dcaed2a8948650005a8
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - wildlife_of_junortoun

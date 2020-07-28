@@ -1,0 +1,38 @@
+id:
+  - name: Spilosoma glatignyi
+    by: david_francis
+created_at: '2017-09-22T08:43:21Z'
+datetime: '2017-09-22T12:50:57+10:00'
+description: "caterpillar...\r\n3 pix"
+elevation: 286.9
+latitude: -37.527273
+location_name: 'Sunbury VIC 3429, Australia'
+longitude: 144.762349
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-09-22T08:43:21Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-09-22T12:49:14Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c4cc4aed2a89398400029e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c4cc4aed2a89398400029e.JPG'
+  - datetime: '2017-09-22T12:50:57Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c4cc1fed2a89398400029c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c4cc1fed2a89398400029c.JPG'
+  - datetime: '2017-09-22T12:50:53Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59c4cc27ed2a89398400029d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c4cc27ed2a89398400029d.JPG'
+comments:
+  - created_at: '2017-09-25T04:50:34Z'
+    text: <em>Spilosoma glatignyi</em> species id suggested
+    ref: 59c88b1aed2a892d40000533
+    name: David Francis
+    username: david_francis

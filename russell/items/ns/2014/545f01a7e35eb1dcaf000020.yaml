@@ -1,0 +1,29 @@
+id:
+  - Pultenaea benthamii
+created_at: '2014-11-09T05:54:47Z'
+datetime: '2014-11-07T11:08:51+10:00'
+description: Not sure of ID.
+latitude: -37.290668
+longitude: 142.593414
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-11-09T05:56:06Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-11-07T11:08:51Z'
+    height: 1331
+    width: 2048
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/545f01a6e35eb1dcaf00001f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545f01a6e35eb1dcaf00001f.jpg'
+tags:
+  - developing-fruit
+  - flower
+comments:
+  - created_at: '2014-11-09T08:28:10Z'
+    text: Fits FoV description as far as I can tell from the photo.
+    ref: 545f259ae35eb172dd000003
+    name: David Francis
+    username: david_francis
+collections:
+  - grampians_np_plants

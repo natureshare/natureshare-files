@@ -1,0 +1,40 @@
+id:
+  - Parakontikia ventrolineata
+created_at: '2014-12-18T07:03:44Z'
+datetime: '2014-12-18T09:10:53+10:00'
+description: 'This flatworm was found crawling on a strawberry.  It is Parakontikia ventrolineata.  If you look closely at the flatworm in these first two photos, you can see one dark stripe, with two paler stripes either side, running along the dorsal surface.'
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-12-19T06:59:06Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-12-18T09:10:53Z'
+    height: 1624
+    width: 2430
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54927c4fe35eb1fa64000050.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54927c4fe35eb1fa64000050.JPG'
+  - datetime: '2014-12-18T09:09:48Z'
+    height: 2065
+    width: 3094
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54927c4fe35eb1fa64000051.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54927c4fe35eb1fa64000051.JPG'
+  - datetime: '2014-12-18T09:11:03Z'
+    height: 2432
+    width: 3648
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54927c4fe35eb1fa64000052.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54927c4fe35eb1fa64000052.JPG'
+tags:
+  - flatworm
+comments:
+  - created_at: '2014-12-18T07:08:40Z'
+    text: My identification has been confirmed by Dr. Leigh Winsor.
+    ref: 54927d78e35eb146b9000018
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains

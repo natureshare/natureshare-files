@@ -1,0 +1,30 @@
+id:
+  - Sugomel nigrum
+created_at: '2017-09-30T01:59:40Z'
+datetime: '2017-09-27T08:30:00+10:00'
+description: 'Adult male, three photos uploaded.'
+elevation: 101
+latitude: -35.472819
+location_name: 'Goschen VIC 3585, Australia'
+longitude: 143.458603
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-09-30T10:04:49Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 1406
+    width: 2109
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59cef9d8ed2a89398400033b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59cef9d8ed2a89398400033b.jpg'
+  - height: 1467
+    width: 2201
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59cef9dced2a89398400033c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59cef9dced2a89398400033c.jpg'
+  - height: 1216
+    width: 1824
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59cef9dfed2a89398400033d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59cef9dfed2a89398400033d.jpg'
+tags:
+  - adult-male

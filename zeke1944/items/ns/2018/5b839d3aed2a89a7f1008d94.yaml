@@ -1,0 +1,44 @@
+id:
+  - ' Isaria spp.'
+created_at: '2018-08-27T06:44:17Z'
+datetime: '2014-06-05T16:41:38+10:00'
+elevation: 177.8
+latitude: -38.55372
+location_name: 'Lorne VIC 3232, Australia'
+longitude: 143.937946
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-08-27T12:39:18Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-06-05T16:41:38Z'
+    height: 1741
+    width: 1822
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b839d3ded2a89402b0000a1.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b839d3ded2a89402b0000a1.jpg'
+comments:
+  - created_at: '2018-08-27T10:35:33Z'
+    text: 'This is currently listed as Isaria tenuipes on ALA, could it be added to the dataset please.'
+    ref: 5b83d3f5ed2a890fa0000273
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-08-27T11:12:27Z'
+    text: 'This was transferred from Paecilomyces to Isaria in 2005 and is the anamorph (asexual phase) of Cordyceps takaomontana which according to Mycobank is a synonym of Cordyceps tenuipes. Following the changes to the Code of Nomenclature discussed recently with the Hypocrea/Trichoderma species, it is clear that the correct name will eventually be adopted by ALA and the indications are that Cordyceps tenuipes is the winner.'
+    ref: 5b83dc9bed2a89a7f1008efe
+    name: John Walter
+    username: 249pbr
+  - replying_to: 5b83dc9bed2a89a7f1008efe
+    created_at: '2018-08-27T12:10:22Z'
+    text: ' Featured as Paecilomyces tenuipes in Fuhrer. Also seen as Isaria tenuipes and Cordyceps takoamontana. A fungi that Parasites on beetle larvae. Often protruding from Tree fern trunks.'
+    ref: 5b83ea2eed2a89a7f1008f4f
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-27T13:27:27Z'
+    text: Isaria tenuipes added to dataset.
+    ref: 5b83fc3fed2a89a7f1008fa2
+    name: David Francis
+    username: david_francis
+collections:
+  - otway_ranges_-_fungi

@@ -1,0 +1,32 @@
+id:
+  - Sarcozona praecox
+created_at: '2016-02-23T08:59:49Z'
+datetime: '2011-11-05T14:08:41+10:00'
+latitude: -34.207902
+longitude: 141.250635
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-02-23T08:59:49Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2011-11-05T14:08:41Z'
+    height: 2000
+    width: 3008
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56cc1e31ed2a89211c000079.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56cc1e31ed2a89211c000079.JPG'
+  - datetime: '2011-11-05T14:09:14Z'
+    height: 3008
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56cc1e35ed2a890be7000069.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56cc1e35ed2a890be7000069.JPG'
+  - datetime: '2011-11-05T14:08:10Z'
+    height: 2000
+    width: 3008
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56cc1e8ced2a89211c00007a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56cc1e8ced2a89211c00007a.JPG'
+tags:
+  - leaf
+collections:
+  - neds_corner_plants

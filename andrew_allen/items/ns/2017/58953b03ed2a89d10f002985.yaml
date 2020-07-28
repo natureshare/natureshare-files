@@ -1,0 +1,33 @@
+id:
+  - Tamopsis spp.
+created_at: '2017-02-04T02:29:19Z'
+datetime: '2017-02-04T10:45:00+10:00'
+description: 'Three of these Tamopsis sp. "bark" spiders seen today. Edit: split the sighting of 3 individuals into 3 records'
+elevation: 33.8
+latitude: -37.729388
+location_name: 'Keilor East VIC 3033, Australia'
+longitude: 144.835241
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-02-04T11:09:24Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 2939
+    width: 2939
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58953b0fed2a89b3fe00037f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58953b0fed2a89b3fe00037f.jpg'
+comments:
+  - created_at: '2017-02-04T08:32:24Z'
+    text: Great observations. I've added the common name "Two-tailed Spider" to the group. NatureShare prefers that each individual sighting has a separate record unless they are together in the one image capture when more that one species name can be attached to the one record/location. Not sure if I have explained this well.
+    ref: 58959198ed2a89d10f002aaf
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-04T10:42:01Z'
+    text: 'Very interesting spiders and great shots. I found some information on them http://www.arachne.org.au/01_cms/details.asp?ID=2540#11224 '
+    ref: 5895aff9ed2a89d10f002afd
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - brimbank_park_insects_and_spiders

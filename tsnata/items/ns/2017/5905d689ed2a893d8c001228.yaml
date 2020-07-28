@@ -1,0 +1,40 @@
+id:
+  - Fungi spp.
+created_at: '2017-04-30T12:25:34Z'
+datetime: '2017-04-29T10:12:42+10:00'
+description: 'A lot of fairy rings in Ross Straw Field, Royal Park.'
+elevation: 18.6
+latitude: -37.784535
+location_name: 'Parkville VIC 3052, Australia'
+longitude: 144.943239
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-05-02T22:13:37Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-04-29T10:12:42Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5905d694ed2a894410000116.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5905d694ed2a894410000116.jpg'
+  - datetime: '2017-04-29T10:14:41Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5905d68eed2a891d6d000125.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5905d68eed2a891d6d000125.jpg'
+  - datetime: '2017-04-29T10:16:43Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5905d691ed2a89e548000118.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5905d691ed2a89e548000118.jpg'
+comments:
+  - created_at: '2017-05-01T13:07:31Z'
+    text: Two perfect circles!
+    ref: 59073313ed2a890587000002
+    name: David Francis
+    username: david_francis
+collections:
+  - royal_park_parkville

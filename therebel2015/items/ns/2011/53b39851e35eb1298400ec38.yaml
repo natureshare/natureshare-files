@@ -1,0 +1,24 @@
+id:
+  - name: Fungi spp.
+    by: funkeytom
+created_at: '2011-09-19T20:06:00Z'
+datetime: '2010-09-11T16:06:40+10:00'
+latitude: -37.282853
+longitude: 144.39816
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2016-07-12T13:28:22Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2010-09-11T16:06:40Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39860e35eb129840120d6.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840120d6.jpg'
+comments:
+  - created_at: '2015-04-16T05:57:34Z'
+    text: The moss is Campylopus.
+    ref: 552f4f4eed2a898ba30000eb
+    name: Niels Klazenga
+    username: nielsklazenga
+collections:
+  - fungus_of_central_victoria

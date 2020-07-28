@@ -1,0 +1,36 @@
+id:
+  - Vespadelus vulturnus
+created_at: '2015-03-03T23:30:14Z'
+datetime: '2015-02-21T18:27:26+10:00'
+description: Came in through the bathroom window (but it's not a member of The Beatles).
+elevation: 564.9
+latitude: -37.327819
+location_name: 'Tylden VIC 3444, Australia'
+longitude: 144.415838
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-03-04T02:16:09Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-02-21T18:27:26Z'
+    height: 618
+    width: 491
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54f64406ed2a89b7cf000018.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f64406ed2a89b7cf000018.JPG'
+tags:
+  - male-adult
+comments:
+  - created_at: '2015-03-04T00:07:45Z'
+    text: 'Would they be looking for somewhere to roost - entering houses?  '
+    ref: 54f64cd1ed2a89b7cf000020
+    name: Suzanne Jones
+    username: suzanne
+  - replying_to: 54f64cd1ed2a89b7cf000020
+    created_at: '2015-03-04T01:22:59Z'
+    text: 'We assume so. Occasionally though they just take a wrong turn and need a bit of assistance in getting back outside. Our house is still in the process of being built, so increasingly the gaps to the outside are being closed off.  We intend to put bat boxes on the house in a few protected locations. We want the bats to stay with us!'
+    ref: 54f65e73ed2a89ef11000039
+    name: Lawrie Conole
+    username: lconole
+collections:
+  - mammals_of_tylden_township

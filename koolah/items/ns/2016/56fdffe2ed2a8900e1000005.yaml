@@ -1,0 +1,35 @@
+id:
+  - Paralaea polysticha
+created_at: '2016-04-01T05:00:41Z'
+datetime: '2016-04-01T04:04:11+10:00'
+latitude: -37.806738
+longitude: 144.297073
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-04-01T05:01:58Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-04-01T04:46:17Z'
+    height: 1982
+    width: 1614
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56fe00d2ed2a890be700017b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56fe00d2ed2a890be700017b.JPG'
+  - primary: true
+    datetime: '2016-04-01T04:04:11Z'
+    height: 2003
+    width: 2358
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56fdfff0ed2a89211c0001a8.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56fdfff0ed2a89211c0001a8.JPG'
+  - datetime: '2016-04-01T04:04:30Z'
+    height: 2036
+    width: 1808
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56fe000aed2a89211c0001a9.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56fe000aed2a89211c0001a9.JPG'
+tags:
+  - grey
+  - male
+  - moth
+collections:
+  - brisbane_ranges_moths

@@ -1,0 +1,28 @@
+id:
+  - Sitona discoideus
+created_at: '2017-05-05T13:42:47Z'
+datetime: '2017-05-05T23:41:00+10:00'
+latitude: -38.029
+longitude: 145.1267
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2017-05-07T04:53:04Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-05-05T19:48:24Z'
+    height: 1512
+    width: 2352
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/590c8194ed2a89e548000126.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/590c8194ed2a89e548000126.JPG'
+comments:
+  - created_at: '2017-05-05T14:39:49Z'
+    text: Sitona discoideus
+    ref: 590c8eb5ed2a893d8c0021f7
+    name: Vuk Vojis
+    username: vuk_2
+  - created_at: '2017-05-07T03:50:01Z'
+    text: Sitona discoideus added to database - now ready for you to update the id.
+    ref: 590e9969ed2a893d8c0025da
+    name: David Francis
+    username: david_francis

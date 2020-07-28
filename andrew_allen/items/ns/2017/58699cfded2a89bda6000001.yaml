@@ -1,0 +1,33 @@
+id:
+  - name: 'Austalis pulchella '
+    by: david_francis
+created_at: '2017-01-02T00:23:22Z'
+datetime: '2017-01-01T09:30:00+10:00'
+description: I'm not sure where to start with an ID for this fly...
+latitude: -38.397473
+longitude: 144.183912
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-01-02T00:31:57Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 2021
+    width: 3031
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58699d07ed2a892daf0002c7.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58699d07ed2a892daf0002c7.jpg'
+  - height: 2177
+    width: 3266
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58699d07ed2a89b3fe0002b4.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58699d07ed2a89b3fe0002b4.jpg'
+comments:
+  - created_at: '2017-01-02T03:06:29Z'
+    text: <em>Austalis pulchella </em> species id suggested
+    ref: 5869c3b5ed2a89748000c370
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-02T04:04:55Z'
+    text: 'See http://www.bowerbird.org.au/observations/1566. '
+    ref: 5869d167ed2a89748000c38a
+    name: David Francis
+    username: david_francis

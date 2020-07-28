@@ -1,0 +1,34 @@
+id:
+  - Sphyrelata amotella
+created_at: '2019-09-06T04:23:58Z'
+datetime: '2012-02-22T00:31:11+10:00'
+description: 2 views
+elevation: 65.3
+latitude: -37.7383
+location_name: '42 High St, Coburg VIC 3058, Australia'
+longitude: 144.956818
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2019-09-08T08:08:31Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-02-22T00:31:11Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_5c639c983abbd6ed0f00003c/2019-09-06/feb21_12_goo_sphyrelata_amotella_imgp1147_cropns.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-09-06/feb21_12_goo_sphyrelata_amotella_imgp1147_cropns.jpeg'
+  - datetime: '2012-02-22T00:37:10Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_5c639c983abbd6ed0f00003c/2019-09-06/feb21_12_goo_sphyrelata_amotella_imgp1150_cropns.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-09-06/feb21_12_goo_sphyrelata_amotella_imgp1150_cropns.jpeg'
+comments:
+  - created_at: '2019-09-07T01:05:13Z'
+    text: Sphyrelata amotella added to dataset
+    ref: 5d730249cad3ebb2a1000101
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2019-09-08T08:08:44Z'
+    text: Thanks Cathy
+    ref: 5d74b70ccad3eb2024000115
+    name: Wendy Moore
+    username: wendymoore
+collections:
+  - coburg_moths

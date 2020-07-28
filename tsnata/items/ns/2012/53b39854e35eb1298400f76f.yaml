@@ -1,0 +1,30 @@
+id:
+  - Egretta novaehollandiae
+created_at: '2012-08-29T17:18:46Z'
+datetime: '2012-02-01T14:02:53+10:00'
+description: 'White-faced Heron on Spring Gully reserve, East Keilor. Not Nankeen-Night Heron. (see comment from Cathy Powers)'
+latitude: -37.731939
+longitude: 144.874636
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2019-05-08T11:42:19Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-02-01T14:02:53Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39864e35eb12984012f7e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb12984012f7e.jpg'
+comments:
+  - created_at: '2019-05-03T08:45:43Z'
+    text: Hello Thomas - your photo provided a challenge to the 'expert' birdos and the consensus is that the bird in question is actually a White-faced Heron (without the white face). It has been suggested that it could well be a young bird. Thanks for presenting such a challenge with this observation.
+    ref: 5ccbffb73abbd6f085000045
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5ccbffb73abbd6f085000045
+    created_at: '2019-05-08T11:42:46Z'
+    text: Thanks for correcting the ID.
+    ref: 5cd2c0b63abbd6d6d800007f
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - moonee_valley_parks_and_reserves

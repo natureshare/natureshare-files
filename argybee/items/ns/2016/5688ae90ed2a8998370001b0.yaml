@@ -1,0 +1,48 @@
+id:
+  - Schizocerella pilicornis
+created_at: '2016-01-03T05:21:24Z'
+datetime: '2015-12-21T18:02:11+10:00'
+description: "4 antennae sawfly (male) \r\nAbout 7mm long.\r\nResting on Kangaroo Apple (Solanum)\r\nIntroduced species to control Portulaca.\r\n"
+elevation: 98
+latitude: -37.889521
+location_name: 'Ferntree Gully VIC 3156, Australia'
+longitude: 145.289639
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-01-04T04:10:27Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-12-21T18:02:11Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5688ae9bed2a8983280000c8.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5688ae9bed2a8983280000c8.JPG'
+  - datetime: '2015-12-21T18:02:18Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5688aea4ed2a8983280000c9.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5688aea4ed2a8983280000c9.JPG'
+  - datetime: '2015-12-21T18:01:43Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5688aeaced2a8983280000ca.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5688aeaced2a8983280000ca.JPG'
+tags:
+  - male
+  - sawfly
+comments:
+  - created_at: '2016-01-03T23:44:22Z'
+    text: Name added. Thanks Mark.
+    ref: 5689b256ed2a89aaf2000013
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 5689b256ed2a89aaf2000013
+    created_at: '2016-01-04T04:09:33Z'
+    text: thanks yet again Chris
+    ref: 5689f07ded2a891ad2000001
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_hymenoptera

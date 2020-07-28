@@ -1,0 +1,38 @@
+id:
+  - Chlorociboria spp.
+created_at: '2018-08-06T11:41:19Z'
+datetime: '2018-07-29T11:15:48+10:00'
+elevation: 615.9
+latitude: -37.478196
+location_name: 'Blackwood VIC 3458, Australia'
+longitude: 144.291139
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-08-07T04:58:13Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-07-29T11:15:48Z'
+    height: 1677
+    width: 2124
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b683358ed2a892807000091.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b683358ed2a892807000091.jpg'
+comments:
+  - created_at: '2018-08-06T11:39:49Z'
+    text: Seen at Jack Cann reserve
+    ref: 5b683385ed2a89a7f1001cc9
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-06T22:31:32Z'
+    text: <em>Chlorociboria spp.</em> species id suggested
+    ref: 5b68cc44ed2a899533000004
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-09T04:12:16Z'
+    text: 'Research done in New Zealand a decade ago identified 15 species of Chlorociboria in that country, many of which have long stipes. It is thought that Australasia is a centre of diversity for this genus (there are only two species in the northern hemisphere) however the research has not been done on Australian species. None of the NZ species appear to be a good match to this item but this was collected by the herbarium  so a name may be found when the research is done.'
+    ref: 5b6bbf20ed2a89a7f1002b60
+    name: John Walter
+    username: 249pbr
+collections:
+  - wombat_forest_-_fungi

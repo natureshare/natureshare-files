@@ -1,0 +1,37 @@
+id:
+  - Phascolarctos cinereus
+created_at: '2017-11-30T00:08:19Z'
+datetime: '2017-11-28T07:03:28+10:00'
+description: A regular visitor to my garden.
+elevation: 89.8
+latitude: -38.242545
+location_name: 'Winslow VIC 3281, Australia'
+longitude: 142.459254
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-11-30T00:08:33Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-11-28T07:03:28Z'
+    height: 2631
+    width: 3955
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a1f4b5fed2a8939840007b0.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a1f4b5fed2a8939840007b0.JPG'
+tags:
+  - animal
+comments:
+  - created_at: '2017-11-30T00:59:38Z'
+    text: Apparently you can identify individual koalas by the pattern on their nose. Might be fun to do a research study in your garden.
+    ref: 5a1f57faed2a8962be0051ca
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - created_at: '2017-11-30T01:17:22Z'
+    text: 'That''s a good suggestion, Lorraine'
+    ref: 5a1f5c22ed2a8962be0051de
+    name: Pauline McCarthy
+    username: pauline
+collections:
+  - fauna_of_winslow_western_district

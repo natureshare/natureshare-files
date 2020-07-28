@@ -1,0 +1,29 @@
+id:
+  - name: Plantago spp.
+  - name: Plantago drummondii
+created_at: '2011-11-30T09:37:49Z'
+datetime: '2011-11-04T18:14:24+10:00'
+latitude: -34.153496
+longitude: 141.342003
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2011-11-30T09:40:20Z'
+license: CC BY 2.5 AU
+photos:
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39861e35eb1298401263b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb1298401263b.jpg'
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39861e35eb1298401263c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb1298401263c.jpg'
+  - datetime: '2011-11-04T18:14:24Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39861e35eb1298401263d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb1298401263d.jpg'
+tags:
+  - flower
+  - leaf
+comments:
+  - created_at: '2011-12-04T19:28:22Z'
+    text: Probably P. cunninghamii or drummondii.
+    ref: 53b3984be35eb1298400d997
+collections:
+  - neds_corner_plants

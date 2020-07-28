@@ -1,0 +1,39 @@
+id:
+  - Haematopus longirostris
+created_at: '2016-01-31T00:05:03Z'
+datetime: '2016-01-23T14:58:54+10:00'
+elevation: 0.5
+latitude: -38.390215
+location_name: 'Victoria 3284, Australia'
+longitude: 142.250528
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-02-02T05:37:45Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-01-23T14:58:54Z'
+    height: 2299
+    width: 3448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56ad4f51ed2a891f76000050.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ad4f51ed2a891f76000050.JPG'
+  - datetime: '2016-01-23T19:39:19Z'
+    height: 2848
+    width: 4288
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56ad4f7ced2a89b31c00004c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ad4f7ced2a89b31c00004c.JPG'
+comments:
+  - created_at: '2017-01-01T02:28:34Z'
+    text: Has this sight recovery been sent to the Victorian Wader Study Group?
+    ref: 58686952ed2a89d0e1000001
+    name: Bruce Robertson
+    username: pacificgull
+  - replying_to: 58686952ed2a89d0e1000001
+    created_at: '2017-01-03T20:52:18Z'
+    text: 'Not as far as I know Bruce. I am not aware of that group, I assume by your question that they may be interested.'
+    ref: 586c0f02ed2a89f464000411
+    name: Giorgio De Nola
+    username: giorgiod
+collections:
+  - birds_of_warrnambool_killarney_and_port_fairy

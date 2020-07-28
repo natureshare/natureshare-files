@@ -1,0 +1,40 @@
+id:
+  - Oechalia schellenbergii
+created_at: '2017-10-14T07:13:18Z'
+datetime: '2017-10-14T17:30:00+10:00'
+description: I chanced upon these hatching eggs at the exact right time!
+latitude: -37.733361
+longitude: 144.824379
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-11-14T12:39:09Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 1419
+    width: 2129
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59e1b858ed2a8939840004bf.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59e1b858ed2a8939840004bf.jpg'
+  - height: 2167
+    width: 3250
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59e1b85ded2a8939840004c0.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59e1b85ded2a8939840004c0.jpg'
+comments:
+  - created_at: '2017-11-14T12:39:46Z'
+    text: On citrus leaf?
+    ref: 5a0ae412ed2a89494c000037
+    name: Mark Ridgway
+    username: argybee
+  - replying_to: 5a0ae412ed2a89494c000037
+    created_at: '2017-11-14T21:29:13Z'
+    text: 'On a Pittosporum, I think'
+    ref: 5a0b6029ed2a8962be000cbe
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 5a0b6029ed2a8962be000cbe
+    created_at: '2017-11-14T21:43:39Z'
+    text: Great timing anyway.
+    ref: 5a0b638bed2a8962be000cd6
+    name: Mark Ridgway
+    username: argybee

@@ -1,0 +1,32 @@
+id:
+  - Cicadellidae spp.
+created_at: '2017-11-20T05:21:05Z'
+datetime: '2017-11-18T00:00:00+10:00'
+description: These may be the same species as the previous observation but I don't think so.
+elevation: 262.2
+latitude: -37.806572
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.296982
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-11-20T05:21:57Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-11-18T00:00:00Z'
+    height: 1452
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a1265f1ed2a8939840006d9.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a1265f1ed2a8939840006d9.jpg'
+tags:
+  - leafhopper
+comments:
+  - created_at: '2018-02-08T09:24:31Z'
+    text: Spittlebug (Cercopidae) Maybe Pectinariophyes stalii ??
+    ref: 5a7c174fed2a89def7000e8b
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - brisbane_ranges_insects

@@ -1,0 +1,40 @@
+id:
+  - Strepera graculina
+created_at: '2017-05-28T12:46:43Z'
+datetime: '2017-05-28T12:39:00+10:00'
+elevation: 38.4
+latitude: -37.793624
+location_name: 'Parkville VIC 3052, Australia'
+longitude: 144.95496
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-05-29T09:55:13Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 2903
+    width: 1935
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/592a8978ed2a89a81f00014d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592a8978ed2a89a81f00014d.JPG'
+tags:
+  - bird
+  - bird-grey-white
+  - bird-large
+comments:
+  - created_at: '2017-05-28T13:09:50Z'
+    text: 'Andrew, I think this might be a Pied Currawong - head is uniformly black; white wing patch etc.'
+    ref: 592acc1eed2a8910ca0000d8
+    name: David Francis
+    username: david_francis
+  - replying_to: 592acc1eed2a8910ca0000d8
+    created_at: '2017-05-29T09:54:55Z'
+    text: 'Yes David, I think you''re correct. Thanks. It didn''t look black enough but now I compare I see the difference.'
+    ref: 592befefed2a8993d100067c
+    name: Andrew Brown
+    username: andrewbrown
+  - created_at: '2017-05-30T06:55:53Z'
+    text: 'Looks to have some characters of subspecies ''ashbyi'' (greyish belly) but otherwise fairly typical ''nebulosa'' (white wing bar, white rump).'
+    ref: 592d1779ed2a8993d10008ff
+    name: Lawrie Conole
+    username: lconole

@@ -1,0 +1,36 @@
+id:
+  - Hexagonia vesparia
+created_at: '2018-09-02T03:26:56Z'
+datetime: '2012-09-23T13:26:45+10:00'
+latitude: -35.966597
+longitude: 141.417442
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-09-18T00:43:30Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-09-23T13:26:45Z'
+    height: 2505
+    width: 2295
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b8b5792ed2a891efe0000c1.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b8b5792ed2a891efe0000c1.jpg'
+comments:
+  - created_at: '2018-09-02T03:28:36Z'
+    text: Hexagonia vesparia. Found at Broken Bucket reserve close to the Big Desert. Not on Data Base.
+    ref: 5b8b58e4ed2a89cce300064a
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-09-02T10:12:11Z'
+    text: 'This species is listed on ALA, could it be added please'
+    ref: 5b8bb77bed2a89cce3000858
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-09-04T01:26:28Z'
+    text: Hexagonia vesparia added to database
+    ref: 5b8ddf44ed2a89cce3001146
+    name: David Francis
+    username: david_francis
+collections:
+  - dryland_fungi

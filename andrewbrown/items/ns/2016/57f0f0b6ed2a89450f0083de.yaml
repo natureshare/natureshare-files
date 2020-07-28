@@ -1,0 +1,42 @@
+id:
+  - Goodenia blackiana
+created_at: '2016-10-02T11:37:57Z'
+datetime: '2016-09-27T09:22:42+10:00'
+description: Prolific flowering at the moment.
+elevation: 219.3
+latitude: -36.783649
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.376541
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-02T11:37:57Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-27T09:22:42Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57f0f091ed2a89d73e0000c9.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f0f091ed2a89d73e0000c9.JPG'
+  - datetime: '2016-09-27T09:22:20Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57f0f0dbed2a89d73e0000ca.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f0f0dbed2a89d73e0000ca.JPG'
+tags:
+  - flower-yellow
+comments:
+  - created_at: '2016-10-02T11:47:53Z'
+    text: I'll have to check the undersides of the leaves to make a positive id. as I'm not 100%
+    ref: 57f0f3e9ed2a89450f0083ee
+    name: Andrew Brown
+    username: andrewbrown
+  - created_at: '2016-10-04T11:59:25Z'
+    text: Leaves-upper surface glabrous and whitish underneath
+    ref: 57f3999ded2a8905ac000001
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - junortoun_flora

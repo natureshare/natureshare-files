@@ -1,0 +1,43 @@
+id:
+  - Myzomela sanguinolenta
+created_at: '2017-11-25T02:42:52Z'
+datetime: '2017-11-07T16:23:22+10:00'
+elevation: 328.3
+latitude: -37.48459
+location_name: 'Beveridge VIC 3753, Australia'
+longitude: 145.037276
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-11-27T04:40:36Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-11-07T16:23:22Z'
+    height: 2229
+    width: 1960
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a18d8bded2a893984000712.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a18d8bded2a893984000712.jpg'
+comments:
+  - created_at: '2017-11-25T03:04:44Z'
+    text: <em>Myzomela sanguinolenta</em> species id suggested
+    ref: 5a18ddcced2a898fbb000077
+    name: Suzi Duncan
+    username: suzid
+  - created_at: '2017-11-25T23:41:47Z'
+    text: 'Suzi - what a sensational observation,'
+    ref: 5a19ffbbed2a8962be003fc3
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2017-11-26T22:31:18Z'
+    text: 'There is a fairly massive irruption of this species into central Victoria going on at the moment.  They are almost the dominant sound in Kyneton in the bird department right now, and the most common honeyeater in town gardens right now.'
+    ref: 5a1b40b6ed2a895955000022
+    name: Lawrie Conole
+    username: lconole
+  - replying_to: 5a19ffbbed2a8962be003fc3
+    created_at: '2017-11-30T03:04:32Z'
+    text: 'Thank you very kindly Cathy, I am new to this and only just learning how to put photographs on Nature share. your comments means a great deal.'
+    ref: 5a1f7540ed2a8962be005294
+    name: Suzi Duncan
+    username: suzid
+collections:
+  - birds_of_whittlesea

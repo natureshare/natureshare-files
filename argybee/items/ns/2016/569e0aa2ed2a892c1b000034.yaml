@@ -1,0 +1,41 @@
+id:
+  - Rhuma sp. (3)
+created_at: '2016-01-19T11:05:21Z'
+datetime: '2015-10-15T00:10:00+10:00'
+description: "About 24mm long. \r\nRhuma sp. - thanks Cathy"
+elevation: 153.3
+latitude: -37.892399
+location_name: 'Tremont VIC 3785, Australia'
+longitude: 145.313779
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-01-19T13:26:38Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-10-15T12:10:38Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/569e0aaaed2a89e05000001b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/569e0aaaed2a89e05000001b.JPG'
+  - datetime: '2015-10-15T12:10:47Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/569e0a98ed2a897bc7000017.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/569e0a98ed2a897bc7000017.JPG'
+comments:
+  - created_at: '2016-01-19T12:37:36Z'
+    text: This is a Rhuma (Geometridae) - possibly sp (3)
+    ref: 569e2e10ed2a892c1b000067
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 569e2e10ed2a892c1b000067
+    created_at: '2016-01-19T13:11:01Z'
+    text: 'Oh great.. I was way off. Thanks again Cathy. :)'
+    ref: 569e35e5ed2a892c1b00006f
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_lepidoptera

@@ -1,0 +1,38 @@
+id:
+  - name: Cacatua sanguinea
+    by: andrewbrown
+created_at: '2017-04-16T10:31:05Z'
+datetime: '2017-04-13T15:23:51+10:00'
+description: ' Corella '
+elevation: 285
+latitude: -37.527137
+location_name: 'Sunbury VIC 3429, Australia'
+longitude: 144.765182
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-04-17T04:23:41Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-04-13T15:23:51Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58f34658ed2a891d6d0000de.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58f34658ed2a891d6d0000de.JPG'
+  - datetime: '2017-04-13T15:23:28Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58f3466fed2a89a81f0000d5.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58f3466fed2a89a81f0000d5.JPG'
+comments:
+  - created_at: '2017-04-16T11:14:49Z'
+    text: <em>Cacatua sanguinea</em> species id suggested
+    ref: 58f35229ed2a89486500295c
+    name: Andrew Brown
+    username: andrewbrown
+  - created_at: '2017-04-17T04:23:07Z'
+    text: 'Great photos showing both side-on and front-on views. '
+    ref: 58f4432bed2a896d46000007
+    name: David Francis
+    username: david_francis

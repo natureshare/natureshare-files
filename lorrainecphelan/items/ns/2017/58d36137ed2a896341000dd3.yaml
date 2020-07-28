@@ -1,0 +1,40 @@
+id:
+  - Rutilia lepida
+created_at: '2017-03-23T05:49:22Z'
+datetime: '2017-03-07T14:29:58+10:00'
+description: A very large fly c 2cm.
+elevation: 58.7
+latitude: -38.089926
+location_name: 'Heywood VIC 3304, Australia'
+longitude: 141.751269
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-03-23T09:14:44Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-03-07T14:29:58Z'
+    height: 1067
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58d3613bed2a89441000008c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58d3613bed2a89441000008c.JPG'
+comments:
+  - created_at: '2017-03-23T05:50:57Z'
+    text: 'Could this species be added to the database please. https://collections.museumvictoria.com.au/species/8586'
+    ref: 58d36241ed2a896341000de0
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - created_at: '2017-03-23T08:53:40Z'
+    text: R.lepida now available in database
+    ref: 58d38d14ed2a896341000ec9
+    name: David Francis
+    username: david_francis
+  - replying_to: 58d38d14ed2a896341000ec9
+    created_at: '2017-03-23T09:15:06Z'
+    text: Thanks David.
+    ref: 58d3921aed2a89a49f000005
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - homerton_and_milltown_insects

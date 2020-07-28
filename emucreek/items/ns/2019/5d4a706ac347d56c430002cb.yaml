@@ -1,0 +1,38 @@
+id:
+  - name: Velesunio ambiguus
+    by: lconole
+created_at: '2019-08-07T06:32:10Z'
+datetime: '2019-08-02T15:00:53+10:00'
+elevation: 233.3
+latitude: -37.530132
+location_name: '25-45 Clark Ct, Sunbury VIC 3429, Australia'
+longitude: 144.77634
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2019-08-07T06:33:39Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2019-08-02T15:00:53Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_55375c83ed2a89a9d4004fe1/2019-08-07/047.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_55375c83ed2a89a9d4004fe1/2019-08-07/047.jpeg'
+  - datetime: '2019-08-02T15:00:59Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_55375c83ed2a89a9d4004fe1/2019-08-07/049.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_55375c83ed2a89a9d4004fe1/2019-08-07/049.jpeg'
+comments:
+  - created_at: '2019-08-07T06:33:32Z'
+    text: emu creek sunbury
+    ref: 5d4a70bcc347d53bf8000291
+    name: Peter Clark
+    username: emucreek
+  - created_at: '2019-08-07T09:27:48Z'
+    text: rakali/water rat feeding rock
+    ref: 5d4a9994c347d53bf800029a
+    name: Wendy Moore
+    username: wendymoore
+  - created_at: '2019-08-09T05:48:11Z'
+    text: <em>Velesunio ambiguus</em> species id suggested
+    ref: 5d4d091bc347d56c430002f6
+    name: Lawrie Conole
+    username: lconole

@@ -1,0 +1,43 @@
+id:
+  - Rhynolaccus spp.
+created_at: '2015-12-12T12:49:26Z'
+datetime: '2015-12-09T11:26:00+10:00'
+description: "Tiny 3-4mm ant mimic weevil all shiny black. On Acacia dealbata.\r\n"
+elevation: 98.1
+latitude: -37.88974
+location_name: 'Ferntree Gully VIC 3156, Australia'
+longitude: 145.290122
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-12-12T22:23:26Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-12-09T23:26:21Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/566c16dded2a899c630002a2.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/566c16dded2a899c630002a2.JPG'
+tags:
+  - beetle
+  - weevil
+comments:
+  - created_at: '2015-12-12T12:51:22Z'
+    text: very cute !
+    ref: 566c184aed2a89b5f50003b6
+    name: Leuba Ridgway
+    username: leuba
+  - created_at: '2015-12-12T14:24:28Z'
+    text: 'According to Australian Faunal Directory, this Myrmacicelus is a synonymn of Rhynolaccus, and the accepted name by ALA. I''ve added Rhynolaccus spp., but let me know if you think the other name should apply. Cheers.'
+    ref: 566c2e1ced2a89b5f50003c3
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 566c2e1ced2a89b5f50003c3
+    created_at: '2015-12-12T22:22:47Z'
+    text: Brilliant. Thanks Chris. We'll go with that then.
+    ref: 566c9e37ed2a89b5f50003e0
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_coleoptera

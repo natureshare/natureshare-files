@@ -1,0 +1,39 @@
+id:
+  - name: Hermetia illucens
+    by: david_francis
+created_at: '2015-03-24T05:29:14Z'
+datetime: '2015-03-22T14:41:24+10:00'
+description: 'black insect on the window pane, about 2 cm long.'
+elevation: 25.3
+latitude: -37.786051
+location_name: 'Newmarket, Flemington VIC 3031, Australia'
+longitude: 144.924914
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-03-24T05:31:24Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-03-22T14:41:24Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5510f629ed2a8994a9000883.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5510f629ed2a8994a9000883.jpg'
+  - datetime: '2015-03-22T14:41:48Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5510f629ed2a8994a9000884.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5510f629ed2a8994a9000884.jpg'
+comments:
+  - created_at: '2017-02-01T09:08:48Z'
+    text: 'See http://www.bowerbird.org.au/observations/44676'
+    ref: 5891a5a0ed2a89d10f002156
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-01T09:09:03Z'
+    text: <em>Hermetia illucens</em> species id suggested
+    ref: 5891a5afed2a89d10f002159
+    name: David Francis
+    username: david_francis
+collections:
+  - flemington_kensington_3031

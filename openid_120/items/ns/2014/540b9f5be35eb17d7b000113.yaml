@@ -1,0 +1,27 @@
+created_at: '2014-09-06T23:57:15Z'
+datetime: '2014-08-22T11:45:21+10:00'
+latitude: -37.667661
+longitude: 145.157744
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-09-07T00:00:10Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-08-22T11:45:21Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/540b9f5be35eb17d7b000112.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/540b9f5be35eb17d7b000112.JPG'
+comments:
+  - created_at: '2014-09-07T12:15:14Z'
+    text: Could they be Microtis leaves?
+    ref: 540c4c52e35eb18ac8000009
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 540c4c52e35eb18ac8000009
+    created_at: '2014-09-08T22:44:01Z'
+    text: 'I was thinking that, but not confident. Might have to wait until they flower.'
+    ref: 540e3131e35eb17588000099
+    name: Peter Bire
+    username: openid_120

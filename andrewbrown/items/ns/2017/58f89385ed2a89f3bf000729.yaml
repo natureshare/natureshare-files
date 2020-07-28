@@ -1,0 +1,36 @@
+id:
+  - Fisera sp. (1)
+created_at: '2017-04-20T11:12:20Z'
+datetime: '2017-04-19T20:38:58+10:00'
+description: Moth approx. 25mm long
+elevation: 204.8
+latitude: -36.77842
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381503
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-04-20T11:12:20Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-04-19T20:38:58Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58f893a2ed2a891d6d0000ff.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58f893a2ed2a891d6d0000ff.JPG'
+tags:
+  - moth
+  - moth-dark-grey
+  - moth-medium
+comments:
+  - created_at: '2018-04-28T12:59:50Z'
+    text: <em>Fisera sp. (1)</em> species id suggested
+    ref: 5ae47046ed2a8994660089f2
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - wildlife_of_junortoun
+  - moths_of_junortoun
+  - moths_of_central_victoria

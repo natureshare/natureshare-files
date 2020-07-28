@@ -1,0 +1,31 @@
+id:
+  - Spilosoma curvata
+created_at: '2017-10-28T03:28:58Z'
+datetime: '2017-10-27T21:53:38+10:00'
+description: 'Shows the variability, especially the colour, but also the lines/markings on the wings.'
+elevation: 261.5
+latitude: -37.806576
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297002
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-10-28T03:28:58Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-27T21:46:37Z'
+    height: 1286
+    width: 1786
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59f3f8d0ed2a893984000533.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59f3f8d0ed2a893984000533.JPG'
+  - datetime: '2017-10-27T21:53:38Z'
+    height: 1497
+    width: 1141
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59f3f8c3ed2a893984000532.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59f3f8c3ed2a893984000532.JPG'
+tags:
+  - moth
+collections:
+  - brisbane_ranges_moths

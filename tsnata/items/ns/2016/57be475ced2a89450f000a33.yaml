@@ -1,0 +1,40 @@
+id:
+  - name: Thalassarche melanophris melanophris
+    by: chrisl
+created_at: '2016-08-25T01:24:02Z'
+datetime: '2016-08-25T09:07:36+10:00'
+description: Is this a black-browed Albatross?
+elevation: 0
+latitude: -38.690338
+location_name: 'Victoria, Australia'
+longitude: 143.843669
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-08-25T01:24:02Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-08-25T09:11:35Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57be478aed2a89d73e00000a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57be478aed2a89d73e00000a.JPG'
+  - datetime: '2016-08-25T09:07:36Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57be4772ed2a89b3fe000013.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57be4772ed2a89b3fe000013.JPG'
+comments:
+  - created_at: '2016-08-26T23:06:26Z'
+    text: You have captured the characters of this bird to help identification. White underwing with broad black margins and you can see pink tip of bill. Well done.
+    ref: 57c0cb72ed2a89450f000b12
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2016-08-26T23:06:41Z'
+    text: <em>Thalassarche melanophris melanophris</em> species id suggested
+    ref: 57c0cb81ed2a89450f000b15
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - grey_river

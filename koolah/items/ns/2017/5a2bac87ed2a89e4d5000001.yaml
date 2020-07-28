@@ -1,0 +1,31 @@
+id:
+  - Arhodia lasiocamparia
+created_at: '2017-12-09T09:31:19Z'
+datetime: '2017-12-08T23:54:39+10:00'
+description: Two photos.
+elevation: 262
+latitude: -37.806552
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.29699
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-12-09T09:32:11Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-12-08T23:54:39Z'
+    height: 1511
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a2bac9aed2a890e9e000001.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a2bac9aed2a890e9e000001.jpg'
+  - datetime: '2017-12-08T23:52:31Z'
+    height: 1571
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a2bacdced2a89298f000001.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a2bacdced2a89298f000001.jpg'
+tags:
+  - moth
+collections:
+  - brisbane_ranges_moths

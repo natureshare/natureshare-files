@@ -1,0 +1,35 @@
+created_at: '2017-03-31T10:41:23Z'
+datetime: '2017-03-31T16:21:59+10:00'
+description: Small prickly shrub with 'cones' ? Same as an earlier observation.
+elevation: 215.1
+latitude: -36.77546
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.356322
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-03-31T10:41:23Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-03-31T16:21:59Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58de2f09ed2a89a81f000096.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58de2f09ed2a89a81f000096.jpeg'
+tags:
+  - leaves-prickly
+  - shrub-small
+comments:
+  - created_at: '2017-04-03T00:01:50Z'
+    text: I suspect these 'cones' are an abnormal growth caused by insect or fungal attack. It appears to be a cluster of overgrown floral bracts. The plant is ericoid and further description of size and habit would help.
+    ref: 58e190eeed2a8948650000fd
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2017-04-03T04:52:59Z'
+    text: 'Not sure either as this is the same species as this earlier obs. https://natureshare.org.au/observations/5885f9faed2a89d10f0001a8?collection_id=57de067bed2a89450f006743 '
+    ref: 58e1d52bed2a8948650001e0
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - junortoun_flora

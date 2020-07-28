@@ -1,0 +1,34 @@
+id:
+  - Pholiota malicola
+created_at: '2018-07-13T14:19:11Z'
+datetime: '2014-05-25T10:06:48+10:00'
+description: Several images
+elevation: 770.7
+latitude: -37.407878
+location_name: 'Lyonville VIC 3461, Australia'
+longitude: 144.251555
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-07-13T14:19:35Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2014-05-25T10:06:48Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b48b1f0ed2a89402b000050.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b48b1f0ed2a89402b000050.jpg'
+  - datetime: '2014-05-25T10:06:18Z'
+    height: 1526
+    width: 1956
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b48b1eced2a891efe000054.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b48b1eced2a891efe000054.jpg'
+  - datetime: '2014-05-25T10:06:37Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b48b1efed2a89c6aa00004b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b48b1efed2a89c6aa00004b.jpg'
+collections:
+  - wombat_forest_-_fungi

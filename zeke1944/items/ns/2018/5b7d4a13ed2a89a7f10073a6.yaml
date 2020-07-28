@@ -1,0 +1,42 @@
+id:
+  - Amanita spp.
+created_at: '2018-08-22T11:37:24Z'
+datetime: '2012-06-22T10:57:49+10:00'
+elevation: 62.4
+latitude: -38.344046
+location_name: 'Anglesea VIC 3230, Australia'
+longitude: 144.142244
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-22T11:37:49Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-06-22T10:57:49Z'
+    height: 1563
+    width: 1259
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b7d4a15ed2a8928070000ae.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b7d4a15ed2a8928070000ae.jpg'
+comments:
+  - created_at: '2018-08-22T11:34:13Z'
+    text: <em>Amanita spp.</em> species id suggested
+    ref: 5b7d4a35ed2a8935c30000f0
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-22T11:39:31Z'
+    text: Amanita arenaria. A truffle like species found mostly in dry areas such as the little Desert. I was found at Cecil track close to Anglesea. It has cavities in the round cap for spore production Height to about 30mm
+    ref: 5b7d4b73ed2a89a7f10073ac
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-23T10:05:31Z'
+    text: Amanita arenaria added to database.
+    ref: 5b7e86ebed2a89a7f10078cb
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2018-08-27T13:05:11Z'
+    text: "The specimens collected in WA can be viewed at Amanitaceae.org at \r\nhttp://www.amanitaceae.org/?Amanita+arenaria\r\nThey show fully formed (but unopened) caps and a very woolly stipe not unlike a Rozites stipe. Has Theresa Lebel seen these images? I suggest that the habitat from the WA collection and yours are extremely similar but I am not sure they are the same species. There are more truffle-like and sequestrate species of Amanita out there and I need to do more research but this is an extremely interesting find none the less."
+    ref: 5b83f707ed2a89a7f1008f80
+    name: John Walter
+    username: 249pbr
+collections:
+  - otway_ranges_-_fungi

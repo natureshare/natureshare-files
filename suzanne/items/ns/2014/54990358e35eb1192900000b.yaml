@@ -1,0 +1,41 @@
+id:
+  - Syneora fractata
+created_at: '2014-12-23T05:53:28Z'
+datetime: '2014-12-23T07:25:58+10:00'
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-12-23T22:43:56Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-12-23T07:25:58Z'
+    height: 1275
+    width: 1906
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54990358e35eb11929000009.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54990358e35eb11929000009.JPG'
+  - datetime: '2014-12-23T07:25:47Z'
+    height: 1550
+    width: 2328
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54990358e35eb1192900000a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54990358e35eb1192900000a.JPG'
+tags:
+  - moth
+comments:
+  - created_at: '2015-12-23T12:01:19Z'
+    text: Suzanne - I think this is Syneora fractata
+    ref: 567a8d0fed2a89d6d60003e5
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 567a8d0fed2a89d6d60003e5
+    created_at: '2015-12-23T22:43:16Z'
+    text: Thanks Cathy.
+    ref: 567b2384ed2a89d6d60003ff
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains
+  - butterflies_moths_seen_at_145_gibsons_road_cobains

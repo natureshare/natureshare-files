@@ -1,0 +1,38 @@
+id:
+  - name: Wurmbea dioica subsp. dioica
+    by: russell
+created_at: '2015-03-10T22:54:51Z'
+datetime: '2007-09-16T09:50:00+10:00'
+description: Early Nancy
+elevation: 314.1
+latitude: -37.182835
+location_name: 'High Camp VIC 3764, Australia'
+longitude: 144.890609
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2015-03-12T07:41:15Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2007-09-16T13:03:19Z'
+    height: 2048
+    width: 3072
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54ff763bed2a8994a90000b7.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ff763bed2a8994a90000b7.JPG'
+  - datetime: '2007-09-16T13:03:39Z'
+    height: 2048
+    width: 3072
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54ff763bed2a8994a90000b8.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ff763bed2a8994a90000b8.JPG'
+tags:
+  - female
+  - flower
+  - male
+comments:
+  - created_at: '2015-03-12T07:42:17Z'
+    text: 'In first pic, male flower is on the right and female flower is on the left.'
+    ref: 55014359ed2a8994a90001ad
+    name: Russell Best
+    username: russell
+collections:
+  - highcamp_flora_reserve_highcamp

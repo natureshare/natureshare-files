@@ -1,0 +1,36 @@
+id:
+  - name: Eristalis tenax
+    by: david_francis
+created_at: '2017-02-02T11:50:43Z'
+datetime: '2017-01-18T15:18:45+10:00'
+elevation: 31.1
+latitude: -38.684065
+location_name: 'Grey River VIC 3234, Australia'
+longitude: 143.838433
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-02-02T22:01:48Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-18T15:18:45Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58931b2aed2a89b3fe000374.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58931b2aed2a89b3fe000374.jpg'
+  - datetime: '2017-01-18T15:18:38Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58931b3bed2a89d73e00034e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58931b3bed2a89d73e00034e.jpg'
+comments:
+  - replying_to: 5893246ded2a89d10f002513
+    created_at: '2017-02-02T21:38:35Z'
+    text: Looks like Eristalis tenax
+    ref: 5893a6dbed2a89d10f0025a1
+    name: Andrew Allen
+    username: andrew_allen
+collections:
+  - grey_river

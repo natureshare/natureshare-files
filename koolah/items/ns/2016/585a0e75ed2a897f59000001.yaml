@@ -1,0 +1,29 @@
+id:
+  - Acacia mitchellii
+created_at: '2016-12-21T05:11:36Z'
+datetime: '2016-12-21T12:23:59+10:00'
+latitude: -37.87021
+longitude: 144.21082
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2016-12-21T05:16:15Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-12-21T12:47:23Z'
+    height: 1125
+    width: 1500
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/585a0e7bed2a89b718000279.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/585a0e7bed2a89b718000279.JPG'
+  - datetime: '2016-12-21T12:23:59Z'
+    height: 2707
+    width: 3560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/585a0fc1ed2a89b3fe00027c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/585a0fc1ed2a89b3fe00027c.JPG'
+tags:
+  - flowers-yellow
+  - shrub-medium
+collections:
+  - brisbane_ranges_national_park_plants

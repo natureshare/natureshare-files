@@ -1,0 +1,27 @@
+id:
+  - Ramaria filicicola
+created_at: '2018-06-18T12:16:39Z'
+datetime: '2018-06-11T14:40:49+10:00'
+description: 2 images. This species has been previously misidentified as R. gracilis which apparently does not occur in Australia.
+latitude: -37.47895
+longitude: 144.29252
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-06-19T11:26:47Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-06-11T14:40:49Z'
+    height: 4000
+    width: 6000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b27a06bed2a89d0e700003e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b27a06bed2a89d0e700003e.jpg'
+  - datetime: '2018-06-11T14:39:58Z'
+    height: 4000
+    width: 6000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b27a076ed2a89d0e700003f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b27a076ed2a89d0e700003f.jpg'
+collections:
+  - wombat_forest_-_fungi

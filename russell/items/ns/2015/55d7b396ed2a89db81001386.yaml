@@ -1,0 +1,33 @@
+id:
+  - Drosera aberrans
+created_at: '2015-08-21T23:26:14Z'
+datetime: '2015-08-21T13:46:17+10:00'
+description: New species record for this collection. Found in the area burnt in last year's January wildfire.
+latitude: -37.463909
+longitude: 144.692871
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-08-25T00:29:39Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-08-21T13:46:17Z'
+    height: 2515
+    width: 1998
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55d7b395ed2a89db81001384.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55d7b395ed2a89db81001384.jpeg'
+  - datetime: '2015-08-21T13:46:00Z'
+    height: 2933
+    width: 2048
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55d7b395ed2a89db81001385.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55d7b395ed2a89db81001385.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2015-08-22T04:41:35Z'
+    text: Good find. Nice group shot of flowers!
+    ref: 55d7fd7fed2a89db810013d5
+    name: David Francis
+    username: david_francis
+collections:
+  - biosite_3583_riddells_creek_plants

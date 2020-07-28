@@ -1,0 +1,28 @@
+id:
+  - Barea codrella
+created_at: '2015-10-27T11:26:34Z'
+datetime: '2015-10-19T21:01:44+10:00'
+latitude: -37.806535
+longitude: 144.297068
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-10-27T11:26:34Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-10-19T21:01:44Z'
+    height: 1432
+    width: 1288
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/562f5f23ed2a899c6300006e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/562f5f23ed2a899c6300006e.JPG'
+  - datetime: '2015-10-19T21:02:20Z'
+    height: 1011
+    width: 1439
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/562f5f2aed2a899c6300006f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/562f5f2aed2a899c6300006f.JPG'
+tags:
+  - brown
+  - moth
+collections:
+  - brisbane_ranges_moths

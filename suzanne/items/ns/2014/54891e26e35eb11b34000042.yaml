@@ -1,0 +1,47 @@
+id:
+  - name: Parakontikia spp.
+    by: david_francis
+created_at: '2014-12-11T04:31:34Z'
+datetime: '2014-12-06T10:16:12+10:00'
+description: 'Although holes in our strawberries have usually been occupied by millipedes, on occasions we have found flatworms like this one inside a hole in a strawberry.  '
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-12-11T04:35:54Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-12-06T10:16:12Z'
+    height: 1792
+    width: 2679
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54891e26e35eb11b34000040.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54891e26e35eb11b34000040.JPG'
+  - datetime: '2014-12-06T10:16:50Z'
+    height: 1881
+    width: 2820
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54891e26e35eb11b34000041.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54891e26e35eb11b34000041.JPG'
+tags:
+  - flatworm
+comments:
+  - created_at: '2015-01-02T10:15:02Z'
+    text: Has this been identified as Parakontikia ventrolineata by Dr Leigh Winsor on the Bowerbird website?
+    ref: 54a66fa6e35eb102ec000011
+    name: David Francis
+    username: david_francis
+  - replying_to: 54a66fa6e35eb102ec000011
+    created_at: '2015-01-03T03:02:43Z'
+    text: 'No.  I had sent him some specimens and he had wondered if these photos might have been of the Parakontikia atrata that I had sent him.  But we hadn''t sent this particular flatworm.  We had let it go in the wet grass.  I guess this photo would be of either Parakontikia atrata or Parakontikia ventrolineata, but can''t judge by these particular photos.  Sorry.  My later observation on Natureshare of a flatworm on a strawberry is of Parakontikia ventrolineata.  You can see the stripes in the photo, but stripes are not apparent in these two photos.'
+    ref: 54a75bd3e35eb1937400000e
+    name: Suzanne Jones
+    username: suzanne
+  - created_at: '2017-02-01T06:44:18Z'
+    text: <em>Parakontikia spp.</em> species id suggested
+    ref: 589183c2ed2a89d10f0020de
+    name: David Francis
+    username: david_francis
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains

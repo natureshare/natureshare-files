@@ -1,0 +1,54 @@
+id:
+  - Parentucellia viscosa
+created_at: '2015-12-21T11:19:48Z'
+datetime: '2015-12-21T15:17:26+10:00'
+latitude: -38.205492
+longitude: 142.025882
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-12-22T10:31:26Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-12-21T15:17:26Z'
+    height: 2387
+    width: 2426
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5677e017ed2a898328000036.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5677e017ed2a898328000036.JPG'
+  - datetime: '2015-12-21T15:15:28Z'
+    height: 3132
+    width: 2396
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5677e025ed2a898328000037.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5677e025ed2a898328000037.JPG'
+  - datetime: '2015-12-16T11:22:18Z'
+    height: 1749
+    width: 1551
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5678f357ed2a89832800004a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5678f357ed2a89832800004a.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2015-12-21T13:20:08Z'
+    text: Great plant to find on Pallisters Reserve. Well done.
+    ref: 5677fc88ed2a89d6d600032e
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 5677fc88ed2a89d6d600032e
+    created_at: '2015-12-22T06:52:18Z'
+    text: 'Hi Chris, There are suggestions that this is Parentucellia viscosa?? Any ideas?? Will add another photo'
+    ref: 5678f322ed2a89d6d600036a
+    name: Kevin Sparrow
+    username: banksiaman
+  - created_at: '2015-12-22T10:31:51Z'
+    text: I stand corrected on ID
+    ref: 56792697ed2a89a3ca00003c
+    name: Kevin Sparrow
+    username: banksiaman
+  - replying_to: 5678f322ed2a89d6d600036a
+    created_at: '2015-12-24T02:16:01Z'
+    text: 'Ah, yes. The leaf margins seem to be very different. Not a weed that I see often, in fact only remembering seeing it at Peterborough about 5 years ago.'
+    ref: 567b5561ed2a89d6d6000445
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - pallisters_reserve_orford

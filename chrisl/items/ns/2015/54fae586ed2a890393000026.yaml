@@ -1,0 +1,52 @@
+id:
+  - name: Stigmatium gilberti
+    by: david_francis
+created_at: '2015-03-07T11:48:22Z'
+datetime: '2015-03-07T20:11:36+10:00'
+description: 'Small beetle of only 8mm in length, found on Eucalyptus spp. Appears to be an ant or wasp mimic.'
+latitude: -37.902639
+longitude: 144.22314
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-02-04T01:33:08Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-03-07T20:11:36Z'
+    height: 1650
+    width: 2475
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54fae585ed2a890393000023.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54fae585ed2a890393000023.jpg'
+  - datetime: '2015-03-07T20:12:19Z'
+    height: 1496
+    width: 2244
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54fae585ed2a890393000024.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54fae585ed2a890393000024.jpg'
+  - datetime: '2015-03-07T20:12:52Z'
+    height: 1909
+    width: 2863
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54fae585ed2a890393000025.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54fae585ed2a890393000025.jpg'
+comments:
+  - created_at: '2015-03-07T11:56:35Z'
+    text: Currently investigating Stigmatium gilberti as a possible ID.
+    ref: 54fae773ed2a890393000029
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2017-02-03T07:10:28Z'
+    text: 'Hi Chris. It looks like Stigmatium gilberti to me. It''s quite a variable species, in tone and distribution of the brown area at the elytral base, and in the distribution the apical setal mat. Regards,'
+    ref: 58942ce4ed2a89d10f00272c
+    name: Justin Bartlett
+    username: cleridoz
+  - created_at: '2017-02-04T01:34:08Z'
+    text: Identification by Chris Lindorff with confirmation from Justin Bartlett. (Feb 2017)
+    ref: 58952f90ed2a89d10f002958
+    name: David Francis
+    username: david_francis
+  - replying_to: 58952f90ed2a89d10f002958
+    created_at: '2017-02-06T21:57:20Z'
+    text: Thanks for your input and confirmation Justin.
+    ref: 5898f140ed2a89d10f003294
+    name: Chris Lindorff
+    username: chrisl

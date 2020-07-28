@@ -1,0 +1,30 @@
+id:
+  - Abantiades marcidus
+created_at: '2016-03-28T10:04:47Z'
+datetime: '2016-03-25T20:39:26+10:00'
+description: Common name is Red Gum Ghost Moth.
+latitude: -37.806631
+longitude: 144.296932
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2016-03-28T11:00:06Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-03-25T20:39:26Z'
+    height: 1500
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56f90118ed2a890be7000164.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56f90118ed2a890be7000164.jpg'
+  - datetime: '2016-03-25T19:37:20Z'
+    height: 3402
+    width: 2183
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56f90166ed2a89211c00018c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56f90166ed2a89211c00018c.JPG'
+tags:
+  - female
+  - grey
+  - moth
+collections:
+  - brisbane_ranges_moths

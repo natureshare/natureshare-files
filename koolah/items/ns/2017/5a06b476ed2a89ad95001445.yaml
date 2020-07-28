@@ -1,0 +1,43 @@
+id:
+  - Epidesmia hypenaria
+  - Cecidomyiinae spp.
+created_at: '2017-11-11T08:29:36Z'
+datetime: '2017-11-10T22:00:02+10:00'
+description: I have no idea of the identification of the 'free-loader'.
+elevation: 261.5
+latitude: -37.806576
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.296997
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-11-12T00:27:27Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-11-10T22:00:02Z'
+    height: 1373
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a06b489ed2a893984000677.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a06b489ed2a893984000677.JPG'
+tags:
+  - moth
+comments:
+  - created_at: '2017-11-12T00:12:44Z'
+    text: Wow - thats up close and personal! The free-loader looks like a Gall Midge (Cecidomyiinae).
+    ref: 5a0791fced2a8962be000176
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-11-12T00:14:33Z'
+    text: 'Compare: http://www.bowerbird.org.au/observations/38568'
+    ref: 5a079269ed2a8962be000178
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-11-12T00:28:05Z'
+    text: Thanks David - I have put the ID as such for now.
+    ref: 5a079595ed2a890f6a000046
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brisbane_ranges_moths

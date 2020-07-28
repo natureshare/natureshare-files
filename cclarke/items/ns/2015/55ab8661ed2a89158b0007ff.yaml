@@ -1,0 +1,35 @@
+id:
+  - name: Gratiola peruviana
+    by: david_francis
+created_at: '2015-07-19T11:13:37Z'
+datetime: '2015-07-19T16:31:45+10:00'
+description: growing in pond at the base of waterfall
+latitude: -37.449413
+longitude: 144.646082
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2015-07-20T05:01:03Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-07-19T16:31:45Z'
+    height: 1636
+    width: 1836
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55ab8660ed2a89158b0007fe.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55ab8660ed2a89158b0007fe.jpg'
+tags:
+  - submerged
+comments:
+  - created_at: '2015-07-19T19:07:46Z'
+    text: Hi Chris. Have you considered Gratiola as a possibility? Cheers.
+    ref: 55abf582ed2a89158b000826
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2015-07-20T04:58:43Z'
+    text: Fully submerged at this time of year. No sign of any plant outside of the pond. Plants obviously die back in Autumn/Winter.
+    ref: 55ac8003ed2a89158b000847
+    name: Russell Best
+    username: russell
+collections:
+  - conglomerate_gully_riddells_creek_plants

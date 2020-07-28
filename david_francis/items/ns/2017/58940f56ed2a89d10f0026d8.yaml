@@ -1,0 +1,39 @@
+id:
+  - Dipodium pardalinum
+created_at: '2017-02-03T05:06:48Z'
+datetime: '2017-02-02T14:10:40+10:00'
+description: 'Many Dipodium pardalinum flowered over the Macedon area this year, although some were rather stunted.'
+latitude: -37.41909
+longitude: 144.552935
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-02-03T10:29:53Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-02-02T14:10:40Z'
+    height: 1200
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58940f5eed2a89d73e000352.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58940f5eed2a89d73e000352.jpg'
+comments:
+  - created_at: '2017-02-03T10:30:26Z'
+    text: 'This is a new one for me David, apparently it also occurs in Western Victoria, my territory. I must keep an eye out for it. '
+    ref: 58945bc2ed2a89d10f0027cf
+    name: Kevin Sparrow
+    username: banksiaman
+  - created_at: '2017-02-03T23:11:28Z'
+    text: 'It was new to us until fairly recently, even though it was right under our noses! I started a NS Collection "Dipodium pardalinum Distribution" to map the distribution. I was hoping people from Western Victoria would find it there. See https://natureshare.org.au/collections/53b39819e35eb129840000d4'
+    ref: 58950e20ed2a89d10f0028d9
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-03T23:14:13Z'
+    text: 'See distribution map - https://natureshare.org.au/observations?utf8=%E2%9C%93&collection_id=53b39819e35eb129840000d4&display=locations&lat_min=-37.221809&lat_max=-37.766600&lon_min=143.558163&lon_max=144.805111&map_display=all_markers'
+    ref: 58950ec5ed2a89d10f0028db
+    name: David Francis
+    username: david_francis
+collections:
+  - macedon_regional_park_environs_native_plants
+  - dipodium_pardalinum_distribution
+  - macedon_ranges_native_plants

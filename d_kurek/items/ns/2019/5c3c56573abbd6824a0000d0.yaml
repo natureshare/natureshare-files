@@ -1,0 +1,29 @@
+id:
+  - name: Idaea halmaea
+    by: david_francis
+created_at: '2019-01-14T09:28:55Z'
+datetime: '2019-01-12T20:50:20+10:00'
+latitude: -37.874517
+longitude: 145.420578
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2019-01-18T23:01:26Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2019-01-12T20:50:20Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_5c1ed10e3abbd6b7f00000e2/2019-01-14/1547458055/DSCN4180.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c1ed10e3abbd6b7f00000e2/2019-01-14/1547458055/DSCN4180.JPG'
+comments:
+  - created_at: '2019-01-15T09:43:10Z'
+    text: This is Idaea halmaea - See Moths of Victoria Part 3
+    ref: 5c3dab2e3abbd6bb94000153
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2019-01-18T23:02:06Z'
+    text: <em>Idaea halmaea</em> species id suggested
+    ref: 5c425aee3abbd6a676000127
+    name: David Francis
+    username: david_francis
+collections:
+  - moths_of_metropolitan_melbourne

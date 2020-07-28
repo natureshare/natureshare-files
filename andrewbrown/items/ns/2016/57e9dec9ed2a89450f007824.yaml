@@ -1,0 +1,38 @@
+id:
+  - Daviesia leptophylla
+created_at: '2016-09-27T02:58:58Z'
+datetime: '2016-09-27T08:36:57+10:00'
+elevation: 219.6
+latitude: -36.783546
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.367486
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-09-29T11:33:18Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-27T08:36:57Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e9ded6ed2a892daf0000c0.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e9ded6ed2a892daf0000c0.JPG'
+  - datetime: '2016-09-27T08:38:49Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e9dee6ed2a89d73e0000a2.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e9dee6ed2a89d73e0000a2.JPG'
+  - datetime: '2016-09-27T08:38:11Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e9def0ed2a89b3fe0000aa.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e9def0ed2a89b3fe0000aa.JPG'
+comments:
+  - created_at: '2016-09-27T06:44:09Z'
+    text: Suggest Daviesia leptophylla
+    ref: 57ea1539ed2a89450f007865
+    name: David Francis
+    username: david_francis
+collections:
+  - junortoun_flora

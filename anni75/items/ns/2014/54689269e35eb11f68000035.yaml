@@ -1,0 +1,40 @@
+id:
+  - Polypogon monspeliensis
+created_at: '2014-11-16T12:02:49Z'
+datetime: '2014-11-08T10:56:38+10:00'
+latitude: -37.282061
+longitude: 144.8659
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-02-06T12:59:55Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-11-08T10:56:38Z'
+    height: 3000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54689269e35eb11f68000032.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54689269e35eb11f68000032.JPG'
+  - datetime: '2014-11-08T10:56:45Z'
+    height: 3000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54689269e35eb11f68000033.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54689269e35eb11f68000033.JPG'
+  - datetime: '2014-11-08T10:56:51Z'
+    height: 3000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54689269e35eb11f68000034.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54689269e35eb11f68000034.JPG'
+comments:
+  - created_at: '2014-11-16T12:13:29Z'
+    text: 'The stiff and erect awns make me think Echinopogon spp, but would need to be out of its natural range to be E. caespitosus.'
+    ref: 546894e9e35eb11f68000048
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2014-11-17T10:24:50Z'
+    text: 'Have consulted the books now and seems to be a good fit for Polypogon monspeliensis, an introduced annual.'
+    ref: 5469ccf2e35eb140c700002a
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - flora_of_willowmavin

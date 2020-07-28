@@ -1,0 +1,29 @@
+id:
+  - Berosus spp.
+created_at: '2019-03-27T00:39:23Z'
+datetime: '2019-03-19T21:54:00+10:00'
+description: thanks to Kimberi Pullen for ID
+latitude: -36.092511
+longitude: 142.829185
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2019-05-27T10:33:29Z'
+license: CC BY 2.5 AU
+photos:
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_5c639c983abbd6ed0f00003c/2019-03-27/1553647178/Mar19%2019%20Watchem%20zCol%20Dytiscidae%20P1160262%20cropNS.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c639c983abbd6ed0f00003c/2019-03-27/1553647178/Mar19%2019%20Watchem%20zCol%20Dytiscidae%20P1160262%20cropNS.JPG'
+comments:
+  - created_at: '2019-04-25T05:16:30Z'
+    text: Berosus sp. in Hydrophilidae
+    ref: 5cc142ae3abbd6955f0000da
+    name: Kimberi Pullen
+    username: kimberip
+  - replying_to: 5cc142ae3abbd6955f0000da
+    created_at: '2019-05-28T07:51:57Z'
+    text: Thanks Kim for this and other Coleoptera etc ID help
+    ref: 5cece89de55e832d12000015
+    name: Wendy Moore
+    username: wendymoore
+collections:
+  - watchem_fauna_flora

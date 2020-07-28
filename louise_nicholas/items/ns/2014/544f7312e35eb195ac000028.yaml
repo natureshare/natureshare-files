@@ -1,0 +1,32 @@
+id:
+  - name: Lycoperdon spp.
+    by: argybee
+created_at: '2014-10-28T10:42:26Z'
+datetime: '2014-08-09T14:12:53+10:00'
+latitude: -37.290561
+location_name: 'Clunes VIC 3370, Australia'
+longitude: 143.752972
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2016-06-13T08:25:42Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-08-09T14:12:53Z'
+    height: 3648
+    width: 4864
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/544f7312e35eb195ac000026.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544f7312e35eb195ac000026.jpg'
+comments:
+  - created_at: '2014-10-28T10:51:11Z'
+    text: Great action shot.
+    ref: 544f751fe35eb195ac00002e
+    name: Russell Best
+    username: russell
+  - created_at: '2016-06-13T08:17:12Z'
+    text: 'Brilliant timing. :)'
+    ref: 575e6c08ed2a89e668001271
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - clunes_finchesgully_flora_and_fauna

@@ -1,0 +1,34 @@
+id:
+  - Mycena mulawaestris
+created_at: '2018-06-28T12:18:38Z'
+datetime: '2014-05-24T12:22:17+10:00'
+description: Three images showing underside and gloop
+elevation: 746.7
+latitude: -37.429734
+location_name: 'Bullarto South VIC 3461, Australia'
+longitude: 144.227029
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-06-28T12:19:02Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2014-05-24T12:22:17Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b34d145ed2a89c6aa000022.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b34d145ed2a89c6aa000022.jpg'
+  - datetime: '2014-05-24T12:28:43Z'
+    height: 1413
+    width: 1941
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b34d121ed2a89402b00001b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b34d121ed2a89402b00001b.jpg'
+  - datetime: '2014-05-24T12:23:35Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b34d12ced2a89c6aa000021.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b34d12ced2a89c6aa000021.jpg'
+collections:
+  - wombat_forest_-_fungi

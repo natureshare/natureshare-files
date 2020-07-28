@@ -1,0 +1,45 @@
+id:
+  - Phalaropus lobatus
+created_at: '2017-01-03T09:03:27Z'
+datetime: '2016-11-19T07:31:47+10:00'
+elevation: 1.5
+latitude: -38.037698
+location_name: 'Point Wilson VIC 3212, Australia'
+longitude: 144.558587
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-01-03T09:10:13Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-11-19T07:31:47Z'
+    height: 1365
+    width: 2048
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/586b6881ed2a892daf0002c9.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/586b6881ed2a892daf0002c9.jpg'
+  - datetime: '2016-11-19T07:31:51Z'
+    height: 1365
+    width: 2048
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/586b6881ed2a89b3fe0002ba.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/586b6881ed2a89b3fe0002ba.jpg'
+  - datetime: '2016-11-19T07:31:51Z'
+    height: 1152
+    width: 2048
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/586b6884ed2a89b7180002ae.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/586b6884ed2a89b7180002ae.jpg'
+comments:
+  - created_at: '2017-01-23T11:38:41Z'
+    text: Stunning photos
+    ref: 5885eb41ed2a89d10f00016f
+    name: Chris Clarke
+    username: cclarke
+  - replying_to: 5885eb41ed2a89d10f00016f
+    created_at: '2017-02-18T03:09:35Z'
+    text: Thanks mate!
+    ref: 58a7baefed2a896c5c000788
+    name: Michael Gooch
+    username: michaelgooch
+collections:
+  - birds_of_the_western_treatment_plant_werribee

@@ -1,0 +1,31 @@
+id:
+  - Pardalotus punctatus
+created_at: '2015-10-17T21:51:27Z'
+datetime: '2015-09-27T15:40:32+10:00'
+description: Nesting in shed.
+elevation: 380.1
+latitude: -37.262199
+location_name: 'Willowmavin VIC 3764, Australia'
+longitude: 144.858601
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-10-17T21:55:41Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-09-27T15:40:32Z'
+    height: 3000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5622c2f7ed2a890d95000510.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5622c2f7ed2a890d95000510.JPG'
+tags:
+  - bird
+comments:
+  - created_at: '2015-10-17T23:36:41Z'
+    text: What a beautiful little bird.
+    ref: 5622db89ed2a89401600abcf
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - fauna_of_willowmavin

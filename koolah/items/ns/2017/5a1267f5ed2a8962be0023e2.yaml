@@ -1,0 +1,49 @@
+id:
+  - name: Stenolemus spp.
+    by: david_francis
+created_at: '2017-11-20T05:32:27Z'
+datetime: '2017-11-17T23:21:09+10:00'
+description: Not sure what this is but very difficult to get a photo with any clarity because it is always bouncing on its thread-like legs (which are very hairy).  Close up of head are also included in second photo.
+elevation: 262
+latitude: -37.80654
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.296988
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-11-20T05:32:45Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-11-17T23:21:09Z'
+    height: 1999
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a126806ed2a8939840006db.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a126806ed2a8939840006db.jpg'
+  - datetime: '2017-11-17T23:21:55Z'
+    height: 1760
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a12685ded2a8939840006dc.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a12685ded2a8939840006dc.jpg'
+tags:
+  - insect
+comments:
+  - created_at: '2017-11-20T08:18:38Z'
+    text: <em>Stenolemus spp.</em> species id suggested
+    ref: 5a128fdeed2a8962be0024cb
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-11-20T08:19:42Z'
+    text: 'Not sure of the species. Your photo is the best I have seen - full details, especilly of wing venation.'
+    ref: 5a12901eed2a8962be0024cc
+    name: David Francis
+    username: david_francis
+  - replying_to: 5a12901eed2a8962be0024cc
+    created_at: '2017-11-20T08:28:28Z'
+    text: Thanks David - troublesome little things these!
+    ref: 5a12922ced2a8962be0024db
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brisbane_ranges_insects

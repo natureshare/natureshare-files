@@ -1,0 +1,38 @@
+id:
+  - Wingia lambertella
+created_at: '2017-10-20T11:11:28Z'
+datetime: '2017-10-18T22:16:42+10:00'
+description: Side view in second image.
+elevation: 261.8
+latitude: -37.80658
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.296993
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-10-22T22:54:13Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-18T22:16:42Z'
+    height: 2000
+    width: 1941
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59e9d94fed2a893984000519.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59e9d94fed2a893984000519.JPG'
+  - datetime: '2017-10-18T22:14:08Z'
+    height: 1502
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59e9d95aed2a89398400051a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59e9d95aed2a89398400051a.JPG'
+tags:
+  - moth
+  - pink
+comments:
+  - created_at: '2017-10-21T09:30:09Z'
+    text: Gorgeous creature.
+    ref: 59eb13a1ed2a892d40007486
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - brisbane_ranges_moths

@@ -1,0 +1,55 @@
+id:
+  - Nymphes myrmeleonoides
+created_at: '2015-03-03T10:03:28Z'
+datetime: '2013-03-07T14:49:00+10:00'
+description: "Lacewing hatchlings popping out of geometrically angled rows of eggs. Like tiny ant-lions. Eggs are placed in alternate left-right angles in parallel lines. Each about 2mm I know other lacewings use long stalks to keep hungry larvae away from each other so maybe these alternate angled eggs are for a similar purpose?\r\nUnder bungalow eaves in suburban back yard.."
+elevation: 162.6
+latitude: -37.89902
+location_name: 'Upper Ferntree Gully VIC 3156, Australia'
+longitude: 145.311151
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2015-03-04T06:27:37Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-03-07T14:49:47Z'
+    height: 1200
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54f586efed2a8945a1000513.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f586efed2a8945a1000513.jpg'
+  - height: 512
+    width: 512
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54f586efed2a8945a1000514.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f586efed2a8945a1000514.jpg'
+comments:
+  - created_at: '2015-03-04T00:05:59Z'
+    text: Interesting.
+    ref: 54f64c67ed2a89b7cf00001d
+    name: Suzanne Jones
+    username: suzanne
+  - created_at: '2015-03-04T04:16:35Z'
+    text: 'Hi Mark. The ALA is using the name Nymphes myrmeleonoides, which is already in the NS database. It appears Nymphes myrmeleonides could be a synonym.'
+    ref: 54f68723ed2a89097e000013
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 54f68723ed2a89097e000013
+    created_at: '2015-03-04T06:26:44Z'
+    text: 'Maybe my typo. Thanks.. Backtracking begins. :('
+    ref: 54f6a5a4ed2a89097e000088
+    name: Mark Ridgway
+    username: argybee
+  - replying_to: 54f68723ed2a89097e000013
+    created_at: '2015-03-04T06:57:36Z'
+    text: Wow that's interesting. Google search gives 943 hits for "Nymphes myrmeleonoides" and 6630 hits for "Nymphes myrmeleonides". Turmoil.
+    ref: 54f6ace0ed2a89097e0000b8
+    name: Mark Ridgway
+    username: argybee
+  - replying_to: 54f68723ed2a89097e000013
+    created_at: '2015-03-04T07:00:53Z'
+    text: 'Actually after an intensive read I''m not confident of the species now either :( Might need Nymphes spp. ?'
+    ref: 54f6ada5ed2a89097e0000bb
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_neuroptera

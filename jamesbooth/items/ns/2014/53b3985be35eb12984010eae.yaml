@@ -1,0 +1,30 @@
+id:
+  - Leptospermum grandifolium
+created_at: '2014-06-08T21:53:39Z'
+datetime: '2014-01-25T10:14:05+10:00'
+latitude: -37.19755
+longitude: 146.43887
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-05-11T08:12:55Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-01-25T10:14:05Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986ce35eb12984015401.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb12984015401.jpg'
+  - datetime: '2014-01-25T10:14:05Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986ce35eb12984015402.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb12984015402.jpg'
+comments:
+  - created_at: '2014-11-11T11:27:53Z'
+    text: Suggest Leptospermum grandifolium.
+    ref: 5461f2b9e35eb1040e000037
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 5461f2b9e35eb1040e000037
+    created_at: '2015-05-09T13:25:54Z'
+    text: 'That''s what I was going to suggest too. '
+    ref: 554e0ae2ed2a899dad0000a0
+    name: Chris Clarke
+    username: cclarke

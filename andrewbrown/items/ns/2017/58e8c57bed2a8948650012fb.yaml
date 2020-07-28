@@ -1,0 +1,43 @@
+id:
+  - Eucalyptus tricarpa
+created_at: '2017-04-08T11:27:02Z'
+datetime: '2017-04-07T09:35:41+10:00'
+elevation: 229
+latitude: -36.757039
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.392798
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-04-08T11:27:02Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-04-07T09:36:00Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58e8c686ed2a89a81f0000bd.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e8c686ed2a89a81f0000bd.jpeg'
+  - datetime: '2017-04-07T09:35:41Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58e8c581ed2a89e5480000c2.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e8c581ed2a89e5480000c2.jpeg'
+  - datetime: '2017-04-07T09:37:33Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58e8c678ed2a891d6d0000c6.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e8c678ed2a891d6d0000c6.jpeg'
+  - datetime: '2017-04-07T09:37:40Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58e8c688ed2a8944100000cb.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e8c688ed2a8944100000cb.jpeg'
+tags:
+  - bark-rough
+  - eucalypt
+  - trunk-dark
+  - trunk-upright
+collections:
+  - junortoun_flora

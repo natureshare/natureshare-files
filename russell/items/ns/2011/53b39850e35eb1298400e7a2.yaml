@@ -1,0 +1,31 @@
+id:
+  - name: Jotus spp.
+    by: david_francis
+created_at: '2011-05-20T23:00:50Z'
+datetime: '2007-10-17T15:55:54+10:00'
+description: Approximate location.
+latitude: -37.441113
+longitude: 144.661935
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2017-05-08T04:11:15Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2007-10-17T15:55:54Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ee35eb12984011b40.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b40.jpg'
+comments:
+  - created_at: '2017-05-06T23:51:15Z'
+    text: 'Jotus sp. '
+    ref: 590e6173ed2a89a558000009
+    name: Robert Whyte
+    username: robertwhyte
+  - replying_to: 590e6173ed2a89a558000009
+    created_at: '2017-05-08T04:11:42Z'
+    text: id updated to Jotus sp.
+    ref: 590feffeed2a893d8c002930
+    name: David Francis
+    username: david_francis
+collections:
+  - spiders_of_riddells_creek

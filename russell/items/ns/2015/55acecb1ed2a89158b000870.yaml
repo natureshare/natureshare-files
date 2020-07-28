@@ -1,0 +1,32 @@
+id:
+  - name: Mycena subgalericulata
+    by: funkeytom
+created_at: '2015-07-20T12:42:25Z'
+datetime: '2015-07-19T14:48:39+10:00'
+description: Growing in a fallen log.
+latitude: -37.483585
+longitude: 144.59967
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-07-12T12:44:37Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-07-19T14:48:39Z'
+    height: 1447
+    width: 1590
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55acecb0ed2a89158b00086e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55acecb0ed2a89158b00086e.jpg'
+  - datetime: '2015-07-19T14:47:53Z'
+    height: 1255
+    width: 1632
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55acecb0ed2a89158b00086f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55acecb0ed2a89158b00086f.jpg'
+comments:
+  - created_at: '2016-07-12T12:45:01Z'
+    text: Mycena subgalericulata group.
+    ref: 5784e64ded2a896edb000004
+    name: Tom May
+    username: funkeytom
+collections:
+  - fungi_of_riddells_creek

@@ -1,0 +1,36 @@
+id:
+  - Scaptia auriflua
+created_at: '2016-12-25T04:38:03Z'
+datetime: '2015-12-10T22:32:21+10:00'
+description: ID assistance from David Francis
+latitude: -37.800847
+longitude: 144.2997
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-12-25T07:38:42Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-12-10T22:32:21Z'
+    height: 1755
+    width: 1741
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/585f4ce5ed2a89b71800029a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/585f4ce5ed2a89b71800029a.JPG'
+tags:
+  - fly
+  - insect
+comments:
+  - created_at: '2016-12-25T06:44:42Z'
+    text: 'Cathy, This seems to match Scaptia auriflua.'
+    ref: 585f6adaed2a89748000afe3
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-12-25T06:44:51Z'
+    text: 'http://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:85f800cd-73d1-425d-8e49-23d69323203d#overview'
+    ref: 585f6ae3ed2a89748000afe5
+    name: David Francis
+    username: david_francis
+collections:
+  - brisbane_ranges_insects

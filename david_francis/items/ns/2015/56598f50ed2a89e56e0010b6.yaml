@@ -1,0 +1,28 @@
+id:
+  - Campion spp.
+created_at: '2015-11-28T11:26:31Z'
+datetime: '2015-11-28T22:26:00+10:00'
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2016-01-17T12:16:56Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-11-27T14:40:40Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56598fabed2a899c6300025d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56598fabed2a899c6300025d.jpg'
+comments:
+  - created_at: '2015-11-29T12:43:59Z'
+    text: wow!
+    ref: 565af30fed2a897861000022
+    name: 'Reilly '
+    username: reilly
+  - created_at: '2015-12-04T11:47:39Z'
+    text: Fantastic shot !
+    ref: 56617d5bed2a89b5f5000107
+    name: Leuba Ridgway
+    username: leuba
+collections:
+  - insects_and_other_arthropods_of_mt_macedon

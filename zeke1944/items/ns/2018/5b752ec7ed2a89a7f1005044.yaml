@@ -1,0 +1,43 @@
+id:
+  - Clitocybula spp.
+created_at: '2018-08-16T08:04:29Z'
+datetime: '2017-06-18T10:34:52+10:00'
+elevation: 148
+latitude: -38.554282
+location_name: 'Lorne VIC 3232, Australia'
+longitude: 143.943836
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-09-17T12:52:44Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-06-18T10:34:52Z'
+    height: 3411
+    width: 2435
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b752ecced2a89c6aa000088.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b752ecced2a89c6aa000088.jpg'
+comments:
+  - created_at: '2018-08-16T08:07:29Z'
+    text: This is Clitocybula ssp. Brick red. Gates p41.
+    ref: 5b7530c1ed2a89a7f1005060
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-18T08:55:48Z'
+    text: The stipe should be thin and match the pileus colour in Clitocybula "Brick Red". This is very similar in form but I do not have any other suggestions at the moment.
+    ref: 5b77df14ed2a89a7f1005c59
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-08-19T00:16:36Z'
+    text: It was quite on old specimen and probable changed the color a little with age. Have seen this only once
+    ref: 5b78b6e4ed2a89a7f1005f43
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-20T14:18:56Z'
+    text: Clitocybula spp. added to dataset.
+    ref: 5b7acdd0ed2a89a7f100692b
+    name: Cathy Powers
+    username: koolah
+collections:
+  - otway_ranges_-_fungi

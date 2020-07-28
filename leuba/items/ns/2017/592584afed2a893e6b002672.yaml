@@ -1,0 +1,53 @@
+id:
+  - Hericium coralloides
+created_at: '2017-05-24T13:12:40Z'
+datetime: '2017-05-22T15:15:48+10:00'
+description: "This beautiful toothed coral fungus was seen in two clumps, a large one about 170 mm across and a smaller one within the tree hollow. The small clump was fresh, white and highly branched with multiple soft spines. The larger clump was slightly old, drier with stiffer spines.\r\nSpotted on a damp tree stump - Beech\r\n"
+elevation: 291.9
+latitude: -37.930575
+location_name: 'Emerald VIC 3782, Australia'
+longitude: 145.462094
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-05-25T11:06:31Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-05-22T15:15:48Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5925848ced2a89e548000163.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5925848ced2a89e548000163.jpg'
+  - datetime: '2017-05-22T15:15:48Z'
+    height: 904
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/592584a3ed2a894410000146.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592584a3ed2a894410000146.jpg'
+  - datetime: '2017-05-22T15:14:53Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/592584b2ed2a89e548000164.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592584b2ed2a89e548000164.jpg'
+  - datetime: '2017-05-22T15:18:00Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/592584c5ed2a891d6d000160.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592584c5ed2a891d6d000160.jpg'
+tags:
+  - fungus
+comments:
+  - created_at: '2017-05-25T03:18:35Z'
+    text: Hericium coralloides now in db.
+    ref: 59264d0bed2a893e6b0027c6
+    name: David Francis
+    username: david_francis
+  - replying_to: 59264d0bed2a893e6b0027c6
+    created_at: '2017-05-25T11:05:49Z'
+    text: Thank you David.
+    ref: 5926ba8ded2a893e6b00293e
+    name: Leuba Ridgway
+    username: leuba
+collections:
+  - dandenong_ranges_fungi

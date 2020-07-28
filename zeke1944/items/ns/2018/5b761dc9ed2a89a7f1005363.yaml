@@ -1,0 +1,53 @@
+id:
+  - Coltriciella dependens
+created_at: '2018-08-17T01:03:10Z'
+datetime: '2014-06-27T16:13:25+10:00'
+elevation: 265
+latitude: -38.406363
+location_name: 'Wensleydale VIC 3241, Australia'
+longitude: 144.053034
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-22T05:22:42Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-06-27T16:13:25Z'
+    height: 1652
+    width: 2366
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b7cf327ed2a89402b000091.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b7cf327ed2a89402b000091.jpg'
+comments:
+  - created_at: '2018-08-17T01:03:32Z'
+    text: <em>Coltriciella dependens</em> species id suggested
+    ref: 5b761ee4ed2a89a7f1005368
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-17T01:04:35Z'
+    text: Usually found under fallen timber. Mostly burnt
+    ref: 5b761f23ed2a89a7f1005369
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-19T04:00:57Z'
+    text: 'I note you have used the close up image and a closer view of the clump on the lower left in a FNCV report for a foray on 31/7/2016 to Kinglake NP - Masons Falls. This is the same date as this posting however you advise this is in the Otways. Can you confirm the location please. It is the aim of this site to accurately record species, location, date and time in a useful database and this is reflected in these groups also. If using composite images, they should be of the same specimen or group and definately the same location. Cheers'
+    ref: 5b78eb79ed2a89a7f10060b4
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-08-19T05:10:44Z'
+    text: I have seen other images of this species of yours from Anglesea and suspect you have got your images mixed up. The other Anglesea record was dated 18/5/2014 but it plots to a different location. Cheers
+    ref: 5b78fbd4ed2a894b8f000001
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-08-19T08:43:59Z'
+    text: 'Must have overwritten the record for that location. At the moment  I can''t find it in 50,000 images 18/5 was in the Grampians. Watch this space. Others submitted look OK Cheers R'
+    ref: 5b792dcfed2a89a7f100621b
+    name: zeke1944
+    username: zeke1944
+  - replying_to: 5b792dcfed2a89a7f100621b
+    created_at: '2018-08-19T11:01:03Z'
+    text: 'Thanks, these records get scooped up by ALA so we are trying our hardest to keep things accurate.'
+    ref: 5b794defed2a895b0300006d
+    name: John Walter
+    username: 249pbr
+collections:
+  - otway_ranges_-_fungi

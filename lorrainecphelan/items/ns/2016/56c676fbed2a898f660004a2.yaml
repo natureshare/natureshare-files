@@ -1,0 +1,30 @@
+id:
+  - Coprinus comatus
+  - name: Coprinus spp.
+    by: funkeytom
+created_at: '2016-02-19T02:00:50Z'
+datetime: '2010-06-29T12:59:00+10:00'
+elevation: 112.4
+latitude: -38.01285
+location_name: 'Myamyn VIC 3304, Australia'
+longitude: 141.663676
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-07-10T05:21:36Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 768
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56c67701ed2a890be700004c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56c67701ed2a890be700004c.jpg'
+tags:
+  - fungi
+comments:
+  - created_at: '2016-07-10T05:23:58Z'
+    text: 'This is a Coprinus (in the broad sense, probably a Coprinopsis) rather than Coprinus comatus. Here there are lots of individual small pointed scales forming a dense covering to the pileus, whereas in Coprinus comatus the pileus is scaly, but with the scales not so small and dense. '
+    ref: 5781dbeeed2a89e69f000494
+    name: Tom May
+    username: funkeytom
+collections:
+  - homerton_and_milltown_fungi

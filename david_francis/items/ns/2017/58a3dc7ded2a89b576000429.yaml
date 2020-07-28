@@ -1,0 +1,67 @@
+id:
+  - Hemianax papuensis
+created_at: '2017-02-15T04:56:09Z'
+datetime: '2017-02-14T15:15:17+10:00'
+description: 'One of the largest dragonflies resting very still for the camera, allowing close-ups of its anatomy. Note T-shaped black mark on forehead (frons). (4 photos)'
+latitude: -37.408133
+longitude: 144.595167
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-02-17T03:02:28Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-02-14T15:15:17Z'
+    height: 650
+    width: 867
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58a3df6eed2a892daf0003bf.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a3df6eed2a892daf0003bf.jpg'
+  - datetime: '2017-02-14T15:15:14Z'
+    height: 1600
+    width: 2133
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58a3dc82ed2a892daf0003be.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a3dc82ed2a892daf0003be.jpg'
+  - datetime: '2017-02-14T15:15:43Z'
+    height: 1600
+    width: 2133
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58a3dc86ed2a89d73e000381.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a3dc86ed2a89d73e000381.jpg'
+  - datetime: '2017-02-14T15:16:25Z'
+    height: 1600
+    width: 2406
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58a3dc87ed2a89b3fe0003a7.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a3dc87ed2a89b3fe0003a7.jpg'
+tags:
+  - cerci
+  - male
+comments:
+  - created_at: '2017-02-15T05:11:20Z'
+    text: Males and females similar - not sure how to tell them apart.
+    ref: 58a3e2f8ed2a89b576000440
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-15T09:48:57Z'
+    text: 'Great detail David. If the difference between males and females is the number of hairs between the wings, this photo would certainly enable that.'
+    ref: 58a42409ed2a890c9c000071
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2017-02-15T10:55:18Z'
+    text: 'I think I''ve found the answer. In dragonfly species that do not display sexual dimorphism, there are differences in the terminal abdominal appendages. In the male these appendages are well-developed comprising paired dorsal cerci with a single third appendage called the epiproct below (see 4th photo). These are used for clasping the female. The female has only a vestigial pair of cerci. So that makes this individual a male, if I have this right.'
+    ref: 58a43396ed2a896c5c000001
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-15T11:21:25Z'
+    text: Edit*there are still differences in the.....*. This difference in terminal appendages applies to all dragonflies
+    ref: 58a439b5ed2a896c5c000010
+    name: David Francis
+    username: david_francis
+  - replying_to: 58a439b5ed2a896c5c000010
+    created_at: '2017-02-21T03:45:28Z'
+    text: great info
+    ref: 58abb7d8ed2a8938900002f8
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - insects_and_other_arthropods_of_mt_macedon

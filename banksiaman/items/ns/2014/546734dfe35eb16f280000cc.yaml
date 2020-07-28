@@ -1,0 +1,60 @@
+id:
+  - name: Leucochrysum albicans subsp. albicans var. tricolor
+    by: russell
+created_at: '2014-11-15T11:11:27Z'
+datetime: '2014-10-20T13:21:36+10:00'
+latitude: -37.864323
+longitude: 143.505288
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-11-16T10:05:42Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-20T13:21:36Z'
+    height: 1516
+    width: 2288
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/546734dfe35eb16f280000cb.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/546734dfe35eb16f280000cb.JPG'
+  - datetime: '2014-10-20T13:23:24Z'
+    height: 2307
+    width: 2406
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54684b46e35eb1964b000003.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54684b46e35eb1964b000003.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2014-11-15T11:33:38Z'
+    text: Hi Kevin. Looks like Leucochrysum albicans var. tricolor. Very rare.
+    ref: 54673a12e35eb14647000057
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2014-11-16T03:18:33Z'
+    text: 'Yes, agree with Chris. Need pics of foliage or plant too, Kevin. Often can''t ID plants from flowers alone.'
+    ref: 54681789e35eb19c3a000014
+    name: Russell Best
+    username: russell
+  - replying_to: 54681789e35eb19c3a000014
+    created_at: '2014-11-16T07:01:10Z'
+    text: I uploaded another photo with some foliage visible. Does this help?
+    ref: 54684bb6e35eb1964b000004
+    name: Kevin Sparrow
+    username: banksiaman
+  - created_at: '2014-11-16T10:08:05Z'
+    text: Yes. You can also see the outer red bracts that is a distinctive feature of this one.
+    ref: 54687785e35eb1964b000016
+    name: Russell Best
+    username: russell
+  - created_at: '2014-11-16T22:14:48Z'
+    text: Just had a thought Kevin. All native plant records at this location can be added to the Vic. Volc. Plains collection I think?
+    ref: 546921d8e35eb1ed710000b5
+    name: Russell Best
+    username: russell
+  - replying_to: 546921d8e35eb1ed710000b5
+    created_at: '2014-11-16T23:08:14Z'
+    text: "Will do, cheers,\r\nKevin"
+    ref: 54692e5ee35eb1ed710000c2
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - victorian_volcanic_plains_native_plants

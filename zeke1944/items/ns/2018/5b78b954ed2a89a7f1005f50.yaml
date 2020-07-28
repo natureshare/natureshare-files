@@ -1,0 +1,33 @@
+id:
+  - name: Entoloma pitereka
+    by: 249pbr
+created_at: '2018-08-19T00:30:23Z'
+datetime: '2017-06-17T12:27:13+10:00'
+elevation: 51.1
+latitude: -38.456664
+location_name: 'Eastern View VIC 3231, Australia'
+longitude: 144.057551
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-27T12:07:26Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-06-17T12:27:13Z'
+    height: 1809
+    width: 2346
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b78b958ed2a89402b00008c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b78b958ed2a89402b00008c.jpg'
+comments:
+  - created_at: '2018-08-19T00:33:26Z'
+    text: Entoloma pitereka. Found at Moggs Crekk. Has a distinctive rhizomorph.
+    ref: 5b78bad6ed2a89a7f1005f5e
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-19T07:11:56Z'
+    text: 'The white rhizomorphs spreading across the wood are characteristic of the species and readily separate this from the similar looking, and also pink-spored, Clitopilus hobsonii. Could Entoloma pitereka be added to the dataset.'
+    ref: 5b79183ced2a89a7f10061b9
+    name: John Walter
+    username: 249pbr
+collections:
+  - otway_ranges_-_fungi

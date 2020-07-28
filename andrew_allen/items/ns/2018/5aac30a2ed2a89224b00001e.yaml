@@ -1,0 +1,35 @@
+id:
+  - name: Lepidoscia spp.
+    by: koolah
+created_at: '2018-03-16T21:03:56Z'
+datetime: '2018-03-16T18:56:00+10:00'
+description: Mating pair of moths. Two photos added.
+elevation: 134.5
+latitude: -37.649089
+location_name: 'Greenvale VIC 3059, Australia'
+longitude: 144.860647
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-03-16T21:03:59Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 2486
+    width: 3730
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5aac30a1ed2a89abdd00004c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5aac30a1ed2a89abdd00004c.jpg'
+  - height: 1897
+    width: 2846
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5aac30a6ed2a89abdd00004d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5aac30a6ed2a89abdd00004d.jpg'
+comments:
+  - created_at: '2018-03-18T05:50:21Z'
+    text: <em>Lepidoscia spp.</em> species id suggested
+    ref: 5aadfe1ded2a89224b0001de
+    name: Cathy Powers
+    username: koolah
+collections:
+  - woodlands_historic_park_insects_and_spiders
+  - woodlands_historic_park_-_lepidoptera

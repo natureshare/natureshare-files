@@ -1,0 +1,29 @@
+id:
+  - Mycena fumosa
+created_at: '2018-07-13T14:41:29Z'
+datetime: '2014-04-12T12:19:27+10:00'
+description: 'Two images, this species lacks the orange collar at the base of the stem making it easy to separate from the similar M. carmeliana'
+elevation: 738.7
+latitude: -37.427471
+location_name: 'Lerderderg VIC 3458, Australia'
+longitude: 144.307654
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-07-14T07:12:02Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2014-04-12T12:19:27Z'
+    height: 1206
+    width: 1622
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b48b16ced2a892807000059.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b48b16ced2a892807000059.jpg'
+  - datetime: '2014-04-12T12:18:52Z'
+    height: 1274
+    width: 1620
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b48b16fed2a89c6aa000045.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b48b16fed2a89c6aa000045.jpg'
+collections:
+  - wombat_forest_-_fungi

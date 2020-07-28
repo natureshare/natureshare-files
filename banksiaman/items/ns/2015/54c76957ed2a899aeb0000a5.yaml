@@ -1,0 +1,41 @@
+id:
+  - Allocasuarina mackliniana subsp. mackliniana
+created_at: '2015-01-27T10:32:55Z'
+datetime: '2015-01-26T14:34:44+10:00'
+latitude: -38.419007
+longitude: 141.54161
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-01-28T11:25:52Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-01-26T14:34:44Z'
+    height: 5498
+    width: 3373
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54c76956ed2a899aeb0000a3.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54c76956ed2a899aeb0000a3.jpg'
+  - datetime: '2015-01-26T14:34:57Z'
+    height: 3761
+    width: 3255
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54c76956ed2a899aeb0000a4.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54c76956ed2a899aeb0000a4.jpg'
+comments:
+  - created_at: '2015-01-27T10:34:16Z'
+    text: Any ideas?? A. pusilla or A. misera??
+    ref: 54c769a8ed2a899aeb0000a9
+    name: Kevin Sparrow
+    username: banksiaman
+  - created_at: '2015-01-28T10:15:56Z'
+    text: 'I was actually leaning towards A. mackliniana subsp. mackliniana. As per your photo, this species has recurved and withered teeth and no bloom on branchlets. A. pusilla most commonly of grey-blue appearance and a compact, flat-topped shrub. A. misera possibility, but wouldnt expect to see obvious withered and recurved teeth.'
+    ref: 54c8b6dced2a897151000126
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 54c8b6dced2a897151000126
+    created_at: '2015-01-28T11:25:20Z'
+    text: 'Thanks Chris, '
+    ref: 54c8c720ed2a899aeb000110
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - plants_of_warrnambool_and_district

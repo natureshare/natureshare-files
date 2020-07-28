@@ -1,0 +1,48 @@
+id:
+  - name: Hygrocybe reesiae
+    by: 249pbr
+created_at: '2018-08-14T02:52:03Z'
+datetime: '2016-06-01T11:50:39+10:00'
+elevation: 386
+latitude: -38.516861
+location_name: 'Lorne VIC 3232, Australia'
+longitude: 143.917432
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-19T22:36:01Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-06-01T11:50:39Z'
+    height: 2826
+    width: 3282
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b724368ed2a891efe000094.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b724368ed2a891efe000094.jpg'
+comments:
+  - created_at: '2018-08-14T13:15:57Z'
+    text: Hygrocybe reesiae added/corrected.
+    ref: 5b72d60ded2a89a7f10047f0
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-08-18T05:51:13Z'
+    text: Hygrocybe reesiae not in data base. Seen around Blanket leaf area a couple ot times.
+    ref: 5b77b3d1ed2a89a7f1005ad3
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-18T11:42:45Z'
+    text: Are both images from the same group?
+    ref: 5b780635ed2a89a7f1005d5f
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-08-19T00:11:28Z'
+    text: Yes there was quite a group.
+    ref: 5b78b5b0ed2a89a7f1005f40
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-19T12:38:11Z'
+    text: 'I was a bit concerned by the pale base to the stipe and whether that indicated this was H. cheelii, however there is no indication of the pink tones of that species. Could Hygrocybe reesiae be added to the database please.'
+    ref: 5b7964b3ed2a89a7f1006335
+    name: John Walter
+    username: 249pbr
+collections:
+  - otway_ranges_-_fungi

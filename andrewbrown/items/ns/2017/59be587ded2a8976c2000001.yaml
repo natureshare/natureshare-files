@@ -1,0 +1,52 @@
+id:
+  - name: Accipiter fasciatus
+    by: lconole
+created_at: '2017-09-17T12:08:34Z'
+datetime: '2017-09-17T10:15:00+10:00'
+description: Id?
+elevation: 224
+latitude: -36.783993
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.375125
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-09-17T12:08:34Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 1673
+    width: 1115
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59be5db9ed2a89398400025c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59be5db9ed2a89398400025c.JPG'
+  - height: 983
+    width: 655
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59be5882ed2a89398400025a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59be5882ed2a89398400025a.JPG'
+  - height: 2273
+    width: 1515
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59be5891ed2a89398400025b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59be5891ed2a89398400025b.JPG'
+tags:
+  - bird-of-prey
+  - birds-flying
+comments:
+  - created_at: '2017-09-18T02:37:50Z'
+    text: <em>Accipiter fasciatus</em> species id suggested
+    ref: 59bf317eed2a8957de0009d4
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2017-09-18T02:38:00Z'
+    text: Juvenile
+    ref: 59bf3188ed2a8957de0009d5
+    name: Lawrie Conole
+    username: lconole
+  - replying_to: 59bf3188ed2a8957de0009d5
+    created_at: '2017-09-18T07:31:35Z'
+    text: Thanks Lawrie. There were 2 of these sleek predators circling above but I couldn't get them in the same shot.
+    ref: 59bf7657ed2a8957de000acb
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - wildlife_of_junortoun

@@ -1,0 +1,41 @@
+id:
+  - name: Artomyces piperatus
+    by: zeke1944
+created_at: '2018-08-01T14:45:04Z'
+datetime: '2012-06-24T16:27:27+10:00'
+elevation: 509.7
+latitude: -37.500298
+location_name: 'Blackwood VIC 3458, Australia'
+longitude: 144.365779
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-01T14:45:13Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-06-24T16:27:27Z'
+    height: 3056
+    width: 4592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b61c753ed2a891efe00007e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b61c753ed2a891efe00007e.JPG'
+comments:
+  - created_at: '2018-08-02T00:07:58Z'
+    text: <em>Artomyces piperatus</em> species id suggested
+    ref: 5b624b5eed2a89a7f1000401
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-02T00:08:34Z'
+    text: That should read Artomyces austropiperatus
+    ref: 5b624b82ed2a89a7f1000404
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-02T00:48:27Z'
+    text: 'Agreed, ALA lists both species but all Australian records are correctly identified as A. austropiperatus. Could the data base be updated please.'
+    ref: 5b6254dbed2a89eae400016f
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-08-02T02:38:42Z'
+    text: Database updated.
+    ref: 5b626eb2ed2a89a7f10004c6
+    name: Cathy Powers
+    username: koolah

@@ -1,0 +1,34 @@
+id:
+  - Caladenia cardiochila
+created_at: '2015-09-27T02:56:06Z'
+datetime: '2015-09-20T09:40:50+10:00'
+elevation: 157.6
+latitude: -36.455613
+location_name: 'Nhill VIC 3418, Australia'
+longitude: 141.671567
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-09-27T02:58:02Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-09-20T09:40:50Z'
+    height: 1608
+    width: 1712
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56075ae2ed2a890d950002cd.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56075ae2ed2a890d950002cd.jpg'
+comments:
+  - created_at: '2015-09-27T07:53:01Z'
+    text: Beautiful capture.
+    ref: 5607a05ded2a89b06c00136a
+    name: Suzanne Jones
+    username: suzanne
+  - replying_to: 5607a05ded2a89b06c00136a
+    created_at: '2015-09-27T10:25:22Z'
+    text: Thanks Suzanne - very few orchids this year in the Little Desert - too dry - but one of these.
+    ref: 5607c412ed2a891b590001aa
+    name: Chris Clarke
+    username: cclarke
+collections:
+  - little_desert_np_plants

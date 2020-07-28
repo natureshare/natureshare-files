@@ -1,0 +1,44 @@
+id:
+  - Dillwynia phylicoides
+created_at: '2014-09-29T12:09:52Z'
+datetime: '2014-09-27T12:19:51+10:00'
+latitude: -37.205111
+location_name: 'Broadford VIC 3658, Australia'
+longitude: 144.997901
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-09-29T12:11:05Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-27T12:19:51Z'
+    height: 3000
+    width: 4000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54294c10e35eb1dec1000049.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54294c10e35eb1dec1000049.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2014-09-29T12:49:58Z'
+    text: Wondering what feature made you conclude it is D. phylicoides?
+    ref: 54295576e35eb1dec1000084
+    name: Russell Best
+    username: russell
+  - replying_to: 54295576e35eb1dec1000084
+    created_at: '2014-09-29T12:53:43Z'
+    text: 'Lacking a proper key Russell - so working off pretty rudimentary references (wildflower brochure and commentary on the day). I promise to go and get myself at least a Flora of Melbourne to save you some work. I assume I got yet another incorrect? '
+    ref: 54295657e35eb1dec100008c
+    name: Annemaree Docking
+    username: anni75
+  - created_at: '2014-09-29T13:08:41Z'
+    text: 'Not at all. It might be D. phylicoides. It has spiralled leaves and your pic shows some spiralled and some not. On the other hand, the flowers are supposed to be terminal, or nearly so, in phylicoides whereas yours shows flowers that axillary and all along the stem. I''ll look into some more. I was just wondering how you got to D. phylicoides, which isn''t a widely known species.'
+    ref: 542959d9e35eb1dec100009f
+    name: Russell Best
+    username: russell
+  - created_at: '2014-09-29T13:17:05Z'
+    text: 'I believe it is common to Broadford and Mt Piper in particular - but please don''t quote me as I am pretty new to this game. The Broadford Land Management group is putting together a brochure and it is included. I am going to the Colin Officer Flora reserve walk this weekend, so will ask for more information when I''m there. '
+    ref: 54295bd1e35eb1dec10000a3
+    name: Annemaree Docking
+    username: anni75
+collections:
+  - mt_piper_spring_2014

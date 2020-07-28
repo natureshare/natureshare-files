@@ -1,0 +1,33 @@
+id:
+  - Platylobium obtusangulum
+created_at: '2018-10-30T13:57:27Z'
+datetime: '2018-10-30T17:05:30+10:00'
+description: 2 Photos
+elevation: 516.7
+latitude: -37.623905
+location_name: '400 Sullivans Rd, Mount Egerton VIC 3352, Australia'
+longitude: 144.068585
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-10-30T14:00:54Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-10-30T17:05:30Z'
+    height: 3056
+    width: 4592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bd862aeed2a89402b00011f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bd862aeed2a89402b00011f.JPG'
+  - datetime: '2018-10-30T17:05:42Z'
+    height: 3056
+    width: 4592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bd8634eed2a89c6aa000123.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bd8634eed2a89c6aa000123.JPG'
+comments:
+  - created_at: '2018-10-30T14:01:28Z'
+    text: <em>Platylobium obtusangulum</em> species id suggested
+    ref: 5bd86438ed2a895e150017b9
+    name: Ben Fisher
+    username: bf
+collections:
+  - millbrook

@@ -1,0 +1,46 @@
+id:
+  - Monteithiella humeralis
+  - Bursaria spinosa
+created_at: '2018-02-10T01:26:02Z'
+datetime: '2018-02-08T10:19:22+10:00'
+description: Bug about 10mm long. Have not had time to try to id. Before I disturbed it it appeared to be feeding on unripe fruit of Sweet Bursaria (see second photo).
+elevation: 141.3
+latitude: -37.64429
+location_name: 'Greenvale VIC 3059, Australia'
+longitude: 144.860673
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-02-12T05:02:51Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-02-08T10:19:22Z'
+    height: 780
+    width: 570
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a7e496bed2a8966a000003f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a7e496bed2a8966a000003f.jpg'
+  - datetime: '2018-02-08T10:10:49Z'
+    height: 534
+    width: 486
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a7e4976ed2a89f453000067.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a7e4976ed2a89f453000067.jpg'
+  - datetime: '2018-02-08T10:19:51Z'
+    height: 839
+    width: 617
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a7e4986ed2a896ec0000058.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a7e4986ed2a896ec0000058.jpg'
+comments:
+  - created_at: '2018-02-10T01:36:24Z'
+    text: Maybe Monteithiella humeralis
+    ref: 5a7e4c98ed2a89def7001619
+    name: Andrew Allen
+    username: andrew_allen
+  - replying_to: 5a7e4c98ed2a89def7001619
+    created_at: '2018-02-12T05:01:55Z'
+    text: 'Thanks. Certainly looks like it. After doing some research it appears to be the Pittosporum family that is the host rather than just the genus - McDonald and Grigg in "The life cycle of ''Cuspicona simplex'' Walker and ''Monteithiella humeralis'' (Walker) (Hemiptera: Pentatomidae)" (General and Applied Entomology Volume 12 1980) quoting another author give the host taxa as Sollya heterophylla, Copromosa sp. and Pittosporum sp. However Bursaria spinosa is also in the family.'
+    ref: 5a811fc3ed2a89def7002119
+    name: Jeff Triplett
+    username: triplett
+collections:
+  - woodlands_historic_park_insects_and_spiders
+  - woodlands_historic_park_-_hemiptera

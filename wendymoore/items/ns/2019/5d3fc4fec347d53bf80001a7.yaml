@@ -1,0 +1,52 @@
+id:
+  - name: Pygopodidae spp.
+    by: lconole
+created_at: '2019-07-30T04:18:06Z'
+datetime: '2017-05-28T14:03:58+10:00'
+description: shed reptile skin
+elevation: 113.7
+latitude: -36.090671
+location_name: 'Morton Plains VIC 3482, Australia'
+longitude: 142.829728
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2019-07-30T04:34:36Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-05-28T14:03:58Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_5c639c983abbd6ed0f00003c/2019-07-30/may28_17_watchem_p1020633.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-07-30/may28_17_watchem_p1020633.jpeg'
+  - datetime: '2017-05-28T14:03:07Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_5c639c983abbd6ed0f00003c/2019-07-30/may28_17_watchem_p1020631_cropclose.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-07-30/may28_17_watchem_p1020631_cropclose.jpeg'
+comments:
+  - created_at: '2019-07-31T05:22:02Z'
+    text: 'A species of legless-lizard, Pygopodidae'
+    ref: 5d41257ac347d53bf80001bc
+    name: Lawrie Conole
+    username: lconole
+  - replying_to: 5d41257ac347d53bf80001bc
+    created_at: '2019-07-31T06:59:45Z'
+    text: Thanks Lawrie (not in data set)
+    ref: 5d413c61c347d56c430001e4
+    name: Wendy Moore
+    username: wendymoore
+  - replying_to: 5d413c61c347d56c430001e4
+    created_at: '2019-08-01T04:32:01Z'
+    text: 'Wild guess based on hexagonal shaped scales it and lack of legs makes it family Pygopodidae. Probably too big to be an Aprasia sp, but possibly a Delma sp. Could also be Pygopus lepidopodus, but P. schraderi isn''t out of the question.'
+    ref: 5d426b41c347d55c5e000248
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2019-09-08T22:02:41Z'
+    text: Pygopodidae spp. added to dataset
+    ref: 5d757a81cad3eb91f300014e
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2019-09-09T00:03:07Z'
+    text: <em>Pygopodidae spp.</em> species id suggested
+    ref: 5d7596bbcad3eb4c55000193
+    name: Lawrie Conole
+    username: lconole
+collections:
+  - watchem_fauna_flora

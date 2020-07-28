@@ -1,0 +1,36 @@
+id:
+  - name: Hakea rostrata
+    by: banksiaman
+created_at: '2018-10-12T10:18:38Z'
+datetime: '2018-09-22T10:10:16+10:00'
+elevation: 395.4
+latitude: -37.618437
+location_name: 'Dunkeld VIC 3294, Australia'
+longitude: 142.335192
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-10-12T10:20:17Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-09-22T10:10:16Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bc0740fed2a89c6aa0000fc.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bc0740fed2a89c6aa0000fc.jpg'
+  - datetime: '2018-09-22T10:10:25Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bc073eaed2a892807000119.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bc073eaed2a892807000119.jpg'
+comments:
+  - created_at: '2018-10-12T10:48:16Z'
+    text: <em>Hakea rostrata</em> species id suggested
+    ref: 5bc07bf0ed2a89c10e003929
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - grampians_np_plants
+  - flora_and_fauna_of_the_grampians

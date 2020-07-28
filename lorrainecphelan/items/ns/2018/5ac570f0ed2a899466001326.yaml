@@ -1,0 +1,55 @@
+id:
+  - Polygonum plebeium
+created_at: '2018-04-05T00:46:41Z'
+datetime: '2018-04-02T17:14:52+10:00'
+description: "Small sprawling herb growing in mud of drying ephemeral wetland.\r\nThree images."
+elevation: 59.8
+latitude: -38.094114
+location_name: 'Heywood VIC 3304, Australia'
+longitude: 141.747878
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-04-05T00:46:55Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-04-02T17:14:52Z'
+    height: 1201
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ac5710aed2a8929e7000077.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ac5710aed2a8929e7000077.jpg'
+  - datetime: '2018-04-05T10:19:08Z'
+    height: 1201
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ac570f3ed2a897fc800005f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ac570f3ed2a897fc800005f.jpg'
+  - datetime: '2018-04-02T17:24:12Z'
+    height: 1243
+    width: 1599
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ac57125ed2a897fc8000060.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ac57125ed2a897fc8000060.jpg'
+tags:
+  - buds-pink
+  - flower-pink
+  - leaf
+comments:
+  - created_at: '2018-04-05T11:26:43Z'
+    text: Is this a native plant or is it introduced?? Grows in other countries so I suspect the latter. Could be a cosmopolitan??
+    ref: 5ac607f3ed2a8968430000e2
+    name: Kevin Sparrow
+    username: banksiaman
+  - replying_to: 5ac607f3ed2a8968430000e2
+    created_at: '2018-04-05T11:59:22Z'
+    text: Flora Vic says it's a native and also grows in NZ and Asia.
+    ref: 5ac60f9aed2a899466001665
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - created_at: '2018-04-08T11:53:00Z'
+    text: Thanks
+    ref: 5aca029ced2a8994660023d5
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - homerton_and_milltown

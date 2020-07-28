@@ -1,0 +1,39 @@
+id:
+  - Gasteruption spp.
+created_at: '2017-03-20T10:05:09Z'
+datetime: '2017-03-07T15:05:31+10:00'
+description: 'Several feeding on Lemon-scented Teatree in garden. '
+elevation: 58.4
+latitude: -38.089858
+location_name: 'Heywood VIC 3304, Australia'
+longitude: 141.751355
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-03-20T12:46:26Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-03-07T11:57:45Z'
+    height: 1067
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58cfa87eed2a891d6d00007f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58cfa87eed2a891d6d00007f.JPG'
+  - datetime: '2017-03-07T15:05:31Z'
+    height: 1201
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58cfb647ed2a891d6d000080.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58cfb647ed2a891d6d000080.JPG'
+comments:
+  - created_at: '2017-03-20T10:56:20Z'
+    text: Gasteruptiid Wasp possibly
+    ref: 58cfb554ed2a89634100042c
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - created_at: '2017-03-20T12:21:03Z'
+    text: 'Yes, Lorraine, one of the Gasteruption spp.'
+    ref: 58cfc92fed2a896341000448
+    name: David Francis
+    username: david_francis
+collections:
+  - homerton_and_milltown_insects

@@ -1,0 +1,33 @@
+id:
+  - Pultenaea scabra
+created_at: '2015-10-05T07:23:28Z'
+datetime: '2015-09-25T12:33:44+10:00'
+latitude: -37.869866
+longitude: 144.245321
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-10-05T09:20:47Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-09-25T12:32:01Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5612410fed2a890d9500044d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5612410fed2a890d9500044d.jpg'
+  - primary: true
+    datetime: '2015-09-25T12:33:44Z'
+    height: 3264
+    width: 4928
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/561225d3ed2a890d95000439.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/561225d3ed2a890d95000439.jpg'
+  - datetime: '2015-09-25T12:33:03Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56122682ed2a890d95000441.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56122682ed2a890d95000441.jpg'
+tags:
+  - flower
+collections:
+  - brisbane_ranges_national_park_plants

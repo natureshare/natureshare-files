@@ -1,0 +1,43 @@
+id:
+  - Rhodanthe stricta
+created_at: '2015-09-14T11:50:41Z'
+datetime: '2015-09-10T17:58:51+10:00'
+description: 'Single plant observed at this location, within 25 metres of Murray River bank. Rare plant across this landscape.'
+latitude: -34.139023
+longitude: 141.324023
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-09-14T12:03:41Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-09-10T17:59:37Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55f6b4faed2a890d95000165.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55f6b4faed2a890d95000165.jpg'
+  - datetime: '2015-09-10T17:58:51Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55f6b4b5ed2a890d95000162.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55f6b4b5ed2a890d95000162.jpg'
+  - datetime: '2015-09-10T17:59:24Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55f6b4eaed2a890d95000164.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55f6b4eaed2a890d95000164.jpg'
+  - datetime: '2015-09-10T17:58:17Z'
+    height: 3264
+    width: 4928
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55f6b53ced2a890d95000168.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55f6b53ced2a890d95000168.jpg'
+  - datetime: '2015-09-10T17:59:57Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55f6b562ed2a890d9500016a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55f6b562ed2a890d9500016a.jpg'
+tags:
+  - flower
+collections:
+  - neds_corner_plants

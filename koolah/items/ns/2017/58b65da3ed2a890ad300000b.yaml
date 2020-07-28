@@ -1,0 +1,42 @@
+id:
+  - Hestiochora spp.
+created_at: '2017-03-01T05:38:52Z'
+datetime: '2017-02-25T11:23:57+10:00'
+description: Unable to determine exact species ID but the Genus has been confirmed by Axel Kallies.
+elevation: 260.8
+latitude: -37.806578
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.29702
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-03-01T05:38:52Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-02-25T11:23:57Z'
+    height: 3448
+    width: 4592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58b65db8ed2a89441000001e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58b65db8ed2a89441000001e.JPG'
+tags:
+  - moth
+comments:
+  - created_at: '2017-03-01T06:05:47Z'
+    text: Braconid wasp mimic? (Similar "livery")
+    ref: 58b664bbed2a890ad3000011
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-03-01T06:08:52Z'
+    text: 'I added order:Lepidoptera and family: Zygaenidae to the species information.'
+    ref: 58b66574ed2a893890001b88
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-03-01T06:41:59Z'
+    text: 'Yes, a very good mimic.  There is a suggestion that they appear at similar times.  Go figure!'
+    ref: 58b66d37ed2a893890001ba4
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brisbane_ranges_moths

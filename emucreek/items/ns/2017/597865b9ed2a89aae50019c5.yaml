@@ -1,0 +1,49 @@
+id:
+  - name: Chalinolobus gouldii
+    by: lconole
+created_at: '2017-07-26T09:54:47Z'
+datetime: '2017-07-26T12:36:08+10:00'
+description: small bat
+elevation: 448.8
+latitude: -37.498815
+location_name: 'Gisborne VIC 3437, Australia'
+longitude: 144.565025
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-07-26T09:54:47Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-07-26T12:36:08Z'
+    height: 4608
+    width: 3456
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/597865ceed2a893984000135.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/597865ceed2a893984000135.JPG'
+  - datetime: '2017-07-26T12:35:50Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/597865dfed2a893984000136.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/597865dfed2a893984000136.JPG'
+  - datetime: '2017-07-26T12:36:27Z'
+    height: 4608
+    width: 3456
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/597865e9ed2a893984000137.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/597865e9ed2a893984000137.JPG'
+comments:
+  - created_at: '2017-07-27T03:52:28Z'
+    text: <em>Chalinolobus gouldii</em> species id suggested
+    ref: 5979637ced2a89aae5001beb
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2017-07-27T03:52:56Z'
+    text: Obviously unwell. Don't pick it up without protective gloves.
+    ref: 59796398ed2a89aae5001bec
+    name: Lawrie Conole
+    username: lconole
+  - replying_to: 59796398ed2a89aae5001bec
+    created_at: '2017-07-27T10:04:38Z'
+    text: 'hello lawrie,didnt touch it...on the south side of a house....thought it wasnt well were it was out in the open.'
+    ref: 5979bab6ed2a8977d600004b
+    name: Peter Clark
+    username: emucreek

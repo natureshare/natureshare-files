@@ -1,0 +1,40 @@
+id:
+  - Thelymitra juncifolia
+created_at: '2017-02-07T22:07:52Z'
+datetime: '2016-11-02T10:53:35+10:00'
+latitude: -37.492953
+longitude: 144.587578
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2017-02-08T00:12:25Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-11-02T10:53:35Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/589a4cfbed2a89b3fe000397.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/589a4cfbed2a89b3fe000397.jpg'
+tags:
+  - flower
+  - orchid
+comments:
+  - created_at: '2017-02-08T00:22:03Z'
+    text: 'HI Andrew. Nice to have an orchid expert looking over the Daly Reserve. Good find. Most of us would have put this as ixioides. I see differences in the column but I''d like to know the most obvious diagnostic feature. Perhaps you could look over all our ixioides observations as I suspect that some of them could be misidentified. See https://natureshare.org.au/species?utf8=%E2%9C%93&q=thelymitra+ixioides'
+    ref: 589a64abed2a89d10f00355b
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-08T01:33:46Z'
+    text: >-
+      Hi David. Generally speaking the plants are less robust, not as tall, less dense hair tufts and have smaller and fewer flowers than Th. ixioides (Up to 8 flowers compared to Th. ixioides up to 20 flowers).  Th. juncifolia are more reluctant to open, as can be seen in this photo, and will often self pollinate.  Other factors supposedly are the spots are less well defined and there are less numerous glands on the column post-anther lobe but I find this difficult to distinguish.  It is now believed that Th. juncifolia is much more common than previously thought.  Most people see spots on a purple orchid and label it Th. ixioides without looking at the entire plant.  To summarise if the plant is below 45cm, only has a few flowers on a slender stem and seems reluctant to open on a sunny day my first thoughts are towards Th. juncifolia.  I’ve have a look at the other plants on the site but it isn't always so easy to tell from photos without seeing the whole plant but I expect several
+      could be Th juncifolia.  The only one I’ve commented on is Russell Best’s Th. ixioides x pauciflora which I think is Th. juncifolia. 
+    ref: 589a757aed2a89d10f003579
+    name: Andrew Dilley
+    username: andill
+  - created_at: '2017-02-08T06:41:59Z'
+    text: 'Thanks for the detailed information, Andrew. That will be a great help with our future ids. I''ve always been uncertain of this group.'
+    ref: 589abdb7ed2a89d10f003610
+    name: David Francis
+    username: david_francis
+collections:
+  - daly_nature_reserve_indigenous_flora_and_fauna_gisborne

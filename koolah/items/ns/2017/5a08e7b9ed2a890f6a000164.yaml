@@ -1,0 +1,31 @@
+id:
+  - Epithetica typhoscia
+created_at: '2017-11-13T00:33:54Z'
+datetime: '2017-11-12T23:29:22+10:00'
+description: Finally found an ID for this species.  Had listed it as undescribed.
+elevation: 261.5
+latitude: -37.806566
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-12-10T04:09:30Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-11-12T23:29:22Z'
+    height: 1514
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a08e801ed2a893984000694.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a08e801ed2a893984000694.JPG'
+  - datetime: '2017-11-12T23:30:14Z'
+    height: 1988
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a08e7c6ed2a893984000693.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a08e7c6ed2a893984000693.jpg'
+tags:
+  - moth
+collections:
+  - brisbane_ranges_moths

@@ -1,0 +1,46 @@
+id:
+  - Vellereophyton dealbatum
+created_at: '2016-02-16T10:47:01Z'
+datetime: '2011-12-29T15:00:39+10:00'
+elevation: 104.6
+latitude: -38.037433
+location_name: 'Milltown VIC 3304, Australia'
+longitude: 141.669225
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-03-18T05:22:38Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-12-29T15:00:39Z'
+    height: 600
+    width: 800
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56c2fdcfed2a89211c000033.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56c2fdcfed2a89211c000033.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2018-03-15T10:49:47Z'
+    text: 'This looks more like the White Cudweed - Vellereophyton dealbatum, the white open obovate bracts surrounding the florets are distinctive'
+    ref: 5aaa4fcbed2a896baf0041c8
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-03-15T10:54:49Z'
+    text: Agree. Looks vwry much like the introduced Vellereophyton.
+    ref: 5aaa50f9ed2a896baf0041ce
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2018-03-18T05:20:53Z'
+    text: Thankyou.
+    ref: 5aadf735ed2a896baf004e14
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - replying_to: 5aaa4fcbed2a896baf0041c8
+    created_at: '2018-03-18T05:21:44Z'
+    text: That's interesting. I just thought it was the Jersey Cudweed. A new plant for my Homerton collection.
+    ref: 5aadf768ed2a896baf004e17
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - homerton_and_milltown

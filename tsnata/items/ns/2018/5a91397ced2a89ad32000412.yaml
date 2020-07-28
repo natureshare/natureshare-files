@@ -1,0 +1,30 @@
+id:
+  - Melopsittacus undulatus
+created_at: '2018-02-24T10:09:35Z'
+datetime: '2018-02-22T10:02:34+10:00'
+description: An escapee?
+elevation: 1.3
+latitude: -37.795708
+location_name: 'Footscray VIC 3011, Australia'
+longitude: 144.913225
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-02-24T10:10:28Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-02-22T10:02:34Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a913982ed2a89abdd000005.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a913982ed2a89abdd000005.jpg'
+comments:
+  - created_at: '2018-02-25T07:27:05Z'
+    text: Yes a very beautiful escaped cagebird. I hope someone catches him and gives him a home with others.
+    ref: 5a926549ed2a89ad3200099c
+    name: David Francis
+    username: david_francis
+collections:
+  - newell_s_paddock_footscray

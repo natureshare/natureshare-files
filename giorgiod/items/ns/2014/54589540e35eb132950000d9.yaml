@@ -1,0 +1,36 @@
+id:
+  - name: Platylobium formosum spp. agg.
+    by: russell
+created_at: '2014-11-04T08:58:40Z'
+datetime: '2014-11-04T09:55:35+10:00'
+elevation: 540.5
+latitude: -37.618182
+location_name: 'Ballan VIC 3342, Australia'
+longitude: 144.150094
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-11-04T09:50:05Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-11-04T09:55:35Z'
+    height: 2848
+    width: 4288
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54589597e35eb132950000de.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54589597e35eb132950000de.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2014-11-04T09:53:10Z'
+    text: Possibly P. montanum but need more leaf and form info.. Was it a groundcover or rising 30cm or do above the ground?
+    ref: 5458a206e35eb13295000116
+    name: Russell Best
+    username: russell
+  - replying_to: 5458a206e35eb13295000116
+    created_at: '2014-11-04T10:50:43Z'
+    text: 30cm high - not a groundcover.
+    ref: 5458af83e35eb1329500014a
+    name: Giorgio De Nola
+    username: giorgiod
+collections:
+  - bungal_state_forest_flora_fauna

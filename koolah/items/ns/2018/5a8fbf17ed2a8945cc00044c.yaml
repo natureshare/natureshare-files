@@ -1,0 +1,31 @@
+id:
+  - Tracholena sulfurosa
+created_at: '2018-02-23T07:17:45Z'
+datetime: '2018-02-20T20:50:35+10:00'
+elevation: 261.5
+latitude: -37.806572
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297004
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-03-04T11:42:30Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-02-20T20:50:35Z'
+    height: 1926
+    width: 2601
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a8fbfa7ed2a89f453000099.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a8fbfa7ed2a89f453000099.jpg'
+  - datetime: '2018-02-20T20:51:33Z'
+    height: 2120
+    width: 2059
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a8fbf1eed2a89f453000098.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a8fbf1eed2a89f453000098.jpg'
+tags:
+  - moth
+  - white
+collections:
+  - brisbane_ranges_moths

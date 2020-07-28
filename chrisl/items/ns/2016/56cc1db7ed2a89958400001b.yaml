@@ -1,0 +1,31 @@
+id:
+  - Nitraria billardierei
+created_at: '2016-02-23T08:58:14Z'
+datetime: '2011-11-05T14:23:25+10:00'
+latitude: -34.218815
+longitude: 141.222839
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-02-23T08:58:31Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2011-11-05T14:23:25Z'
+    height: 2000
+    width: 3008
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56cc1dc2ed2a890be7000067.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56cc1dc2ed2a890be7000067.JPG'
+  - height: 3008
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56cc1e26ed2a890be7000068.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56cc1e26ed2a890be7000068.JPG'
+  - datetime: '2011-11-05T14:25:23Z'
+    height: 2000
+    width: 3008
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56cc1e8ced2a890be700006b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56cc1e8ced2a890be700006b.JPG'
+tags:
+  - fruit
+collections:
+  - neds_corner_plants

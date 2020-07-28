@@ -1,0 +1,32 @@
+id:
+  - Briza minor
+created_at: '2016-10-08T10:15:27Z'
+datetime: '2016-10-08T10:21:18+10:00'
+description: Approx.8cm high
+elevation: 215
+latitude: -36.785944
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.384646
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-08T10:15:27Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-08T10:21:05Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57f8c11fed2a89b7180000e6.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f8c11fed2a89b7180000e6.JPG'
+  - datetime: '2016-10-08T10:21:18Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57f8c0daed2a89b3fe0000f1.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f8c0daed2a89b3fe0000f1.JPG'
+tags:
+  - grass
+  - seedhead
+collections:
+  - junortoun_flora

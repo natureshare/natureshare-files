@@ -1,0 +1,33 @@
+id:
+  - name: Ptilotula penicillata
+    by: lconole
+created_at: '2019-03-03T12:15:44Z'
+datetime: '2019-03-01T17:55:44+10:00'
+elevation: 250.8
+latitude: -37.544561
+location_name: 'Sunbury VIC 3429, Australia'
+longitude: 144.765525
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2019-03-03T12:17:23Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2019-03-01T17:55:44Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_55375c83ed2a89a9d4004fe1/2019-03-03/1551614954/017.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_55375c83ed2a89a9d4004fe1/2019-03-03/1551614954/017.JPG'
+  - datetime: '2019-03-01T17:44:16Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_55375c83ed2a89a9d4004fe1/2019-03-03/1551614924/001.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_55375c83ed2a89a9d4004fe1/2019-03-03/1551614924/001.JPG'
+comments:
+  - created_at: '2019-03-03T12:17:15Z'
+    text: 2 pix...different birds.
+    ref: 5c7bc5cb3abbd6f17e00007e
+    name: Peter Clark
+    username: emucreek
+  - created_at: '2019-03-05T03:49:21Z'
+    text: <em>Ptilotula penicillata</em> species id suggested
+    ref: 5c7df1c13abbd62e5000003c
+    name: Lawrie Conole
+    username: lconole

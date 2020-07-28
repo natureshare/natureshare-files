@@ -1,0 +1,51 @@
+id:
+  - Allocasuarina muelleriana subsp. muelleriana
+created_at: '2017-10-15T11:23:01Z'
+datetime: '2017-10-12T12:51:44+10:00'
+description: Very common in area. This is the most likely id.
+elevation: 187.9
+latitude: -36.547429
+location_name: 'Kamarooka VIC 3570, Australia'
+longitude: 144.380974
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-10-16T04:28:42Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-12T12:51:44Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59e1e8e7ed2a8939840004da.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59e1e8e7ed2a8939840004da.JPG'
+  - datetime: '2017-10-12T12:57:40Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59e1e92eed2a8939840004dd.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59e1e92eed2a8939840004dd.JPG'
+  - datetime: '2017-10-12T12:51:55Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59e1e938ed2a8939840004de.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59e1e938ed2a8939840004de.JPG'
+tags:
+  - leaves-linear
+  - leaves-narrow
+  - seed-capsules
+  - shrub-medium
+comments:
+  - created_at: '2017-10-15T20:14:15Z'
+    text: An Allocasuarina species.
+    ref: 59e3c197ed2a892d40005a5f
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 59e3c197ed2a892d40005a5f
+    created_at: '2017-10-16T04:30:22Z'
+    text: Thanks Chris. Most likely Slaty Sheoak.
+    ref: 59e435deed2a892d40005c42
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - kamarooka_flora

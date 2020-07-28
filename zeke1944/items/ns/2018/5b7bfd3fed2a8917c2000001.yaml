@@ -1,0 +1,60 @@
+id:
+  - name: Entoloma albidosimulans
+    by: 249pbr
+created_at: '2018-08-21T11:56:06Z'
+datetime: '2015-05-25T15:31:01+10:00'
+elevation: 242.8
+latitude: -38.551707
+location_name: 'Barwon Downs VIC 3243, Australia'
+longitude: 143.75813
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-26T03:29:52Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-05-25T15:31:01Z'
+    height: 4000
+    width: 4134
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b7bfd43ed2a891efe0000a4.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b7bfd43ed2a891efe0000a4.jpg'
+comments:
+  - created_at: '2018-08-21T11:58:56Z'
+    text: Entoloma albidosimulans. Gates p64. Often on trunks of Dicksonia antartica.
+    ref: 5b7bfe80ed2a89a7f1006e2a
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-22T04:22:24Z'
+    text: 'There are two all white collybioid Entolomas currently described for Tasmania (Plus 3 that are tricholomatoid in shape). They are E. albidosimulans and E. totialbum. They are readily separated microscopically however I assume we only have this image to work on. E. albidosimulans has a cap that has a "deflexed then straight margin" and is "finely tomentose all over, becoming radially fibrillose with age" and undergoes a colour change when older  to "pale ochre yellow to pink". The E. totialbum cap has a "straight, entire margin" and is "white becoming pink-tinged, glabrous, dry, slightly aeriferous".'
+    ref: 5b7ce500ed2a89a7f100711d
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-08-22T04:36:54Z'
+    text: 'The pink on the lower cap is spores deposited from above but there does appear to be a hint of yellowing at its left apex. It is difficult to determine if it has a finely tomentose surface. There is no hint of decurved margins in your image, even the small specimen in the inset appears to have straight margins and Gates images of E. albidosimulans this size clearly show an in-rolled margin. The gills of E. albidosimulans are described as "moderately distant" whereas on E. totialbum they are "crowded", and also described as having  a serrulate edge. If you look closely at the gills in your post between 11 o clock and midday, you can see minute teeth or serrulations.'
+    ref: 5b7ce866ed2a89a7f1007128
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-08-22T04:57:44Z'
+    text: >-
+      I am tending towards E. totialbum, largely on the serrulate gills, however even there, there is contradictory detail.  E. albidosimulans can often have gills that are "distinctly emarginate with a distinct decurrent tooth" but they are otherwise adnate. The description for E. totialbum lists the gills as "adnate with decurrent tooth". The sharp dip in the gills as they approach the stipe is defined as emarginate and is apparent on this sample. Unfortunately there have been very few collections of E. totialbum so it is possible it might also show this feature. This could very easily be either species. One feature of E. totialbum that might help separate these is that it's stipe is slightly yellowing at the base. If you have other images of this group that show the base of the stipe it might help. I was introduced to E. albidosimulans by Genevieve Gates in the Tarkine a few years back, those specimens were older and rain affected but they were located on the trunk of Dicksonia
+      antarctica. The text I have does not describe the substrates for either species unfortunately.
+    ref: 5b7ced48ed2a89a7f100714a
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-08-22T05:13:11Z'
+    text: I just noted on the description for E. albidosimulans that the gill edges can be "slightly fimbriate" meaning lightly toothed. This now puts the weight of evidence back towards E. albidosimulans.
+    ref: 5b7cf0e7ed2a89a7f1007173
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-08-22T11:17:57Z'
+    text: There you go.
+    ref: 5b7d4665ed2a89a7f100738d
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-23T12:06:43Z'
+    text: Entoloma albidosimulans added to dataset.
+    ref: 5b7ea353ed2a89a7f100796c
+    name: Cathy Powers
+    username: koolah
+collections:
+  - otway_ranges_-_fungi

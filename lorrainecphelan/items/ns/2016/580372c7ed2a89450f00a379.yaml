@@ -1,0 +1,30 @@
+id:
+  - Diuris orientis
+created_at: '2016-10-16T12:32:14Z'
+datetime: '2016-10-16T11:08:29+10:00'
+description: Two different colour variations in same area.
+elevation: 116.9
+latitude: -38.344194
+location_name: 'Anglesea VIC 3230, Australia'
+longitude: 144.166209
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-16T12:33:22Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-10-16T11:08:29Z'
+    height: 800
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/580372cded2a892daf000149.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/580372cded2a892daf000149.JPG'
+  - datetime: '2016-10-16T08:50:37Z'
+    height: 910
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/580372d5ed2a89b3fe00012e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/580372d5ed2a89b3fe00012e.JPG'
+tags:
+  - flower
+collections:
+  - anglesea_heath_flora_and_fauna

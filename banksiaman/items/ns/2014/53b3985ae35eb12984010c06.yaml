@@ -1,0 +1,29 @@
+id:
+  - name: Salvia aurea
+created_at: '2014-02-27T11:46:31Z'
+datetime: '2014-02-23T14:32:42+10:00'
+latitude: -38.377182
+longitude: 142.244732
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-07-02T11:57:36Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-02-23T14:32:42Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986be35eb12984014f83.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb12984014f83.jpg'
+tags:
+  - flowers
+comments:
+  - created_at: '2014-02-27T11:50:53Z'
+    text: Beach weed at Port Fairy
+    ref: 53b3984de35eb1298400dcd8
+  - created_at: '2014-02-27T11:51:30Z'
+    text: Scientific name is now Salvia africana-lutea
+    ref: 53b3984de35eb1298400dcd9
+  - created_at: '2014-02-27T12:53:46Z'
+    text: 'Seems to be the only place in Vic where this is recorded as an established weed. It is still called S. aurea in APC and VBA but there are refs to a name change on the web, including RGB Sydney. I can also find refs saying "Salvia aurea - previously known as Salvia africana-lutea" so I will wait for the Aus scientists to catch up!'
+    ref: 53b3984de35eb1298400dcdb
+collections:
+  - plants_of_warrnambool_and_district

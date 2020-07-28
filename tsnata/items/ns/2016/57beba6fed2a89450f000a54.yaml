@@ -1,0 +1,28 @@
+id:
+  - Morus serrator
+created_at: '2016-08-25T09:43:21Z'
+datetime: '2016-08-25T14:52:56+10:00'
+elevation: 0
+latitude: -38.692314
+location_name: 'Victoria, Australia'
+longitude: 143.844012
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-08-26T09:13:24Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-08-25T14:52:56Z'
+    height: 2132
+    width: 2843
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57beba92ed2a89b3fe000014.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57beba92ed2a89b3fe000014.JPG'
+  - datetime: '2016-08-25T14:52:56Z'
+    height: 2097
+    width: 2796
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57beba81ed2a892daf000012.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57beba81ed2a892daf000012.JPG'
+collections:
+  - grey_river

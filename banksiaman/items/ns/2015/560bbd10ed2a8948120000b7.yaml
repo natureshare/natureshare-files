@@ -1,0 +1,35 @@
+id:
+  - Dillwynia sericea
+created_at: '2015-09-30T10:44:32Z'
+datetime: '2015-09-18T12:54:43+10:00'
+latitude: -37.624558
+longitude: 142.328173
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-09-30T10:56:26Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-09-18T12:54:43Z'
+    height: 3079
+    width: 4366
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560bbd33ed2a890d95000354.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560bbd33ed2a890d95000354.JPG'
+tags:
+  - flower
+  - pea
+comments:
+  - created_at: '2015-09-30T10:52:43Z'
+    text: Dillwynia sericea is worth considering.
+    ref: 560bbefbed2a8948120000cc
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 560bbefbed2a8948120000cc
+    created_at: '2015-09-30T10:57:30Z'
+    text: Looks right Chris
+    ref: 560bc01aed2a8948120000d9
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - grampians_walk_to_summit_of_mt_sturgeon_at_dunkeld

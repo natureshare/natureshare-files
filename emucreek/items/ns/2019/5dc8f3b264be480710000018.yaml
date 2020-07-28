@@ -1,0 +1,44 @@
+id:
+  - name: Lalage sueurii
+    by: lconole
+created_at: '2019-11-11T05:37:54Z'
+datetime: '2019-11-11T01:02:19+10:00'
+elevation: 279.8
+latitude: -37.527205
+location_name: '405 Lancefield Rd, Sunbury VIC 3429, Australia'
+longitude: 144.768186
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2019-11-11T05:40:49Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2019-11-11T01:02:19Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_55375c83ed2a89a9d4004fe1/2019-11-11/img_0448.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_55375c83ed2a89a9d4004fe1/2019-11-11/img_0448.jpeg'
+  - datetime: '2019-11-11T01:02:12Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_55375c83ed2a89a9d4004fe1/2019-11-11/img_0447.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_55375c83ed2a89a9d4004fe1/2019-11-11/img_0447.jpeg'
+comments:
+  - created_at: '2019-11-11T05:40:40Z'
+    text: 2 pixs..never seen them before.
+    ref: 5dc8f45864be481474000016
+    name: Peter Clark
+    username: emucreek
+  - created_at: '2019-11-12T00:50:46Z'
+    text: <em>Lalage sueurii</em> species id suggested
+    ref: 5dca01e664be48071000001d
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2019-11-12T00:59:29Z'
+    text: They are moving further south due to the drought
+    ref: 5dca03f164be484f81000029
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 5dca03f164be484f81000029
+    created_at: '2019-11-14T22:58:17Z'
+    text: 'It''s not unusual to see Trillers in southern Victoria, but the numbers fluctuate from year to year, and drier conditions inland will likely result in higher numbers in the south. This spring they were recorded in northern Tasmania, which is either a first or at least a very rare event.'
+    ref: 5dcddc0964be484f8100003e
+    name: Lawrie Conole
+    username: lconole

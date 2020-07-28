@@ -1,0 +1,58 @@
+id:
+  - Amegilla bombiformis
+created_at: '2017-02-14T08:38:28Z'
+datetime: '2017-02-13T17:53:43+10:00'
+elevation: 238.9
+latitude: -37.805584
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297878
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-02-15T00:25:26Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-02-13T17:53:43Z'
+    height: 2000
+    width: 1502
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58a2bcb8ed2a89b7180003a2.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a2bcb8ed2a89b7180003a2.JPG'
+  - datetime: '2017-02-13T17:54:44Z'
+    height: 1502
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58a2bccbed2a89b7180003a3.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a2bccbed2a89b7180003a3.JPG'
+  - datetime: '2017-02-13T17:55:27Z'
+    height: 1502
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58a2bce6ed2a89b3fe0003a4.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a2bce6ed2a89b3fe0003a4.JPG'
+tags:
+  - adult-male
+  - bee
+  - solitary
+comments:
+  - created_at: '2017-02-14T08:41:46Z'
+    text: The Id has been confirmed by Ken Walker (Museums Victoria) as Amegilla bombiformis but the species needs to be added.
+    ref: 58a2c2caed2a89b57600017f
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2017-02-14T09:47:23Z'
+    text: Such a cute little fellow. I can see why they are sometimes called "Teddybear bees". Species will be added soon.
+    ref: 58a2d22bed2a89cd0b00000d
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-14T09:52:42Z'
+    text: A. bombiformis now added.
+    ref: 58a2d36aed2a89b5760001e0
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-14T10:31:50Z'
+    text: Thanks!
+    ref: 58a2dc96ed2a89cd0b00001b
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brisbane_ranges_insects

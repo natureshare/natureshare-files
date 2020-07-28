@@ -1,0 +1,31 @@
+id:
+  - Apis mellifera
+created_at: '2016-04-04T08:52:59Z'
+datetime: '2016-04-03T10:56:53+10:00'
+description: Feral Bees have taken over one of our bird boxes
+latitude: -38.420195
+longitude: 142.7821
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-04-05T02:04:38Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-04-03T10:56:53Z'
+    height: 3266
+    width: 2512
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57022a41ed2a890be7000188.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57022a41ed2a890be7000188.JPG'
+comments:
+  - created_at: '2016-04-06T02:26:22Z'
+    text: 'Wow Kevin, Pallister''s should go into honey production!!'
+    ref: 570473ceed2a89991c000036
+    name: Pauline McCarthy
+    username: pauline
+  - created_at: '2016-04-06T08:58:40Z'
+    text: At Kurri Kurri Reserve at Nullawarre Pauline. Have to fight off the bees first.
+    ref: 5704cfc0ed2a89991c00004e
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - kurri_kurri_co_op_society_flora_and_fauna

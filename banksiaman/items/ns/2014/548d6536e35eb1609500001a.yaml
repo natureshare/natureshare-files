@@ -1,0 +1,41 @@
+id:
+  - name: Hedycarya angustifolia
+    by: cclarke
+created_at: '2014-12-14T10:23:50Z'
+datetime: '2014-09-05T11:38:37+10:00'
+latitude: -37.631307
+longitude: 148.885413
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-06-12T14:48:47Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-05T11:38:37Z'
+    height: 2199
+    width: 2495
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/548d6536e35eb16095000019.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/548d6536e35eb16095000019.JPG'
+comments:
+  - created_at: '2014-12-15T10:37:38Z'
+    text: Hedycarya angustifolia?
+    ref: 548eb9f2e35eb1311f00006c
+    name: David Francis
+    username: david_francis
+  - replying_to: 548eb9f2e35eb1311f00006c
+    created_at: '2014-12-15T11:06:33Z'
+    text: 'Not sure about this one, David'
+    ref: 548ec0b9e35eb136f9000007
+    name: Kevin Sparrow
+    username: banksiaman
+  - created_at: '2015-01-08T12:39:09Z'
+    text: I was thinking Hedycarya also. Perhaps flowers are not yet fully opened.
+    ref: 54ae7a6de35eb14c53000019
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 54ae7a6de35eb14c53000019
+    created_at: '2015-01-09T00:45:30Z'
+    text: Could be but can't be sure
+    ref: 54af24aae35eb189d5000027
+    name: Kevin Sparrow
+    username: banksiaman

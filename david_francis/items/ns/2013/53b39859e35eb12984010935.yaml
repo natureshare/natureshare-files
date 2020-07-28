@@ -1,0 +1,33 @@
+id:
+  - Oecophoridae spp.
+created_at: '2013-12-15T18:20:14Z'
+datetime: '2013-12-15T14:54:26+10:00'
+description: "Small moth in Memorial Cross Reserve, Mount Macedon.\r\nIdentification needed"
+latitude: -37.387253
+longitude: 144.575389
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-01-02T10:55:05Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-12-15T14:54:26Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986ae35eb12984014b43.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ae35eb12984014b43.jpg'
+  - datetime: '2013-12-15T14:52:22Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986ae35eb12984014b44.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ae35eb12984014b44.jpg'
+comments:
+  - created_at: '2013-12-15T18:50:03Z'
+    text: |-
+      Small moth in Memorial Cross Reserve, Mt Macedon.
+      Identification needed.
+    ref: 53b3984ce35eb1298400dc45
+  - created_at: '2013-12-15T19:40:54Z'
+    text: Upturned palps usually mean family Oecophoridae. I can find two that look similar ... Garrha carnea and Prionocris complanula?
+    ref: 53b3984ce35eb1298400dc46
+  - created_at: '2013-12-15T19:48:29Z'
+    text: I notice also that Prionocris phylacopis is listed on NS (probably via ABRS) but I can find no other info on this species.
+    ref: 53b3984ce35eb1298400dc47
+collections:
+  - insects_and_other_arthropods_of_mt_macedon

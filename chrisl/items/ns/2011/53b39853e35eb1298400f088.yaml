@@ -1,0 +1,25 @@
+id:
+  - name: Tecticornia pruinosa
+created_at: '2011-11-29T18:19:28Z'
+datetime: '2011-11-04T17:55:36+10:00'
+latitude: -34.157632
+longitude: 141.35462
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2011-11-29T18:22:40Z'
+license: CC BY 2.5 AU
+photos:
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39861e35eb12984012630.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb12984012630.jpg'
+  - datetime: '2011-11-04T17:55:36Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39861e35eb12984012631.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb12984012631.jpg'
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39861e35eb12984012632.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb12984012632.jpg'
+comments:
+  - created_at: '2011-11-30T10:43:28Z'
+    text: Not sure of ID. Could be H. pergranulata.
+    ref: 53b3984be35eb1298400d993
+collections:
+  - neds_corner_plants

@@ -1,0 +1,28 @@
+id:
+  - name: Fungi spp.
+created_at: '2013-10-17T20:39:54Z'
+datetime: '2013-10-14T15:36:51+10:00'
+latitude: -38.684094
+longitude: 143.837503
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-07-02T22:52:54Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-10-14T15:36:51Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39869e35eb129840144e9.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb129840144e9.jpg'
+comments:
+  - created_at: '2018-06-25T12:35:49Z'
+    text: Probably a young Amanita ochrophylloides
+    ref: 5b30e1a5ed2a89b3990000a7
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-06-25T12:37:59Z'
+    text: A young Amanita ochrophylloides
+    ref: 5b30e227ed2a89a993001367
+    name: zeke1944
+    username: zeke1944
+collections:
+  - grey_river

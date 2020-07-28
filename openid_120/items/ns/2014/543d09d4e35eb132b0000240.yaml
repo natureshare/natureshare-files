@@ -1,0 +1,30 @@
+id:
+  - name: Dolomedes spp.
+    by: david_francis
+created_at: '2014-10-14T11:32:36Z'
+datetime: '2014-09-29T20:38:16+10:00'
+latitude: -31.330052
+location_name: 'Blinman SA 5730, Australia'
+longitude: 138.654366
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2017-04-17T06:41:08Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-29T20:38:16Z'
+    height: 2232
+    width: 3371
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/543d09d4e35eb132b000023f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/543d09d4e35eb132b000023f.JPG'
+comments:
+  - created_at: '2015-01-21T04:05:25Z'
+    text: "Hi Peter. In correspondence with Robert Whyte (arachnologist) over this spider sub-family, he makes this comment - \"Yes that's Pisauridae but probably Dolomedes, not Megadolomedes and certainly not Megadolomedes australianus. which has long tarsi (final or outermost leg segments.) The females are enormous but the males 5-7mm.\"\r\n\r\nCheers. \r\n"
+    ref: 54bf2585ed2a89fdd9000025
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2017-04-17T06:42:34Z'
+    text: Changed id from Megadolomedes to Dolomedes as judged by Robert Whyte.
+    ref: 58f463daed2a894865002bbc
+    name: David Francis
+    username: david_francis

@@ -1,0 +1,39 @@
+id:
+  - Ninox novaeseelandiae
+created_at: '2016-02-22T09:10:02Z'
+datetime: '2013-10-01T20:44:52+10:00'
+latitude: -34.31317
+longitude: 140.585346
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-04-11T12:20:21Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2013-10-01T20:44:52Z'
+    height: 3264
+    width: 4928
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56cad01fed2a89211c000073.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56cad01fed2a89211c000073.jpg'
+  - datetime: '2013-10-01T20:21:36Z'
+    height: 4238
+    width: 2825
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56cad01ded2a890be7000061.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56cad01ded2a890be7000061.jpg'
+  - datetime: '2013-10-01T20:50:55Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56cad030ed2a890be7000062.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56cad030ed2a890be7000062.jpg'
+comments:
+  - created_at: '2016-02-22T10:11:53Z'
+    text: Great photo Chris.
+    ref: 56cadee9ed2a89c52300009b
+    name: Pauline McCarthy
+    username: pauline
+  - created_at: '2016-04-11T12:20:43Z'
+    text: 'Beautiful shot, Chris.'
+    ref: 570b969bed2a897bb2000090
+    name: Michael Gooch
+    username: michaelgooch

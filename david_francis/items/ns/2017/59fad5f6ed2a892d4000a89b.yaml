@@ -1,0 +1,25 @@
+id:
+  - Microtis arenaria
+created_at: '2017-11-02T08:24:08Z'
+datetime: '2017-11-02T00:26:27+10:00'
+latitude: -36.919506
+longitude: 144.718142
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-11-02T08:35:16Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-11-02T00:26:27Z'
+    height: 2400
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59fad5feed2a8939840005aa.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59fad5feed2a8939840005aa.jpg'
+  - datetime: '2017-11-02T00:26:27Z'
+    height: 959
+    width: 719
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59fad8c8ed2a8939840005ab.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59fad8c8ed2a8939840005ab.jpg'
+collections:
+  - mcivor_range_reserve_heathcote_native_plants

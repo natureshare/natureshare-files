@@ -1,0 +1,27 @@
+id:
+  - name: Limnodynastes fletcheri
+created_at: '2011-10-19T09:02:54Z'
+datetime: '2011-11-05T21:36:25+10:00'
+latitude: -34.136636
+longitude: 141.332596
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2011-11-16T21:37:45Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-11-05T21:36:25Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39860e35eb129840124d3.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840124d3.jpg'
+  - datetime: '2011-11-05T21:37:33Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39860e35eb129840124d4.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840124d4.jpg'
+  - datetime: '2011-11-05T21:39:40Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39860e35eb129840124d5.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840124d5.jpg'
+comments:
+  - created_at: '2011-11-16T21:39:27Z'
+    text: All photos are of same frog despite geotag references.
+    ref: 53b3984be35eb1298400d981
+collections:
+  - neds_corner_frogs

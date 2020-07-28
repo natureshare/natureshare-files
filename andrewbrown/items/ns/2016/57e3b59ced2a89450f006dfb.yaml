@@ -1,0 +1,55 @@
+id:
+  - Wahlenbergia gracilenta s.s.
+created_at: '2016-09-22T11:23:44Z'
+datetime: '2016-09-22T12:46:36+10:00'
+description: Small dainty flower stems approx. 15cm high.
+elevation: 224.5
+latitude: -36.782687
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.371134
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-29T03:25:00Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-22T12:46:36Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e3b5aced2a892daf000079.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e3b5aced2a892daf000079.JPG'
+  - datetime: '2016-09-22T12:46:55Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e3b5a4ed2a89b3fe00006e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e3b5a4ed2a89b3fe00006e.JPG'
+tags:
+  - annual
+  - flower-purple
+comments:
+  - created_at: '2016-09-22T12:51:37Z'
+    text: <em>Wahlenbergia spp.</em> species id suggested
+    ref: 57e3d3d9ed2a89450f006e93
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-09-22T12:52:32Z'
+    text: Difficult to id to species level from a photo alone.
+    ref: 57e3d410ed2a89450f006e94
+    name: David Francis
+    username: david_francis
+  - replying_to: 57e3d410ed2a89450f006e94
+    created_at: '2016-09-24T01:39:10Z'
+    text: They all had the nodding heads which I haven't found in any descriptions
+    ref: 57e5d93eed2a89450f007101
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 57e5d93eed2a89450f007101
+    created_at: '2016-09-24T01:50:42Z'
+    text: That puzzled me too - also the restriction between the receptacle and the sepals looks different to most. I was considering W. communis as I have seen these with nodding flowers.
+    ref: 57e5dbf2ed2a89450f007109
+    name: David Francis
+    username: david_francis
+collections:
+  - junortoun_flora

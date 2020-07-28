@@ -1,0 +1,43 @@
+id:
+  - Caladenia pusilla
+created_at: '2016-10-13T10:37:05Z'
+datetime: '2016-10-13T18:14:01+10:00'
+description: 10cm high.
+elevation: 221.8
+latitude: -36.783099
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.37255
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-14T05:23:38Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-13T18:14:01Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57ff5e04ed2a89b3fe000111.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57ff5e04ed2a89b3fe000111.JPG'
+  - datetime: '2016-10-13T18:14:24Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57ff5de0ed2a89d73e000105.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57ff5de0ed2a89d73e000105.JPG'
+tags:
+  - flower-orchid
+  - flower-pink
+comments:
+  - created_at: '2016-10-13T22:49:22Z'
+    text: Caladenia pusilla or C. mentiens ?
+    ref: 58000f72ed2a89450f009d14
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-10-14T05:20:29Z'
+    text: I'll go with C.pusilla only because of the image comparison. Very similar on Vicflora.
+    ref: 58006b1ded2a89450f009da1
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - junortoun_flora

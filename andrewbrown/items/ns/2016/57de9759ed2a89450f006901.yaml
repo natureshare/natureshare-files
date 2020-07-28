@@ -1,0 +1,46 @@
+id:
+  - name: Cotula bipinnata
+    by: chrisl
+created_at: '2016-09-18T13:56:18Z'
+datetime: '2016-09-22T14:20:59+10:00'
+description: Small annual with close up of the flower head. More pics follow
+elevation: 225.6
+latitude: -36.783821
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.371434
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-09-24T02:48:10Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-09-17T08:21:28Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57de976aed2a892daf000055.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57de976aed2a892daf000055.JPG'
+  - datetime: '2016-09-17T08:20:06Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57de976ded2a89d73e00004e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57de976ded2a89d73e00004e.JPG'
+  - datetime: '2016-09-22T14:20:59Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e5e758ed2a89b3fe00007d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e5e758ed2a89b3fe00007d.JPG'
+comments:
+  - created_at: '2016-09-18T15:01:30Z'
+    text: Cotula spp. ?
+    ref: 57deac4aed2a89450f006952
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-09-18T22:10:12Z'
+    text: <em>Cotula bipinnata</em> species id suggested
+    ref: 57df10c4ed2a89450f006988
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - junortoun_flora

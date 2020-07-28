@@ -1,0 +1,43 @@
+id:
+  - Capusa senilis
+created_at: '2017-10-12T08:29:35Z'
+datetime: '2017-10-04T15:07:30+10:00'
+description: "A mid-pink version of this multi coloured caterpillar. \r\nAlso got a 'face' shot at last. :)"
+elevation: 97.7
+latitude: -37.889503
+location_name: 'Glenfern Road, Ferntree Gully VIC 3156, Australia'
+longitude: 145.289307
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-10-12T08:29:35Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-04T15:07:30Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59df24cded2a893984000474.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59df24cded2a893984000474.jpg'
+  - datetime: '2017-10-07T12:38:41Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59df24d0ed2a893984000475.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59df24d0ed2a893984000475.jpg'
+tags:
+  - caterpillar
+comments:
+  - created_at: '2017-10-12T10:51:33Z'
+    text: Mark - great photos of the larvae and all its beauty.
+    ref: 59df4935ed2a892d40004c78
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 59df4935ed2a892d40004c78
+    created_at: '2017-10-12T11:08:09Z'
+    text: Thanks. Glad to see it's face.. always so shy.
+    ref: 59df4d19ed2a895af600003a
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_lepidoptera

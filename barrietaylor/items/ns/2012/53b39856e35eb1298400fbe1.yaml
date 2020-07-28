@@ -1,0 +1,29 @@
+created_at: '2012-11-23T12:40:36Z'
+datetime: '2011-10-13T10:43:16+10:00'
+description: site9 East and West
+latitude: -36.40362
+longitude: 143.620951
+non_identifying_photo: true
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-12-19T04:33:51Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-10-13T10:43:16Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39866e35eb12984013a13.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013a13.jpg'
+  - datetime: '2011-10-13T10:43:22Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39866e35eb12984013a14.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013a14.jpg'
+comments:
+  - created_at: '2013-02-15T06:20:02Z'
+    text: 'Site quadrat (circle) preburn data recorded by wcmn Observers on 4th Oct 2011. Each line has a maximum of 3 fields which are scientific name, common name, and quadrat quantity for that plant species. One of the first 2 fields may be omitted from the record. '
+    ref: 53b3984be35eb1298400da82
+  - created_at: '2013-02-15T06:20:21Z'
+    text: |-
+      Ozothamus obcordatus Grey everlasting 2
+      Acacia pycnantha Golden Wattle 2
+      Red awned wallaby grass 5
+    ref: 53b3984be35eb1298400da83
+collections:
+  - wcmnpreburnedsites

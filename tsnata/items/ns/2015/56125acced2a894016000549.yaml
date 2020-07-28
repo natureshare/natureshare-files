@@ -1,0 +1,32 @@
+id:
+  - Trichiocercus sparshalli
+created_at: '2015-10-05T11:11:08Z'
+datetime: '2015-10-04T13:33:31+10:00'
+description: Furry caterpillar about 3 cm long. Identified from "Melbourne's Wildlife".
+elevation: 25.5
+latitude: -37.785975
+location_name: 'Newmarket, Flemington VIC 3031, Australia'
+longitude: 144.925013
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-10-05T11:35:58Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-10-04T13:33:31Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56125ae0ed2a890d95000462.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56125ae0ed2a890d95000462.jpg'
+  - datetime: '2015-10-04T13:33:18Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56125ad6ed2a890d95000461.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56125ad6ed2a890d95000461.jpg'
+tags:
+  - caterpillar
+  - caterpillar
+collections:
+  - flemington_kensington_3031

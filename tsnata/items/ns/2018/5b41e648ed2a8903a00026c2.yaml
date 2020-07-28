@@ -1,0 +1,36 @@
+id:
+  - Gymnopilus junonius
+created_at: '2018-07-08T10:29:01Z'
+datetime: '2018-07-08T10:30:34+10:00'
+description: 'Probably Gymnopilus junonius, which was observed in 2015-06-14, under the same tree. '
+elevation: 3.8
+latitude: -37.794417
+location_name: 'Kensington VIC 3031, Australia'
+longitude: 144.917991
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-07-11T00:38:51Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-07-08T10:30:34Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b41e64fed2a891efe00003d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b41e64fed2a891efe00003d.JPG'
+tags:
+  - fungi
+comments:
+  - created_at: '2018-07-08T22:13:02Z'
+    text: I agree
+    ref: 5b428c6eed2a8903a0002861
+    name: John Walter
+    username: 249pbr
+  - replying_to: 5b428c6eed2a8903a0002861
+    created_at: '2018-07-08T23:28:55Z'
+    text: 'Thanks, John. I have updated the species name,'
+    ref: 5b429e37ed2a8903a00028b9
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - flemington_kensington_3031

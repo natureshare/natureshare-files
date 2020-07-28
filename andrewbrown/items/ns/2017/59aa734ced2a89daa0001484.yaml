@@ -1,0 +1,37 @@
+id:
+  - name: Chrysanthemoides monilifera subsp. monilifera
+    by: david_francis
+created_at: '2017-09-02T11:33:03Z'
+datetime: '2017-08-07T12:38:07+10:00'
+elevation: 32
+latitude: -38.462148
+location_name: 'Cape Schanck VIC 3939, Australia'
+longitude: 144.876969
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-09-02T11:33:03Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-08-07T12:37:59Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59aa735ded2a8939840001e5.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59aa735ded2a8939840001e5.JPG'
+  - datetime: '2017-08-07T12:38:07Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59aa7228ed2a8939840001d5.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59aa7228ed2a8939840001d5.JPG'
+tags:
+  - flowers-yellow
+comments:
+  - created_at: '2017-09-02T12:20:18Z'
+    text: <em>Chrysanthemoides monilifera subsp. monilifera</em> species id suggested
+    ref: 59aaa202ed2a892c740000d5
+    name: David Francis
+    username: david_francis
+collections:
+  - cape_schank_flora

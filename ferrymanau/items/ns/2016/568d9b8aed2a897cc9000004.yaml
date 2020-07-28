@@ -1,0 +1,39 @@
+id:
+  - Malurus cyaneus
+created_at: '2016-01-06T22:58:18Z'
+datetime: '2016-01-05T08:41:12+10:00'
+latitude: -37.371822
+longitude: 144.594961
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-01-08T07:57:16Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-01-05T08:41:12Z'
+    height: 1910
+    width: 1643
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/568d9b9ced2a890f7e000008.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/568d9b9ced2a890f7e000008.jpg'
+  - datetime: '2016-01-05T08:46:30Z'
+    height: 3254
+    width: 3361
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/568d9baced2a890f7e000009.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/568d9baced2a890f7e000009.jpg'
+comments:
+  - created_at: '2016-01-07T02:03:37Z'
+    text: This is a great set of images.
+    ref: 568dc779ed2a897cc9000023
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2016-01-07T12:16:57Z'
+    text: Amazing photos Francis!
+    ref: 568e5739ed2a891ef3000001
+    name: Gill Best
+    username: gill
+  - created_at: '2016-01-08T02:07:42Z'
+    text: thats great!
+    ref: 568f19eeed2a895d68000005
+    name: 'Reilly '
+    username: reilly

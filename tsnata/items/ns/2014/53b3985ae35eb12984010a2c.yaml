@@ -1,0 +1,24 @@
+id:
+  - name: Ichneumonidae spp.
+created_at: '2014-01-03T11:37:39Z'
+datetime: '2013-12-27T11:37:05+10:00'
+description: ' Wasp in Grey River. According to Mark R it may be Enicospilus skeltonii'
+latitude: -38.683933
+longitude: 143.838086
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-03-12T12:20:34Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-12-27T11:37:05Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986be35eb12984014c9c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb12984014c9c.jpg'
+comments:
+  - created_at: '2015-03-07T09:04:51Z'
+    text: 'I think the sclerites in the fore wing membrane (below the pterostigma) might be indicative. Maybe consider '' Enicospilus skeltonii '' http://commons.wikimedia.org/wiki/File:Enicospilus_skeltonii_1.jpg and at ALA http://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:b35df04f-18c7-4141-82f9-4d77efc64b96# '
+    ref: 54fabf33ed2a89097e00070d
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - grey_river

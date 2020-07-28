@@ -1,0 +1,34 @@
+id:
+  - Platalea regia
+created_at: '2015-05-25T00:29:01Z'
+datetime: '2015-05-18T12:45:00+10:00'
+description: 'Royal Spoonbill '
+latitude: -37.692701
+location_name: 'Melton VIC 3337, Australia'
+longitude: 144.588735
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2015-05-25T00:30:10Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-05-20T14:29:51Z'
+    height: 2736
+    width: 3648
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55626ccded2a897a03000537.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55626ccded2a897a03000537.JPG'
+comments:
+  - created_at: '2015-05-25T06:47:34Z'
+    text: 'Hi Andrew. Great records and photos! Did you you know there is a Melton Botanic Gardens collection? It would be great if you joined it,,added your observations to it, and if they are new species for the collection you can update the species list. It''s much easier than it sounds. If you have any questions please ask.'
+    ref: 5562c586ed2a897a0300058c
+    name: Russell Best
+    username: russell
+  - replying_to: 5562c586ed2a897a0300058c
+    created_at: '2015-05-26T04:48:23Z'
+    text: 'Hi Russell thanks for the comments very encouraging, I have joined the Botanic Gardens collection today and will upload future sightings. '
+    ref: 5563fb17ed2a897a0300072a
+    name: Andrew Hill
+    username: andrewhill
+collections:
+  - melton_botanic_gardens_remnant_fauna_flora

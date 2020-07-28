@@ -1,0 +1,80 @@
+id:
+  - Stenolemus bituberus
+created_at: '2017-10-31T10:28:58Z'
+datetime: '2017-10-19T15:59:23+10:00'
+description: Strange instar/nymph. Approx. 8-10mm. Very delicate creature that moved very slowly.
+elevation: 204.5
+latitude: -36.778338
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381276
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-11-05T03:34:19Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-19T15:59:23Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59f476b0ed2a89398400055c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59f476b0ed2a89398400055c.JPG'
+  - datetime: '2017-10-19T15:57:46Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59f47625ed2a893984000555.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59f47625ed2a893984000555.JPG'
+  - datetime: '2017-10-19T15:59:54Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59f476c6ed2a89398400055e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59f476c6ed2a89398400055e.JPG'
+  - datetime: '2017-10-19T16:00:20Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59f476deed2a89398400055f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59f476deed2a89398400055f.JPG'
+  - datetime: '2017-10-19T16:00:26Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59f476fded2a893984000562.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59f476fded2a893984000562.JPG'
+tags:
+  - insect
+  - instar
+  - nymph
+comments:
+  - created_at: '2017-10-31T22:03:04Z'
+    text: Gyromantis sp. or similar?
+    ref: 59f8f318ed2a892d4000a270
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-10-31T22:07:38Z'
+    text: 'Comparehttp://www.flickriver.com/photos/48991563@N06/sets/72157625817973845/'
+    ref: 59f8f42aed2a892d4000a273
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-10-31T22:57:06Z'
+    text: One to try on Bowerbird website?
+    ref: 59f8ffc2ed2a892d4000a2a7
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-11-05T00:29:57Z'
+    text: 'Same genus as https://natureshare.org.au/observations?species=Stenolemus+bituberus  ?(A bug)'
+    ref: 59fe5b85ed2a89998f00013c
+    name: David Francis
+    username: david_francis
+  - replying_to: 59fe5b85ed2a89998f00013c
+    created_at: '2017-11-05T03:25:55Z'
+    text: Well done David. That looks like it!
+    ref: 59fe84c3ed2a89f76c000045
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 59fe5b85ed2a89998f00013c
+    created_at: '2017-11-05T03:31:29Z'
+    text: 'Found a matching image and interesting article on them @ http://www.bbc.co.uk/nature/14836370 '
+    ref: 59fe8611ed2a89f76c000047
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - wildlife_of_junortoun

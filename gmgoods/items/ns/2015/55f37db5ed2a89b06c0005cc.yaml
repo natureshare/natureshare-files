@@ -1,0 +1,36 @@
+id:
+  - name: Microseris sp. 3
+    by: russell
+created_at: '2015-09-12T01:19:49Z'
+datetime: '2015-09-10T11:12:00+10:00'
+elevation: 187.5
+latitude: -36.430503
+location_name: 'Little Desert VIC 3418, Australia'
+longitude: 141.764081
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-09-13T02:54:55Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-09-10T11:12:00Z'
+    height: 2198
+    width: 3318
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55f37dc3ed2a890d95000129.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55f37dc3ed2a890d95000129.jpg'
+  - datetime: '2015-09-10T11:11:06Z'
+    height: 1777
+    width: 2683
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55f37df2ed2a890d9500012c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55f37df2ed2a890d9500012c.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2015-09-13T02:53:37Z'
+    text: M. scapigera is the Alpine Yam Daisy so unlikely to be in the Little Desert. It is more likely to be the highly variable M. sp. 3.
+    ref: 55f4e531ed2a89b06c0006a2
+    name: Russell Best
+    username: russell
+collections:
+  - little_desert_np_plants

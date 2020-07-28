@@ -1,0 +1,28 @@
+id:
+  - Rhodanthe stricta
+created_at: '2015-08-26T16:24:27Z'
+datetime: '2015-08-15T13:24:50+10:00'
+description: New location for this plant at Neds. This species is only known at Neds and one other location in Victoria.
+latitude: -34.135712
+longitude: 141.303101
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-08-26T16:29:51Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-08-15T13:24:50Z'
+    height: 2307
+    width: 1499
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55dde850ed2a890d95000066.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55dde850ed2a890d95000066.jpeg'
+  - datetime: '2015-08-15T13:22:42Z'
+    height: 4128
+    width: 2322
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55dde85fed2a890d95000067.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55dde85fed2a890d95000067.jpeg'
+tags:
+  - flower
+collections:
+  - neds_corner_plants

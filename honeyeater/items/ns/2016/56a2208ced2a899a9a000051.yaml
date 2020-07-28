@@ -1,0 +1,36 @@
+id:
+  - Cyclochila australasiae
+created_at: '2016-01-22T12:32:40Z'
+datetime: '2014-10-01T23:29:00+10:00'
+description: 'Last years cicadas landed all over our balcony & backyard. Photo 2014 approx. date entered. '
+elevation: 237.8
+latitude: -37.909767
+location_name: 'Belgrave, Belgrave VIC 3160, Australia'
+longitude: 145.353882
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-01-31T22:55:27Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 2048
+    width: 1204
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a22096ed2a89b31c000033.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a22096ed2a89b31c000033.jpeg'
+  - height: 720
+    width: 465
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a22093ed2a891f7600002c.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a22093ed2a891f7600002c.jpeg'
+tags:
+  - adult
+comments:
+  - created_at: '2016-01-23T07:01:33Z'
+    text: 'Hi, welcome to NatureShare! In your comment you say the photo is from 2014? If so, can you please adjust the date of this observation to when the photo was taken (or as close to it as you remember)?'
+    ref: 56a3254ded2a899a9a0000b5
+    name: 'Reilly '
+    username: reilly
+collections:
+  - insects
+  - dandenong_ranges

@@ -1,0 +1,42 @@
+id:
+  - Displaspis nivis
+created_at: '2017-01-25T12:56:21Z'
+datetime: '2017-01-16T14:36:07+10:00'
+description: Interesting leaves with prominent hairs in Alpine Bog
+latitude: -36.76576
+longitude: 146.788132
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-01-27T09:49:37Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-01-16T14:36:07Z'
+    height: 1835
+    width: 2140
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5888a045ed2a89b3fe000342.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5888a045ed2a89b3fe000342.jpg'
+comments:
+  - created_at: '2017-01-27T09:22:06Z'
+    text: Suggest Displaspis nivis. Rare native usually confined to alpine bogs
+    ref: 588b113eed2a89d10f000f7f
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-27T09:49:56Z'
+    text: Thanks David - seems to fit!
+    ref: 588b17c4ed2a89d10f000fa4
+    name: Chris Clarke
+    username: cclarke
+  - created_at: '2017-01-27T10:07:35Z'
+    text: PS - Flora of Vic spells in Diplaspis - misses the forst "s" !
+    ref: 588b1be7ed2a89d10f000fd5
+    name: Chris Clarke
+    username: cclarke
+  - replying_to: 588b1be7ed2a89d10f000fd5
+    created_at: '2017-01-27T10:18:15Z'
+    text: Thanks for spotting this. Now corrected.
+    ref: 588b1e67ed2a89d10f000fe7
+    name: David Francis
+    username: david_francis
+collections:
+  - mt_buffalo_np_plants

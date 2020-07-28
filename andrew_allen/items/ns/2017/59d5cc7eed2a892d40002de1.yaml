@@ -1,0 +1,36 @@
+id:
+  - name: Melanerythrus mutilatus
+    by: david_francis
+created_at: '2017-10-05T06:16:36Z'
+datetime: '2017-10-04T10:30:00+10:00'
+elevation: 414.1
+latitude: -37.110501
+location_name: 'Zumsteins VIC 3401, Australia'
+longitude: 142.41093
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-10-05T06:20:56Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 2145
+    width: 3218
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59d5cc81ed2a8939840003f3.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59d5cc81ed2a8939840003f3.jpg'
+comments:
+  - created_at: '2017-10-05T09:10:21Z'
+    text: <em>Melanerythrus mutilatus</em> species id suggested
+    ref: 59d5f6fded2a892d40002e97
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-10-05T09:10:45Z'
+    text: 'Compare: http://www.bowerbird.org.au/observations/25222'
+    ref: 59d5f715ed2a892d40002e98
+    name: David Francis
+    username: david_francis
+  - replying_to: 59d5f715ed2a892d40002e98
+    created_at: '2017-10-05T09:15:23Z'
+    text: Thanks David!
+    ref: 59d5f82bed2a892d40002e9a
+    name: Andrew Allen
+    username: andrew_allen

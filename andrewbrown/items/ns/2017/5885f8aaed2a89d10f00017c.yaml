@@ -1,0 +1,44 @@
+id:
+  - Pentatomidae spp.
+  - Pseudapines geminata
+created_at: '2017-01-27T12:11:00Z'
+datetime: '2017-01-20T12:24:39+10:00'
+description: Small beetles congregated on pittosporums in the garden. Maybe stink bugs of some kind?
+elevation: 204.8
+latitude: -36.77842
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381503
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-04-08T12:26:09Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-20T12:24:39Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5885f8d8ed2a89b718000310.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5885f8d8ed2a89b718000310.jpeg'
+  - datetime: '2017-01-20T12:23:12Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5885f8baed2a89b3fe000320.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5885f8baed2a89b3fe000320.jpeg'
+tags:
+  - beetle-small
+  - beetle-spotted
+comments:
+  - created_at: '2017-01-28T08:40:38Z'
+    text: 'Yes, Shield/Stink Bug nymph. Pentatomidae sp.'
+    ref: 588c5906ed2a89d10f0013f0
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-28T08:40:38Z'
+    text: 'Yes, Shield/Stink Bug nymph. Pentatomidae sp.'
+    ref: 588c5906ed2a89d10f0013f2
+    name: David Francis
+    username: david_francis
+collections:
+  - wildlife_of_junortoun

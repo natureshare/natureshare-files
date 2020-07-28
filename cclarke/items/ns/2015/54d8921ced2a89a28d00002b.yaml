@@ -1,0 +1,41 @@
+id:
+  - name: Lycosidae spp.
+    by: david_francis
+created_at: '2015-02-09T10:55:24Z'
+datetime: '2011-01-23T10:09:46+10:00'
+elevation: 1608
+latitude: -36.870661
+location_name: 'Falls Creek VIC 3699, Australia'
+longitude: 147.296007
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-02-09T10:57:39Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-01-23T10:09:46Z'
+    height: 2128
+    width: 2374
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54d8921ced2a89a28d000029.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54d8921ced2a89a28d000029.jpg'
+  - datetime: '2011-01-23T10:08:47Z'
+    height: 2016
+    width: 2236
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54d8921ced2a89a28d00002a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54d8921ced2a89a28d00002a.jpg'
+comments:
+  - created_at: '2015-02-09T13:57:50Z'
+    text: Looks like a wolf spider - family Lycosidae.  Good photo of the eye pattern. I  like the atmospheric photo!
+    ref: 54d8bcdeed2a89a28d00006b
+    name: Suzanne Jones
+    username: suzanne
+  - created_at: '2017-02-01T09:10:04Z'
+    text: <em>Lycosidae spp.</em> species id suggested
+    ref: 5891a5eced2a89d10f00215b
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-01T09:10:26Z'
+    text: id by Suzanne Jones
+    ref: 5891a602ed2a89d10f00215c
+    name: David Francis
+    username: david_francis

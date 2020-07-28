@@ -1,0 +1,29 @@
+id:
+  - name: Choerocoris paganus
+    by: martinl
+created_at: '2011-12-07T18:24:50Z'
+datetime: '2011-11-05T11:11:58+10:00'
+latitude: -34.1371
+longitude: 141.287018
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-03-07T12:47:28Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-11-05T11:11:58Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39861e35eb129840126f0.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb129840126f0.jpg'
+comments:
+  - created_at: '2012-08-07T13:00:50Z'
+    text: |-
+      This looks like a Jewel Bug (Hemiptera; Scutelleridae; Choerocoris paganus)  The scutellum extends over their back and there are no elytra.  Buprestidae are Jewel beetles.  http://www.flickr.com/photos/66925960@N08/6190127023/in/set-72157627535727165
+        
+    ref: 53b3984be35eb1298400d9f8
+  - created_at: '2015-03-07T22:56:39Z'
+    text: Thanks Martin.
+    ref: 54fb8227ed2a8904e80000c1
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - neds_corner_insects_spiders_and_other_invertebrates

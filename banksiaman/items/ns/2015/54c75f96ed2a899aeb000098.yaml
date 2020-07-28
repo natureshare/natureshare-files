@@ -1,0 +1,33 @@
+id:
+  - Senecio spathulatus s.l.
+created_at: '2015-01-27T09:51:18Z'
+datetime: '2015-01-26T13:30:55+10:00'
+latitude: -38.430723
+longitude: 141.543418
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-01-28T11:15:09Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-01-26T13:30:55Z'
+    height: 2650
+    width: 3436
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54c75f95ed2a899aeb000097.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54c75f95ed2a899aeb000097.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2015-01-28T10:26:10Z'
+    text: Suggest Senecio spathulatus.
+    ref: 54c8b942ed2a8980b7000106
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 54c8b942ed2a8980b7000106
+    created_at: '2015-01-28T11:15:52Z'
+    text: 'I think you might be right, Thanks.'
+    ref: 54c8c4e8ed2a897151000128
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - plants_of_warrnambool_and_district

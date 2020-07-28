@@ -1,0 +1,37 @@
+id:
+  - name: Austroaeschna subapicalis
+    by: ausdigi
+created_at: '2017-02-01T10:04:33Z'
+datetime: '2017-01-21T11:37:40+10:00'
+elevation: 46.2
+latitude: -38.684014
+location_name: 'Grey River VIC 3234, Australia'
+longitude: 143.837607
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-01-08T07:59:12Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-21T11:37:40Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5891b160ed2a892daf000382.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5891b160ed2a892daf000382.jpg'
+tags:
+  - adult-female
+comments:
+  - created_at: '2018-01-08T07:58:36Z'
+    text: <em>Austroaeschna subapicalis</em> species id suggested
+    ref: 5a5324aced2a89d22b000af3
+    name: Reiner Richter
+    username: ausdigi
+  - created_at: '2018-01-08T07:58:42Z'
+    text: female
+    ref: 5a5324b2ed2a89d22b000af4
+    name: Reiner Richter
+    username: ausdigi
+collections:
+  - grey_river

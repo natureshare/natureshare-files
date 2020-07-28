@@ -1,0 +1,54 @@
+id:
+  - Thelymitra arenaria
+created_at: '2016-11-17T11:12:05Z'
+datetime: '2016-11-17T09:55:07+10:00'
+latitude: -38.164502
+longitude: 142.368822
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-11-18T08:32:55Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-11-17T09:55:07Z'
+    height: 1705
+    width: 1150
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/582d9057ed2a89b3fe0001e4.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/582d9057ed2a89b3fe0001e4.JPG'
+  - datetime: '2016-11-17T09:54:45Z'
+    height: 2877
+    width: 1547
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/582e4b5bed2a89b3fe0001e5.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/582e4b5bed2a89b3fe0001e5.JPG'
+  - datetime: '2016-11-17T09:54:56Z'
+    height: 2340
+    width: 1724
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/582e4b66ed2a89b3fe0001e6.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/582e4b66ed2a89b3fe0001e6.JPG'
+tags:
+  - flower-orchid
+comments:
+  - created_at: '2016-11-17T11:12:34Z'
+    text: Anyone know which one this is?
+    ref: 582d90a2ed2a89de5700026d
+    name: Kevin Sparrow
+    username: banksiaman
+  - created_at: '2016-11-17T11:44:29Z'
+    text: Beautiful image - possibly T. arenaria.  Did you note the leaf?
+    ref: 582d981ded2a89748000425a
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2016-11-18T06:28:06Z'
+    text: T. arenaria has a long narrow leaf as this looks to have.
+    ref: 582e9f76ed2a8974800043d3
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 582e9f76ed2a8974800043d3
+    created_at: '2016-11-18T08:33:52Z'
+    text: 'Thanks Cathy, sounds good enough for me'
+    ref: 582ebcf0ed2a899dda000020
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - woolsthorpe

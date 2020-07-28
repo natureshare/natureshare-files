@@ -1,0 +1,42 @@
+id:
+  - name: Gallirallus philippensis
+    by: ecos02
+created_at: '2015-05-24T08:41:33Z'
+datetime: '2015-05-24T10:33:13+10:00'
+description: Last observed in Newell's Paddock in Jan 2013 (Birdline)
+elevation: 2.6
+latitude: -37.795884
+location_name: 'Footscray VIC, Australia'
+longitude: 144.913256
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-05-24T09:19:39Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-05-24T10:33:13Z'
+    height: 1650
+    width: 2200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55618ebced2a897a03000487.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55618ebced2a897a03000487.jpg'
+tags:
+  - unknown-adults
+comments:
+  - created_at: '2015-05-24T10:02:41Z'
+    text: Great photo of a very pretty bird! Good to see it's still at Newells Paddock
+    ref: 5561a1c1ed2a89cea700006b
+    name: David Francis
+    username: david_francis
+  - created_at: '2015-05-24T11:20:05Z'
+    text: What a beautiful bird!
+    ref: 5561b3e5ed2a897a030004bb
+    name: Suzanne Jones
+    username: suzanne
+  - created_at: '2015-05-25T13:06:19Z'
+    text: 'Great photo Thomas. Not an easy one to photograph, so well done.'
+    ref: 55631e4bed2a897a030006d3
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong

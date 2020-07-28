@@ -1,0 +1,31 @@
+id:
+  - name: Chondropyga dorsalis
+    by: andrew_allen
+created_at: '2019-01-22T09:32:36Z'
+datetime: '2019-01-19T12:31:58+10:00'
+elevation: 21.6
+latitude: -37.785993
+location_name: '53 Edinburgh St, Flemington VIC 3031, Australia'
+longitude: 144.924943
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2019-01-22T09:33:49Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2019-01-19T12:31:58Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_53b39818e35eb12984000026/2019-01-22/1548149470/beetle.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_53b39818e35eb12984000026/2019-01-22/1548149470/beetle.jpg'
+  - datetime: '2019-01-19T12:31:19Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_53b39818e35eb12984000026/2019-01-22/1548149517/beetle-1.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_53b39818e35eb12984000026/2019-01-22/1548149517/beetle-1.jpg'
+comments:
+  - created_at: '2019-01-22T21:32:15Z'
+    text: <em>Chondropyga dorsalis</em> species id suggested
+    ref: 5c478bdf3abbd6cbb80003bf
+    name: Andrew Allen
+    username: andrew_allen
+collections:
+  - flemington_kensington_3031

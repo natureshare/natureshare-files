@@ -1,0 +1,39 @@
+id:
+  - Gymnopilus junonius
+created_at: '2015-06-14T04:56:48Z'
+datetime: '2015-06-14T09:43:10+10:00'
+description: 'Growing inside an agripipe under a street tree in Speakmen Street, Kensington. Looks very delicious. Not edible. Bitter.'
+elevation: 8.1
+latitude: -37.794418
+location_name: 'Kensington VIC, Australia'
+longitude: 144.917901
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-06-16T02:48:03Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-06-14T09:43:10Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/557d098fed2a8918dd000bd9.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/557d098fed2a8918dd000bd9.jpg'
+  - datetime: '2015-06-14T10:55:56Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/557d098fed2a8918dd000bda.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/557d098fed2a8918dd000bda.jpg'
+comments:
+  - created_at: '2015-06-14T08:44:26Z'
+    text: 99% sure it would be Gymnopilus junonius - don't be fooled by the apparent deliciousness.
+    ref: 557d3eeaed2a8918dd000be5
+    name: Mark Ridgway
+    username: argybee
+  - replying_to: 557d3eeaed2a8918dd000be5
+    created_at: '2015-06-14T12:06:13Z'
+    text: Thanks Mark. I have updated the species name. It was mentioned that it tasted bitter
+    ref: 557d6e35ed2a8918dd000bf6
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - flemington_kensington_3031

@@ -1,0 +1,27 @@
+id:
+  - name: Mycena spp.
+    by: funkeytom
+created_at: '2014-10-25T01:15:36Z'
+datetime: '2011-06-11T15:19:23+10:00'
+latitude: -37.290561
+location_name: 'Clunes VIC 3370, Australia'
+longitude: 143.752972
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2016-07-16T07:15:11Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-06-11T15:19:23Z'
+    height: 2592
+    width: 3456
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/544af9b8e35eb1c76700006b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544af9b8e35eb1c76700006b.jpg'
+comments:
+  - created_at: '2016-07-16T07:17:04Z'
+    text: 'This could be Mycena clarkeana, which typically occurs in clusters like this at the base on trees, but the fruit-bodies are old and faded so not possible to be sure. There is a hint of purple in the glimpse of the lamellae - when fresh the whole fruit-body is pinkish mauve. '
+    ref: 5789df70ed2a89e69f00082d
+    name: Tom May
+    username: funkeytom
+collections:
+  - clunes_finchesgully_flora_and_fauna

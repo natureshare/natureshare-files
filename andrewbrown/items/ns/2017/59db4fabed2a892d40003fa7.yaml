@@ -1,0 +1,59 @@
+id:
+  - Euryomyrtus ramosissima subsp. ramosissima
+created_at: '2017-10-09T11:25:51Z'
+datetime: '2017-10-03T11:06:22+10:00'
+description: Mass flowering small shrubs growing in a group.
+elevation: 211
+latitude: -36.624985
+location_name: 'Whipstick VIC 3556, Australia'
+longitude: 144.256997
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-10-10T07:45:59Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-03T11:06:22Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59db4fb3ed2a89398400044e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59db4fb3ed2a89398400044e.JPG'
+  - datetime: '2017-10-03T11:07:16Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59db5000ed2a893984000452.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59db5000ed2a893984000452.JPG'
+  - datetime: '2017-10-03T11:06:31Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59db50e0ed2a89398400045b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59db50e0ed2a89398400045b.JPG'
+tags:
+  - flowers-mauve-pink
+  - leaves-glabrous
+  - leaves-green
+  - leaves-linear
+  - petals-5
+  - shrub-low
+  - shrub-small
+comments:
+  - created_at: '2017-10-09T11:52:11Z'
+    text: Euryomyrtus ramosissima subsp. ramosissima
+    ref: 59db62ebed2a892d4000405e
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-10-11T03:33:19Z'
+    text: Also known as Rosy Heath-myrtle
+    ref: 59dd90ffed2a892d4000467f
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 59dd90ffed2a892d4000467f
+    created_at: '2017-10-11T04:08:14Z'
+    text: 'Yes, Rosy Heath-myrtle is the updated common name. I''ll make the change.'
+    ref: 59dd992eed2a892d40004695
+    name: David Francis
+    username: david_francis
+collections:
+  - whipstick_flora

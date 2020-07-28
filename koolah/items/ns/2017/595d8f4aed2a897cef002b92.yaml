@@ -1,0 +1,37 @@
+id:
+  - Didymoctenia exsuperata
+created_at: '2017-07-06T01:19:48Z'
+datetime: '2017-07-05T21:07:06+10:00'
+elevation: 261.5
+latitude: -37.806577
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297003
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-07-06T01:19:48Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-07-05T21:06:10Z'
+    height: 2256
+    width: 3507
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/595d9044ed2a8939840000db.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/595d9044ed2a8939840000db.JPG'
+  - primary: true
+    datetime: '2017-07-05T21:07:06Z'
+    height: 1502
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/595d8f53ed2a8939840000da.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/595d8f53ed2a8939840000da.JPG'
+tags:
+  - male
+  - moth
+comments:
+  - created_at: '2017-07-06T01:44:31Z'
+    text: Unusual antenna not unlike a television antenna!
+    ref: 595d95ffed2a897cef002bc3
+    name: David Francis
+    username: david_francis
+collections:
+  - brisbane_ranges_moths

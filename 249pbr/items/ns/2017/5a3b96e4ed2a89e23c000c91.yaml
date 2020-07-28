@@ -1,0 +1,32 @@
+id:
+  - Casbia tetramera
+created_at: '2017-12-21T13:03:00Z'
+datetime: '2017-04-16T21:33:15+10:00'
+description: 'A bit tatty but is Casbia tetramera, please add to database'
+latitude: -37.224434
+longitude: 144.309678
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-12-22T07:06:21Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-04-16T21:33:15Z'
+    height: 1824
+    width: 2574
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a3b96f9ed2a892d15000039.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a3b96f9ed2a892d15000039.jpg'
+comments:
+  - created_at: '2017-12-21T13:24:14Z'
+    text: Need to follow this up because the species is not listed in AFD.
+    ref: 5a3bb5feed2a89e23c000d17
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2017-12-22T02:33:07Z'
+    text: Species added - Casbia crataea is in AFD but that name is a junior synonym of C. tetramera.
+    ref: 5a3c6ee3ed2a893f58000027
+    name: Cathy Powers
+    username: koolah
+collections:
+  - drummond_nearby_forests_-_moths

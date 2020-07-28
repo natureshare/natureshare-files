@@ -1,0 +1,33 @@
+id:
+  - Tachinidae spp.
+created_at: '2014-08-18T05:24:27Z'
+datetime: '2013-01-26T10:03:08+10:00'
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-08-18T05:25:30Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-01-26T10:03:08Z'
+    height: 1220
+    width: 1825
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53f18e0ae35eb1ccc9000001.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53f18e0ae35eb1ccc9000001.JPG'
+  - datetime: '2013-01-26T10:02:28Z'
+    height: 1158
+    width: 1757
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53f18e0ae35eb1ccc9000002.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53f18e0ae35eb1ccc9000002.JPG'
+tags:
+  - fly
+comments:
+  - created_at: '2014-08-18T05:28:55Z'
+    text: 'This identification was made by ''Tony D.'' on Bowerbird website, together with reasons as to why it is not Calliphora augur.  He thinks it is most likely a species of Chaetophthalmus.'
+    ref: 53f18f17e35eb1ccc9000007
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains

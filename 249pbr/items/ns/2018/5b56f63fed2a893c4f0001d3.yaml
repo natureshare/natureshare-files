@@ -1,0 +1,29 @@
+id:
+  - Xylaria castorea
+created_at: '2018-07-24T09:57:18Z'
+datetime: '2013-04-20T13:18:59+10:00'
+description: 'Two images, a large unbranched species, also white when young '
+elevation: 921.7
+latitude: -37.378416
+location_name: 'Mount Macedon VIC 3441, Australia'
+longitude: 144.613335
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-07-24T10:05:26Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2013-04-20T13:18:59Z'
+    height: 1920
+    width: 2560
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b56f646ed2a89c6aa000055.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b56f646ed2a89c6aa000055.jpg'
+  - datetime: '2013-04-20T13:19:43Z'
+    height: 1820
+    width: 2442
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b56f644ed2a891efe000060.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b56f644ed2a891efe000060.jpg'
+collections:
+  - macedon_ranges_-_fungi

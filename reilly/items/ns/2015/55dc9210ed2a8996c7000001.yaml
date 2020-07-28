@@ -1,0 +1,35 @@
+id:
+  - name: Araneidae spp.
+    by: david_francis
+created_at: '2015-08-25T16:04:32Z'
+datetime: '2015-02-07T18:32:45+10:00'
+elevation: 1657.7
+latitude: -36.89552
+location_name: 'Falls Creek VIC 3699, Australia'
+longitude: 147.209503
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2015-08-25T16:09:55Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-02-07T18:31:24Z'
+    height: 2648
+    width: 3968
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55dc931bed2a890d95000028.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55dc931bed2a890d95000028.jpg'
+  - datetime: '2015-02-07T18:32:45Z'
+    height: 2648
+    width: 3968
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55dc922bed2a890d9500001f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55dc922bed2a890d9500001f.jpg'
+comments:
+  - created_at: '2017-02-01T05:17:28Z'
+    text: <em>Araneidae spp.</em> species id suggested
+    ref: 58916f68ed2a89d10f002094
+    name: David Francis
+    username: david_francis
+collections:
+  - mount_fainter_summer_hike

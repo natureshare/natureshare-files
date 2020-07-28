@@ -1,0 +1,55 @@
+id:
+  - name: Ramaria spp.
+    by: 249pbr
+created_at: '2018-08-02T11:05:51Z'
+datetime: '2014-06-01T14:35:47+10:00'
+elevation: 598.3
+latitude: -37.476297
+location_name: 'Blackwood VIC 3458, Australia'
+longitude: 144.287813
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-08T03:50:47Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-06-01T14:35:47Z'
+    height: 2868
+    width: 3108
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b62e593ed2a89c6aa00007b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b62e593ed2a89c6aa00007b.jpg'
+  - datetime: '2014-06-01T14:40:38Z'
+    height: 1434
+    width: 1518
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b654f4bed2a89402b000081.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b654f4bed2a89402b000081.jpg'
+comments:
+  - created_at: '2018-08-02T11:10:18Z'
+    text: Could well be Ramaria stunzii. Very small and it has been found in the Wombat Forest before.
+    ref: 5b62e69aed2a89a7f1000750
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-02T13:42:43Z'
+    text: 'This is the same specimen that was used to illustrate this species in the "Little Book of Corals", albeit taken from a different angle. In that publication it is listed as Ramaria stuntzii var. gelatinosa, an extremely rare species of which there are only two records, one from Olinda and one from the Wombat State Forest. Watling made these collections in 1982 and took to them back to Edinburgh where he names the variety in 1989. There are also two references to R. stuntzii, one is a specimen in Perth which was collected in USA, and the other is a recent sighting to the east of Melbourne. I would like to review this further and try and locate a copy of Watling''s description. Young provides some information on the Qld Mycological Society site describing the stipe flesh as "white and distinctly gelatinous" and the apices as bright red. Index Fungorum has the comment "On soil or burnt over soil under Eucalyptus: Victoria"'
+    ref: 5b630a53ed2a89a7f1000807
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-08-02T20:24:32Z'
+    text: What was the general location? Is that post burn debris next to it?
+    ref: 5b636880ed2a89a7f1000854
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-08-03T07:41:48Z'
+    text: I'd say so. It was a stone's throw from the Cortinarius canaria tree almost on the track. Lost the data again. Cheers R
+    ref: 5b64073ced2a89a7f1000cbe
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-03T13:47:43Z'
+    text: >-
+      Watlings original paper has eluded me however I now realise Young provided a more detailed description on the Qld site which includes colour photographs of the dried specimens collected by Watling. This is a good match in many ways although colour is a concern. The description of R. stuntzii var. stuntzii advises it is "scarlet" in youth, fading to "light orange-red" and Young's summary of var. gelatinosa states that form has pink to bright pink branches with bright red apices. Has this specimen faded to light orange-red? The image in the little corals publication shows some of the stipe and hints at the presence of strigose mycelium and white tomentum at the base which would  conform with Young's notes but the image is not sharp enough in that area to be certain. The dried Wombat Forest specimen collected by Watling still shows strong pink tones. Perhaps this is Ramaria stuntzii var gelatinosa, and perhaps it is not. If it is not, then it also appears to not be any other
+      Australian listed Ramaria species either. It is a big step to claim this as the only legitimate image of an in field specimen of Ramaria stuntzii var. gelatinosa without there being proper microscopic examination to back up the claim. I think it is best to list this as Ramaria spp. and put "possibly Ramaria stuntzii var. gelatinosa" in the the description field.
+    ref: 5b645cffed2a89ff910000df
+    name: John Walter
+    username: 249pbr
+collections:
+  - wombat_forest_-_fungi

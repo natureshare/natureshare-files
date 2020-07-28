@@ -1,0 +1,39 @@
+id:
+  - name: Agaricus sp. nov. sensu Gates & Ratkowsky(1) 2016
+    by: 249pbr
+created_at: '2018-08-01T06:45:54Z'
+datetime: '2014-06-01T15:52:56+10:00'
+elevation: 604.3
+latitude: -37.4767
+location_name: 'Blackwood VIC 3458, Australia'
+longitude: 144.28645
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-08-02T03:01:08Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-06-01T15:52:56Z'
+    height: 2117
+    width: 2159
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b61561bed2a89402b000076.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b61561bed2a89402b000076.jpg'
+comments:
+  - created_at: '2018-08-01T06:49:29Z'
+    text: Agaricus sp Pink Stainer. Gates p27.
+    ref: 5b6157f9ed2a89a7f100013f
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-01T12:27:35Z'
+    text: Could Agaricus sp. nov. sensu Gates & Ratkowsky(1) 2016 be added to the dataset with Pink Stainer in thr Common Name please
+    ref: 5b61a737ed2a89a7f1000253
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-08-02T02:58:29Z'
+    text: Added to dataset.
+    ref: 5b627355ed2a89eae400019c
+    name: Cathy Powers
+    username: koolah
+collections:
+  - wombat_forest_-_fungi

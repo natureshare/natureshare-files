@@ -1,0 +1,55 @@
+id:
+  - Daviesia genistifolia s.s.
+created_at: '2017-10-12T12:16:57Z'
+datetime: '2017-10-10T13:02:02+10:00'
+description: Dense shrubs with pointed prickly leaves.
+elevation: 211.5
+latitude: -36.625467
+location_name: 'Whipstick VIC 3556, Australia'
+longitude: 144.263606
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-10-13T22:38:23Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-10T13:02:02Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59df4dfeed2a893984000490.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59df4dfeed2a893984000490.JPG'
+  - datetime: '2017-10-10T13:01:08Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59df4d97ed2a89398400048a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59df4d97ed2a89398400048a.JPG'
+tags:
+  - flowers-orange-red
+  - flowers-pea
+  - leaves-deep-green
+  - leaves-narrow
+  - leaves-pointed
+  - shrub-dense
+  - shrub-medium
+comments:
+  - created_at: '2017-10-13T08:42:05Z'
+    text: Could be the rare Daviesia genistiffolia for which there is no photo on NS.
+    ref: 59e07c5ded2a892d40005088
+    name: David Francis
+    username: david_francis
+  - replying_to: 59e07c5ded2a892d40005088
+    created_at: '2017-10-13T11:52:26Z'
+    text: 'Thanks David, yes does look like it and listed for the area (rare) http://www.swifft.net.au/cb_pages/threatened_flora_greater_bendigo_city.php'
+    ref: 59e0a8faed2a895af6000164
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 59e0a8faed2a895af6000164
+    created_at: '2017-10-13T22:47:14Z'
+    text: Great find and new species for Natureshare.
+    ref: 59e14272ed2a892d4000529a
+    name: David Francis
+    username: david_francis
+collections:
+  - whipstick_flora

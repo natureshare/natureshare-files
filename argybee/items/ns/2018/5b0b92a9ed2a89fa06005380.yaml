@@ -1,0 +1,44 @@
+id:
+  - Haematopus longirostris
+created_at: '2018-05-28T05:29:13Z'
+datetime: '2017-06-15T13:53:00+10:00'
+description: "These three Pied Oyster Catchers were working the wet sand on the shoreline searching for food items. \r\nThe gulls were following and watching closely for ideas or morsels that might escape the OCs.\r\nQuite a team."
+elevation: 0
+latitude: -37.583608
+location_name: 'Mallacoota VIC 3892, Australia'
+longitude: 149.74073
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-05-28T06:57:38Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-05-18T13:53:42Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b0b92aded2a89b04700000b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b0b92aded2a89b04700000b.jpg'
+tags:
+  - birds
+comments:
+  - created_at: '2018-05-29T04:57:50Z'
+    text: I'm surprised that the Oyster Catchers allow the gulls at their table!
+    ref: 5b0cddceed2a89fa06005882
+    name: David Francis
+    username: david_francis
+  - replying_to: 5b0cddceed2a89fa06005882
+    created_at: '2018-05-29T10:13:44Z'
+    text: 'The gulls displayed exceptional skill at maintaining three beaks distance. :) '
+    ref: 5b0d27d8ed2a89fa060059ea
+    name: Mark Ridgway
+    username: argybee
+  - replying_to: 5b0cddceed2a89fa06005882
+    created_at: '2018-05-29T10:14:13Z'
+    text: Thanks for doing the names David.
+    ref: 5b0d27f5ed2a89fa060059ec
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - littoral_zones

@@ -1,0 +1,45 @@
+id:
+  - Todiramphus sanctus
+created_at: '2018-03-07T06:05:29Z'
+datetime: '2018-03-07T12:57:50+10:00'
+elevation: 12.2
+latitude: -38.08255
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086268
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-03-08T01:58:45Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-03-07T12:57:50Z'
+    height: 1648
+    width: 2505
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a9f7fb7ed2a89abdd000033.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a9f7fb7ed2a89abdd000033.JPG'
+  - datetime: '2018-03-07T12:56:48Z'
+    height: 1688
+    width: 2499
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a9f7feded2a89cf9000002d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a9f7feded2a89cf9000002d.JPG'
+  - datetime: '2018-03-07T12:55:53Z'
+    height: 2432
+    width: 3648
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a9f805bed2a8929e700002f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a9f805bed2a8929e700002f.JPG'
+tags:
+  - bird
+comments:
+  - created_at: '2018-03-08T02:09:12Z'
+    text: 'Magnificent photos, Suzanne. You must have been close.'
+    ref: 5aa09b48ed2a896baf001f72
+    name: David Francis
+    username: david_francis
+  - replying_to: 5aa09b48ed2a896baf001f72
+    created_at: '2018-03-23T09:55:45Z'
+    text: 'I was inside the house, at the kitchen window.  Just used the zoom on the camera.  A beautiful bird.'
+    ref: 5ab4cf21ed2a891e23000097
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - birds_seen_at_145_gibsons_road_cobains

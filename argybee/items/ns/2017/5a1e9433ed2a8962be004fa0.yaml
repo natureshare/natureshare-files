@@ -1,0 +1,55 @@
+id:
+  - Endoxyla secta
+created_at: '2017-11-29T11:09:00Z'
+datetime: '2015-12-05T11:14:53+10:00'
+description: "This one about 50mm long. \r\nDrawn to MV lights next to a national park."
+elevation: 136.6
+latitude: -37.893382
+location_name: 'Upper Ferntree Gully VIC 3156, Australia'
+longitude: 145.313864
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-11-30T00:50:06Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-12-05T11:14:53Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a1e9441ed2a8939840007a3.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a1e9441ed2a8939840007a3.jpg'
+  - height: 384
+    width: 512
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a1e952bed2a8939840007a4.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a1e952bed2a8939840007a4.jpg'
+tags:
+  - moth
+  - moth-grey-black
+  - moth-patterned
+comments:
+  - created_at: '2017-11-29T23:09:56Z'
+    text: Mark - Peter Marriott confirmed this as Endoxyla secta.
+    ref: 5a1f3e44ed2a8962be005155
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5a1f3e44ed2a8962be005155
+    created_at: '2017-11-30T00:49:37Z'
+    text: Thanks. I think I've got E.secta sorted now but these cossids are tough on the eyes and brain.
+    ref: 5a1f55a1ed2a8962be0051c4
+    name: Mark Ridgway
+    username: argybee
+  - created_at: '2017-11-30T02:52:56Z'
+    text: Some great images which will be of value for MOV future issues.
+    ref: 5a1f7288ed2a8962be00527e
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5a1f7288ed2a8962be00527e
+    created_at: '2017-11-30T03:17:40Z'
+    text: 'Thanks Cathy.. (dashing off to search for originals) '
+    ref: 5a1f7854ed2a8962be0052b4
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_lepidoptera

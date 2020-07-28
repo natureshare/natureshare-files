@@ -1,0 +1,62 @@
+id:
+  - name: Delena cancerides
+    by: david_francis
+created_at: '2018-01-24T09:37:39Z'
+datetime: '2018-01-03T12:49:36+10:00'
+description: spider
+elevation: 281.8
+latitude: -37.516245
+location_name: 'Clarkefield VIC 3430, Australia'
+longitude: 144.771018
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-01-24T09:38:02Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-01-03T12:49:36Z'
+    height: 4608
+    width: 3456
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a68524fed2a896ec000000e.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a68524fed2a896ec000000e.JPG'
+  - datetime: '2018-01-03T12:49:29Z'
+    height: 4608
+    width: 3456
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a6852bbed2a89f45300000f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a6852bbed2a89f45300000f.JPG'
+  - datetime: '2018-01-03T12:48:57Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a68538ced2a896ec000000f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a68538ced2a896ec000000f.JPG'
+comments:
+  - created_at: '2018-01-24T09:37:55Z'
+    text: 3 pix
+    ref: 5a6853f3ed2a89d02a00030d
+    name: Peter Clark
+    username: emucreek
+  - created_at: '2018-01-25T06:07:08Z'
+    text: Interesting specimen with hairs sticking out at right angles from legs. How big was it? A good view of the eyes and jaws is probably needed for an id.
+    ref: 5a69740ced2a89d02a000715
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-01-25T07:25:06Z'
+    text: 'gday david,bit over 25 mm,3rd pix is about the best with the eyes...when i tried to take photos it swiveled around the branch....some type of huntsman.'
+    ref: 5a698652ed2a89d02a000755
+    name: Peter Clark
+    username: emucreek
+  - created_at: '2018-01-25T12:32:38Z'
+    text: <em>Delena cancerides</em> species id suggested
+    ref: 5a69ce66ed2a89d02a0008eb
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-01-25T12:32:48Z'
+    text: 'See http://www.bowerbird.org.au/observations/88260'
+    ref: 5a69ce70ed2a89d02a0008ec
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-01-25T12:34:45Z'
+    text: '...and https://natureshare.org.au/observations/555f1685ed2a897a030002a8?species=delena_cancerides is also a good match.'
+    ref: 5a69cee5ed2a89d02a0008ee
+    name: David Francis
+    username: david_francis

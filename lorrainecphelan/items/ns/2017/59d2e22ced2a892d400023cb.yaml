@@ -1,0 +1,33 @@
+id:
+  - Caladenia parva
+created_at: '2017-10-03T01:06:16Z'
+datetime: '2017-09-21T12:04:00+10:00'
+description: Location approximate only.
+elevation: 120.3
+latitude: -38.065332
+location_name: 'Inverleigh VIC 3321, Australia'
+longitude: 144.038145
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-10-04T22:47:52Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 1198
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59d2e230ed2a8939840003bf.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59d2e230ed2a8939840003bf.jpg'
+comments:
+  - created_at: '2017-10-04T19:30:06Z'
+    text: I think this may Caladenia parva.  The osmophores on the lateral sepals are shorter than those on the C. tentaculata.
+    ref: 59d536beed2a8907c1000001
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 59d536beed2a8907c1000001
+    created_at: '2017-10-04T22:47:18Z'
+    text: I just checked my other photos taken on the day and have to agree with you. The green comb does not extend above the tip of the anther and on the labellum of C. tentaculata there is a white band that separates the calli from the purple tip. On C. parva there is no white band.
+    ref: 59d564f6ed2a892d40002c6d
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - inverleigh_nature_conservation_reserve

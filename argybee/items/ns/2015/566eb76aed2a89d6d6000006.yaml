@@ -1,0 +1,43 @@
+id:
+  - Pseudanapaea transvestita
+created_at: '2015-12-14T12:40:29Z'
+datetime: '2015-12-11T12:10:49+10:00'
+description: " A very small Limacodid resting under lights on the margin of the Dandenong Ranges NP. Web shots of P transvestita and denotata seem mixed. Work to be done yet. Thanks experts.\r\nThis one looks like Pseudanapaea denotata in Paul Zborowski's 'A Guide to Australian Moths' ."
+elevation: 161.4
+latitude: -37.892399
+location_name: 'Tremont VIC 3785, Australia'
+longitude: 145.313693
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-11-12T22:30:15Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-12-11T12:10:49Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/566eb782ed2a898328000001.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/566eb782ed2a898328000001.JPG'
+tags:
+  - moth
+comments:
+  - created_at: '2015-12-15T05:35:46Z'
+    text: 'Would be exciting to have a new moth species for the state - an some distance from other records, it seems! I look forward to the experts'' opinions.'
+    ref: 566fa6b2ed2a89a3ca00000e
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2015-12-17T00:25:39Z'
+    text: "Mark - the following is a response from Marilyn H. \r\nI'd call it P. transvestita with the slight hesitation that the species hasn't been covered in our MoV research yet. You never know what's going to happen to names when you look into things thoroughly. The museum collection has P. transvestita as a common species in Victoria and it would seen more likely than a first for the state."
+    ref: 56720103ed2a89d6d600017c
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 56720103ed2a89d6d600017c
+    created_at: '2015-12-18T02:48:35Z'
+    text: 'Thanks so much Cathy (and Marilyn). Pretty much what I guessed. The spread of P denotata on ALA looks suspicious/ominous  ie. every mainland state except Victoria. I was also ready to accept Paul''s photo might be wrongly IDed. Maybe another one I should have caught... no sorry I just can''t do it. :)'
+    ref: 56737403ed2a89d6d600022e
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_lepidoptera

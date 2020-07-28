@@ -1,0 +1,26 @@
+created_at: '2015-02-22T10:44:11Z'
+datetime: '2015-02-21T09:34:15+10:00'
+description: small moths in Royal Park.
+elevation: 23.3
+latitude: -37.783919
+location_name: 'Parkville VIC, Australia'
+longitude: 144.94427
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-02-22T10:53:30Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-02-21T09:34:15Z'
+    height: 1500
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54e9b2fbed2a89d9900006ab.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e9b2fbed2a89d9900006ab.jpg'
+comments:
+  - created_at: '2015-03-06T01:28:48Z'
+    text: not Mimaglossa nauplialis
+    ref: 54f902d0ed2a89097e000451
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - royal_park_parkville

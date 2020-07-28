@@ -1,0 +1,38 @@
+id:
+  - Mycena spp.
+created_at: '2018-08-29T08:01:20Z'
+datetime: '2018-06-03T14:50:47+10:00'
+elevation: 384.8
+latitude: -38.516444
+location_name: 'Lorne VIC 3232, Australia'
+longitude: 143.923011
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-09-10T03:18:43Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-06-03T14:50:47Z'
+    height: 1201
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b86526ded2a89402b0000a7.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b86526ded2a89402b0000a7.jpg'
+comments:
+  - created_at: '2018-08-30T10:44:56Z'
+    text: Wonderful shapes and colours.
+    ref: 5b87caa8ed2a89a7f1009fb1
+    name: Bernie Lingham
+    username: bernie_l
+  - created_at: '2018-09-09T07:10:09Z'
+    text: 'More likely Mycena pitereka. Gates p122. As I understand it M adenscens is an American species. '
+    ref: 5b94c751ed2a89cce3002d89
+    name: zeke1944
+    username: zeke1944
+  - replying_to: 5b94c751ed2a89cce3002d89
+    created_at: '2018-09-10T03:16:33Z'
+    text: Thanks. I'll edit the entry.
+    ref: 5b95e211ed2a895f4a00018e
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - otway_ranges_-_fungi

@@ -1,0 +1,37 @@
+id:
+  - Thalaina clara
+created_at: '2016-04-01T06:53:33Z'
+datetime: '2016-04-01T03:48:43+10:00'
+latitude: -37.806582
+longitude: 144.297002
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-04-02T05:08:31Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-04-01T03:48:43Z'
+    height: 1674
+    width: 2237
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56fe1a90ed2a89211c0001ab.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56fe1a90ed2a89211c0001ab.JPG'
+tags:
+  - moth
+  - red-lined
+  - white
+comments:
+  - created_at: '2016-04-02T05:11:42Z'
+    text: 'That is a brilliant photo, Cathy.'
+    ref: 56ff548eed2a89497f000009
+    name: Pauline McCarthy
+    username: pauline
+  - replying_to: 56ff548eed2a89497f000009
+    created_at: '2016-04-02T05:23:41Z'
+    text: Thanks Pauline - it could only have just come out of the cocoon to look this fresh and arrive near my light at 3.45AM
+    ref: 56ff575ded2a89497f00000c
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brisbane_ranges_moths

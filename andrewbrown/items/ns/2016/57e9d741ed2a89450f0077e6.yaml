@@ -1,0 +1,31 @@
+id:
+  - Cheilanthes spp.
+created_at: '2016-09-27T02:35:47Z'
+datetime: '2016-09-25T10:00:43+10:00'
+description: Small fern that I've never seen growing here before due to the previous dry years. Only 2 small patches found here.
+elevation: 221.8
+latitude: -36.782652
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.365898
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-09-27T02:35:47Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-09-25T10:00:36Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e9db43ed2a89b3fe0000a7.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e9db43ed2a89b3fe0000a7.JPG'
+  - primary: true
+    datetime: '2016-09-25T10:00:43Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e9d757ed2a89d73e00009d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e9d757ed2a89d73e00009d.JPG'
+tags:
+  - fern
+collections:
+  - junortoun_flora

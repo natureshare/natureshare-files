@@ -1,0 +1,34 @@
+id:
+  - Kennedia prostrata
+created_at: '2018-07-30T03:59:12Z'
+datetime: '2012-10-21T17:33:09+10:00'
+description: 3 Photos
+elevation: 492.2
+latitude: -37.308543
+location_name: 'Mount Beckworth VIC 3363, Australia'
+longitude: 143.717936
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2018-07-30T15:24:57Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2012-10-21T17:33:09Z'
+    height: 3056
+    width: 4592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b5e8c65ed2a89402b000071.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b5e8c65ed2a89402b000071.JPG'
+  - datetime: '2012-10-21T17:31:26Z'
+    height: 3056
+    width: 4592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b5e8c5ded2a89402b000070.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b5e8c5ded2a89402b000070.JPG'
+  - datetime: '2012-10-21T17:32:08Z'
+    height: 3056
+    width: 4592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b5e8cd4ed2a891efe000074.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b5e8cd4ed2a891efe000074.JPG'
+collections:
+  - mount_beckworth

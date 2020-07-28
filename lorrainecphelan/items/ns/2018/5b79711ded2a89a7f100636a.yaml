@@ -1,0 +1,40 @@
+id:
+  - Coltricia cinnamomea
+created_at: '2018-08-19T13:33:46Z'
+datetime: '2018-08-16T17:05:30+10:00'
+description: Two images. Coltricia sp.?
+elevation: 119
+latitude: -38.328137
+location_name: 'Paraparap VIC 3240, Australia'
+longitude: 144.154365
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-20T06:01:07Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-08-16T17:05:30Z'
+    height: 1201
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b797121ed2a89c6aa00008f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b797121ed2a89c6aa00008f.jpg'
+  - datetime: '2018-08-16T17:08:01Z'
+    height: 1200
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b79712ced2a89402b00008f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b79712ced2a89402b00008f.jpg'
+comments:
+  - created_at: '2018-08-19T20:57:50Z'
+    text: 'Yes, Coltricia cinnamomea in the older texts and now listed as Coltricia australica in Gates & Ratkowsky. ALA has not yet adopted the new name and when reviewing the paper I note it is based on one specimen collected in Tasmania  which was separated from C. cinnamomea on spore size and DNA analysis. The researcher then compared to the DNA to one specimen held in the Melbourne Herbarium which suggested the two were closely related. Both these specimens were phylogenetically well segregated from other Coltricia species. I am not sure Tom May would consider two specimens a significant enough sample on which to adopt a full reclassification of Australian material and I would leave the name as C. cinnamomea for now.'
+    ref: 5b79d9ceed2a89a7f1006403
+    name: John Walter
+    username: 249pbr
+  - replying_to: 5b79d9ceed2a89a7f1006403
+    created_at: '2018-08-19T23:35:33Z'
+    text: Thanks John
+    ref: 5b79fec5ed2a89a7f10064c2
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - otway_ranges_-_fungi

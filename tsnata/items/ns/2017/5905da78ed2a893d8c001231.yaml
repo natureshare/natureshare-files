@@ -1,0 +1,39 @@
+id:
+  - Fungi spp.
+created_at: '2017-04-30T12:41:44Z'
+datetime: '2017-04-29T10:18:35+10:00'
+description: 'A fairy ring from different fungi in Ross Straw Field, Royal Park.'
+elevation: 19.5
+latitude: -37.784366
+location_name: 'Parkville VIC 3052, Australia'
+longitude: 144.943443
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-04-30T12:41:44Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-04-29T10:17:50Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5905da8eed2a894410000117.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5905da8eed2a894410000117.jpg'
+  - datetime: '2017-04-29T10:18:35Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5905da79ed2a89e548000119.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5905da79ed2a89e548000119.jpg'
+  - datetime: '2017-04-29T10:18:04Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5905da81ed2a89e54800011a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5905da81ed2a89e54800011a.jpg'
+comments:
+  - created_at: '2019-06-11T07:41:54Z'
+    text: Likely Vascellum pratense
+    ref: 5cff5b4276a894aeef000025
+    name: zeke1944
+    username: zeke1944
+collections:
+  - royal_park_parkville

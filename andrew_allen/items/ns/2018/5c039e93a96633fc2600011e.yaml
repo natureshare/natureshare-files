@@ -1,0 +1,33 @@
+id:
+  - name: Neumichtis saliaris
+    by: koolah
+created_at: '2018-12-02T08:57:55Z'
+datetime: '2018-12-01T21:45:00+10:00'
+elevation: 65
+latitude: -37.733475
+location_name: '2 Edgeware Cl, Kealba VIC 3021, Australia'
+longitude: 144.824479
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2018-12-02T10:25:42Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_583ba1bbed2a897480005b25/2018-12-02/1543741055/moth-2018-12-01-kealba.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_583ba1bbed2a897480005b25/2018-12-02/1543741055/moth-2018-12-01-kealba.jpg'
+comments:
+  - created_at: '2018-12-02T10:25:27Z'
+    text: <em>Neumichtis saliaris</em> species id suggested
+    ref: 5c03b317a96633274b000126
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5c03b317a96633274b000126
+    created_at: '2018-12-02T10:27:05Z'
+    text: Thanks!
+    ref: 5c03b379a96633fc26000128
+    name: Andrew Allen
+    username: andrew_allen
+collections:
+  - moths_of_metropolitan_melbourne

@@ -1,0 +1,32 @@
+id:
+  - name: Chlorocoma dichloraria
+    by: koolah
+created_at: '2018-12-29T00:01:23Z'
+datetime: '2018-12-29T10:19:48+10:00'
+elevation: 59.6
+latitude: -38.090264
+location_name: '1308 Ettrick-Condah Rd, Heywood VIC 3304, Australia'
+longitude: 141.751355
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2018-12-29T00:02:25Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-12-29T10:19:48Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_56b45e90ed2a89d4ab000026/2018-12-29/1546041651/PC280006.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_56b45e90ed2a89d4ab000026/2018-12-29/1546041651/PC280006.jpg'
+comments:
+  - created_at: '2018-12-29T00:30:34Z'
+    text: <em>Chlorocoma dichloraria</em> species id suggested
+    ref: 5c26c02a3abbd606720003a6
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5c26c02a3abbd606720003a6
+    created_at: '2018-12-29T05:50:28Z'
+    text: Thankyou
+    ref: 5c270b243abbd64bee0003d3
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - homerton_and_milltown_insects

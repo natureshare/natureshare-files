@@ -1,0 +1,37 @@
+id:
+  - name: Paraserianthes lophantha subsp. lophantha
+    by: david_francis
+created_at: '2016-09-22T10:30:46Z'
+datetime: '2016-08-20T14:59:27+10:00'
+elevation: 235.5
+latitude: -37.52986
+location_name: 'Wildwood VIC 3429, Australia'
+longitude: 144.772048
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-09-22T10:30:46Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-08-20T14:59:27Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e3b1d3ed2a89b3fe00005f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e3b1d3ed2a89b3fe00005f.JPG'
+  - datetime: '2016-08-20T14:59:32Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57e3b245ed2a892daf00006d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e3b245ed2a892daf00006d.JPG'
+comments:
+  - created_at: '2016-09-22T12:44:34Z'
+    text: <em>Paraserianthes lophantha subsp. lophantha</em> species id suggested
+    ref: 57e3d232ed2a89450f006e8a
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-09-22T12:54:23Z'
+    text: Native to WA. A troublesome weed in  coastal areas.
+    ref: 57e3d47fed2a89450f006e98
+    name: David Francis
+    username: david_francis

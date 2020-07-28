@@ -1,0 +1,25 @@
+id:
+  - Boletus spp.
+created_at: '2018-09-11T06:29:33Z'
+datetime: '2014-04-30T12:34:11+10:00'
+latitude: -38.463275
+longitude: 144.065983
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-09-11T06:29:41Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-04-30T12:34:11Z'
+    height: 3023
+    width: 4746
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b97608ded2a891efe0000cc.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b97608ded2a891efe0000cc.jpg'
+comments:
+  - created_at: '2018-09-15T07:34:22Z'
+    text: Found once at Moggs creek in stringybark woodland. No information at species level to date.
+    ref: 5b9cb5feed2a89cce3004f3e
+    name: zeke1944
+    username: zeke1944
+collections:
+  - otway_ranges_-_fungi

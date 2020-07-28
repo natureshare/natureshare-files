@@ -1,0 +1,47 @@
+id:
+  - Tryngites subruficollis
+created_at: '2017-01-21T04:43:56Z'
+datetime: '2017-01-20T15:38:12+10:00'
+latitude: -38.188232
+longitude: 143.870667
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-01-21T12:00:36Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-20T15:38:12Z'
+    height: 1365
+    width: 2048
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5882e6e4ed2a892daf000333.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5882e6e4ed2a892daf000333.jpg'
+  - datetime: '2017-01-20T15:38:22Z'
+    height: 1365
+    width: 2048
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5882e6dded2a892daf000332.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5882e6dded2a892daf000332.jpg'
+comments:
+  - created_at: '2017-01-21T07:04:50Z'
+    text: Another first for NS. Great observation of a vagrant species.
+    ref: 58830812ed2a89f46400344c
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-23T11:35:47Z'
+    text: Thanks Michael for all your new birds! Cheers. Chris.
+    ref: 5885ea93ed2a89d10f00016a
+    name: Chris Clarke
+    username: cclarke
+  - replying_to: 58830812ed2a89f46400344c
+    created_at: '2017-02-18T03:08:13Z'
+    text: 'Thanks, David :)'
+    ref: 58a7ba9ded2a896c5c000782
+    name: Michael Gooch
+    username: michaelgooch
+  - replying_to: 5885ea93ed2a89d10f00016a
+    created_at: '2017-02-18T03:10:01Z'
+    text: 'No worries! I''m enjoying trying to fill the gaps :)'
+    ref: 58a7bb09ed2a896c5c00078a
+    name: Michael Gooch
+    username: michaelgooch

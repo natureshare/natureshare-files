@@ -1,0 +1,46 @@
+id:
+  - name: Loweria stenoscia
+    by: koolah
+created_at: '2017-04-20T11:10:02Z'
+datetime: '2017-04-19T20:33:54+10:00'
+description: Small moth approx. 12mm
+elevation: 204.8
+latitude: -36.77842
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381503
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-04-22T04:16:10Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-04-19T20:33:54Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58f89393ed2a89a81f0000f1.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58f89393ed2a89a81f0000f1.JPG'
+tags:
+  - moth
+  - moth-pale
+  - moth-striped
+comments:
+  - created_at: '2017-04-22T04:16:07Z'
+    text: 'This is a great observation - certainly an extension of distribution.  Marilyn Hewish, author of Moths of Victoria part 5 where the description is found, assisted with the identification.'
+    ref: 58fad907ed2a89f2b8000007
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2017-04-22T04:16:47Z'
+    text: <em>Loweria stenoscia</em> species id suggested
+    ref: 58fad92fed2a89f3bf000b3e
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2017-04-22T13:05:18Z'
+    text: 'Thanks for your research and knowledge Cathy :)'
+    ref: 58fb550eed2a89a0c6000003
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - wildlife_of_junortoun
+  - moths_of_junortoun
+  - moths_of_central_victoria

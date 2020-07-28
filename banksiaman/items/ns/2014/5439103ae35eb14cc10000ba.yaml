@@ -1,0 +1,33 @@
+id:
+  - Eucalyptus costata subsp. murrayana
+created_at: '2014-10-11T11:10:50Z'
+datetime: '2014-10-04T12:59:03+10:00'
+latitude: -36.6307
+longitude: 141.74315
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-10-12T08:17:13Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-04T12:59:03Z'
+    height: 1225
+    width: 1525
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5439103ae35eb14cc10000b9.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5439103ae35eb14cc10000b9.JPG'
+tags:
+  - flowers
+comments:
+  - created_at: '2014-10-12T07:09:18Z'
+    text: Hi Keven. Suggest check against E. costata (syn. E. incrassata).
+    ref: 543a291ee35eb184d500004a
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 543a291ee35eb184d500004a
+    created_at: '2014-10-12T08:16:47Z'
+    text: Thanks I think you might be right
+    ref: 543a38efe35eb1314d000007
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - little_desert_np_plants

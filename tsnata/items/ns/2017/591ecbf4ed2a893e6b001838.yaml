@@ -1,0 +1,29 @@
+id:
+  - Myxogastrea spp.
+created_at: '2017-05-19T10:51:35Z'
+datetime: '2017-05-19T11:05:45+10:00'
+description: 'Some part of the slime-mould from observation (http://natureshare.org.au/observations/591d93dfed2a893e6b00144d) have turned black.'
+latitude: -37.797151
+longitude: 144.911363
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-05-19T10:53:35Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-05-19T11:05:45Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/591ecbfbed2a891d6d000158.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/591ecbfbed2a891d6d000158.JPG'
+comments:
+  - created_at: '2017-05-19T12:09:15Z'
+    text: Mature spores are black.
+    ref: 591ee06bed2a896a9f000001
+    name: David Francis
+    username: david_francis
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong

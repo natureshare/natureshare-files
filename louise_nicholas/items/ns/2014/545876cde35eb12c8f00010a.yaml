@@ -1,0 +1,38 @@
+id:
+  - name: Lissanthe strigosa subsp. subulata
+    by: cclarke
+created_at: '2014-11-04T06:48:45Z'
+datetime: '2014-11-03T13:30:18+10:00'
+latitude: -37.290561
+location_name: 'Clunes VIC 3370, Australia'
+longitude: 143.752972
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-01-24T00:58:41Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-11-03T13:30:18Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/545876cde35eb12c8f000109.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545876cde35eb12c8f000109.JPG'
+comments:
+  - created_at: '2014-11-04T20:42:09Z'
+    text: Ericaceae. Possibly Epacris?
+    ref: 54593a21e35eb12c8f0001d7
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2015-01-24T00:59:18Z'
+    text: Faded flowers turn dark
+    ref: 54c2ee66ed2a89313500000c
+    name: Chris Clarke
+    username: cclarke
+  - replying_to: 54c2ee66ed2a89313500000c
+    created_at: '2015-01-26T11:29:51Z'
+    text: I can agree with this. Thanks Chris.
+    ref: 54c6252fed2a899aeb000015
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - clunes_finchesgully_flora_and_fauna

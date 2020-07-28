@@ -1,0 +1,46 @@
+id:
+  - name: Himantopus himantopus s.l.
+    by: david_francis
+created_at: '2019-01-11T05:02:59Z'
+datetime: '2019-01-07T18:36:35+10:00'
+description: Pied Stilt not on database
+elevation: 4.9
+latitude: -38.046803
+location_name: 'Point Wilson VIC 3212, Australia'
+longitude: 144.506473
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2019-01-11T05:10:14Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2019-01-07T18:36:35Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_5b960d3ded2a89cce30032a4/2019-01-11/1547182935/IMG_3144.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5b960d3ded2a89cce30032a4/2019-01-11/1547182935/IMG_3144.JPG'
+tags:
+  - bird-black-white
+  - bird-coastal
+  - waterbird
+comments:
+  - created_at: '2019-01-11T05:11:34Z'
+    text: Himantopus leucocephalus
+    ref: 5c3825863abbd68a99000330
+    name: Ethan Travis
+    username: westernplainsgardener
+  - created_at: '2019-01-11T05:50:34Z'
+    text: 'It’s in the database under the older name Black-winged Stilt. '
+    ref: 5c382eaa3abbd6f51e000987
+    name: Andrew Allen
+    username: andrew_allen
+  - created_at: '2019-01-11T09:55:34Z'
+    text: Taxonomy doesn't appear to be agreed. Sometimes considered full species - Himantopus leucocephalus or a subspecies Himantopus himantopus subsp. leucocephalus.
+    ref: 5c3868163abbd64ad30000ab
+    name: David Francis
+    username: david_francis
+  - created_at: '2019-01-11T09:56:04Z'
+    text: <em>Himantopus himantopus s.l.</em> species id suggested
+    ref: 5c3868343abbd6034c0002e9
+    name: David Francis
+    username: david_francis

@@ -1,0 +1,35 @@
+id:
+  - Anas superciliosa
+created_at: '2016-01-27T05:50:10Z'
+datetime: '2015-10-14T11:33:17+10:00'
+description: On the Wimmera River at Horsham
+elevation: 134.8
+latitude: -36.711922
+location_name: 'Horsham VIC 3400, Australia'
+longitude: 142.205065
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-01-27T23:11:43Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-10-14T11:33:17Z'
+    height: 1878
+    width: 2779
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56a85a49ed2a891f76000042.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a85a49ed2a891f76000042.JPG'
+tags:
+  - bird
+comments:
+  - created_at: '2016-01-27T07:34:42Z'
+    text: An excellent photo of a commonly overlooked bird.
+    ref: 56a87312ed2a89e31b000225
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2016-01-27T23:12:51Z'
+    text: Presumably a mated pair with the male in front (more "domed" head shape?)
+    ref: 56a94ef3ed2a8975f50000ae
+    name: David Francis
+    username: david_francis
+collections:
+  - flora_and_fauna_of_the_wimmera

@@ -1,0 +1,35 @@
+id:
+  - name: Podalonia tydei suspiciosa
+    by: david_francis
+created_at: '2017-02-01T11:40:17Z'
+datetime: '2017-01-22T14:51:38+10:00'
+description: Podalonia tydei suspiciosa?
+elevation: 31.7
+latitude: -38.684071
+location_name: 'Grey River VIC 3234, Australia'
+longitude: 143.838401
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-02-03T01:44:08Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-22T14:51:38Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5891c7f0ed2a892daf000384.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5891c7f0ed2a892daf000384.jpg'
+  - datetime: '2017-01-22T14:52:17Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5891c7f6ed2a89b71800036e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5891c7f6ed2a89b71800036e.jpg'
+comments:
+  - created_at: '2017-02-01T12:01:54Z'
+    text: Yes Thomas - a good match. Species available in NS database.
+    ref: 5891ce32ed2a89e08e00006c
+    name: David Francis
+    username: david_francis
+collections:
+  - grey_river

@@ -1,0 +1,46 @@
+id:
+  - name: Patersonia fragilis
+    by: david_francis
+created_at: '2016-01-17T02:42:36Z'
+datetime: '2015-11-01T09:28:53+10:00'
+description: Probably a very common purple flower...
+latitude: -38.910408
+longitude: 146.364914
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-01-17T04:25:44Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-11-01T09:28:53Z'
+    height: 3024
+    width: 4032
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5698f6b8ed2a89b31c000005.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5698f6b8ed2a89b31c000005.jpg'
+  - datetime: '2015-11-01T09:28:47Z'
+    height: 3024
+    width: 4032
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5698f6eded2a89b31c000007.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5698f6eded2a89b31c000007.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2016-01-17T04:23:29Z'
+    text: Patersonia fragilis - inflorescence (flower stems)  shorter than the leaves; bracts green to pale brown. (Rules out the other possibility - P. occidentalis).
+    ref: 569b1741ed2a891866000020
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-01-17T04:25:00Z'
+    text: 'A beautiful little flower widepread in coastal heaths, Grampians.'
+    ref: 569b179ced2a891866000022
+    name: David Francis
+    username: david_francis
+  - replying_to: 569b1741ed2a891866000020
+    created_at: '2016-01-17T04:33:01Z'
+    text: 'Excellent, thanks for the id and extra info'
+    ref: 569b197ded2a891498000001
+    name: 'Reilly '
+    username: reilly
+collections:
+  - wilsons_prom_np_plants

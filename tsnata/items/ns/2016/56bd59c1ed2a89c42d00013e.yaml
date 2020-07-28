@@ -1,0 +1,40 @@
+id:
+  - Acrocephalus stentoreus
+created_at: '2016-02-12T04:12:22Z'
+datetime: '2016-02-11T14:28:04+10:00'
+elevation: 3.2
+latitude: -38.010412
+location_name: 'Point Wilson VIC 3212, Australia'
+longitude: 144.574322
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-02-12T07:41:37Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-02-11T14:28:04Z'
+    height: 1500
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56bd59cbed2a893b01000007.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56bd59cbed2a893b01000007.jpg'
+comments:
+  - created_at: '2016-02-12T05:42:14Z'
+    text: 'My books call it Australian Reed Warbler, Acrocephalus australis. Pauline McCarthy'
+    ref: 56bd70b6ed2a89c42d00014c
+    name: Pauline McCarthy
+    username: pauline
+  - created_at: '2016-02-12T05:42:59Z'
+    text: Good photo Thomas
+    ref: 56bd70e3ed2a89c42d00014e
+    name: Pauline McCarthy
+    username: pauline
+  - replying_to: 56bd70e3ed2a89c42d00014e
+    created_at: '2016-02-12T07:43:32Z'
+    text: 'Thanks, Pauline. I should have recognized it. They are regular visitor to Newell''s Paddock in Footscray.'
+    ref: 56bd8d24ed2a89c42d000166
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - birds_of_the_western_treatment_plant_werribee

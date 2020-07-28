@@ -1,0 +1,41 @@
+id:
+  - Nambouria spp.
+created_at: '2015-03-06T07:51:52Z'
+datetime: '2011-04-16T01:30:46+10:00'
+description: 'The parasitic wasp called Nambouria xanthops has formed this rooster comb gall.  http://www.nzffa.org.nz/farm-forestry-model/the-essentials/forest-health-pests-and-diseases/Pests/Nambouria-xanthops '
+elevation: 63
+latitude: -37.803231
+location_name: 'Box Hill North VIC 3129, Australia'
+longitude: 145.123887
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2018-08-03T02:21:16Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-04-16T01:30:46Z'
+    height: 1205
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54f95c97ed2a89097e0004e2.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f95c97ed2a89097e0004e2.JPG'
+  - datetime: '2011-04-16T01:30:35Z'
+    height: 1202
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54f95c97ed2a89097e0004e3.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f95c97ed2a89097e0004e3.JPG'
+tags:
+  - galls
+comments:
+  - created_at: '2015-03-06T10:56:46Z'
+    text: "Hi Martin. I've added Nambouria spp. Haven't been able to find the name N. xanthops on any Australian directory, but I'll keep trying. Perhaps you can point me in the right direction.\r\nCheers. Chris."
+    ref: 54f987eeed2a89097e000544
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 54f987eeed2a89097e000544
+    created_at: '2015-03-06T13:04:09Z'
+    text: "Chris.  It seems from ALA that there is only one species.   They have three sightings of Nambouria, one of which is mine.  http://bie.ala.org.au/species/urn:lsid:biodiversity.org.au:afd.taxon:363b1d9e-1688-4de8-80b5-9a90420f6472#tab_classification \r\nMy species name came from here, and this is supposed to originate from Australia.  http://onlinelibrary.wiley.com/doi/10.1046/j.1440-6055.2002.00257.x/abstract;jsessionid=6DAF11C127AFF430F2ED2906408C9648.d03t02 \r\nWith this uncertainty, I do not think we can assign a a species name.  "
+    ref: 54f9a5c9ed2a89097e0005d5
+    name: Martin Lagerwey
+    username: martinl
+collections:
+  - galls_of_victoria

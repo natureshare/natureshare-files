@@ -1,0 +1,29 @@
+id:
+  - Hymenoscyphus spp.
+created_at: '2018-06-24T03:42:07Z'
+datetime: '2017-05-17T13:12:00+10:00'
+description: 'This unnamed species is listed in Gates & Ratkowsky - A Field Guide to Tasmanian Fungi as Hymenoscyphus sp. "white disc bruising orange", which you can see on the second image after I damaged one specimen.'
+elevation: 248.4
+latitude: -38.754662
+location_name: 'Cape Otway VIC 3233, Australia'
+longitude: 143.555597
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-06-24T03:42:31Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-05-17T13:12:00Z'
+    height: 1848
+    width: 2556
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b2f113ded2a89c6aa000007.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2f113ded2a89c6aa000007.jpg'
+  - datetime: '2017-05-17T13:12:19Z'
+    height: 2004
+    width: 2910
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b2f113bed2a89280700000d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2f113bed2a89280700000d.jpg'
+collections:
+  - otway_ranges_-_fungi

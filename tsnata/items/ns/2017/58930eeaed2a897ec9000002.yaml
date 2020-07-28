@@ -1,0 +1,29 @@
+id:
+  - name: Calliphoridae spp.
+    by: david_francis
+created_at: '2017-02-02T10:55:40Z'
+datetime: '2017-01-24T09:30:45+10:00'
+elevation: 31
+latitude: -38.684015
+location_name: 'Grey River VIC 3234, Australia'
+longitude: 143.838449
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-02-03T04:36:26Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-24T09:30:45Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58930f09ed2a892daf000388.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58930f09ed2a892daf000388.jpg'
+comments:
+  - created_at: '2017-02-03T04:56:36Z'
+    text: ' "Kinks" in wing vein resulting in veins more or less parallel to trailing edge of wing - diagnostic for Calliphoridae. '
+    ref: 58940d84ed2a89d10f0026cf
+    name: David Francis
+    username: david_francis
+collections:
+  - grey_river

@@ -1,0 +1,56 @@
+id:
+  - name: Eriococcidae spp.
+    by: david_francis
+  - name: Apiomorpha spp.
+    by: argybee
+created_at: '2012-08-15T21:49:15Z'
+datetime: '2011-02-18T23:23:04+10:00'
+description: 'This gall forming scale bug (Apiomorpha munita, family = Eriococcidae) produces a chemical stimulant causing the plant to grow a protective cage.  The smaller posterior structures are (empty) male galls.  The dissection shows the adult female prisoner with reduced wings, legs, antennae etc.  '
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-03-06T01:53:37Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-02-18T23:23:04Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39863e35eb12984012ed9.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012ed9.jpg'
+  - datetime: '2011-02-18T23:33:57Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39863e35eb12984012eda.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012eda.jpg'
+  - datetime: '2011-02-18T23:37:13Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39863e35eb12984012edb.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012edb.jpg'
+tags:
+  - scale-insect
+comments:
+  - created_at: '2015-03-05T10:43:26Z'
+    text: Apiomorpha munita ?
+    ref: 54f8334eed2a89097e000398
+    name: Mark Ridgway
+    username: argybee
+  - replying_to: 54f8334eed2a89097e000398
+    created_at: '2015-03-05T13:01:34Z'
+    text: "Mark, that is bound to be right.  I used the name eriococcidae which is the family name years ago before I understood what I was talking about.  You are welcome to add the correct name.  Here is a link to Lynn Cook  whom I am certain that you know of, and her slideshow of 40 images of the species in this genus which you might not have found yet ... a great insight into her work.   \r\nhttp://www.lyncook.org/Lyn_Cook/Apiomorpha.html "
+    ref: 54f853aeed2a89097e0003de
+    name: Martin Lagerwey
+    username: martinl
+  - replying_to: 54f853aeed2a89097e0003de
+    created_at: '2015-03-06T00:46:53Z'
+    text: Yes I wish her book was as comprehensive as her website.
+    ref: 54f8f8fded2a89097e000441
+    name: Mark Ridgway
+    username: argybee
+  - replying_to: 54f853aeed2a89097e0003de
+    created_at: '2015-03-06T00:50:43Z'
+    text: ps.. 'munita' not 'numita' you old tangle-fingers
+    ref: 54f8f9e3ed2a89097e000443
+    name: Mark Ridgway
+    username: argybee
+  - created_at: '2015-03-06T01:55:36Z'
+    text: 'Thanks Mark, I''ve corrected that.  There''s too many words in our language.  Hey, you calling me old?     :)'
+    ref: 54f90918ed2a89097e000458
+    name: Martin Lagerwey
+    username: martinl
+collections:
+  - galls_of_victoria

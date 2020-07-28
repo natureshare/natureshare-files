@@ -1,0 +1,30 @@
+id:
+  - name: Aphelocephala leucopsis
+    by: lconole
+created_at: '2017-01-03T11:24:17Z'
+datetime: '2017-01-02T19:31:20+10:00'
+elevation: 180.8
+latitude: -36.457524
+location_name: 'Glenalbyn VIC 3517, Australia'
+longitude: 143.772482
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-01-03T11:24:17Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-02T19:31:20Z'
+    height: 1203
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/586b86dfed2a89b7180002b1.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/586b86dfed2a89b7180002b1.JPG'
+comments:
+  - created_at: '2017-01-03T23:19:58Z'
+    text: <em>Aphelocephala leucopsis</em> species id suggested
+    ref: 586c319eed2a89f464000452
+    name: Lawrie Conole
+    username: lconole
+collections:
+  - montana

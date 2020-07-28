@@ -1,0 +1,30 @@
+id:
+  - Rhuma sp. (3)
+created_at: '2014-10-17T09:34:43Z'
+datetime: '2014-10-12T21:21:53+10:00'
+description: Female and male of same species at the moth sheet.
+latitude: -37.806588
+location_name: 'Balliang VIC, Australia'
+longitude: 144.296933
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-10-17T09:36:09Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-12T21:21:53Z'
+    height: 1974
+    width: 1806
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5440e2b2e35eb184d5000415.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5440e2b2e35eb184d5000415.JPG'
+  - datetime: '2014-10-12T21:31:15Z'
+    height: 1752
+    width: 2152
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5440e2b2e35eb184d5000416.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5440e2b2e35eb184d5000416.JPG'
+tags:
+  - female
+  - male
+  - moth
+collections:
+  - brisbane_ranges_moths

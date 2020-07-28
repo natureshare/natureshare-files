@@ -1,0 +1,53 @@
+id:
+  - name: Australiphthiria spp.
+    by: david_francis
+created_at: '2016-11-09T10:52:51Z'
+datetime: '2016-11-06T09:13:03+10:00'
+description: Unusual fly on a flower stem.
+elevation: 221.8
+latitude: -36.785651
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.376546
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-11-09T13:28:10Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-11-06T09:13:03Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5822ff0ced2a892daf0001df.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5822ff0ced2a892daf0001df.JPG'
+tags:
+  - adult
+comments:
+  - created_at: '2016-11-09T13:49:58Z'
+    text: 'Looking forward to a name on this one. Very nice. Pointy at both ends. :) maybe Bombyliidae; Comptosia sp ??'
+    ref: 58232986ed2a897480002faf
+    name: Mark Ridgway
+    username: argybee
+  - created_at: '2016-11-10T06:09:29Z'
+    text: 'see https://www.flickr.com/photos/31031835@N08/5233699213/'
+    ref: 58240f19ed2a8974800030e6
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-11-10T06:15:14Z'
+    text: 'Yes, an unusual tiny bee fly (family Bombyliidae0, Australiphthiria spp., probably Australiphthiria hilaris, (J.Tann)'
+    ref: 58241072ed2a8974800030ea
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-11-10T07:08:15Z'
+    text: <em>Australiphthiria spp.</em> species id suggested
+    ref: 58241cdfed2a89748000310d
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-11-11T23:34:20Z'
+    text: 'Excellent :)'
+    ref: 5826557ced2a8974800034c4
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - wildlife_of_junortoun

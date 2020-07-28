@@ -1,0 +1,41 @@
+id:
+  - Aleucosia calophthalma
+created_at: '2015-12-04T12:57:41Z'
+datetime: '2015-10-23T14:03:18+10:00'
+description: A medium-sized bee-fly with slender narrow wings that were mostly clear. The leading edges of the wings were dark with the inner margins being thrown into waves. The abdomen was longer than in most other bee-flies.
+elevation: 96.2
+latitude: -38.172532
+location_name: 'Langwarrin VIC 3910, Australia'
+longitude: 145.17898
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-12-05T10:02:14Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-10-23T14:03:18Z'
+    height: 1200
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56618cdded2a899c63000280.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56618cdded2a899c63000280.jpg'
+  - datetime: '2015-10-23T14:02:43Z'
+    height: 1200
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56618ce5ed2a899c63000281.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56618ce5ed2a899c63000281.jpg'
+tags:
+  - bee-fly
+comments:
+  - created_at: '2015-12-05T01:23:32Z'
+    text: 'Aleucosia calophthalma added. You have captured the intricate wing patterns very well, Leuba.'
+    ref: 56623c94ed2a89b5f5000135
+    name: David Francis
+    username: david_francis
+  - replying_to: 56623c94ed2a89b5f5000135
+    created_at: '2015-12-05T09:52:01Z'
+    text: 'Thank you David. Gorgeous wing patterns, aren''t they ?!'
+    ref: 5662b3c1ed2a89b5f5000184
+    name: Leuba Ridgway
+    username: leuba
+collections:
+  - dandenong_ranges_diptera

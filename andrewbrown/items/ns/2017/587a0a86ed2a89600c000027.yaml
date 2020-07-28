@@ -1,0 +1,48 @@
+id:
+  - Doratifera casta
+created_at: '2017-01-14T12:18:20Z'
+datetime: '2017-01-12T17:48:56+10:00'
+description: I thought there were 2 ages of the same caterpillars here but they may be 2 different varieties? 4 spotted cup-moths i think although not as colourful as some.
+elevation: 204.8
+latitude: -36.77842
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381503
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-01-16T05:27:00Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-01-12T17:48:56Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/587a0abbed2a89d73e0002d5.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/587a0abbed2a89d73e0002d5.jpeg'
+tags:
+  - caterpillars-green
+comments:
+  - created_at: '2017-01-15T02:07:45Z'
+    text: 'More like Doratifera casta (Black slug cup moth). See http://www.bowerbird.org.au/observations/56703'
+    ref: 587ad971ed2a89f464002533
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-15T06:46:41Z'
+    text: 'see http://lepidoptera.butterflyhouse.com.au/lima/casta.html'
+    ref: 587b1ad1ed2a89f4640025fd
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-16T05:28:50Z'
+    text: Maybe the adults photographed earlier were this species not D. quadriguttata ?
+    ref: 587c5a12ed2a89f4640028d7
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 587c5a12ed2a89f4640028d7
+    created_at: '2017-01-16T06:08:11Z'
+    text: 'Yes, I think the same species, but not adult. Rhe adults are black and white.'
+    ref: 587c634bed2a89f464002918
+    name: David Francis
+    username: david_francis
+collections:
+  - wildlife_of_junortoun
+  - moths_of_junortoun
+  - moths_of_central_victoria

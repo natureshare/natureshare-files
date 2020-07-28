@@ -1,0 +1,49 @@
+id:
+  - name: Sceliphron laetum
+    by: david_francis
+created_at: '2017-04-22T12:41:03Z'
+datetime: '2017-04-22T15:11:21+10:00'
+description: a very large spider wasp
+elevation: 273.9
+latitude: -37.526048
+location_name: 'Sunbury VIC 3429, Australia'
+longitude: 144.768615
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-04-22T12:41:03Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-04-22T15:11:21Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58fb4d8ded2a89a81f0000fc.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58fb4d8ded2a89a81f0000fc.JPG'
+  - datetime: '2017-04-22T15:10:23Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58fb4de9ed2a894410000102.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58fb4de9ed2a894410000102.JPG'
+  - datetime: '2017-04-22T15:11:34Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58fb4defed2a89e5480000fc.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58fb4defed2a89e5480000fc.JPG'
+comments:
+  - created_at: '2017-04-23T00:57:39Z'
+    text: <em>Sceliphron laetum</em> species id suggested
+    ref: 58fbfc03ed2a89f3bf000d16
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-04-23T00:58:42Z'
+    text: Collecting mud?
+    ref: 58fbfc42ed2a89f3bf000d17
+    name: David Francis
+    username: david_francis
+  - replying_to: 58fbfc42ed2a89f3bf000d17
+    created_at: '2017-04-23T13:38:33Z'
+    text: 'hello david,no,middle photo has it drinking out of a rock pool,for quite awhile..always scouring crevices in the basalt [?] rocks at the creek.looking or hunting.'
+    ref: 58fcae59ed2a894c7b000002
+    name: Peter Clark
+    username: emucreek

@@ -1,0 +1,44 @@
+id:
+  - Paropsisterna spp.
+created_at: '2015-10-26T10:43:48Z'
+datetime: '2015-10-25T11:11:45+10:00'
+description: "A large paropsid leaf beetle (15mm length) which looked fully black to the eye but the flash has revealed a set of full length, deep red lines. \r\nNo dents were noticed on or around the pronotum. \r\nI have always found these at night so suspect they hide in daytime maybe under bark.  "
+elevation: 157.2
+latitude: -37.892382
+location_name: 'Upper Ferntree Gully VIC 3156, Australia'
+longitude: 145.31158
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-11-01T10:48:16Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-10-25T11:11:45Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/562e001fed2a899c63000054.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/562e001fed2a899c63000054.JPG'
+  - datetime: '2015-10-25T11:11:59Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/562e0027ed2a899c63000055.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/562e0027ed2a899c63000055.JPG'
+comments:
+  - created_at: '2015-10-28T10:15:10Z'
+    text: G'day Mark. Have added this name. Good spotting.
+    ref: 5630a02eed2a89e56e000028
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2015-11-01T07:57:41Z'
+    text: "Mark, I can clearly see the foveae by its reflected light in image 2.  \r\nYour description is consistent with both nigerrima and morio.  I have added one of each to assist your comparison.  The most reliable differentiation is in the striae and not the color.   I cannot determine which species you have  because they need really good images to determine but are so darned hard to take.   "
+    ref: 5635c5f5ed2a89e56e0001fe
+    name: Martin Lagerwey
+    username: martinl
+  - replying_to: 5635c5f5ed2a89e56e0001fe
+    created_at: '2015-11-01T10:46:32Z'
+    text: Thanks Martin.
+    ref: 5635ed88ed2a89e56e0002be
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_coleoptera

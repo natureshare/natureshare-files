@@ -1,0 +1,52 @@
+id:
+  - name: Yoyetta aaede
+    by: david_francis
+created_at: '2017-02-02T08:48:15Z'
+datetime: '2017-01-17T16:22:46+10:00'
+description: 'Looks like Bower Bird observation (http://www.bowerbird.org.au/observations/39328), which was identified as Pauropsalta mneme by Ken Walker, except for the red eyes as pointed by David.'
+elevation: 27.1
+latitude: -38.684089
+location_name: 'Grey River VIC 3234, Australia'
+longitude: 143.838649
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-02-03T04:14:13Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-01-17T16:22:46Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5892f062ed2a89b3fe00036d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5892f062ed2a89b3fe00036d.jpg'
+  - datetime: '2017-01-17T16:24:09Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5892f05ded2a892daf000385.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5892f05ded2a892daf000385.jpg'
+comments:
+  - created_at: '2017-02-02T10:13:08Z'
+    text: 'It does look the same except yours has red eyes, not black as in Pauropsalta mneme. '
+    ref: 58930634ed2a89d10f00245c
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-03T00:33:03Z'
+    text: 'See: http://dr-pop.net/aaede-720.htm'
+    ref: 5893cfbfed2a89d10f00260d
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-03T00:33:23Z'
+    text: <em>Yoyetta aaede</em> species id suggested
+    ref: 5893cfd3ed2a89d10f002610
+    name: David Francis
+    username: david_francis
+  - replying_to: 5893cfd3ed2a89d10f002610
+    created_at: '2017-02-03T04:12:33Z'
+    text: 'Thanks, David. dr-pop.net website definitely has very good informations about cicada family.'
+    ref: 58940331ed2a89f8eb000001
+    name: Thomas Nataprawira
+    username: tsnata
+collections:
+  - grey_river

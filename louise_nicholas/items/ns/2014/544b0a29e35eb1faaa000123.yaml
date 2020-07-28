@@ -1,0 +1,29 @@
+created_at: '2014-10-25T02:25:45Z'
+datetime: '2013-12-18T12:07:46+10:00'
+latitude: -37.290561
+location_name: 'Clunes VIC 3370, Australia'
+longitude: 143.752972
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-10-25T02:26:24Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2013-12-18T12:07:46Z'
+    height: 3264
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/544b0a29e35eb1faaa000122.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544b0a29e35eb1faaa000122.jpg'
+comments:
+  - created_at: '2014-10-25T02:48:42Z'
+    text: Possibly a Veronica spp.. Could be flowering now?
+    ref: 544b0f8ae35eb1faaa000130
+    name: Russell Best
+    username: russell
+  - created_at: '2014-11-17T10:38:38Z'
+    text: 'I was thinking Malvaceae. Leaves were telling me Modiola, but the developing fruit is unusual. Be worth a look when in flower next.'
+    ref: 5469d02ee35eb140c700002c
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - clunes_finchesgully_flora_and_fauna

@@ -1,0 +1,37 @@
+id:
+  - Disa bracteata
+created_at: '2016-11-15T08:46:59Z'
+datetime: '2016-11-14T11:03:48+10:00'
+description: Not great finding this at Bald Hill Nature Reserve. Going back in a couple of days to dig it out.
+latitude: -37.234414
+longitude: 144.503114
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2016-11-15T08:46:59Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-11-14T11:03:48Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/582acb55ed2a89b7180001c2.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/582acb55ed2a89b7180001c2.JPG'
+comments:
+  - created_at: '2016-11-15T08:56:37Z'
+    text: 'That''s a shame. We have it at Macedon and Riddells Creek. I suppose it will end up everywhere as its seed is like dust and carried on the wind, on clothing etc. '
+    ref: 582acdc5ed2a89b099000008
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-11-15T09:03:42Z'
+    text: 'Yeah, I was wondering if I should tell the Council as it''s not listed in the management plan?'
+    ref: 582acf6eed2a897480003d85
+    name: mel pritchard
+    username: meldotp
+  - replying_to: 582acf6eed2a897480003d85
+    created_at: '2016-11-15T09:10:33Z'
+    text: 'Yes, tell the Council - they should know. We have reduced its numbers in one spot at Riddells Creek, but impossible to eradicate completely.'
+    ref: 582ad109ed2a897480003d88
+    name: David Francis
+    username: david_francis

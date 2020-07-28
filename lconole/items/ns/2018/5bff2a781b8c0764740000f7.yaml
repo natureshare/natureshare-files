@@ -1,0 +1,55 @@
+id:
+  - Calotis spp.
+created_at: '2018-11-28T23:53:28Z'
+datetime: '2018-11-26T18:54:10+10:00'
+latitude: -37.289669
+longitude: 144.397981
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-11-29T09:36:32Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-11-26T18:54:10Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_54f272c6ed2a8945a1000240/2018-11-29/1543449177/IMG_20181126_185410_crop.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_54f272c6ed2a8945a1000240/2018-11-29/1543449177/IMG_20181126_185410_crop.jpg'
+  - datetime: '2018-11-29T19:59:54Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_54f272c6ed2a8945a1000240/2018-11-29/1543484070/P1050917.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_54f272c6ed2a8945a1000240/2018-11-29/1543484070/P1050917.jpg'
+  - datetime: '2018-11-29T19:56:38Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_54f272c6ed2a8945a1000240/2018-11-29/1543484137/P1050906.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_54f272c6ed2a8945a1000240/2018-11-29/1543484137/P1050906.jpg'
+comments:
+  - created_at: '2018-11-28T23:57:43Z'
+    text: 'I think this is a Calotis, possibly C. scabiosifolia var. integrifolia, but that seems to be a very rare beast in this part of Victoria. I will go back and try for a proper photo - this is a crop from a quick mobile phone snap to remind me to look.'
+    ref: 5bff2b771b8c0750cf0000d2
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2018-11-29T00:24:01Z'
+    text: <em>Calotis spp.</em> species id suggested
+    ref: 5bff31a11b8c0709ca000141
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2018-11-29T01:01:29Z'
+    text: 'Hi, lower quality photos, especially those with GPS locations, are extremely useful to NS and ALA for plotting distributions and so forth. A better photo later is also welcome for identification purposes but plz don’t ever feel it is required. Thanks!'
+    ref: 5bff3a691b8c070fb00000fd
+    name: 'Reilly '
+    username: reilly
+  - replying_to: 5bff3a691b8c070fb00000fd
+    created_at: '2018-11-29T04:10:03Z'
+    text: 'Hi Reilly. Yes I agree. I''ve been logging records with geospatial data since computers were operated with punch cards, but I''m also a photographer, so I have image quality standards. :-)'
+    ref: 5bff669b1b8c07013500012d
+    name: Lawrie Conole
+    username: lconole
+  - replying_to: 5bff669b1b8c07013500012d
+    created_at: '2018-11-29T05:40:51Z'
+    text: If you might be interested in meeting up at some point I would very much like to learn more about that history and hear any suggestions you may have for how NS could include more data-focused features?
+    ref: 5bff7be31b8c078ade00014b
+    name: 'Reilly '
+    username: reilly
+  - replying_to: 5bff2b771b8c0750cf0000d2
+    created_at: '2018-11-29T09:37:35Z'
+    text: 'Having had a closer look at the leaves I''m back to Calotis sp. '
+    ref: 5bffb35f1b8c074fd6000123
+    name: Lawrie Conole
+    username: lconole

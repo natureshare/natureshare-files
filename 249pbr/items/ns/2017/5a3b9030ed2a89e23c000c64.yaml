@@ -1,0 +1,28 @@
+id:
+  - Amelora demistis
+created_at: '2017-12-21T12:29:13Z'
+datetime: '2017-03-25T21:04:26+10:00'
+description: Amelora demistis - please add to database if confirmed
+latitude: -37.224434
+longitude: 144.309678
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-12-22T21:46:18Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-03-25T21:04:26Z'
+    height: 1500
+    width: 2004
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a3b9041ed2a89298f000041.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a3b9041ed2a89298f000041.jpg'
+comments:
+  - created_at: '2017-12-22T02:39:14Z'
+    text: Confirmed and species added.
+    ref: 5a3c7052ed2a89e23c000f15
+    name: Cathy Powers
+    username: koolah
+collections:
+  - drummond_nearby_forests_-_moths

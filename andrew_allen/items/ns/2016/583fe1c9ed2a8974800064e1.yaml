@@ -1,0 +1,35 @@
+id:
+  - Helicoverpa punctigera
+created_at: '2016-12-01T08:40:50Z'
+datetime: '2016-10-25T21:00:00+10:00'
+latitude: -37.733361
+longitude: 144.824379
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-12-01T09:26:37Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 2725
+    width: 4087
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/583fe26fed2a892daf000238.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/583fe26fed2a892daf000238.jpg'
+  - height: 3377
+    width: 5065
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/583fe1dbed2a892daf000237.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/583fe1dbed2a892daf000237.jpg'
+comments:
+  - created_at: '2016-12-01T09:24:19Z'
+    text: This is Helicoverpa punctigera
+    ref: 583fec43ed2a89748000650d
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2016-12-01T09:28:34Z'
+    text: Thanks!
+    ref: 583fed42ed2a8941d7000022
+    name: Andrew Allen
+    username: andrew_allen
+collections:
+  - moths_of_metropolitan_melbourne

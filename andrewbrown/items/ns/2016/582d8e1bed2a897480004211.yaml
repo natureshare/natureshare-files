@@ -1,0 +1,58 @@
+id:
+  - name: Spergularia rubra s.l.
+    by: david_francis
+created_at: '2016-11-17T11:15:59Z'
+datetime: '2016-11-10T15:58:22+10:00'
+description: 'Small low growing, annual, herbaceous plant with tiny pink flowers.'
+elevation: 211.4
+latitude: -36.775125
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.35718
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-11-17T22:27:11Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-11-10T15:58:22Z'
+    height: 2448
+    width: 2448
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/582d8e25ed2a89b3fe0001e0.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/582d8e25ed2a89b3fe0001e0.JPG'
+tags:
+  - annual
+  - flowers-pink
+  - flowers-small
+  - habit-herb
+  - plant-small
+comments:
+  - created_at: '2016-11-17T11:39:24Z'
+    text: Hi Andrew. Do you have photos of the whole plant and the leaves?
+    ref: 582d96eced2a89de5700027b
+    name: David Francis
+    username: david_francis
+  - replying_to: 582d96eced2a89de5700027b
+    created_at: '2016-11-17T11:45:07Z'
+    text: 'Unfortunately, no I don''t but it had small leaves on single stems, probably less than 10cm coming from the root.'
+    ref: 582d9843ed2a89748000425c
+    name: Andrew Brown
+    username: andrewbrown
+  - created_at: '2016-11-17T11:50:21Z'
+    text: <em>Spergularia spp.</em> species id suggested
+    ref: 582d997ded2a897480004264
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-11-17T11:50:39Z'
+    text: 'Compare: https://natureshare.org.au/observations/55f55fbfed2a89b06c0007b2?species=Spergularia+rubra+s.l.'
+    ref: 582d998fed2a897480004265
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-11-17T11:54:29Z'
+    text: 'Looks like it David, well done!'
+    ref: 582d9a75ed2a897480004269
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - junortoun_flora

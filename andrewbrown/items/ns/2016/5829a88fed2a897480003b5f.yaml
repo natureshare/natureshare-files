@@ -1,0 +1,44 @@
+id:
+  - name: Ellipsidion australe
+    by: david_francis
+created_at: '2016-11-14T12:35:15Z'
+datetime: '2016-11-11T17:20:55+10:00'
+description: Beautifully marked tiny cockroach approx 1cm.
+elevation: 204.8
+latitude: -36.77842
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381503
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-11-17T02:25:30Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-11-11T17:20:55Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5829a89ded2a89b3fe0001d8.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5829a89ded2a89b3fe0001d8.JPG'
+tags:
+  - cockroach-small
+  - nymph
+comments:
+  - created_at: '2016-11-15T06:15:02Z'
+    text: <em>Ellipsidion spp.</em> species id suggested
+    ref: 582aa7e6ed2a897480003d35
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-11-15T06:16:27Z'
+    text: Nymph. Possibly E. australe
+    ref: 582aa83bed2a897480003d36
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-11-15T08:42:46Z'
+    text: Previously named E. australis
+    ref: 582aca86ed2a897480003d79
+    name: David Francis
+    username: david_francis
+collections:
+  - wildlife_of_junortoun

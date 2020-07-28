@@ -1,0 +1,28 @@
+id:
+  - Araneae spp.
+created_at: '2014-09-06T06:49:00Z'
+datetime: '2014-09-03T12:45:26+10:00'
+description: 'This spider was captured into this container by school children, studied, then released.'
+latitude: -38.125137
+location_name: 'The Heart VIC 3851, Australia'
+longitude: 147.211299
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-09-06T06:50:02Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-03T12:45:26Z'
+    height: 1961
+    width: 2924
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/540aae5be35eb1ebc90000e6.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/540aae5be35eb1ebc90000e6.JPG'
+  - datetime: '2014-09-03T12:44:58Z'
+    height: 1320
+    width: 1988
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/540aae5be35eb1ebc90000e7.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/540aae5be35eb1ebc90000e7.JPG'
+tags:
+  - spider
+collections:
+  - wildlife_of_heart_morass

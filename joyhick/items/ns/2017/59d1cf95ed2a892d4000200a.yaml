@@ -1,0 +1,32 @@
+id:
+  - name: Hibbertia spp.
+    by: andrewbrown
+created_at: '2017-10-02T06:28:22Z'
+datetime: '2017-10-02T14:53:55+10:00'
+latitude: -36.394992
+longitude: 143.654922
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2017-10-02T06:28:22Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-10-02T14:53:55Z'
+    height: 2048
+    width: 1536
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59d1cf91ed2a8939840003a4.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59d1cf91ed2a8939840003a4.jpeg'
+  - datetime: '2017-10-02T14:53:38Z'
+    height: 2048
+    width: 1536
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59d1cf9fed2a8939840003a5.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59d1cf9fed2a8939840003a5.jpeg'
+comments:
+  - created_at: '2017-10-02T10:25:54Z'
+    text: <em>Hibbertia spp.</em> species id suggested
+    ref: 59d21432ed2a892d40002190
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - wedderburn_josephine_drive

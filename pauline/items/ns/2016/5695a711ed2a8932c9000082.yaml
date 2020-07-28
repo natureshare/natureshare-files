@@ -1,0 +1,32 @@
+id:
+  - Notechis scutatus
+created_at: '2016-01-13T01:24:46Z'
+datetime: '2015-12-31T17:26:45+10:00'
+latitude: -38.319267
+longitude: 142.360628
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-01-14T04:34:38Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-12-31T17:26:45Z'
+    height: 2087
+    width: 2942
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5695a71ced2a890f7e00003c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5695a71ced2a890f7e00003c.JPG'
+tags:
+  - reptile
+comments:
+  - created_at: '2016-01-13T08:31:45Z'
+    text: "Hi Pauline,\r\nI think this snake is actually a Tiger Snake. Have a look at this observation for comparison. Both species are very variable. https://natureshare.org.au/observations/53b3985ae35eb12984010c6e?display=thumbnails&species=Notechis+scutatus\r\n"
+    ref: 56960b71ed2a89ce6e000024
+    name: James Booth
+    username: jamesbooth
+  - created_at: '2016-01-13T10:11:19Z'
+    text: 'Thanks James, it had me puzzled. I''m posting 2 more photos of another snake perhaps you can help me with.'
+    ref: 569622c7ed2a8994a3000009
+    name: Pauline McCarthy
+    username: pauline
+collections:
+  - flora_and_fauna_of_tower_hill_reserve

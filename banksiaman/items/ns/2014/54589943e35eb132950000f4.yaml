@@ -1,0 +1,35 @@
+id:
+  - name: Acaena agnipila/ovina complex
+    by: russell
+created_at: '2014-11-04T09:15:47Z'
+datetime: '2014-10-11T14:22:47+10:00'
+elevation: 45.4
+latitude: -38.356381
+location_name: 'Warrnambool VIC 3280, Australia'
+longitude: 142.529292
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-11-04T10:18:40Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-11T14:22:47Z'
+    height: 3139
+    width: 1695
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54589943e35eb132950000f2.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54589943e35eb132950000f2.jpg'
+  - datetime: '2014-10-11T14:19:30Z'
+    height: 4288
+    width: 2848
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54589943e35eb132950000f3.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54589943e35eb132950000f3.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2014-11-04T10:20:31Z'
+    text: A. echinata is (almost) glabrous so it is either ovina or agnipila. Need fruit to ID further.
+    ref: 5458a86fe35eb13295000121
+    name: Russell Best
+    username: russell
+collections:
+  - plants_of_tozer_reserve_near_warrnambool

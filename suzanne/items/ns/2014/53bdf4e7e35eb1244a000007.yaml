@@ -1,0 +1,40 @@
+id:
+  - name: Leioproctus amabilis
+created_at: '2014-07-10T02:05:27Z'
+datetime: '2012-03-04T16:12:19+10:00'
+description: Pictured on an Olearia lanuginosa bush.
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-03-05T06:35:41Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-03-04T16:12:19Z'
+    height: 902
+    width: 1298
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53bdf4e7e35eb1244a000004.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53bdf4e7e35eb1244a000004.jpg'
+  - datetime: '2012-03-04T16:10:36Z'
+    height: 1077
+    width: 1570
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53bdf4e7e35eb1244a000005.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53bdf4e7e35eb1244a000005.jpg'
+  - datetime: '2012-03-04T16:08:17Z'
+    height: 998
+    width: 1432
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53bdf4e7e35eb1244a000006.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53bdf4e7e35eb1244a000006.jpg'
+tags:
+  - bee
+comments:
+  - created_at: '2014-07-10T02:23:13Z'
+    text: Identified by Ken Walker.
+    ref: 53bdf911e35eb1244a00001a
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains

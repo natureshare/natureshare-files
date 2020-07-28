@@ -1,0 +1,55 @@
+id:
+  - name: Cleridae spp.
+    by: david_francis
+created_at: '2017-02-10T00:21:42Z'
+datetime: '2017-02-08T21:22:30+10:00'
+description: '? Blackburniella species'
+elevation: 262.2
+latitude: -37.80656
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.296982
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-02-10T00:21:42Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-02-08T21:23:39Z'
+    height: 2734
+    width: 3006
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/589d06f2ed2a892daf0003b7.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/589d06f2ed2a892daf0003b7.jpg'
+  - datetime: '2017-02-08T21:22:30Z'
+    height: 2206
+    width: 3564
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/589d06c8ed2a892daf0003b6.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/589d06c8ed2a892daf0003b6.jpg'
+tags:
+  - beetle
+  - beetle-hairy
+comments:
+  - created_at: '2017-02-10T01:24:44Z'
+    text: 'Stigmatium sp. also worth investigating. Compare http://www.bowerbird.org.au/observations/17518'
+    ref: 589d165ced2a89d10f003a00
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-14T05:21:46Z'
+    text: <em>Cleridae spp.</em> species id suggested
+    ref: 58a293eaed2a89b576000105
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-14T05:22:36Z'
+    text: Leave as Cleridae spp. while under investigation?
+    ref: 58a2941ced2a89b576000106
+    name: David Francis
+    username: david_francis
+  - replying_to: 58a2941ced2a89b576000106
+    created_at: '2017-02-14T08:09:54Z'
+    text: I am good with that until I get a chance to investigate at Museums Vic.
+    ref: 58a2bb52ed2a89b576000157
+    name: Cathy Powers
+    username: koolah
+collections:
+  - brisbane_ranges_insects

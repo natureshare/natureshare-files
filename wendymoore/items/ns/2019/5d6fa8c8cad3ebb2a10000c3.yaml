@@ -1,0 +1,31 @@
+id:
+  - Epiphyas spp.
+created_at: '2019-09-04T12:06:32Z'
+datetime: '2012-02-16T02:26:23+10:00'
+description: Epiphyas ANICsp4
+elevation: 65.3
+latitude: -37.7383
+location_name: '42 High St, Coburg VIC 3058, Australia'
+longitude: 144.956818
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2019-09-06T05:35:20Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-02-16T02:26:23Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_5c639c983abbd6ed0f00003c/2019-09-04/feb15_12_tort_epiphyas_anicsp4_imgp0911_cropns.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-09-04/feb15_12_tort_epiphyas_anicsp4_imgp0911_cropns.jpeg'
+comments:
+  - created_at: '2019-09-06T01:15:09Z'
+    text: 'Epiphyas spp. added to dataset. '
+    ref: 5d71b31dcad3eb4c5500010d
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2019-09-06T05:35:36Z'
+    text: Thanks Cathy
+    ref: 5d71f028cad3eb4c55000134
+    name: Wendy Moore
+    username: wendymoore
+collections:
+  - coburg_moths

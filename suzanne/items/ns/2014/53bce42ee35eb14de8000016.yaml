@@ -1,0 +1,31 @@
+id:
+  - name: Acyphas spp.
+created_at: '2014-07-09T06:41:50Z'
+datetime: '2012-02-20T16:50:34+10:00'
+description: Small caterpillar.
+elevation: 12.6
+latitude: -38.082021
+location_name: 'Cobains VIC 3851, Australia'
+longitude: 147.086052
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-07-09T06:43:46Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-02-20T16:50:34Z'
+    height: 1158
+    width: 1753
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53bce42ee35eb14de8000015.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53bce42ee35eb14de8000015.jpg'
+tags:
+  - caterpillar
+comments:
+  - created_at: '2014-07-09T06:45:27Z'
+    text: 'This caterpillar was identified by Ken Walker as being Acyphas spp., a White Tussock Moth.'
+    ref: 53bce507e35eb14de800001c
+    name: Suzanne Jones
+    username: suzanne
+collections:
+  - invertebrates_seen_at_145_gibsons_road_cobains
+  - butterflies_moths_seen_at_145_gibsons_road_cobains

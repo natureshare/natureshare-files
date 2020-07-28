@@ -1,0 +1,30 @@
+id:
+  - Scopula rubraria
+created_at: '2019-01-01T00:20:38Z'
+datetime: '2018-12-30T23:38:28+10:00'
+latitude: -37.911163
+longitude: 145.055967
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2019-01-04T07:56:34Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-12-30T23:38:28Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_5c1ed10e3abbd6b7f00000e2/2019-01-01/1546302008/DSCN3783.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c1ed10e3abbd6b7f00000e2/2019-01-01/1546302008/DSCN3783.JPG'
+comments:
+  - created_at: '2019-01-01T02:19:25Z'
+    text: This is Scopula rubraria - See Moths of Victoria Part 3
+    ref: 5c2ace2d3abbd6e03700045d
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5c2ace2d3abbd6e03700045d
+    created_at: '2019-01-01T05:08:06Z'
+    text: Thank you.
+    ref: 5c2af5b63abbd61ed4000407
+    name: Daniel Kurek
+    username: d_kurek
+collections:
+  - moths_of_metropolitan_melbourne
+  - bentleigh_east_-_invertebrates

@@ -1,0 +1,33 @@
+id:
+  - name: Psaltoda moerens
+    by: david_francis
+created_at: '2017-01-24T12:45:34Z'
+datetime: '2017-01-19T13:58:05+10:00'
+description: Large very noisy species of cicada.
+elevation: 183.4
+latitude: -36.782111
+location_name: 'Longlea VIC 3551, Australia'
+longitude: 144.416444
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-01-24T12:45:34Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-01-19T13:58:05Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5885f8bced2a89b71800030f.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5885f8bced2a89b71800030f.jpeg'
+tags:
+  - cicada-grey
+  - cicada-large
+comments:
+  - created_at: '2017-01-27T09:47:12Z'
+    text: <em>Psaltoda moerens</em> species id suggested
+    ref: 588b1720ed2a89d10f000fa1
+    name: David Francis
+    username: david_francis
+collections:
+  - wildlife_of_junortoun

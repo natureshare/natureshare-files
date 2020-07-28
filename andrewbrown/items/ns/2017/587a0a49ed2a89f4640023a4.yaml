@@ -1,0 +1,47 @@
+id:
+  - Holconia spp.
+created_at: '2017-01-14T12:45:54Z'
+datetime: '2017-01-09T08:38:07+10:00'
+description: Large huntsman approx.70-80mm
+elevation: 204.8
+latitude: -36.77842
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381503
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-01-16T05:22:20Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-01-09T08:38:07Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/587a0a77ed2a89b7180002fc.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/587a0a77ed2a89b7180002fc.jpeg'
+tags:
+  - spider-grey
+  - spider-huntsman
+  - spider-large
+comments:
+  - created_at: '2017-01-14T12:46:23Z'
+    text: Not sure of id?
+    ref: 587a1d9fed2a89f4640023da
+    name: Andrew Brown
+    username: andrewbrown
+  - created_at: '2017-01-15T01:49:47Z'
+    text: 'Markings match Holconia findersi, not Holconia immanis. See http://www.arachne.org.au/01_cms/details.asp?ID=2636  If it is flindersi as I think, your obs. would extend its distribution further south than known records in the NW corner of Vic.'
+    ref: 587ad53bed2a89f464002527
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-15T02:00:39Z'
+    text: 'H. flindersi would be out of range here, so it''s more likely H. murrayensis which is very similar in its markings. Perhaps best to leave it as Holconia sp. (spp.) as microscopical examination needed to separate the species.'
+    ref: 587ad7c7ed2a89f464002531
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-01-16T05:23:30Z'
+    text: Thanks David
+    ref: 587c58d2ed2a89f4640028d2
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - wildlife_of_junortoun

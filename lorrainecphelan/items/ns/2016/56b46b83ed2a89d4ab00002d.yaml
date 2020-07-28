@@ -1,0 +1,37 @@
+id:
+  - Exocarpos cupressiformis
+created_at: '2016-02-05T09:35:44Z'
+datetime: '2008-12-29T14:54:11+10:00'
+elevation: 63.3
+latitude: -38.090374
+location_name: 'Heywood VIC 3304, Australia'
+longitude: 141.753726
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-02-05T22:37:55Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2008-12-29T14:54:11Z'
+    height: 770
+    width: 1024
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56b46b89ed2a897bc700005c.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56b46b89ed2a897bc700005c.jpg'
+tags:
+  - flower
+  - fruit
+comments:
+  - created_at: '2016-02-05T10:25:26Z'
+    text: 'Wonderful close up, Lorraine. Clearly shows the "true" fruit (green, with seed inside) which is growing on the swollen end of a stem (yellow "false" fruit). '
+    ref: 56b47896ed2a89d4ab00004d
+    name: David Francis
+    username: david_francis
+  - replying_to: 56b47896ed2a89d4ab00004d
+    created_at: '2016-02-06T03:55:09Z'
+    text: Thanks David.
+    ref: 56b56e9ded2a89fd8400000c
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - homerton_and_milltown

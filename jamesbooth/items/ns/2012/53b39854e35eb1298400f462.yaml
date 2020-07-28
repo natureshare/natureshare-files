@@ -1,0 +1,21 @@
+created_at: '2012-03-20T21:54:05Z'
+datetime: '2012-03-12T11:55:56+10:00'
+latitude: -34.138698
+longitude: 141.337266
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2012-03-20T22:07:58Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-03-12T11:55:56Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39862e35eb12984012b63.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012b63.jpg'
+comments:
+  - created_at: '2014-11-09T11:19:17Z'
+    text: 'It looks like a wren, possibly a Striated Grasswren but can''t tell from the photo.'
+    ref: 545f4db5e35eb13a1b000016
+    name: David Francis
+    username: david_francis
+collections:
+  - neds_corner_birds

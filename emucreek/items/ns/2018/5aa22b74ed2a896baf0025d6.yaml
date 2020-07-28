@@ -1,0 +1,48 @@
+id:
+  - name: Laphangium luteoalbum
+    by: chrisl
+created_at: '2018-03-09T06:36:36Z'
+datetime: '2018-03-09T16:47:56+10:00'
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-03-09T06:41:01Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-03-09T16:47:56Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5aa22b85ed2a8929e7000032.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5aa22b85ed2a8929e7000032.JPG'
+  - datetime: '2018-03-09T16:47:51Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5aa22bd9ed2a89abdd000036.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5aa22bd9ed2a89abdd000036.JPG'
+  - datetime: '2018-03-09T16:47:47Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5aa22c58ed2a8929e7000033.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5aa22c58ed2a8929e7000033.JPG'
+comments:
+  - created_at: '2018-03-09T06:40:56Z'
+    text: 3 pix
+    ref: 5aa22c78ed2a896196000168
+    name: Peter Clark
+    username: emucreek
+  - created_at: '2018-03-15T10:52:02Z'
+    text: <em>Laphangium luteoalbum</em> species id suggested
+    ref: 5aaa5052ed2a896baf0041cb
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2018-03-15T10:55:03Z'
+    text: 'This looks like a fine cluster of Jersey Cudweed, in this database as Laphangium luteoalbum but listed on ALA as Pseudognaphalium luteoalbum. This species has undergone multiple name changes in recent times'
+    ref: 5aaa5107ed2a896baf0041d1
+    name: John Walter
+    username: 249pbr
+  - replying_to: 5aaa5107ed2a896baf0041d1
+    created_at: '2018-03-15T10:58:43Z'
+    text: The Flora of Victoria is currently using Laphangium. Has previously also been Helichrysum. Will it change again?
+    ref: 5aaa51e3ed2a894e47000015
+    name: Chris Lindorff
+    username: chrisl

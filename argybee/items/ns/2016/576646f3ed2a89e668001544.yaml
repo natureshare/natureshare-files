@@ -1,0 +1,35 @@
+id:
+  - Torrendiella eucalypti
+created_at: '2016-06-19T07:23:01Z'
+datetime: '2016-06-18T14:32:05+10:00'
+description: "On a damp acacia leaf in Lysterfield Park.\r\nThis species (in spite of it's name) is an acacia specialist.\r\nSize 0.1 to 1 mm"
+elevation: 112.5
+latitude: -37.942286
+location_name: 'Lysterfield VIC 3156, Australia'
+longitude: 145.311065
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-06-20T01:39:05Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-06-18T14:32:05Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/576646faed2a89211c000265.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/576646faed2a89211c000265.JPG'
+comments:
+  - created_at: '2016-06-19T21:57:02Z'
+    text: So I need to look for this beautiful species on dead acacia leaves?
+    ref: 5767152eed2a89e668001576
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - replying_to: 5767152eed2a89e668001576
+    created_at: '2016-10-08T08:51:25Z'
+    text: "Sorry Lorraine but I've been out of action for a while. Yes.. these are very small and apparently only on acacia in spite of the name. (someone messed up :) )\r\n"
+    ref: 57f8b38ded2a89450f00906b
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_fungi

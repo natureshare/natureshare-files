@@ -1,0 +1,30 @@
+id:
+  - Phyllonorycter messaniella
+created_at: '2019-09-11T13:59:55Z'
+datetime: '2012-02-28T20:47:15+10:00'
+elevation: 65.3
+latitude: -37.7383
+location_name: '42 High St, Coburg VIC 3058, Australia'
+longitude: 144.956818
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2019-09-12T00:18:25Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-02-28T20:47:15Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_5c639c983abbd6ed0f00003c/2019-09-11/feb28_12_tin_grac_lithocelletinae_phyllonorycter_messaniella_imgp1475_cropns.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-09-11/feb28_12_tin_grac_lithocelletinae_phyllonorycter_messaniella_imgp1475_cropns.jpeg'
+comments:
+  - created_at: '2019-09-11T17:38:38Z'
+    text: Phyllonorycter messaniella added to dataset
+    ref: 5d79311ecad3eb4c550001dc
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2019-09-12T00:19:23Z'
+    text: Thanks Cathy
+    ref: 5d798f0bcad3eb91f3000198
+    name: Wendy Moore
+    username: wendymoore
+collections:
+  - coburg_moths

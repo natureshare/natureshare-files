@@ -1,0 +1,32 @@
+id:
+  - Viola eminens
+created_at: '2016-02-07T11:24:38Z'
+datetime: '2016-01-23T09:14:31+10:00'
+latitude: -37.84334
+longitude: 146.27131
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-02-11T12:21:28Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-01-23T09:14:31Z'
+    height: 1728
+    width: 1880
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56b728a1ed2a89b31c00006a.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56b728a1ed2a89b31c00006a.JPG'
+  - datetime: '2016-01-23T09:14:22Z'
+    height: 2341
+    width: 2128
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56b728b3ed2a897bc7000074.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56b728b3ed2a897bc7000074.JPG'
+tags:
+  - flower
+  - habit-herb
+  - perennial
+  - purple
+  - white
+collections:
+  - baw_baw_np_plants

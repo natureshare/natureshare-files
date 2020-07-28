@@ -1,0 +1,41 @@
+id:
+  - Senecio platylepis
+created_at: '2016-08-11T02:33:30Z'
+datetime: '2016-08-08T17:14:56+10:00'
+description: Annual herb less than 40cm tall. Only this single flowering plant observed. Previous weeks have seen very good rains.
+latitude: -34.136344
+longitude: 141.28197
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-08-12T03:36:13Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-08-08T17:14:56Z'
+    height: 3264
+    width: 4928
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57abe328ed2a892daf000002.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57abe328ed2a892daf000002.JPG'
+  - datetime: '2016-08-08T17:14:33Z'
+    height: 3264
+    width: 4928
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/57abe31bed2a89b3fe000004.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57abe31bed2a89b3fe000004.JPG'
+tags:
+  - bud
+  - flower
+comments:
+  - created_at: '2016-08-12T03:36:04Z'
+    text: First NatureShare record of this rare/threatened plant.
+    ref: 57ad4424ed2a89450f0002af
+    name: David Francis
+    username: david_francis
+  - replying_to: 57ad4424ed2a89450f0002af
+    created_at: '2016-08-12T12:49:27Z'
+    text: 'Being a new one for NS was the reason for getting a photo, although didn''t have suitable lens. Was good to see.'
+    ref: 57adc5d7ed2a89450f000338
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - neds_corner_plants

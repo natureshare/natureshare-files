@@ -1,0 +1,43 @@
+id:
+  - name: Ptilotula penicillata
+    by: lconole
+created_at: '2019-03-03T12:25:10Z'
+datetime: '2019-03-01T17:49:47+10:00'
+elevation: 280.5
+latitude: -37.5302
+location_name: '383 Lancefield Rd, Sunbury VIC 3429, Australia'
+longitude: 144.763465
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2019-03-03T12:28:18Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2019-03-01T17:49:47Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_55375c83ed2a89a9d4004fe1/2019-03-03/1551615551/002.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_55375c83ed2a89a9d4004fe1/2019-03-03/1551615551/002.JPG'
+  - datetime: '2019-03-01T17:49:54Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_55375c83ed2a89a9d4004fe1/2019-03-03/1551615572/005.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_55375c83ed2a89a9d4004fe1/2019-03-03/1551615572/005.JPG'
+comments:
+  - created_at: '2019-03-03T12:28:12Z'
+    text: 2 pix.....at the bird bath
+    ref: 5c7bc85c3abbd6e1c90000c8
+    name: Peter Clark
+    username: emucreek
+  - created_at: '2019-03-03T12:46:33Z'
+    text: popular birdbath/waterer! Lovely shots. ID I think -White plumed and New Holland Honeyeaters
+    ref: 5c7bcca93abbd65672000078
+    name: Wendy Moore
+    username: wendymoore
+  - created_at: '2019-03-05T03:48:30Z'
+    text: <em>Ptilotula penicillata</em> species id suggested
+    ref: 5c7df18e3abbd6fb8c000028
+    name: Lawrie Conole
+    username: lconole
+  - created_at: '2019-03-05T03:48:45Z'
+    text: <em>Phylidonyris novaehollandiae</em> species id suggested
+    ref: 5c7df19d3abbd69a2200004f
+    name: Lawrie Conole
+    username: lconole

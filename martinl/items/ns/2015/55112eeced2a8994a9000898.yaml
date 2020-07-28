@@ -1,0 +1,39 @@
+id:
+  - Peltoschema spp.
+created_at: '2015-03-24T09:31:24Z'
+datetime: '2015-03-24T13:13:12+10:00'
+elevation: 404.3
+latitude: -37.311519
+location_name: 'Bayindeen VIC 3375, Australia'
+longitude: 143.20193
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-03-24T09:32:13Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-03-24T13:13:12Z'
+    height: 602
+    width: 800
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55112eeced2a8994a9000895.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55112eeced2a8994a9000895.JPG'
+tags:
+  - beetle
+comments:
+  - created_at: '2015-03-24T09:33:22Z'
+    text: "This looks a bit like Peltoschema hamadryas but is more pale.  \r\nI have seen several similar pale versions of this beetle in other places and on eucalyptus."
+    ref: 55112f62ed2a8994a900089a
+    name: Martin Lagerwey
+    username: martinl
+  - created_at: '2015-11-01T08:34:47Z'
+    text: 'This is Peltoschema dryope '
+    ref: 5635cea7ed2a89e56e000209
+    name: Martin Lagerwey
+    username: martinl
+  - created_at: '2016-12-16T09:10:48Z'
+    text: Peltoschema dryope added to NS database
+    ref: 5853af98ed2a8974800094c4
+    name: David Francis
+    username: david_francis
+collections:
+  - beetles_leaf_beetle_reference_collection

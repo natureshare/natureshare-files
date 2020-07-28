@@ -1,0 +1,38 @@
+id:
+  - name: Clitocybula sp. nov. sensu Gates & Ratkowsky(1) 2016
+    by: 249pbr
+created_at: '2018-08-16T08:09:30Z'
+datetime: '2017-04-29T10:41:35+10:00'
+elevation: 152.7
+latitude: -38.554299
+location_name: 'Lorne VIC 3232, Australia'
+longitude: 143.942656
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-08-26T05:41:51Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-04-29T10:41:35Z'
+    height: 2724
+    width: 1968
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b7530e4ed2a89280700009a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b7530e4ed2a89280700009a.jpg'
+comments:
+  - created_at: '2018-08-16T12:16:19Z'
+    text: Clitocybula sp streaky yellow. Gates p41
+    ref: 5b756b13ed2a891d0c000001
+    name: zeke1944
+    username: zeke1944
+  - created_at: '2018-08-18T06:35:26Z'
+    text: I have also  found this species in the Wombat in Blue Gully but have not posted it yet. It is quite distinctive with the two tone gills. Could Clitocybula sp. nov. sensu Gates & Ratkowsky(1) 2016 be added to the database please and include Streaky Yellow in the common name.
+    ref: 5b77be2eed2a89a7f1005b30
+    name: John Walter
+    username: 249pbr
+  - created_at: '2018-08-20T14:25:24Z'
+    text: Dataset updated with name and common name.
+    ref: 5b7acf54ed2a89a7f1006936
+    name: Cathy Powers
+    username: koolah
+collections:
+  - otway_ranges_-_fungi

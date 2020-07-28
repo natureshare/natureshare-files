@@ -1,0 +1,30 @@
+id:
+  - Cryptaspasma sordida
+created_at: '2019-09-06T00:28:30Z'
+datetime: '2012-02-18T22:53:52+10:00'
+elevation: 65.3
+latitude: -37.7383
+location_name: '42 High St, Coburg VIC 3058, Australia'
+longitude: 144.956818
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2019-09-06T05:42:41Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2012-02-18T22:53:52Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_5c639c983abbd6ed0f00003c/2019-09-06/feb18_12_tort_oleth_cryptaspasma_sordida_imgp1067_cropns.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-09-06/feb18_12_tort_oleth_cryptaspasma_sordida_imgp1067_cropns.jpeg'
+comments:
+  - created_at: '2019-09-06T00:53:23Z'
+    text: Cryptaspasma sordida added to dataset
+    ref: 5d71ae03cad3eb91f30000ef
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2019-09-06T05:43:14Z'
+    text: Thanks Cathy
+    ref: 5d71f1f2cad3eb20240000fe
+    name: Wendy Moore
+    username: wendymoore
+collections:
+  - coburg_moths

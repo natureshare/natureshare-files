@@ -1,0 +1,56 @@
+id:
+  - Clematis leptophylla
+created_at: '2017-09-11T22:53:41Z'
+datetime: '2017-08-31T14:20:21+10:00'
+elevation: 474.3
+latitude: -37.611597
+location_name: 'Dargo VIC 3862, Australia'
+longitude: 147.189684
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-09-12T22:10:47Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-08-31T14:22:01Z'
+    height: 2880
+    width: 3840
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59b71223ed2a893984000233.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59b71223ed2a893984000233.JPG'
+  - datetime: '2017-08-31T14:21:04Z'
+    height: 2880
+    width: 3840
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59b7b8e1ed2a89398400023c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59b7b8e1ed2a89398400023c.JPG'
+  - datetime: '2017-08-31T14:20:21Z'
+    height: 2880
+    width: 3840
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59b7b8e9ed2a89398400023d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59b7b8e9ed2a89398400023d.JPG'
+comments:
+  - created_at: '2017-09-12T09:26:40Z'
+    text: 'Hi Luke, Do you have other photos showing the number, shape and size of the leaflets? I''m trying to get my head around the differences between C. leptophylla and C. microphylla'
+    ref: 59b7a850ed2a892c74002b7a
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-09-12T10:49:27Z'
+    text: 'Two additional photos of the same plant have been uploaded. Yes, I had a bit of trouble as well. I could be wrong. Any assistance will be appreciated.'
+    ref: 59b7bbb7ed2a892c74002be1
+    name: Luke Steenhuis
+    username: abcmaps
+  - created_at: '2017-09-13T01:55:46Z'
+    text: Nice photos Luke. I think this looks good for Clematis leptophylla.
+    ref: 59b89022ed2a892c74002e0d
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2017-09-13T06:37:39Z'
+    text: 'Yes, leaflets show up well in added photos.'
+    ref: 59b8d233ed2a892c74002efd
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-09-13T10:43:03Z'
+    text: Thanks Chris. Thanks David.
+    ref: 59b90bb7ed2a893455000001
+    name: Luke Steenhuis
+    username: abcmaps

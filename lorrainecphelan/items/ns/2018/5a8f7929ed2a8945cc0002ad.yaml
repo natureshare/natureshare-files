@@ -1,0 +1,31 @@
+id:
+  - Allocasuarina paludosa
+created_at: '2018-02-23T02:17:35Z'
+datetime: '2018-02-21T15:14:18+10:00'
+description: Female. Two photos.
+elevation: 112.4
+latitude: -38.036182
+location_name: 'Myamyn VIC 3304, Australia'
+longitude: 141.672071
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-02-23T02:17:48Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-02-21T15:14:18Z'
+    height: 1201
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a8f792ced2a895fa2000093.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a8f792ced2a895fa2000093.jpg'
+  - datetime: '2018-02-21T14:34:04Z'
+    height: 1200
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a8f7935ed2a895fa2000094.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a8f7935ed2a895fa2000094.jpg'
+tags:
+  - cones
+collections:
+  - homerton_and_milltown

@@ -1,0 +1,41 @@
+id:
+  - Carex gaudichaudiana
+created_at: '2017-11-20T10:58:58Z'
+datetime: '2017-11-19T10:47:53+10:00'
+latitude: -38.319163
+longitude: 142.627323
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-11-21T11:07:10Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-11-19T10:47:53Z'
+    height: 2035
+    width: 1869
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a12b581ed2a8939840006e7.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a12b581ed2a8939840006e7.JPG'
+comments:
+  - created_at: '2017-11-20T11:54:29Z'
+    text: <em>Carex polyantha</em> species id suggested
+    ref: 5a12c275ed2a8962be002591
+    name: John Walter
+    username: 249pbr
+  - created_at: '2017-11-21T09:02:17Z'
+    text: 'Based on distribution, it would seem unlikely. What about C. gaudichaudiana??'
+    ref: 5a13eb99ed2a8962be00294b
+    name: Kevin Sparrow
+    username: banksiaman
+  - replying_to: 5a13eb99ed2a8962be00294b
+    created_at: '2017-11-21T10:11:34Z'
+    text: I think that it what I meant to list - I just looked up my images of what I believe is the same species from near Trentham Falls and I have that as C. gaudichauduiana
+    ref: 5a13fbd6ed2a8962be002989
+    name: John Walter
+    username: 249pbr
+  - created_at: '2017-11-21T11:07:27Z'
+    text: Thanks John.
+    ref: 5a1408efed2a8962be0029b8
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - emeny_property_overlooking_hopkins_river_near_warrnambool

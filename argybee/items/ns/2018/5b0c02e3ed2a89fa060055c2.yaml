@@ -1,0 +1,50 @@
+id:
+  - Codium pomoides
+created_at: '2018-05-28T13:33:36Z'
+datetime: '2013-03-19T14:36:00+10:00'
+description: "Found on a broad sandy beach facing the Southern ocean this very firm, moist, velvety dark green ball was washed up. \r\nI have seen them before but never thought much about them. \r\nA bit larger than a golf ball, very slightly translucent, very dense like it was full of water, tough yet velvety.\r\n\r\nChlorophyta : Bryopsidophyceae : Bryopsidales : Codiaceae \r\nApparently they can be up to 120mm dia. and are composed of a single cell which can repair itself if damaged. \r\nIt appears fluffy underwater.\r\n"
+elevation: 1.8
+latitude: -38.415529
+location_name: 'Point Leo VIC 3916, Australia'
+longitude: 145.079691
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-05-29T10:37:29Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2013-03-19T14:36:00Z'
+    height: 1200
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b0c02e7ed2a89e822000015.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b0c02e7ed2a89e822000015.jpg'
+  - height: 512
+    width: 512
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b0c051ded2a89b04700000f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b0c051ded2a89b04700000f.jpg'
+comments:
+  - created_at: '2018-05-29T04:10:31Z'
+    text: 'What the ...? I''m familiar with the common Codium fragile which does look like a sea-weed, but this is a new one to me!'
+    ref: 5b0cd2b7ed2a89fa0600583c
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-05-29T04:15:54Z'
+    text: Codium pomoides added
+    ref: 5b0cd3faed2a89fa06005846
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-05-29T04:17:17Z'
+    text: Probably looks more green colour when fresh/submerged.
+    ref: 5b0cd44ded2a89fa06005850
+    name: David Francis
+    username: david_francis
+  - replying_to: 5b0cd44ded2a89fa06005850
+    created_at: '2018-05-29T10:36:34Z'
+    text: Yes it actually looked a little greener than this. My cam at the time hated greens.
+    ref: 5b0d2d32ed2a89fa06005a0a
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - littoral_zones

@@ -1,0 +1,38 @@
+id:
+  - name: Spergularia rubra s.l.
+    by: chrisl
+created_at: '2015-09-13T11:36:31Z'
+datetime: '2015-09-13T15:01:20+10:00'
+latitude: -36.4152
+location_name: 'Fentons Creek VIC 3518, Australia'
+longitude: 143.60463
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-09-14T05:00:11Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-09-13T15:01:20Z'
+    height: 2355
+    width: 3138
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55f55fd5ed2a890d95000152.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55f55fd5ed2a890d95000152.JPG'
+  - datetime: '2015-09-13T15:01:24Z'
+    height: 2388
+    width: 3171
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/55f55fe2ed2a890d95000153.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55f55fe2ed2a890d95000153.JPG'
+tags:
+  - flower
+comments:
+  - created_at: '2015-09-14T09:33:28Z'
+    text: Seems to fit with S. media?
+    ref: 55f69468ed2a89b06c000872
+    name: Russell Best
+    username: russell
+  - created_at: '2015-09-14T10:21:00Z'
+    text: 'I thought a combination of features indicated S. rubra, including the acuminate and silvery stipules (not acuminate in S. media), cymose and erect flowers. I don''t know the genus well enough to be confident though, and the Flora of Vic has an error either in the key or the description (regarding number of stamens).'
+    ref: 55f69f8ced2a89b06c00087c
+    name: Chris Lindorff
+    username: chrisl

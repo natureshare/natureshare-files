@@ -1,0 +1,52 @@
+id:
+  - Tatraea macrospora
+created_at: '2018-07-25T01:36:28Z'
+datetime: '2018-07-25T11:31:26+10:00'
+description: Tatraea macrospora I think. Two photos.
+elevation: 538.6
+latitude: -38.633554
+location_name: 'Mount Sabine VIC 3236, Australia'
+longitude: 143.749172
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-07-26T03:35:33Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2018-07-25T11:31:26Z'
+    height: 1201
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b57d380ed2a892807000066.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b57d380ed2a892807000066.jpg'
+  - datetime: '2018-07-14T23:24:33Z'
+    height: 1201
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b57d365ed2a891efe000063.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b57d365ed2a891efe000063.jpg'
+comments:
+  - created_at: '2018-07-25T04:48:44Z'
+    text: 'I agree, this species is on ALA and will have to added to our dataset.'
+    ref: 5b58012ced2a8903a0007386
+    name: John Walter
+    username: 249pbr
+  - replying_to: 5b58012ced2a8903a0007386
+    created_at: '2018-07-25T10:27:39Z'
+    text: Thanks John
+    ref: 5b58509bed2a8903a00074f1
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - created_at: '2018-07-25T22:24:26Z'
+    text: The synonym is Ciboria peckiana which I have updated to the current accepted name of Tatraea macrospora.
+    ref: 5b58f89aed2a8903a00076d2
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5b58f89aed2a8903a00076d2
+    created_at: '2018-07-26T03:37:24Z'
+    text: Thanks Cathy
+    ref: 5b5941f4ed2a8903a0007833
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - otway_ranges_-_fungi

@@ -1,0 +1,43 @@
+id:
+  - name: Parasesarma erythodactyla
+    by: david_francis
+created_at: '2015-04-24T06:32:29Z'
+datetime: '2015-04-24T10:23:04+10:00'
+description: "Small crab on the bank of Maribyrnong River, under Regional Rail Link bridge. There are a few of them. Some of them have small claws.\r\nRed-fingered Shore Crab (Parasesarma erythodactyla) from http://www.biodiversitysnapshots.net.au/bdrs-core/public/speciesInfo.htm?spid=790&mode=fieldguide\r\n"
+elevation: 5.7
+latitude: -37.798337
+location_name: 'Footscray VIC, Australia'
+longitude: 144.916203
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2015-04-25T02:03:28Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-04-24T10:23:04Z'
+    height: 1500
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5539e37ded2a89a46000000a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5539e37ded2a89a46000000a.jpg'
+  - datetime: '2015-04-24T10:24:15Z'
+    height: 1500
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5539e37ded2a89a46000000b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5539e37ded2a89a46000000b.jpg'
+tags:
+  - crab
+comments:
+  - created_at: '2017-02-01T05:29:54Z'
+    text: <em>Parasesarma erythodactyla</em> species id suggested
+    ref: 58917252ed2a89d10f0020ae
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-02-01T05:30:11Z'
+    text: Id by Thomas N.
+    ref: 58917263ed2a89d10f0020af
+    name: David Francis
+    username: david_francis
+collections:
+  - maribyrnong_river_valley_fauna
+  - flora_fauna_of_the_city_of_maribyrnong

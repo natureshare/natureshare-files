@@ -1,0 +1,47 @@
+id:
+  - Wingia aurata
+created_at: '2017-10-29T03:38:43Z'
+datetime: '2017-10-28T23:28:04+10:00'
+elevation: 261.2
+latitude: -37.806577
+location_name: 'Balliang VIC 3340, Australia'
+longitude: 144.297013
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-10-29T11:25:17Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-10-28T23:28:04Z'
+    height: 2551
+    width: 3948
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59f54cc0ed2a893984000573.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59f54cc0ed2a893984000573.jpg'
+tags:
+  - moth
+  - yellow
+comments:
+  - created_at: '2017-10-29T10:10:22Z'
+    text: Beautiful colour
+    ref: 59f5a90eed2a892d40009717
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2017-10-29T10:34:42Z'
+    text: Earlier the year than previous observations?
+    ref: 59f5aec2ed2a892d4000973e
+    name: Andrew Brown
+    username: andrewbrown
+  - created_at: '2017-10-29T12:28:42Z'
+    text: Yes.  The major flight time appears to be Nov and Dec.
+    ref: 59f5c97aed2a892d40009802
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2017-11-12T23:20:12Z'
+    text: Stunning specimen.
+    ref: 5a08d72ced2a890f6a000147
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - brisbane_ranges_moths

@@ -1,0 +1,32 @@
+id:
+  - Proteuxoa spp.
+created_at: '2018-04-14T11:52:37Z'
+datetime: '2018-04-04T19:59:42+10:00'
+elevation: 199.4
+latitude: -36.778256
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381049
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-05-05T11:50:06Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-04-04T19:59:42Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ad1eb3ded2a897fc8000073.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ad1eb3ded2a897fc8000073.JPG'
+tags:
+  - legs-striped
+  - moth
+  - moth-brown
+comments:
+  - created_at: '2018-04-14T23:06:03Z'
+    text: This is a Proteuxoa species and I cannot get it to species name until the revision is completed.
+    ref: 5ad2895bed2a899466004303
+    name: Cathy Powers
+    username: koolah
+collections:
+  - moths_of_junortoun
+  - moths_of_central_victoria

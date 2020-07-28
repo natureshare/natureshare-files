@@ -1,0 +1,48 @@
+created_at: '2017-10-29T10:59:07Z'
+datetime: '2017-10-14T14:07:54+10:00'
+description: Correa sp.?
+elevation: 185.3
+latitude: -36.547308
+location_name: 'Kamarooka VIC 3570, Australia'
+longitude: 144.381703
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-10-30T09:32:10Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-10-14T14:07:54Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59f475f2ed2a893984000551.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59f475f2ed2a893984000551.JPG'
+tags:
+  - leaves-deep-green
+  - leaves-hairy
+  - leaves-oblong
+  - shrub-small
+  - stems-hairy
+comments:
+  - created_at: '2017-10-30T01:41:33Z'
+    text: <em>Correa reflexa var. scabridula</em> species id suggested
+    ref: 59f6834ded2a892d40009a24
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-10-30T08:07:15Z'
+    text: A bit out of the usual range? Could be a different sub sp.?
+    ref: 59f6ddb3ed2a89b4fd00002a
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 59f6ddb3ed2a89b4fd00002a
+    created_at: '2017-10-30T09:31:43Z'
+    text: 'Leaves match var. scabridula and there are collections around Bendigo, including in the Whipstick by Paul Wilson who named the subsp.  I''ll leave you to investigate further and put it back to unidentified for the time being.'
+    ref: 59f6f17fed2a892d40009beb
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-10-30T09:37:45Z'
+    text: Leaves look to be scabrid rather than hairy. If it is var scabridula it would be an interesting record as it appears that there haven't been any records from the Bendigo area since Paul Wilson's in 1965
+    ref: 59f6f2e9ed2a892d40009bf0
+    name: David Francis
+    username: david_francis
+collections:
+  - kamarooka_flora

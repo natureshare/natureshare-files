@@ -1,0 +1,32 @@
+id:
+  - name: Isometroides spp.
+    by: russell
+created_at: '2014-09-08T10:48:25Z'
+datetime: '2014-09-03T21:14:26+10:00'
+latitude: -34.141124
+location_name: 'Neds Corner VIC 3496, Australia'
+longitude: 141.323894
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2014-09-18T02:46:43Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-09-03T21:14:26Z'
+    height: 1601
+    width: 2131
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/540d8978e35eb1758800005c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/540d8978e35eb1758800005c.JPG'
+  - datetime: '2014-09-03T21:15:12Z'
+    height: 1425
+    width: 1898
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/540d8978e35eb1758800005d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/540d8978e35eb1758800005d.JPG'
+comments:
+  - created_at: '2014-09-18T02:47:05Z'
+    text: KW added "Definitely Isometroides but not sure on the species as several occur in that area."
+    ref: 541a47a9e35eb109b700009a
+    name: Russell Best
+    username: russell
+collections:
+  - neds_corner_insects_spiders_and_other_invertebrates

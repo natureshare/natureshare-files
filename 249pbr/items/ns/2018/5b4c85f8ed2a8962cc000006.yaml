@@ -1,0 +1,37 @@
+id:
+  - Multiclavula mucida
+created_at: '2018-07-16T12:37:34Z'
+datetime: '2016-03-19T11:00:00+10:00'
+description: 'This is Multiclavula mucida, please add to the database. This species was not the intended target of these images but is a good example of why you should look very closely when out hunting fungi. The two suspended clubs in the third image are attached to the wood beneath the Deconica horizontalis cap, not to the cap itself.'
+latitude: -37.378655
+longitude: 144.611728
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-07-18T04:55:06Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 964
+    width: 827
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b4c8673ed2a89402b000059.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b4c8673ed2a89402b000059.jpg'
+  - datetime: '2016-03-19T11:00:32Z'
+    height: 559
+    width: 702
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b4c85f9ed2a89402b000053.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b4c85f9ed2a89402b000053.jpg'
+  - datetime: '2016-03-19T11:00:00Z'
+    height: 954
+    width: 1218
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5b4c85fded2a89402b000054.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b4c85fded2a89402b000054.jpg'
+comments:
+  - created_at: '2018-07-18T02:54:00Z'
+    text: Species added to dataset.
+    ref: 5b4eabc8ed2a8903a000551a
+    name: Cathy Powers
+    username: koolah
+collections:
+  - macedon_ranges_-_fungi

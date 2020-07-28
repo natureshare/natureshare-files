@@ -1,0 +1,28 @@
+created_at: '2014-11-05T10:25:50Z'
+datetime: '2014-10-11T16:25:43+10:00'
+latitude: -38.35789
+longitude: 142.530382
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-11-05T10:32:38Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-11T16:25:43Z'
+    height: 1495
+    width: 1747
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5459fb2ee35eb1be82000175.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5459fb2ee35eb1be82000175.jpg'
+  - datetime: '2014-10-11T16:27:03Z'
+    height: 4288
+    width: 2848
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5459fc7ee35eb12c8f000225.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5459fc7ee35eb12c8f000225.jpg'
+comments:
+  - created_at: '2014-11-05T10:26:28Z'
+    text: Wetland plant
+    ref: 5459fb54e35eb1be8200017a
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - plants_of_tozer_reserve_near_warrnambool

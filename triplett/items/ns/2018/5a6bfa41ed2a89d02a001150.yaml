@@ -1,0 +1,54 @@
+id:
+  - Sericopimpla australis
+  - Hyalarcta nigrescens
+created_at: '2018-01-27T04:08:02Z'
+datetime: '2018-01-27T09:49:38+10:00'
+description: 'wasp parisitizing large pupa. The body of the cocoon is 30mm long. 2nd photo just after withdrawal of ovipositor. '
+elevation: 138.5
+latitude: -37.644222
+location_name: 'Greenvale VIC 3059, Australia'
+longitude: 144.861166
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2020-05-25T07:52:36Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-01-27T09:49:38Z'
+    height: 1127
+    width: 640
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a6bfa43ed2a89f453000034.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a6bfa43ed2a89f453000034.jpg'
+  - datetime: '2018-01-27T09:49:43Z'
+    height: 435
+    width: 800
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a6bfbcaed2a8966a0000021.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a6bfbcaed2a8966a0000021.JPG'
+tags:
+  - adult-female
+comments:
+  - created_at: '2018-01-27T12:07:06Z'
+    text: The wasp is parasitising a case moth through its case. Probably Hyalarcta nigrescens.
+    ref: 5a6c6b6aed2a89bc81000001
+    name: Peter Marriott
+    username: peterm
+  - created_at: '2018-01-28T04:21:30Z'
+    text: I assume the moth is in the pupal stage since the bag is looks pretty permanently attached and I don't see an opening? I am just asking because your wording implies it is not a pupa.
+    ref: 5a6d4fcaed2a891798000004
+    name: Jeff Triplett
+    username: triplett
+  - replying_to: 5a6d4fcaed2a891798000004
+    created_at: '2018-01-30T19:50:21Z'
+    text: It may be a pupa. It may also still be a caterpillar. They are efficient at sealing themselves in. There are openings at the top and bottom. The amazing thing is the wasp's ability to find the case and be adapted to have a long enough ovipositor to be effective. The image shows something that is rarely if ever seen.
+    ref: 5a70cc7ded2a89d92500055d
+    name: Peter Marriott
+    username: peterm
+  - replying_to: 5a70cc7ded2a89d92500055d
+    created_at: '2018-01-30T23:08:40Z'
+    text: Thanks. so there is no way to tell if has pupated (unless you see it moving of course)?
+    ref: 5a70faf8ed2a89d925000613
+    name: Jeff Triplett
+    username: triplett
+collections:
+  - woodlands_historic_park_insects_and_spiders
+  - woodlands_historic_park_-_hymenoptera

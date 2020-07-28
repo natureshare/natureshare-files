@@ -1,0 +1,32 @@
+id:
+  - Paropsisterna variicollis
+created_at: '2017-11-03T05:40:26Z'
+datetime: '2017-11-03T14:31:28+10:00'
+description: Leaf beetle on Eucalyptus radiata.
+latitude: -37.40805
+longitude: 144.595092
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-11-03T05:59:44Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-11-03T14:31:28Z'
+    height: 1269
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59fc05daed2a8939840005be.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59fc05daed2a8939840005be.jpg'
+comments:
+  - created_at: '2017-11-03T05:40:56Z'
+    text: <em>Paropsisterna variicollis</em> species id suggested
+    ref: 59fc0168ed2a892d4000ac72
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-11-03T05:43:41Z'
+    text: Seems to be chewing off the upper layers of the leaf.
+    ref: 59fc020ded2a892d4000ac74
+    name: David Francis
+    username: david_francis
+collections:
+  - insects_and_other_arthropods_of_mt_macedon

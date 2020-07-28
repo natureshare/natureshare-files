@@ -1,0 +1,53 @@
+id:
+  - Trifolium arvense var. arvense
+created_at: '2016-12-12T11:47:54Z'
+datetime: '2016-12-11T11:30:33+10:00'
+latitude: -38.153018
+longitude: 142.368728
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-12-13T11:39:13Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-12-11T11:30:33Z'
+    height: 2097
+    width: 3431
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584e8e38ed2a89d73e000239.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584e8e38ed2a89d73e000239.JPG'
+  - datetime: '2016-12-13T20:35:16Z'
+    height: 3927
+    width: 3821
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584fc318ed2a89b718000257.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584fc318ed2a89b718000257.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2016-12-12T11:48:50Z'
+    text: 'Small low growing grass like plant, any ideas??'
+    ref: 584e8ea2ed2a8974800086e6
+    name: Kevin Sparrow
+    username: banksiaman
+  - created_at: '2016-12-13T06:43:13Z'
+    text: Hi Kevin. A clear shot of the leaves and habit of this plant would help.
+    ref: 584f9881ed2a897480008905
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-12-13T09:49:42Z'
+    text: 'This is it David, I scanned the whole plant in. Leaves are very small and nondescript. Looks introduced??'
+    ref: 584fc436ed2a89748000898c
+    name: Kevin Sparrow
+    username: banksiaman
+  - created_at: '2016-12-13T10:08:07Z'
+    text: Trifolium sp. Seems to fit Trifolium arvense
+    ref: 584fc887ed2a8974800089ae
+    name: David Francis
+    username: david_francis
+  - created_at: '2016-12-13T11:39:55Z'
+    text: 'Looks like it David, I was thinking Trifolium but couldn''t get anything else'
+    ref: 584fde0bed2a8974800089f2
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - woolsthorpe

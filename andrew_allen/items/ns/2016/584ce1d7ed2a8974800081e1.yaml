@@ -1,0 +1,31 @@
+id:
+  - Ancita spp.
+created_at: '2016-12-11T05:21:00Z'
+datetime: '2016-12-11T08:45:00+10:00'
+latitude: -37.714295
+longitude: 145.296216
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2016-12-11T08:05:25Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 1847
+    width: 2771
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584ce1e1ed2a89b3fe000246.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584ce1e1ed2a89b3fe000246.jpg'
+  - height: 1690
+    width: 2535
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584ce1deed2a89b718000243.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584ce1deed2a89b718000243.jpg'
+  - height: 1970
+    width: 2956
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/584ce1e7ed2a892daf000267.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584ce1e7ed2a892daf000267.jpg'
+comments:
+  - created_at: '2016-12-11T06:53:18Z'
+    text: Suggest Ancita sp.
+    ref: 584cf7deed2a89748000827e
+    name: David Francis
+    username: david_francis

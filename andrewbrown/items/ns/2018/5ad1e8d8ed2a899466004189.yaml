@@ -1,0 +1,48 @@
+id:
+  - name: Ciampa arietaria
+    by: koolah
+created_at: '2018-04-14T11:42:32Z'
+datetime: '2018-04-07T22:18:59+10:00'
+elevation: 199.4
+latitude: -36.778256
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381049
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2018-04-14T11:42:39Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2018-04-07T22:18:59Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ad1e92ded2a89cf9000007b.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ad1e92ded2a89cf9000007b.JPG'
+  - datetime: '2018-04-07T22:18:59Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5ad1e941ed2a89abdd00008c.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ad1e941ed2a89abdd00008c.JPG'
+tags:
+  - moth
+  - moth-grey
+comments:
+  - created_at: '2018-04-14T23:17:48Z'
+    text: 'According to Moths of Victoria Part 5, this moth is identified by the dark forked projection on the frons.'
+    ref: 5ad28c1ced2a899466004318
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2018-04-14T23:18:19Z'
+    text: <em>Ciampa arietaria</em> species id suggested
+    ref: 5ad28c3bed2a89946600431b
+    name: Cathy Powers
+    username: koolah
+  - replying_to: 5ad28c1ced2a899466004318
+    created_at: '2018-04-15T05:41:54Z'
+    text: Thanks Cathy for sharing your knowledge.
+    ref: 5ad2e622ed2a89946600452a
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - moths_of_junortoun
+  - moths_of_central_victoria

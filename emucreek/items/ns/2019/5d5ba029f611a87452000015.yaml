@@ -1,0 +1,36 @@
+id:
+  - name: Anthus novaeseelandiae
+    by: lconole
+created_at: '2019-08-20T07:24:25Z'
+datetime: '2019-08-17T14:46:34+10:00'
+elevation: 271.2
+latitude: -37.531765
+location_name: '41 Clark Ct, Sunbury VIC 3429, Australia'
+longitude: 144.771018
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2019-08-20T07:25:37Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2019-08-17T14:46:34Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_55375c83ed2a89a9d4004fe1/2019-08-20/017.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_55375c83ed2a89a9d4004fe1/2019-08-20/017.jpeg'
+  - datetime: '2019-08-17T14:46:32Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_55375c83ed2a89a9d4004fe1/2019-08-20/014.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_55375c83ed2a89a9d4004fe1/2019-08-20/014.jpeg'
+  - datetime: '2019-08-17T14:46:34Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/user_55375c83ed2a89a9d4004fe1/2019-08-20/016.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_55375c83ed2a89a9d4004fe1/2019-08-20/016.jpeg'
+comments:
+  - created_at: '2019-08-20T07:25:32Z'
+    text: 3 pix
+    ref: 5d5ba06cf611a87452000018
+    name: Peter Clark
+    username: emucreek
+  - created_at: '2019-08-20T10:22:32Z'
+    text: <em>Anthus novaeseelandiae</em> species id suggested
+    ref: 5d5bc9e8f611a8d907000025
+    name: Lawrie Conole
+    username: lconole

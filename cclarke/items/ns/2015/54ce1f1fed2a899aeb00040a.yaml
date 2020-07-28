@@ -1,0 +1,39 @@
+id:
+  - Aquila audax
+created_at: '2015-02-01T12:42:07Z'
+datetime: '2015-02-01T15:33:11+10:00'
+latitude: -37.992075
+longitude: 145.628188
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2015-02-01T12:43:15Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-02-01T15:33:11Z'
+    height: 1224
+    width: 1382
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54ce1f1eed2a899aeb000408.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ce1f1eed2a899aeb000408.jpg'
+  - datetime: '2015-02-01T15:32:17Z'
+    height: 1981
+    width: 2194
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54ce1f1eed2a899aeb000409.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ce1f1eed2a899aeb000409.jpg'
+comments:
+  - created_at: '2015-02-01T12:44:14Z'
+    text: A pair of Eagles!
+    ref: 54ce1f9eed2a8980b70003e6
+    name: Chris Clarke
+    username: cclarke
+  - created_at: '2015-02-03T12:00:22Z'
+    text: Great photo. You must have been close.
+    ref: 54d0b856ed2a899aeb000597
+    name: David Francis
+    username: david_francis
+  - replying_to: 54d0b856ed2a899aeb000597
+    created_at: '2015-02-04T08:53:15Z'
+    text: 20m - slammed the car to a stop and got it out the window!
+    ref: 54d1ddfbed2a8980b70005d4
+    name: Chris Clarke
+    username: cclarke

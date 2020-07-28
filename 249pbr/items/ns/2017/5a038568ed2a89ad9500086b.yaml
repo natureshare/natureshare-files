@@ -1,0 +1,26 @@
+id:
+  - Hednota relatalis
+created_at: '2017-11-08T23:25:54Z'
+datetime: '2017-03-04T22:03:57+10:00'
+latitude: -37.224434
+longitude: 144.309678
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2017-11-08T23:26:09Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-03-04T22:03:57Z'
+    height: 1686
+    width: 2214
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a03858ded2a893984000633.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a03858ded2a893984000633.jpg'
+comments:
+  - created_at: '2017-11-09T22:50:23Z'
+    text: 'Beautifully photographed collection of moths, John.'
+    ref: 5a04dbafed2a89ad95000d9a
+    name: David Francis
+    username: david_francis
+collections:
+  - drummond_nearby_forests_-_moths

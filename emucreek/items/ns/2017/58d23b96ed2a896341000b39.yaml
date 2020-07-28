@@ -1,0 +1,47 @@
+id:
+  - name: Milvus migrans
+    by: chrisl
+created_at: '2017-03-22T08:58:36Z'
+datetime: '2017-03-14T19:22:27+10:00'
+elevation: 286.8
+latitude: -37.527069
+location_name: 'Sunbury VIC 3429, Australia'
+longitude: 144.762607
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-03-22T08:58:36Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-03-14T19:22:27Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58d23b9eed2a89e54800008d.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58d23b9eed2a89e54800008d.JPG'
+  - datetime: '2017-03-14T19:22:30Z'
+    height: 3456
+    width: 4608
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58d23c02ed2a891d6d000087.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58d23c02ed2a891d6d000087.JPG'
+comments:
+  - created_at: '2017-03-22T22:14:40Z'
+    text: Maybe a Little Eagle?
+    ref: 58d2f750ed2a89951b000001
+    name: Andrew Allen
+    username: andrew_allen
+  - created_at: '2017-03-22T22:23:08Z'
+    text: 'A number of features point to Black Kite. Black bill with yellow cere. Brown eyes. Thin black line of feathers immediately behind eyes (like eye-liner). '
+    ref: 58d2f94ced2a896341000c99
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2017-03-22T22:23:35Z'
+    text: <em>Milvus migrans</em> species id suggested
+    ref: 58d2f967ed2a896341000c9d
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 58d2f94ced2a896341000c99
+    created_at: '2017-03-23T00:38:52Z'
+    text: 'Yep, I agree'
+    ref: 58d3191ced2a896341000cf2
+    name: Andrew Allen
+    username: andrew_allen

@@ -1,0 +1,52 @@
+id:
+  - Hemisaga lanceolata
+created_at: '2017-12-22T22:03:19Z'
+datetime: '2017-12-20T22:16:45+10:00'
+description: Victorian Sluggish Katydid Hemisaga lanceolata
+elevation: 41.8
+latitude: -38.356987
+location_name: 'Anglesea VIC 3230, Australia'
+longitude: 144.173808
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-12-23T04:47:25Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-12-20T22:16:45Z'
+    height: 1203
+    width: 1600
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a3d8084ed2a89298f00004e.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a3d8084ed2a89298f00004e.jpg'
+comments:
+  - created_at: '2017-12-23T02:45:27Z'
+    text: Interesting record. Only one observation for Victoria on the ALA -in the Grampians. (Reiner R). Curious as to how you ided it to species level. (D. Rentz?)
+    ref: 5a3dc347ed2a89e23c001297
+    name: David Francis
+    username: david_francis
+  - replying_to: 5a3dc347ed2a89e23c001297
+    created_at: '2017-12-23T02:56:36Z'
+    text: Melbourne Museum has an image.
+    ref: 5a3dc5e4ed2a89e23c0012a0
+    name: Lorraine Phelan
+    username: lorrainecphelan
+  - replying_to: 5a3dc5e4ed2a89e23c0012a0
+    created_at: '2017-12-23T03:08:37Z'
+    text: 'Yours matches this one on Bowerbird but the species was never confirmed. http://www.bowerbird.org.au/observations/79578 Do you have access to Melbourne Museum images?'
+    ref: 5a3dc8b5ed2a893f58000109
+    name: David Francis
+    username: david_francis
+  - replying_to: 5a3dc5e4ed2a89e23c0012a0
+    created_at: '2017-12-23T03:12:12Z'
+    text: Hemisaga lanceolata added to database.
+    ref: 5a3dc98ced2a89e23c0012b1
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-12-23T03:36:17Z'
+    text: 'https://museumsvictoria.com.au/article/bountiful-mallee/'
+    ref: 5a3dcf31ed2a89e23c0012ea
+    name: Lorraine Phelan
+    username: lorrainecphelan
+collections:
+  - anglesea_heath_flora_and_fauna

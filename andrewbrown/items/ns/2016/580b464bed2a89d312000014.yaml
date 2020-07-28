@@ -1,0 +1,43 @@
+id:
+  - Vittadinia gracilis
+created_at: '2016-10-27T12:15:20Z'
+datetime: '2016-10-22T17:33:52+10:00'
+description: Small herbaceous annual with silvery foliage and small mauve flowers. Vittadinia sp. maybe ?
+elevation: 203.9
+latitude: -36.780517
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.384872
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-29T03:07:33Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-10-22T17:33:52Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/580b4659ed2a892daf000162.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/580b4659ed2a892daf000162.JPG'
+tags:
+  - flowers-mauve
+  - leaves-grey
+comments:
+  - created_at: '2016-10-27T20:43:27Z'
+    text: 'Yes, Vittadinia. Possibly V. cuneata'
+    ref: 581266efed2a897480000f4a
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2016-10-28T19:58:58Z'
+    text: 'Second thoughts, it resembles V. gracilis'
+    ref: 5813ae02ed2a897480001148
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2016-10-29T03:08:16Z'
+    text: Yes leaves are greyer than V. cuneata
+    ref: 581412a0ed2a897480001213
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - junortoun_flora

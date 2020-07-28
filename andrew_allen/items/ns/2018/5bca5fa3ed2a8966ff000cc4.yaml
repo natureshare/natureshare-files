@@ -1,0 +1,32 @@
+id:
+  - name: Proteuxoa nyctereutica
+    by: koolah
+created_at: '2018-10-19T22:50:49Z'
+datetime: '2018-10-19T20:30:00+10:00'
+latitude: -37.733553
+longitude: 144.824545
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-10-19T22:50:59Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    height: 2199
+    width: 3299
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5bca5fa6ed2a89402b00010b.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bca5fa6ed2a89402b00010b.jpg'
+comments:
+  - created_at: '2018-10-23T08:14:16Z'
+    text: <em>Proteuxoa nyctereutica</em> species id suggested
+    ref: 5bced858ed2a8954f0000528
+    name: Cathy Powers
+    username: koolah
+  - created_at: '2018-10-23T08:19:37Z'
+    text: Marilyn Hewish assisted with identification.
+    ref: 5bced999ed2a8954f0000529
+    name: Cathy Powers
+    username: koolah
+collections:
+  - moths_of_metropolitan_melbourne

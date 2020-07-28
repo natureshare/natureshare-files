@@ -1,0 +1,32 @@
+id:
+  - name: Nemesiidae spp.
+    by: david_francis
+created_at: '2011-05-20T20:47:44Z'
+datetime: '2008-06-04T22:29:11+10:00'
+latitude: -37.430897
+longitude: 144.654672
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2017-05-07T02:27:48Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2008-06-04T22:29:11Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ee35eb12984011b35.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b35.jpg'
+  - datetime: '2008-06-04T22:36:18Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3985ee35eb12984011b36.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b36.jpg'
+comments:
+  - created_at: '2017-05-06T23:52:30Z'
+    text: 'Probably _Mygalomorphae Nemesiidae '
+    ref: 590e61beed2a893d8c0024d3
+    name: Robert Whyte
+    username: robertwhyte
+  - created_at: '2017-05-07T02:28:06Z'
+    text: id by RW - thanks
+    ref: 590e8636ed2a893d8c002560
+    name: David Francis
+    username: david_francis
+collections:
+  - spiders_of_riddells_creek

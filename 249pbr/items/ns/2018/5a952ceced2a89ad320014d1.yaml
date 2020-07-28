@@ -1,0 +1,27 @@
+id:
+  - Ramaria anziana
+created_at: '2018-02-27T10:51:32Z'
+datetime: '2011-04-24T17:00:58+10:00'
+description: Two images
+latitude: -37.444438
+longitude: 144.32156
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-02-27T10:51:40Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2011-04-24T17:00:58Z'
+    height: 1808
+    width: 2322
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a952cf2ed2a89cf9000001d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a952cf2ed2a89cf9000001d.jpg'
+  - datetime: '2011-04-24T17:02:10Z'
+    height: 1698
+    width: 2126
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a952d00ed2a8929e7000016.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a952d00ed2a8929e7000016.jpg'
+collections:
+  - wombat_forest_-_fungi

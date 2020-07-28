@@ -1,0 +1,28 @@
+id:
+  - Mormoscopa sordescens
+created_at: '2016-12-24T01:06:49Z'
+datetime: '2016-12-23T23:27:02+10:00'
+latitude: -37.806602
+longitude: 144.297033
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-12-24T01:06:49Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-12-23T23:27:02Z'
+    height: 1697
+    width: 2094
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/585dc9d7ed2a892daf0002ac.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/585dc9d7ed2a892daf0002ac.jpg'
+  - datetime: '2016-12-23T23:30:30Z'
+    height: 1290
+    width: 2323
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/585dc9eded2a89b3fe000296.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/585dc9eded2a89b3fe000296.jpg'
+tags:
+  - moth
+collections:
+  - brisbane_ranges_moths

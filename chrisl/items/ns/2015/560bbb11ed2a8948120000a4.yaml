@@ -1,0 +1,33 @@
+id:
+  - Acacia aculeatissima
+created_at: '2015-09-30T10:36:01Z'
+datetime: '2015-09-18T09:06:57+10:00'
+latitude: -37.867935
+longitude: 144.158195
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2015-09-30T11:26:47Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2015-09-18T09:06:31Z'
+    height: 3264
+    width: 4928
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560bc669ed2a890d95000365.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560bc669ed2a890d95000365.jpg'
+  - datetime: '2015-09-18T09:06:57Z'
+    height: 4928
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560bbb4ced2a890d95000349.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560bbb4ced2a890d95000349.jpg'
+  - datetime: '2015-09-18T09:06:18Z'
+    height: 3264
+    width: 4928
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/560bc659ed2a890d95000364.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560bc659ed2a890d95000364.jpg'
+tags:
+  - flower
+collections:
+  - brisbane_ranges_national_park_plants

@@ -1,0 +1,29 @@
+id:
+  - Epithymema incomposita
+created_at: '2019-03-24T07:52:38Z'
+datetime: '2019-03-23T19:26:15+10:00'
+latitude: -37.87453
+longitude: 145.420637
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2019-03-25T01:29:16Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2019-03-23T19:26:15Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/user_5c1ed10e3abbd6b7f00000e2/2019-03-24/1553412178/DSCN5188.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c1ed10e3abbd6b7f00000e2/2019-03-24/1553412178/DSCN5188.JPG'
+comments:
+  - created_at: '2019-03-24T09:33:55Z'
+    text: 'I suggest Epithymema incomposita see http://www.boldsystems.org/index.php/Taxbrowser_Taxonpage?taxid=408670'
+    ref: 5c974f033abbd6b625000109
+    name: Wendy Moore
+    username: wendymoore
+  - replying_to: 5c974f033abbd6b625000109
+    created_at: '2019-03-25T01:29:43Z'
+    text: Thank you.
+    ref: 5c982f073abbd6eaf10000aa
+    name: Daniel Kurek
+    username: d_kurek
+collections:
+  - moths_of_metropolitan_melbourne

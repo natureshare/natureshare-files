@@ -1,0 +1,33 @@
+id:
+  - Opercularia ovata
+created_at: '2014-11-04T10:27:59Z'
+datetime: '2014-10-11T15:31:16+10:00'
+latitude: -38.359477
+longitude: 142.529018
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2014-11-05T11:05:52Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-10-11T15:31:16Z'
+    height: 2115
+    width: 2117
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5458aa2fe35eb13295000124.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5458aa2fe35eb13295000124.jpg'
+tags:
+  - leaves
+comments:
+  - created_at: '2014-11-04T20:37:09Z'
+    text: Possibly Opercularia ovata.
+    ref: 545938f5e35eb13295000174
+    name: Chris Lindorff
+    username: chrisl
+  - replying_to: 545938f5e35eb13295000174
+    created_at: '2014-11-05T11:04:38Z'
+    text: 'Thanks Chris, I think you might be right'
+    ref: 545a0446e35eb12c8f000253
+    name: Kevin Sparrow
+    username: banksiaman
+collections:
+  - plants_of_tozer_reserve_near_warrnambool

@@ -1,0 +1,25 @@
+id:
+  - name: Bulbine semibarbata
+created_at: '2011-11-30T10:20:14Z'
+datetime: '2011-11-05T08:20:34+10:00'
+latitude: -34.14568
+longitude: 141.311142
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2011-11-30T10:22:11Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-11-05T08:20:34Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39861e35eb12984012649.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb12984012649.jpg'
+  - original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39861e35eb1298401264a.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb1298401264a.jpg'
+tags:
+  - flower
+comments:
+  - created_at: '2013-10-31T13:35:09Z'
+    text: Confirmed (by photo) as semibarbata rather than alata.
+    ref: 53b3984ce35eb1298400dbad
+collections:
+  - neds_corner_plants

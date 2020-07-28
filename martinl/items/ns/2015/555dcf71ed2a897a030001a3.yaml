@@ -1,0 +1,29 @@
+id:
+  - Peltoschema hamadryas
+created_at: '2015-05-21T12:28:33Z'
+datetime: '2015-05-21T22:25:00+10:00'
+description: 'A small leaf beetle found in numbers on a broad leafed acacia.  They seem to hide in the tiny flower buds.  '
+elevation: 107.3
+latitude: -36.344617
+location_name: 'Shepparton VIC 3630, Australia'
+longitude: 145.362965
+non_identifying_photo: false
+photo_datetime_used: false
+photo_geotag_used: false
+updated_at: '2015-05-21T12:29:28Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-05-20T00:00:55Z'
+    height: 754
+    width: 1000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/555dcf70ed2a897a0300019f.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/555dcf70ed2a897a0300019f.JPG'
+  - datetime: '2015-05-19T23:59:01Z'
+    height: 747
+    width: 1000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/555dcf70ed2a897a030001a0.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/555dcf70ed2a897a030001a0.JPG'
+tags:
+  - adult
+collections:
+  - the_reedy_swamp_shepparton_envitonment_days_1

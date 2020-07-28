@@ -1,0 +1,29 @@
+id:
+  - Cacatua tenuirostris
+created_at: '2016-10-19T00:43:10Z'
+datetime: '2016-10-19T10:08:00+10:00'
+elevation: 3.5
+latitude: -37.796835
+location_name: 'Footscray VIC 3011, Australia'
+longitude: 144.909652
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-10-19T00:50:27Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2016-10-19T10:07:30Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5806c366ed2a89b3fe000137.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5806c366ed2a89b3fe000137.jpg'
+  - primary: true
+    datetime: '2016-10-19T10:08:00Z'
+    height: 1800
+    width: 2400
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5806bfd6ed2a89d73e000123.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5806bfd6ed2a89d73e000123.JPG'
+collections:
+  - newell_s_paddock_footscray
+  - flora_fauna_of_the_city_of_maribyrnong

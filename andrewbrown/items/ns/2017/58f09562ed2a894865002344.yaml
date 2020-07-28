@@ -1,0 +1,47 @@
+created_at: '2017-04-14T10:16:46Z'
+datetime: '2017-04-13T19:54:51+10:00'
+description: Long legged spider approx. 50 mm total length found inside.
+elevation: 204.8
+latitude: -36.77842
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.381503
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-04-14T10:16:46Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-04-13T19:54:51Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58f09568ed2a89a81f0000cf.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58f09568ed2a89a81f0000cf.jpeg'
+tags:
+  - long-legged
+  - spider
+  - white-side-stripes
+comments:
+  - created_at: '2017-04-17T06:38:15Z'
+    text: Looks similar to a Water Spider (Pisauridae) e.g. Dolomedes sp. but these wouldn't be expected away from water.
+    ref: 58f462d7ed2a894865002bb2
+    name: David Francis
+    username: david_francis
+  - created_at: '2017-04-17T06:50:45Z'
+    text: Note equal spacing of legs.
+    ref: 58f465c5ed2a899de4000012
+    name: David Francis
+    username: david_francis
+  - replying_to: 58f462d7ed2a894865002bb2
+    created_at: '2017-04-17T08:30:50Z'
+    text: 'Yes it does look identical to my eyes see- http://www.findaspider.org.au/find/spiders/499.htm and we do have water nearby ?'
+    ref: 58f47d3aed2a8909a4000002
+    name: Andrew Brown
+    username: andrewbrown
+  - replying_to: 58f462d7ed2a894865002bb2
+    created_at: '2017-04-17T08:34:57Z'
+    text: "\t\r\nGiant Water Spider - Megadolomedes australianus. This could be an immature one as they grow to 20-25mm  body length and 50mm leg length."
+    ref: 58f47e31ed2a894865002c4d
+    name: Andrew Brown
+    username: andrewbrown
+collections:
+  - wildlife_of_junortoun

@@ -1,0 +1,31 @@
+id:
+  - Helpis spp.
+created_at: '2017-01-26T05:21:58Z'
+datetime: '2017-01-26T15:43:05+10:00'
+latitude: -37.408525
+longitude: 144.595262
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2017-01-27T12:00:30Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-01-26T15:43:05Z'
+    height: 1024
+    width: 1365
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58898758ed2a89d73e000318.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58898758ed2a89d73e000318.jpg'
+  - datetime: '2017-01-26T15:41:58Z'
+    height: 780
+    width: 1040
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58898833ed2a892daf000361.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58898833ed2a892daf000361.jpg'
+comments:
+  - created_at: '2017-01-26T05:35:31Z'
+    text: <em>Helpis spp.</em> species id suggested
+    ref: 58898aa3ed2a89d10f000a83
+    name: David Francis
+    username: david_francis
+collections:
+  - insects_and_other_arthropods_of_mt_macedon

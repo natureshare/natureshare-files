@@ -1,0 +1,31 @@
+id:
+  - Bursaria spinosa subsp. spinosa
+created_at: '2017-02-18T11:54:43Z'
+datetime: '2017-02-18T09:33:01+10:00'
+elevation: 216.2
+latitude: -36.775632
+location_name: 'Junortoun VIC 3551, Australia'
+longitude: 144.356075
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-02-18T11:54:43Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2017-02-18T09:32:52Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58a827d1ed2a892daf0003dc.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a827d1ed2a892daf0003dc.jpeg'
+  - datetime: '2017-02-18T09:33:01Z'
+    height: 2448
+    width: 3264
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/58a82781ed2a89d73e000395.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a82781ed2a89d73e000395.jpeg'
+tags:
+  - seed-capsules
+  - shrub-medium
+  - shrub-straggly
+collections:
+  - junortoun_flora

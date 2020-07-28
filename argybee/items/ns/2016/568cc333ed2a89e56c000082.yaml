@@ -1,0 +1,36 @@
+id:
+  - Sarcophaga spp.
+created_at: '2016-01-06T07:37:38Z'
+datetime: '2016-01-02T11:10:20+10:00'
+description: "These flies resemble the snail parasite Tachinids but are smaller with non metallic colours and have lines on the thorax. \r\n(?Sarcophaga aurifrons)"
+elevation: 139.2
+latitude: -37.903439
+location_name: 'Upper Ferntree Gully VIC 3156, Australia'
+longitude: 145.307857
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2016-01-08T12:37:35Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2016-01-02T11:10:20Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/568cc350ed2a89038f000017.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/568cc350ed2a89038f000017.JPG'
+  - datetime: '2016-01-02T11:10:44Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/568cc33eed2a89038f000015.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/568cc33eed2a89038f000015.JPG'
+  - datetime: '2016-01-02T11:10:34Z'
+    height: 900
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/568cc347ed2a89038f000016.JPG'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/568cc347ed2a89038f000016.JPG'
+tags:
+  - mating
+collections:
+  - dandenong_ranges_diptera

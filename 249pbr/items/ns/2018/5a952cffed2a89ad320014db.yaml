@@ -1,0 +1,43 @@
+id:
+  - Xylaria sp. nov. sensu Gates & Ratkowsky(1) 2016
+created_at: '2018-02-27T10:55:14Z'
+datetime: '2014-06-14T14:20:07+10:00'
+description: 'This is Xylaria "Spikey", a species not yet formally described but listed under this name in A Field Guide to Tasmanian Fungi by Gates & Ratkowsky'
+latitude: -37.446891
+longitude: 144.261475
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: good-for-id
+updated_at: '2018-03-02T12:06:46Z'
+license: CC BY 2.5 AU
+photos:
+  - primary: true
+    datetime: '2014-06-14T14:20:07Z'
+    height: 1086
+    width: 1440
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a952cfeed2a89cf9000001f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a952cfeed2a89cf9000001f.jpg'
+  - datetime: '2014-06-14T14:18:21Z'
+    height: 1602
+    width: 2012
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5a952d06ed2a8929e7000017.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a952d06ed2a8929e7000017.jpg'
+comments:
+  - created_at: '2018-02-28T02:18:43Z'
+    text: Xylaria sp. nov. sensu Gates & Ratkowsky(1) 2016 suggested. (Provisionally added to database).
+    ref: 5a961183ed2a89ad320018bf
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-02-28T02:22:16Z'
+    text: Db won't accept inverted commas. Spikey Xyleria used as common name and Xyleria "Spikey" is given in the description.
+    ref: 5a961258ed2a89ad320018c1
+    name: David Francis
+    username: david_francis
+  - created_at: '2018-07-30T02:06:02Z'
+    text: Also known as Xylaria filiformis
+    ref: 5b5e728aed2a8903a0008ac7
+    name: zeke1944
+    username: zeke1944
+collections:
+  - wombat_forest_-_fungi

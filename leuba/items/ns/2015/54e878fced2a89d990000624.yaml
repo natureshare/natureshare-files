@@ -1,0 +1,73 @@
+id:
+  - Culama suffusca
+created_at: '2015-02-21T12:24:28Z'
+datetime: '2015-02-20T22:06:50+10:00'
+description: "This handsome male cossid moth was grey with fine black lines on wings. Some parts of the wings were tinged with a pale brown.The tufted grey thorax had two bands of black. Legs had thick setae and tarsi were banded.\r\nSpotted under bright lights near a national park.\r\n"
+elevation: 139.7
+latitude: -37.892721
+location_name: 'Upper Ferntree Gully VIC 3156, Australia'
+longitude: 145.309692
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+updated_at: '2015-02-22T00:10:14Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-02-20T22:06:50Z'
+    height: 906
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54e878fbed2a89d990000621.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e878fbed2a89d990000621.jpg'
+  - datetime: '2015-02-20T22:06:31Z'
+    height: 993
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54e878fbed2a89d990000622.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e878fbed2a89d990000622.jpg'
+  - datetime: '2015-02-20T22:07:21Z'
+    height: 1200
+    width: 1200
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/54e878fbed2a89d990000623.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e878fbed2a89d990000623.jpg'
+tags:
+  - moth
+comments:
+  - created_at: '2015-02-21T23:39:54Z'
+    text: Culama suffusca is in the NS database. Nice photos!
+    ref: 54e9174aed2a8987b700056b
+    name: David Francis
+    username: david_francis
+  - replying_to: 54e9174aed2a8987b700056b
+    created_at: '2015-02-22T00:08:05Z'
+    text: Thank you very much.
+    ref: 54e91de5ed2a89d990000665
+    name: Leuba Ridgway
+    username: leuba
+  - created_at: '2016-12-25T14:51:24Z'
+    text: 'Have written a webpage including copies of your lovely photos: hope you approve:'
+    ref: 585fdceced2a89748000b0c4
+    name: Don Herbison-Evans
+    username: donhe
+  - created_at: '2016-12-25T14:51:34Z'
+    text: 'http://lepidoptera.butterflyhouse.com.au/coss/suffusca.html'
+    ref: 585fdcf6ed2a89748000b0c7
+    name: Don Herbison-Evans
+    username: donhe
+  - replying_to: 585fdceced2a89748000b0c4
+    created_at: '2017-01-06T03:02:32Z'
+    text: 'Don Herbison-Evans, I am honoured. Will have a look now and thank you so much.'
+    ref: 586f08c8ed2a89f464000a73
+    name: Leuba Ridgway
+    username: leuba
+  - replying_to: 585fdcf6ed2a89748000b0c7
+    created_at: '2017-01-06T03:12:54Z'
+    text: Wonderful - so proud to be included in your webpage. Thanks again
+    ref: 586f0b36ed2a89f464000a76
+    name: Leuba Ridgway
+    username: leuba
+  - created_at: '2017-11-29T13:01:12Z'
+    text: 'Interesting comparison https://natureshare.org.au/observations/5a1e83e2ed2a89928e00015e?display=thumbnails'
+    ref: 5a1eaf98ed2a8962be005036
+    name: Mark Ridgway
+    username: argybee
+collections:
+  - dandenong_ranges_lepidoptera

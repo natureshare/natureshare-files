@@ -1,0 +1,31 @@
+created_at: '2017-10-02T06:35:53Z'
+datetime: '2017-10-02T12:13:48+10:00'
+elevation: 229
+latitude: -36.39406
+location_name: 'Wedderburn VIC 3518, Australia'
+longitude: 143.62148
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: record-only
+updated_at: '2017-10-02T06:35:53Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2017-10-02T12:13:48Z'
+    height: 2048
+    width: 1536
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59d1cee5ed2a893984000393.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59d1cee5ed2a893984000393.jpeg'
+  - datetime: '2017-10-02T12:14:50Z'
+    height: 2048
+    width: 1536
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/59d1cefbed2a893984000397.jpeg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59d1cefbed2a893984000397.jpeg'
+comments:
+  - created_at: '2017-10-04T23:08:40Z'
+    text: Suggest Caladenia moschatum
+    ref: 59d569f8ed2a892d40002c88
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - wedderburn_josephine_drive

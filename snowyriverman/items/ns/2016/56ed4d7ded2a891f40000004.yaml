@@ -1,0 +1,50 @@
+id:
+  - name: Cassinia longifolia
+    by: chrisl
+created_at: '2016-03-19T13:08:18Z'
+datetime: '2016-03-20T00:00:00+10:00'
+elevation: 560.4
+latitude: -37.024584
+location_name: 'Tubbut VIC 3888, Australia'
+longitude: 148.562008
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+photo_quality: record-only
+updated_at: '2016-03-19T13:08:18Z'
+license: CC BY 2.5 AU
+photos:
+  - height: 1936
+    width: 2592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56ed4d87ed2a89211c00015f.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ed4d87ed2a89211c00015f.jpg'
+  - height: 1936
+    width: 2592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56ed4d88ed2a890be7000130.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ed4d88ed2a890be7000130.jpg'
+  - height: 1936
+    width: 2592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56ed4d94ed2a89211c000160.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ed4d94ed2a89211c000160.jpg'
+  - height: 1936
+    width: 2592
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/56ed4d95ed2a890be7000131.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ed4d95ed2a890be7000131.jpg'
+comments:
+  - created_at: '2016-03-21T07:02:26Z'
+    text: <em>Cassinia longifolia</em> species id suggested
+    ref: 56ef9c82ed2a89edf0000080
+    name: Chris Lindorff
+    username: chrisl
+  - created_at: '2016-03-21T07:41:52Z'
+    text: Only the top photo is of Cassinia longifolia.  The two photos below that might be Kunzea? and the bottom photo looks like a Wahlenbergia.
+    ref: 56efa5c0ed2a89edf0000083
+    name: Suzanne Jones
+    username: suzanne
+  - created_at: '2016-03-21T08:49:53Z'
+    text: 'I have asked Josh to separate the different observations. '
+    ref: 56efb5b1ed2a89edf0000087
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - natureshare_org_au_collections_snowyriver

@@ -1,0 +1,27 @@
+id:
+  - Hieraaetus morphnoides
+created_at: '2015-04-18T05:40:37Z'
+datetime: '2015-04-18T10:39:32+10:00'
+elevation: 24.9
+latitude: -37.783806
+location_name: 'Parkville VIC, Australia'
+longitude: 144.944564
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: false
+photo_quality: good-for-id
+updated_at: '2015-04-18T05:42:24Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2015-04-18T10:39:32Z'
+    height: 1500
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5531ee55ed2a89fadb000002.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5531ee55ed2a89fadb000002.jpg'
+  - datetime: '2015-04-18T10:36:58Z'
+    height: 1500
+    width: 2000
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/5531ee55ed2a89fadb000003.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5531ee55ed2a89fadb000003.jpg'
+collections:
+  - royal_park_parkville

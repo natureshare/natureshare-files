@@ -1,0 +1,29 @@
+id:
+  - Microdes villosata
+created_at: '2012-02-03T19:22:12Z'
+datetime: '2011-12-10T22:53:05+10:00'
+latitude: -37.856541
+longitude: 144.251347
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2019-04-18T02:38:53Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2011-12-10T22:53:05Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b39862e35eb1298401292d.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb1298401292d.jpg'
+comments:
+  - created_at: '2019-03-13T07:58:55Z'
+    text: id Microdes villosata
+    ref: 5c88b83f3abbd6e0d500004a
+    name: Wendy Moore
+    username: wendymoore
+  - replying_to: 5c88b83f3abbd6e0d500004a
+    created_at: '2019-04-18T02:38:34Z'
+    text: Thanks Wendy.
+    ref: 5cb7e32a3abbd677ba0000f7
+    name: Chris Lindorff
+    username: chrisl
+collections:
+  - brisbane_ranges_moths

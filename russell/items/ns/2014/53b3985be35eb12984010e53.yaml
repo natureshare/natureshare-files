@@ -1,0 +1,32 @@
+id:
+  - name: Pungalina spp.
+    by: david_francis
+created_at: '2014-05-23T20:45:52Z'
+datetime: '2014-05-22T14:19:37+10:00'
+latitude: -37.445351
+longitude: 144.658737
+non_identifying_photo: false
+photo_datetime_used: true
+photo_geotag_used: true
+updated_at: '2017-05-08T04:09:33Z'
+license: CC BY 2.5 AU
+photos:
+  - datetime: '2014-05-22T14:19:37Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986ce35eb12984015372.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb12984015372.jpg'
+  - datetime: '2014-05-22T14:19:47Z'
+    original_url: 'https://photos.natureshare.org.au/user_generated_content/original/observations/photos/original/53b3986ce35eb12984015373.jpg'
+    thumbnail_url: 'https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb12984015373.jpg'
+comments:
+  - created_at: '2017-05-06T23:20:16Z'
+    text: 'Propbably Pungalina, in the Apricia, Clynotis group. '
+    ref: 590e5a30ed2a893d8c0024ae
+    name: Robert Whyte
+    username: robertwhyte
+  - created_at: '2017-05-08T04:10:17Z'
+    text: id by RW. (corrected to Pungalina sp.)
+    ref: 590fefa9ed2a893d8c00292a
+    name: David Francis
+    username: david_francis
+collections:
+  - spiders_of_riddells_creek
