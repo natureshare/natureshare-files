@@ -1,0 +1,61 @@
+name: Actions
+
+on:
+  workflow_dispatch:
+    
+  schedule:
+    - cron:  '0 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Setup:
+
+      - name: Check ENABLE_ACTIONS
+        env:
+          ENABLE_ACTIONS: ${{ secrets.ENABLE_ACTIONS }}
+        run: if [ "$ENABLE_ACTIONS" != "yes" ]; then exit 1; fi
+
+      - name: Checkout files
+        uses: actions/checkout@v2
+        with:
+          path: files
+
+      - name: Checkout scripts
+        uses: actions/checkout@v2
+        with:
+          repository: natureshare/natureshare-web
+          path: web
+
+      - name: Set git user
+        run: |
+          cd files
+          git config user.name $GITHUB_ACTOR
+          git config user.email $GITHUB_ACTOR@users.noreply.github.com
+          
+      # Install:
+
+      - name: NPM Install
+        run: |
+          cd web
+          npm ci
+
+      # Run:
+
+      - name: Run actions
+        env:
+          CONTENT_FILE_PATH: ../files
+          API_HOST: ${{ secrets.API_HOST }}
+          CONTENT_HOST: ${{ secrets.CONTENT_HOST }}
+        run: |
+          cd web
+          time node scripts/actions.js
+
+      - name: Commit
+        run: |
+          cd files
+          git add .
+          git commit -m 'action updates' || echo no changes
+          git push

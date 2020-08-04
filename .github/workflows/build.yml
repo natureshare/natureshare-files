@@ -51,19 +51,6 @@ jobs:
 
       # Install:
 
-      - name: NPM Cache
-        uses: actions/cache@v2
-        env:
-          cache-name: cache-npm
-        with:
-          # npm cache files are stored in `~/.npm` on Linux/macOS
-          path: ~/.npm
-          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-build-${{ env.cache-name }}-
-            ${{ runner.os }}-build-
-            ${{ runner.os }}-
-              
       - name: NPM Install
         run: |
           cd web
@@ -93,5 +80,5 @@ jobs:
         run: |
           cd files
           git add . > /dev/null
-          git commit -m 'auto build' > /dev/null
-          git push || 'no changes'
+          git commit -m 'auto build' > /dev/null || echo no changes
+          git push
