@@ -20,42 +20,65 @@ jobs:
 
       - name: Checkout files
         uses: actions/checkout@v2
-        with:
-          path: files
 
       - name: Checkout scripts
         uses: actions/checkout@v2
         with:
           repository: natureshare/natureshare-web
-          path: web
-
-      - name: Set git user
-        run: |
-          cd files
-          git config user.name $GITHUB_ACTOR
-          git config user.email $GITHUB_ACTOR@users.noreply.github.com
+          path: _scripts
           
       # Install:
 
       - name: NPM Install
         run: |
-          cd web
+          cd _scripts
           npm ci
 
       # Run:
 
-      - name: Run actions
+      - name: Update
         env:
-          CONTENT_FILE_PATH: ../files
+          CONTENT_FILE_PATH: ../
           API_HOST: ${{ secrets.API_HOST }}
           CONTENT_HOST: ${{ secrets.CONTENT_HOST }}
         run: |
-          cd web
+          cd _scripts
           time node scripts/actions.js
+
+      - name: Validate
+        env:
+          CONTENT_FILE_PATH: ../
+        run: |
+          cd _scripts
+          node scripts/validate.js
 
       - name: Commit
         run: |
-          cd files
+          git config user.name $GITHUB_ACTOR
+          git config user.email $GITHUB_ACTOR@users.noreply.github.com
           git add .
-          git commit -m 'action updates' || echo no changes
+          git commit -m 'Updates via web app.' || echo no changes
           git push
+
+      - name: Build
+        env:
+          CONTENT_FILE_PATH: ../
+          APP_NAME: ${{ secrets.APP_NAME }}
+          APP_HOST: ${{ secrets.APP_HOST }}
+          CONTENT_HOST: ${{ secrets.CONTENT_HOST }}
+        run: |
+          cd _scripts
+          time node scripts/indexes/createItemsIndex.js
+          time node scripts/indexes/createCollectionsIndex.js
+          time node scripts/indexes/createUserIndex.js
+          
+      # Deploy:
+      
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          BRANCH: gh-pages
+          FOLDER: .
+          CLEAN: true
+          SINGLE_COMMIT: true
+          
