@@ -1,22 +1,23 @@
-name: Actions
+name: Indexes
 
 on:
   workflow_dispatch:
     
-  schedule:
-    - cron:  '0 * * * *'
+  push:
+    branches:
+      - master
 
 jobs:
-  build:
+  main:
     runs-on: ubuntu-latest
 
     steps:
-      # Setup:
-
       - name: Check ENABLE_ACTIONS
         env:
           ENABLE_ACTIONS: ${{ secrets.ENABLE_ACTIONS }}
         run: if [ "$ENABLE_ACTIONS" != "yes" ]; then exit 1; fi
+      
+      # Setup:
 
       - name: Checkout files
         uses: actions/checkout@v2
@@ -24,10 +25,23 @@ jobs:
       - name: Checkout scripts
         uses: actions/checkout@v2
         with:
-          repository: natureshare/natureshare-web
+          repository: natureshare/natureshare-scripts
           path: _scripts
-          
+
       # Install:
+
+      - name: NPM Cache
+        uses: actions/cache@v2
+        env:
+          cache-name: cache-npm
+        with:
+          # npm cache files are stored in `~/.npm` on Linux/macOS
+          path: ~/.npm
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
 
       - name: NPM Install
         run: |
@@ -36,31 +50,14 @@ jobs:
 
       # Run:
 
-      - name: Update
-        env:
-          CONTENT_FILE_PATH: ../
-          API_HOST: ${{ secrets.API_HOST }}
-          CONTENT_HOST: ${{ secrets.CONTENT_HOST }}
-        run: |
-          cd _scripts
-          time node scripts/actions.js
-
       - name: Validate
         env:
           CONTENT_FILE_PATH: ../
         run: |
           cd _scripts
-          node scripts/validate.js
+          time node validator/run.js
 
-      - name: Commit
-        run: |
-          git config user.name $GITHUB_ACTOR
-          git config user.email $GITHUB_ACTOR@users.noreply.github.com
-          git add .
-          git commit -m 'Updates via web app.' || echo no changes
-          git push
-
-      - name: Build
+      - name: Indexes
         env:
           CONTENT_FILE_PATH: ../
           APP_NAME: ${{ secrets.APP_NAME }}
@@ -68,10 +65,10 @@ jobs:
           CONTENT_HOST: ${{ secrets.CONTENT_HOST }}
         run: |
           cd _scripts
-          time node scripts/indexes/createItemsIndex.js
-          time node scripts/indexes/createCollectionsIndex.js
-          time node scripts/indexes/createUserIndex.js
-          
+          time node indexes/items.js
+          time node indexes/collections.js
+          time node indexes/users.js
+
       # Deploy:
       
       - name: Deploy
@@ -81,4 +78,3 @@ jobs:
           FOLDER: .
           CLEAN: true
           SINGLE_COMMIT: true
-          

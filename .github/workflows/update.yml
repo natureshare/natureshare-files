@@ -1,0 +1,96 @@
+name: Update
+
+on:
+  workflow_dispatch:
+    
+  schedule:
+    - cron:  '0 * * * *'
+
+jobs:
+  main:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check ENABLE_ACTIONS
+        env:
+          ENABLE_ACTIONS: ${{ secrets.ENABLE_ACTIONS }}
+        run: if [ "$ENABLE_ACTIONS" != "yes" ]; then exit 1; fi
+      
+      # Setup:
+
+      - name: Checkout files
+        uses: actions/checkout@v2
+
+      - name: Checkout scripts
+        uses: actions/checkout@v2
+        with:
+          repository: natureshare/natureshare-scripts
+          path: _scripts
+
+      # Install:
+
+      - name: NPM Cache
+        uses: actions/cache@v2
+        env:
+          cache-name: cache-npm
+        with:
+          # npm cache files are stored in `~/.npm` on Linux/macOS
+          path: ~/.npm
+          key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-build-${{ env.cache-name }}-
+            ${{ runner.os }}-build-
+            ${{ runner.os }}-
+
+      - name: NPM Install
+        run: |
+          cd _scripts
+          npm ci
+
+      # Run:
+
+      - name: Validate
+        env:
+          CONTENT_FILE_PATH: ../
+        run: |
+          cd _scripts
+          time node validator/run.js
+
+      - name: Updates
+        env:
+          CONTENT_FILE_PATH: ../
+          API_HOST: ${{ secrets.API_HOST }}
+          CONTENT_HOST: ${{ secrets.CONTENT_HOST }}
+        run: |
+          cd _scripts
+          time node actions/run.js
+
+      - name: Commit Updates
+        run: |
+          git config user.name $GITHUB_ACTOR
+          git config user.email $GITHUB_ACTOR@users.noreply.github.com
+          git add .
+          git commit -m 'Updates via app.' || echo no changes
+          git push
+
+      - name: Indexes
+        env:
+          CONTENT_FILE_PATH: ../
+          APP_NAME: ${{ secrets.APP_NAME }}
+          APP_HOST: ${{ secrets.APP_HOST }}
+          CONTENT_HOST: ${{ secrets.CONTENT_HOST }}
+        run: |
+          cd _scripts
+          time node indexes/items.js
+          time node indexes/collections.js
+          time node indexes/users.js
+
+      # Deploy:
+      
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          BRANCH: gh-pages
+          FOLDER: .
+          CLEAN: true
+          SINGLE_COMMIT: true
