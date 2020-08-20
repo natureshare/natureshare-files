@@ -60,7 +60,6 @@ jobs:
         env:
           SECRETS: ${{ toJSON(secrets) }}
           CONTENT_FILE_PATH: ../
-          API_HOST: ${{ secrets.API_HOST }}
           CONTENT_HOST: ${{ secrets.CONTENT_HOST }}
           API_HOST: ${{ secrets.API_HOST }}
           API_TOKEN: ${{ secrets.API_TOKEN }}
