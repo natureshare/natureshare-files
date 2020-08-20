@@ -2,12 +2,12 @@ name: Update
 
 on:
   workflow_dispatch:
-    
+
   schedule:
     - cron:  '0 * * * *'
 
 jobs:
-  main:
+  job:
     runs-on: ubuntu-latest
 
     steps:
@@ -15,7 +15,7 @@ jobs:
         env:
           ENABLE_ACTIONS: ${{ secrets.ENABLE_ACTIONS }}
         run: if [ "$ENABLE_ACTIONS" != "yes" ]; then exit 1; fi
-      
+
       # Setup:
 
       - name: Checkout files
@@ -58,9 +58,15 @@ jobs:
 
       - name: Updates
         env:
+          SECRETS: ${{ toJSON(secrets) }}
           CONTENT_FILE_PATH: ../
           API_HOST: ${{ secrets.API_HOST }}
           CONTENT_HOST: ${{ secrets.CONTENT_HOST }}
+          API_HOST: ${{ secrets.API_HOST }}
+          API_TOKEN: ${{ secrets.API_TOKEN }}
+          API_DATA_PRIVATE_KEY: ${{ secrets.API_DATA_PRIVATE_KEY }}
+          OAUTH_FLICKR_KEY: ${{ secrets.OAUTH_FLICKR_KEY }}
+          OAUTH_FLICKR_SECRET: ${{ secrets.OAUTH_FLICKR_SECRET }}
         run: |
           cd _scripts
           time node actions/run.js
@@ -86,7 +92,7 @@ jobs:
           time node indexes/users.js
 
       # Deploy:
-      
+
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
