@@ -2,7 +2,7 @@ name: Indexes
 
 on:
   workflow_dispatch:
-    
+
   push:
     branches:
       - master
@@ -16,7 +16,7 @@ jobs:
         env:
           ENABLE_ACTIONS: ${{ secrets.ENABLE_ACTIONS }}
         run: if [ "$ENABLE_ACTIONS" != "yes" ]; then exit 1; fi
-      
+
       # Setup:
 
       - name: Checkout files
@@ -53,6 +53,7 @@ jobs:
       - name: Validate
         env:
           CONTENT_FILE_PATH: ../
+          SECRETS_JSON: ${{ toJSON(secrets) }}
         run: |
           cd _scripts
           time node validator/run.js
@@ -60,9 +61,7 @@ jobs:
       - name: Indexes
         env:
           CONTENT_FILE_PATH: ../
-          APP_NAME: ${{ secrets.APP_NAME }}
-          APP_HOST: ${{ secrets.APP_HOST }}
-          CONTENT_HOST: ${{ secrets.CONTENT_HOST }}
+          SECRETS_JSON: ${{ toJSON(secrets) }}
         run: |
           cd _scripts
           time node indexes/items.js
@@ -70,7 +69,7 @@ jobs:
           time node indexes/users.js
 
       # Deploy:
-      
+
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
