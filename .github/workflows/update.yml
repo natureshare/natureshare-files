@@ -52,20 +52,15 @@ jobs:
       - name: Validate
         env:
           CONTENT_FILE_PATH: ../
+          SECRETS_JSON: ${{ toJSON(secrets) }}
         run: |
           cd _scripts
           time node validator/run.js
 
       - name: Updates
         env:
-          SECRETS: ${{ toJSON(secrets) }}
           CONTENT_FILE_PATH: ../
-          CONTENT_HOST: ${{ secrets.CONTENT_HOST }}
-          API_HOST: ${{ secrets.API_HOST }}
-          API_TOKEN: ${{ secrets.API_TOKEN }}
-          API_DATA_PRIVATE_KEY: ${{ secrets.API_DATA_PRIVATE_KEY }}
-          OAUTH_FLICKR_KEY: ${{ secrets.OAUTH_FLICKR_KEY }}
-          OAUTH_FLICKR_SECRET: ${{ secrets.OAUTH_FLICKR_SECRET }}
+          SECRETS_JSON: ${{ toJSON(secrets) }}
         run: |
           cd _scripts
           time node actions/run.js
@@ -81,9 +76,7 @@ jobs:
       - name: Indexes
         env:
           CONTENT_FILE_PATH: ../
-          APP_NAME: ${{ secrets.APP_NAME }}
-          APP_HOST: ${{ secrets.APP_HOST }}
-          CONTENT_HOST: ${{ secrets.CONTENT_HOST }}
+          SECRETS_JSON: ${{ toJSON(secrets) }}
         run: |
           cd _scripts
           time node indexes/items.js
