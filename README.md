@@ -1,3 +1,3 @@
-# natureshare-files
+# NatureShare - User Generated Content
 
-![Validate](https://github.com/natureshare/natureshare-files/workflows/Validate/badge.svg)
+https://natureshare.org.au

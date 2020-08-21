@@ -1,3 +1,21 @@
+## Ignore everything:
+*
+!*/
+
+## But not these files...
+!README.md
+!.gitignore
+!.last_update
+!.nojekyll
+!.updated_usernames
+!*.yml
+!*.yaml
+
+## Make sure to ignore these files:
 .DS_Store
 .env
 _scripts
+
+## Indexes:
+# !*.json
+# !*.xml

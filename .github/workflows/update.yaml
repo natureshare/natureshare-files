@@ -3,6 +3,10 @@ name: Update
 on:
   workflow_dispatch:
 
+  push:
+    branches:
+      - master
+
   schedule:
     - cron:  '0 * * * *'
 
@@ -11,15 +15,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check ENABLE_ACTIONS
-        env:
-          ENABLE_ACTIONS: ${{ secrets.ENABLE_ACTIONS }}
-        run: if [ "$ENABLE_ACTIONS" != "yes" ]; then exit 1; fi
+      - name: Event Name
+        run: |
+          echo $GITHUB_EVENT_NAME
 
       # Setup:
 
       - name: Checkout files
         uses: actions/checkout@v2
+
+      - name: Git Config
+        run: |
+          git config user.name $GITHUB_ACTOR
+          git config user.email $GITHUB_ACTOR@users.noreply.github.com
 
       - name: Checkout scripts
         uses: actions/checkout@v2
@@ -57,38 +65,40 @@ jobs:
           cd _scripts
           time node validator/run.js
 
-      - name: Updates
+      - name: Action Updates
+        if: ${{ github.event_name != 'push' }}
         env:
           CONTENT_FILE_PATH: ../
           SECRETS_JSON: ${{ toJSON(secrets) }}
         run: |
           cd _scripts
-          time node actions/run.js
-
-      - name: Commit Updates
-        run: |
-          git config user.name $GITHUB_ACTOR
-          git config user.email $GITHUB_ACTOR@users.noreply.github.com
+          node actions/run.js && echo "::set-env name=HAS_UPDATES::yes" || echo "::set-env name=HAS_UPDATES::no"
+          cd ..
           git add .
-          git commit -m 'Updates via app.' || echo no changes
+          git commit -m 'Action updates.' || echo no changes
           git push
 
-      - name: Indexes
+      - name: Auto-Generate Indexes
+        if: ${{ github.event_name == 'push' || env.HAS_UPDATES == 'yes' }}
         env:
           CONTENT_FILE_PATH: ../
           SECRETS_JSON: ${{ toJSON(secrets) }}
+          CNAME: ${{ secrets.CNAME }}
         run: |
           cd _scripts
-          time node indexes/items.js
-          time node indexes/collections.js
-          time node indexes/users.js
-
-      # Deploy:
-
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@releases/v3
-        with:
-          BRANCH: gh-pages
-          FOLDER: .
-          CLEAN: true
-          SINGLE_COMMIT: true
+          echo "items..." && time node indexes/items.js > /dev/null
+          sleep 1
+          echo "collections..." && time node indexes/collections.js > /dev/null
+          sleep 1
+          echo "users..." && time node indexes/users.js > /dev/null
+          sleep 1
+          echo "---"
+          cd ..
+          git checkout -b indexes
+          echo "!*.json" >> .gitignore
+          echo "!*.xml" >> .gitignore
+          echo "!CNAME" >> .gitignore
+          echo "$CNAME" > CNAME
+          echo "git add..." && git add . > /dev/null
+          echo "git commit..." && git commit -m 'Auto-generate indexes.' > /dev/null
+          echo "git push..." && git push -f origin indexes > /dev/null && echo 'Ok.'
