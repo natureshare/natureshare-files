@@ -95,7 +95,7 @@ jobs:
             "$AWS_S3_TARGET"
 
       - name: Auto-Generate Indexes
-        if: ${{ github.event_name == 'push' || env.HAS_UPDATES == 'yes' }}
+        if: ${{ github.event_name != 'schedule' || env.HAS_UPDATES == 'yes' }}
         env:
           CONTENT_FILE_PATH: ../
           SECRETS_JSON: ${{ toJSON(secrets) }}
