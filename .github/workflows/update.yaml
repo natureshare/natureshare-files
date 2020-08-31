@@ -70,32 +70,15 @@ jobs:
         env:
           CONTENT_FILE_PATH: ../
           SECRETS_JSON: ${{ toJSON(secrets) }}
-        run: |
-          cd _scripts
-          node actions/run.js && echo "::set-env name=HAS_UPDATES::yes" || echo "::set-env name=HAS_UPDATES::no"
-          cd ..
-          git add .
-          git commit -m 'Action updates.' || echo no changes
-          git push
-
-      - name: AWS Sync Thumbnails
-        if: ${{ env.HAS_UPDATES == 'yes' }}
-        env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_DEFAULT_REGION: ${{ secrets.AWS_DEFAULT_REGION }}
           AWS_S3_TARGET: ${{ secrets.AWS_S3_TARGET }}
         run: |
-            aws s3 sync \
-            --size-only \
-            --no-progress \
-            --exclude "*" \
-            --include "*.jpg" \
-            "./" \
-            "$AWS_S3_TARGET"
+          cd _scripts
+          node actions/run.js
 
       - name: Auto-Generate Indexes
-        if: ${{ github.event_name != 'schedule' || env.HAS_UPDATES == 'yes' }}
         env:
           CONTENT_FILE_PATH: ../
           SECRETS_JSON: ${{ toJSON(secrets) }}
