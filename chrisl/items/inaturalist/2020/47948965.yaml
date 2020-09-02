@@ -1,0 +1,35 @@
+id:
+  - name: Acacia paradoxa
+    common: Kangaroo thorn
+    by:
+      - chrislindorff
+      - reiner
+datetime: '2020-05-31T13:41:00+10:00'
+latitude: -37.866823
+longitude: 144.244261
+location_name: 'Staughton Vale VIC 3340, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '76064348'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/76064348/medium.jpeg?1590907643'
+    original_url: 'https://static.inaturalist.org/photos/76064348/original.jpeg?1590907643'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '76064698'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://static.inaturalist.org/photos/76064698/medium.jpeg?1590907946'
+    original_url: 'https://static.inaturalist.org/photos/76064698/original.jpeg?1590907946'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-05-31T16:52:30+10:00'
+updated_at: '2020-05-31T16:56:03+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/47948965'

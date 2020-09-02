@@ -1,0 +1,33 @@
+id:
+  - name: Fisera hypoleuca
+    by:
+      - koolah
+latitude: -37.806608
+longitude: 144.297025
+location_name: '576 Brisbane Road, Balliang VIC 3340, Australia'
+description: Fisera hypoleuca
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '40985878'
+    width: 1024
+    height: 670
+    thumbnail_url: 'https://static.inaturalist.org/photos/40985878/medium.jpeg?1559671059'
+    original_url: 'https://static.inaturalist.org/photos/40985878/original.jpeg?1559671059'
+    license: cc-by-nc-sa
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
+  - source: iNaturalist
+    id: '40985882'
+    width: 1024
+    height: 800
+    thumbnail_url: 'https://static.inaturalist.org/photos/40985882/medium.jpeg?1559671061'
+    original_url: 'https://static.inaturalist.org/photos/40985882/original.jpeg?1559671061'
+    license: cc-by-nc-sa
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
+license: cc-by-nc
+created_at: '2019-06-05T03:57:41+10:00'
+updated_at: '2019-06-05T03:57:45+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/26396153'

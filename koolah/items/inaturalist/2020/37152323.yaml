@@ -1,0 +1,36 @@
+id:
+  - name: Opsirhina albigutta
+    by:
+      - koolah
+      - vicfazio3
+datetime: '2017-03-02T21:01:00+11:00'
+latitude: -37.556679
+longitude: 144.419884
+location_name: 'Lerderderg State Park VIC 3458, Australia'
+tags:
+  - inaturalist
+  - female
+  - moth
+photos:
+  - source: iNaturalist
+    id: '58849838'
+    width: 1500
+    height: 1126
+    thumbnail_url: 'https://static.inaturalist.org/photos/58849838/medium.jpg?1577862850'
+    original_url: 'https://static.inaturalist.org/photos/58849838/original.jpg?1577862850'
+    license: cc-by-nc
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '58849868'
+    width: 1500
+    height: 1126
+    thumbnail_url: 'https://static.inaturalist.org/photos/58849868/medium.jpg?1577862956'
+    original_url: 'https://static.inaturalist.org/photos/58849868/original.jpg?1577862956'
+    license: cc-by-nc
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-01-01T18:15:29+11:00'
+updated_at: '2020-01-01T20:00:59+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/37152323'

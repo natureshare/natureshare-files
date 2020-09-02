@@ -1,0 +1,33 @@
+id:
+  - name: Goodia
+    by:
+      - chrislindorff
+datetime: '2009-09-12T11:43:00+10:00'
+latitude: -32.832001
+longitude: 138.056
+location_name: 'Mount Remarkable (DC), South Australia, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '74939207'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/74939207/medium.jpeg?1590405175'
+    original_url: 'https://static.inaturalist.org/photos/74939207/original.jpeg?1590405175'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '74939265'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/74939265/medium.jpeg?1590405207'
+    original_url: 'https://static.inaturalist.org/photos/74939265/original.jpeg?1590405207'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-05-25T21:38:05+10:00'
+updated_at: '2020-05-25T21:38:05+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/47252445'

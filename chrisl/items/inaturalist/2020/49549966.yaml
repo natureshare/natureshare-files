@@ -1,0 +1,27 @@
+id:
+  - name: Insecta
+    common: Insects
+    by:
+      - chrislindorff
+datetime: '2020-06-14T13:31:00+10:00'
+latitude: -37.90093
+longitude: 144.174546
+location_name: 'Sailors Track, Brisbane Ranges National Park'
+description: 'Gall growth on leaf of Eucalyptus polyanthemos (Red Box), a locally native species.'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '78656699'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://static.inaturalist.org/photos/78656699/medium.jpeg?1592116723'
+    original_url: 'https://static.inaturalist.org/photos/78656699/original.jpeg?1592116723'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-06-14T18:15:43+10:00'
+updated_at: '2020-08-20T02:33:24+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/49549966'

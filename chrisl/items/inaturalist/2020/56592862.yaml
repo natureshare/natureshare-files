@@ -1,0 +1,34 @@
+id:
+  - name: Senna artemisioides
+    common: silver senna
+    by:
+      - chrislindorff
+datetime: '2012-09-24T10:24:00+10:00'
+latitude: -31.297042
+longitude: 148.989049
+location_name: 'Warrumbungle National Park, NSW'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '90197241'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/90197241/medium.jpeg?1597549119'
+    original_url: 'https://static.inaturalist.org/photos/90197241/original.jpeg?1597549119'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '90197457'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/90197457/medium.jpeg?1597549240'
+    original_url: 'https://static.inaturalist.org/photos/90197457/original.jpeg?1597549240'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-08-16T13:40:45+10:00'
+updated_at: '2020-08-16T13:40:45+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/56592862'

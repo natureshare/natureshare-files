@@ -1,0 +1,27 @@
+id:
+  - name: Apis mellifera
+    common: Western Honey Bee
+    by:
+      - thebeachcomber
+      - chrislindorff
+datetime: '2009-09-13T14:29:00+10:00'
+latitude: -32.745846
+longitude: 138.075653
+location_name: 'Wilmington SA 5485, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '74925152'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/74925152/medium.jpeg?1590395665'
+    original_url: 'https://static.inaturalist.org/photos/74925152/original.jpeg?1590395665'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-05-25T18:35:20+10:00'
+updated_at: '2020-05-25T18:42:58+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/47242112'

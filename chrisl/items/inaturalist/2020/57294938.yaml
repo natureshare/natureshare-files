@@ -1,0 +1,33 @@
+id:
+  - name: Phebalium squamulosum squamulosum
+    by:
+      - chrislindorff
+datetime: '2012-09-25T11:34:00+10:00'
+latitude: -31.284727
+longitude: 148.970132
+location_name: 'Warrumbungle National Park, NSW'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '91375727'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/91375727/medium.jpeg?1598151178'
+    original_url: 'https://static.inaturalist.org/photos/91375727/original.jpeg?1598151178'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '91375913'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/91375913/medium.jpeg?1598151297'
+    original_url: 'https://static.inaturalist.org/photos/91375913/original.jpeg?1598151297'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-08-23T12:56:59+10:00'
+updated_at: '2020-08-23T12:56:59+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/57294938'

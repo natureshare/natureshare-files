@@ -1,0 +1,36 @@
+id:
+  - name: Danaus petilia
+    common: Lesser Wanderer
+    by:
+      - koolah
+      - thebeachcomber
+datetime: '2020-04-24T13:14:00+10:00'
+latitude: -37.806571
+longitude: 144.297036
+location_name: 'Brisbane Ranges VIC 3340, Australia'
+tags:
+  - inaturalist
+  - butterfly
+photos:
+  - source: iNaturalist
+    id: '68614644'
+    width: 2000
+    height: 1500
+    thumbnail_url: 'https://static.inaturalist.org/photos/68614644/medium.jpg?1587778074'
+    original_url: 'https://static.inaturalist.org/photos/68614644/original.jpg?1587778074'
+    license: cc-by-nc
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '68614967'
+    width: 2000
+    height: 1500
+    thumbnail_url: 'https://static.inaturalist.org/photos/68614967/medium.jpg?1587778154'
+    original_url: 'https://static.inaturalist.org/photos/68614967/original.jpg?1587778154'
+    license: cc-by-nc
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-04-25T11:28:33+10:00'
+updated_at: '2020-04-25T13:17:55+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/43229368'

@@ -1,0 +1,35 @@
+id:
+  - name: Basidiomycota
+    common: Basidiomycete Fungi
+    by:
+      - chrislindorff
+datetime: '2020-03-12T19:38:10+11:00'
+latitude: -37.898085
+longitude: 144.221757
+location_name: 'Anakie VIC 3213, Australia'
+description: Almost 20cm diameter.
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '63308393'
+    width: 2048
+    height: 1152
+    thumbnail_url: 'https://static.inaturalist.org/photos/63308393/medium.jpeg?1584002507'
+    original_url: 'https://static.inaturalist.org/photos/63308393/original.jpeg?1584002507'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '63308396'
+    width: 2048
+    height: 1152
+    thumbnail_url: 'https://static.inaturalist.org/photos/63308396/medium.jpeg?1584002521'
+    original_url: 'https://static.inaturalist.org/photos/63308396/original.jpeg?1584002521'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-03-12T19:41:34+11:00'
+updated_at: '2020-03-12T19:42:04+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/39875408'

@@ -1,0 +1,35 @@
+id:
+  - name: Fungi
+    common: Fungi Including Lichens
+    by:
+      - chrislindorff
+datetime: '2020-06-06T16:12:00+10:00'
+latitude: -35.921054
+longitude: 141.863993
+location_name: 'Rainbow VIC 3424, Australia'
+description: Crustose lichen
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '78667727'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://static.inaturalist.org/photos/78667727/medium.jpeg?1592125928'
+    original_url: 'https://static.inaturalist.org/photos/78667727/original.jpeg?1592125928'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '78674922'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://static.inaturalist.org/photos/78674922/medium.jpeg?1592130516'
+    original_url: 'https://static.inaturalist.org/photos/78674922/original.jpeg?1592130516'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-06-14T20:28:41+10:00'
+updated_at: '2020-06-14T20:28:41+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/49557729'

@@ -1,0 +1,35 @@
+id:
+  - name: Pterostylis mutica
+    common: midget greenhood
+    by:
+      - chrislindorff
+      - reiner
+datetime: '2012-09-25T11:15:00+10:00'
+latitude: -31.280935
+longitude: 148.97073
+location_name: 'Warrumbungle National Park, NSW'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '90913265'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/90913265/medium.jpeg?1597926130'
+    original_url: 'https://static.inaturalist.org/photos/90913265/original.jpeg?1597926130'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '90913507'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/90913507/medium.jpg?1597926288'
+    original_url: 'https://static.inaturalist.org/photos/90913507/original.jpg?1597926288'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-08-20T22:28:27+10:00'
+updated_at: '2020-08-20T22:45:29+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/57017452'

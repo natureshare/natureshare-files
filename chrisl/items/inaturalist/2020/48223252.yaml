@@ -1,0 +1,35 @@
+id:
+  - name: Acacia acinacea
+    common: Round-leaf Wattle
+    by:
+      - chrislindorff
+      - lorrainecphelan
+datetime: '2020-06-02T16:31:00+10:00'
+latitude: -37.691641
+longitude: 143.542312
+location_name: 'Linton VIC 3360, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '76504305'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/76504305/medium.jpeg?1591098217'
+    original_url: 'https://static.inaturalist.org/photos/76504305/original.jpeg?1591098217'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '76504494'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/76504494/medium.jpeg?1591098308'
+    original_url: 'https://static.inaturalist.org/photos/76504494/original.jpeg?1591098308'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-06-02T21:53:44+10:00'
+updated_at: '2020-08-17T13:43:33+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/48223252'

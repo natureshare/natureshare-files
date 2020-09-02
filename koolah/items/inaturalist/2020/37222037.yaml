@@ -1,0 +1,27 @@
+id:
+  - name: Lepidoptera
+    common: Butterflies and Moths
+    by:
+      - cesdamess
+datetime: '2017-06-28T22:16:00+10:00'
+latitude: -37.806571
+longitude: 144.297036
+location_name: 'Brisbane Ranges VIC 3340, Australia'
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '58972840'
+    width: 1500
+    height: 991
+    thumbnail_url: 'https://static.inaturalist.org/photos/58972840/medium.jpg?1578049075'
+    original_url: 'https://static.inaturalist.org/photos/58972840/original.jpg?1578049075'
+    license: cc-by-nc
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-01-03T22:00:41+11:00'
+updated_at: '2020-01-04T10:33:10+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/37222037'

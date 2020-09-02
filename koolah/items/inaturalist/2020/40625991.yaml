@@ -1,0 +1,37 @@
+id:
+  - name: Pararguda nasuta
+    by:
+      - koolah
+      - mhewish
+datetime: '2018-10-30T03:14:00+11:00'
+latitude: -38.63968
+longitude: 143.88275
+location_name: 'Wye River VIC 3234, Australia'
+description: Observed and photographed during Museums Victoria BioScan
+tags:
+  - inaturalist
+  - male
+  - moth
+photos:
+  - source: iNaturalist
+    id: '64393434'
+    width: 2000
+    height: 1723
+    thumbnail_url: 'https://static.inaturalist.org/photos/64393434/medium.jpg?1585030790'
+    original_url: 'https://static.inaturalist.org/photos/64393434/original.jpg?1585030790'
+    license: cc-by-nc
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '64393648'
+    width: 2000
+    height: 1500
+    thumbnail_url: 'https://static.inaturalist.org/photos/64393648/medium.jpg?1585031116'
+    original_url: 'https://static.inaturalist.org/photos/64393648/original.jpg?1585031116'
+    license: cc-by-nc
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-03-24T17:23:46+11:00'
+updated_at: '2020-04-16T10:01:10+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/40625991'

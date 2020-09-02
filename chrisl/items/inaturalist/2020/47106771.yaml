@@ -1,0 +1,41 @@
+id:
+  - name: Cynanchum viminale australe
+    by:
+      - chrislindorff
+datetime: '2013-09-28T11:17:00+10:00'
+latitude: -33.023426
+longitude: 138.105086
+location_name: 'Telowie SA 5540, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '74708963'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://static.inaturalist.org/photos/74708963/medium.jpg?1590326242'
+    original_url: 'https://static.inaturalist.org/photos/74708963/original.jpg?1590326242'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '74709032'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/74709032/medium.jpg?1590326267'
+    original_url: 'https://static.inaturalist.org/photos/74709032/original.jpg?1590326267'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '74709115'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://static.inaturalist.org/photos/74709115/medium.jpg?1590326294'
+    original_url: 'https://static.inaturalist.org/photos/74709115/original.jpg?1590326294'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-05-24T23:18:19+10:00'
+updated_at: '2020-05-24T23:18:19+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/47106771'

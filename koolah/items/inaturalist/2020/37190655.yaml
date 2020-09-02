@@ -1,0 +1,43 @@
+id:
+  - name: Phrataria replicataria
+    by:
+      - koolah
+      - vicfazio3
+datetime: '2017-03-01T21:54:00+11:00'
+latitude: -37.806571
+longitude: 144.297036
+location_name: 'Brisbane Ranges VIC 3340, Australia'
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '58917284'
+    width: 2048
+    height: 1622
+    thumbnail_url: 'https://static.inaturalist.org/photos/58917284/medium.jpg?1577967006'
+    original_url: 'https://static.inaturalist.org/photos/58917284/original.jpg?1577967006'
+    license: cc-by-nc
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '58917315'
+    width: 1500
+    height: 1221
+    thumbnail_url: 'https://static.inaturalist.org/photos/58917315/medium.jpg?1577967119'
+    original_url: 'https://static.inaturalist.org/photos/58917315/original.jpg?1577967119'
+    license: cc-by-nc
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '58917325'
+    width: 2048
+    height: 1555
+    thumbnail_url: 'https://static.inaturalist.org/photos/58917325/medium.jpg?1577967144'
+    original_url: 'https://static.inaturalist.org/photos/58917325/original.jpg?1577967144'
+    license: cc-by-nc
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-01-02T23:10:38+11:00'
+updated_at: '2020-01-03T05:56:55+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/37190655'

@@ -1,0 +1,27 @@
+id:
+  - name: Ninox boobook
+    common: Southern Boobook
+    by:
+      - chrislindorff
+      - koolah
+datetime: '2020-07-25T10:10:00+10:00'
+latitude: -37.901971
+longitude: 144.223413
+location_name: 'Anakie VIC 3213, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '86709171'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/86709171/medium.jpeg?1595826601'
+    original_url: 'https://static.inaturalist.org/photos/86709171/original.jpeg?1595826601'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-07-27T15:10:06+10:00'
+updated_at: '2020-08-03T12:09:53+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/54491953'

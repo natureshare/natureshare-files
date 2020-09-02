@@ -1,0 +1,35 @@
+id:
+  - name: Neola semiaurata
+    by:
+      - koolah
+      - vicfazio3
+datetime: '2017-10-07T20:13:00+11:00'
+latitude: -37.806571
+longitude: 144.297036
+location_name: 'Brisbane Ranges VIC 3340, Australia'
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '59461516'
+    width: 2000
+    height: 1401
+    thumbnail_url: 'https://static.inaturalist.org/photos/59461516/medium.jpeg?1578783884'
+    original_url: 'https://static.inaturalist.org/photos/59461516/original.jpeg?1578783884'
+    license: cc-by-nc
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '59461611'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://static.inaturalist.org/photos/59461611/medium.jpeg?1578783977'
+    original_url: 'https://static.inaturalist.org/photos/59461611/original.jpeg?1578783977'
+    license: cc-by-nc
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-01-12T10:05:46+11:00'
+updated_at: '2020-01-12T13:25:50+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/37501598'

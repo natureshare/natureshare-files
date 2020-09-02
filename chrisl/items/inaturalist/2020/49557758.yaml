@@ -1,0 +1,42 @@
+id:
+  - name: Fungi
+    common: Fungi Including Lichens
+    by:
+      - chrislindorff
+datetime: '2020-06-06T16:10:00+10:00'
+latitude: -35.921052
+longitude: 141.863992
+location_name: 'Hindmarsh, Victoria, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '78671890'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://static.inaturalist.org/photos/78671890/medium.jpeg?1592128685'
+    original_url: 'https://static.inaturalist.org/photos/78671890/original.jpeg?1592128685'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '78672041'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://static.inaturalist.org/photos/78672041/medium.jpeg?1592128786'
+    original_url: 'https://static.inaturalist.org/photos/78672041/original.jpeg?1592128786'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '78672174'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://static.inaturalist.org/photos/78672174/medium.jpeg?1592128887'
+    original_url: 'https://static.inaturalist.org/photos/78672174/original.jpeg?1592128887'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-06-14T20:28:53+10:00'
+updated_at: '2020-06-14T20:28:53+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/49557758'

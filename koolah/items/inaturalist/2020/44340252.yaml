@@ -1,0 +1,35 @@
+id:
+  - name: Phryganeutis cinerea
+    by:
+      - koolah
+      - mhewish
+datetime: '2020-04-24T19:28:00+10:00'
+latitude: -37.806571
+longitude: 144.297036
+location_name: 'Brisbane Ranges VIC 3340, Australia'
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '70299882'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://static.inaturalist.org/photos/70299882/medium.jpg?1588221366'
+    original_url: 'https://static.inaturalist.org/photos/70299882/original.jpg?1588221366'
+    license: cc-by-nc
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '70299961'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://static.inaturalist.org/photos/70299961/medium.jpg?1588221430'
+    original_url: 'https://static.inaturalist.org/photos/70299961/original.jpg?1588221430'
+    license: cc-by-nc
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-04-30T14:36:40+10:00'
+updated_at: '2020-04-30T17:41:33+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/44340252'

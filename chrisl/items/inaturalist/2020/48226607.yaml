@@ -1,0 +1,27 @@
+id:
+  - name: Rosa rubiginosa
+    common: Sweet-brier
+    by:
+      - chrislindorff
+datetime: '2020-06-02T15:27:00+10:00'
+latitude: -37.686971
+longitude: 143.541495
+location_name: 'Golden Plains - North-West, Victoria, Australia'
+description: 'Poor example, but only one found.'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '76509204'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/76509204/medium.jpeg?1591101155'
+    original_url: 'https://static.inaturalist.org/photos/76509204/original.jpeg?1591101155'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-06-02T22:48:12+10:00'
+updated_at: '2020-06-02T22:48:12+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/48226607'

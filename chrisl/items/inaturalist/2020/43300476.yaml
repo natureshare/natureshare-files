@@ -1,0 +1,33 @@
+id:
+  - name: Solenogyne dominii
+    by:
+      - chrislindorff
+datetime: '2020-04-25T13:18:14+10:00'
+latitude: -37.899795
+longitude: 144.223765
+location_name: 'Anakie VIC 3213, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '68725874'
+    width: 2048
+    height: 1280
+    thumbnail_url: 'https://static.inaturalist.org/photos/68725874/medium.jpeg?1587816171'
+    original_url: 'https://static.inaturalist.org/photos/68725874/original.jpeg?1587816171'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '68726014'
+    width: 2048
+    height: 1280
+    thumbnail_url: 'https://static.inaturalist.org/photos/68726014/medium.jpeg?1587816209'
+    original_url: 'https://static.inaturalist.org/photos/68726014/original.jpeg?1587816209'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-04-25T22:02:23+10:00'
+updated_at: '2020-04-25T22:03:32+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/43300476'

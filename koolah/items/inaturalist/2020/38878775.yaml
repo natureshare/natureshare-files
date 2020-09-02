@@ -1,0 +1,35 @@
+id:
+  - name: Capusa senilis
+    by:
+      - koolah
+      - daviaker
+datetime: '2018-09-26T19:54:00+10:00'
+latitude: -37.806571
+longitude: 144.297036
+location_name: 'Brisbane Ranges VIC 3340, Australia'
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '61827910'
+    width: 1500
+    height: 1458
+    thumbnail_url: 'https://static.inaturalist.org/photos/61827910/medium.jpg?1582195133'
+    original_url: 'https://static.inaturalist.org/photos/61827910/original.jpg?1582195133'
+    license: cc-by-nc
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '61828055'
+    width: 1500
+    height: 1126
+    thumbnail_url: 'https://static.inaturalist.org/photos/61828055/medium.jpg?1582195675'
+    original_url: 'https://static.inaturalist.org/photos/61828055/original.jpg?1582195675'
+    license: cc-by-nc
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-02-20T21:46:18+11:00'
+updated_at: '2020-03-09T09:06:32+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/38878775'

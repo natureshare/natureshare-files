@@ -1,0 +1,42 @@
+id:
+  - name: Hakea mitchellii
+    by:
+      - chrislindorff
+      - chrisclarke25
+datetime: '2020-06-07T15:42:00+10:00'
+latitude: -35.922576
+longitude: 141.85473
+location_name: 'Rainbow VIC 3424, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '78680825'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/78680825/medium.jpeg?1592133765'
+    original_url: 'https://static.inaturalist.org/photos/78680825/original.jpeg?1592133765'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '78683932'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/78683932/medium.jpeg?1592135317'
+    original_url: 'https://static.inaturalist.org/photos/78683932/original.jpeg?1592135317'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '78684228'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://static.inaturalist.org/photos/78684228/medium.jpeg?1592135512'
+    original_url: 'https://static.inaturalist.org/photos/78684228/original.jpeg?1592135512'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-06-14T21:51:56+10:00'
+updated_at: '2020-06-17T22:51:41+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/49563846'

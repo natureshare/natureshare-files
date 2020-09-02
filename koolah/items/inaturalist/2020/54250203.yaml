@@ -1,0 +1,30 @@
+id:
+  - name: Boarmia zaloschema
+    by:
+      - koolah
+      - mhewish
+      - vicfazio3
+datetime: '2019-10-23T00:05:00+11:00'
+latitude: -36.50053
+longitude: 141.114
+location_name: 'Little Desert VIC 3420, Australia'
+description: Observed and photographed during Little Desert BushBlitz
+tags:
+  - inaturalist
+  - male
+  - moth
+photos:
+  - source: iNaturalist
+    id: '86314407'
+    width: 1500
+    height: 1125
+    thumbnail_url: 'https://static.inaturalist.org/photos/86314407/medium.jpg?1595672327'
+    original_url: 'https://static.inaturalist.org/photos/86314407/original.jpg?1595672327'
+    license: cc-by-nc
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-07-25T20:22:27+10:00'
+updated_at: '2020-07-26T10:40:20+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/54250203'

@@ -1,0 +1,43 @@
+id:
+  - name: Juncus
+    common: rushes
+    by:
+      - chrislindorff
+      - beth393
+datetime: '2020-04-26T16:01:09+10:00'
+latitude: -37.908772
+longitude: 144.225249
+location_name: 'Anakie VIC 3213, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '69140462'
+    width: 2048
+    height: 1280
+    thumbnail_url: 'https://static.inaturalist.org/photos/69140462/medium.jpeg?1587897100'
+    original_url: 'https://static.inaturalist.org/photos/69140462/original.jpeg?1587897100'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '69140556'
+    width: 2048
+    height: 1280
+    thumbnail_url: 'https://static.inaturalist.org/photos/69140556/medium.jpeg?1587897132'
+    original_url: 'https://static.inaturalist.org/photos/69140556/original.jpeg?1587897132'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '69140669'
+    width: 1280
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/69140669/medium.jpeg?1587897170'
+    original_url: 'https://static.inaturalist.org/photos/69140669/original.jpeg?1587897170'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-04-26T20:31:01+10:00'
+updated_at: '2020-04-30T16:05:59+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/43579327'

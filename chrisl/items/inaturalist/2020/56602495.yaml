@@ -1,0 +1,33 @@
+id:
+  - name: Tetratheca decora
+    by:
+      - chrislindorff
+datetime: '2012-09-24T11:07:00+10:00'
+latitude: -31.300255
+longitude: 148.985149
+location_name: 'Warrumbungle National Park, NSW'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '90214451'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/90214451/medium.jpeg?1597563230'
+    original_url: 'https://static.inaturalist.org/photos/90214451/original.jpeg?1597563230'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '90214515'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/90214515/medium.jpeg?1597563302'
+    original_url: 'https://static.inaturalist.org/photos/90214515/original.jpeg?1597563302'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-08-16T17:35:07+10:00'
+updated_at: '2020-08-16T17:35:07+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/56602495'

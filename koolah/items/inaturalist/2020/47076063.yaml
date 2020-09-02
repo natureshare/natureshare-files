@@ -1,0 +1,35 @@
+id:
+  - name: Popplepsalta rubristrigata
+    common: Red Scratcher
+    by:
+      - joelp
+      - koolah
+datetime: '2017-01-26T23:00:00+11:00'
+latitude: -37.806571
+longitude: 144.297036
+location_name: 'Brisbane Ranges VIC 3340, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '74660615'
+    width: 2048
+    height: 1287
+    thumbnail_url: 'https://static.inaturalist.org/photos/74660615/medium.jpeg?1590298463'
+    original_url: 'https://static.inaturalist.org/photos/74660615/original.jpeg?1590298463'
+    license: cc-by-nc
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '74661567'
+    width: 1838
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/74661567/medium.jpeg?1590298959'
+    original_url: 'https://static.inaturalist.org/photos/74661567/original.jpeg?1590298959'
+    license: cc-by-nc
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-05-24T15:42:07+10:00'
+updated_at: '2020-06-05T12:10:24+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/47076063'

@@ -1,0 +1,27 @@
+id:
+  - name: Tebenna micalis
+    common: Vagrant twitcher
+    by:
+      - koolah
+      - vicfazio3
+latitude: -37.732718
+longitude: 145.211537
+location_name: 'Lower Orchard Track E, Warrandyte VIC 3113, Australia'
+description: Tebenna micalis - moth
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '40985425'
+    width: 1024
+    height: 781
+    thumbnail_url: 'https://static.inaturalist.org/photos/40985425/medium.jpeg?1559670786'
+    original_url: 'https://static.inaturalist.org/photos/40985425/original.jpeg?1559670786'
+    license: cc-by-nc-sa
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
+license: cc-by-nc
+created_at: '2019-06-05T03:53:07+10:00'
+updated_at: '2019-06-05T06:27:26+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/26395872'

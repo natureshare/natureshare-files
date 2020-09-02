@@ -1,0 +1,43 @@
+id:
+  - name: Pomaderris aspera
+    common: Hazel Pomaderris
+    by:
+      - chrislindorff
+      - bushbandit
+datetime: '2020-05-31T14:30:00+10:00'
+latitude: -37.856359
+longitude: 144.249295
+location_name: 'Gorge Walk, Brisbane Ranges National Park'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '76285688'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://static.inaturalist.org/photos/76285688/medium.jpeg?1590987583'
+    original_url: 'https://static.inaturalist.org/photos/76285688/original.jpeg?1590987583'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '76285909'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/76285909/medium.jpeg?1590987711'
+    original_url: 'https://static.inaturalist.org/photos/76285909/original.jpeg?1590987711'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '76286147'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/76286147/medium.jpeg?1590987868'
+    original_url: 'https://static.inaturalist.org/photos/76286147/original.jpeg?1590987868'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-06-01T15:10:51+10:00'
+updated_at: '2020-06-01T15:16:05+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/48088795'

@@ -1,0 +1,35 @@
+id:
+  - name: Galleria mellonella
+    common: Greater Wax Moth
+    by:
+      - koolah
+      - vicfazio3
+latitude: -37.806558
+longitude: 144.296918
+location_name: 'Brisbane Road, Balliang VIC 3340, Australia'
+description: Unwelcome visitor
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '40986057'
+    width: 1024
+    height: 653
+    thumbnail_url: 'https://static.inaturalist.org/photos/40986057/medium.jpeg?1559671182'
+    original_url: 'https://static.inaturalist.org/photos/40986057/original.jpeg?1559671182'
+    license: cc-by-nc-sa
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
+  - source: iNaturalist
+    id: '40986059'
+    width: 1024
+    height: 688
+    thumbnail_url: 'https://static.inaturalist.org/photos/40986059/medium.jpeg?1559671184'
+    original_url: 'https://static.inaturalist.org/photos/40986059/original.jpeg?1559671184'
+    license: cc-by-nc-sa
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
+license: cc-by-nc
+created_at: '2019-06-05T03:59:44+10:00'
+updated_at: '2019-06-05T06:24:35+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/26396261'

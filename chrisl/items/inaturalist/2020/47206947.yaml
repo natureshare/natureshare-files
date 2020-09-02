@@ -1,0 +1,35 @@
+id:
+  - name: Fungi
+    common: Fungi Including Lichens
+    by:
+      - chrislindorff
+datetime: '2020-05-25T10:25:42+10:00'
+latitude: -37.903261
+longitude: 144.223404
+location_name: 'Anakie VIC 3213, Australia'
+description: Ashen grey colour on cap. About 15cm diameter.
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '74867272'
+    width: 2048
+    height: 1152
+    thumbnail_url: 'https://static.inaturalist.org/photos/74867272/medium.jpeg?1590366646'
+    original_url: 'https://static.inaturalist.org/photos/74867272/original.jpeg?1590366646'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '74867319'
+    width: 2048
+    height: 1152
+    thumbnail_url: 'https://static.inaturalist.org/photos/74867319/medium.jpeg?1590366661'
+    original_url: 'https://static.inaturalist.org/photos/74867319/original.jpeg?1590366661'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-05-25T10:30:33+10:00'
+updated_at: '2020-05-25T10:31:04+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/47206947'

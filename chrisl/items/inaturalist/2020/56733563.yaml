@@ -1,0 +1,35 @@
+id:
+  - name: Dichondra repens
+    common: kidney weed
+    by:
+      - chrislindorff
+      - reiner
+datetime: '2012-09-24T12:41:00+10:00'
+latitude: -31.299097
+longitude: 148.98672
+location_name: 'Warrumbungle National Park, NSW'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '90431056'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://static.inaturalist.org/photos/90431056/medium.jpeg?1597667127'
+    original_url: 'https://static.inaturalist.org/photos/90431056/original.jpeg?1597667127'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '90431260'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://static.inaturalist.org/photos/90431260/medium.jpeg?1597667236'
+    original_url: 'https://static.inaturalist.org/photos/90431260/original.jpeg?1597667236'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-08-17T22:27:22+10:00'
+updated_at: '2020-08-17T22:29:15+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/56733563'

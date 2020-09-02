@@ -1,0 +1,33 @@
+id:
+  - name: Leptospermum divaricatum
+    by:
+      - chrislindorff
+datetime: '2012-09-29T12:00:00+10:00'
+latitude: -32.778874
+longitude: 148.350238
+location_name: 'Baldry NSW 2867, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '74373526'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/74373526/medium.jpeg?1590184997'
+    original_url: 'https://static.inaturalist.org/photos/74373526/original.jpeg?1590184997'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '74373657'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/74373657/medium.jpeg?1590185054'
+    original_url: 'https://static.inaturalist.org/photos/74373657/original.jpeg?1590185054'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-05-23T08:04:38+10:00'
+updated_at: '2020-05-23T14:23:31+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/46896363'

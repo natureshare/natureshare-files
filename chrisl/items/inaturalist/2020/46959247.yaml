@@ -1,0 +1,33 @@
+id:
+  - name: Phebalium nottii
+    by:
+      - chrislindorff
+datetime: '2012-09-29T10:56:00+10:00'
+latitude: -32.681269
+longitude: 148.333347
+location_name: 'Peak Hill NSW 2869, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '74474159'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/74474159/medium.jpg?1590238507'
+    original_url: 'https://static.inaturalist.org/photos/74474159/original.jpg?1590238507'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '74474282'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/74474282/medium.jpg?1590238569'
+    original_url: 'https://static.inaturalist.org/photos/74474282/original.jpg?1590238569'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-05-23T22:57:35+10:00'
+updated_at: '2020-05-23T22:57:35+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/46959247'

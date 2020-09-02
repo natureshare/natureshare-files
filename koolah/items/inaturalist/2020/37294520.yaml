@@ -1,0 +1,35 @@
+id:
+  - name: Ageletha elaeodes
+    by:
+      - koolah
+      - eremophila
+datetime: '2019-12-25T21:29:00+11:00'
+latitude: -37.806571
+longitude: 144.297036
+location_name: 'Brisbane Ranges VIC 3340, Australia'
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '59097012'
+    width: 1999
+    height: 2000
+    thumbnail_url: 'https://static.inaturalist.org/photos/59097012/medium.jpg?1578212596'
+    original_url: 'https://static.inaturalist.org/photos/59097012/original.jpg?1578212596'
+    license: cc-by-nc
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '59097047'
+    width: 2000
+    height: 1150
+    thumbnail_url: 'https://static.inaturalist.org/photos/59097047/medium.jpg?1578212660'
+    original_url: 'https://static.inaturalist.org/photos/59097047/original.jpg?1578212660'
+    license: cc-by-nc
+    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-01-05T19:23:52+11:00'
+updated_at: '2020-02-01T19:52:01+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/37294520'

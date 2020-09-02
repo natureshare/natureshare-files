@@ -1,0 +1,42 @@
+id:
+  - name: Brachyscome ciliaris
+    common: Variable Daisy
+    by:
+      - chrislindorff
+datetime: '2012-09-25T12:07:00+10:00'
+latitude: -31.287566
+longitude: 148.972651
+location_name: 'Warrumbungle National Park, NSW'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '92546332'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/92546332/medium.jpeg?1598753037'
+    original_url: 'https://static.inaturalist.org/photos/92546332/original.jpeg?1598753037'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '92546476'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://static.inaturalist.org/photos/92546476/medium.jpeg?1598753110'
+    original_url: 'https://static.inaturalist.org/photos/92546476/original.jpeg?1598753110'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+  - source: iNaturalist
+    id: '92546615'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/92546615/medium.jpeg?1598753189'
+    original_url: 'https://static.inaturalist.org/photos/92546615/original.jpeg?1598753189'
+    license: cc-by-nc
+    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+license: cc-by-nc
+created_at: '2020-08-30T12:06:33+10:00'
+updated_at: '2020-08-30T12:06:33+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/57990585'
