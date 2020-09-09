@@ -2,6 +2,9 @@ id:
   - name: Phylomictis maligna
     by:
       - eremophila
+      - vicfazio3
+    ref:
+      inaturalist: 355104
 latitude: -37.732718
 longitude: 145.211537
 location_name: 'Lower Orchard Track E, Warrandyte VIC 3113, Australia'
@@ -15,11 +18,12 @@ photos:
     height: 1024
     thumbnail_url: 'https://static.inaturalist.org/photos/40985490/medium.jpeg?1559670826'
     original_url: 'https://static.inaturalist.org/photos/40985490/original.jpeg?1559670826'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
-license: cc-by-nc
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40985490'
+license: CC BY-NC
 created_at: '2019-06-05T03:53:46+10:00'
-updated_at: '2020-01-14T18:55:53+11:00'
+updated_at: '2020-09-09T10:55:17+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26395912'

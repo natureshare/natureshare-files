@@ -4,10 +4,13 @@ id:
     by:
       - koolah
       - daviaker
+    ref:
+      inaturalist: 733724
 datetime: '2020-07-08T11:02:00+10:00'
 latitude: -37.806571
 longitude: 144.297036
 location_name: 'Brisbane Ranges VIC 3340, Australia'
+accuracy: 10
 description: Found on screen door mid-morning.
 tags:
   - inaturalist
@@ -18,9 +21,10 @@ photos:
     height: 1500
     thumbnail_url: 'https://static.inaturalist.org/photos/83884497/medium.jpg?1594520814'
     original_url: 'https://static.inaturalist.org/photos/83884497/original.jpg?1594520814'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/83884497'
+license: CC BY-NC
 created_at: '2020-07-12T12:27:47+10:00'
 updated_at: '2020-07-12T13:24:11+10:00'
 source:

@@ -4,10 +4,13 @@ id:
     by:
       - koolah
       - bushbandit
+    ref:
+      inaturalist: 549968
 datetime: '2020-06-20T12:37:00+10:00'
 latitude: -37.87787
 longitude: 144.20381
 location_name: Brisbane Ranges VIC 3340 Australia
+accuracy: 3
 description: 'Most plants had finished flowering, pale flower specimens X 2 with open flowers.'
 tags:
   - inaturalist
@@ -18,9 +21,10 @@ photos:
     height: 1126
     thumbnail_url: 'https://static.inaturalist.org/photos/79772221/medium.jpg?1592635448'
     original_url: 'https://static.inaturalist.org/photos/79772221/original.jpg?1592635448'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/79772221'
+license: CC BY-NC
 created_at: '2020-06-20T17:05:12+10:00'
 updated_at: '2020-06-20T17:20:22+10:00'
 source:

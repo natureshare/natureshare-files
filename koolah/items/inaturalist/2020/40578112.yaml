@@ -2,6 +2,8 @@ id:
   - name: Anisogona similana
     by:
       - koolah
+    ref:
+      inaturalist: 514732
 datetime: '2018-11-01T00:14:00+11:00'
 latitude: -38.65983
 longitude: 143.81591
@@ -18,9 +20,10 @@ photos:
     height: 2000
     thumbnail_url: 'https://static.inaturalist.org/photos/64312906/medium.jpg?1584956828'
     original_url: 'https://static.inaturalist.org/photos/64312906/original.jpg?1584956828'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/64312906'
+license: CC BY-NC
 created_at: '2020-03-23T20:48:54+11:00'
 updated_at: '2020-03-23T20:48:54+11:00'
 source:

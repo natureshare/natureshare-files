@@ -4,6 +4,8 @@ id:
     by:
       - koolah
       - kenharris
+    ref:
+      inaturalist: 388754
 latitude: -38.405782
 longitude: 144.068174
 location_name: 'No2 Rd, Wensleydale VIC 3241, Australia'
@@ -17,9 +19,10 @@ photos:
     height: 888
     thumbnail_url: 'https://static.inaturalist.org/photos/40985093/medium.jpeg?1559670584'
     original_url: 'https://static.inaturalist.org/photos/40985093/original.jpeg?1559670584'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
-license: cc-by-nc
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40985093'
+license: CC BY-NC
 created_at: '2019-06-05T03:49:45+10:00'
 updated_at: '2019-06-06T22:30:39+10:00'
 source:

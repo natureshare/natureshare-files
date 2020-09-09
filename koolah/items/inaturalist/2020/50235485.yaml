@@ -4,10 +4,13 @@ id:
       - koolah
       - chrisclarke25
       - arthur_chapman
+    ref:
+      inaturalist: 711401
 datetime: '2020-06-20T10:52:00+10:00'
 latitude: -37.8819
 longitude: 144.17966
 location_name: 'Bert Boardman Recreation Reserve, Vic'
+accuracy: 3
 tags:
   - inaturalist
 photos:
@@ -17,9 +20,10 @@ photos:
     height: 1500
     thumbnail_url: 'https://static.inaturalist.org/photos/79772228/medium.jpg?1592635454'
     original_url: 'https://static.inaturalist.org/photos/79772228/original.jpg?1592635454'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/79772228'
+license: CC BY-NC
 created_at: '2020-06-20T17:05:12+10:00'
 updated_at: '2020-06-24T22:29:24+10:00'
 source:

@@ -5,10 +5,13 @@ id:
       - koolah
       - thebeachcomber
       - chuditch
+    ref:
+      inaturalist: 40179
 datetime: '2020-06-09T16:31:00+10:00'
 latitude: -37.848985
 longitude: 144.399429
 location_name: 'Victoria, AU'
+accuracy: 28329
 description: 'At dusk two nights ago I heard a Powerful Owl and today in the same area, sadly, I discovered this. I assume a predator/prey episode.'
 tags:
   - inaturalist
@@ -19,9 +22,10 @@ photos:
     height: 1126
     thumbnail_url: 'https://static.inaturalist.org/photos/77787476/medium.jpeg?1591702622'
     original_url: 'https://static.inaturalist.org/photos/77787476/original.jpeg?1591702622'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/77787476'
+license: CC BY-NC
 created_at: '2020-06-09T21:52:03+10:00'
 updated_at: '2020-06-10T14:56:54+10:00'
 source:

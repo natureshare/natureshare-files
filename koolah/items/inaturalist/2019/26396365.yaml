@@ -5,6 +5,8 @@ id:
       - koolah
       - bmduggan
       - joshuagsmith
+    ref:
+      inaturalist: 12065
 latitude: -37.804009
 longitude: 144.303863
 location_name: '491 Brisbane Road, Balliang VIC 3340, Australia'
@@ -18,9 +20,10 @@ photos:
     height: 725
     thumbnail_url: 'https://static.inaturalist.org/photos/40986176/medium.jpeg?1559671268'
     original_url: 'https://static.inaturalist.org/photos/40986176/original.jpeg?1559671268'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
-license: cc-by-nc
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40986176'
+license: CC BY-NC
 created_at: '2019-06-05T04:01:09+10:00'
 updated_at: '2019-06-06T14:18:35+10:00'
 source:

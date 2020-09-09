@@ -2,6 +2,8 @@ id:
   - name: Chlorocoma tetraspila
     by:
       - koolah
+    ref:
+      inaturalist: 981980
 datetime: '2018-04-08T22:48:00+10:00'
 latitude: -38.40578
 longitude: 144.06817
@@ -16,9 +18,10 @@ photos:
     height: 1126
     thumbnail_url: 'https://static.inaturalist.org/photos/58309253/medium.jpg?1576988623'
     original_url: 'https://static.inaturalist.org/photos/58309253/original.jpg?1576988623'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/58309253'
+license: CC BY-NC
 created_at: '2019-12-22T15:26:03+11:00'
 updated_at: '2019-12-22T15:26:03+11:00'
 source:

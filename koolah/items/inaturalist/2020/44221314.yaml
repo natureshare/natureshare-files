@@ -5,6 +5,8 @@ id:
       - koolah
       - mhewish
       - indrabone
+    ref:
+      inaturalist: 12065
 datetime: '2020-04-24T13:41:00+10:00'
 latitude: -37.80481
 longitude: 144.29781
@@ -18,9 +20,10 @@ photos:
     height: 1536
     thumbnail_url: 'https://static.inaturalist.org/photos/70112241/medium.jpeg?1588134627'
     original_url: 'https://static.inaturalist.org/photos/70112241/original.jpeg?1588134627'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/70112241'
+license: CC BY-NC
 created_at: '2020-04-29T14:34:34+10:00'
 updated_at: '2020-05-17T20:11:58+10:00'
 source:

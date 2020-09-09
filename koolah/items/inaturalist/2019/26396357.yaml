@@ -3,6 +3,8 @@ id:
     common: tall rice-flower
     by:
       - koolah
+    ref:
+      inaturalist: 544835
 latitude: -36.922993
 longitude: 148.17713
 location_name: 'Limestone Road, Alpine National Park, Brumby VIC 3885, Australia'
@@ -16,9 +18,10 @@ photos:
     height: 768
     thumbnail_url: 'https://static.inaturalist.org/photos/40986168/medium.jpeg?1559671262'
     original_url: 'https://static.inaturalist.org/photos/40986168/original.jpeg?1559671262'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
-license: cc-by-nc
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40986168'
+license: CC BY-NC
 created_at: '2019-06-05T04:01:03+10:00'
 updated_at: '2019-06-05T04:01:05+10:00'
 source:

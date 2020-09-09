@@ -2,6 +2,8 @@ id:
   - name: Cardiacera
     by:
       - koolah
+    ref:
+      inaturalist: 892121
 latitude: -37.88409
 longitude: 145.59762
 location_name: '1425 Gembrook-Launching Pl Rd, Hoddles Creek VIC 3139, Australia'
@@ -17,9 +19,10 @@ photos:
     height: 814
     thumbnail_url: 'https://static.inaturalist.org/photos/40985046/medium.jpeg?1559670563'
     original_url: 'https://static.inaturalist.org/photos/40985046/original.jpeg?1559670563'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
-license: cc-by-nc
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40985046'
+license: CC BY-NC
 created_at: '2019-06-05T03:49:23+10:00'
 updated_at: '2019-06-05T03:49:26+10:00'
 source:

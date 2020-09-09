@@ -4,6 +4,8 @@ id:
     by:
       - koolah
       - bushbandit
+    ref:
+      inaturalist: 18921
 datetime: '2020-04-28T11:14:00+10:00'
 latitude: -37.80523
 longitude: 144.29781
@@ -17,9 +19,10 @@ photos:
     height: 1149
     thumbnail_url: 'https://static.inaturalist.org/photos/70108196/medium.jpeg?1588132688'
     original_url: 'https://static.inaturalist.org/photos/70108196/original.jpeg?1588132688'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/70108196'
+license: CC BY-NC
 created_at: '2020-04-29T14:03:37+10:00'
 updated_at: '2020-04-29T14:12:09+10:00'
 source:

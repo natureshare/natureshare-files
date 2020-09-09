@@ -2,6 +2,8 @@ id:
   - name: Garrha sincerella
     by:
       - koolah
+    ref:
+      inaturalist: 701462
 datetime: '2019-12-25T22:51:00+11:00'
 latitude: -37.806571
 longitude: 144.297036
@@ -16,9 +18,10 @@ photos:
     height: 1500
     thumbnail_url: 'https://static.inaturalist.org/photos/58494499/medium.jpg?1577315456'
     original_url: 'https://static.inaturalist.org/photos/58494499/original.jpg?1577315456'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/58494499'
+license: CC BY-NC
 created_at: '2019-12-26T10:11:34+11:00'
 updated_at: '2019-12-26T10:11:34+11:00'
 source:

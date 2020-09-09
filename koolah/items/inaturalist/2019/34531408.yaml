@@ -5,10 +5,13 @@ id:
       - koolah
       - vicfazio3
       - petermarriott
+    ref:
+      inaturalist: 202787
 datetime: '2019-10-15T20:26:00+11:00'
 latitude: -37.79186
 longitude: 144.957305
 location_name: 'Melbourne VIC, Australia'
+accuracy: 4
 tags:
   - inaturalist
   - moth
@@ -19,9 +22,10 @@ photos:
     height: 1126
     thumbnail_url: 'https://static.inaturalist.org/photos/54357595/medium.jpeg?1571397107'
     original_url: 'https://static.inaturalist.org/photos/54357595/original.jpeg?1571397107'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/54357595'
+license: CC BY-NC
 created_at: '2019-10-18T22:13:17+11:00'
 updated_at: '2020-05-17T23:23:43+10:00'
 source:

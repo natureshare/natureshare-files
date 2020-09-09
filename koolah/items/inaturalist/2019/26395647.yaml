@@ -3,6 +3,8 @@ id:
     common: Jumping Spiders
     by:
       - koolah
+    ref:
+      inaturalist: 48139
 latitude: -38.28315
 longitude: 144.61048
 location_name: '65 Glaneuse Rd, Point Lonsdale VIC 3225, Australia'
@@ -18,9 +20,10 @@ photos:
     height: 681
     thumbnail_url: 'https://static.inaturalist.org/photos/40985138/medium.jpeg?1559670604'
     original_url: 'https://static.inaturalist.org/photos/40985138/original.jpeg?1559670604'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
-license: cc-by-nc
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40985138'
+license: CC BY-NC
 created_at: '2019-06-05T03:50:05+10:00'
 updated_at: '2019-06-05T03:50:07+10:00'
 source:

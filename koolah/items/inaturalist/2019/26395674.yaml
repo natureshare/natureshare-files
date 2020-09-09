@@ -5,6 +5,8 @@ id:
       - koolah
       - vicfazio3
       - gumnut
+    ref:
+      inaturalist: 149448
 latitude: -38.24269
 longitude: 144.53215
 location_name: 'North Track, Wallington VIC 3222, Australia'
@@ -18,9 +20,10 @@ photos:
     height: 848
     thumbnail_url: 'https://static.inaturalist.org/photos/40985174/medium.jpeg?1559670629'
     original_url: 'https://static.inaturalist.org/photos/40985174/original.jpeg?1559670629'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
-license: cc-by-nc
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40985174'
+license: CC BY-NC
 created_at: '2019-06-05T03:50:29+10:00'
 updated_at: '2019-06-05T10:37:20+10:00'
 source:

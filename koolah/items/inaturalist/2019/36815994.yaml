@@ -4,10 +4,13 @@ id:
     by:
       - koolah
       - vicfazio3
+    ref:
+      inaturalist: 210339
 datetime: '2019-10-23T20:36:00+11:00'
 latitude: -36.51698
 longitude: 142.02103
 location_name: 'Little Desert VIC 3418, Australia'
+accuracy: 230
 description: Observed and photographed during the Little Desert BushBlitz
 tags:
   - inaturalist
@@ -20,9 +23,10 @@ photos:
     height: 1364
     thumbnail_url: 'https://static.inaturalist.org/photos/58259581/medium.jpg?1576902363'
     original_url: 'https://static.inaturalist.org/photos/58259581/original.jpg?1576902363'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/58259581'
+license: CC BY-NC
 created_at: '2019-12-21T15:28:55+11:00'
 updated_at: '2019-12-21T15:34:35+11:00'
 source:

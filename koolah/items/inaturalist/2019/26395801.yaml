@@ -3,6 +3,8 @@ id:
     by:
       - koolah
       - eremophila
+    ref:
+      inaturalist: 523249
 latitude: -37.732718
 longitude: 145.211537
 location_name: 'Lower Orchard Track E, Warrandyte VIC 3113, Australia'
@@ -16,9 +18,10 @@ photos:
     height: 730
     thumbnail_url: 'https://static.inaturalist.org/photos/40985296/medium.jpeg?1559670706'
     original_url: 'https://static.inaturalist.org/photos/40985296/original.jpeg?1559670706'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
-license: cc-by-nc
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40985296'
+license: CC BY-NC
 created_at: '2019-06-05T03:51:46+10:00'
 updated_at: '2020-04-06T17:53:54+10:00'
 source:

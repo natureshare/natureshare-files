@@ -2,6 +2,8 @@ id:
   - name: Ardozyga xuthias
     by:
       - koolah
+    ref:
+      inaturalist: 778598
 datetime: '2018-11-27T22:56:00+11:00'
 latitude: -38.553956
 longitude: 143.430443
@@ -17,9 +19,10 @@ photos:
     height: 1317
     thumbnail_url: 'https://static.inaturalist.org/photos/59074708/medium.jpg?1578180178'
     original_url: 'https://static.inaturalist.org/photos/59074708/original.jpg?1578180178'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/59074708'
+license: CC BY-NC
 created_at: '2020-01-05T10:24:14+11:00'
 updated_at: '2020-01-05T10:24:14+11:00'
 source:

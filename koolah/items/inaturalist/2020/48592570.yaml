@@ -3,10 +3,13 @@ id:
     common: puffballs
     by:
       - koolah
+    ref:
+      inaturalist: 48445
 datetime: '2020-06-05T14:11:00+10:00'
 latitude: -37.87796
 longitude: 144.21002
 location_name: 'Brisbane Ranges VIC 3340, Australia'
+accuracy: 3
 tags:
   - inaturalist
 photos:
@@ -16,9 +19,10 @@ photos:
     height: 1126
     thumbnail_url: 'https://static.inaturalist.org/photos/77108950/medium.jpeg?1591398544'
     original_url: 'https://static.inaturalist.org/photos/77108950/original.jpeg?1591398544'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/77108950'
+license: CC BY-NC
 created_at: '2020-06-06T09:12:06+10:00'
 updated_at: '2020-06-06T09:12:06+10:00'
 source:

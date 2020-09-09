@@ -4,10 +4,13 @@ id:
     by:
       - koolah
       - chrislindorff
+    ref:
+      inaturalist: 210349
 datetime: '2020-06-05T14:22:00+10:00'
 latitude: -37.87026
 longitude: 144.21069
 location_name: 'Brisbane Ranges VIC 3340, Australia'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -17,9 +20,10 @@ photos:
     height: 1499
     thumbnail_url: 'https://static.inaturalist.org/photos/77106369/medium.jpeg?1591397486'
     original_url: 'https://static.inaturalist.org/photos/77106369/original.jpeg?1591397486'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/77106369'
+license: CC BY-NC
 created_at: '2020-06-06T09:04:21+10:00'
 updated_at: '2020-06-09T11:17:58+10:00'
 source:

@@ -3,6 +3,8 @@ id:
     common: Cutworm Moths and Allies
     by:
       - koolah
+    ref:
+      inaturalist: 48670
 latitude: -37.806685
 longitude: 144.297153
 location_name: '576 Brisbane Road, Balliang VIC 3340, Australia'
@@ -18,17 +20,19 @@ photos:
     height: 1024
     thumbnail_url: 'https://static.inaturalist.org/photos/40985844/medium.jpeg?1559671033'
     original_url: 'https://static.inaturalist.org/photos/40985844/original.jpeg?1559671033'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40985844'
   - source: iNaturalist
     id: '40985846'
     width: 1024
     height: 683
     thumbnail_url: 'https://static.inaturalist.org/photos/40985846/medium.jpeg?1559671035'
     original_url: 'https://static.inaturalist.org/photos/40985846/original.jpeg?1559671035'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
-license: cc-by-nc
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40985846'
+license: CC BY-NC
 created_at: '2019-06-05T03:57:16+10:00'
 updated_at: '2019-06-05T06:37:37+10:00'
 source:

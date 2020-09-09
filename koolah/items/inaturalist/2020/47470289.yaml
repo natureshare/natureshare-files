@@ -1,9 +1,9 @@
 id:
-  - name: Fulgoroidea
-    common: Planthoppers
+  - name: Dipsiathus
     by:
-      - treegrow
-      - koolah
+      - shelley_b
+    ref:
+      inaturalist: 603052
 datetime: '2018-10-30T20:39:00+11:00'
 latitude: -38.67452
 longitude: 143.84562
@@ -18,11 +18,12 @@ photos:
     height: 2000
     thumbnail_url: 'https://static.inaturalist.org/photos/75289830/medium.jpg?1590545818'
     original_url: 'https://static.inaturalist.org/photos/75289830/original.jpg?1590545818'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/75289830'
+license: CC BY-NC
 created_at: '2020-05-27T12:20:36+10:00'
-updated_at: '2020-05-29T08:46:48+10:00'
+updated_at: '2020-09-07T00:40:36+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/47470289'

@@ -4,10 +4,13 @@ id:
     by:
       - koolah
       - chrislindorff
+    ref:
+      inaturalist: 323904
 datetime: '2020-06-05T14:55:00+10:00'
 latitude: -37.87734
 longitude: 144.21132
 location_name: 'Brisbane Ranges VIC 3340, Australia'
+accuracy: 3
 description: Buds just starting to show in the large colony
 tags:
   - inaturalist
@@ -18,9 +21,10 @@ photos:
     height: 1126
     thumbnail_url: 'https://static.inaturalist.org/photos/77106241/medium.jpeg?1591397439'
     original_url: 'https://static.inaturalist.org/photos/77106241/original.jpeg?1591397439'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/77106241'
+license: CC BY-NC
 created_at: '2020-06-06T09:04:12+10:00'
 updated_at: '2020-06-09T11:19:41+10:00'
 source:

@@ -1,6 +1,8 @@
 id:
   - name: Lepidoptera
     common: Butterflies and Moths
+    ref:
+      inaturalist: 47157
 latitude: -37.806948
 longitude: 144.297143
 location_name: '576 Brisbane Road, Balliang VIC 3340, Australia'
@@ -14,9 +16,10 @@ photos:
     height: 632
     thumbnail_url: 'https://static.inaturalist.org/photos/40986260/medium.jpeg?1559671326'
     original_url: 'https://static.inaturalist.org/photos/40986260/original.jpeg?1559671326'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
-license: cc-by-nc
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40986260'
+license: CC BY-NC
 created_at: '2019-06-05T04:02:07+10:00'
 updated_at: '2019-10-02T23:26:21+10:00'
 source:

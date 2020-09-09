@@ -3,6 +3,8 @@ id:
     common: Caddisflies
     by:
       - koolah
+    ref:
+      inaturalist: 62164
 latitude: -37.884091
 longitude: 145.597624
 location_name: '1425 Gembrook-Launching Pl Rd, Hoddles Creek VIC 3139, Australia'
@@ -18,9 +20,10 @@ photos:
     height: 618
     thumbnail_url: 'https://static.inaturalist.org/photos/40985061/medium.jpeg?1559670569'
     original_url: 'https://static.inaturalist.org/photos/40985061/original.jpeg?1559670569'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
-license: cc-by-nc
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40985061'
+license: CC BY-NC
 created_at: '2019-06-05T03:49:29+10:00'
 updated_at: '2019-06-05T03:49:31+10:00'
 source:

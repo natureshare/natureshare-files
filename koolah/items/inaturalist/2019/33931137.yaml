@@ -2,6 +2,8 @@ id:
   - name: Praxis
     by:
       - koolah
+    ref:
+      inaturalist: 424919
 datetime: '2019-10-02T21:42:00+10:00'
 latitude: -37.806571
 longitude: 144.297036
@@ -16,9 +18,10 @@ photos:
     height: 1126
     thumbnail_url: 'https://static.inaturalist.org/photos/53346409/medium.jpg?1570331247'
     original_url: 'https://static.inaturalist.org/photos/53346409/original.jpg?1570331247'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/53346409'
+license: CC BY-NC
 created_at: '2019-10-06T14:07:51+11:00'
 updated_at: '2019-12-20T22:38:23+11:00'
 source:

@@ -4,6 +4,8 @@ id:
     by:
       - koolah
       - thebeachcomber
+    ref:
+      inaturalist: 508969
 datetime: '2020-04-28T15:20:00+10:00'
 latitude: -37.80523
 longitude: 144.29781
@@ -17,9 +19,10 @@ photos:
     height: 1149
     thumbnail_url: 'https://static.inaturalist.org/photos/70108146/medium.jpeg?1588132671'
     original_url: 'https://static.inaturalist.org/photos/70108146/original.jpeg?1588132671'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/70108146'
+license: CC BY-NC
 created_at: '2020-04-29T14:03:34+10:00'
 updated_at: '2020-04-29T14:05:25+10:00'
 source:

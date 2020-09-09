@@ -1,0 +1,30 @@
+id:
+  - name: Capusa
+    ref:
+      inaturalist: 321368
+datetime: '2019-12-15T13:23:00+11:00'
+latitude: -37.806571
+longitude: 144.297036
+location_name: 'Brisbane Ranges VIC 3340, Australia'
+accuracy: 10
+description: 'Recently molted, note old skin still present on leaf with caterpillar.'
+tags:
+  - inaturalist
+  - moth
+  - larva
+photos:
+  - source: iNaturalist
+    id: '93338281'
+    width: 2000
+    height: 1344
+    thumbnail_url: 'https://static.inaturalist.org/photos/93338281/medium.jpg?1599174903'
+    original_url: 'https://static.inaturalist.org/photos/93338281/original.jpg?1599174903'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/93338281'
+license: CC BY-NC
+created_at: '2020-09-04T09:16:02+10:00'
+updated_at: '2020-09-05T10:32:57+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/58461999'

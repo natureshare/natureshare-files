@@ -4,6 +4,8 @@ id:
     by:
       - ethanbeaver
       - casemothcapers
+    ref:
+      inaturalist: 61415
 latitude: -36.924988
 longitude: 148.160596
 location_name: 'Limestone Road, Alpine National Park, Brumby VIC 3885, Australia'
@@ -17,17 +19,19 @@ photos:
     height: 724
     thumbnail_url: 'https://static.inaturalist.org/photos/40986135/medium.jpeg?1559671242'
     original_url: 'https://static.inaturalist.org/photos/40986135/original.jpeg?1559671242'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40986135'
   - source: iNaturalist
     id: '40986137'
     width: 1024
     height: 723
     thumbnail_url: 'https://static.inaturalist.org/photos/40986137/medium.jpeg?1559671244'
     original_url: 'https://static.inaturalist.org/photos/40986137/original.jpeg?1559671244'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
-license: cc-by-nc
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40986137'
+license: CC BY-NC
 created_at: '2019-06-05T04:00:44+10:00'
 updated_at: '2019-11-07T11:08:08+11:00'
 source:

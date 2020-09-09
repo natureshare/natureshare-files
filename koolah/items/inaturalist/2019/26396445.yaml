@@ -4,6 +4,8 @@ id:
     by:
       - koolah
       - chrislindorff
+    ref:
+      inaturalist: 560780
 latitude: -37.864622
 longitude: 144.233162
 location_name: 'Geelong-Ballan Road, Steiglitz VIC 3331, Australia'
@@ -17,9 +19,10 @@ photos:
     height: 709
     thumbnail_url: 'https://static.inaturalist.org/photos/40986327/medium.jpeg?1559671369'
     original_url: 'https://static.inaturalist.org/photos/40986327/original.jpeg?1559671369'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
-license: cc-by-nc
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40986327'
+license: CC BY-NC
 created_at: '2019-06-05T04:02:49+10:00'
 updated_at: '2020-05-16T20:30:22+10:00'
 source:

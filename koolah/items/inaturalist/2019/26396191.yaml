@@ -5,6 +5,8 @@ id:
       - koolah
       - hanly
       - gumnut
+    ref:
+      inaturalist: 5080
 latitude: -37.88007
 longitude: 144.431087
 location_name: 'Little River Ripley Road, Little River VIC, Australia'
@@ -18,9 +20,10 @@ photos:
     height: 787
     thumbnail_url: 'https://static.inaturalist.org/photos/40985949/medium.jpeg?1559671113'
     original_url: 'https://static.inaturalist.org/photos/40985949/original.jpeg?1559671113'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
-license: cc-by-nc
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40985949'
+license: CC BY-NC
 created_at: '2019-06-05T03:58:33+10:00'
 updated_at: '2019-06-05T10:28:13+10:00'
 source:

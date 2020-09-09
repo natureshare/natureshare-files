@@ -6,6 +6,8 @@ id:
       - koolah
       - kemper
       - matthew_connors
+    ref:
+      inaturalist: 388489
 datetime: '2020-04-24T21:21:00+10:00'
 latitude: -37.806571
 longitude: 144.297036
@@ -21,9 +23,10 @@ photos:
     height: 1502
     thumbnail_url: 'https://static.inaturalist.org/photos/69112741/medium.jpg?1587886694'
     original_url: 'https://static.inaturalist.org/photos/69112741/original.jpg?1587886694'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/69112741'
+license: CC BY-NC
 created_at: '2020-04-26T17:43:22+10:00'
 updated_at: '2020-05-28T20:17:48+10:00'
 source:

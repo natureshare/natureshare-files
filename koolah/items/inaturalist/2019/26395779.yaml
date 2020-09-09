@@ -2,6 +2,9 @@ id:
   - name: Peritropha oligodrachma
     by:
       - eremophila
+      - vicfazio3
+    ref:
+      inaturalist: 342157
 latitude: -37.732718
 longitude: 145.211537
 location_name: 'Lower Orchard Track E, Warrandyte VIC 3113, Australia'
@@ -15,11 +18,12 @@ photos:
     height: 768
     thumbnail_url: 'https://static.inaturalist.org/photos/40985260/medium.jpeg?1559670688'
     original_url: 'https://static.inaturalist.org/photos/40985260/original.jpeg?1559670688'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
-license: cc-by-nc
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40985260'
+license: CC BY-NC
 created_at: '2019-06-05T03:51:29+10:00'
-updated_at: '2020-01-16T15:58:22+11:00'
+updated_at: '2020-09-09T10:55:36+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26395779'

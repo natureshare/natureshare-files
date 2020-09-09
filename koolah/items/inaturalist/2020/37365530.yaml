@@ -2,6 +2,8 @@ id:
   - name: Ceromitia iolampra
     by:
       - koolah
+    ref:
+      inaturalist: 556994
 datetime: '2019-05-22T18:47:00+10:00'
 latitude: -37.806571
 longitude: 144.297036
@@ -16,17 +18,19 @@ photos:
     height: 1500
     thumbnail_url: 'https://static.inaturalist.org/photos/59222826/medium.jpg?1578392798'
     original_url: 'https://static.inaturalist.org/photos/59222826/original.jpg?1578392798'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/59222826'
   - source: iNaturalist
     id: '59222845'
     width: 2048
     height: 1505
     thumbnail_url: 'https://static.inaturalist.org/photos/59222845/medium.jpg?1578392865'
     original_url: 'https://static.inaturalist.org/photos/59222845/original.jpg?1578392865'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/59222845'
+license: CC BY-NC
 created_at: '2020-01-07T21:27:07+11:00'
 updated_at: '2020-01-07T21:27:49+11:00'
 source:

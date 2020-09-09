@@ -3,6 +3,8 @@ id:
     by:
       - koolah
       - vicfazio3
+    ref:
+      inaturalist: 341677
 latitude: -36.924988
 longitude: 148.160596
 location_name: 'Limestone Road, Alpine National Park, Brumby VIC 3885, Australia'
@@ -16,9 +18,10 @@ photos:
     height: 724
     thumbnail_url: 'https://static.inaturalist.org/photos/40986125/medium.jpeg?1559671236'
     original_url: 'https://static.inaturalist.org/photos/40986125/original.jpeg?1559671236'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
-license: cc-by-nc
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40986125'
+license: CC BY-NC
 created_at: '2019-06-05T04:00:37+10:00'
 updated_at: '2019-06-05T06:24:47+10:00'
 source:

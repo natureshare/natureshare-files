@@ -3,6 +3,8 @@ id:
     by:
       - eremophila
       - koolah
+    ref:
+      inaturalist: 555881
 datetime: '2019-12-27T21:57:00+11:00'
 latitude: -37.806571
 longitude: 144.297036
@@ -17,17 +19,19 @@ photos:
     height: 1493
     thumbnail_url: 'https://static.inaturalist.org/photos/58620784/medium.jpg?1577512825'
     original_url: 'https://static.inaturalist.org/photos/58620784/original.jpg?1577512825'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/58620784'
   - source: iNaturalist
     id: '58620842'
     width: 1500
     height: 895
     thumbnail_url: 'https://static.inaturalist.org/photos/58620842/medium.jpg?1577512925'
     original_url: 'https://static.inaturalist.org/photos/58620842/original.jpg?1577512925'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/58620842'
+license: CC BY-NC
 created_at: '2019-12-28T17:01:01+11:00'
 updated_at: '2020-03-19T23:12:00+11:00'
 source:

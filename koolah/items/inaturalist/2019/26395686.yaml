@@ -2,6 +2,8 @@ id:
   - name: Phoracantha synonyma
     by:
       - koolah
+    ref:
+      inaturalist: 629995
 latitude: -37.709823
 longitude: 145.711745
 location_name: 'Acheron Way, Warburton VIC 3799, Australia'
@@ -17,9 +19,10 @@ photos:
     height: 679
     thumbnail_url: 'https://static.inaturalist.org/photos/40985183/medium.jpeg?1559670634'
     original_url: 'https://static.inaturalist.org/photos/40985183/original.jpeg?1559670634'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
-license: cc-by-nc
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40985183'
+license: CC BY-NC
 created_at: '2019-06-05T03:50:35+10:00'
 updated_at: '2019-06-05T03:50:37+10:00'
 source:

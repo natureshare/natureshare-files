@@ -3,6 +3,8 @@ id:
     by:
       - koolah
       - vicfazio3
+    ref:
+      inaturalist: 803753
 datetime: '2017-03-24T20:49:00+11:00'
 latitude: -37.617601
 longitude: 144.150408
@@ -18,25 +20,28 @@ photos:
     height: 1145
     thumbnail_url: 'https://static.inaturalist.org/photos/59461837/medium.jpg?1578784202'
     original_url: 'https://static.inaturalist.org/photos/59461837/original.jpg?1578784202'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/59461837'
   - source: iNaturalist
     id: '59462177'
     width: 1538
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/59462177/medium.jpeg?1578784679'
     original_url: 'https://static.inaturalist.org/photos/59462177/original.jpeg?1578784679'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/59462177'
   - source: iNaturalist
     id: '59462210'
     width: 1000
     height: 566
     thumbnail_url: 'https://static.inaturalist.org/photos/59462210/medium.jpg?1578784716'
     original_url: 'https://static.inaturalist.org/photos/59462210/original.jpg?1578784716'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/59462210'
+license: CC BY-NC
 created_at: '2020-01-12T10:16:36+11:00'
 updated_at: '2020-01-12T12:56:43+11:00'
 source:

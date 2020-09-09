@@ -2,6 +2,8 @@ id:
   - name: Genduara subnotata
     by:
       - koolah
+    ref:
+      inaturalist: 543372
 latitude: -37.732718
 longitude: 145.211537
 location_name: 'Lower Orchard Track E, Warrandyte VIC 3113, Australia'
@@ -15,9 +17,10 @@ photos:
     height: 683
     thumbnail_url: 'https://static.inaturalist.org/photos/40985595/medium.jpeg?1559670883'
     original_url: 'https://static.inaturalist.org/photos/40985595/original.jpeg?1559670883'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
-license: cc-by-nc
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40985595'
+license: CC BY-NC
 created_at: '2019-06-05T03:54:43+10:00'
 updated_at: '2019-06-05T03:54:46+10:00'
 source:

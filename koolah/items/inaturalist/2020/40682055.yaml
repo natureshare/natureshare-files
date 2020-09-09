@@ -6,10 +6,13 @@ id:
       - shibui
       - chuditch
       - isaacclarey
+    ref:
+      inaturalist: 40179
 datetime: '2020-03-24T20:05:00+11:00'
 latitude: -37.921336
 longitude: 144.231615
 location_name: 'Victoria, AU'
+accuracy: 28329
 description: Video image from wildlife camera.
 tags:
   - inaturalist
@@ -20,9 +23,10 @@ photos:
     height: 1080
     thumbnail_url: 'https://static.inaturalist.org/photos/64489470/medium.jpg?1585118567'
     original_url: 'https://static.inaturalist.org/photos/64489470/original.jpg?1585118567'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/64489470'
+license: CC BY-NC
 created_at: '2020-03-25T17:52:14+11:00'
 updated_at: '2020-04-22T14:43:49+10:00'
 source:

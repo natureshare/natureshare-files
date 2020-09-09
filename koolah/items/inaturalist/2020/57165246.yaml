@@ -4,6 +4,8 @@ id:
       - koolah
       - daviaker
       - mhewish
+    ref:
+      inaturalist: 341813
 datetime: '2015-04-14T01:47:00+10:00'
 latitude: -37.806571
 longitude: 144.297036
@@ -19,9 +21,10 @@ photos:
     height: 1530
     thumbnail_url: 'https://static.inaturalist.org/photos/91159119/medium.jpeg?1598048542'
     original_url: 'https://static.inaturalist.org/photos/91159119/original.jpeg?1598048542'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/91159119'
+license: CC BY-NC
 created_at: '2020-08-22T08:22:55+10:00'
 updated_at: '2020-08-23T07:35:21+10:00'
 source:

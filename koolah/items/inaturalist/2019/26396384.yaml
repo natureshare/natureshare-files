@@ -3,6 +3,8 @@ id:
     by:
       - koolah
       - vicfazio3
+    ref:
+      inaturalist: 486559
 latitude: -37.806613
 longitude: 144.297097
 location_name: '576 Brisbane Road, Balliang VIC 3340, Australia'
@@ -16,9 +18,10 @@ photos:
     height: 767
     thumbnail_url: 'https://static.inaturalist.org/photos/40986206/medium.jpeg?1559671286'
     original_url: 'https://static.inaturalist.org/photos/40986206/original.jpeg?1559671286'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
-license: cc-by-nc
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40986206'
+license: CC BY-NC
 created_at: '2019-06-05T04:01:27+10:00'
 updated_at: '2019-06-05T06:24:50+10:00'
 source:

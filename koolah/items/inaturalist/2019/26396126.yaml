@@ -4,6 +4,8 @@ id:
     by:
       - koolah
       - reiner
+    ref:
+      inaturalist: 552252
 latitude: -37.743567
 longitude: 144.301738
 location_name: 'Reids Rd, Glenmore VIC 3340, Australia'
@@ -19,9 +21,10 @@ photos:
     height: 1024
     thumbnail_url: 'https://static.inaturalist.org/photos/40985833/medium.jpeg?1559671027'
     original_url: 'https://static.inaturalist.org/photos/40985833/original.jpeg?1559671027'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
-license: cc-by-nc
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40985833'
+license: CC BY-NC
 created_at: '2019-06-05T03:57:07+10:00'
 updated_at: '2019-06-05T09:47:00+10:00'
 source:

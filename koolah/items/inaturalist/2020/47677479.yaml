@@ -3,6 +3,8 @@ id:
     by:
       - koolah
       - vicfazio3
+    ref:
+      inaturalist: 388568
 datetime: '2020-05-28T22:13:00+10:00'
 latitude: -37.806571
 longitude: 144.297036
@@ -17,9 +19,10 @@ photos:
     height: 1502
     thumbnail_url: 'https://static.inaturalist.org/photos/75625224/medium.jpg?1590708418'
     original_url: 'https://static.inaturalist.org/photos/75625224/original.jpg?1590708418'
-    license: cc-by-nc
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/75625224'
+license: CC BY-NC
 created_at: '2020-05-29T09:30:47+10:00'
 updated_at: '2020-05-30T06:23:40+10:00'
 source:

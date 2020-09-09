@@ -5,6 +5,8 @@ id:
       - koolah
       - reiner
       - oneanttofew
+    ref:
+      inaturalist: 323904
 latitude: -37.863143
 longitude: 144.232627
 location_name: 'Geelong-Ballan Road, Staughton Vale VIC 3221, Australia'
@@ -18,9 +20,10 @@ photos:
     height: 779
     thumbnail_url: 'https://static.inaturalist.org/photos/40986345/medium.jpeg?1559671381'
     original_url: 'https://static.inaturalist.org/photos/40986345/original.jpeg?1559671381'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
-license: cc-by-nc
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40986345'
+license: CC BY-NC
 created_at: '2019-06-05T04:03:02+10:00'
 updated_at: '2019-10-05T15:41:30+10:00'
 source:

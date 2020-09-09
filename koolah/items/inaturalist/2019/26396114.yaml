@@ -4,6 +4,8 @@ id:
     by:
       - koolah
       - vicfazio3
+    ref:
+      inaturalist: 341427
 latitude: -37.732797
 longitude: 145.211567
 location_name: 'Lower Orchard Track E, Warrandyte VIC 3113, Australia'
@@ -17,9 +19,10 @@ photos:
     height: 974
     thumbnail_url: 'https://static.inaturalist.org/photos/40985811/medium.jpeg?1559671008'
     original_url: 'https://static.inaturalist.org/photos/40985811/original.jpeg?1559671008'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
-license: cc-by-nc
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40985811'
+license: CC BY-NC
 created_at: '2019-06-05T03:56:49+10:00'
 updated_at: '2019-06-05T06:25:42+10:00'
 source:

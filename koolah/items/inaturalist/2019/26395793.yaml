@@ -1,8 +1,10 @@
 id:
   - name: Plectobela ecliptica
     by:
-      - koolah
       - daviaker
+      - koolah
+    ref:
+      inaturalist: 877374
 latitude: -37.732718
 longitude: 145.211537
 location_name: 'Lower Orchard Track E, Warrandyte VIC 3113, Australia'
@@ -16,9 +18,10 @@ photos:
     height: 659
     thumbnail_url: 'https://static.inaturalist.org/photos/40985288/medium.jpeg?1559670700'
     original_url: 'https://static.inaturalist.org/photos/40985288/original.jpeg?1559670700'
-    license: cc-by-nc-sa
-    attribution: '(c) Cathy Powers, some rights reserved (CC BY-NC-SA)'
-license: cc-by-nc
+    license: CC BY-NC-SA
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/40985288'
+license: CC BY-NC
 created_at: '2019-06-05T03:51:40+10:00'
 updated_at: '2020-02-19T17:34:22+11:00'
 source:
