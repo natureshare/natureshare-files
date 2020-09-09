@@ -1,0 +1,36 @@
+id:
+  - name: Holothuria hilla
+    common: Light-spotted Sea Cucumber
+    by:
+      - albertkang
+      - frederic_ducarme
+      - andreacaballero
+    ref:
+      inaturalist: 195765
+datetime: '2019-08-08T18:41:00+08:00'
+latitude: -8.79354
+longitude: 119.609353
+location_name: 'Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Tim., Indonesia'
+accuracy: 1953
+tags:
+  - animals~echinoderms~sea_cucumbers~holothuriida~holothuriidae
+  - rarity~4
+photos:
+  - source: iNaturalist
+    id: '81110347'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/81110347/medium.jpeg?1593231005'
+    original_url: 'https://static.inaturalist.org/photos/81110347/original.jpeg?1593231005'
+    license: CC BY-NC
+    attribution: Albert Kang
+    href: 'https://www.inaturalist.org/photos/81110347'
+license: CC BY-NC
+created_at: '2020-06-27T12:12:16+08:00'
+updated_at: '2020-06-27T23:21:59+08:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/51061124'
+description: '-'
+collections:
+  - southeast_asia_diving_guide

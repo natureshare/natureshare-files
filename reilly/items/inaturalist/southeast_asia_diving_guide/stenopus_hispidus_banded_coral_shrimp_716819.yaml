@@ -1,0 +1,37 @@
+id:
+  - name: Stenopus hispidus
+    common: Banded Coral Shrimp
+    by:
+      - maractwin
+      - davidr
+      - seasav
+    ref:
+      inaturalist: 121669
+datetime: '2014-05-19T06:16:00-04:00'
+latitude: -8.627822
+longitude: 119.706322
+location_name: 'Manggarai, Nusa Tenggara Timur, Indonesia'
+tags:
+  - animals~arthropods~malacostracans~decapods~coral_shrimps
+  - rarity~3
+photos:
+  - source: iNaturalist
+    id: '900640'
+    width: 1600
+    height: 1066
+    thumbnail_url: 'https://static.inaturalist.org/photos/900640/medium.jpg?1401890908'
+    original_url: 'https://static.inaturalist.org/photos/900640/original.jpg?1401890908'
+    license: CC BY-NC-SA
+    attribution: Mark Rosenstein
+    href: 'https://www.inaturalist.org/photos/900640'
+license: CC BY
+created_at: '2014-06-04T10:07:45-04:00'
+updated_at: '2014-10-31T17:15:29-04:00'
+source:
+  - name: iNaturalist
+    href: 'http://www.inaturalist.org/observations/716819'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Stenopus_hispidus'
+description: Stenopus hispidus is a shrimp-like decapod crustacean belonging to the infraorder Stenopodidea. Common names include banded coral shrimp and banded cleaner shrimp.
+collections:
+  - southeast_asia_diving_guide

@@ -1,0 +1,35 @@
+id:
+  - name: Pteraeolidia semperi
+    common: Blue Dragon
+    by:
+      - craigjhowe
+      - hsini_lin
+    ref:
+      inaturalist: 469568
+datetime: '2018-02-28T02:38:00-05:00'
+latitude: -8.526836
+longitude: 119.416579
+location_name: 'Komodo, Komodo, ID-NT-MB, ID-NT, ID'
+accuracy: 1622
+tags:
+  - animals~molluscs~gastropods~nudibranchs~facelinidae
+  - rarity~3
+photos:
+  - source: iNaturalist
+    id: '59035790'
+    width: 1600
+    height: 1142
+    thumbnail_url: 'https://static.inaturalist.org/photos/59035790/medium.jpeg?1578130204'
+    original_url: 'https://static.inaturalist.org/photos/59035790/original.jpeg?1578130204'
+    license: CC BY-NC-ND
+    attribution: craigjhowe
+    href: 'https://www.inaturalist.org/photos/59035790'
+license: CC BY-NC
+created_at: '2020-01-04T04:30:05-05:00'
+updated_at: '2020-01-06T09:42:26-05:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/37259043'
+description: '-'
+collections:
+  - southeast_asia_diving_guide

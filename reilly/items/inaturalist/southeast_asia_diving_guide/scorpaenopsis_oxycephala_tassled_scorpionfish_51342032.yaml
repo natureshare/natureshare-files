@@ -1,0 +1,36 @@
+id:
+  - name: Scorpaenopsis oxycephala
+    common: Tassled Scorpionfish
+    by:
+      - mdebrauwer
+    ref:
+      inaturalist: 143045
+datetime: '2010-06-29T19:43:00+08:00'
+latitude: -8.518525
+longitude: 119.635919
+location_name: 'West Manggarai Regency, East Nusa Tenggara, Indonesia'
+accuracy: 977
+tags:
+  - animals~chordates~ray-finned_fishes~mail-cheeked_fishes~scorpionfishes
+  - rarity~4
+photos:
+  - source: iNaturalist
+    id: '81563474'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/81563474/medium.jpg?1593421308'
+    original_url: 'https://static.inaturalist.org/photos/81563474/original.jpg?1593421308'
+    license: CC BY-NC
+    attribution: Maarten De Brauwer
+    href: 'https://www.inaturalist.org/photos/81563474'
+license: CC BY-NC
+created_at: '2020-06-29T17:06:07+08:00'
+updated_at: '2020-06-29T17:06:07+08:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/51342032'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Tasseled_scorpionfish'
+description: "The tasseled scorpionfish, or small-scaled scorpionfish, Scorpaenopsis oxycephala, is a carnivorous ray-finned fish with venomous spines that lives in the Indian and Pacific Oceans. It can reach a maximum length of 36\_cm (14\_in) and can vary considerably in color. Adults are bearded with a number of tassels below the jaw."
+collections:
+  - southeast_asia_diving_guide

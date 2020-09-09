@@ -1,0 +1,39 @@
+id:
+  - name: Acanthurus lineatus
+    common: Striped Surgeonfish
+    by:
+      - albertkang
+      - maractwin
+      - michalsloviak
+      - alfonsustoribio
+    ref:
+      inaturalist: 135283
+datetime: '2019-08-06T11:45:00+08:00'
+latitude: -8.735302
+longitude: 119.480942
+location_name: 'Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Tim., Indonesia'
+accuracy: 2145
+tags:
+  - animals~chordates~ray-finned_fishes~perch-like_fishes~surgeonfishes_tangs_and_unicornfishes
+  - rarity~4
+photos:
+  - source: iNaturalist
+    id: '80780682'
+    width: 2048
+    height: 1402
+    thumbnail_url: 'https://static.inaturalist.org/photos/80780682/medium.jpg?1593065372'
+    original_url: 'https://static.inaturalist.org/photos/80780682/original.jpg?1593065372'
+    license: CC BY-NC
+    attribution: Albert Kang
+    href: 'https://www.inaturalist.org/photos/80780682'
+license: CC BY-NC
+created_at: '2020-06-25T14:12:20+08:00'
+updated_at: '2020-07-01T02:38:16+08:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/50858891'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Acanthurus_lineatus'
+description: 'Acanthurus lineatus, the lined surgeonfish, is a member of the family Acanthuridae, the surgeonfishes. Other common names include blue banded surgeonfish, blue-lined surgeonfish, clown surgeonfish, pyjama tang, striped surgeonfish, and zebra surgeonfish.'
+collections:
+  - southeast_asia_diving_guide

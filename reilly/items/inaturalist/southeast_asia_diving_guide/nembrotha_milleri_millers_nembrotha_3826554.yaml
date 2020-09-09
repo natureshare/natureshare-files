@@ -1,0 +1,37 @@
+id:
+  - name: Nembrotha milleri
+    common: Miller's Nembrotha
+    by:
+      - leitluk
+      - jpsilva
+    ref:
+      inaturalist: 142953
+datetime: '2016-06-27T12:11:00-04:00'
+latitude: 9.598692
+longitude: 123.798554
+location_name: 'Panglao Island, Philippines'
+accuracy: 9329
+tags:
+  - animals~molluscs~gastropods~nudibranchs~polyceridae
+  - rarity~4
+photos:
+  - source: iNaturalist
+    id: '4475093'
+    width: 1200
+    height: 900
+    thumbnail_url: 'https://static.inaturalist.org/photos/4475093/medium.jpg?1470604095'
+    original_url: 'https://static.inaturalist.org/photos/4475093/original.jpg?1470604095'
+    license: CC BY-NC
+    attribution: ylin42
+    href: 'https://www.inaturalist.org/photos/4475093'
+license: CC BY-NC
+created_at: '2016-08-07T17:09:03-04:00'
+updated_at: '2018-02-23T00:44:50-05:00'
+source:
+  - name: iNaturalist
+    href: 'http://www.inaturalist.org/observations/3826554'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Nembrotha_milleri'
+description: 'Nembrotha milleri is a species of sea slug, a dorid nudibranch, a marine gastropod mollusk in the family Polyceridae. This species was named after the nudibranch enthusiast Michael D. Miller.'
+collections:
+  - southeast_asia_diving_guide

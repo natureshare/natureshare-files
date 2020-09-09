@@ -1,0 +1,37 @@
+id:
+  - name: Canthigaster valentini
+    common: Blacksaddle Toby
+    by:
+      - albertkang
+      - maractwin
+    ref:
+      inaturalist: 129549
+datetime: '2019-08-10T19:22:00+08:00'
+latitude: -8.793943
+longitude: 119.610721
+location_name: 'Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Tim., Indonesia'
+accuracy: 977
+tags:
+  - animals~chordates~ray-finned_fishes~puffers_and_filefishes~pufferfishes
+  - rarity~4
+photos:
+  - source: iNaturalist
+    id: '81159237'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/81159237/medium.jpeg?1593265631'
+    original_url: 'https://static.inaturalist.org/photos/81159237/original.jpeg?1593265631'
+    license: CC BY-NC
+    attribution: Albert Kang
+    href: 'https://www.inaturalist.org/photos/81159237'
+license: CC BY-NC
+created_at: '2020-06-27T21:47:44+08:00'
+updated_at: '2020-06-27T22:00:02+08:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/51091602'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Valentin''s_sharpnose_puffer'
+description: 'Valentin''s sharpnose puffer (Canthigaster valentini), also known as the saddled puffer or black saddled toby, is a demersal marine fish belonging to the family Tetraodontidae.'
+collections:
+  - southeast_asia_diving_guide

@@ -1,0 +1,37 @@
+id:
+  - name: Plectorhinchus polytaenia
+    common: Ribbon Sweetlips
+    by:
+      - albertkang
+      - maractwin
+    ref:
+      inaturalist: 135279
+datetime: '2019-08-10T15:35:00+08:00'
+latitude: -8.78744
+longitude: 119.608005
+location_name: Komodo
+accuracy: 4193
+tags:
+  - animals~chordates~ray-finned_fishes~perch-like_fishes~grunts
+  - rarity~4
+photos:
+  - source: iNaturalist
+    id: '81155033'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/81155033/medium.jpeg?1593263961'
+    original_url: 'https://static.inaturalist.org/photos/81155033/original.jpeg?1593263961'
+    license: CC BY-NC
+    attribution: Albert Kang
+    href: 'https://www.inaturalist.org/photos/81155033'
+license: CC BY-NC
+created_at: '2020-06-27T21:19:48+08:00'
+updated_at: '2020-08-12T09:53:52+08:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/51088869'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Ribboned_sweetlips'
+description: "Plectorhinchus polytaenia, the ribboned sweetlips, is a species of grunt native to the Indian Ocean and the western Pacific Ocean, where they can be found on coral reefs at depths from 5 to 40\_m (16 to 131\_ft). This species can reach 50\_cm (20\_in) in TL. It is important commercially as a food fish."
+collections:
+  - southeast_asia_diving_guide

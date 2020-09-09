@@ -1,0 +1,37 @@
+id:
+  - name: Eurypegasus draconis
+    common: Dragon Sea Moth
+    by:
+      - maractwin
+      - francescoric
+    ref:
+      inaturalist: 100778
+datetime: '2015-08-26T11:37:15-04:00'
+latitude: -8.749451
+longitude: 119.664759
+location_name: 'Manggarai Barat, ID-NT, ID'
+accuracy: 31271
+tags:
+  - animals~chordates~ray-finned_fishes~sticklebacks_and_seamoths~seamoths
+  - rarity~3
+photos:
+  - source: iNaturalist
+    id: '2450425'
+    width: 1600
+    height: 1067
+    thumbnail_url: 'https://static.inaturalist.org/photos/2450425/medium.jpg?1443553794'
+    original_url: 'https://static.inaturalist.org/photos/2450425/original.jpg?1443553794'
+    license: CC BY-NC-SA
+    attribution: Mark Rosenstein
+    href: 'https://www.inaturalist.org/photos/2450425'
+license: CC BY
+created_at: '2015-09-29T15:09:10-04:00'
+updated_at: '2020-04-25T23:37:44-04:00'
+source:
+  - name: iNaturalist
+    href: 'http://www.inaturalist.org/observations/2012140'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Little_dragonfish'
+description: 'The little dragonfish or short dragonfish (Eurypegasus draconis) is a species of marine fish in the family Pegasidae. It is widespread throughout the tropical waters of the Indo-Pacific, including the Red Sea.'
+collections:
+  - southeast_asia_diving_guide

@@ -1,0 +1,39 @@
+id:
+  - name: Mobula alfredi
+    common: Reef Manta Ray
+    by:
+      - albertkang
+      - clinton
+      - alexburton
+      - rijans
+    ref:
+      inaturalist: 623965
+datetime: '2019-08-09T08:01:00+08:00'
+latitude: -8.642949
+longitude: 119.430758
+location_name: 'Nusa Tenggara Timur, ID'
+accuracy: 31271
+tags:
+  - animals~chordates~elasmobranchs~stingrays~eagle_and_devil_rays
+  - rarity~4
+photos:
+  - source: iNaturalist
+    id: '80783229'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/80783229/medium.jpg?1593067726'
+    original_url: 'https://static.inaturalist.org/photos/80783229/original.jpg?1593067726'
+    license: CC BY-NC
+    attribution: Albert Kang
+    href: 'https://www.inaturalist.org/photos/80783229'
+license: CC BY-NC
+created_at: '2020-06-25T14:50:29+08:00'
+updated_at: '2020-06-25T18:21:17+08:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/50860478'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Reef_manta_ray'
+description: ...
+collections:
+  - southeast_asia_diving_guide

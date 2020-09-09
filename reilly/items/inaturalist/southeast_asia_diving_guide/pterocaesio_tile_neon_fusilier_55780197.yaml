@@ -1,0 +1,37 @@
+id:
+  - name: Pterocaesio tile
+    common: Neon Fusilier
+    by:
+      - blackdogto
+      - maractwin
+      - tim_wilms
+    ref:
+      inaturalist: 183187
+datetime: '2019-05-12T19:05:00+08:00'
+latitude: -8.473645
+longitude: 119.550148
+location_name: 'Komodo, Komodo, Manggarai Barat, Nusa Tenggara Timur, Indonesia'
+tags:
+  - animals~chordates~ray-finned_fishes~perch-like_fishes~fusiliers
+  - rarity~3
+photos:
+  - source: iNaturalist
+    id: '88844736'
+    width: 2048
+    height: 1384
+    thumbnail_url: 'https://static.inaturalist.org/photos/88844736/medium.jpeg?1596882810'
+    original_url: 'https://static.inaturalist.org/photos/88844736/original.jpeg?1596882810'
+    license: CC BY-NC
+    attribution: blackdogto
+    href: 'https://www.inaturalist.org/photos/88844736'
+license: CC BY-NC
+created_at: '2020-08-08T18:33:37+08:00'
+updated_at: '2020-08-10T21:41:26+08:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/55780197'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Dark-banded_fusilier'
+description: 'The dark-banded fusilier, blue-streak fusilier, bartail fusilier, or neon fusilier, Pterocaesio tile, is a fish belonging to the family Caesionidae.'
+collections:
+  - southeast_asia_diving_guide

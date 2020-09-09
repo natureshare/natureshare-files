@@ -1,0 +1,39 @@
+id:
+  - name: Dendrochirus brachypterus
+    common: Dwarf Lionfish
+    by:
+      - squiresk
+      - maractwin
+      - tim_wilms
+      - ewoutknoester
+    ref:
+      inaturalist: 199310
+datetime: '2013-08-17T09:54:00-04:00'
+latitude: -8.688468
+longitude: 119.516462
+location_name: Komodo
+accuracy: 3906
+tags:
+  - animals~chordates~ray-finned_fishes~mail-cheeked_fishes~scorpionfishes
+  - rarity~3
+photos:
+  - source: iNaturalist
+    id: '65188748'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/65188748/medium.jpg?1585672457'
+    original_url: 'https://static.inaturalist.org/photos/65188748/original.jpg?1585672457'
+    license: CC BY-NC
+    attribution: Kai Squires
+    href: 'https://www.inaturalist.org/photos/65188748'
+license: CC BY-NC
+created_at: '2020-03-31T12:34:51-04:00'
+updated_at: '2020-06-18T13:06:37-04:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/41111170'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Dendrochirus_brachypterus'
+description: 'Dendrochirus brachypterus, known commonly as the shortfin turkeyfish or dwarf lionfish among other vernacular names, is a species of marine fish in the family Scorpaenidae.'
+collections:
+  - southeast_asia_diving_guide

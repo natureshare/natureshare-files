@@ -1,0 +1,37 @@
+id:
+  - name: Thysanozoon nigropapillosum
+    common: Gold-dotted Flatworm
+    by:
+      - squiresk
+      - tantsusoo
+    ref:
+      inaturalist: 142752
+datetime: '2013-08-17T10:28:00-04:00'
+latitude: -8.424312
+longitude: 119.447357
+location_name: Komodo
+accuracy: 1953
+tags:
+  - animals~flatworms~other~polyclad_flatworms~pseudocerotidae
+  - rarity~3
+photos:
+  - source: iNaturalist
+    id: '65199833'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/65199833/medium.jpg?1585678364'
+    original_url: 'https://static.inaturalist.org/photos/65199833/original.jpg?1585678364'
+    license: CC BY-NC
+    attribution: Kai Squires
+    href: 'https://www.inaturalist.org/photos/65199833'
+license: CC BY-NC
+created_at: '2020-03-31T14:13:39-04:00'
+updated_at: '2020-05-01T10:13:59-04:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/41117968'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Thysanozoon_nigropapillosum'
+description: 'Thysanozoon nigropapillosum is a species of polyclad flatworms belonging to the family Pseudocerotidae. Some common names include gold-speckled flatworm, marine flatworm, yellow papillae flatworm, yellow-spotted flatworm, and yellow-spotted polyclad flatworm.'
+collections:
+  - southeast_asia_diving_guide

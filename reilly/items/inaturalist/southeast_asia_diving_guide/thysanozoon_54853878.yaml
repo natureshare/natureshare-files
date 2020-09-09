@@ -1,0 +1,34 @@
+id:
+  - name: Thysanozoon
+    by:
+      - okiedivenut
+    ref:
+      inaturalist: 142751
+datetime: '2012-02-23T07:03:00-10:00'
+latitude: -8.637081
+longitude: 119.712671
+location_name: 'Rinca, Indonesia (Wainilu)'
+accuracy: 195
+tags:
+  - animals~flatworms~other~polyclad_flatworms~pseudocerotidae
+photos:
+  - source: iNaturalist
+    id: '87301030'
+    width: 1024
+    height: 768
+    thumbnail_url: 'https://static.inaturalist.org/photos/87301030/medium.jpeg?1596127242'
+    original_url: 'https://static.inaturalist.org/photos/87301030/original.jpeg?1596127242'
+    license: CC BY-NC
+    attribution: Mike Krampf
+    href: 'https://www.inaturalist.org/photos/87301030'
+license: CC BY-NC
+created_at: '2020-07-30T07:05:45-10:00'
+updated_at: '2020-07-30T07:05:45-10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/54853878'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Thysanozoon'
+description: Thysanozoon is a genus of polyclad flatworms belonging to the family Pseudocerotidae.
+collections:
+  - southeast_asia_diving_guide

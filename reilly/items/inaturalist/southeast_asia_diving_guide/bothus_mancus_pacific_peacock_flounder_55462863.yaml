@@ -1,0 +1,36 @@
+id:
+  - name: Bothus mancus
+    common: Pacific Peacock Flounder
+    by:
+      - mtank
+      - orobourical
+    ref:
+      inaturalist: 95920
+datetime: '2019-05-03T13:52:00-07:00'
+latitude: -8.545253
+longitude: 119.648572
+location_name: Siaba dive site
+tags:
+  - animals~chordates~ray-finned_fishes~flatfishes~lefteye_flounders
+  - rarity~3
+photos:
+  - source: iNaturalist
+    id: '88318284'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/88318284/medium.jpg?1596602615'
+    original_url: 'https://static.inaturalist.org/photos/88318284/original.jpg?1596602615'
+    license: CC BY-NC
+    attribution: orobourical
+    href: 'https://www.inaturalist.org/photos/88318284'
+license: CC BY-NC
+created_at: '2020-08-04T21:46:15-07:00'
+updated_at: '2020-08-04T22:29:44-07:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/55462863'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Peacock_flounder'
+description: 'The peacock flounder (Bothus mancus), also known as the flowery flounder, is a species of fish in the family Bothidae (lefteye flounders). The species is found widely in relatively shallow waters in the Indo-Pacific, also ranging into warmer parts of the east Pacific.'
+collections:
+  - southeast_asia_diving_guide

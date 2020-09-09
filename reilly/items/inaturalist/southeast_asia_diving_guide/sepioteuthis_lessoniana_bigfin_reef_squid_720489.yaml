@@ -1,0 +1,35 @@
+id:
+  - name: Sepioteuthis lessoniana
+    common: Bigfin Reef Squid
+    by:
+      - maractwin
+    ref:
+      inaturalist: 121187
+datetime: '2014-05-20T06:29:55-04:00'
+latitude: -8.77767
+longitude: 119.647495
+location_name: 'Manggarai, Nusa Tenggara Timur, Indonesia'
+tags:
+  - animals~molluscs~cephalopods~inshore_squids~pencil_squids
+  - rarity~3
+photos:
+  - source: iNaturalist
+    id: '905592'
+    width: 1600
+    height: 1067
+    thumbnail_url: 'https://static.inaturalist.org/photos/905592/medium.jpg?1402068807'
+    original_url: 'https://static.inaturalist.org/photos/905592/original.jpg?1402068807'
+    license: CC BY-NC-SA
+    attribution: Mark Rosenstein
+    href: 'https://www.inaturalist.org/photos/905592'
+license: CC BY
+created_at: '2014-06-06T11:33:13-04:00'
+updated_at: '2015-02-11T07:25:39-05:00'
+source:
+  - name: iNaturalist
+    href: 'http://www.inaturalist.org/observations/720489'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Bigfin_reef_squid'
+description: 'Sepioteuthis lessoniana, commonly known as the bigfin reef squid or oval squid, is a commercially important species of loliginid squid. It is one of the three currently recognized species belonging to the genus Sepioteuthis. Studies in 1993, however, have indicated that bigfin reef squids may comprise a cryptic species complex. The species is likely to include several very similar and closely related species.'
+collections:
+  - southeast_asia_diving_guide

@@ -1,0 +1,36 @@
+id:
+  - name: Goniobranchus reticulatus
+    common: Reticulated Goniobranchus
+    by:
+      - hsini_lin
+      - maractwin
+    ref:
+      inaturalist: 469414
+datetime: '2015-08-26T18:41:22-04:00'
+latitude: -8.625028
+longitude: 119.708313
+location_name: 'Komodo, Komodo, Manggarai, Nusa Tenggara Timur, Indonesia'
+tags:
+  - animals~molluscs~gastropods~nudibranchs~chromodorids
+  - rarity~4
+photos:
+  - source: iNaturalist
+    id: '2452972'
+    width: 1600
+    height: 1067
+    thumbnail_url: 'https://static.inaturalist.org/photos/2452972/medium.jpg?1443582044'
+    original_url: 'https://static.inaturalist.org/photos/2452972/original.jpg?1443582044'
+    license: CC BY-NC-SA
+    attribution: Mark Rosenstein
+    href: 'https://www.inaturalist.org/photos/2452972'
+license: CC BY
+created_at: '2015-09-29T23:00:29-04:00'
+updated_at: '2019-02-17T18:01:14-05:00'
+source:
+  - name: iNaturalist
+    href: 'http://www.inaturalist.org/observations/2014009'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Goniobranchus_reticulatus'
+description: 'Goniobranchus reticulatus is a species of colourful sea slug or dorid nudibranch, a marine gastropod mollusk in the family Chromodorididae.'
+collections:
+  - southeast_asia_diving_guide

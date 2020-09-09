@@ -1,0 +1,35 @@
+id:
+  - name: Naso caeruleacauda
+    common: Blue Unicornfish
+    by:
+      - blackdogto
+    ref:
+      inaturalist: 187727
+datetime: '2019-05-12T10:46:00+08:00'
+latitude: -8.444953
+longitude: 119.568016
+location_name: 'Komodo, Komodo, Manggarai Barat, Nusa Tenggara Timur, Indonesia'
+tags:
+  - animals~chordates~ray-finned_fishes~perch-like_fishes~surgeonfishes_tangs_and_unicornfishes
+  - rarity~4
+photos:
+  - source: iNaturalist
+    id: '87986557'
+    width: 2048
+    height: 1268
+    thumbnail_url: 'https://static.inaturalist.org/photos/87986557/medium.jpg?1596452440'
+    original_url: 'https://static.inaturalist.org/photos/87986557/original.jpg?1596452440'
+    license: CC BY-NC
+    attribution: blackdogto
+    href: 'https://www.inaturalist.org/photos/87986557'
+license: CC BY-NC
+created_at: '2020-08-03T19:00:45+08:00'
+updated_at: '2020-08-04T00:10:40+08:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/55263304'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Bluetail_unicornfish'
+description: 'The bluetail unicornfish, Naso caeruleacauda, is a tropical fish found in coral reefs around Indonesia and the Philippines. It was first named by J.E. Randall in 1994, and is also sometimes called the blue unicorn.'
+collections:
+  - southeast_asia_diving_guide

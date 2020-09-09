@@ -1,0 +1,39 @@
+id:
+  - name: Synchiropus splendidus
+    common: Mandarinfish
+    by:
+      - albertkang
+      - djscho
+      - maractwin
+      - alfonsustoribio
+    ref:
+      inaturalist: 56072
+datetime: '2019-08-07T18:18:00+08:00'
+latitude: -8.792183
+longitude: 119.602476
+location_name: 'Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Tim., Indonesia'
+accuracy: 1953
+tags:
+  - animals~chordates~ray-finned_fishes~perch-like_fishes~dragonets
+  - rarity~3
+photos:
+  - source: iNaturalist
+    id: '80972547'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/80972547/medium.jpeg?1593172032'
+    original_url: 'https://static.inaturalist.org/photos/80972547/original.jpeg?1593172032'
+    license: CC BY-NC
+    attribution: Albert Kang
+    href: 'https://www.inaturalist.org/photos/80972547'
+license: CC BY-NC
+created_at: '2020-06-26T19:48:07+08:00'
+updated_at: '2020-06-27T19:10:19+08:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/50976162'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Synchiropus_splendidus'
+description: 'Synchiropus splendidus, the mandarinfish or mandarin dragonet, is a small, brightly colored member of the dragonet family, which is popular in the saltwater aquarium trade. The mandarinfish is native to the Pacific, ranging approximately from the Ryukyu Islands south to Australia. It can usually be found in some of the warmer waters.'
+collections:
+  - southeast_asia_diving_guide

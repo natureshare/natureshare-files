@@ -1,0 +1,45 @@
+id:
+  - name: Pomacentrus vaiuli
+    common: Princess Damsel
+    by:
+      - blackdogto
+      - maractwin
+    ref:
+      inaturalist: 135270
+datetime: '2019-05-13T10:02:00+08:00'
+latitude: -8.516278
+longitude: 119.653763
+location_name: 'Komodo, Komodo, Manggarai Barat, Nusa Tenggara Timur, Indonesia'
+tags:
+  - animals~chordates~ray-finned_fishes~perch-like_fishes~damselfishes_and_anemonefishes
+  - rarity~4
+photos:
+  - source: iNaturalist
+    id: '89266305'
+    width: 2048
+    height: 1311
+    thumbnail_url: 'https://static.inaturalist.org/photos/89266305/medium.jpg?1597074281'
+    original_url: 'https://static.inaturalist.org/photos/89266305/original.jpg?1597074281'
+    license: CC BY-NC
+    attribution: blackdogto
+    href: 'https://www.inaturalist.org/photos/89266305'
+  - source: iNaturalist
+    id: '89266283'
+    width: 2048
+    height: 1451
+    thumbnail_url: 'https://static.inaturalist.org/photos/89266283/medium.jpg?1597074270'
+    original_url: 'https://static.inaturalist.org/photos/89266283/original.jpg?1597074270'
+    license: CC BY-NC
+    attribution: blackdogto
+    href: 'https://www.inaturalist.org/photos/89266283'
+license: CC BY-NC
+created_at: '2020-08-10T23:44:47+08:00'
+updated_at: '2020-08-10T23:59:25+08:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/56035712'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Pomacentrus_vaiuli'
+description: "Pomacentrus vaiuli is a damselfish from the Pacific Ocean. It occasionally makes its way into the aquarium trade. It grows to a size of 10\_cm in length."
+collections:
+  - southeast_asia_diving_guide

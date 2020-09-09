@@ -1,0 +1,36 @@
+id:
+  - name: Fromia monilis
+    common: Tiled Sea Star
+    by:
+      - albertkang
+    ref:
+      inaturalist: 119436
+datetime: '2019-08-06T18:54:00+08:00'
+latitude: -8.781325
+longitude: 119.590116
+location_name: 'Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Tim., Indonesia'
+accuracy: 1953
+tags:
+  - animals~echinoderms~sea_stars~valvatidan_sea_stars~biscuit_stars
+  - rarity~3
+photos:
+  - source: iNaturalist
+    id: '80934865'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/80934865/medium.jpeg?1593140592'
+    original_url: 'https://static.inaturalist.org/photos/80934865/original.jpeg?1593140592'
+    license: CC BY-NC
+    attribution: Albert Kang
+    href: 'https://www.inaturalist.org/photos/80934865'
+license: CC BY-NC
+created_at: '2020-06-26T11:03:52+08:00'
+updated_at: '2020-06-26T11:03:52+08:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/50954054'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Fromia_monilis'
+description: 'Fromia monilis, common name necklace starfish or tiled starfish, is a species of starfish belonging to the family Goniasteridae.'
+collections:
+  - southeast_asia_diving_guide

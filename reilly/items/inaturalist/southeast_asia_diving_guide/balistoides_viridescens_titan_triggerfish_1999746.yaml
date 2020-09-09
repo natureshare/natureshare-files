@@ -1,0 +1,36 @@
+id:
+  - name: Balistoides viridescens
+    common: Titan Triggerfish
+    by:
+      - maractwin
+      - kemper
+    ref:
+      inaturalist: 123392
+datetime: '2015-08-24T08:11:40-04:00'
+latitude: -8.44673
+longitude: 119.567972
+location_name: 'Komodo, Komodo, Manggarai, Nusa Tenggara Timur, Indonesia'
+tags:
+  - animals~chordates~ray-finned_fishes~puffers_and_filefishes~triggerfishes
+  - rarity~3
+photos:
+  - source: iNaturalist
+    id: '2432905'
+    width: 1600
+    height: 1067
+    thumbnail_url: 'https://static.inaturalist.org/photos/2432905/medium.jpg?1443232072'
+    original_url: 'https://static.inaturalist.org/photos/2432905/original.jpg?1443232072'
+    license: CC BY-NC-SA
+    attribution: Mark Rosenstein
+    href: 'https://www.inaturalist.org/photos/2432905'
+license: CC BY
+created_at: '2015-09-25T21:47:46-04:00'
+updated_at: '2018-05-11T23:03:08-04:00'
+source:
+  - name: iNaturalist
+    href: 'http://www.inaturalist.org/observations/1999746'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Titan_triggerfish'
+description: "The titan triggerfish, giant triggerfish or moustache triggerfish (Balistoides viridescens) is a large species of triggerfish found in lagoons and at reefs to depths of 50\_m (160\_ft) in most of the Indo-Pacific, though it is absent from Hawaii. With a length of up to 75 centimetres (30\_in), it is the largest species of triggerfish in its range (the stone triggerfish, Pseudobalistes naufragium, from the east Pacific is larger)."
+collections:
+  - southeast_asia_diving_guide

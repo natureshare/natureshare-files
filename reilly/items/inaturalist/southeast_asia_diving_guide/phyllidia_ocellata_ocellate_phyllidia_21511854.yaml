@@ -1,0 +1,39 @@
+id:
+  - name: Phyllidia ocellata
+    common: Ocellate Phyllidia
+    by:
+      - okiedivenut
+      - jpsilva
+      - davidr
+      - gaell
+    ref:
+      inaturalist: 50554
+datetime: '2014-02-28T07:38:00-06:00'
+latitude: -8.77155
+longitude: 119.733622
+location_name: 'Rinca, Indonesia (Totowalu)'
+accuracy: 429
+tags:
+  - animals~molluscs~gastropods~nudibranchs~phyllidiid_nudibranchs
+  - rarity~4
+photos:
+  - source: iNaturalist
+    id: '33289147'
+    width: 1054
+    height: 746
+    thumbnail_url: 'https://static.inaturalist.org/photos/33289147/medium.jpg?1553344789'
+    original_url: 'https://static.inaturalist.org/photos/33289147/original.jpg?1553344789'
+    license: CC BY-NC
+    attribution: Mike Krampf
+    href: 'https://www.inaturalist.org/photos/33289147'
+license: CC BY-NC
+created_at: '2019-03-23T06:59:03-06:00'
+updated_at: '2019-12-08T00:59:52-06:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/21511854'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Phyllidia_ocellata'
+description: 'Phyllidia ocellata is a species of sea slug, a dorid nudibranch, a shell-less marine gastropod mollusk in the family Phyllidiidae.'
+collections:
+  - southeast_asia_diving_guide

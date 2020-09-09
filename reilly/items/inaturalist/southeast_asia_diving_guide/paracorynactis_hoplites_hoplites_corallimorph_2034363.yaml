@@ -1,0 +1,36 @@
+id:
+  - name: Paracorynactis hoplites
+    common: Hoplites corallimorph
+    by:
+      - joe_fish
+      - maractwin
+    ref:
+      inaturalist: 472116
+datetime: '2015-08-29T11:23:21-04:00'
+latitude: -8.789472
+longitude: 119.671762
+location_name: 'Komodo, Komodo, Manggarai, Nusa Tenggara Timur, Indonesia'
+tags:
+  - animals~cnidarians~sea_anemones_and_corals~corallimorphs~corallimorphidae
+  - rarity~2
+photos:
+  - source: iNaturalist
+    id: '2466104'
+    width: 1600
+    height: 1200
+    thumbnail_url: 'https://static.inaturalist.org/photos/2466104/medium.jpg?1443814498'
+    original_url: 'https://static.inaturalist.org/photos/2466104/original.jpg?1443814498'
+    license: CC BY-NC-SA
+    attribution: Mark Rosenstein
+    href: 'https://www.inaturalist.org/photos/2466104'
+license: CC BY
+created_at: '2015-10-02T15:34:51-04:00'
+updated_at: '2018-04-08T18:57:47-04:00'
+source:
+  - name: iNaturalist
+    href: 'http://www.inaturalist.org/observations/2034363'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Paracorynactis_hoplites'
+description: 'Paracorynactis hoplites, usually known as the hoplites corallimorph, is a species of corallimorph from the western Indo-West Pacific. They are specialized predators of echinoderms, and are notable for preying on the destructive crown-of-thorns starfish (Acanthaster planci) among others. This is the only species classified under the genus Paracorynactis.'
+collections:
+  - southeast_asia_diving_guide

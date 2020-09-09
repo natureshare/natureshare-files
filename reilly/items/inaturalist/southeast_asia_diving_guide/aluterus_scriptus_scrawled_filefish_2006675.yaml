@@ -1,0 +1,37 @@
+id:
+  - name: Aluterus scriptus
+    common: Scrawled Filefish
+    by:
+      - maractwin
+      - kemper
+      - moneill
+    ref:
+      inaturalist: 49498
+datetime: '2015-08-25T08:54:15-04:00'
+latitude: -8.5114
+longitude: 119.646592
+location_name: 'Komodo, Komodo, Manggarai, Nusa Tenggara Timur, Indonesia'
+tags:
+  - animals~chordates~ray-finned_fishes~puffers_and_filefishes~filefishes
+  - rarity~3
+photos:
+  - source: iNaturalist
+    id: '2442445'
+    width: 1600
+    height: 1068
+    thumbnail_url: 'https://static.inaturalist.org/photos/2442445/medium.jpg?1443399566'
+    original_url: 'https://static.inaturalist.org/photos/2442445/original.jpg?1443399566'
+    license: CC BY-NC-SA
+    attribution: Mark Rosenstein
+    href: 'https://www.inaturalist.org/photos/2442445'
+license: CC BY
+created_at: '2015-09-27T20:18:59-04:00'
+updated_at: '2018-07-21T16:12:33-04:00'
+source:
+  - name: iNaturalist
+    href: 'http://www.inaturalist.org/observations/2006675'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Aluterus_scriptus'
+description: 'Aluterus scriptus, commonly known as scrawled filefish, broomtail filefish or scribbled leatherjacket, is a marine fish belonging to the family Monacanthidae.'
+collections:
+  - southeast_asia_diving_guide

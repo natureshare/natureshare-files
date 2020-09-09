@@ -1,0 +1,35 @@
+id:
+  - name: Pteraeolidia semperi
+    common: Blue Dragon
+    by:
+      - tantsusoo
+      - jpsilva
+    ref:
+      inaturalist: 469568
+datetime: '2020-08-22T08:57:00+08:00'
+latitude: 1.227093
+longitude: 103.751508
+location_name: 'West, SG'
+accuracy: 2
+tags:
+  - animals~molluscs~gastropods~nudibranchs~facelinidae
+  - rarity~3
+photos:
+  - source: iNaturalist
+    id: '91366559'
+    width: 1280
+    height: 960
+    thumbnail_url: 'https://static.inaturalist.org/photos/91366559/medium.jpeg?1598146931'
+    original_url: 'https://static.inaturalist.org/photos/91366559/original.jpeg?1598146931'
+    license: CC BY-NC
+    attribution: Tsu Soo Tan
+    href: 'https://www.inaturalist.org/photos/91366559'
+license: CC BY-NC
+created_at: '2020-08-23T09:42:58+08:00'
+updated_at: '2020-08-23T11:38:58+08:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/57289339'
+description: '-'
+collections:
+  - southeast_asia_diving_guide

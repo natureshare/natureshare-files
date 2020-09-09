@@ -1,0 +1,35 @@
+id:
+  - name: Pseudosquilla ciliata
+    common: Common Mantis Shrimp
+    by:
+      - maractwin
+    ref:
+      inaturalist: 49797
+datetime: '2014-05-24T07:06:37-04:00'
+latitude: -8.437795
+longitude: 119.577022
+location_name: 'Manggarai, Nusa Tenggara Timur, Indonesia'
+tags:
+  - animals~arthropods~malacostracans~mantis_shrimps~pseudosquillidae
+  - rarity~2
+photos:
+  - source: iNaturalist
+    id: '917882'
+    width: 1600
+    height: 1068
+    thumbnail_url: 'https://static.inaturalist.org/photos/917882/medium.jpg?1402455895'
+    original_url: 'https://static.inaturalist.org/photos/917882/original.jpg?1402455895'
+    license: CC BY-NC-SA
+    attribution: Mark Rosenstein
+    href: 'https://www.inaturalist.org/photos/917882'
+license: CC BY
+created_at: '2014-06-10T23:04:43-04:00'
+updated_at: '2014-06-10T23:04:44-04:00'
+source:
+  - name: iNaturalist
+    href: 'http://www.inaturalist.org/observations/730429'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Pseudosquilla_ciliata'
+description: 'Pseudosquilla ciliata, the common mantis shrimp, is a species of mantis shrimp, known by common names including rainbow mantis shrimp and false mantis shrimp. It is widespread in the tropical Indo-Pacific region and in both the western and eastern Atlantic Ocean.'
+collections:
+  - southeast_asia_diving_guide

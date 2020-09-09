@@ -1,0 +1,37 @@
+id:
+  - name: Ardeadoris cruenta
+    common: Red Spot Nudibranch
+    by:
+      - albertkang
+      - erwinkoehler
+    ref:
+      inaturalist: 469416
+datetime: '2019-08-05T15:41:00+08:00'
+latitude: -8.615499
+longitude: 119.499135
+location_name: 'Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Tim., Indonesia'
+accuracy: 2145
+tags:
+  - animals~molluscs~gastropods~nudibranchs~chromodorids
+  - rarity~3
+photos:
+  - source: iNaturalist
+    id: '80780301'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/80780301/medium.jpg?1593064981'
+    original_url: 'https://static.inaturalist.org/photos/80780301/original.jpg?1593064981'
+    license: CC BY-NC
+    attribution: Albert Kang
+    href: 'https://www.inaturalist.org/photos/80780301'
+license: CC BY-NC
+created_at: '2020-06-25T14:05:26+08:00'
+updated_at: '2020-06-25T15:19:13+08:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/50858614'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Ardeadoris_cruenta'
+description: 'Ardeadoris cruenta is a species of very colourful sea slug, a dorid nudibranch, a marine gastropod mollusc in the family Chromodorididae. Its name is derived from the feminine form of the Latin word cruentus, which means "stained with blood" and is a reference to the red spots on its upper dorsum. It was transferred to the genus Ardeadoris on the basis of DNA evidence.'
+collections:
+  - southeast_asia_diving_guide

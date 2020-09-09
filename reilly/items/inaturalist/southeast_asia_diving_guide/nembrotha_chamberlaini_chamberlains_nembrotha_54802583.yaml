@@ -1,0 +1,37 @@
+id:
+  - name: Nembrotha chamberlaini
+    common: Chamberlain's Nembrotha
+    by:
+      - lcolmer
+      - hsini_lin
+    ref:
+      inaturalist: 121050
+datetime: '2017-06-20T16:17:00+12:00'
+latitude: -8.533879
+longitude: 119.612197
+location_name: 'Komodo, Komodo, ID-NT-MB, ID-NT, ID'
+accuracy: 1395
+tags:
+  - animals~molluscs~gastropods~nudibranchs~polyceridae
+  - rarity~4
+photos:
+  - source: iNaturalist
+    id: '87217891'
+    width: 1732
+    height: 1155
+    thumbnail_url: 'https://static.inaturalist.org/photos/87217891/medium.jpg?1596074198'
+    original_url: 'https://static.inaturalist.org/photos/87217891/original.jpg?1596074198'
+    license: CC BY-NC
+    attribution: lcolmer
+    href: 'https://www.inaturalist.org/photos/87217891'
+license: CC BY-NC
+created_at: '2020-07-30T14:21:53+12:00'
+updated_at: '2020-07-30T21:55:54+12:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/54802583'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Nembrotha_chamberlaini'
+description: 'Nembrotha chamberlaini is a species of colorful sea slug, a dorid nudibranch, a marine gastropod mollusk in the family Polyceridae. It was first described in 1997.'
+collections:
+  - southeast_asia_diving_guide

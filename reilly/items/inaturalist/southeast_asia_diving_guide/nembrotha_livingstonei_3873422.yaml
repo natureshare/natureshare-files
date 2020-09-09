@@ -1,0 +1,35 @@
+id:
+  - name: Nembrotha livingstonei
+    by:
+      - erwinkoehler
+      - jpsilva
+    ref:
+      inaturalist: 418431
+latitude: 9.495021
+longitude: 123.295784
+location_name: 'Samboan, PH-CB, PH'
+accuracy: 488
+description: 'Nembrotha livingstonei is a species of colourful sea slug, a dorid nudibranch, a marine gastropod mollusk in the family Polyceridae. It was first described in 1933.'
+tags:
+  - animals~molluscs~gastropods~nudibranchs~polyceridae
+  - rarity~4
+photos:
+  - source: iNaturalist
+    id: '4542677'
+    width: 750
+    height: 500
+    thumbnail_url: 'https://static.inaturalist.org/photos/4542677/medium.jpg?1471090595'
+    original_url: 'https://static.inaturalist.org/photos/4542677/original.jpg?1471090595'
+    license: CC BY-NC
+    attribution: erwinkoehler
+    href: 'https://www.inaturalist.org/photos/4542677'
+license: CC BY-NC
+created_at: '2016-08-13T20:19:12+08:00'
+updated_at: '2018-03-13T06:20:14+08:00'
+source:
+  - name: iNaturalist
+    href: 'http://www.inaturalist.org/observations/3873422'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Nembrotha_livingstonei'
+collections:
+  - southeast_asia_diving_guide

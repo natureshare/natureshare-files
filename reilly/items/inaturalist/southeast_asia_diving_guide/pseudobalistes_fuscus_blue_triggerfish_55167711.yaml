@@ -1,0 +1,35 @@
+id:
+  - name: Pseudobalistes fuscus
+    common: Blue Triggerfish
+    by:
+      - blackdogto
+    ref:
+      inaturalist: 123394
+datetime: '2019-05-11T15:09:00+08:00'
+latitude: -8.530214
+longitude: 119.585052
+location_name: 'Komodo, Komodo, Manggarai Barat, Nusa Tenggara Timur, Indonesia'
+tags:
+  - animals~chordates~ray-finned_fishes~puffers_and_filefishes~triggerfishes
+  - rarity~3
+photos:
+  - source: iNaturalist
+    id: '87825586'
+    width: 2048
+    height: 1463
+    thumbnail_url: 'https://static.inaturalist.org/photos/87825586/medium.jpg?1596384566'
+    original_url: 'https://static.inaturalist.org/photos/87825586/original.jpg?1596384566'
+    license: CC BY-NC
+    attribution: blackdogto
+    href: 'https://www.inaturalist.org/photos/87825586'
+license: CC BY-NC
+created_at: '2020-08-03T00:09:31+08:00'
+updated_at: '2020-08-03T00:10:20+08:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/55167711'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Blue_or_rippled_triggerfish'
+description: 'Pseudobalistes fuscus, common names blue triggerfish or rippled triggerfish, yellow-spotted triggerfish and blue-and-gold triggerfish, is a fish belonging to the family Balistidae.'
+collections:
+  - southeast_asia_diving_guide

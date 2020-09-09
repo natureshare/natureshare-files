@@ -1,0 +1,38 @@
+id:
+  - name: Pomacanthus semicirculatus
+    common: Semicircle Angelfish
+    by:
+      - julianjimenez
+      - maractwin
+      - kemper
+      - michalsloviak
+    ref:
+      inaturalist: 110019
+latitude: -8.47958
+longitude: 119.548007
+location_name: 'Nusa Tenggara Oriental, Indonesia'
+accuracy: 488
+tags:
+  - animals~chordates~ray-finned_fishes~perch-like_fishes~angelfishes
+  - rarity~4
+photos:
+  - source: iNaturalist
+    id: '91743489'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://static.inaturalist.org/photos/91743489/medium.jpeg?1598327304'
+    original_url: 'https://static.inaturalist.org/photos/91743489/original.jpeg?1598327304'
+    license: CC BY-NC-ND
+    attribution: Julian Jimenez
+    href: 'https://www.inaturalist.org/photos/91743489'
+license: CC BY-NC
+created_at: '2020-08-25T07:33:38+00:00'
+updated_at: '2020-08-25T18:14:43+00:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/57522197'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Pomacanthus_semicirculatus'
+description: Pomacanthus semicirculatus (Koran angelfish or semicircle angelfish) is a ray-finned fish in the family Pomacanthidae. It is found in the Indo-West Pacific Ocean. It occasionally makes its way into the aquarium trade.
+collections:
+  - southeast_asia_diving_guide

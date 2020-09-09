@@ -1,0 +1,46 @@
+id:
+  - name: Sepia latimanus
+    common: Broadclub Cuttlefish
+    by:
+      - albertkang
+      - alfonsustoribio
+    ref:
+      inaturalist: 119417
+datetime: '2019-08-06T16:05:00+08:00'
+latitude: -8.769111
+longitude: 119.594236
+location_name: 'Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Tim., Indonesia'
+accuracy: 1953
+tags:
+  - animals~molluscs~cephalopods~sepiidans~cuttlefishes
+  - rarity~4
+photos:
+  - source: iNaturalist
+    id: '80930313'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/80930313/medium.jpeg?1593138550'
+    original_url: 'https://static.inaturalist.org/photos/80930313/original.jpeg?1593138550'
+    license: CC BY-NC
+    attribution: Albert Kang
+    href: 'https://www.inaturalist.org/photos/80930313'
+  - source: iNaturalist
+    id: '80930717'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/80930717/medium.jpeg?1593138735'
+    original_url: 'https://static.inaturalist.org/photos/80930717/original.jpeg?1593138735'
+    license: CC BY-NC
+    attribution: Albert Kang
+    href: 'https://www.inaturalist.org/photos/80930717'
+license: CC BY-NC
+created_at: '2020-06-26T10:29:53+08:00'
+updated_at: '2020-06-26T13:38:53+08:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/50951535'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Sepia_latimanus'
+description: "Sepia latimanus, also known as the broadclub cuttlefish, is widely distributed from the Andaman Sea, east to Fiji, and south to northern Australia. It is the most common cuttlefish species on coral reefs, living at a depth of up to 30\_m."
+collections:
+  - southeast_asia_diving_guide

@@ -1,0 +1,36 @@
+id:
+  - name: Arothron mappa
+    common: Map Puffer
+    by:
+      - orobourical
+      - maractwin
+    ref:
+      inaturalist: 124906
+datetime: '2019-05-02T13:24:00-07:00'
+latitude: -8.536569
+longitude: 119.613981
+location_name: Batu Bolong dive site
+tags:
+  - animals~chordates~ray-finned_fishes~puffers_and_filefishes~pufferfishes
+  - rarity~4
+photos:
+  - source: iNaturalist
+    id: '89247060'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/89247060/medium.jpeg?1597066091'
+    original_url: 'https://static.inaturalist.org/photos/89247060/original.jpeg?1597066091'
+    license: CC BY-NC
+    attribution: orobourical
+    href: 'https://www.inaturalist.org/photos/89247060'
+license: CC BY-NC
+created_at: '2020-08-10T06:31:28-07:00'
+updated_at: '2020-08-10T06:35:49-07:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/56023438'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Map_puffer'
+description: 'The map puffer (Arothron mappa), also known as the map pufferfish, is a demersal marine fish belonging to the family Tetraodontidae.'
+collections:
+  - southeast_asia_diving_guide

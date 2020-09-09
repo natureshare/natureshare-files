@@ -1,0 +1,38 @@
+id:
+  - name: Chaetodon bennetti
+    common: Eclipse Butterflyfish
+    by:
+      - craigjhowe
+      - maractwin
+      - michalsloviak
+    ref:
+      inaturalist: 97147
+datetime: '2018-02-21T05:50:00-05:00'
+latitude: -8.47115
+longitude: 119.509964
+location_name: 'Komodo, Komodo, ID-NT-MB, ID-NT, ID'
+accuracy: 1622
+tags:
+  - animals~chordates~ray-finned_fishes~perch-like_fishes~butterflyfishes
+  - rarity~5
+photos:
+  - source: iNaturalist
+    id: '59037769'
+    width: 1600
+    height: 1110
+    thumbnail_url: 'https://static.inaturalist.org/photos/59037769/medium.jpeg?1578134144'
+    original_url: 'https://static.inaturalist.org/photos/59037769/original.jpeg?1578134144'
+    license: CC BY-NC-ND
+    attribution: craigjhowe
+    href: 'https://www.inaturalist.org/photos/59037769'
+license: CC BY-NC
+created_at: '2020-01-04T05:35:45-05:00'
+updated_at: '2020-03-13T05:05:44-04:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/37260508'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Bluelashed_butterflyfish'
+description: 'The bluelashed butterflyfish (Chaetodon bennetti) is a species of butterflyfish (family Chaetodontidae). It is found in the Indo-Pacific from East Africa to the Pitcairn Islands, north to Japan and south to Lord Howe Island and Rapa Iti.'
+collections:
+  - southeast_asia_diving_guide

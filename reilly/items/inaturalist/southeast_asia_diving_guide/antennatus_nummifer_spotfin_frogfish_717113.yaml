@@ -1,0 +1,35 @@
+id:
+  - name: Antennatus nummifer
+    common: Spotfin Frogfish
+    by:
+      - maractwin
+    ref:
+      inaturalist: 529376
+datetime: '2014-05-19T06:48:50-04:00'
+latitude: -8.627822
+longitude: 119.706322
+location_name: 'Manggarai, Nusa Tenggara Timur, Indonesia'
+tags:
+  - animals~chordates~ray-finned_fishes~anglerfishes~frogfishes
+  - rarity~2
+photos:
+  - source: iNaturalist
+    id: '901011'
+    width: 2048
+    height: 1364
+    thumbnail_url: 'https://static.inaturalist.org/photos/901011/medium.jpg?1401901962'
+    original_url: 'https://static.inaturalist.org/photos/901011/original.jpg?1401901962'
+    license: CC BY-NC-SA
+    attribution: Mark Rosenstein
+    href: 'https://www.inaturalist.org/photos/901011'
+license: CC BY
+created_at: '2014-06-04T13:07:59-04:00'
+updated_at: '2020-08-02T12:03:19-04:00'
+source:
+  - name: iNaturalist
+    href: 'http://www.inaturalist.org/observations/717113'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Spotfin_frogfish'
+description: "The spotfin frogfish, Antennatus nummifer, is a fish of the family Antennariidae, found in all subtropical oceans to depths of 300 m. It grows to 13\_cm (5.1\_in) in total length. This species can be found in the aquarium trade."
+collections:
+  - southeast_asia_diving_guide

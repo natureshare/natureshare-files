@@ -1,0 +1,37 @@
+id:
+  - name: Balistoides conspicillum
+    common: Clown Triggerfish
+    by:
+      - julianjimenez
+      - tim_wilms
+      - kemper
+    ref:
+      inaturalist: 154282
+latitude: -8.481278
+longitude: 119.574443
+location_name: 'Nusa Tenggara Oriental, Indonesia'
+accuracy: 488
+tags:
+  - animals~chordates~ray-finned_fishes~puffers_and_filefishes~triggerfishes
+  - rarity~3
+photos:
+  - source: iNaturalist
+    id: '91744404'
+    width: 2048
+    height: 1242
+    thumbnail_url: 'https://static.inaturalist.org/photos/91744404/medium.jpg?1598327854'
+    original_url: 'https://static.inaturalist.org/photos/91744404/original.jpg?1598327854'
+    license: CC BY-NC-ND
+    attribution: Julian Jimenez
+    href: 'https://www.inaturalist.org/photos/91744404'
+license: CC BY-NC
+created_at: '2020-08-25T07:33:39+00:00'
+updated_at: '2020-08-25T16:09:45+00:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/57522202'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Clown_triggerfish'
+description: 'Clown triggerfish (Balistoides conspicillum), also known as the bigspotted triggerfish, are demersal marine fish belonging to the family Balistidae, or commonly called triggerfish.'
+collections:
+  - southeast_asia_diving_guide

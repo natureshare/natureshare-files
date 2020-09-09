@@ -1,0 +1,37 @@
+id:
+  - name: Synchiropus picturatus
+    common: Picturesque Dragonet
+    by:
+      - elaundlini
+      - maractwin
+    ref:
+      inaturalist: 56073
+datetime: '2019-04-27T13:26:00+02:00'
+latitude: -8.527716
+longitude: 119.48332
+location_name: 'Ost-Nusa Tenggara, Indonesien'
+accuracy: 3784
+tags:
+  - animals~chordates~ray-finned_fishes~perch-like_fishes~dragonets
+  - rarity~3
+photos:
+  - source: iNaturalist
+    id: '59433747'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/59433747/medium.jpeg?1578754502'
+    original_url: 'https://static.inaturalist.org/photos/59433747/original.jpeg?1578754502'
+    license: CC BY-NC
+    attribution: Daniela Kupschus
+    href: 'https://www.inaturalist.org/photos/59433747'
+license: CC BY-NC
+created_at: '2020-01-11T16:00:22+01:00'
+updated_at: '2020-01-11T16:11:10+01:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/37485682'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Picturesque_dragonet'
+description: 'The picturesque dragonet (Synchiropus picturatus) is a brightly colored member of the dragonet family native to the Indo-West Pacific: Philippines, eastern Indonesia and northwest Australia. It occasionally makes its way into the aquarium trade, where it is commonly known as the spotted mandarin, psychedelic mandarin or target mandarin.'
+collections:
+  - southeast_asia_diving_guide
