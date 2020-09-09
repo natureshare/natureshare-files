@@ -3,10 +3,13 @@ id:
     by:
       - chrislindorff
       - kenharris
+    ref:
+      inaturalist: 210152
 datetime: '2015-09-29T12:06:00+10:00'
 latitude: -36.85243
 longitude: 142.469188
 location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,33 +19,37 @@ photos:
     height: 678
     thumbnail_url: 'https://static.inaturalist.org/photos/83135580/medium.jpeg?1594157133'
     original_url: 'https://static.inaturalist.org/photos/83135580/original.jpeg?1594157133'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/83135580'
   - source: iNaturalist
     id: '83135559'
     width: 1024
     height: 678
     thumbnail_url: 'https://static.inaturalist.org/photos/83135559/medium.jpeg?1594157128'
     original_url: 'https://static.inaturalist.org/photos/83135559/original.jpeg?1594157128'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/83135559'
   - source: iNaturalist
     id: '83135589'
     width: 678
     height: 1024
     thumbnail_url: 'https://static.inaturalist.org/photos/83135589/medium.jpeg?1594157139'
     original_url: 'https://static.inaturalist.org/photos/83135589/original.jpeg?1594157139'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/83135589'
   - source: iNaturalist
     id: '83135546'
     width: 1024
     height: 678
     thumbnail_url: 'https://static.inaturalist.org/photos/83135546/medium.jpeg?1594157122'
     original_url: 'https://static.inaturalist.org/photos/83135546/original.jpeg?1594157122'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/83135546'
+license: CC BY-NC
 created_at: '2020-07-08T07:25:42+10:00'
 updated_at: '2020-07-08T10:18:06+10:00'
 source:

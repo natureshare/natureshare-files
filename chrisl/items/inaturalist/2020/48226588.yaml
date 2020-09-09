@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - bernie-l
+    ref:
+      inaturalist: 323806
 datetime: '2020-06-02T15:47:00+10:00'
 latitude: -37.688863
 longitude: 143.542781
 location_name: 'Linton VIC 3360, Australia'
+accuracy: 10
 description: Pubescent stems.
 tags:
   - inaturalist
@@ -18,9 +21,10 @@ photos:
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/76507339/medium.jpeg?1591100118'
     original_url: 'https://static.inaturalist.org/photos/76507339/original.jpeg?1591100118'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/76507339'
+license: CC BY-NC
 created_at: '2020-06-02T22:47:59+10:00'
 updated_at: '2020-06-08T21:15:27+10:00'
 source:

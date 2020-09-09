@@ -2,6 +2,8 @@ id:
   - name: Cladia aggregata
     by:
       - chrislindorff
+    ref:
+      inaturalist: 355354
 datetime: '2020-04-26T14:57:29+10:00'
 latitude: -37.905592
 longitude: 144.222697
@@ -15,9 +17,10 @@ photos:
     height: 1280
     thumbnail_url: 'https://static.inaturalist.org/photos/69131917/medium.jpeg?1587894161'
     original_url: 'https://static.inaturalist.org/photos/69131917/original.jpeg?1587894161'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/69131917'
+license: CC BY-NC
 created_at: '2020-04-26T19:42:03+10:00'
 updated_at: '2020-04-26T19:42:44+10:00'
 source:

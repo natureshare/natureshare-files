@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - lorrainecphelan
+    ref:
+      inaturalist: 713917
 datetime: '2020-04-25T12:12:50+10:00'
 latitude: -37.899031
 longitude: 144.223487
 location_name: 'Anakie VIC 3213, Australia'
+accuracy: 5
 description: 'In Victoria, known as Drosera macrantha subsp. planchonii.'
 tags:
   - inaturalist
@@ -18,9 +21,10 @@ photos:
     height: 1280
     thumbnail_url: 'https://static.inaturalist.org/photos/68689871/medium.jpeg?1587802759'
     original_url: 'https://static.inaturalist.org/photos/68689871/original.jpeg?1587802759'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68689871'
+license: CC BY-NC
 created_at: '2020-04-25T18:18:25+10:00'
 updated_at: '2020-04-25T18:55:25+10:00'
 source:

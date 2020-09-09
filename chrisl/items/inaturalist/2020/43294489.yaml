@@ -4,6 +4,8 @@ id:
     by:
       - chrislindorff
       - coralieann
+    ref:
+      inaturalist: 75251
 datetime: '2020-04-25T12:47:52+10:00'
 latitude: -37.898672
 longitude: 144.22184
@@ -17,9 +19,10 @@ photos:
     height: 1280
     thumbnail_url: 'https://static.inaturalist.org/photos/68717174/medium.jpeg?1587813102'
     original_url: 'https://static.inaturalist.org/photos/68717174/original.jpeg?1587813102'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68717174'
+license: CC BY-NC
 created_at: '2020-04-25T21:11:08+10:00'
 updated_at: '2020-04-25T21:19:10+10:00'
 source:

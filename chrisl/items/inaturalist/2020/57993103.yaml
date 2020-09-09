@@ -2,10 +2,13 @@ id:
   - name: Fumaria capreolata capreolata
     by:
       - chrislindorff
+    ref:
+      inaturalist: 59257
 datetime: '2012-09-25T14:40:00+10:00'
 latitude: -31.278735
 longitude: 148.974436
 location_name: 'Warrumbungle National Park, NSW'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -15,9 +18,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/92550740/medium.jpeg?1598755506'
     original_url: 'https://static.inaturalist.org/photos/92550740/original.jpeg?1598755506'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/92550740'
+license: CC BY-NC
 created_at: '2020-08-30T12:45:11+10:00'
 updated_at: '2020-08-30T12:45:11+10:00'
 source:

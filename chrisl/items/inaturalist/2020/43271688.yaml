@@ -5,10 +5,13 @@ id:
       - chrislindorff
       - stephen169
       - helenschofield
+    ref:
+      inaturalist: 54686
 datetime: '2020-04-25T11:47:18+10:00'
 latitude: -37.9012
 longitude: 144.223128
 location_name: 'Anakie VIC 3213, Australia'
+accuracy: 5
 description: Leaves of two non-flowering plants.
 tags:
   - inaturalist
@@ -19,9 +22,10 @@ photos:
     height: 1280
     thumbnail_url: 'https://static.inaturalist.org/photos/68683182/medium.jpeg?1587799500'
     original_url: 'https://static.inaturalist.org/photos/68683182/original.jpeg?1587799500'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68683182'
+license: CC BY-NC
 created_at: '2020-04-25T17:24:32+10:00'
 updated_at: '2020-08-17T08:57:25+10:00'
 source:

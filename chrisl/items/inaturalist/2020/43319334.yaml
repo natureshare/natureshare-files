@@ -3,6 +3,8 @@ id:
     common: sweet vernal grass
     by:
       - chrislindorff
+    ref:
+      inaturalist: 75475
 datetime: '2020-04-25T14:16:22+10:00'
 latitude: -37.901623
 longitude: 144.225068
@@ -16,9 +18,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/68752446/medium.jpeg?1587822559'
     original_url: 'https://static.inaturalist.org/photos/68752446/original.jpeg?1587822559'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68752446'
+license: CC BY-NC
 created_at: '2020-04-25T23:48:37+10:00'
 updated_at: '2020-04-25T23:49:22+10:00'
 source:

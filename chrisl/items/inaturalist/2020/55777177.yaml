@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - chrisclarke25
+    ref:
+      inaturalist: 977348
 datetime: '2020-08-02T16:42:00+10:00'
 latitude: -35.91876
 longitude: 141.840056
 location_name: 'Birdcage Flora and Fauna Reserve, Rainbow'
+accuracy: 10
 description: syn Hybanthus floribunda
 tags:
   - inaturalist
@@ -18,33 +21,37 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/88839814/medium.jpeg?1596878431'
     original_url: 'https://static.inaturalist.org/photos/88839814/original.jpeg?1596878431'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/88839814'
   - source: iNaturalist
     id: '88839862'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/88839862/medium.jpeg?1596878492'
     original_url: 'https://static.inaturalist.org/photos/88839862/original.jpeg?1596878492'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/88839862'
   - source: iNaturalist
     id: '88839931'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/88839931/medium.jpeg?1596878549'
     original_url: 'https://static.inaturalist.org/photos/88839931/original.jpeg?1596878549'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/88839931'
   - source: iNaturalist
     id: '88839983'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/88839983/medium.jpeg?1596878612'
     original_url: 'https://static.inaturalist.org/photos/88839983/original.jpeg?1596878612'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/88839983'
+license: CC BY-NC
 created_at: '2020-08-08T19:23:37+10:00'
 updated_at: '2020-08-09T01:09:22+10:00'
 source:

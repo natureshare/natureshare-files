@@ -3,10 +3,13 @@ id:
     common: bracket fungi
     by:
       - chrislindorff
+    ref:
+      inaturalist: 47379
 datetime: '2020-06-02T16:26:00+10:00'
 latitude: -37.691764
 longitude: 143.542928
 location_name: 'Linton VIC 3360, Australia'
+accuracy: 10
 description: On dead wood.
 tags:
   - inaturalist
@@ -17,17 +20,19 @@ photos:
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/76520965/medium.jpeg?1591107166'
     original_url: 'https://static.inaturalist.org/photos/76520965/original.jpeg?1591107166'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/76520965'
   - source: iNaturalist
     id: '76521163'
     width: 2048
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/76521163/medium.jpeg?1591107251'
     original_url: 'https://static.inaturalist.org/photos/76521163/original.jpeg?1591107251'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/76521163'
+license: CC BY-NC
 created_at: '2020-06-03T00:14:17+10:00'
 updated_at: '2020-06-03T00:14:17+10:00'
 source:

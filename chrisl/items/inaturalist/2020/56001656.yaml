@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - chrisclarke25
+    ref:
+      inaturalist: 511257
 datetime: '2020-08-02T15:47:00+10:00'
 latitude: -35.9189
 longitude: 141.852925
 location_name: 'Birdcage Flora and Fauna Reserve, Rainbow'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -17,49 +20,55 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/89210688/medium.jpeg?1597037547'
     original_url: 'https://static.inaturalist.org/photos/89210688/original.jpeg?1597037547'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/89210688'
   - source: iNaturalist
     id: '89210626'
     width: 2048
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/89210626/medium.jpeg?1597037491'
     original_url: 'https://static.inaturalist.org/photos/89210626/original.jpeg?1597037491'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/89210626'
   - source: iNaturalist
     id: '89210556'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/89210556/medium.jpeg?1597037431'
     original_url: 'https://static.inaturalist.org/photos/89210556/original.jpeg?1597037431'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/89210556'
   - source: iNaturalist
     id: '89210940'
     width: 2048
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/89210940/medium.jpeg?1597037699'
     original_url: 'https://static.inaturalist.org/photos/89210940/original.jpeg?1597037699'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/89210940'
   - source: iNaturalist
     id: '89210821'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/89210821/medium.jpeg?1597037619'
     original_url: 'https://static.inaturalist.org/photos/89210821/original.jpeg?1597037619'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/89210821'
   - source: iNaturalist
     id: '89210449'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/89210449/medium.jpeg?1597037338'
     original_url: 'https://static.inaturalist.org/photos/89210449/original.jpeg?1597037338'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/89210449'
+license: CC BY-NC
 created_at: '2020-08-10T15:35:03+10:00'
 updated_at: '2020-08-10T18:43:26+10:00'
 source:

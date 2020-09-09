@@ -3,10 +3,13 @@ id:
     by:
       - chrislindorff
       - reiner
+    ref:
+      inaturalist: 1115629
 datetime: '2020-07-19T12:32:00+10:00'
 latitude: -37.867799
 longitude: 144.248796
 location_name: 'Aquaduct Track, Brisbane Ranges National Park'
+accuracy: 20
 description: A natural hybrid between Pterostylis concinna and Pterostylis striata.
 tags:
   - inaturalist
@@ -17,17 +20,19 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/86714619/medium.jpeg?1595830563'
     original_url: 'https://static.inaturalist.org/photos/86714619/original.jpeg?1595830563'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/86714619'
   - source: iNaturalist
     id: '86714836'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/86714836/medium.jpeg?1595830765'
     original_url: 'https://static.inaturalist.org/photos/86714836/original.jpeg?1595830765'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/86714836'
+license: CC BY-NC
 created_at: '2020-07-27T17:20:33+10:00'
 updated_at: '2020-07-28T10:16:21+10:00'
 source:

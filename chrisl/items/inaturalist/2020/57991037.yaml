@@ -2,10 +2,13 @@ id:
   - name: Wurmbea biglandulosa biglandulosa
     by:
       - chrislindorff
+    ref:
+      inaturalist: 1052990
 datetime: '2012-09-25T12:13:00+10:00'
 latitude: -31.287738
 longitude: 148.974551
 location_name: 'Warrumbungle National Park, NSW'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -15,9 +18,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/92546837/medium.jpeg?1598753310'
     original_url: 'https://static.inaturalist.org/photos/92546837/original.jpeg?1598753310'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/92546837'
+license: CC BY-NC
 created_at: '2020-08-30T12:11:31+10:00'
 updated_at: '2020-08-30T12:11:31+10:00'
 source:

@@ -3,10 +3,13 @@ id:
     common: Twining Glycine
     by:
       - chrislindorff
+    ref:
+      inaturalist: 321122
 datetime: '2012-09-25T12:02:00+10:00'
 latitude: -31.287269
 longitude: 148.971441
 location_name: 'Warrumbungle National Park, NSW'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,17 +19,19 @@ photos:
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/92547663/medium.jpeg?1598753754'
     original_url: 'https://static.inaturalist.org/photos/92547663/original.jpeg?1598753754'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/92547663'
   - source: iNaturalist
     id: '92547794'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/92547794/medium.jpeg?1598753829'
     original_url: 'https://static.inaturalist.org/photos/92547794/original.jpeg?1598753829'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/92547794'
+license: CC BY-NC
 created_at: '2020-08-30T12:17:14+10:00'
 updated_at: '2020-08-30T12:17:14+10:00'
 source:

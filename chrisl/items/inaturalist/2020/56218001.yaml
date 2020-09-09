@@ -1,8 +1,11 @@
 id:
   - name: Podolepis
+    common: Copper-wire Daisy
     by:
       - chrislindorff
       - koolah
+    ref:
+      inaturalist: 511256
 datetime: '2012-09-24T10:06:00+10:00'
 latitude: -31.295991
 longitude: 148.99144
@@ -16,25 +19,28 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/89573590/medium.jpeg?1597236719'
     original_url: 'https://static.inaturalist.org/photos/89573590/original.jpeg?1597236719'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/89573590'
   - source: iNaturalist
     id: '89573872'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/89573872/medium.jpeg?1597236899'
     original_url: 'https://static.inaturalist.org/photos/89573872/original.jpeg?1597236899'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/89573872'
   - source: iNaturalist
     id: '89573701'
     width: 2048
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/89573701/medium.jpeg?1597236777'
     original_url: 'https://static.inaturalist.org/photos/89573701/original.jpeg?1597236777'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/89573701'
+license: CC BY-NC
 created_at: '2020-08-12T22:57:48+10:00'
 updated_at: '2020-08-20T16:45:55+10:00'
 source:

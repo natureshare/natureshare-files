@@ -2,10 +2,13 @@ id:
   - name: Cassinia leptocephala everettiae
     by:
       - chrislindorff
+    ref:
+      inaturalist: 857262
 datetime: '2012-09-24T10:19:00+10:00'
 latitude: -31.296623
 longitude: 148.98965
 location_name: 'Warrumbungle National Park, NSW'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -15,17 +18,19 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90197366/medium.jpeg?1597549187'
     original_url: 'https://static.inaturalist.org/photos/90197366/original.jpeg?1597549187'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90197366'
   - source: iNaturalist
     id: '90197603'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90197603/medium.jpeg?1597549328'
     original_url: 'https://static.inaturalist.org/photos/90197603/original.jpeg?1597549328'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90197603'
+license: CC BY-NC
 created_at: '2020-08-16T13:27:40+10:00'
 updated_at: '2020-08-16T13:42:12+10:00'
 source:

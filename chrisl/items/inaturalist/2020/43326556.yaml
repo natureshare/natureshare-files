@@ -5,6 +5,8 @@ id:
       - chrislindorff
       - stephen169
       - streglystendec
+    ref:
+      inaturalist: 320644
 datetime: '2020-04-25T14:53:35+10:00'
 latitude: -37.903056
 longitude: 144.223904
@@ -19,9 +21,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/68762018/medium.jpeg?1587824337'
     original_url: 'https://static.inaturalist.org/photos/68762018/original.jpeg?1587824337'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68762018'
+license: CC BY-NC
 created_at: '2020-04-26T00:18:38+10:00'
 updated_at: '2020-04-28T20:01:47+10:00'
 source:

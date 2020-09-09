@@ -3,14 +3,17 @@ id:
     common: European Fallow Deer
     by:
       - chrislindorff
+    ref:
+      inaturalist: 42161
 datetime: '2020-05-13T11:04:00+10:00'
 latitude: -37.919619
 longitude: 144.214985
 location_name: 'Clarkes Rd, 1km S of Galatea Mine Rd, Anakie VIC 3213, Australia'
+accuracy: 15
 description: 'Mature female crossing Clarkes Road (from east to west). Very pale coat, with white spots.'
 tags:
   - inaturalist
-license: cc-by-nc
+license: CC BY-NC
 created_at: '2020-05-14T11:29:20+10:00'
 updated_at: '2020-05-14T11:29:20+10:00'
 source:

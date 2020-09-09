@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - kenneth_oberlander
+    ref:
+      inaturalist: 119468
 datetime: '2019-09-18T15:07:05+10:00'
 latitude: -38.216264
 longitude: 144.434882
 location_name: 'Moolap VIC 3224, Australia'
+accuracy: 199
 tags:
   - inaturalist
 photos:
@@ -17,17 +20,19 @@ photos:
     height: 1152
     thumbnail_url: 'https://static.inaturalist.org/photos/70860520/medium.jpeg?1588486013'
     original_url: 'https://static.inaturalist.org/photos/70860520/original.jpeg?1588486013'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/70860520'
   - source: iNaturalist
     id: '70860600'
     width: 2048
     height: 1152
     thumbnail_url: 'https://static.inaturalist.org/photos/70860600/medium.jpeg?1588486052'
     original_url: 'https://static.inaturalist.org/photos/70860600/original.jpeg?1588486052'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/70860600'
+license: CC BY-NC
 created_at: '2020-05-03T16:06:22+10:00'
 updated_at: '2020-08-12T09:27:02+10:00'
 source:

@@ -3,10 +3,13 @@ id:
     by:
       - chrislindorff
       - gtaseski
+    ref:
+      inaturalist: 537823
 datetime: '2012-09-24T10:47:00+10:00'
 latitude: -31.299115
 longitude: 148.986259
 location_name: 'Warrumbungle National Park, NSW'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,35 +19,39 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90390503/medium.jpeg?1597634230'
     original_url: 'https://static.inaturalist.org/photos/90390503/original.jpeg?1597634230'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90390503'
   - source: iNaturalist
     id: '90390720'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90390720/medium.jpeg?1597634347'
     original_url: 'https://static.inaturalist.org/photos/90390720/original.jpeg?1597634347'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90390720'
   - source: iNaturalist
     id: '90390858'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90390858/medium.jpeg?1597634429'
     original_url: 'https://static.inaturalist.org/photos/90390858/original.jpeg?1597634429'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90390858'
   - source: iNaturalist
     id: '90390981'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90390981/medium.jpeg?1597634500'
     original_url: 'https://static.inaturalist.org/photos/90390981/original.jpeg?1597634500'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90390981'
+license: CC BY-NC
 created_at: '2020-08-17T13:21:45+10:00'
-updated_at: '2020-08-17T17:44:59+10:00'
+updated_at: '2020-08-17T21:27:18+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/56709911'

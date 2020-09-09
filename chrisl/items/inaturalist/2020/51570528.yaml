@@ -4,10 +4,13 @@ id:
       - chrislindorff
       - koolah
       - gtaseski
+    ref:
+      inaturalist: 790432
 datetime: '2020-06-29T11:52:00+10:00'
 latitude: -36.600123
 longitude: 143.713444
 location_name: Kooyoora State Park
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -17,17 +20,19 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/81945460/medium.jpeg?1593604786'
     original_url: 'https://static.inaturalist.org/photos/81945460/original.jpeg?1593604786'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/81945460'
   - source: iNaturalist
     id: '81945652'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/81945652/medium.jpeg?1593604918'
     original_url: 'https://static.inaturalist.org/photos/81945652/original.jpeg?1593604918'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/81945652'
+license: CC BY-NC
 created_at: '2020-07-01T22:04:34+10:00'
 updated_at: '2020-07-05T19:55:15+10:00'
 source:

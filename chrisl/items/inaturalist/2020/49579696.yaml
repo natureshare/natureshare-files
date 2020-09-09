@@ -5,10 +5,13 @@ id:
       - chrislindorff
       - chrisclarke25
       - reiner
+    ref:
+      inaturalist: 516647
 datetime: '2015-09-18T12:35:00+10:00'
 latitude: -37.430484
 longitude: 144.652691
 location_name: 'Riddells Creek VIC 3431, Australia'
+accuracy: 80
 tags:
   - inaturalist
 photos:
@@ -18,65 +21,73 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78707804/medium.jpeg?1592144958'
     original_url: 'https://static.inaturalist.org/photos/78707804/original.jpeg?1592144958'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78707804'
   - source: iNaturalist
     id: '78707882'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78707882/medium.jpeg?1592144981'
     original_url: 'https://static.inaturalist.org/photos/78707882/original.jpeg?1592144981'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78707882'
   - source: iNaturalist
     id: '78707975'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78707975/medium.jpeg?1592145010'
     original_url: 'https://static.inaturalist.org/photos/78707975/original.jpeg?1592145010'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78707975'
   - source: iNaturalist
     id: '78708042'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78708042/medium.jpeg?1592145032'
     original_url: 'https://static.inaturalist.org/photos/78708042/original.jpeg?1592145032'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78708042'
   - source: iNaturalist
     id: '78708136'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78708136/medium.jpeg?1592145057'
     original_url: 'https://static.inaturalist.org/photos/78708136/original.jpeg?1592145057'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78708136'
   - source: iNaturalist
     id: '78708179'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78708179/medium.jpeg?1592145073'
     original_url: 'https://static.inaturalist.org/photos/78708179/original.jpeg?1592145073'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78708179'
   - source: iNaturalist
     id: '78708279'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78708279/medium.jpeg?1592145097'
     original_url: 'https://static.inaturalist.org/photos/78708279/original.jpeg?1592145097'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78708279'
   - source: iNaturalist
     id: '78708348'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78708348/medium.jpeg?1592145119'
     original_url: 'https://static.inaturalist.org/photos/78708348/original.jpeg?1592145119'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78708348'
+license: CC BY-NC
 created_at: '2020-06-15T00:32:06+10:00'
 updated_at: '2020-07-03T12:09:31+10:00'
 source:

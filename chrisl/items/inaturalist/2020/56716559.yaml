@@ -2,10 +2,13 @@ id:
   - name: Poranthera corymbosa
     by:
       - chrislindorff
+    ref:
+      inaturalist: 560196
 datetime: '2012-09-24T10:48:00+10:00'
 latitude: -31.299104
 longitude: 148.986189
 location_name: 'Warrumbungle National Park, NSW'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -15,17 +18,19 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90403095/medium.jpeg?1597642691'
     original_url: 'https://static.inaturalist.org/photos/90403095/original.jpeg?1597642691'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90403095'
   - source: iNaturalist
     id: '90403194'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90403194/medium.jpeg?1597642770'
     original_url: 'https://static.inaturalist.org/photos/90403194/original.jpeg?1597642770'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90403194'
+license: CC BY-NC
 created_at: '2020-08-17T15:45:07+10:00'
 updated_at: '2020-08-17T15:45:07+10:00'
 source:

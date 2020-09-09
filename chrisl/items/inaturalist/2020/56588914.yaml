@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - reiner
+    ref:
+      inaturalist: 210166
 datetime: '2012-09-24T10:23:00+10:00'
 latitude: -31.296941
 longitude: 148.989133
 location_name: 'Warrumbungle National Park, NSW'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -17,9 +20,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90190299/medium.jpeg?1597545686'
     original_url: 'https://static.inaturalist.org/photos/90190299/original.jpeg?1597545686'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90190299'
+license: CC BY-NC
 created_at: '2020-08-16T12:41:32+10:00'
 updated_at: '2020-08-18T23:31:06+10:00'
 source:

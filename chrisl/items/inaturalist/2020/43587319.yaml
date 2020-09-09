@@ -4,6 +4,8 @@ id:
     by:
       - chrislindorff
       - rfoster
+    ref:
+      inaturalist: 481934
 datetime: '2020-04-26T15:46:25+10:00'
 latitude: -37.909858
 longitude: 144.223162
@@ -17,25 +19,28 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/69151536/medium.jpeg?1587900603'
     original_url: 'https://static.inaturalist.org/photos/69151536/original.jpeg?1587900603'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/69151536'
   - source: iNaturalist
     id: '69151637'
     width: 1280
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/69151637/medium.jpeg?1587900637'
     original_url: 'https://static.inaturalist.org/photos/69151637/original.jpeg?1587900637'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/69151637'
   - source: iNaturalist
     id: '69151746'
     width: 2048
     height: 1280
     thumbnail_url: 'https://static.inaturalist.org/photos/69151746/medium.jpeg?1587900677'
     original_url: 'https://static.inaturalist.org/photos/69151746/original.jpeg?1587900677'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/69151746'
+license: CC BY-NC
 created_at: '2020-04-26T21:29:28+10:00'
 updated_at: '2020-04-26T21:33:45+10:00'
 source:

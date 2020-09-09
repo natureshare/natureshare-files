@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - owenlishmund
+    ref:
+      inaturalist: 8658
 datetime: '2020-04-27T10:56:11+10:00'
 latitude: -37.901911
 longitude: 144.223047
 location_name: 'Anakie VIC 3213, Australia'
+accuracy: 6
 tags:
   - inaturalist
 photos:
@@ -17,9 +20,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/69455979/medium.jpeg?1587949217'
     original_url: 'https://static.inaturalist.org/photos/69455979/original.jpeg?1587949217'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/69455979'
+license: CC BY-NC
 created_at: '2020-04-27T10:59:49+10:00'
 updated_at: '2020-04-27T11:06:16+10:00'
 source:

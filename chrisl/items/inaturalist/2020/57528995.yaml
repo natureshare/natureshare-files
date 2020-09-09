@@ -2,10 +2,13 @@ id:
   - name: Pultenaea microphylla
     by:
       - chrislindorff
+    ref:
+      inaturalist: 1092523
 datetime: '2012-09-25T12:04:00+10:00'
 latitude: -31.287446
 longitude: 148.971985
 location_name: 'Warrumbungle National Park, NSW'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -15,9 +18,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/91772432/medium.jpeg?1598350002'
     original_url: 'https://static.inaturalist.org/photos/91772432/original.jpeg?1598350002'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/91772432'
+license: CC BY-NC
 created_at: '2020-08-25T20:06:47+10:00'
 updated_at: '2020-08-25T20:06:47+10:00'
 source:

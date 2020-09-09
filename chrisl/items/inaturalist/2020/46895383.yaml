@@ -2,10 +2,13 @@ id:
   - name: Hibbertia circumdans
     by:
       - chrislindorff
+    ref:
+      inaturalist: 1089465
 datetime: '2012-09-29T12:26:00+10:00'
 latitude: -32.778056
 longitude: 148.34339
 location_name: 'Baldry NSW 2867, Australia'
+accuracy: 6
 tags:
   - inaturalist
 photos:
@@ -15,17 +18,19 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/74372344/medium.jpeg?1590184567'
     original_url: 'https://static.inaturalist.org/photos/74372344/original.jpeg?1590184567'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/74372344'
   - source: iNaturalist
     id: '74372186'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/74372186/medium.jpeg?1590184522'
     original_url: 'https://static.inaturalist.org/photos/74372186/original.jpeg?1590184522'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/74372186'
+license: CC BY-NC
 created_at: '2020-05-23T07:56:13+10:00'
 updated_at: '2020-05-23T08:37:03+10:00'
 source:

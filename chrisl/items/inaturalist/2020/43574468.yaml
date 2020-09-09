@@ -3,6 +3,8 @@ id:
     common: Ivy Leaved Violet
     by:
       - chrislindorff
+    ref:
+      inaturalist: 321186
 datetime: '2020-04-26T15:22:55+10:00'
 latitude: -37.908784
 longitude: 144.222387
@@ -16,9 +18,10 @@ photos:
     height: 1280
     thumbnail_url: 'https://static.inaturalist.org/photos/69133388/medium.jpeg?1587894654'
     original_url: 'https://static.inaturalist.org/photos/69133388/original.jpeg?1587894654'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/69133388'
+license: CC BY-NC
 created_at: '2020-04-26T19:50:26+10:00'
 updated_at: '2020-04-26T19:50:57+10:00'
 source:

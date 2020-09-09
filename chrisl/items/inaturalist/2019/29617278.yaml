@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - bushbandit
+    ref:
+      inaturalist: 140424
 datetime: '2019-07-27T13:12:55+10:00'
 latitude: -37.82812
 longitude: 143.736219
 location_name: 'Dereel VIC 3352, Australia'
+accuracy: 9
 description: Colony of 100cmx70cm
 tags:
   - inaturalist
@@ -18,17 +21,19 @@ photos:
     height: 1152
     thumbnail_url: 'https://static.inaturalist.org/photos/46231001/medium.jpeg?1564197556'
     original_url: 'https://static.inaturalist.org/photos/46231001/original.jpeg?1564197556'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/46231001'
   - source: iNaturalist
     id: '46231030'
     width: 2048
     height: 1152
     thumbnail_url: 'https://static.inaturalist.org/photos/46231030/medium.jpeg?1564197577'
     original_url: 'https://static.inaturalist.org/photos/46231030/original.jpeg?1564197577'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/46231030'
+license: CC BY-NC
 created_at: '2019-07-27T13:18:56+10:00'
 updated_at: '2019-07-27T20:47:26+10:00'
 source:

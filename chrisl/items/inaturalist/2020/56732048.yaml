@@ -3,10 +3,13 @@ id:
     common: Twiggy Daisy-Bush
     by:
       - chrislindorff
+    ref:
+      inaturalist: 465914
 datetime: '2012-09-24T12:35:00+10:00'
 latitude: -31.299108
 longitude: 148.985533
 location_name: 'Warrumbungle National Park, NSW'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,9 +19,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90428741/medium.jpeg?1597665541'
     original_url: 'https://static.inaturalist.org/photos/90428741/original.jpeg?1597665541'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90428741'
+license: CC BY-NC
 created_at: '2020-08-17T21:59:06+10:00'
 updated_at: '2020-08-17T21:59:06+10:00'
 source:

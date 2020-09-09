@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - reiner
+    ref:
+      inaturalist: 321064
 datetime: '2020-07-19T12:23:00+10:00'
 latitude: -37.867761
 longitude: 144.247203
 location_name: 'Aquaduct Track, Brisbane Ranges National Park'
+accuracy: 20
 tags:
   - inaturalist
 photos:
@@ -17,17 +20,19 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/86715255/medium.jpeg?1595831191'
     original_url: 'https://static.inaturalist.org/photos/86715255/original.jpeg?1595831191'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/86715255'
   - source: iNaturalist
     id: '86715454'
     width: 2048
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/86715454/medium.jpeg?1595831375'
     original_url: 'https://static.inaturalist.org/photos/86715454/original.jpeg?1595831375'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/86715454'
+license: CC BY-NC
 created_at: '2020-07-27T17:20:35+10:00'
 updated_at: '2020-07-27T17:24:44+10:00'
 source:

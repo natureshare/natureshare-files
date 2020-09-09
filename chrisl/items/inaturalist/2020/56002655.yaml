@@ -3,10 +3,13 @@ id:
     common: dwarf greenhood
     by:
       - chrislindorff
+    ref:
+      inaturalist: 487293
 datetime: '2020-08-02T15:39:00+10:00'
 latitude: -35.919005
 longitude: 141.85358
 location_name: 'Birdcage Flora and Fauna Reserve, Rainbow'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,9 +19,10 @@ photos:
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/89211738/medium.jpeg?1597038377'
     original_url: 'https://static.inaturalist.org/photos/89211738/original.jpeg?1597038377'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/89211738'
+license: CC BY-NC
 created_at: '2020-08-10T15:59:47+10:00'
 updated_at: '2020-08-10T15:59:47+10:00'
 source:

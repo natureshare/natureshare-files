@@ -3,10 +3,13 @@ id:
     common: Weak Plantain
     by:
       - chrislindorff
+    ref:
+      inaturalist: 167001
 datetime: '2012-09-24T10:39:00+10:00'
 latitude: -31.298805
 longitude: 148.986781
 location_name: 'Warrumbungle National Park, NSW'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,9 +19,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90212433/medium.jpeg?1597561409'
     original_url: 'https://static.inaturalist.org/photos/90212433/original.jpeg?1597561409'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90212433'
+license: CC BY-NC
 created_at: '2020-08-16T17:03:33+10:00'
 updated_at: '2020-08-16T17:03:34+10:00'
 source:

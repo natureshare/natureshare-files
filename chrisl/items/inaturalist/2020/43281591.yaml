@@ -3,6 +3,8 @@ id:
     by:
       - chrislindorff
       - malcorn
+    ref:
+      inaturalist: 711401
 datetime: '2020-04-25T12:28:06+10:00'
 latitude: -37.897601
 longitude: 144.223747
@@ -16,17 +18,19 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/68698124/medium.jpeg?1587806132'
     original_url: 'https://static.inaturalist.org/photos/68698124/original.jpeg?1587806132'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68698124'
   - source: iNaturalist
     id: '68698265'
     width: 2048
     height: 1280
     thumbnail_url: 'https://static.inaturalist.org/photos/68698265/medium.jpeg?1587806182'
     original_url: 'https://static.inaturalist.org/photos/68698265/original.jpeg?1587806182'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68698265'
+license: CC BY-NC
 created_at: '2020-04-25T19:15:00+10:00'
 updated_at: '2020-04-25T19:42:39+10:00'
 source:

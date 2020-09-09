@@ -4,10 +4,13 @@ id:
     by:
       - reiner
       - chrislindorff
+    ref:
+      inaturalist: 137504
 datetime: '2005-11-02T14:22:00+11:00'
 latitude: -37.5674
 longitude: 149.271401
 location_name: 'Drummer Rainforest Walk, Noorinbee VIC 3890, Australia'
+accuracy: 200
 tags:
   - inaturalist
 photos:
@@ -17,9 +20,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/74471933/medium.jpeg?1590237327'
     original_url: 'https://static.inaturalist.org/photos/74471933/original.jpeg?1590237327'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/74471933'
+license: CC BY-NC
 created_at: '2020-05-23T22:41:31+10:00'
 updated_at: '2020-05-23T23:09:36+10:00'
 source:

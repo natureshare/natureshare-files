@@ -3,10 +3,13 @@ id:
     common: Australian Pigmyweed
     by:
       - chrislindorff
+    ref:
+      inaturalist: 160961
 datetime: '2015-09-29T12:17:00+10:00'
 latitude: -36.852471
 longitude: 142.469984
 location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,17 +19,19 @@ photos:
     height: 678
     thumbnail_url: 'https://static.inaturalist.org/photos/83042936/medium.jpeg?1594121757'
     original_url: 'https://static.inaturalist.org/photos/83042936/original.jpeg?1594121757'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/83042936'
   - source: iNaturalist
     id: '83042957'
     width: 678
     height: 1024
     thumbnail_url: 'https://static.inaturalist.org/photos/83042957/medium.jpeg?1594121767'
     original_url: 'https://static.inaturalist.org/photos/83042957/original.jpeg?1594121767'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/83042957'
+license: CC BY-NC
 created_at: '2020-07-07T21:36:25+10:00'
 updated_at: '2020-07-07T21:36:25+10:00'
 source:

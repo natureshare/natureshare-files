@@ -2,10 +2,13 @@ id:
   - name: Indigofera adesmiifolia
     by:
       - chrislindorff
+    ref:
+      inaturalist: 715286
 datetime: '2012-09-24T10:15:00+10:00'
 latitude: -31.296409
 longitude: 148.989874
 location_name: 'Warrumbungle National Park, NSW'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -15,17 +18,19 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90191130/medium.jpeg?1597546099'
     original_url: 'https://static.inaturalist.org/photos/90191130/original.jpeg?1597546099'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90191130'
   - source: iNaturalist
     id: '90191277'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90191277/medium.jpeg?1597546183'
     original_url: 'https://static.inaturalist.org/photos/90191277/original.jpeg?1597546183'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90191277'
+license: CC BY-NC
 created_at: '2020-08-16T12:49:48+10:00'
 updated_at: '2020-08-16T12:49:48+10:00'
 source:

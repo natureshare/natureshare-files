@@ -3,10 +3,13 @@ id:
     by:
       - chrislindorff
       - gtaseski
+    ref:
+      inaturalist: 790432
 datetime: '2020-06-28T11:44:00+10:00'
 latitude: -36.613121
 longitude: 143.707749
 location_name: Kooyoora State Park
+accuracy: 10
 description: Nectaries white.
 tags:
   - inaturalist
@@ -17,9 +20,10 @@ photos:
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/81768771/medium.jpeg?1593521734'
     original_url: 'https://static.inaturalist.org/photos/81768771/original.jpeg?1593521734'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/81768771'
+license: CC BY-NC
 created_at: '2020-06-30T23:18:05+10:00'
 updated_at: '2020-07-05T19:57:37+10:00'
 source:

@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - stephen169
+    ref:
+      inaturalist: 52134
 datetime: '2020-06-29T11:43:00+10:00'
 latitude: -36.60004
 longitude: 143.713206
 location_name: Kooyoora State Park
+accuracy: 10
 description: Larvae found in rock pool.
 tags:
   - inaturalist
@@ -18,17 +21,19 @@ photos:
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/82449523/medium.jpeg?1593846577'
     original_url: 'https://static.inaturalist.org/photos/82449523/original.jpeg?1593846577'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/82449523'
   - source: iNaturalist
     id: '82449691'
     width: 2048
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/82449691/medium.jpeg?1593846742'
     original_url: 'https://static.inaturalist.org/photos/82449691/original.jpeg?1593846742'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/82449691'
+license: CC BY-NC
 created_at: '2020-07-04T17:14:15+10:00'
 updated_at: '2020-07-08T23:42:26+10:00'
 source:

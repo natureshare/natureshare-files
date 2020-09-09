@@ -2,10 +2,13 @@ id:
   - name: Lomandra micrantha micrantha
     by:
       - chrislindorff
+    ref:
+      inaturalist: 863791
 datetime: '2020-08-02T16:51:00+10:00'
 latitude: -35.918997
 longitude: 141.840299
 location_name: 'Birdcage Flora and Fauna Reserve, Rainbow'
+accuracy: 10
 description: Male flowers
 tags:
   - inaturalist
@@ -16,9 +19,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/89407801/medium.jpeg?1597150053'
     original_url: 'https://static.inaturalist.org/photos/89407801/original.jpeg?1597150053'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/89407801'
+license: CC BY-NC
 created_at: '2020-08-11T22:49:34+10:00'
 updated_at: '2020-08-11T22:49:34+10:00'
 source:

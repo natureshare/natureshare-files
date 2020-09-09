@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - koolah
+    ref:
+      inaturalist: 547335
 datetime: '2020-07-19T12:20:00+10:00'
 latitude: -37.867842
 longitude: 144.246838
 location_name: 'Aquaduct Track, Brisbane Ranges National Park'
+accuracy: 20
 tags:
   - inaturalist
 photos:
@@ -17,25 +20,28 @@ photos:
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/86716697/medium.jpeg?1595832419'
     original_url: 'https://static.inaturalist.org/photos/86716697/original.jpeg?1595832419'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/86716697'
   - source: iNaturalist
     id: '86716691'
     width: 2048
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/86716691/medium.jpeg?1595832415'
     original_url: 'https://static.inaturalist.org/photos/86716691/original.jpeg?1595832415'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/86716691'
   - source: iNaturalist
     id: '86717101'
     width: 2048
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/86717101/medium.jpeg?1595832675'
     original_url: 'https://static.inaturalist.org/photos/86717101/original.jpeg?1595832675'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/86717101'
+license: CC BY-NC
 created_at: '2020-07-27T17:20:37+10:00'
 updated_at: '2020-07-30T16:03:15+10:00'
 source:

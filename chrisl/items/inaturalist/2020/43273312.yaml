@@ -4,6 +4,8 @@ id:
     by:
       - chrislindorff
       - helenschofield
+    ref:
+      inaturalist: 119729
 datetime: '2020-04-25T11:54:02+10:00'
 latitude: -37.89989
 longitude: 144.223226
@@ -17,17 +19,19 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/68685460/medium.jpeg?1587800625'
     original_url: 'https://static.inaturalist.org/photos/68685460/original.jpeg?1587800625'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68685460'
   - source: iNaturalist
     id: '68685527'
     width: 1280
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/68685527/medium.jpeg?1587800663'
     original_url: 'https://static.inaturalist.org/photos/68685527/original.jpeg?1587800663'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68685527'
+license: CC BY-NC
 created_at: '2020-04-25T17:42:59+10:00'
 updated_at: '2020-08-17T08:59:26+10:00'
 source:

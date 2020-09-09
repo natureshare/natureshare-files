@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - reiner
+    ref:
+      inaturalist: 547335
 datetime: '2020-05-31T13:40:00+10:00'
 latitude: -37.866728
 longitude: 144.24396
 location_name: 'Staughton Vale VIC 3340, Australia'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -17,17 +20,19 @@ photos:
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/76064405/medium.jpeg?1590907706'
     original_url: 'https://static.inaturalist.org/photos/76064405/original.jpeg?1590907706'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/76064405'
   - source: iNaturalist
     id: '76064595'
     width: 2048
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/76064595/medium.jpeg?1590907864'
     original_url: 'https://static.inaturalist.org/photos/76064595/original.jpeg?1590907864'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/76064595'
+license: CC BY-NC
 created_at: '2020-05-31T16:52:31+10:00'
 updated_at: '2020-05-31T16:56:03+10:00'
 source:

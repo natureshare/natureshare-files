@@ -2,10 +2,13 @@ id:
   - name: Chrysocephalum apiculatum apiculatum
     by:
       - chrislindorff
+    ref:
+      inaturalist: 1093042
 datetime: '2020-05-26T11:12:00+10:00'
 latitude: -37.687905
 longitude: 143.542136
 location_name: 'Linton VIC 3360, Australia'
+accuracy: 200
 tags:
   - inaturalist
 photos:
@@ -15,17 +18,19 @@ photos:
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/75871058/medium.jpeg?1590837617'
     original_url: 'https://static.inaturalist.org/photos/75871058/original.jpeg?1590837617'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/75871058'
   - source: iNaturalist
     id: '75871230'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/75871230/medium.jpeg?1590837728'
     original_url: 'https://static.inaturalist.org/photos/75871230/original.jpeg?1590837728'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/75871230'
+license: CC BY-NC
 created_at: '2020-05-30T21:22:14+10:00'
 updated_at: '2020-05-30T23:34:04+10:00'
 source:

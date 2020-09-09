@@ -2,6 +2,8 @@ id:
   - name: Myrmecia pyriformis
     by:
       - chenhanlin
+    ref:
+      inaturalist: 711955
 datetime: '2020-04-25T12:44:46+10:00'
 latitude: -37.898436
 longitude: 144.221837
@@ -15,9 +17,10 @@ photos:
     height: 1280
     thumbnail_url: 'https://static.inaturalist.org/photos/68716442/medium.jpeg?1587812807'
     original_url: 'https://static.inaturalist.org/photos/68716442/original.jpeg?1587812807'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68716442'
+license: CC BY-NC
 created_at: '2020-04-25T21:06:11+10:00'
 updated_at: '2020-04-26T21:00:59+10:00'
 source:

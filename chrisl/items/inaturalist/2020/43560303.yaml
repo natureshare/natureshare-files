@@ -4,6 +4,8 @@ id:
       - chrislindorff
       - bushbandit
       - lifeisamazing
+    ref:
+      inaturalist: 557326
 datetime: '2020-04-26T14:34:38+10:00'
 latitude: -37.902629
 longitude: 144.223876
@@ -17,9 +19,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/69112324/medium.jpeg?1587886509'
     original_url: 'https://static.inaturalist.org/photos/69112324/original.jpeg?1587886509'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/69112324'
+license: CC BY-NC
 created_at: '2020-04-26T17:34:28+10:00'
 updated_at: '2020-04-26T17:47:05+10:00'
 source:

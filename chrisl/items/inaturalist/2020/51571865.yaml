@@ -4,10 +4,13 @@ id:
       - chrislindorff
       - reiner
       - gtaseski
+    ref:
+      inaturalist: 551504
 datetime: '2020-06-29T12:58:00+10:00'
 latitude: -36.60482
 longitude: 143.710157
 location_name: Kooyoora State Park
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -17,33 +20,37 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/81946466/medium.jpeg?1593605408'
     original_url: 'https://static.inaturalist.org/photos/81946466/original.jpeg?1593605408'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/81946466'
   - source: iNaturalist
     id: '81946770'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/81946770/medium.jpeg?1593605569'
     original_url: 'https://static.inaturalist.org/photos/81946770/original.jpeg?1593605569'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/81946770'
   - source: iNaturalist
     id: '81946961'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/81946961/medium.jpeg?1593605697'
     original_url: 'https://static.inaturalist.org/photos/81946961/original.jpeg?1593605697'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/81946961'
   - source: iNaturalist
     id: '81947194'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/81947194/medium.jpeg?1593605829'
     original_url: 'https://static.inaturalist.org/photos/81947194/original.jpeg?1593605829'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/81947194'
+license: CC BY-NC
 created_at: '2020-07-01T22:26:39+10:00'
 updated_at: '2020-07-05T19:55:23+10:00'
 source:

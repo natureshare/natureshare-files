@@ -2,10 +2,13 @@ id:
   - name: Dillwynia phylicoides
     by:
       - chrislindorff
+    ref:
+      inaturalist: 520339
 datetime: '2012-09-24T10:20:00+10:00'
 latitude: -31.296644
 longitude: 148.989663
 location_name: 'Warrumbungle National Park, NSW'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -15,25 +18,28 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90186434/medium.jpeg?1597543606'
     original_url: 'https://static.inaturalist.org/photos/90186434/original.jpeg?1597543606'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90186434'
   - source: iNaturalist
     id: '90186640'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90186640/medium.jpeg?1597543692'
     original_url: 'https://static.inaturalist.org/photos/90186640/original.jpeg?1597543692'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90186640'
   - source: iNaturalist
     id: '90186937'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90186937/medium.jpeg?1597543817'
     original_url: 'https://static.inaturalist.org/photos/90186937/original.jpeg?1597543817'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90186937'
+license: CC BY-NC
 created_at: '2020-08-16T12:10:22+10:00'
 updated_at: '2020-08-16T12:10:23+10:00'
 source:

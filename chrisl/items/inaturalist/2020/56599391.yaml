@@ -2,10 +2,13 @@ id:
   - name: Acacia cheelii
     by:
       - chrislindorff
+    ref:
+      inaturalist: 775161
 datetime: '2012-09-24T10:31:00+10:00'
 latitude: -31.297822
 longitude: 148.98791
 location_name: 'Warrumbungle National Park, NSW'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -15,17 +18,19 @@ photos:
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/90208715/medium.jpeg?1597557756'
     original_url: 'https://static.inaturalist.org/photos/90208715/original.jpeg?1597557756'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90208715'
   - source: iNaturalist
     id: '90208813'
     width: 2048
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/90208813/medium.jpeg?1597557850'
     original_url: 'https://static.inaturalist.org/photos/90208813/original.jpeg?1597557850'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90208813'
+license: CC BY-NC
 created_at: '2020-08-16T16:04:15+10:00'
 updated_at: '2020-08-16T16:04:15+10:00'
 source:

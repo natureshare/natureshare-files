@@ -3,6 +3,8 @@ id:
     common: prickly sowthistle
     by:
       - chrislindorff
+    ref:
+      inaturalist: 53269
 datetime: '2020-04-25T14:30:25+10:00'
 latitude: -37.902422
 longitude: 144.225581
@@ -16,17 +18,19 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/68759348/medium.jpeg?1587823877'
     original_url: 'https://static.inaturalist.org/photos/68759348/original.jpeg?1587823877'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68759348'
   - source: iNaturalist
     id: '68759508'
     width: 1280
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/68759508/medium.jpeg?1587823904'
     original_url: 'https://static.inaturalist.org/photos/68759508/original.jpeg?1587823904'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68759508'
+license: CC BY-NC
 created_at: '2020-04-26T00:10:45+10:00'
 updated_at: '2020-04-26T00:11:48+10:00'
 source:

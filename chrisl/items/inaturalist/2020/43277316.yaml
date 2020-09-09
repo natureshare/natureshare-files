@@ -3,6 +3,8 @@ id:
     by:
       - chrislindorff
       - koolah
+    ref:
+      inaturalist: 353953
 datetime: '2020-04-25T12:16:55+10:00'
 latitude: -37.898867
 longitude: 144.223447
@@ -16,9 +18,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/68691562/medium.jpeg?1587803528'
     original_url: 'https://static.inaturalist.org/photos/68691562/original.jpeg?1587803528'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68691562'
+license: CC BY-NC
 created_at: '2020-04-25T18:31:42+10:00'
 updated_at: '2020-08-17T09:06:59+10:00'
 source:

@@ -3,6 +3,8 @@ id:
     common: Pink Purslane
     by:
       - chrislindorff
+    ref:
+      inaturalist: 555999
 datetime: '2020-04-25T14:36:08+10:00'
 latitude: -37.902664
 longitude: 144.224794
@@ -16,9 +18,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/68760146/medium.jpeg?1587824013'
     original_url: 'https://static.inaturalist.org/photos/68760146/original.jpeg?1587824013'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68760146'
+license: CC BY-NC
 created_at: '2020-04-26T00:13:08+10:00'
 updated_at: '2020-05-04T19:35:32+10:00'
 source:

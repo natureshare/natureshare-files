@@ -2,6 +2,8 @@ id:
   - name: Laphangium luteoalbum
     by:
       - chrislindorff
+    ref:
+      inaturalist: 402996
 datetime: '2020-04-25T14:27:21+10:00'
 latitude: -37.902223
 longitude: 144.225474
@@ -15,9 +17,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/68758597/medium.jpeg?1587823747'
     original_url: 'https://static.inaturalist.org/photos/68758597/original.jpeg?1587823747'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68758597'
+license: CC BY-NC
 created_at: '2020-04-26T00:08:37+10:00'
 updated_at: '2020-04-26T00:09:10+10:00'
 source:

@@ -4,10 +4,13 @@ id:
     by:
       - wolfgang_wuster
       - chrislindorff
+    ref:
+      inaturalist: 94946
 datetime: '2019-04-04T14:04:34+11:00'
 latitude: -37.96005
 longitude: 143.491108
 location_name: 'Berrybank VIC 3323, Australia'
+accuracy: 1052
 description: Roadkill. Grassland roadside.
 tags:
   - inaturalist
@@ -18,25 +21,28 @@ photos:
     height: 1152
     thumbnail_url: 'https://static.inaturalist.org/photos/42397702/medium.jpeg?1560944713'
     original_url: 'https://static.inaturalist.org/photos/42397702/original.jpeg?1560944713'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/42397702'
   - source: iNaturalist
     id: '42397713'
     width: 2048
     height: 1152
     thumbnail_url: 'https://static.inaturalist.org/photos/42397713/medium.jpeg?1560944734'
     original_url: 'https://static.inaturalist.org/photos/42397713/original.jpeg?1560944734'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/42397713'
   - source: iNaturalist
     id: '42397728'
     width: 2048
     height: 1152
     thumbnail_url: 'https://static.inaturalist.org/photos/42397728/medium.jpeg?1560944756'
     original_url: 'https://static.inaturalist.org/photos/42397728/original.jpeg?1560944756'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/42397728'
+license: CC BY-NC
 created_at: '2019-06-19T21:44:49+10:00'
 updated_at: '2019-07-27T13:21:34+10:00'
 source:

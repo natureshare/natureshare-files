@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - chrisclarke25
+    ref:
+      inaturalist: 555884
 datetime: '2020-08-02T15:49:00+10:00'
 latitude: -35.918877
 longitude: 141.851446
 location_name: 'Birdcage Flora and Fauna Reserve, Rainbow'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -17,9 +20,10 @@ photos:
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/88520108/medium.jpeg?1596711405'
     original_url: 'https://static.inaturalist.org/photos/88520108/original.jpeg?1596711405'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/88520108'
+license: CC BY-NC
 created_at: '2020-08-06T21:20:04+10:00'
 updated_at: '2020-08-07T00:37:54+10:00'
 source:

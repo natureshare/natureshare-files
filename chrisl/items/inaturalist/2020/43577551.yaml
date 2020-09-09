@@ -4,6 +4,8 @@ id:
     by:
       - chrislindorff
       - abedggood
+    ref:
+      inaturalist: 559367
 datetime: '2020-04-26T15:41:23+10:00'
 latitude: -37.909659
 longitude: 144.222537
@@ -17,9 +19,10 @@ photos:
     height: 1280
     thumbnail_url: 'https://static.inaturalist.org/photos/69137760/medium.jpeg?1587896164'
     original_url: 'https://static.inaturalist.org/photos/69137760/original.jpeg?1587896164'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/69137760'
+license: CC BY-NC
 created_at: '2020-04-26T20:15:24+10:00'
 updated_at: '2020-04-28T07:24:45+10:00'
 source:

@@ -2,10 +2,13 @@ id:
   - name: Dodonaea viscosa spatulata
     by:
       - chrislindorff
+    ref:
+      inaturalist: 971064
 datetime: '2012-09-24T10:12:00+10:00'
 latitude: -31.29634
 longitude: 148.990254
 location_name: 'Warrumbungle National Park, NSW'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -15,25 +18,28 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/89576614/medium.jpeg?1597238484'
     original_url: 'https://static.inaturalist.org/photos/89576614/original.jpeg?1597238484'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/89576614'
   - source: iNaturalist
     id: '89576758'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/89576758/medium.jpeg?1597238557'
     original_url: 'https://static.inaturalist.org/photos/89576758/original.jpeg?1597238557'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/89576758'
   - source: iNaturalist
     id: '89576947'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/89576947/medium.jpeg?1597238625'
     original_url: 'https://static.inaturalist.org/photos/89576947/original.jpeg?1597238625'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/89576947'
+license: CC BY-NC
 created_at: '2020-08-12T23:23:52+10:00'
 updated_at: '2020-08-12T23:23:52+10:00'
 source:

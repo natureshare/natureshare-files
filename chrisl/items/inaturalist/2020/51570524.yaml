@@ -3,10 +3,13 @@ id:
     by:
       - chrislindorff
       - koolah
+    ref:
+      inaturalist: 790432
 datetime: '2020-06-29T12:22:00+10:00'
 latitude: -36.603461
 longitude: 143.719611
 location_name: Kooyoora State Park
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,25 +19,28 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/81944069/medium.jpeg?1593603990'
     original_url: 'https://static.inaturalist.org/photos/81944069/original.jpeg?1593603990'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/81944069'
   - source: iNaturalist
     id: '81944230'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/81944230/medium.jpeg?1593604092'
     original_url: 'https://static.inaturalist.org/photos/81944230/original.jpeg?1593604092'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/81944230'
   - source: iNaturalist
     id: '81945874'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/81945874/medium.jpeg?1593605063'
     original_url: 'https://static.inaturalist.org/photos/81945874/original.jpeg?1593605063'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/81945874'
+license: CC BY-NC
 created_at: '2020-07-01T22:04:30+10:00'
 updated_at: '2020-07-02T13:56:37+10:00'
 source:

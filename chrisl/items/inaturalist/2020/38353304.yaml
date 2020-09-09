@@ -2,10 +2,13 @@ id:
   - name: Xerochrysum palustre
     by:
       - chrislindorff
+    ref:
+      inaturalist: 634811
 datetime: '2020-02-06T16:46:36+11:00'
 latitude: -38.345675
 longitude: 143.389133
 location_name: 'Pirron Yallock VIC 3249, Australia'
+accuracy: 66
 tags:
   - inaturalist
 photos:
@@ -15,25 +18,28 @@ photos:
     height: 1152
     thumbnail_url: 'https://static.inaturalist.org/photos/60943053/medium.jpeg?1580974677'
     original_url: 'https://static.inaturalist.org/photos/60943053/original.jpeg?1580974677'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/60943053'
   - source: iNaturalist
     id: '60943056'
     width: 2048
     height: 1152
     thumbnail_url: 'https://static.inaturalist.org/photos/60943056/medium.jpeg?1580974691'
     original_url: 'https://static.inaturalist.org/photos/60943056/original.jpeg?1580974691'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/60943056'
   - source: iNaturalist
     id: '60943058'
     width: 2048
     height: 1152
     thumbnail_url: 'https://static.inaturalist.org/photos/60943058/medium.jpeg?1580974704'
     original_url: 'https://static.inaturalist.org/photos/60943058/original.jpeg?1580974704'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/60943058'
+license: CC BY-NC
 created_at: '2020-02-06T18:37:49+11:00'
 updated_at: '2020-02-29T14:11:22+11:00'
 source:

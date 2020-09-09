@@ -3,10 +3,13 @@ id:
     common: Twining Glycine
     by:
       - chrislindorff
+    ref:
+      inaturalist: 321122
 datetime: '2012-09-24T10:21:00+10:00'
 latitude: -31.296686
 longitude: 148.989649
 location_name: 'Warrumbungle National Park, NSW'
+accuracy: 10
 description: Twining through another plant.
 tags:
   - inaturalist
@@ -17,9 +20,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90190094/medium.jpeg?1597545588'
     original_url: 'https://static.inaturalist.org/photos/90190094/original.jpeg?1597545588'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90190094'
+license: CC BY-NC
 created_at: '2020-08-16T12:41:31+10:00'
 updated_at: '2020-08-16T12:41:32+10:00'
 source:

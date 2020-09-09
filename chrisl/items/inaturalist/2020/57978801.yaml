@@ -2,10 +2,13 @@ id:
   - name: Pimelea strigosa
     by:
       - chrislindorff
+    ref:
+      inaturalist: 1125010
 datetime: '2012-09-25T14:44:00+10:00'
 latitude: -31.278663
 longitude: 148.974321
 location_name: 'Warrumbungle National Park, NSW'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -15,33 +18,37 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/92525106/medium.jpeg?1598744061'
     original_url: 'https://static.inaturalist.org/photos/92525106/original.jpeg?1598744061'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/92525106'
   - source: iNaturalist
     id: '92525365'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/92525365/medium.jpeg?1598744186'
     original_url: 'https://static.inaturalist.org/photos/92525365/original.jpeg?1598744186'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/92525365'
   - source: iNaturalist
     id: '92525533'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/92525533/medium.jpeg?1598744275'
     original_url: 'https://static.inaturalist.org/photos/92525533/original.jpeg?1598744275'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/92525533'
   - source: iNaturalist
     id: '92526110'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/92526110/medium.jpeg?1598744539'
     original_url: 'https://static.inaturalist.org/photos/92526110/original.jpeg?1598744539'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/92526110'
+license: CC BY-NC
 created_at: '2020-08-30T09:40:08+10:00'
 updated_at: '2020-08-30T09:42:23+10:00'
 source:

@@ -3,6 +3,8 @@ id:
     common: linear-leaved australian fireweed
     by:
       - chrislindorff
+    ref:
+      inaturalist: 81369
 datetime: '2020-04-25T13:20:46+10:00'
 latitude: -37.899989
 longitude: 144.223699
@@ -17,9 +19,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/68729556/medium.jpeg?1587817165'
     original_url: 'https://static.inaturalist.org/photos/68729556/original.jpeg?1587817165'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68729556'
+license: CC BY-NC
 created_at: '2020-04-25T22:18:56+10:00'
 updated_at: '2020-04-25T22:19:29+10:00'
 source:

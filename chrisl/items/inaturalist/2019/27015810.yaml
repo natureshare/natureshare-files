@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - lorrainecphelan
+    ref:
+      inaturalist: 323829
 datetime: '2019-05-17T11:50:02+10:00'
 latitude: -38.714059
 longitude: 143.191252
 location_name: 'Gellibrand Lower VIC 3237, Australia'
+accuracy: 33
 description: In a wet gully.
 tags:
   - inaturalist
@@ -18,9 +21,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/41990491/medium.jpeg?1560601370'
     original_url: 'https://static.inaturalist.org/photos/41990491/original.jpeg?1560601370'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/41990491'
+license: CC BY-NC
 created_at: '2019-06-15T22:22:32+10:00'
 updated_at: '2019-07-02T18:06:58+10:00'
 source:

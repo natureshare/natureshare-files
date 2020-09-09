@@ -3,10 +3,13 @@ id:
     by:
       - chrislindorff
       - gtaseski
+    ref:
+      inaturalist: 1089660
 datetime: '2012-09-26T14:39:00+10:00'
 latitude: -30.996639
 longitude: 149.235382
 location_name: 'Baradine NSW 2396, Australia'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,9 +19,10 @@ photos:
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/74475906/medium.jpeg?1590239313'
     original_url: 'https://static.inaturalist.org/photos/74475906/original.jpeg?1590239313'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/74475906'
+license: CC BY-NC
 created_at: '2020-05-23T23:21:27+10:00'
 updated_at: '2020-05-24T11:15:26+10:00'
 source:

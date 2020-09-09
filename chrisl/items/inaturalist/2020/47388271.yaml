@@ -2,10 +2,13 @@ id:
   - name: Opercularia varia
     by:
       - chrislindorff
+    ref:
+      inaturalist: 323851
 datetime: '2020-05-26T12:06:00+10:00'
 latitude: -37.687905
 longitude: 143.542136
 location_name: 'Linton VIC 3360, Australia'
+accuracy: 200
 tags:
   - inaturalist
 photos:
@@ -15,9 +18,10 @@ photos:
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/75158265/medium.jpeg?1590493448'
     original_url: 'https://static.inaturalist.org/photos/75158265/original.jpeg?1590493448'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/75158265'
+license: CC BY-NC
 created_at: '2020-05-26T21:51:39+10:00'
 updated_at: '2020-05-26T21:51:39+10:00'
 source:

@@ -4,10 +4,13 @@ id:
     by:
       - spixii
       - joswan12
+    ref:
+      inaturalist: 23668
 datetime: '2020-06-12T17:05:00+10:00'
 latitude: -38.350875
 longitude: 143.392368
 location_name: 'Pirron Yallock VIC 3249, Australia'
+accuracy: 19
 tags:
   - inaturalist
 photos:
@@ -17,25 +20,28 @@ photos:
     height: 1280
     thumbnail_url: 'https://static.inaturalist.org/photos/78836722/medium.jpg?1592179258'
     original_url: 'https://static.inaturalist.org/photos/78836722/original.jpg?1592179258'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78836722'
   - source: iNaturalist
     id: '78836745'
     width: 720
     height: 1280
     thumbnail_url: 'https://static.inaturalist.org/photos/78836745/medium.jpg?1592179268'
     original_url: 'https://static.inaturalist.org/photos/78836745/original.jpg?1592179268'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78836745'
   - source: iNaturalist
     id: '78836771'
     width: 720
     height: 1280
     thumbnail_url: 'https://static.inaturalist.org/photos/78836771/medium.jpg?1592179278'
     original_url: 'https://static.inaturalist.org/photos/78836771/original.jpg?1592179278'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78836771'
+license: CC BY-NC
 created_at: '2020-06-15T10:00:46+10:00'
 updated_at: '2020-06-15T14:28:26+10:00'
 source:

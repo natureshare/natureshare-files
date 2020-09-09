@@ -3,10 +3,13 @@ id:
     common: royal grevillea
     by:
       - chrislindorff
+    ref:
+      inaturalist: 491074
 datetime: '2020-05-26T14:51:00+10:00'
 latitude: -37.642298
 longitude: 143.689457
 location_name: 'Smythesdale VIC 3351, Australia'
+accuracy: 50
 description: 'A naturalised Grevillea cultivar, known as Grevillea ''Poorinda Constance'', believed to be a hybrid between G. victoriae and G. juniperina.'
 tags:
   - inaturalist
@@ -17,9 +20,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/75341051/medium.jpeg?1590582129'
     original_url: 'https://static.inaturalist.org/photos/75341051/original.jpeg?1590582129'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/75341051'
+license: CC BY-NC
 created_at: '2020-05-27T22:23:41+10:00'
 updated_at: '2020-05-27T22:23:41+10:00'
 source:

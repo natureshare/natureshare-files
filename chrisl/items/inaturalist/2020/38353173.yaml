@@ -3,10 +3,13 @@ id:
     common: Pennyroyal
     by:
       - chrislindorff
+    ref:
+      inaturalist: 57116
 datetime: '2020-02-06T17:07:05+11:00'
 latitude: -38.345446
 longitude: 143.389249
 location_name: 'Pirron Yallock VIC 3249, Australia'
+accuracy: 33
 tags:
   - inaturalist
 photos:
@@ -16,17 +19,19 @@ photos:
     height: 1152
     thumbnail_url: 'https://static.inaturalist.org/photos/60942841/medium.jpeg?1580973897'
     original_url: 'https://static.inaturalist.org/photos/60942841/original.jpeg?1580973897'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/60942841'
   - source: iNaturalist
     id: '60942863'
     width: 2048
     height: 1152
     thumbnail_url: 'https://static.inaturalist.org/photos/60942863/medium.jpeg?1580973939'
     original_url: 'https://static.inaturalist.org/photos/60942863/original.jpeg?1580973939'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/60942863'
+license: CC BY-NC
 created_at: '2020-02-06T18:24:37+11:00'
 updated_at: '2020-02-29T14:11:07+11:00'
 source:

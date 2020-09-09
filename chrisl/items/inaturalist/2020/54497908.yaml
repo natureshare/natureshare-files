@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - bushbandit
+    ref:
+      inaturalist: 549968
 datetime: '2020-07-19T13:03:00+10:00'
 latitude: -37.868837
 longitude: 144.248984
 location_name: 'Aquaduct Track, Brisbane Ranges National Park'
+accuracy: 20
 description: In fruit.
 tags:
   - inaturalist
@@ -18,25 +21,28 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/86715628/medium.jpeg?1595831513'
     original_url: 'https://static.inaturalist.org/photos/86715628/original.jpeg?1595831513'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/86715628'
   - source: iNaturalist
     id: '86715850'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/86715850/medium.jpeg?1595831657'
     original_url: 'https://static.inaturalist.org/photos/86715850/original.jpeg?1595831657'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/86715850'
   - source: iNaturalist
     id: '86716068'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/86716068/medium.jpeg?1595831840'
     original_url: 'https://static.inaturalist.org/photos/86716068/original.jpeg?1595831840'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/86716068'
+license: CC BY-NC
 created_at: '2020-07-27T17:20:35+10:00'
 updated_at: '2020-07-28T08:49:08+10:00'
 source:

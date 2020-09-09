@@ -5,6 +5,8 @@ id:
       - thebeachcomber
       - cesdamess
       - chrislindorff
+    ref:
+      inaturalist: 50190
 datetime: '2020-04-26T15:55:06+10:00'
 latitude: -37.909292
 longitude: 144.225039
@@ -19,9 +21,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/69139188/medium.jpeg?1587896684'
     original_url: 'https://static.inaturalist.org/photos/69139188/original.jpeg?1587896684'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/69139188'
+license: CC BY-NC
 created_at: '2020-04-26T20:24:21+10:00'
 updated_at: '2020-04-27T20:20:30+10:00'
 source:

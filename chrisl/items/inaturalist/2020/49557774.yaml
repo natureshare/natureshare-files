@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - chrisclarke25
+    ref:
+      inaturalist: 485211
 datetime: '2020-06-07T15:03:00+10:00'
 latitude: -35.920962
 longitude: 141.85576
 location_name: 'Hindmarsh, Victoria, Australia'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -17,33 +20,37 @@ photos:
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/78673803/medium.jpeg?1592129876'
     original_url: 'https://static.inaturalist.org/photos/78673803/original.jpeg?1592129876'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78673803'
   - source: iNaturalist
     id: '78673945'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78673945/medium.jpeg?1592129961'
     original_url: 'https://static.inaturalist.org/photos/78673945/original.jpeg?1592129961'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78673945'
   - source: iNaturalist
     id: '78674152'
     width: 2048
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/78674152/medium.jpeg?1592130055'
     original_url: 'https://static.inaturalist.org/photos/78674152/original.jpeg?1592130055'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78674152'
   - source: iNaturalist
     id: '78674321'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78674321/medium.jpeg?1592130153'
     original_url: 'https://static.inaturalist.org/photos/78674321/original.jpeg?1592130153'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78674321'
+license: CC BY-NC
 created_at: '2020-06-14T20:29:00+10:00'
 updated_at: '2020-06-21T00:16:57+10:00'
 source:

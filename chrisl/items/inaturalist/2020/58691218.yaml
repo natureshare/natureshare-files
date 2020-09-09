@@ -1,0 +1,40 @@
+id:
+  - name: Geoglossum
+    common: Earth Tongues
+    by:
+      - chrislindorff
+      - tattibom
+    ref:
+      inaturalist: 123258
+datetime: '2020-09-06T17:05:25+10:00'
+latitude: -37.891928
+longitude: 144.227282
+location_name: 'Anakie VIC 3213, Australia'
+accuracy: 13
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '93722523'
+    width: 2048
+    height: 1152
+    thumbnail_url: 'https://static.inaturalist.org/photos/93722523/medium.jpeg?1599378156'
+    original_url: 'https://static.inaturalist.org/photos/93722523/original.jpeg?1599378156'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/93722523'
+  - source: iNaturalist
+    id: '93722557'
+    width: 2048
+    height: 1152
+    thumbnail_url: 'https://static.inaturalist.org/photos/93722557/medium.jpeg?1599378189'
+    original_url: 'https://static.inaturalist.org/photos/93722557/original.jpeg?1599378189'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/93722557'
+license: CC BY-NC
+created_at: '2020-09-06T17:42:13+10:00'
+updated_at: '2020-09-06T17:50:49+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/58691218'

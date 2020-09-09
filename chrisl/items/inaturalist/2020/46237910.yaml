@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - mattcampbellaus
+    ref:
+      inaturalist: 485197
 datetime: '2018-07-22T18:55:00+10:00'
 latitude: -24.21132
 longitude: 124.36157
 location_name: 'Wiluna, AU-WA, AU'
+accuracy: 20
 description: Eagle Highway; Eagle Hussar No.1 bore.
 tags:
   - inaturalist
@@ -18,17 +21,19 @@ photos:
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/73330787/medium.jpeg?1589726917'
     original_url: 'https://static.inaturalist.org/photos/73330787/original.jpeg?1589726917'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/73330787'
   - source: iNaturalist
     id: '73330892'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/73330892/medium.jpeg?1589726950'
     original_url: 'https://static.inaturalist.org/photos/73330892/original.jpeg?1589726950'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/73330892'
+license: CC BY-NC
 created_at: '2020-05-18T00:59:04+10:00'
 updated_at: '2020-05-18T04:57:03+10:00'
 source:

@@ -1,12 +1,16 @@
 id:
   - name: Dampiera rosmarinifolia
+    common: Native Rosemary
     by:
       - chrislindorff
       - chrisclarke25
+    ref:
+      inaturalist: 768916
 datetime: '2020-06-06T16:22:00+10:00'
 latitude: -35.921729
 longitude: 141.864135
 location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,33 +20,37 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78670712/medium.jpeg?1592127962'
     original_url: 'https://static.inaturalist.org/photos/78670712/original.jpeg?1592127962'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78670712'
   - source: iNaturalist
     id: '78670835'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78670835/medium.jpeg?1592128036'
     original_url: 'https://static.inaturalist.org/photos/78670835/original.jpeg?1592128036'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78670835'
   - source: iNaturalist
     id: '78670961'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78670961/medium.jpeg?1592128125'
     original_url: 'https://static.inaturalist.org/photos/78670961/original.jpeg?1592128125'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78670961'
   - source: iNaturalist
     id: '78671137'
     width: 2048
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/78671137/medium.jpeg?1592128220'
     original_url: 'https://static.inaturalist.org/photos/78671137/original.jpeg?1592128220'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78671137'
+license: CC BY-NC
 created_at: '2020-06-14T20:28:49+10:00'
 updated_at: '2020-07-09T23:38:35+10:00'
 source:

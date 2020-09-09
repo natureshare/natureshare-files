@@ -4,10 +4,13 @@ id:
     by:
       - dnicolle
       - chrislindorff
+    ref:
+      inaturalist: 526859
 datetime: '2014-09-30T12:39:00+10:00'
 latitude: -33.728516
 longitude: 143.174778
 location_name: 'Mungo NSW 2715, Australia'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -17,17 +20,19 @@ photos:
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/74694524/medium.jpg?1590320461'
     original_url: 'https://static.inaturalist.org/photos/74694524/original.jpg?1590320461'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/74694524'
   - source: iNaturalist
     id: '74694562'
     width: 2048
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/74694562/medium.jpg?1590320483'
     original_url: 'https://static.inaturalist.org/photos/74694562/original.jpg?1590320483'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/74694562'
+license: CC BY-NC
 created_at: '2020-05-24T21:43:19+10:00'
 updated_at: '2020-05-24T23:45:17+10:00'
 source:

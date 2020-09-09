@@ -3,10 +3,13 @@ id:
     common: Black sheoak
     by:
       - chrislindorff
+    ref:
+      inaturalist: 323786
 datetime: '2020-05-26T11:50:00+10:00'
 latitude: -37.687905
 longitude: 143.542136
 location_name: 'Linton VIC 3360, Australia'
+accuracy: 200
 tags:
   - inaturalist
 photos:
@@ -16,17 +19,19 @@ photos:
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/75154284/medium.jpeg?1590490508'
     original_url: 'https://static.inaturalist.org/photos/75154284/original.jpeg?1590490508'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/75154284'
   - source: iNaturalist
     id: '75154428'
     width: 2048
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/75154428/medium.jpeg?1590490609'
     original_url: 'https://static.inaturalist.org/photos/75154428/original.jpeg?1590490609'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/75154428'
+license: CC BY-NC
 created_at: '2020-05-26T21:21:24+10:00'
 updated_at: '2020-05-26T21:21:24+10:00'
 source:

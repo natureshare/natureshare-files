@@ -5,10 +5,13 @@ id:
       - chrislindorff
       - thebeachcomber
       - pamday4
+    ref:
+      inaturalist: 12329
 datetime: '2012-09-25T08:14:00+10:00'
 latitude: -31.279377
 longitude: 148.97727
 location_name: 'Warrumbungle NSW 2828, Australia'
+accuracy: 50
 tags:
   - inaturalist
 photos:
@@ -18,9 +21,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90592178/medium.jpg?1597749710'
     original_url: 'https://static.inaturalist.org/photos/90592178/original.jpg?1597749710'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90592178'
+license: CC BY-NC
 created_at: '2020-08-18T21:21:54+10:00'
 updated_at: '2020-08-19T14:35:41+10:00'
 source:

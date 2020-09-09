@@ -3,10 +3,13 @@ id:
     by:
       - chrislindorff
       - helenalindorff
+    ref:
+      inaturalist: 560705
 datetime: '2020-01-08T09:34:28+11:00'
 latitude: -38.049184
 longitude: 143.731502
 location_name: 'Cressy VIC 3322, Australia'
+accuracy: 51
 tags:
   - inaturalist
 photos:
@@ -16,9 +19,10 @@ photos:
     height: 1152
     thumbnail_url: 'https://static.inaturalist.org/photos/70681673/medium.jpeg?1588425373'
     original_url: 'https://static.inaturalist.org/photos/70681673/original.jpeg?1588425373'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/70681673'
+license: CC BY-NC
 created_at: '2020-05-03T00:15:33+11:00'
 updated_at: '2020-05-04T10:11:00+11:00'
 source:

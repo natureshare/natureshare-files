@@ -3,10 +3,13 @@ id:
     by:
       - chrislindorff
       - lorrainecphelan
+    ref:
+      inaturalist: 209603
 datetime: '2020-04-26T15:29:05+10:00'
 latitude: -37.909592
 longitude: 144.222508
 location_name: 'Anakie VIC 3213, Australia'
+accuracy: 294
 description: Large the rock. Flat leaves. Sheltered slope.
 tags:
   - inaturalist
@@ -17,9 +20,10 @@ photos:
     height: 1280
     thumbnail_url: 'https://static.inaturalist.org/photos/69133557/medium.jpeg?1587894715'
     original_url: 'https://static.inaturalist.org/photos/69133557/original.jpeg?1587894715'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/69133557'
+license: CC BY-NC
 created_at: '2020-04-26T19:51:16+10:00'
 updated_at: '2020-04-26T19:52:39+10:00'
 source:

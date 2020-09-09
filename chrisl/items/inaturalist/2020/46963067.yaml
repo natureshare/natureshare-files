@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - ellurasanctuary
+    ref:
+      inaturalist: 708652
 datetime: '2013-09-28T11:06:00+10:00'
 latitude: -33.024402
 longitude: 138.103927
 location_name: 'Telowie SA 5540, Australia'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -17,33 +20,37 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/74478177/medium.jpeg?1590240275'
     original_url: 'https://static.inaturalist.org/photos/74478177/original.jpeg?1590240275'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/74478177'
   - source: iNaturalist
     id: '74478323'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/74478323/medium.jpeg?1590240333'
     original_url: 'https://static.inaturalist.org/photos/74478323/original.jpeg?1590240333'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/74478323'
   - source: iNaturalist
     id: '74478464'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/74478464/medium.jpeg?1590240389'
     original_url: 'https://static.inaturalist.org/photos/74478464/original.jpeg?1590240389'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/74478464'
   - source: iNaturalist
     id: '74478680'
     width: 2048
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/74478680/medium.jpeg?1590240472'
     original_url: 'https://static.inaturalist.org/photos/74478680/original.jpeg?1590240472'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/74478680'
+license: CC BY-NC
 created_at: '2020-05-23T23:36:31+10:00'
 updated_at: '2020-05-24T07:31:01+10:00'
 source:

@@ -3,10 +3,13 @@ id:
     by:
       - chrislindorff
       - chrisclarke25
+    ref:
+      inaturalist: 1093042
 datetime: '2020-06-02T15:52:00+10:00'
 latitude: -37.689215
 longitude: 143.542562
 location_name: 'Linton VIC 3360, Australia'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,17 +19,19 @@ photos:
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/76508181/medium.jpeg?1591100598'
     original_url: 'https://static.inaturalist.org/photos/76508181/original.jpeg?1591100598'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/76508181'
   - source: iNaturalist
     id: '76508309'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/76508309/medium.jpeg?1591100687'
     original_url: 'https://static.inaturalist.org/photos/76508309/original.jpeg?1591100687'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/76508309'
+license: CC BY-NC
 created_at: '2020-06-02T22:48:07+10:00'
 updated_at: '2020-06-03T01:22:40+10:00'
 source:

@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - chrisclarke25
+    ref:
+      inaturalist: 369486
 datetime: '2020-06-07T15:49:00+10:00'
 latitude: -35.923378
 longitude: 141.857067
 location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -17,25 +20,28 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78668244/medium.jpeg?1592126340'
     original_url: 'https://static.inaturalist.org/photos/78668244/original.jpeg?1592126340'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78668244'
   - source: iNaturalist
     id: '78668362'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78668362/medium.jpeg?1592126425'
     original_url: 'https://static.inaturalist.org/photos/78668362/original.jpeg?1592126425'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78668362'
   - source: iNaturalist
     id: '78668481'
     width: 2048
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/78668481/medium.jpeg?1592126499'
     original_url: 'https://static.inaturalist.org/photos/78668481/original.jpeg?1592126499'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78668481'
+license: CC BY-NC
 created_at: '2020-06-14T20:28:42+10:00'
 updated_at: '2020-06-21T00:18:51+10:00'
 source:

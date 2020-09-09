@@ -4,6 +4,8 @@ id:
     by:
       - chrislindorff
       - bushbandit
+    ref:
+      inaturalist: 161824
 datetime: '2020-04-25T14:12:12+10:00'
 latitude: -37.901622
 longitude: 144.224863
@@ -17,9 +19,10 @@ photos:
     height: 1280
     thumbnail_url: 'https://static.inaturalist.org/photos/68746146/medium.jpeg?1587821275'
     original_url: 'https://static.inaturalist.org/photos/68746146/original.jpeg?1587821275'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68746146'
+license: CC BY-NC
 created_at: '2020-04-25T23:27:31+10:00'
 updated_at: '2020-04-25T23:32:41+10:00'
 source:

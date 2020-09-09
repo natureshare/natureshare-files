@@ -3,10 +3,13 @@ id:
     common: Wingless Fissure-plant
     by:
       - chrislindorff
+    ref:
+      inaturalist: 525863
 datetime: '2019-04-04T14:27:53+11:00'
 latitude: -37.972565
 longitude: 143.597508
 location_name: 'Werneth VIC 3352, Australia'
+accuracy: 10985
 tags:
   - inaturalist
 photos:
@@ -16,17 +19,19 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/70870236/medium.jpeg?1588493735'
     original_url: 'https://static.inaturalist.org/photos/70870236/original.jpeg?1588493735'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/70870236'
   - source: iNaturalist
     id: '70870295'
     width: 1152
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/70870295/medium.jpeg?1588493767'
     original_url: 'https://static.inaturalist.org/photos/70870295/original.jpeg?1588493767'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/70870295'
+license: CC BY-NC
 created_at: '2020-05-03T19:15:10+11:00'
 updated_at: '2020-05-03T19:16:10+11:00'
 source:

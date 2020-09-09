@@ -3,10 +3,13 @@ id:
     common: Butterflies and Moths
     by:
       - chrislindorff
+    ref:
+      inaturalist: 47157
 datetime: '2018-07-22T18:50:00+10:00'
 latitude: -24.21132
 longitude: 124.36157
 location_name: 'Little Sandy Desert WA 6646, Australia'
+accuracy: 20
 description: Eagle Highway; Eagle Hussar No.1 bore.
 tags:
   - inaturalist
@@ -17,17 +20,19 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/73329935/medium.jpeg?1589726667'
     original_url: 'https://static.inaturalist.org/photos/73329935/original.jpeg?1589726667'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/73329935'
   - source: iNaturalist
     id: '73330082'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/73330082/medium.jpeg?1589726710'
     original_url: 'https://static.inaturalist.org/photos/73330082/original.jpeg?1589726710'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/73330082'
+license: CC BY-NC
 created_at: '2020-05-18T00:58:52+10:00'
 updated_at: '2020-05-18T00:58:52+10:00'
 source:

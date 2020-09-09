@@ -3,10 +3,13 @@ id:
     by:
       - chrislindorff
       - dnicolle
+    ref:
+      inaturalist: 1073279
 datetime: '2020-06-14T14:04:00+10:00'
 latitude: -37.90382
 longitude: 144.17039
 location_name: 'Sailors Track, Brisbane Ranges National Park'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,41 +19,46 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78658149/medium.jpeg?1592117917'
     original_url: 'https://static.inaturalist.org/photos/78658149/original.jpeg?1592117917'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78658149'
   - source: iNaturalist
     id: '78658202'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78658202/medium.jpeg?1592117990'
     original_url: 'https://static.inaturalist.org/photos/78658202/original.jpeg?1592117990'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78658202'
   - source: iNaturalist
     id: '78658319'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78658319/medium.jpeg?1592118093'
     original_url: 'https://static.inaturalist.org/photos/78658319/original.jpeg?1592118093'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78658319'
   - source: iNaturalist
     id: '78658474'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78658474/medium.jpeg?1592118262'
     original_url: 'https://static.inaturalist.org/photos/78658474/original.jpeg?1592118262'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78658474'
   - source: iNaturalist
     id: '78658592'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78658592/medium.jpeg?1592118384'
     original_url: 'https://static.inaturalist.org/photos/78658592/original.jpeg?1592118384'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78658592'
+license: CC BY-NC
 created_at: '2020-06-14T18:15:48+10:00'
 updated_at: '2020-06-14T22:49:36+10:00'
 source:

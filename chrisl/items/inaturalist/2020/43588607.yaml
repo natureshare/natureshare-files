@@ -2,6 +2,8 @@ id:
   - name: Lobelioideae
     by:
       - chrislindorff
+    ref:
+      inaturalist: 850993
 datetime: '2020-04-26T15:34:47+10:00'
 latitude: -37.909459
 longitude: 144.222359
@@ -15,17 +17,19 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/69153834/medium.jpeg?1587901285'
     original_url: 'https://static.inaturalist.org/photos/69153834/original.jpeg?1587901285'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/69153834'
   - source: iNaturalist
     id: '69153961'
     width: 1280
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/69153961/medium.jpeg?1587901312'
     original_url: 'https://static.inaturalist.org/photos/69153961/original.jpeg?1587901312'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/69153961'
+license: CC BY-NC
 created_at: '2020-04-26T21:40:47+10:00'
 updated_at: '2020-04-29T11:44:45+10:00'
 source:

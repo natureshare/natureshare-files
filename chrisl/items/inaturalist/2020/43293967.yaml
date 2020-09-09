@@ -3,6 +3,8 @@ id:
     common: bracket fungi
     by:
       - chrislindorff
+    ref:
+      inaturalist: 47379
 datetime: '2020-04-25T12:46:52+10:00'
 latitude: -37.898561
 longitude: 144.221968
@@ -16,17 +18,19 @@ photos:
     height: 1280
     thumbnail_url: 'https://static.inaturalist.org/photos/68716542/medium.jpeg?1587812846'
     original_url: 'https://static.inaturalist.org/photos/68716542/original.jpeg?1587812846'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68716542'
   - source: iNaturalist
     id: '68716688'
     width: 2048
     height: 1280
     thumbnail_url: 'https://static.inaturalist.org/photos/68716688/medium.jpeg?1587812905'
     original_url: 'https://static.inaturalist.org/photos/68716688/original.jpeg?1587812905'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68716688'
+license: CC BY-NC
 created_at: '2020-04-25T21:06:53+10:00'
 updated_at: '2020-04-25T21:08:28+10:00'
 source:

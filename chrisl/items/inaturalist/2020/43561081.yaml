@@ -2,6 +2,8 @@ id:
   - name: Austrostipa
     by:
       - chrislindorff
+    ref:
+      inaturalist: 196944
 datetime: '2020-04-26T14:51:29+10:00'
 latitude: -37.905151
 longitude: 144.222876
@@ -16,9 +18,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/69113298/medium.jpeg?1587886986'
     original_url: 'https://static.inaturalist.org/photos/69113298/original.jpeg?1587886986'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/69113298'
+license: CC BY-NC
 created_at: '2020-04-26T17:42:23+10:00'
 updated_at: '2020-04-26T17:43:09+10:00'
 source:

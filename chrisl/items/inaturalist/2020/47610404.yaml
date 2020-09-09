@@ -3,10 +3,13 @@ id:
     common: Variable Plantain
     by:
       - chrislindorff
+    ref:
+      inaturalist: 404986
 datetime: '2020-05-26T11:35:00+10:00'
 latitude: -37.687905
 longitude: 143.542136
 location_name: 'Linton VIC 3360, Australia'
+accuracy: 200
 tags:
   - inaturalist
 photos:
@@ -16,23 +19,26 @@ photos:
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/75517281/medium.jpeg?1590665662'
     original_url: 'https://static.inaturalist.org/photos/75517281/original.jpeg?1590665662'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/75517281'
   - source: iNaturalist
     id: '75517288'
     thumbnail_url: 'https://www.inaturalist.org/attachment_defaults/local_photos/medium.png'
     original_url: 'https://www.inaturalist.org/attachment_defaults/local_photos/original.png'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/75517288'
   - source: iNaturalist
     id: '75517494'
     width: 2048
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/75517494/medium.jpeg?1590665841'
     original_url: 'https://static.inaturalist.org/photos/75517494/original.jpeg?1590665841'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/75517494'
+license: CC BY-NC
 created_at: '2020-05-28T21:37:27+10:00'
 updated_at: '2020-05-28T21:37:27+10:00'
 source:

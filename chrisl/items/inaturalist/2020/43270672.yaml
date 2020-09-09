@@ -3,10 +3,13 @@ id:
     common: Twining Fringe-lily
     by:
       - chrislindorff
+    ref:
+      inaturalist: 323937
 datetime: '2020-04-25T11:40:56+10:00'
 latitude: -37.900935
 longitude: 144.222966
 location_name: 'Anakie VIC 3213, Australia'
+accuracy: 10
 description: Wrapped around Thelymitra leaf.
 tags:
   - inaturalist
@@ -17,9 +20,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/68681572/medium.jpeg?1587798761'
     original_url: 'https://static.inaturalist.org/photos/68681572/original.jpeg?1587798761'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68681572'
+license: CC BY-NC
 created_at: '2020-04-25T17:11:56+10:00'
 updated_at: '2020-04-25T17:12:45+10:00'
 source:

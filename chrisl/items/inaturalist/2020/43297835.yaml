@@ -4,6 +4,8 @@ id:
       - reiner
       - bushbandit
       - chrislindorff
+    ref:
+      inaturalist: 553562
 datetime: '2020-04-25T13:04:55+10:00'
 latitude: -37.899161
 longitude: 144.22339
@@ -17,9 +19,10 @@ photos:
     height: 1280
     thumbnail_url: 'https://static.inaturalist.org/photos/68721748/medium.jpeg?1587814821'
     original_url: 'https://static.inaturalist.org/photos/68721748/original.jpeg?1587814821'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68721748'
+license: CC BY-NC
 created_at: '2020-04-25T21:39:52+10:00'
 updated_at: '2020-04-30T11:56:38+10:00'
 source:

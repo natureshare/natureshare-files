@@ -3,10 +3,13 @@ id:
     by:
       - chrislindorff
       - gtaseski
+    ref:
+      inaturalist: 569295
 datetime: '2009-09-13T15:12:00+10:00'
 latitude: -32.746361
 longitude: 138.074127
 location_name: 'Wilmington SA 5485, Australia'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,25 +19,28 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/74702760/medium.jpeg?1590323889'
     original_url: 'https://static.inaturalist.org/photos/74702760/original.jpeg?1590323889'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/74702760'
   - source: iNaturalist
     id: '74702840'
     width: 1362
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/74702840/medium.jpeg?1590323925'
     original_url: 'https://static.inaturalist.org/photos/74702840/original.jpeg?1590323925'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/74702840'
   - source: iNaturalist
     id: '74702928'
     width: 1362
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/74702928/medium.jpeg?1590323962'
     original_url: 'https://static.inaturalist.org/photos/74702928/original.jpeg?1590323962'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/74702928'
+license: CC BY-NC
 created_at: '2020-05-24T22:39:29+10:00'
 updated_at: '2020-05-24T22:58:57+10:00'
 source:

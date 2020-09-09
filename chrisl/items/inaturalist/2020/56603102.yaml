@@ -3,10 +3,13 @@ id:
     common: Pilliga daisy
     by:
       - chrislindorff
+    ref:
+      inaturalist: 631595
 datetime: '2012-09-24T12:17:00+10:00'
 latitude: -31.302893
 longitude: 148.985356
 location_name: 'Warrumbungle National Park, NSW'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,17 +19,19 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90215060/medium.jpeg?1597563787'
     original_url: 'https://static.inaturalist.org/photos/90215060/original.jpeg?1597563787'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90215060'
   - source: iNaturalist
     id: '90215259'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90215259/medium.jpeg?1597563923'
     original_url: 'https://static.inaturalist.org/photos/90215259/original.jpeg?1597563923'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90215259'
+license: CC BY-NC
 created_at: '2020-08-16T17:47:53+10:00'
 updated_at: '2020-08-16T17:47:53+10:00'
 source:

@@ -2,10 +2,13 @@ id:
   - name: Rytidosperma racemosum
     by:
       - chrislindorff
+    ref:
+      inaturalist: 78920
 datetime: '2020-04-24T11:52:53+10:00'
 latitude: -37.907585
 longitude: 144.255169
 location_name: 'Anakie VIC 3213, Australia'
+accuracy: 15
 tags:
   - inaturalist
 photos:
@@ -15,9 +18,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/68303480/medium.jpeg?1587693335'
     original_url: 'https://static.inaturalist.org/photos/68303480/original.jpeg?1587693335'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68303480'
+license: CC BY-NC
 created_at: '2020-04-24T11:55:26+10:00'
 updated_at: '2020-05-04T07:28:37+10:00'
 source:

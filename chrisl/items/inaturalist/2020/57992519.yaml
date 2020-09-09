@@ -3,10 +3,13 @@ id:
     common: Austral Bugle
     by:
       - chrislindorff
+    ref:
+      inaturalist: 210141
 datetime: '2012-09-25T13:19:00+10:00'
 latitude: -31.280623
 longitude: 148.978422
 location_name: 'Warrumbungle National Park, NSW'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,17 +19,19 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/92549512/medium.jpeg?1598754796'
     original_url: 'https://static.inaturalist.org/photos/92549512/original.jpeg?1598754796'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/92549512'
   - source: iNaturalist
     id: '92549711'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/92549711/medium.jpeg?1598754887'
     original_url: 'https://static.inaturalist.org/photos/92549711/original.jpeg?1598754887'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/92549711'
+license: CC BY-NC
 created_at: '2020-08-30T12:34:52+10:00'
 updated_at: '2020-08-30T12:34:52+10:00'
 source:

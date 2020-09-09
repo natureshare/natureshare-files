@@ -3,10 +3,13 @@ id:
     common: European bramble complex
     by:
       - chrislindorff
+    ref:
+      inaturalist: 55911
 datetime: '2020-06-02T15:28:00+10:00'
 latitude: -37.68697
 longitude: 143.541486
 location_name: 'Linton VIC 3360, Australia'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,9 +19,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/77780103/medium.jpeg?1591697175'
     original_url: 'https://static.inaturalist.org/photos/77780103/original.jpeg?1591697175'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/77780103'
+license: CC BY-NC
 created_at: '2020-06-09T20:06:20+10:00'
 updated_at: '2020-06-09T20:06:20+10:00'
 source:

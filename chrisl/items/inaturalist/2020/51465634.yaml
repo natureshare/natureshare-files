@@ -3,10 +3,13 @@ id:
     common: rock isotome
     by:
       - chrislindorff
+    ref:
+      inaturalist: 916270
 datetime: '2020-06-28T11:28:00+10:00'
 latitude: -36.610828
 longitude: 143.706675
 location_name: Kooyoora State Park
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,17 +19,19 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/81765664/medium.jpeg?1593520140'
     original_url: 'https://static.inaturalist.org/photos/81765664/original.jpeg?1593520140'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/81765664'
   - source: iNaturalist
     id: '81765909'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/81765909/medium.jpeg?1593520271'
     original_url: 'https://static.inaturalist.org/photos/81765909/original.jpeg?1593520271'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/81765909'
+license: CC BY-NC
 created_at: '2020-06-30T23:17:58+10:00'
 updated_at: '2020-06-30T23:17:58+10:00'
 source:

@@ -2,10 +2,13 @@ id:
   - name: Lomandra juncea
     by:
       - chrislindorff
+    ref:
+      inaturalist: 862391
 datetime: '2020-08-02T16:46:00+10:00'
 latitude: -35.918761
 longitude: 141.840098
 location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -15,25 +18,28 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/89210038/medium.jpeg?1597037011'
     original_url: 'https://static.inaturalist.org/photos/89210038/original.jpeg?1597037011'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/89210038'
   - source: iNaturalist
     id: '89210177'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/89210177/medium.jpeg?1597037123'
     original_url: 'https://static.inaturalist.org/photos/89210177/original.jpeg?1597037123'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/89210177'
   - source: iNaturalist
     id: '89209949'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/89209949/medium.jpeg?1597036939'
     original_url: 'https://static.inaturalist.org/photos/89209949/original.jpeg?1597036939'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/89209949'
+license: CC BY-NC
 created_at: '2020-08-10T15:25:28+10:00'
 updated_at: '2020-08-10T15:26:00+10:00'
 source:

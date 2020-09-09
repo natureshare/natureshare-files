@@ -5,10 +5,13 @@ id:
       - sea-kangaroo
       - chrislindorff
       - chuditch
+    ref:
+      inaturalist: 42808
 datetime: '2020-02-29T22:53:22+11:00'
 latitude: -34.163307
 longitude: 141.362683
 location_name: 'Mildura - Pt B, AU-VI, AU'
+accuracy: 17
 tags:
   - inaturalist
 photos:
@@ -18,9 +21,10 @@ photos:
     height: 1152
     thumbnail_url: 'https://static.inaturalist.org/photos/62414813/medium.jpeg?1582977897'
     original_url: 'https://static.inaturalist.org/photos/62414813/original.jpeg?1582977897'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/62414813'
+license: CC BY-NC
 created_at: '2020-02-29T23:04:37+11:00'
 updated_at: '2020-03-06T01:35:27+11:00'
 source:

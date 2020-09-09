@@ -3,10 +3,13 @@ id:
     common: grey guinea flower
     by:
       - chrislindorff
+    ref:
+      inaturalist: 210348
 datetime: '2012-09-24T10:45:00+10:00'
 latitude: -31.299154
 longitude: 148.986303
 location_name: 'Warrumbungle National Park, NSW'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,9 +19,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90216036/medium.jpeg?1597564500'
     original_url: 'https://static.inaturalist.org/photos/90216036/original.jpeg?1597564500'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90216036'
+license: CC BY-NC
 created_at: '2020-08-16T17:55:04+10:00'
 updated_at: '2020-08-16T17:55:04+10:00'
 source:

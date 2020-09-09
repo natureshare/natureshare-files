@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - calamanthus
+    ref:
+      inaturalist: 708294
 datetime: '2020-06-07T14:39:00+10:00'
 latitude: -35.922156
 longitude: 141.859624
 location_name: 'Hindmarsh, Victoria, Australia'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -17,9 +20,10 @@ photos:
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/78673375/medium.jpeg?1592129596'
     original_url: 'https://static.inaturalist.org/photos/78673375/original.jpeg?1592129596'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78673375'
+license: CC BY-NC
 created_at: '2020-06-14T20:28:57+10:00'
 updated_at: '2020-06-15T22:35:37+10:00'
 source:

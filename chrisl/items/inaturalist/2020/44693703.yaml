@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - bushbandit
+    ref:
+      inaturalist: 83357
 datetime: '2019-09-27T16:46:38+10:00'
 latitude: -37.904089
 longitude: 144.22322
 location_name: 'Anakie VIC 3213, Australia'
+accuracy: 66
 description: An abundance of flowering plants amongst Austral Grass Tree
 tags:
   - inaturalist
@@ -18,9 +21,10 @@ photos:
     height: 1152
     thumbnail_url: 'https://static.inaturalist.org/photos/70859207/medium.jpeg?1588485174'
     original_url: 'https://static.inaturalist.org/photos/70859207/original.jpeg?1588485174'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/70859207'
+license: CC BY-NC
 created_at: '2020-05-03T15:52:23+10:00'
 updated_at: '2020-05-03T15:57:30+10:00'
 source:

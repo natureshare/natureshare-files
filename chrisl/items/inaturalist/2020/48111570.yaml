@@ -3,10 +3,13 @@ id:
     common: Twiggy Guinea-flower
     by:
       - chrislindorff
+    ref:
+      inaturalist: 555556
 datetime: '2015-09-29T09:59:00+10:00'
 latitude: -36.854669
 longitude: 142.468522
 location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,17 +19,19 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/76323640/medium.jpeg?1591015469'
     original_url: 'https://static.inaturalist.org/photos/76323640/original.jpeg?1591015469'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/76323640'
   - source: iNaturalist
     id: '76323876'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/76323876/medium.jpeg?1591015582'
     original_url: 'https://static.inaturalist.org/photos/76323876/original.jpeg?1591015582'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/76323876'
+license: CC BY-NC
 created_at: '2020-06-01T22:46:26+10:00'
 updated_at: '2020-06-01T22:46:26+10:00'
 source:

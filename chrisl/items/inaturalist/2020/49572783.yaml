@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - chrisclarke25
+    ref:
+      inaturalist: 132346
 datetime: '2020-06-07T15:27:00+10:00'
 latitude: -35.920462
 longitude: 141.854844
 location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -17,9 +20,10 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78697728/medium.jpeg?1592141446'
     original_url: 'https://static.inaturalist.org/photos/78697728/original.jpeg?1592141446'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78697728'
+license: CC BY-NC
 created_at: '2020-06-14T23:30:51+10:00'
 updated_at: '2020-06-14T23:59:09+10:00'
 source:

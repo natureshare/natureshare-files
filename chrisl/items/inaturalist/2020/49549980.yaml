@@ -3,10 +3,13 @@ id:
     by:
       - chrislindorff
       - chrisclarke25
+    ref:
+      inaturalist: 898149
 datetime: '2020-06-14T13:59:00+10:00'
 latitude: -37.903605
 longitude: 144.171223
 location_name: 'Sailors Track, Brisbane Ranges National Park'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,25 +19,28 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78657895/medium.jpeg?1592117654'
     original_url: 'https://static.inaturalist.org/photos/78657895/original.jpeg?1592117654'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78657895'
   - source: iNaturalist
     id: '78657992'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78657992/medium.jpeg?1592117742'
     original_url: 'https://static.inaturalist.org/photos/78657992/original.jpeg?1592117742'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78657992'
   - source: iNaturalist
     id: '78658089'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78658089/medium.jpeg?1592117837'
     original_url: 'https://static.inaturalist.org/photos/78658089/original.jpeg?1592117837'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78658089'
+license: CC BY-NC
 created_at: '2020-06-14T18:15:48+10:00'
 updated_at: '2020-06-14T23:10:45+10:00'
 source:

@@ -3,10 +3,13 @@ id:
     by:
       - chrislindorff
       - chrisclarke25
+    ref:
+      inaturalist: 1089578
 datetime: '2015-09-29T12:27:00+10:00'
 latitude: -36.852711
 longitude: 142.470038
 location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,25 +19,28 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/76318967/medium.jpeg?1591012793'
     original_url: 'https://static.inaturalist.org/photos/76318967/original.jpeg?1591012793'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/76318967'
   - source: iNaturalist
     id: '76319072'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/76319072/medium.jpeg?1591012871'
     original_url: 'https://static.inaturalist.org/photos/76319072/original.jpeg?1591012871'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/76319072'
   - source: iNaturalist
     id: '76319141'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/76319141/medium.jpeg?1591012933'
     original_url: 'https://static.inaturalist.org/photos/76319141/original.jpeg?1591012933'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/76319141'
+license: CC BY-NC
 created_at: '2020-06-01T22:02:18+10:00'
 updated_at: '2020-06-03T16:51:56+10:00'
 source:

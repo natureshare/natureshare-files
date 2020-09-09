@@ -2,10 +2,13 @@ id:
   - name: Xanthorrhoea quadrangulata
     by:
       - chrislindorff
+    ref:
+      inaturalist: 135328
 datetime: '2009-09-13T14:28:00+10:00'
 latitude: -32.745846
 longitude: 138.075653
 location_name: 'Wilmington SA 5485, Australia'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -15,41 +18,46 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/74924892/medium.jpeg?1590395458'
     original_url: 'https://static.inaturalist.org/photos/74924892/original.jpeg?1590395458'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/74924892'
   - source: iNaturalist
     id: '74925209'
     width: 1362
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/74925209/medium.jpeg?1590395714'
     original_url: 'https://static.inaturalist.org/photos/74925209/original.jpeg?1590395714'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/74925209'
   - source: iNaturalist
     id: '74925061'
     width: 1362
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/74925061/medium.jpeg?1590395605'
     original_url: 'https://static.inaturalist.org/photos/74925061/original.jpeg?1590395605'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/74925061'
   - source: iNaturalist
     id: '74925007'
     width: 1362
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/74925007/medium.jpeg?1590395557'
     original_url: 'https://static.inaturalist.org/photos/74925007/original.jpeg?1590395557'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/74925007'
   - source: iNaturalist
     id: '74924953'
     width: 1362
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/74924953/medium.jpeg?1590395511'
     original_url: 'https://static.inaturalist.org/photos/74924953/original.jpeg?1590395511'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/74924953'
+license: CC BY-NC
 created_at: '2020-05-25T18:35:19+10:00'
 updated_at: '2020-05-25T18:39:18+10:00'
 source:

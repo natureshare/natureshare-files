@@ -3,10 +3,13 @@ id:
     common: Large-leaf Bush Pea
     by:
       - chrislindorff
+    ref:
+      inaturalist: 321215
 datetime: '2020-06-28T11:38:00+10:00'
 latitude: -36.612465
 longitude: 143.707682
 location_name: Kooyoora State Park
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,17 +19,19 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/81767620/medium.jpeg?1593521198'
     original_url: 'https://static.inaturalist.org/photos/81767620/original.jpeg?1593521198'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/81767620'
   - source: iNaturalist
     id: '81767794'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/81767794/medium.jpeg?1593521284'
     original_url: 'https://static.inaturalist.org/photos/81767794/original.jpeg?1593521284'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/81767794'
+license: CC BY-NC
 created_at: '2020-06-30T23:18:02+10:00'
 updated_at: '2020-06-30T23:18:02+10:00'
 source:

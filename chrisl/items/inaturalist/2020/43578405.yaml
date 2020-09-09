@@ -3,6 +3,8 @@ id:
     by:
       - chrislindorff
       - lorrainecphelan
+    ref:
+      inaturalist: 569465
 datetime: '2020-04-26T15:53:27+10:00'
 latitude: -37.90944
 longitude: 144.225046
@@ -17,17 +19,19 @@ photos:
     height: 1280
     thumbnail_url: 'https://static.inaturalist.org/photos/69138898/medium.jpeg?1587896601'
     original_url: 'https://static.inaturalist.org/photos/69138898/original.jpeg?1587896601'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/69138898'
   - source: iNaturalist
     id: '69139045'
     width: 2048
     height: 1280
     thumbnail_url: 'https://static.inaturalist.org/photos/69139045/medium.jpeg?1587896646'
     original_url: 'https://static.inaturalist.org/photos/69139045/original.jpeg?1587896646'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/69139045'
+license: CC BY-NC
 created_at: '2020-04-26T20:22:36+10:00'
 updated_at: '2020-04-26T20:55:08+10:00'
 source:

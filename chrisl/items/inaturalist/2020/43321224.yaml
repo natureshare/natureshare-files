@@ -3,6 +3,8 @@ id:
     common: Hill Fireweed
     by:
       - chrislindorff
+    ref:
+      inaturalist: 405973
 datetime: '2020-04-25T14:18:20+10:00'
 latitude: -37.901544
 longitude: 144.225344
@@ -16,17 +18,19 @@ photos:
     height: 1280
     thumbnail_url: 'https://static.inaturalist.org/photos/68754790/medium.jpeg?1587823045'
     original_url: 'https://static.inaturalist.org/photos/68754790/original.jpeg?1587823045'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68754790'
   - source: iNaturalist
     id: '68755000'
     width: 2048
     height: 1280
     thumbnail_url: 'https://static.inaturalist.org/photos/68755000/medium.jpeg?1587823084'
     original_url: 'https://static.inaturalist.org/photos/68755000/original.jpeg?1587823084'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/68755000'
+license: CC BY-NC
 created_at: '2020-04-25T23:56:45+10:00'
 updated_at: '2020-04-25T23:58:07+10:00'
 source:

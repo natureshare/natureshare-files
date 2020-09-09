@@ -3,10 +3,13 @@ id:
     common: riceflowers
     by:
       - chrislindorff
+    ref:
+      inaturalist: 147472
 datetime: '2012-09-25T11:09:00+10:00'
 latitude: -31.28008
 longitude: 148.970457
 location_name: 'Warrumbungle National Park, NSW'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,25 +19,28 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90911638/medium.jpeg?1597924854'
     original_url: 'https://static.inaturalist.org/photos/90911638/original.jpeg?1597924854'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90911638'
   - source: iNaturalist
     id: '90911723'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90911723/medium.jpeg?1597924931'
     original_url: 'https://static.inaturalist.org/photos/90911723/original.jpeg?1597924931'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90911723'
   - source: iNaturalist
     id: '90911824'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/90911824/medium.jpeg?1597925016'
     original_url: 'https://static.inaturalist.org/photos/90911824/original.jpeg?1597925016'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/90911824'
+license: CC BY-NC
 created_at: '2020-08-20T22:03:40+10:00'
 updated_at: '2020-08-20T22:03:41+10:00'
 source:

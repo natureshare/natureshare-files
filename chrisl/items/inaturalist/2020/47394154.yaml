@@ -3,10 +3,13 @@ id:
     common: Sheep's Burr
     by:
       - chrislindorff
+    ref:
+      inaturalist: 323795
 datetime: '2020-05-26T12:32:00+10:00'
 latitude: -37.687905
 longitude: 143.542136
 location_name: 'Linton VIC 3360, Australia'
+accuracy: 200
 description: Lower surface of leaflets with hairs confined to midrib and margins.
 tags:
   - inaturalist
@@ -17,17 +20,19 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/75166586/medium.jpeg?1590498333'
     original_url: 'https://static.inaturalist.org/photos/75166586/original.jpeg?1590498333'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/75166586'
   - source: iNaturalist
     id: '75166758'
     width: 2048
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/75166758/medium.jpeg?1590498417'
     original_url: 'https://static.inaturalist.org/photos/75166758/original.jpeg?1590498417'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/75166758'
+license: CC BY-NC
 created_at: '2020-05-26T23:16:46+10:00'
 updated_at: '2020-05-26T23:16:47+10:00'
 source:

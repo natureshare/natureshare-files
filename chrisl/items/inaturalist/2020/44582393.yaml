@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - miff
+    ref:
+      inaturalist: 421601
 datetime: '2019-12-06T11:03:26+11:00'
 latitude: -37.67666
 longitude: 143.887975
 location_name: 'Durham Lead VIC 3352, Australia'
+accuracy: 31
 tags:
   - inaturalist
 photos:
@@ -17,9 +20,10 @@ photos:
     height: 1152
     thumbnail_url: 'https://static.inaturalist.org/photos/70682312/medium.jpeg?1588425729'
     original_url: 'https://static.inaturalist.org/photos/70682312/original.jpeg?1588425729'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/70682312'
+license: CC BY-NC
 created_at: '2020-05-03T00:21:36+11:00'
 updated_at: '2020-05-03T11:40:51+11:00'
 source:

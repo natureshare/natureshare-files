@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - koolah
+    ref:
+      inaturalist: 83366
 datetime: '2020-05-26T12:16:00+10:00'
 latitude: -37.687905
 longitude: 143.542136
 location_name: 'Golden Plains - North-West, Victoria, Australia'
+accuracy: 200
 tags:
   - inaturalist
 photos:
@@ -17,17 +20,19 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/75158727/medium.jpeg?1590493765'
     original_url: 'https://static.inaturalist.org/photos/75158727/original.jpeg?1590493765'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/75158727'
   - source: iNaturalist
     id: '75158923'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/75158923/medium.jpeg?1590493886'
     original_url: 'https://static.inaturalist.org/photos/75158923/original.jpeg?1590493886'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/75158923'
+license: CC BY-NC
 created_at: '2020-05-26T21:51:43+10:00'
 updated_at: '2020-08-20T16:47:50+10:00'
 source:

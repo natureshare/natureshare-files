@@ -6,10 +6,13 @@ id:
       - bushbandit
       - helenalindorff
       - kevinbonham
+    ref:
+      inaturalist: 114956
 datetime: '2020-03-20T11:37:50+11:00'
 latitude: -38.690115
 longitude: 143.232511
 location_name: 'Victoria, AU'
+accuracy: 28210
 tags:
   - inaturalist
 photos:
@@ -19,9 +22,10 @@ photos:
     height: 1152
     thumbnail_url: 'https://static.inaturalist.org/photos/70680417/medium.jpeg?1588424610'
     original_url: 'https://static.inaturalist.org/photos/70680417/original.jpeg?1588424610'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/70680417'
+license: CC BY-NC
 created_at: '2020-05-03T00:02:51+11:00'
 updated_at: '2020-05-03T16:00:58+11:00'
 source:

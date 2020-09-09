@@ -2,10 +2,13 @@ id:
   - name: Calandrinia eremaea
     by:
       - chrisclarke25
+    ref:
+      inaturalist: 854105
 datetime: '2009-09-12T12:16:00+10:00'
 latitude: -32.832001
 longitude: 138.056
 location_name: 'Wilmington SA 5485, Australia'
+accuracy: 20
 tags:
   - inaturalist
 photos:
@@ -15,41 +18,46 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/74940430/medium.jpeg?1590405833'
     original_url: 'https://static.inaturalist.org/photos/74940430/original.jpeg?1590405833'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/74940430'
   - source: iNaturalist
     id: '74940551'
     width: 1362
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/74940551/medium.jpeg?1590405905'
     original_url: 'https://static.inaturalist.org/photos/74940551/original.jpeg?1590405905'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/74940551'
   - source: iNaturalist
     id: '74940621'
     width: 1362
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/74940621/medium.jpeg?1590405960'
     original_url: 'https://static.inaturalist.org/photos/74940621/original.jpeg?1590405960'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/74940621'
   - source: iNaturalist
     id: '74940694'
     width: 1362
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/74940694/medium.jpeg?1590406006'
     original_url: 'https://static.inaturalist.org/photos/74940694/original.jpeg?1590406006'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/74940694'
   - source: iNaturalist
     id: '74940773'
     width: 1362
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/74940773/medium.jpeg?1590406073'
     original_url: 'https://static.inaturalist.org/photos/74940773/original.jpeg?1590406073'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/74940773'
+license: CC BY-NC
 created_at: '2020-05-25T21:38:12+10:00'
 updated_at: '2020-05-27T00:51:14+10:00'
 source:

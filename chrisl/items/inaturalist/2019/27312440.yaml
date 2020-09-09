@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - kenharris
+    ref:
+      inaturalist: 323950
 datetime: '2019-06-20T12:51:13+10:00'
 latitude: -38.09993
 longitude: 144.268824
 location_name: 'Batesford VIC 3213, Australia'
+accuracy: 9
 description: On granitic soil.
 tags:
   - inaturalist
@@ -18,17 +21,19 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/42482693/medium.jpeg?1561018069'
     original_url: 'https://static.inaturalist.org/photos/42482693/original.jpeg?1561018069'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/42482693'
   - source: iNaturalist
     id: '42482721'
     width: 2048
     height: 1152
     thumbnail_url: 'https://static.inaturalist.org/photos/42482721/medium.jpeg?1561018109'
     original_url: 'https://static.inaturalist.org/photos/42482721/original.jpeg?1561018109'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/42482721'
+license: CC BY-NC
 created_at: '2019-06-20T18:07:38+10:00'
 updated_at: '2019-06-20T19:03:08+10:00'
 source:

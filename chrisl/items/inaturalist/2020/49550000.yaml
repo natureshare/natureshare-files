@@ -3,10 +3,13 @@ id:
     common: Fungi Including Lichens
     by:
       - chrislindorff
+    ref:
+      inaturalist: 47170
 datetime: '2020-06-14T13:53:00+10:00'
 latitude: -37.903824
 longitude: 144.172334
 location_name: 'Sailors Track, Brisbane Ranges National Park'
+accuracy: 10
 tags:
   - inaturalist
 photos:
@@ -16,17 +19,19 @@ photos:
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78660050/medium.jpeg?1592119750'
     original_url: 'https://static.inaturalist.org/photos/78660050/original.jpeg?1592119750'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78660050'
   - source: iNaturalist
     id: '78660249'
     width: 1356
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/78660249/medium.jpeg?1592119908'
     original_url: 'https://static.inaturalist.org/photos/78660249/original.jpeg?1592119908'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/78660249'
+license: CC BY-NC
 created_at: '2020-06-14T18:15:57+10:00'
 updated_at: '2020-06-14T18:15:57+10:00'
 source:

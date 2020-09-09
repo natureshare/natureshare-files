@@ -3,10 +3,13 @@ id:
     by:
       - konan_farrelly
       - chrislindorff
+    ref:
+      inaturalist: 546008
 datetime: '2020-06-02T16:38:00+10:00'
 latitude: -37.690978
 longitude: 143.541176
 location_name: 'Linton VIC 3360, Australia'
+accuracy: 10
 description: 'Cap approximately 15cm diameter. '
 tags:
   - inaturalist
@@ -17,17 +20,19 @@ photos:
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/76511622/medium.jpeg?1591102470'
     original_url: 'https://static.inaturalist.org/photos/76511622/original.jpeg?1591102470'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/76511622'
   - source: iNaturalist
     id: '76511786'
     width: 2048
     height: 1356
     thumbnail_url: 'https://static.inaturalist.org/photos/76511786/medium.jpeg?1591102569'
     original_url: 'https://static.inaturalist.org/photos/76511786/original.jpeg?1591102569'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/76511786'
+license: CC BY-NC
 created_at: '2020-06-02T22:56:15+10:00'
 updated_at: '2020-06-05T18:56:46+10:00'
 source:

@@ -3,10 +3,13 @@ id:
     by:
       - chrislindorff
       - chrisclarke25
+    ref:
+      inaturalist: 634289
 datetime: '2020-02-29T12:27:34+11:00'
 latitude: -34.252936
 longitude: 141.453212
 location_name: 'Neds Corner VIC 3496, Australia'
+accuracy: 17
 description: A single plant.
 tags:
   - inaturalist
@@ -17,17 +20,19 @@ photos:
     height: 1152
     thumbnail_url: 'https://static.inaturalist.org/photos/62396201/medium.jpeg?1582945946'
     original_url: 'https://static.inaturalist.org/photos/62396201/original.jpeg?1582945946'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/62396201'
   - source: iNaturalist
     id: '62396184'
     width: 1152
     height: 2048
     thumbnail_url: 'https://static.inaturalist.org/photos/62396184/medium.jpeg?1582945918'
     original_url: 'https://static.inaturalist.org/photos/62396184/original.jpeg?1582945918'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/62396184'
+license: CC BY-NC
 created_at: '2020-02-29T14:11:35+11:00'
 updated_at: '2020-05-29T22:58:38+10:00'
 source:

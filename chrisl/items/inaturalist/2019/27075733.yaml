@@ -4,10 +4,13 @@ id:
     by:
       - chrislindorff
       - koolah
+    ref:
+      inaturalist: 516738
 datetime: '2018-10-23T14:48:11+11:00'
 latitude: -37.821095
 longitude: 144.15217
 location_name: 'Meredith VIC 3333, Australia'
+accuracy: 17
 tags:
   - inaturalist
 photos:
@@ -17,17 +20,19 @@ photos:
     height: 1152
     thumbnail_url: 'https://static.inaturalist.org/photos/42090903/medium.jpeg?1560675157'
     original_url: 'https://static.inaturalist.org/photos/42090903/original.jpeg?1560675157'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/42090903'
   - source: iNaturalist
     id: '42090939'
     width: 2048
     height: 1152
     thumbnail_url: 'https://static.inaturalist.org/photos/42090939/medium.jpeg?1560675207'
     original_url: 'https://static.inaturalist.org/photos/42090939/original.jpeg?1560675207'
-    license: cc-by-nc
-    attribution: '(c) Chris Lindorff, some rights reserved (CC BY-NC)'
-license: cc-by-nc
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/42090939'
+license: CC BY-NC
 created_at: '2019-06-16T18:51:42+10:00'
 updated_at: '2020-08-17T16:42:27+10:00'
 source:
