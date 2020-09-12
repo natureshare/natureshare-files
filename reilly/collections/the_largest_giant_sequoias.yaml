@@ -1,34 +1,38 @@
 featured: true
 title: The Largest Giant Sequoias
 description: |
-  Instructions: Click on tags button to start.
   Source: https://en.wikipedia.org/wiki/List_of_largest_giant_sequoias
-# wikipedia:
-#   - General_Sherman_(tree)
-#   - General_Grant_(tree)
-#   - President_(tree)
-#   - Lincoln_(tree)
-#   - Stagg_(tree)
-#   - Boole_(tree)
-#   - Genesis_(tree)
-#   - Franklin_(tree)
-#   - King_Arthur_(tree)
-#   # - Monroe_(tree)
-#   - Robert_E._Lee_(tree)
-#   - Floyd_Otter_(tree)
-#   # - John_Adams_(tree)
-#   # - Ishi_Giant
-#   # - Column_(tree)
-#   # - Summit_Road_Tree
-#   # - Euclid_Tree
-#   # - Washington_Tree_(Mariposa_Grove)
-#   # - Pershing_(tree)
-#   # - Diamond_(tree)
-#   - Hart_(tree)
-#   - Sentinel_(tree)
-#   - Adam_(tree)
-#   - Above_Diamond
-#   - Chief_Sequoyah_(tree)
-#   - Grizzly_Giant
-#   - Methuselah_(sequoia_tree)
+display:
+  sort_by: title
+  sort_order: asc
+  start_tags: [tag~]
+source_data:
+  wikipedia:
+    - General_Sherman_(tree)
+    - General_Grant_(tree)
+    - President_(tree)
+    - Lincoln_(tree)
+    - Stagg_(tree)
+    - Boole_(tree)
+    - Genesis_(tree)
+    - Franklin_(tree)
+    - King_Arthur_(tree)
+    # - Monroe_(tree)
+    - Robert_E._Lee_(tree)
+    - Floyd_Otter_(tree)
+    # - John_Adams_(tree)
+    # - Ishi_Giant
+    # - Column_(tree)
+    # - Summit_Road_Tree
+    # - Euclid_Tree
+    # - Washington_Tree_(Mariposa_Grove)
+    # - Pershing_(tree)
+    # - Diamond_(tree)
+    - Hart_(tree)
+    - Sentinel_(tree)
+    - Adam_(tree)
+    - Above_Diamond
+    - Chief_Sequoyah_(tree)
+    - Grizzly_Giant
+    - Methuselah_(sequoia_tree)
 
