@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     114.52,
+     4.65
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/reilly/collections/southeast_asia_marine_id_guide/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fcollections%2Fsoutheast_asia_marine_id_guide%2Faggregate%2Findex.json",
+    "date": "2020-08-25",
+    "title": "reilly",
+    "image": "https://static.inaturalist.org/photos/91743662/medium.jpg?1598327423"
+   }
+  }
+ ]
+}

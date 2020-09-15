@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.312,
+     -38.345
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/collections/flora_of_torquay_area/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fcollections%2Fflora_of_torquay_area%2Faggregate%2Findex.json",
+    "date": "2012-09-20",
+    "title": "therebel2015",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb1298401318e.jpg"
+   }
+  }
+ ]
+}

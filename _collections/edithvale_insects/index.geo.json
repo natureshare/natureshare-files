@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.129,
+     -38.039
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/vuk_2/collections/edithvale_insects/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fvuk_2%2Fcollections%2Fedithvale_insects%2Faggregate%2Findex.json",
+    "date": "2017-05-29",
+    "title": "vuk_2",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592c3f1bed2a894410000151.JPG"
+   }
+  }
+ ]
+}

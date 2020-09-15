@@ -1,0 +1,38 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "argmason",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fargmason%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fargmason%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/argmason/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/argmason/items/ns/2015/55029cc8ed2a8974d3000327.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fargmason%2Fitems%2Fns%2F2015%2F55029cc8ed2a8974d3000327.yaml",
+   "title": "Eremophila divaricata subsp. divaricata",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55029cc8ed2a8974d3000325.jpg",
+   "date_published": "2015-03-13T08:16:08.000+00:00",
+   "date_modified": "2015-03-13T08:17:03.000+00:00",
+   "tags": [
+    "id~Eremophila divaricata subsp. divaricata"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2015-03-13",
+    "imageCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

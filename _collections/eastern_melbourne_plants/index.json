@@ -1,0 +1,42 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Eastern Melbourne Plants",
+ "description": "All users for [eastern_melbourne_plants]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Feastern_melbourne_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/eastern_melbourne_plants/index.json",
+ "items": [
+  {
+   "title": "guymer",
+   "content_text": "263 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/549d2f97e35eb1155a00002c.jpg",
+   "date_published": "2014-12-26T09:51:19.000+00:00",
+   "date_modified": "2014-12-26T09:51:19.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.209,
+     -37.781
+    ]
+   },
+   "_meta": {
+    "itemCount": 263,
+    "date": "2014-12-26",
+    "name": "eastern_melbourne_plants",
+    "featured": true,
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/guymer/collections/eastern_melbourne_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fguymer%2Fcollections%2Feastern_melbourne_plants%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

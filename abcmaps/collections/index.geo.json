@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.583,
+     -37.833
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/abcmaps/collections/hoddles_creek_region_wildflowers/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fabcmaps%2Fcollections%2Fhoddles_creek_region_wildflowers%2Faggregate%2Findex.json",
+    "date": "2017-11-20",
+    "title": "Hoddles Creek Region Wildflowers",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a126c22ed2a8939840006de.JPG"
+   }
+  }
+ ]
+}

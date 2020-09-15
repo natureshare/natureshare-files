@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.297,
+     -38.355
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/collections/plants_of_warrnambool_and_district/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fcollections%2Fplants_of_warrnambool_and_district%2Faggregate%2Findex.json",
+    "date": "2020-02-02",
+    "title": "banksiaman",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39819e35eb129840000b2/2020-02-02/ptilotus_macrocephalus.jpeg"
+   }
+  }
+ ]
+}

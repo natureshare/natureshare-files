@@ -1,0 +1,42 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Plants Of Warrnambool And District",
+ "description": "All users for [plants_of_warrnambool_and_district]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fplants_of_warrnambool_and_district%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/plants_of_warrnambool_and_district/index.json",
+ "items": [
+  {
+   "title": "banksiaman",
+   "content_text": "226 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39819e35eb129840000b2/2020-02-02/ptilotus_macrocephalus.jpeg",
+   "date_published": "2020-02-02T10:51:01.000+00:00",
+   "date_modified": "2020-02-02T10:51:01.000+00:00",
+   "_geo": {
+    "coordinates": [
+     142.297,
+     -38.355
+    ]
+   },
+   "_meta": {
+    "itemCount": 226,
+    "date": "2020-02-02",
+    "name": "plants_of_warrnambool_and_district",
+    "featured": true,
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/banksiaman/collections/plants_of_warrnambool_and_district/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fcollections%2Fplants_of_warrnambool_and_district%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

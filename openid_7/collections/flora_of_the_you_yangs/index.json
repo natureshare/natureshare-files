@@ -1,0 +1,48 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Flora Of The You Yangs",
+ "description": "",
+ "author": {
+  "name": "openid_7",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fcollections%2Fflora_of_the_you_yangs%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_7/collections/flora_of_the_you_yangs/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_7/items/ns/2015/flora_of_the_you_yangs_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Fns%2F2015%2Fflora_of_the_you_yangs_species_list.yaml",
+   "title": "8 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2011-03-27T12:42:37.000+00:00",
+   "date_modified": "2015-04-07T08:47:35.000+00:00",
+   "tags": [
+    "id~Acacia acinacea s.l.",
+    "id~Acacia implexa",
+    "id~Allocasuarina verticillata",
+    "id~Einadia hastata",
+    "id~Eucalyptus macrorhyncha",
+    "id~Eucalyptus melliodora",
+    "id~Eucalyptus polyanthemos",
+    "id~Eucalyptus tricarpa",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "openid_7",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.633,
+     -36.392
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/barrietaylor/collections/wcmnunburntsite05/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbarrietaylor%2Fcollections%2Fwcmnunburntsite05%2Faggregate%2Findex.json",
+    "date": "2014-11-08",
+    "title": "barrietaylor",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545dabcfe35eb16b53000013.jpg"
+   }
+  }
+ ]
+}

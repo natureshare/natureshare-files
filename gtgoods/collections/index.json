@@ -1,0 +1,85 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "gtgoods",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/gtgoods/collections/index.json",
+ "items": [
+  {
+   "title": "Little desert np plants",
+   "content_text": "2 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55f7fca1ed2a890d95000181.jpg",
+   "date_published": "2015-09-15T11:10:05.000+00:00",
+   "date_modified": "2015-09-15T11:10:05.000+00:00",
+   "_geo": {
+    "coordinates": [
+     141.754,
+     -36.47
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2015-09-15",
+    "name": "little_desert_np_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/gtgoods/collections/little_desert_np_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fcollections%2Flittle_desert_np_plants%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Wimmera plains flora fauna",
+   "content_text": "3 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/552e4ae5ed2a893e78000030.jpg",
+   "date_published": "2015-04-15T11:26:29.000+00:00",
+   "date_modified": "2015-04-15T11:26:29.000+00:00",
+   "_geo": {
+    "coordinates": [
+     142.168,
+     -36.5
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2015-04-15",
+    "name": "wimmera_plains_flora_fauna",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/gtgoods/collections/wimmera_plains_flora_fauna/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fcollections%2Fwimmera_plains_flora_fauna%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Murray sunset np south fauna south of sturt hwy",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e97de3ed2a89ef27000537.jpg",
+   "date_published": "2015-02-22T06:57:40.000+00:00",
+   "date_modified": "2015-02-22T06:57:40.000+00:00",
+   "_geo": {
+    "coordinates": [
+     141.595,
+     -34.862
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2015-02-22",
+    "name": "murray_sunset_np_south_fauna_south_of_sturt_hwy",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/gtgoods/collections/murray_sunset_np_south_fauna_south_of_sturt_hwy/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fcollections%2Fmurray_sunset_np_south_fauna_south_of_sturt_hwy%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

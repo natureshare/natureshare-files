@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.621,
+     -36.404
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_147/collections/wcmnburnedsite09/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_147%2Fcollections%2Fwcmnburnedsite09%2Faggregate%2Findex.json",
+    "date": "2014-11-08",
+    "title": "openid_147",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545db337e35eb10c5e000001.jpg"
+   }
+  }
+ ]
+}

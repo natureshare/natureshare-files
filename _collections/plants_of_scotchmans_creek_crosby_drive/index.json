@@ -1,0 +1,40 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Plants Of Scotchmans Creek Crosby Drive",
+ "description": "All users for [plants_of_scotchmans_creek_crosby_drive]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fplants_of_scotchmans_creek_crosby_drive%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/plants_of_scotchmans_creek_crosby_drive/index.json",
+ "items": [
+  {
+   "title": "openid_100",
+   "content_text": "1 items",
+   "date_published": "2011-11-22T20:07:01.000+00:00",
+   "date_modified": "2011-11-22T20:07:01.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.15,
+     -37.885
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2011-11-22",
+    "name": "plants_of_scotchmans_creek_crosby_drive",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_100/collections/plants_of_scotchmans_creek_crosby_drive/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_100%2Fcollections%2Fplants_of_scotchmans_creek_crosby_drive%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

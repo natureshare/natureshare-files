@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.211,
+     -37.871
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/keng/collections/brisbane_ranges_significant_flora_species/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkeng%2Fcollections%2Fbrisbane_ranges_significant_flora_species%2Faggregate%2Findex.json",
+    "date": "2015-10-19",
+    "title": "Brisbane ranges significant flora species",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5624f466ed2a890d95000564.jpg"
+   }
+  }
+ ]
+}

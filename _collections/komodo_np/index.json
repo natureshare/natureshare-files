@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Komodo Np",
+ "description": "All users for [komodo_np]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fkomodo_np%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/komodo_np/index.json",
+ "items": [
+  {
+   "title": "reilly",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org/user_generated_content/thumbnails/reilly/items/dropbox/2020_komodo_np/dragon.jpg",
+   "date_published": "2020-01-23T09:39:15.000+00:00",
+   "date_modified": "2020-01-23T09:39:15.000+00:00",
+   "_geo": {
+    "coordinates": [
+     119.719,
+     -8.656
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2020-01-23",
+    "name": "komodo_np",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/reilly/collections/komodo_np/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fcollections%2Fkomodo_np%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

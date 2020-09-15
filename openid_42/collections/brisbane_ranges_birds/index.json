@@ -1,0 +1,65 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Brisbane Ranges Birds",
+ "description": "",
+ "author": {
+  "name": "openid_42",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fcollections%2Fbrisbane_ranges_birds%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_42/collections/brisbane_ranges_birds/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_42/items/ns/2011/53b39852e35eb1298400edfc.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400edfc.yaml",
+   "title": "Ardea pacifica",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840122b6.jpg",
+   "date_published": "2011-10-12T13:11:11.000+00:00",
+   "date_modified": "2011-10-12T13:22:32.000+00:00",
+   "tags": [
+    "id~Ardea pacifica"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2011-10-11",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_42",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_42/items/ns/2011/53b39852e35eb1298400edfb.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400edfb.yaml",
+   "title": "Platalea flavipes",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840122b5.jpg",
+   "date_published": "2011-10-12T13:04:30.000+00:00",
+   "date_modified": "2011-10-12T13:05:05.000+00:00",
+   "tags": [
+    "id~Platalea flavipes"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2011-10-11",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_42",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

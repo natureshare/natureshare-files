@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.056,
+     -37.816
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/leuba/collections/galls_of_victoria/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fcollections%2Fgalls_of_victoria%2Faggregate%2Findex.json",
+    "date": "2019-12-18",
+    "title": "leuba",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_595341e2ed2a89e53c000001/2019-12-18/20190305_0018c.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.841,
+     -37.687
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/triplett/collections/galls_of_victoria/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftriplett%2Fcollections%2Fgalls_of_victoria%2Faggregate%2Findex.json",
+    "date": "2019-12-18",
+    "title": "triplett",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_595341e2ed2a89e53c000001/2019-12-18/20190305_0018c.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.153,
+     -38.328
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lorrainecphelan/collections/galls_of_victoria/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Florrainecphelan%2Fcollections%2Fgalls_of_victoria%2Faggregate%2Findex.json",
+    "date": "2018-08-18",
+    "title": "lorrainecphelan",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b77f71bed2a891efe00009c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.178,
+     -37.801
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/martinl/collections/galls_of_victoria/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmartinl%2Fcollections%2Fgalls_of_victoria%2Faggregate%2Findex.json",
+    "date": "2015-03-06",
+    "title": "martinl",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f95c97ed2a89097e0004e2.JPG"
+   }
+  }
+ ]
+}

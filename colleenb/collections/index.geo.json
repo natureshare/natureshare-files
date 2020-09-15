@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.33,
+     -34.141
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/colleenb/collections/neds_corner_birds/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcolleenb%2Fcollections%2Fneds_corner_birds%2Faggregate%2Findex.json",
+    "date": "2016-01-18",
+    "title": "Neds corner birds",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/569c51a3ed2a89b31c000012.jpg"
+   }
+  }
+ ]
+}

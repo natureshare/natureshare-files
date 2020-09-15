@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Tasmania Nw",
+ "description": "All users for [tasmania_nw]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Ftasmania_nw%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/tasmania_nw/index.json",
+ "items": [
+  {
+   "title": "greyim",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a4fe0d4ed2a890e9e000068.jpg",
+   "date_published": "2018-01-05T20:36:04.000+00:00",
+   "date_modified": "2018-01-05T20:36:04.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.8,
+     -41
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2018-01-05",
+    "name": "tasmania_nw",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/greyim/collections/tasmania_nw/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgreyim%2Fcollections%2Ftasmania_nw%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

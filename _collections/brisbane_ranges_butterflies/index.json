@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Brisbane Ranges Butterflies",
+ "description": "All users for [brisbane_ranges_butterflies]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fbrisbane_ranges_butterflies%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/brisbane_ranges_butterflies/index.json",
+ "items": [
+  {
+   "title": "koolah",
+   "content_text": "10 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5555e927ed2a890e03000392.JPG",
+   "date_published": "2015-05-15T12:40:08.000+00:00",
+   "date_modified": "2015-05-15T12:40:08.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.293,
+     -37.796
+    ]
+   },
+   "_meta": {
+    "itemCount": 10,
+    "date": "2015-05-15",
+    "name": "brisbane_ranges_butterflies",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/koolah/collections/brisbane_ranges_butterflies/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fcollections%2Fbrisbane_ranges_butterflies%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

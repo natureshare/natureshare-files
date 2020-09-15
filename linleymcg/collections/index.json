@@ -1,0 +1,64 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "linleymcg",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flinleymcg%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flinleymcg%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/linleymcg/collections/index.json",
+ "items": [
+  {
+   "title": "Flora of Panyyabyr, Southern Grampians",
+   "content_text": "90 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb1298400000c/2019-10-17/dsc_2095.jpeg",
+   "date_published": "2019-10-17T09:35:17.000+00:00",
+   "date_modified": "2019-10-17T09:35:17.000+00:00",
+   "_geo": {
+    "coordinates": [
+     142.362,
+     -37.491
+    ]
+   },
+   "_meta": {
+    "itemCount": 90,
+    "date": "2019-10-17",
+    "name": "flora_of_panyyabyr_southern_grampians",
+    "featured": true,
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/linleymcg/collections/flora_of_panyyabyr_southern_grampians/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flinleymcg%2Fcollections%2Fflora_of_panyyabyr_southern_grampians%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Grampians np plants",
+   "content_text": "77 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb1298400000c/2019-10-17/dsc_2095.jpeg",
+   "date_published": "2019-10-17T09:35:17.000+00:00",
+   "date_modified": "2019-10-17T09:35:17.000+00:00",
+   "_geo": {
+    "coordinates": [
+     142.363,
+     -37.49
+    ]
+   },
+   "_meta": {
+    "itemCount": 77,
+    "date": "2019-10-17",
+    "name": "grampians_np_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/linleymcg/collections/grampians_np_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flinleymcg%2Fcollections%2Fgrampians_np_plants%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

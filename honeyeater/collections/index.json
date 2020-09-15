@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "honeyeater",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fhoneyeater%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fhoneyeater%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/honeyeater/collections/index.json",
+ "items": [
+  {
+   "title": "Insects",
+   "content_text": "3 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a22096ed2a89b31c000033.jpeg",
+   "date_published": "2016-01-22T12:32:40.000+00:00",
+   "date_modified": "2016-01-22T12:32:40.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.933,
+     -37.966
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2016-01-22",
+    "name": "insects",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/honeyeater/collections/insects/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fhoneyeater%2Fcollections%2Finsects%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Dandenong ranges ",
+   "content_text": "2 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a22096ed2a89b31c000033.jpeg",
+   "date_published": "2016-01-22T12:32:40.000+00:00",
+   "date_modified": "2016-01-22T12:32:40.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.357,
+     -37.908
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2016-01-22",
+    "name": "dandenong_ranges",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/honeyeater/collections/dandenong_ranges/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fhoneyeater%2Fcollections%2Fdandenong_ranges%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

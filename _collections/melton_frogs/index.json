@@ -1,0 +1,40 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Melton Frogs",
+ "description": "All users for [melton_frogs]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fmelton_frogs%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/melton_frogs/index.json",
+ "items": [
+  {
+   "title": "openid_63",
+   "content_text": "2 items",
+   "date_published": "2011-12-26T08:56:11.000+00:00",
+   "date_modified": "2011-12-26T08:56:11.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.597,
+     -37.678
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2011-12-26",
+    "name": "melton_frogs",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_63/collections/melton_frogs/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fcollections%2Fmelton_frogs%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.526,
+     -38.245
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bernie_l/collections/ocean_grove_nature_reserve/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbernie_l%2Fcollections%2Focean_grove_nature_reserve%2Faggregate%2Findex.json",
+    "date": "2018-11-02",
+    "title": "Ocean grove nature reserve",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bdad9aded2a892807000136.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.158,
+     -38.39
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bernie_l/collections/anglesea_heath_flora_and_fauna/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbernie_l%2Fcollections%2Fanglesea_heath_flora_and_fauna%2Faggregate%2Findex.json",
+    "date": "2018-10-14",
+    "title": "Anglesea heath flora and fauna",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bc2f2d6ed2a89280700011e.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.251,
+     -37.867
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bernie_l/collections/brisbane_ranges_national_park_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbernie_l%2Fcollections%2Fbrisbane_ranges_national_park_plants%2Faggregate%2Findex.json",
+    "date": "2018-09-19",
+    "title": "Brisbane ranges national park plants",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ba1d4dbed2a891efe0000df.JPG"
+   }
+  }
+ ]
+}

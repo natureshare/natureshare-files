@@ -1,0 +1,120 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Brisbane Ranges Mammals",
+ "description": "",
+ "author": {
+  "name": "openid_42",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fcollections%2Fbrisbane_ranges_mammals%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_42/collections/brisbane_ranges_mammals/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_42/items/ns/2012/53b39853e35eb1298400f3b4.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Fns%2F2012%2F53b39853e35eb1298400f3b4.yaml",
+   "title": "Petaurus breviceps",
+   "content_text": "Sugar Glider photographed by Trevor Pescott while monitoring with Geelong Field Naturalists cameras in the Brisbane Ranges near Little River picnic ground .. up a hill with a fine stand of Yellow Gums\n\nThank you Trevor",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012a84.jpg",
+   "date_published": "2012-02-24T15:11:26.000+00:00",
+   "date_modified": "2012-02-24T15:30:11.000+00:00",
+   "tags": [
+    "id~Petaurus breviceps"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2012-02-08",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_42",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_42/items/ns/2011/53b39852e35eb1298400ee0c.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400ee0c.yaml",
+   "title": "Tachyglossus aculeatus",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840122cc.jpg",
+   "date_published": "2011-10-14T16:04:20.000+00:00",
+   "date_modified": "2011-10-14T16:04:50.000+00:00",
+   "tags": [
+    "id~Tachyglossus aculeatus"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2011-10-12",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_42",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_42/items/ns/2011/53b39852e35eb1298400ee0b.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400ee0b.yaml",
+   "title": "Wallabia bicolor",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840122cb.jpg",
+   "date_published": "2011-10-14T15:29:36.000+00:00",
+   "date_modified": "2011-10-14T15:34:06.000+00:00",
+   "tags": [
+    "id~Wallabia bicolor"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2011-10-12",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_42",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_42/items/ns/2020/brisbane_ranges_mammals_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Fns%2F2020%2Fbrisbane_ranges_mammals_species_list.yaml",
+   "title": "11 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2011-05-04T00:55:18.000+00:00",
+   "date_modified": "2020-01-30T11:43:30.000+00:00",
+   "tags": [
+    "id~Macropus giganteus",
+    "id~Petaurus breviceps",
+    "id~Phascogale tapoatafa",
+    "id~Phascolarctos cinereus",
+    "id~Pseudocheirus peregrinus",
+    "id~Tachyglossus aculeatus",
+    "id~Trichosurus vulpecula",
+    "id~Vespadelus vulturnus",
+    "id~Vombatus ursinus",
+    "id~Vulpes vulpes",
+    "id~Wallabia bicolor",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2020-01-30"
+   },
+   "author": {
+    "name": "openid_42",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 4,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

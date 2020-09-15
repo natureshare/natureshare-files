@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Dryland Fungi",
+ "description": "All users for [dryland_fungi]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fdryland_fungi%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/dryland_fungi/index.json",
+ "items": [
+  {
+   "title": "zeke1944",
+   "content_text": "25 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-07-23/jun31_19_watchem_p1170583_crop.jpeg",
+   "date_published": "2019-07-31T05:11:07.000+00:00",
+   "date_modified": "2019-07-31T05:11:07.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.411,
+     -36.643
+    ]
+   },
+   "_meta": {
+    "itemCount": 25,
+    "date": "2019-07-31",
+    "name": "dryland_fungi",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/zeke1944/collections/dryland_fungi/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fzeke1944%2Fcollections%2Fdryland_fungi%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "wendymoore",
+   "content_text": "10 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-07-23/jun31_19_watchem_p1170583_crop.jpeg",
+   "date_published": "2019-07-23T02:08:57.000+00:00",
+   "date_modified": "2019-07-23T02:08:57.000+00:00",
+   "_geo": {
+    "coordinates": [
+     142.829,
+     -36.091
+    ]
+   },
+   "_meta": {
+    "itemCount": 10,
+    "date": "2019-07-23",
+    "name": "dryland_fungi",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/wendymoore/collections/dryland_fungi/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwendymoore%2Fcollections%2Fdryland_fungi%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

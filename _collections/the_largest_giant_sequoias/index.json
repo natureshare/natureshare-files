@@ -1,0 +1,42 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "The Largest Giant Sequoias",
+ "description": "All users for [the_largest_giant_sequoias]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fthe_largest_giant_sequoias%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/the_largest_giant_sequoias/index.json",
+ "items": [
+  {
+   "title": "reilly",
+   "content_text": "18 items",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Methuselah_tree.jpg/337px-Methuselah_tree.jpg",
+   "date_published": "2020-09-11T13:23:53.367+00:00",
+   "date_modified": "2020-09-11T13:23:53.367+00:00",
+   "_geo": {
+    "coordinates": [
+     -118.779,
+     36.516
+    ]
+   },
+   "_meta": {
+    "itemCount": 18,
+    "date": "2020-09-11",
+    "name": "the_largest_giant_sequoias",
+    "featured": true,
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/reilly/collections/the_largest_giant_sequoias/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fcollections%2Fthe_largest_giant_sequoias%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Moths Of Mallacoota",
+ "description": "All users for [moths_of_mallacoota]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fmoths_of_mallacoota%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/moths_of_mallacoota/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "4 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb12984014d71.jpg",
+   "date_published": "2014-01-18T11:47:08.000+00:00",
+   "date_modified": "2014-01-18T11:47:08.000+00:00",
+   "_geo": {
+    "coordinates": [
+     149.725,
+     -37.536
+    ]
+   },
+   "_meta": {
+    "itemCount": 4,
+    "date": "2014-01-18",
+    "name": "moths_of_mallacoota",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/moths_of_mallacoota/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmoths_of_mallacoota%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

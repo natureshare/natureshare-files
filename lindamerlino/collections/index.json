@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "lindamerlino",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flindamerlino%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flindamerlino%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/lindamerlino/collections/index.json",
+ "items": [
+  {
+   "title": "Birds of 25 ferres blvd south morang",
+   "content_text": "5 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59518fb8ed2a8939840000ac.jpg",
+   "date_published": "2017-06-27T01:47:24.000+00:00",
+   "date_modified": "2017-06-27T01:47:24.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.068,
+     -37.646
+    ]
+   },
+   "_meta": {
+    "itemCount": 5,
+    "date": "2017-06-27",
+    "name": "birds_of_25_ferres_blvd_south_morang",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/lindamerlino/collections/birds_of_25_ferres_blvd_south_morang/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flindamerlino%2Fcollections%2Fbirds_of_25_ferres_blvd_south_morang%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

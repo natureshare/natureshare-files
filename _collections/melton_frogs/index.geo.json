@@ -1,0 +1,21 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.597,
+     -37.678
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_63/collections/melton_frogs/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fcollections%2Fmelton_frogs%2Faggregate%2Findex.json",
+    "date": "2011-12-26",
+    "title": "openid_63"
+   }
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.543,
+     -37.485
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/collections/hobbs_road_bushland_reserve/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fhobbs_road_bushland_reserve%2Faggregate%2Findex.json",
+    "date": "2017-05-18",
+    "title": "tsnata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/591d744eed2a894410000133.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.336,
+     -34.204
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bertbohosouth/collections/neds_corner_reptiles/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbertbohosouth%2Fcollections%2Fneds_corner_reptiles%2Faggregate%2Findex.json",
+    "date": "2017-02-05",
+    "title": "Neds corner reptiles",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5790cb5aed2a89211c00027b.JPG"
+   }
+  }
+ ]
+}

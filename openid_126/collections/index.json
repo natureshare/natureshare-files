@@ -1,0 +1,85 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "openid_126",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_126%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_126%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_126/collections/index.json",
+ "items": [
+  {
+   "title": "Birds of the western treatment plant werribee",
+   "content_text": "28 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/564eaceded2a899c630001d8.jpg",
+   "date_published": "2015-11-20T05:18:43.000+00:00",
+   "date_modified": "2015-11-20T05:18:43.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.56,
+     -38.014
+    ]
+   },
+   "_meta": {
+    "itemCount": 28,
+    "date": "2015-11-20",
+    "name": "birds_of_the_western_treatment_plant_werribee",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_126/collections/birds_of_the_western_treatment_plant_werribee/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_126%2Fcollections%2Fbirds_of_the_western_treatment_plant_werribee%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Woodlands Historic Park, Greenvale",
+   "content_text": "18 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb12984014fff.jpg",
+   "date_published": "2014-03-10T20:56:13.000+00:00",
+   "date_modified": "2014-03-10T20:56:13.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.858,
+     -37.643
+    ]
+   },
+   "_meta": {
+    "itemCount": 18,
+    "date": "2014-03-10",
+    "name": "woodlands_historic_park_greenvale",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_126/collections/woodlands_historic_park_greenvale/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_126%2Fcollections%2Fwoodlands_historic_park_greenvale%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Mill Park Lakes - Birds",
+   "content_text": "35 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39867e35eb12984013bfe.jpg",
+   "date_published": "2013-03-22T20:01:01.000+00:00",
+   "date_modified": "2013-03-22T20:01:01.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.071,
+     -37.639
+    ]
+   },
+   "_meta": {
+    "itemCount": 35,
+    "date": "2013-03-22",
+    "name": "mill_park_lakes_birds",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_126/collections/mill_park_lakes_birds/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_126%2Fcollections%2Fmill_park_lakes_birds%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

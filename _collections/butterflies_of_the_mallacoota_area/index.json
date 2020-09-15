@@ -1,0 +1,42 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Butterflies Of The Mallacoota Area",
+ "description": "All users for [butterflies_of_the_mallacoota_area]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fbutterflies_of_the_mallacoota_area%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/butterflies_of_the_mallacoota_area/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "36 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53ff4fe4e35eb1985200006b.jpg",
+   "date_published": "2014-08-28T15:51:00.000+00:00",
+   "date_modified": "2014-08-28T15:51:00.000+00:00",
+   "_geo": {
+    "coordinates": [
+     149.712,
+     -37.57
+    ]
+   },
+   "_meta": {
+    "itemCount": 36,
+    "date": "2014-08-28",
+    "name": "butterflies_of_the_mallacoota_area",
+    "featured": true,
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/butterflies_of_the_mallacoota_area/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fbutterflies_of_the_mallacoota_area%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

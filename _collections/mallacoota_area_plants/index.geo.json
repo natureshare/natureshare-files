@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.715,
+     -37.555
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/mallacoota_area_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmallacoota_area_plants%2Faggregate%2Findex.json",
+    "date": "2014-12-16",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5490083de35eb173bf000024.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.627,
+     -37.506
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/cclarke/collections/mallacoota_area_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fcollections%2Fmallacoota_area_plants%2Faggregate%2Findex.json",
+    "date": "2014-01-12",
+    "title": "cclarke",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb12984014d28.jpg"
+   }
+  }
+ ]
+}

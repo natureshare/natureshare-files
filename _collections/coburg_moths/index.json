@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Coburg Moths",
+ "description": "All users for [coburg_moths]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fcoburg_moths%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/coburg_moths/index.json",
+ "items": [
+  {
+   "title": "wendymoore",
+   "content_text": "210 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-09-12/feb28_12_gel_aproaerema_sp_imgp1483_cropns.jpeg",
+   "date_published": "2019-09-12T00:48:06.000+00:00",
+   "date_modified": "2019-09-12T00:48:06.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.957,
+     -37.738
+    ]
+   },
+   "_meta": {
+    "itemCount": 210,
+    "date": "2019-09-12",
+    "name": "coburg_moths",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/wendymoore/collections/coburg_moths/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwendymoore%2Fcollections%2Fcoburg_moths%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

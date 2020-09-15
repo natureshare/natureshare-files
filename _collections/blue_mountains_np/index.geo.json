@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.334,
+     -33.674
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/reilly/collections/blue_mountains_np/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fcollections%2Fblue_mountains_np%2Faggregate%2Findex.json",
+    "date": "2020-08-13",
+    "title": "reilly",
+    "image": "https://live.staticflickr.com/65535/50220093653_cb9f18c122.jpg"
+   }
+  }
+ ]
+}

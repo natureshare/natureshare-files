@@ -1,0 +1,85 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "bernie_l",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbernie_l%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbernie_l%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/bernie_l/collections/index.json",
+ "items": [
+  {
+   "title": "Ocean grove nature reserve",
+   "content_text": "14 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bdad9aded2a892807000136.JPG",
+   "date_published": "2018-11-02T09:04:59.000+00:00",
+   "date_modified": "2018-11-02T09:04:59.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.526,
+     -38.245
+    ]
+   },
+   "_meta": {
+    "itemCount": 14,
+    "date": "2018-11-02",
+    "name": "ocean_grove_nature_reserve",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/bernie_l/collections/ocean_grove_nature_reserve/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbernie_l%2Fcollections%2Focean_grove_nature_reserve%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Anglesea heath flora and fauna",
+   "content_text": "3 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bc2f2d6ed2a89280700011e.JPG",
+   "date_published": "2018-10-14T08:01:21.000+00:00",
+   "date_modified": "2018-10-14T08:01:21.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.158,
+     -38.39
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2018-10-14",
+    "name": "anglesea_heath_flora_and_fauna",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/bernie_l/collections/anglesea_heath_flora_and_fauna/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbernie_l%2Fcollections%2Fanglesea_heath_flora_and_fauna%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Brisbane ranges national park plants",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ba1d4dbed2a891efe0000df.JPG",
+   "date_published": "2018-09-19T04:57:31.000+00:00",
+   "date_modified": "2018-09-19T04:57:31.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.251,
+     -37.867
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2018-09-19",
+    "name": "brisbane_ranges_national_park_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/bernie_l/collections/brisbane_ranges_national_park_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbernie_l%2Fcollections%2Fbrisbane_ranges_national_park_plants%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

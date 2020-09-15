@@ -1,0 +1,37 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Bullengarook Flora",
+ "description": "All users for [bullengarook_flora]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fbullengarook_flora%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/bullengarook_flora/index.json",
+ "items": [
+  {
+   "title": "openid_95",
+   "content_text": "1 items",
+   "date_published": "2011-11-02T19:37:46.000+00:00",
+   "date_modified": "2011-11-02T19:37:46.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2011-11-02",
+    "name": "bullengarook_flora",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_95/collections/bullengarook_flora/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_95%2Fcollections%2Fbullengarook_flora%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

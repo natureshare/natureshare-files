@@ -1,0 +1,60 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Flora Of Dandenong Ranges Area",
+ "description": "All users for [flora_of_dandenong_ranges_area]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fflora_of_dandenong_ranges_area%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/flora_of_dandenong_ranges_area/index.json",
+ "items": [
+  {
+   "title": "therebel2015",
+   "content_text": "14 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54dc4ce9ed2a8980f5000234.jpg",
+   "date_published": "2015-02-12T06:49:15.000+00:00",
+   "date_modified": "2015-02-12T06:49:15.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.266,
+     -37.852
+    ]
+   },
+   "_meta": {
+    "itemCount": 14,
+    "date": "2015-02-12",
+    "name": "flora_of_dandenong_ranges_area",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/therebel2015/collections/flora_of_dandenong_ranges_area/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fcollections%2Fflora_of_dandenong_ranges_area%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "openid_201",
+   "content_text": "3 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986de35eb1298401554e.jpg",
+   "date_published": "2014-06-24T22:13:32.000+00:00",
+   "date_modified": "2014-06-24T22:13:32.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2014-06-24",
+    "name": "flora_of_dandenong_ranges_area",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_201/collections/flora_of_dandenong_ranges_area/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_201%2Fcollections%2Fflora_of_dandenong_ranges_area%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

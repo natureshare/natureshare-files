@@ -1,0 +1,85 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Littoral Zones",
+ "description": "All users for [littoral_zones]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Flittoral_zones%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/littoral_zones/index.json",
+ "items": [
+  {
+   "title": "leuba",
+   "content_text": "28 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b13dbbeed2a89e82200001d.jpg",
+   "date_published": "2018-06-03T12:19:50.000+00:00",
+   "date_modified": "2018-06-03T12:19:50.000+00:00",
+   "_geo": {
+    "coordinates": [
+     146.126,
+     -38.193
+    ]
+   },
+   "_meta": {
+    "itemCount": 28,
+    "date": "2018-06-03",
+    "name": "littoral_zones",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/leuba/collections/littoral_zones/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fcollections%2Flittoral_zones%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "argybee",
+   "content_text": "11 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b0fe33ded2a89757000000f.jpg",
+   "date_published": "2018-05-31T12:03:00.000+00:00",
+   "date_modified": "2018-05-31T12:03:00.000+00:00",
+   "_geo": {
+    "coordinates": [
+     146.203,
+     -38.22
+    ]
+   },
+   "_meta": {
+    "itemCount": 11,
+    "date": "2018-05-31",
+    "name": "littoral_zones",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/argybee/collections/littoral_zones/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fargybee%2Fcollections%2Flittoral_zones%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "david_francis",
+   "content_text": "2 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a928472ed2a897fc8000005.jpg",
+   "date_published": "2018-02-25T09:47:34.000+00:00",
+   "date_modified": "2018-02-25T09:47:34.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.327,
+     -38.341
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2018-02-25",
+    "name": "littoral_zones",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/david_francis/collections/littoral_zones/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Flittoral_zones%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

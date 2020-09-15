@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Cobobbanee National Park",
+ "description": "All users for [cobobbanee_national_park]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fcobobbanee_national_park%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/cobobbanee_national_park/index.json",
+ "items": [
+  {
+   "title": "banksiaman",
+   "content_text": "3 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39819e35eb129840000b2/2019-12-27/olearia_speciosa3.jpeg",
+   "date_published": "2019-12-27T02:20:16.000+00:00",
+   "date_modified": "2019-12-27T02:20:16.000+00:00",
+   "_geo": {
+    "coordinates": [
+     141.456,
+     -38.205
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2019-12-27",
+    "name": "cobobbanee_national_park",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/banksiaman/collections/cobobbanee_national_park/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fcollections%2Fcobobbanee_national_park%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

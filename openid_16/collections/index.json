@@ -1,0 +1,59 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "openid_16",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_16%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_16%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_16/collections/index.json",
+ "items": [
+  {
+   "title": "Insects and other invertebrates of riddells creek",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012e15.jpg",
+   "date_published": "2012-07-09T10:19:56.000+00:00",
+   "date_modified": "2012-07-09T10:19:56.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.66,
+     -37.435
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2012-07-09",
+    "name": "insects_and_other_invertebrates_of_riddells_creek",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_16/collections/insects_and_other_invertebrates_of_riddells_creek/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_16%2Fcollections%2Finsects_and_other_invertebrates_of_riddells_creek%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Flora of Panyule Road, Pyalong",
+   "content_text": "1 items",
+   "date_published": "2011-02-06T09:49:55.000+00:00",
+   "date_modified": "2011-02-06T09:49:55.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2011-02-06",
+    "name": "flora_of_panyule_road_pyalong",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_16/collections/flora_of_panyule_road_pyalong/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_16%2Fcollections%2Fflora_of_panyule_road_pyalong%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,60 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Spiders Of Murray St Coburg",
+ "description": "All users for [spiders_of_murray_st_coburg]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fspiders_of_murray_st_coburg%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/spiders_of_murray_st_coburg/index.json",
+ "items": [
+  {
+   "title": "wendymoore",
+   "content_text": "6 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c639c983abbd6ed0f00003c/2019-03-06/1551854192/PHOLCIDAE%20Dadddy%20long-legs%20Jan10-14%2008%20095.jpg",
+   "date_published": "2019-03-06T06:34:54.000+00:00",
+   "date_modified": "2019-03-06T06:34:54.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.957,
+     -37.738
+    ]
+   },
+   "_meta": {
+    "itemCount": 6,
+    "date": "2019-03-06",
+    "name": "spiders_of_murray_st_coburg",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/wendymoore/collections/spiders_of_murray_st_coburg/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwendymoore%2Fcollections%2Fspiders_of_murray_st_coburg%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "openid_60",
+   "content_text": "3 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011eb7.jpg",
+   "date_published": "2011-08-15T03:09:25.000+00:00",
+   "date_modified": "2011-08-15T03:09:25.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2011-08-15",
+    "name": "spiders_of_murray_st_coburg",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_60/collections/spiders_of_murray_st_coburg/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_60%2Fcollections%2Fspiders_of_murray_st_coburg%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

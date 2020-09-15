@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.27,
+     -38.387
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_170/collections/boolarra_bush_flora_and_fauna/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_170%2Fcollections%2Fboolarra_bush_flora_and_fauna%2Faggregate%2Findex.json",
+    "date": "2013-12-08",
+    "title": "openid_170",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ae35eb12984014afa.jpg"
+   }
+  }
+ ]
+}

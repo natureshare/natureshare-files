@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.167,
+     -38.125
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/cclarke/collections/native_plants_of_the_pines_flora_and_flora_reserve_frankston/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fcollections%2Fnative_plants_of_the_pines_flora_and_flora_reserve_frankston%2Faggregate%2Findex.json",
+    "date": "2011-06-23",
+    "title": "cclarke",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011d08.jpg"
+   }
+  }
+ ]
+}

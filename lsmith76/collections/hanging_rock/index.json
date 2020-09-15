@@ -1,0 +1,49 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Hanging Rock",
+ "description": "",
+ "author": {
+  "name": "lsmith76",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flsmith76%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flsmith76%2Fcollections%2Fhanging_rock%2Findex.json",
+ "feed_url": "https://files.natureshare.org/lsmith76/collections/hanging_rock/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/lsmith76/items/ns/2015/hanging_rock_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flsmith76%2Fitems%2Fns%2F2015%2Fhanging_rock_species_list.yaml",
+   "title": "9 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2015-10-19T00:45:46.000+00:00",
+   "date_modified": "2015-10-19T00:58:45.000+00:00",
+   "tags": [
+    "id~Briza maxima",
+    "id~Genista monspessulana",
+    "id~Hedera helix",
+    "id~Ilex aquifolium",
+    "id~Plantago lanceolata",
+    "id~Romulea rosea var. australis s.s.",
+    "id~Vicia hirsuta",
+    "id~Vicia sativa subsp. cordata/sativa",
+    "id~Vicia sativa subsp. nigra",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2015-10-19"
+   },
+   "author": {
+    "name": "lsmith76",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flsmith76%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

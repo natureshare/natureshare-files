@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.324,
+     -34.173
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_182/collections/neds_corner_mammals/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_182%2Fcollections%2Fneds_corner_mammals%2Faggregate%2Findex.json",
+    "date": "2013-09-29",
+    "title": "Neds corner mammals",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb12984014435.jpg"
+   }
+  }
+ ]
+}

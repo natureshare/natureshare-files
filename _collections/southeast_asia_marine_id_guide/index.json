@@ -1,0 +1,42 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Southeast Asia Marine Id Guide",
+ "description": "All users for [southeast_asia_marine_id_guide]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fsoutheast_asia_marine_id_guide%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/southeast_asia_marine_id_guide/index.json",
+ "items": [
+  {
+   "title": "reilly",
+   "content_text": "282 items",
+   "image": "https://static.inaturalist.org/photos/91743662/medium.jpg?1598327423",
+   "date_published": "2020-08-25T07:33:39.000+00:00",
+   "date_modified": "2020-08-25T07:33:39.000+00:00",
+   "_geo": {
+    "coordinates": [
+     114.52,
+     4.65
+    ]
+   },
+   "_meta": {
+    "itemCount": 282,
+    "date": "2020-08-25",
+    "name": "southeast_asia_marine_id_guide",
+    "featured": true,
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/reilly/collections/southeast_asia_marine_id_guide/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fcollections%2Fsoutheast_asia_marine_id_guide%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

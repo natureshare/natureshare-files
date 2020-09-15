@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.56,
+     -38.014
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_126/collections/birds_of_the_western_treatment_plant_werribee/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_126%2Fcollections%2Fbirds_of_the_western_treatment_plant_werribee%2Faggregate%2Findex.json",
+    "date": "2015-11-20",
+    "title": "Birds of the western treatment plant werribee",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/564eaceded2a899c630001d8.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.858,
+     -37.643
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_126/collections/woodlands_historic_park_greenvale/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_126%2Fcollections%2Fwoodlands_historic_park_greenvale%2Faggregate%2Findex.json",
+    "date": "2014-03-10",
+    "title": "Woodlands Historic Park, Greenvale",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb12984014fff.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.071,
+     -37.639
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_126/collections/mill_park_lakes_birds/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_126%2Fcollections%2Fmill_park_lakes_birds%2Faggregate%2Findex.json",
+    "date": "2013-03-22",
+    "title": "Mill Park Lakes - Birds",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39867e35eb12984013bfe.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Gisborne Swamp Flora Fauna",
+ "description": "All users for [gisborne_swamp_flora_fauna]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fgisborne_swamp_flora_fauna%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/gisborne_swamp_flora_fauna/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "53 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54df424ced2a89d99000009a.jpg",
+   "date_published": "2015-02-14T12:40:45.000+00:00",
+   "date_modified": "2015-02-14T12:40:45.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.59,
+     -37.47
+    ]
+   },
+   "_meta": {
+    "itemCount": 53,
+    "date": "2015-02-14",
+    "name": "gisborne_swamp_flora_fauna",
+    "featured": true,
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/gisborne_swamp_flora_fauna/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fgisborne_swamp_flora_fauna%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "openid_7",
+   "content_text": "1 items",
+   "date_published": "2014-09-15T22:19:11.000+00:00",
+   "date_modified": "2014-09-15T22:19:11.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.583,
+     -37.469
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2014-09-15",
+    "name": "gisborne_swamp_flora_fauna",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_7/collections/gisborne_swamp_flora_fauna/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fcollections%2Fgisborne_swamp_flora_fauna%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "openid_182",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_182%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_182%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_182/collections/index.json",
+ "items": [
+  {
+   "title": "Neds corner mammals",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb12984014435.jpg",
+   "date_published": "2013-09-29T18:20:20.000+00:00",
+   "date_modified": "2013-09-29T18:20:20.000+00:00",
+   "_geo": {
+    "coordinates": [
+     141.324,
+     -34.173
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2013-09-29",
+    "name": "neds_corner_mammals",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_182/collections/neds_corner_mammals/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_182%2Fcollections%2Fneds_corner_mammals%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

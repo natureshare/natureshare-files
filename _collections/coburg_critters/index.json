@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Coburg Critters",
+ "description": "All users for [coburg_critters]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fcoburg_critters%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/coburg_critters/index.json",
+ "items": [
+  {
+   "title": "wendymoore",
+   "content_text": "150 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-09-20/sep18_19_p1170711_cropns.jpeg",
+   "date_published": "2019-09-20T02:34:00.000+00:00",
+   "date_modified": "2019-09-20T02:34:00.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.958,
+     -37.739
+    ]
+   },
+   "_meta": {
+    "itemCount": 150,
+    "date": "2019-09-20",
+    "name": "coburg_critters",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/wendymoore/collections/coburg_critters/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwendymoore%2Fcollections%2Fcoburg_critters%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

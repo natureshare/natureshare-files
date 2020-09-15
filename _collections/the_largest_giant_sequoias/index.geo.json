@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.779,
+     36.516
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/reilly/collections/the_largest_giant_sequoias/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fcollections%2Fthe_largest_giant_sequoias%2Faggregate%2Findex.json",
+    "date": "2020-09-11",
+    "title": "reilly",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Methuselah_tree.jpg/337px-Methuselah_tree.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "alicecummins",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Falicecummins%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Falicecummins%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/alicecummins/collections/index.json",
+ "items": [
+  {
+   "title": "Barringo reserve near riddells creek plants",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54dfdf1fed2a8987b7000068.jpg",
+   "date_published": "2015-02-14T23:49:51.000+00:00",
+   "date_modified": "2015-02-14T23:49:51.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.62,
+     -37.421
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2015-02-14",
+    "name": "barringo_reserve_near_riddells_creek_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/alicecummins/collections/barringo_reserve_near_riddells_creek_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Falicecummins%2Fcollections%2Fbarringo_reserve_near_riddells_creek_plants%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

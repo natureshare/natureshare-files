@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.906,
+     -37.793
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/collections/footscray_park/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Ffootscray_park%2Faggregate%2Findex.json",
+    "date": "2019-08-30",
+    "title": "tsnata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000026/2019-08-30/p1110217_ed.jpeg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Carapooee",
+ "description": "All users for [carapooee]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fcarapooee%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/carapooee/index.json",
+ "items": [
+  {
+   "title": "wendymoore",
+   "content_text": "70 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-08-11/sep16_14_carapooee_z_odonata_hemicordulia_tau_imgp7321_cropns.jpeg",
+   "date_published": "2019-08-11T09:17:09.000+00:00",
+   "date_modified": "2019-08-11T09:17:09.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.364,
+     -36.746
+    ]
+   },
+   "_meta": {
+    "itemCount": 70,
+    "date": "2019-08-11",
+    "name": "carapooee",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/wendymoore/collections/carapooee/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwendymoore%2Fcollections%2Fcarapooee%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

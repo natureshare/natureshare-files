@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.138,
+     -37.347
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tanya/collections/mammals_and_montremes_of_porcupine_ridge_and_daylesford/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftanya%2Fcollections%2Fmammals_and_montremes_of_porcupine_ridge_and_daylesford%2Faggregate%2Findex.json",
+    "date": "2015-04-05",
+    "title": "tanya",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55bc1ba2ed2a89db81000793.JPG"
+   }
+  }
+ ]
+}

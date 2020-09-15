@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Christmas Hills Nillumbik",
+ "description": "All users for [christmas_hills_nillumbik]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fchristmas_hills_nillumbik%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/christmas_hills_nillumbik/index.json",
+ "items": [
+  {
+   "title": "openid_120",
+   "content_text": "70 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb12984014dfb.png",
+   "date_published": "2014-01-30T22:39:36.000+00:00",
+   "date_modified": "2014-01-30T22:39:36.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.285,
+     -37.651
+    ]
+   },
+   "_meta": {
+    "itemCount": 70,
+    "date": "2014-01-30",
+    "name": "christmas_hills_nillumbik",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_120/collections/christmas_hills_nillumbik/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_120%2Fcollections%2Fchristmas_hills_nillumbik%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

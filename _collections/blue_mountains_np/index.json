@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Blue Mountains Np",
+ "description": "All users for [blue_mountains_np]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fblue_mountains_np%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/blue_mountains_np/index.json",
+ "items": [
+  {
+   "title": "reilly",
+   "content_text": "10 items",
+   "image": "https://live.staticflickr.com/65535/50220093653_cb9f18c122.jpg",
+   "date_published": "2020-08-13T04:00:35.000+00:00",
+   "date_modified": "2020-08-13T04:00:35.000+00:00",
+   "_geo": {
+    "coordinates": [
+     150.334,
+     -33.674
+    ]
+   },
+   "_meta": {
+    "itemCount": 10,
+    "date": "2020-08-13",
+    "name": "blue_mountains_np",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/reilly/collections/blue_mountains_np/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fcollections%2Fblue_mountains_np%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

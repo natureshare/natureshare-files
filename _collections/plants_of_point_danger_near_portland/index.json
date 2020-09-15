@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Plants Of Point Danger Near Portland",
+ "description": "All users for [plants_of_point_danger_near_portland]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fplants_of_point_danger_near_portland%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/plants_of_point_danger_near_portland/index.json",
+ "items": [
+  {
+   "title": "banksiaman",
+   "content_text": "28 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53ce3195e35eb166ff000001.JPG",
+   "date_published": "2014-07-22T09:40:37.000+00:00",
+   "date_modified": "2014-07-22T09:40:37.000+00:00",
+   "_geo": {
+    "coordinates": [
+     141.614,
+     -38.392
+    ]
+   },
+   "_meta": {
+    "itemCount": 28,
+    "date": "2014-07-22",
+    "name": "plants_of_point_danger_near_portland",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/banksiaman/collections/plants_of_point_danger_near_portland/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fcollections%2Fplants_of_point_danger_near_portland%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.623,
+     -37.423
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/collections/barringo_reserve_near_riddells_creek_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fbarringo_reserve_near_riddells_creek_plants%2Faggregate%2Findex.json",
+    "date": "2016-08-06",
+    "title": "david_francis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57a5a845ed2a89d73e000001.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.618,
+     -37.42
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/rosscolliver/collections/barringo_reserve_near_riddells_creek_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frosscolliver%2Fcollections%2Fbarringo_reserve_near_riddells_creek_plants%2Faggregate%2Findex.json",
+    "date": "2016-08-06",
+    "title": "rosscolliver",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57a5a845ed2a89d73e000001.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.62,
+     -37.421
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/barringo_reserve_near_riddells_creek_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fbarringo_reserve_near_riddells_creek_plants%2Faggregate%2Findex.json",
+    "date": "2015-02-17",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e2e724ed2a89ef270002e3.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.62,
+     -37.421
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/alicecummins/collections/barringo_reserve_near_riddells_creek_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Falicecummins%2Fcollections%2Fbarringo_reserve_near_riddells_creek_plants%2Faggregate%2Findex.json",
+    "date": "2015-02-14",
+    "title": "alicecummins",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54dfdf1fed2a8987b7000068.jpg"
+   }
+  }
+ ]
+}

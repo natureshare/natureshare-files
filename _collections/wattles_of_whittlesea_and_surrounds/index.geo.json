@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.148,
+     -37.494
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/collections/wattles_of_whittlesea_and_surrounds/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fwattles_of_whittlesea_and_surrounds%2Faggregate%2Findex.json",
+    "date": "2014-09-22",
+    "title": "jamesbooth",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5420a844e35eb158b10000d4.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.161,
+     -37.486
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/collections/wattles_of_whittlesea_and_surrounds/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fcollections%2Fwattles_of_whittlesea_and_surrounds%2Faggregate%2Findex.json",
+    "date": "2014-09-22",
+    "title": "markwilliams",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5420a844e35eb158b10000d4.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.179,
+     -37.528
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/wattles_of_whittlesea_and_surrounds/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fwattles_of_whittlesea_and_surrounds%2Faggregate%2Findex.json",
+    "date": "2013-09-09",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143c3.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Flemington Kensington 3031",
+ "description": "All users for [flemington_kensington_3031]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fflemington_kensington_3031%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/flemington_kensington_3031/index.json",
+ "items": [
+  {
+   "title": "tsnata",
+   "content_text": "189 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_53b39818e35eb12984000026/2019-05-08/1557315371/P1090168-ed.jpg",
+   "date_published": "2019-05-08T11:37:34.000+00:00",
+   "date_modified": "2019-05-08T11:37:34.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.924,
+     -37.787
+    ]
+   },
+   "_meta": {
+    "itemCount": 189,
+    "date": "2019-05-08",
+    "name": "flemington_kensington_3031",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/tsnata/collections/flemington_kensington_3031/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fflemington_kensington_3031%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}
