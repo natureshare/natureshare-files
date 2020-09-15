@@ -1,0 +1,35 @@
+id:
+  - name: Cyclocoeloma tuberculata
+    common: Corallimorph Decorator Crab
+    by:
+      - maractwin
+      - ondrej-radosta
+    ref:
+      inaturalist: 142960
+datetime: '2014-05-19T06:45:27-04:00'
+latitude: -8.627822
+longitude: 119.706322
+location_name: 'Manggarai, Nusa Tenggara Timur, Indonesia'
+tags:
+  - animals~arthropods~malacostracans~decapods~kelp_crabs
+photos:
+  - source: iNaturalist
+    id: '901007'
+    width: 2048
+    height: 1365
+    thumbnail_url: 'https://static.inaturalist.org/photos/901007/medium.jpg?1401901930'
+    original_url: 'https://static.inaturalist.org/photos/901007/original.jpg?1401901930'
+    license: CC BY-NC-SA
+    attribution: Mark Rosenstein
+    href: 'https://www.inaturalist.org/photos/901007'
+license: CC BY 4.0
+created_at: '2014-06-04T13:07:43-04:00'
+updated_at: '2017-10-26T23:45:58-04:00'
+source:
+  - name: iNaturalist
+    href: 'http://www.inaturalist.org/observations/717109'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Cyclocoeloma'
+description: 'Cyclocoeloma is a genus of crabs in the family Majidae, containing the single species Cyclocoeloma tuberculata.'
+collections:
+  - southeast_asia_marine_id_guide

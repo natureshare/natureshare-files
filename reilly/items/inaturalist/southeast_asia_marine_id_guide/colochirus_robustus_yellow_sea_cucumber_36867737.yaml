@@ -1,0 +1,36 @@
+id:
+  - name: Colochirus robustus
+    common: Yellow sea cucumber
+    by:
+      - amurland
+      - frederic_ducarme
+    ref:
+      inaturalist: 142913
+datetime: '2019-11-15T11:49:00-07:00'
+latitude: -8.672608
+longitude: 119.448135
+location_name: 'Nusa Tenggara Timur, ID'
+accuracy: 31271
+tags:
+  - animals~echinoderms~sea_cucumbers~filtering_sea_cucumbers~cucumariidae
+photos:
+  - source: iNaturalist
+    id: '58349158'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/58349158/medium.jpg?1577056657'
+    original_url: 'https://static.inaturalist.org/photos/58349158/original.jpg?1577056657'
+    license: CC BY-NC
+    attribution: amurland
+    href: 'https://www.inaturalist.org/photos/58349158'
+license: CC BY 4.0
+created_at: '2019-12-22T16:27:31-07:00'
+updated_at: '2019-12-23T01:53:15-07:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/36867737'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Colochirus_robustus'
+description: 'Colochirus robustus, commonly known as the robust sea cucumber or the yellow sea cucumber, is a species of sea cucumber in the family Cucumariidae. It is found in shallow seas in tropical parts of the central Indo-Pacific region.'
+collections:
+  - southeast_asia_marine_id_guide

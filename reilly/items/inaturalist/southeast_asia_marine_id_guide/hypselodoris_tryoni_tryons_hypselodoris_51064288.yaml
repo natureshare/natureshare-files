@@ -1,0 +1,36 @@
+id:
+  - name: Hypselodoris tryoni
+    common: Tryon's Hypselodoris
+    by:
+      - albertkang
+      - hsini_lin
+    ref:
+      inaturalist: 468033
+datetime: '2019-08-08T19:16:00+08:00'
+latitude: -8.790826
+longitude: 119.61622
+location_name: 'Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Tim., Indonesia'
+accuracy: 1953
+tags:
+  - animals~molluscs~gastropods~nudibranchs~chromodorids
+photos:
+  - source: iNaturalist
+    id: '81115902'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/81115902/medium.jpeg?1593234632'
+    original_url: 'https://static.inaturalist.org/photos/81115902/original.jpeg?1593234632'
+    license: CC BY-NC
+    attribution: Albert Kang
+    href: 'https://www.inaturalist.org/photos/81115902'
+license: CC BY 4.0
+created_at: '2020-06-27T13:10:52+08:00'
+updated_at: '2020-06-30T22:34:00+08:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/51064288'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Hypselodoris_tryoni'
+description: 'Hypselodoris tryoni is a species of sea slug, a dorid nudibranch, a marine gastropod mollusk in the family Chromodorididae.'
+collections:
+  - southeast_asia_marine_id_guide

@@ -1,0 +1,36 @@
+id:
+  - name: Bodianus dictynna
+    common: Redfin Hogfish
+    by:
+      - minivet
+      - maractwin
+    ref:
+      inaturalist: 95820
+datetime: '2018-08-18T02:51:00+02:00'
+latitude: -8.521241
+longitude: 119.642056
+location_name: 'Komodo, Komodo, ID-NT-MB, ID-NT, ID'
+accuracy: 122
+tags:
+  - animals~chordates~ray-finned_fishes~perch-like_fishes~wrasses
+photos:
+  - source: iNaturalist
+    id: '58465670'
+    width: 1810
+    height: 1255
+    thumbnail_url: 'https://static.inaturalist.org/photos/58465670/medium.jpeg?1577262782'
+    original_url: 'https://static.inaturalist.org/photos/58465670/original.jpeg?1577262782'
+    license: CC BY-NC
+    attribution: Franco Colnago
+    href: 'https://www.inaturalist.org/photos/58465670'
+license: CC BY 4.0
+created_at: '2019-12-25T09:37:03+01:00'
+updated_at: '2019-12-25T18:16:24+01:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/36934987'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Bodianus_dictynna'
+description: 'Bodianus dictynna, is a species of wrasse native to tropical and warm temperate waters of the Western Pacific.'
+collections:
+  - southeast_asia_marine_id_guide

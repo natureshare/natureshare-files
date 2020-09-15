@@ -1,0 +1,37 @@
+id:
+  - name: Phyllidia varicosa
+    common: Varicose Wart Slug
+    by:
+      - danvaughan
+      - teeuwisse
+      - hsini_lin
+    ref:
+      inaturalist: 49735
+datetime: '2018-09-10T13:00:00+10:00'
+latitude: -8.804616
+longitude: 119.67326
+location_name: Yellow Wall
+accuracy: 15
+tags:
+  - animals~molluscs~gastropods~nudibranchs~phyllidiid_nudibranchs
+photos:
+  - source: iNaturalist
+    id: '26675845'
+    width: 2048
+    height: 2048
+    thumbnail_url: 'https://static.inaturalist.org/photos/26675845/medium.jpeg?1539592406'
+    original_url: 'https://static.inaturalist.org/photos/26675845/original.jpeg?1539592406'
+    license: CC BY-NC-ND
+    attribution: Dan Vaughan
+    href: 'https://www.inaturalist.org/photos/26675845'
+license: CC BY 4.0
+created_at: '2018-10-15T18:54:54+10:00'
+updated_at: '2019-12-11T23:32:24+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/17526907'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Phyllidia_varicosa'
+description: 'Phyllidia varicosa is a species of sea slug, a dorid nudibranch, a shell-less marine gastropod mollusc in the family Phyllidiidae.'
+collections:
+  - southeast_asia_marine_id_guide

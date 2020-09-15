@@ -1,0 +1,37 @@
+id:
+  - name: Taeniurops meyeni
+    common: Blotched Fantail Ray
+    by:
+      - clinton
+      - diegoalmendras
+      - eyrezer
+    ref:
+      inaturalist: 188852
+datetime: '2016-08-15T11:11:00+12:00'
+latitude: -8.713172
+longitude: 119.429942
+location_name: 'Nusa Tenggara Timur, ID'
+accuracy: 31271
+tags:
+  - animals~chordates~elasmobranchs~stingrays~whiptail_stingrays
+photos:
+  - source: iNaturalist
+    id: '78390063'
+    width: 960
+    height: 720
+    thumbnail_url: 'https://static.inaturalist.org/photos/78390063/medium.jpg?1592003643'
+    original_url: 'https://static.inaturalist.org/photos/78390063/original.jpg?1592003643'
+    license: CC BY
+    attribution: eyrezer
+    href: 'https://www.inaturalist.org/photos/78390063'
+license: CC BY 4.0
+created_at: '2020-06-13T11:27:43+12:00'
+updated_at: '2020-06-13T17:53:31+12:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/49382522'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Round_ribbontail_ray'
+description: "The round ribbontail ray (Taeniura meyeni) is a species of stingray in the family Dasyatidae, found throughout the nearshore waters of the tropical Indo-Pacific, as well as off islands in the eastern Pacific. It is a bottom-dwelling inhabitant of lagoons, estuaries, and reefs, generally at a depth of 20–60\_m (66–197\_ft). Reaching 1.8\_m (5.9\_ft) across, this large ray is characterized by a thick, rounded pectoral fin disc covered by small tubercles on top, and a relatively short..."
+collections:
+  - southeast_asia_marine_id_guide

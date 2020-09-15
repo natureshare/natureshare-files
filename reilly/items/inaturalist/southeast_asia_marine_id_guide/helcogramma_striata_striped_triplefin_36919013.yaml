@@ -1,0 +1,36 @@
+id:
+  - name: Helcogramma striata
+    common: Striped Triplefin
+    by:
+      - minivet
+      - maractwin
+    ref:
+      inaturalist: 102353
+datetime: '2018-08-17T02:46:00+02:00'
+latitude: -8.587531
+longitude: 119.681768
+location_name: 'Komodo, Komodo, ID-NT-MB, ID-NT, ID'
+accuracy: 524
+tags:
+  - animals~chordates~ray-finned_fishes~perch-like_fishes~triplefins
+photos:
+  - source: iNaturalist
+    id: '58437487'
+    width: 1211
+    height: 1284
+    thumbnail_url: 'https://static.inaturalist.org/photos/58437487/medium.jpeg?1577211038'
+    original_url: 'https://static.inaturalist.org/photos/58437487/original.jpeg?1577211038'
+    license: CC BY-NC
+    attribution: Franco Colnago
+    href: 'https://www.inaturalist.org/photos/58437487'
+license: CC BY 4.0
+created_at: '2019-12-24T19:15:17+01:00'
+updated_at: '2019-12-25T04:21:00+01:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/36919013'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Tropical_striped_triplefin'
+description: 'Helcogramma striatum, commonly called the tropical striped triplefin, the striped threefin or the neon triplefin, is a triplefin blenny of the genus Helcogramma, native from the central Indo-Pacific.'
+collections:
+  - southeast_asia_marine_id_guide

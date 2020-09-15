@@ -1,0 +1,35 @@
+id:
+  - name: Aulostomus chinensis
+    common: Pacific Trumpetfish
+    by:
+      - maractwin
+      - mtank
+    ref:
+      inaturalist: 47239
+datetime: '2015-08-24T11:32:27-04:00'
+latitude: -8.429283
+longitude: 119.56545
+location_name: 'Manggarai, Nusa Tenggara Timur, Indonesia'
+tags:
+  - animals~chordates~ray-finned_fishes~pipefishes_and_allies~trumpetfishes
+photos:
+  - source: iNaturalist
+    id: '2434060'
+    width: 1389
+    height: 925
+    thumbnail_url: 'https://static.inaturalist.org/photos/2434060/medium.jpg?1443268446'
+    original_url: 'https://static.inaturalist.org/photos/2434060/original.jpg?1443268446'
+    license: CC BY-NC-SA
+    attribution: Mark Rosenstein
+    href: 'https://www.inaturalist.org/photos/2434060'
+license: CC BY 4.0
+created_at: '2015-09-26T07:53:58-04:00'
+updated_at: '2019-06-05T08:33:11-04:00'
+source:
+  - name: iNaturalist
+    href: 'http://www.inaturalist.org/observations/2000714'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Chinese_trumpetfish'
+description: 'The Chinese trumpetfish, Aulostomus chinensis, is a demersal marine fish belonging to the family Aulostomidae.'
+collections:
+  - southeast_asia_marine_id_guide

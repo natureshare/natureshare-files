@@ -1,0 +1,44 @@
+id:
+  - name: Phyllidiella nigra
+    by:
+      - sascha_schulz
+      - budak
+    ref:
+      inaturalist: 50552
+datetime: '2015-06-20T08:10:00+08:00'
+latitude: 1.210556
+longitude: 103.740556
+location_name: 'Terumbu Bemban, Singapore'
+accuracy: 2169
+tags:
+  - animals~molluscs~gastropods~nudibranchs~phyllidiid_nudibranchs
+photos:
+  - source: iNaturalist
+    id: '12157873'
+    width: 1300
+    height: 867
+    thumbnail_url: 'https://static.inaturalist.org/photos/12157873/medium.jpg?1512211485'
+    original_url: 'https://static.inaturalist.org/photos/12157873/original.jpg?1512211485'
+    license: CC BY-NC
+    attribution: budak
+    href: 'https://www.inaturalist.org/photos/12157873'
+  - source: iNaturalist
+    id: '12157874'
+    width: 1200
+    height: 800
+    thumbnail_url: 'https://static.inaturalist.org/photos/12157874/medium.jpg?1512211489'
+    original_url: 'https://static.inaturalist.org/photos/12157874/original.jpg?1512211489'
+    license: CC BY-NC
+    attribution: budak
+    href: 'https://www.inaturalist.org/photos/12157874'
+license: CC BY 4.0
+created_at: '2017-12-02T18:57:06+08:00'
+updated_at: '2017-12-03T20:38:24+08:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/9016211'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Phyllidiella_nigra'
+description: 'Phyllidiella nigra is a species of sea slug, a dorid nudibranch, a shell-less marine gastropod mollusk in the family Phyllidiidae.'
+collections:
+  - southeast_asia_marine_id_guide

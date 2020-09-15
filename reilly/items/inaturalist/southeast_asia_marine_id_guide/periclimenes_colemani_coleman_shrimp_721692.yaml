@@ -1,0 +1,35 @@
+id:
+  - name: Periclimenes colemani
+    common: Coleman shrimp
+    by:
+      - maractwin
+      - kimberlylrandal
+    ref:
+      inaturalist: 50927
+datetime: '2014-05-20T23:55:10-04:00'
+latitude: -8.780953
+longitude: 119.65155
+location_name: 'Manggarai, Nusa Tenggara Timur, Indonesia'
+tags:
+  - animals~arthropods~malacostracans~decapods~palaemonid_shrimps
+photos:
+  - source: iNaturalist
+    id: '907199'
+    width: 1600
+    height: 1067
+    thumbnail_url: 'https://static.inaturalist.org/photos/907199/medium.jpg?1402147616'
+    original_url: 'https://static.inaturalist.org/photos/907199/original.jpg?1402147616'
+    license: CC BY-NC-SA
+    attribution: Mark Rosenstein
+    href: 'https://www.inaturalist.org/photos/907199'
+license: CC BY 4.0
+created_at: '2014-06-07T09:26:37-04:00'
+updated_at: '2017-04-19T00:41:15-04:00'
+source:
+  - name: iNaturalist
+    href: 'http://www.inaturalist.org/observations/721692'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Periclimenes_colemani'
+description: Periclimenes colemani is a species of saltwater shrimp found in the Indo-Pacific Ocean that was first described in 1975.
+collections:
+  - southeast_asia_marine_id_guide

@@ -1,0 +1,38 @@
+id:
+  - name: Triaenodon obesus
+    common: Whitetip Reef Shark
+    by:
+      - blackdogto
+      - chewitt1
+      - djscho
+      - tim_wilms
+      - alfonsustoribio
+    ref:
+      inaturalist: 52314
+datetime: '2019-05-11T10:18:00+08:00'
+latitude: -8.53736
+longitude: 119.613724
+location_name: 'Komodo, Komodo, Manggarai Barat, Nusa Tenggara Timur, Indonesia'
+tags:
+  - animals~chordates~elasmobranchs~ground_sharks~requiem_sharks
+photos:
+  - source: iNaturalist
+    id: '86489263'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://static.inaturalist.org/photos/86489263/medium.jpg?1595735661'
+    original_url: 'https://static.inaturalist.org/photos/86489263/original.jpg?1595735661'
+    license: CC BY-NC
+    attribution: blackdogto
+    href: 'https://www.inaturalist.org/photos/86489263'
+license: CC BY 4.0
+created_at: '2020-07-26T11:54:27+08:00'
+updated_at: '2020-08-19T15:35:26+08:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/54356906'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Whitetip_reef_shark'
+description: "The whitetip reef shark (Triaenodon obesus) is a species of requiem shark, in the family Carcharhinidae, and the only member of its genus. A small shark usually not exceeding 1.6\_m (5.2\_ft) in length, this species is easily recognizable by its slender body and short but broad head, as well as tubular skin flaps beside the nostrils, oval eyes with vertical pupils, and white-tipped dorsal and caudal fins. One of the most common sharks found on Indo-Pacific..."
+collections:
+  - southeast_asia_marine_id_guide

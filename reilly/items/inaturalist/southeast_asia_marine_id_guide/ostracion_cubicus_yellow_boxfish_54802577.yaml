@@ -1,0 +1,37 @@
+id:
+  - name: Ostracion cubicus
+    common: Yellow Boxfish
+    by:
+      - lcolmer
+      - mtank
+      - tim_wilms
+    ref:
+      inaturalist: 49378
+datetime: '2017-06-20T16:06:00+12:00'
+latitude: -8.532521
+longitude: 119.61357
+location_name: 'Komodo, Komodo, ID-NT-MB, ID-NT, ID'
+accuracy: 1054
+tags:
+  - animals~chordates~ray-finned_fishes~puffers_and_filefishes~boxfishes
+photos:
+  - source: iNaturalist
+    id: '87217754'
+    width: 2048
+    height: 1365
+    thumbnail_url: 'https://static.inaturalist.org/photos/87217754/medium.jpg?1596074149'
+    original_url: 'https://static.inaturalist.org/photos/87217754/original.jpg?1596074149'
+    license: CC BY-NC
+    attribution: lcolmer
+    href: 'https://www.inaturalist.org/photos/87217754'
+license: CC BY 4.0
+created_at: '2020-07-30T14:21:51+12:00'
+updated_at: '2020-07-30T19:11:09+12:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/54802577'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Yellow_boxfish'
+description: "The yellow boxfish (Ostracion cubicus) is a species of boxfish. It can be found in reefs throughout the Pacific Ocean and Indian Ocean as well as the south eastern Atlantic Ocean. It reaches a maximum length of 45 centimetres (18\_in)."
+collections:
+  - southeast_asia_marine_id_guide

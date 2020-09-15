@@ -1,0 +1,35 @@
+id:
+  - name: Labroides dimidiatus
+    common: Bluestreak Cleaner Wrasse
+    by:
+      - orobourical
+      - michalsloviak
+    ref:
+      inaturalist: 103901
+datetime: '2016-04-10T11:18:00-07:00'
+latitude: -8.5583
+longitude: 119.63378
+location_name: Mawan Dive
+tags:
+  - animals~chordates~ray-finned_fishes~perch-like_fishes~wrasses
+photos:
+  - source: iNaturalist
+    id: '89698348'
+    width: 1591
+    height: 1193
+    thumbnail_url: 'https://static.inaturalist.org/photos/89698348/medium.jpeg?1597292568'
+    original_url: 'https://static.inaturalist.org/photos/89698348/original.jpeg?1597292568'
+    license: CC BY-NC
+    attribution: orobourical
+    href: 'https://www.inaturalist.org/photos/89698348'
+license: CC BY 4.0
+created_at: '2020-08-12T21:38:01-07:00'
+updated_at: '2020-08-13T02:54:58-07:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/56292877'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Bluestreak_cleaner_wrasse'
+description: 'The bluestreak cleaner wrasse, Labroides dimidiatus, is one of several species of cleaner wrasses found on coral reefs from Eastern Africa and the Red Sea to French Polynesia. Like other cleaner wrasses, it eats parasites and dead tissue off larger fishes'' skin in a mutualistic relationship that provides food and protection for the wrasse, and considerable health benefits for the other fishes.'
+collections:
+  - southeast_asia_marine_id_guide

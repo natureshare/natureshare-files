@@ -1,0 +1,36 @@
+id:
+  - name: Gymnothorax javanicus
+    common: Giant Moray
+    by:
+      - orobourical
+      - tim_wilms
+      - maractwin
+    ref:
+      inaturalist: 121000
+datetime: '2019-05-02T13:12:00-07:00'
+latitude: -8.536569
+longitude: 119.613981
+location_name: Batu Bolong dive site
+tags:
+  - animals~chordates~ray-finned_fishes~true_eels~morays
+photos:
+  - source: iNaturalist
+    id: '88319866'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/88319866/medium.jpeg?1596603542'
+    original_url: 'https://static.inaturalist.org/photos/88319866/original.jpeg?1596603542'
+    license: CC BY-NC
+    attribution: orobourical
+    href: 'https://www.inaturalist.org/photos/88319866'
+license: CC BY 4.0
+created_at: '2020-08-04T22:00:05-07:00'
+updated_at: '2020-08-10T08:53:39-07:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/55463599'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Giant_moray'
+description: 'The giant moray (Gymnothorax javanicus) is a species of moray eel and a species of marine fish in the family Muraenidae. In terms of body mass, it is the largest moray eel (the slender giant moray is longer).'
+collections:
+  - southeast_asia_marine_id_guide

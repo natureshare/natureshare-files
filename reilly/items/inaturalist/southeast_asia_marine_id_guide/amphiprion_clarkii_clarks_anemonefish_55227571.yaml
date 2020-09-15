@@ -1,0 +1,36 @@
+id:
+  - name: Amphiprion clarkii
+    common: Clark's Anemonefish
+    by:
+      - orobourical
+      - maractwin
+      - joe_fish
+    ref:
+      inaturalist: 136345
+datetime: '2016-04-10T11:30:00-07:00'
+latitude: -8.5583
+longitude: 119.63378
+location_name: Mawan Dive
+tags:
+  - animals~chordates~ray-finned_fishes~perch-like_fishes~damselfishes_and_anemonefishes
+photos:
+  - source: iNaturalist
+    id: '87924031'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/87924031/medium.jpeg?1596414763'
+    original_url: 'https://static.inaturalist.org/photos/87924031/original.jpeg?1596414763'
+    license: CC BY-NC
+    attribution: orobourical
+    href: 'https://www.inaturalist.org/photos/87924031'
+license: CC BY 4.0
+created_at: '2020-08-02T17:36:14-07:00'
+updated_at: '2020-08-02T21:53:40-07:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/55227571'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Clark''s_anemonefish'
+description: 'Amphiprion clarkii, known commonly as Clark''s anemonefish and yellowtail clownfish, is a marine fish belonging to the family Pomacentridae, the clownfishes and damselfishes.'
+collections:
+  - southeast_asia_marine_id_guide

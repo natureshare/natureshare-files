@@ -1,0 +1,35 @@
+id:
+  - name: Panulirus versicolor
+    common: Painted Spiny Lobster
+    by:
+      - maractwin
+      - naufalurfi
+    ref:
+      inaturalist: 108371
+datetime: '2014-05-26T04:20:19-04:00'
+latitude: -8.431555
+longitude: 119.460892
+location_name: 'Manggarai, Nusa Tenggara Timur, Indonesia'
+tags:
+  - animals~arthropods~malacostracans~decapods~spiny_lobsters
+photos:
+  - source: iNaturalist
+    id: '926580'
+    width: 1600
+    height: 1067
+    thumbnail_url: 'https://static.inaturalist.org/photos/926580/medium.jpg?1402799370'
+    original_url: 'https://static.inaturalist.org/photos/926580/original.jpg?1402799370'
+    license: CC BY-NC-SA
+    attribution: Mark Rosenstein
+    href: 'https://www.inaturalist.org/photos/926580'
+license: CC BY 4.0
+created_at: '2014-06-14T22:29:20-04:00'
+updated_at: '2019-12-21T03:17:04-05:00'
+source:
+  - name: iNaturalist
+    href: 'http://www.inaturalist.org/observations/737218'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Panulirus_versicolor'
+description: 'Panulirus versicolor is a species of spiny lobster that lives in tropical reefs. Other names include painted rock lobster, common rock lobster, bamboo lobster, blue lobster, and blue spiny lobster. P. versicolor is one of the three most common varieties of spiny lobster in Sri Lanka, alongside Panulirus homarus and Panulirus ornatus.'
+collections:
+  - southeast_asia_marine_id_guide

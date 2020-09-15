@@ -1,0 +1,37 @@
+id:
+  - name: Wunderpus photogenicus
+    common: Wonderpus
+    by:
+      - minivet
+      - bobby23
+      - djscho
+    ref:
+      inaturalist: 126091
+datetime: '2018-08-17T07:06:00+02:00'
+latitude: -8.633939
+longitude: 119.707519
+location_name: 'Komodo, Komodo, ID-NT-MB, ID-NT, ID'
+accuracy: 244
+tags:
+  - animals~molluscs~cephalopods~octopuses~typical_octopuses
+photos:
+  - source: iNaturalist
+    id: '58464522'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/58464522/medium.jpeg?1577258970'
+    original_url: 'https://static.inaturalist.org/photos/58464522/original.jpeg?1577258970'
+    license: CC BY-NC
+    attribution: Franco Colnago
+    href: 'https://www.inaturalist.org/photos/58464522'
+license: CC BY 4.0
+created_at: '2019-12-25T08:36:45+01:00'
+updated_at: '2019-12-26T10:54:00+01:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/36934351'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Wunderpus_photogenicus'
+description: 'The wonderpus octopus (Wunderpus photogenicus) is a species of octopus in the monotypic genus Wunderpus. It is found in shallow waters from Bali and Sulawesi north to the Philippines and east to Vanuatu. W. photogenicus is a long-armed species characterised by "small eyes on elongate stalks, a long, conical papilla over each eye and a dramatic and fixed colour pattern of white bars and spots over a brown-red background."'
+collections:
+  - southeast_asia_marine_id_guide

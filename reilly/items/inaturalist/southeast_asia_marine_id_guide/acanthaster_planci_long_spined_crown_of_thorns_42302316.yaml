@@ -1,0 +1,55 @@
+id:
+  - name: Acanthaster planci
+    common: Long-spined Crown-of-Thorns
+    by:
+      - ciccarello_gf
+      - gvncrl
+      - cccrll
+    ref:
+      inaturalist: 50915
+datetime: '2018-07-19T10:53:00+02:00'
+latitude: -8.571749
+longitude: 119.753825
+location_name: 'Flores, Indonesia'
+accuracy: 4
+description: 'The crown-of-thorns starfish, Acanthaster planci, is a large, multiple-armed starfish that usually preys upon hard, or stony, coral polyps (Scleractinia). The crown-of-thorns starfish receives its name from venomous thorn-like spines that cover its upper surface, resembling the biblical crown of thorns. It is one of the largest starfish in the world.'
+tags:
+  - animals~echinoderms~sea_stars~valvatidan_sea_stars~crown-of-thorns_sea_stars
+photos:
+  - source: iNaturalist
+    id: '67159606'
+    width: 640
+    height: 480
+    thumbnail_url: 'https://static.inaturalist.org/photos/67159606/medium.jpeg?1587028545'
+    original_url: 'https://static.inaturalist.org/photos/67159606/original.jpeg?1587028545'
+    license: CC BY-NC
+    attribution: Ciccarello GF
+    href: 'https://www.inaturalist.org/photos/67159606'
+  - source: iNaturalist
+    id: '67159630'
+    width: 640
+    height: 480
+    thumbnail_url: 'https://static.inaturalist.org/photos/67159630/medium.jpeg?1587028562'
+    original_url: 'https://static.inaturalist.org/photos/67159630/original.jpeg?1587028562'
+    license: CC BY-NC
+    attribution: Ciccarello GF
+    href: 'https://www.inaturalist.org/photos/67159630'
+  - source: iNaturalist
+    id: '67159598'
+    width: 480
+    height: 640
+    thumbnail_url: 'https://static.inaturalist.org/photos/67159598/medium.jpeg?1587028537'
+    original_url: 'https://static.inaturalist.org/photos/67159598/original.jpeg?1587028537'
+    license: CC BY-NC
+    attribution: Ciccarello GF
+    href: 'https://www.inaturalist.org/photos/67159598'
+license: CC BY 4.0
+created_at: '2020-04-16T12:25:35+02:00'
+updated_at: '2020-04-29T15:14:01+02:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/42302316'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Crown-of-thorns_starfish'
+collections:
+  - southeast_asia_marine_id_guide

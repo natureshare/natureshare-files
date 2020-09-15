@@ -1,0 +1,37 @@
+id:
+  - name: Canthigaster compressa
+    common: Fingerprint Toby
+    by:
+      - albertkang
+      - maractwin
+      - alfonsustoribio
+    ref:
+      inaturalist: 196943
+datetime: '2019-08-10T19:07:00+08:00'
+latitude: -8.793179
+longitude: 119.601795
+location_name: 'Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Tim., Indonesia'
+accuracy: 977
+tags:
+  - animals~chordates~ray-finned_fishes~puffers_and_filefishes~pufferfishes
+photos:
+  - source: iNaturalist
+    id: '81159050'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/81159050/medium.jpeg?1593265548'
+    original_url: 'https://static.inaturalist.org/photos/81159050/original.jpeg?1593265548'
+    license: CC BY-NC
+    attribution: Albert Kang
+    href: 'https://www.inaturalist.org/photos/81159050'
+license: CC BY 4.0
+created_at: '2020-06-27T21:45:52+08:00'
+updated_at: '2020-07-01T02:37:05+08:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/51091340'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Canthigaster_compressa'
+description: 'Canthigaster compressa, also known as the compressed toby or fingerprint toby, is a demersal Marine fish belonging to the family Tetraodontidae.'
+collections:
+  - southeast_asia_marine_id_guide

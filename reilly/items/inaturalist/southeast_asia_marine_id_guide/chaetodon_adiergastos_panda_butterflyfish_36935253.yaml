@@ -1,0 +1,38 @@
+id:
+  - name: Chaetodon adiergastos
+    common: Panda Butterflyfish
+    by:
+      - minivet
+      - phelsumas4life
+      - maractwin
+      - tim_wilms
+    ref:
+      inaturalist: 97139
+datetime: '2018-08-19T04:01:00+02:00'
+latitude: -8.540921
+longitude: 119.646823
+location_name: 'Komodo, Komodo, ID-NT-MB, ID-NT, ID'
+accuracy: 244
+tags:
+  - animals~chordates~ray-finned_fishes~perch-like_fishes~butterflyfishes
+photos:
+  - source: iNaturalist
+    id: '58466203'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/58466203/medium.jpeg?1577264867'
+    original_url: 'https://static.inaturalist.org/photos/58466203/original.jpeg?1577264867'
+    license: CC BY-NC
+    attribution: Franco Colnago
+    href: 'https://www.inaturalist.org/photos/58466203'
+license: CC BY 4.0
+created_at: '2019-12-25T10:09:24+01:00'
+updated_at: '2019-12-26T17:16:55+01:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/36935253'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Philippine_butterflyfish'
+description: 'The Philippine butterflyfish, Chaetodon adiergastos, is a species of butterflyfish (family Chaetodontidae). It is found in the western Pacific, from the Ryukyu Islands and Taiwan to Java and northwestern Australia.'
+collections:
+  - southeast_asia_marine_id_guide

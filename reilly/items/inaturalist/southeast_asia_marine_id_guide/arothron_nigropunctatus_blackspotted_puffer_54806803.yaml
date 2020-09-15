@@ -1,0 +1,37 @@
+id:
+  - name: Arothron nigropunctatus
+    common: Blackspotted Puffer
+    by:
+      - lcolmer
+      - phelsumas4life
+      - tim_wilms
+    ref:
+      inaturalist: 119385
+datetime: '2017-06-21T17:13:00+12:00'
+latitude: -8.563188
+longitude: 119.600086
+location_name: 'Komodo, Komodo, ID-NT-MB, ID-NT, ID'
+accuracy: 176
+description: 'The blackspotted puffer (Arothron nigropunctatus), also known as the dog-faced puffer, is a tropical marine fish belonging to the family Tetraodontidae.'
+tags:
+  - animals~chordates~ray-finned_fishes~puffers_and_filefishes~pufferfishes
+photos:
+  - source: iNaturalist
+    id: '87226595'
+    width: 2048
+    height: 1366
+    thumbnail_url: 'https://static.inaturalist.org/photos/87226595/medium.jpg?1596078246'
+    original_url: 'https://static.inaturalist.org/photos/87226595/original.jpg?1596078246'
+    license: CC BY-NC
+    attribution: lcolmer
+    href: 'https://www.inaturalist.org/photos/87226595'
+license: CC BY 4.0
+created_at: '2020-07-30T15:18:11+12:00'
+updated_at: '2020-07-30T19:17:04+12:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/54806803'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Blackspotted_puffer'
+collections:
+  - southeast_asia_marine_id_guide

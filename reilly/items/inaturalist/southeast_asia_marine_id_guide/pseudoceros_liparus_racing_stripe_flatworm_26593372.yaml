@@ -1,0 +1,35 @@
+id:
+  - name: Pseudoceros liparus
+    common: Racing Stripe Flatworm
+    by:
+      - djscho
+      - jbecky
+      - naufalurfi
+      - divinh
+    ref:
+      inaturalist: 938122
+latitude: -8.602566
+longitude: 119.538927
+location_name: 'Komodo, Komodo, ID-NT-MB, ID-NT, ID'
+accuracy: 211
+tags:
+  - animals~flatworms~other~polyclad_flatworms~pseudocerotidae
+photos:
+  - source: iNaturalist
+    id: '41305037'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/41305037/medium.jpeg?1559976371'
+    original_url: 'https://static.inaturalist.org/photos/41305037/original.jpeg?1559976371'
+    license: CC BY-NC
+    attribution: Vinh Le
+    href: 'https://www.inaturalist.org/photos/41305037'
+license: CC BY 4.0
+created_at: '2019-06-08T06:47:16+00:00'
+updated_at: '2020-03-26T06:34:55+00:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/26593372'
+description: '-'
+collections:
+  - southeast_asia_marine_id_guide

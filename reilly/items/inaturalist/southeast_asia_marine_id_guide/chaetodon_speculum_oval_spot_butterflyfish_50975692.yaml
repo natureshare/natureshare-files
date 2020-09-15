@@ -1,0 +1,37 @@
+id:
+  - name: Chaetodon speculum
+    common: Oval-spot butterflyfish
+    by:
+      - albertkang
+      - maractwin
+      - michalsloviak
+    ref:
+      inaturalist: 97201
+datetime: '2019-08-07T11:54:00+08:00'
+latitude: -8.50408
+longitude: 119.577757
+location_name: 'Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Tim., Indonesia'
+accuracy: 977
+tags:
+  - animals~chordates~ray-finned_fishes~perch-like_fishes~butterflyfishes
+photos:
+  - source: iNaturalist
+    id: '80971765'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/80971765/medium.jpeg?1593171446'
+    original_url: 'https://static.inaturalist.org/photos/80971765/original.jpeg?1593171446'
+    license: CC BY-NC
+    attribution: Albert Kang
+    href: 'https://www.inaturalist.org/photos/80971765'
+license: CC BY 4.0
+created_at: '2020-06-26T19:38:26+08:00'
+updated_at: '2020-06-29T04:31:21+08:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/50975692'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Mirror_butterflyfish'
+description: 'The Mirror Butterflyfish, Chaetodon speculum, is a species of butterflyfish (family Chaetodontidae). It is found in the Indo-Pacific region from Indonesia to Japan and south to the Great Barrier Reef and Papua New Guinea. The species has also been reported from Madagascar, Mauritius and Réunion.'
+collections:
+  - southeast_asia_marine_id_guide

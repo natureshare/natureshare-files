@@ -1,0 +1,36 @@
+id:
+  - name: Ceratosoma tenue
+    common: Many-lobed Ceratosoma
+    by:
+      - erwinkoehler
+      - minivet
+    ref:
+      inaturalist: 120937
+datetime: '2018-08-17T07:30:00+02:00'
+latitude: -8.631496
+longitude: 119.708186
+location_name: 'Komodo, Komodo, ID-NT-MB, ID-NT, ID'
+accuracy: 61
+tags:
+  - animals~molluscs~gastropods~nudibranchs~chromodorids
+photos:
+  - source: iNaturalist
+    id: '58465315'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/58465315/medium.jpeg?1577261738'
+    original_url: 'https://static.inaturalist.org/photos/58465315/original.jpeg?1577261738'
+    license: CC BY-NC
+    attribution: Franco Colnago
+    href: 'https://www.inaturalist.org/photos/58465315'
+license: CC BY 4.0
+created_at: '2019-12-25T09:16:33+01:00'
+updated_at: '2020-03-21T04:20:04+01:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/36934758'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Ceratosoma_tenue'
+description: 'Ceratosoma tenue is a species of colorful dorid nudibranch, a sea slug, a shell-less marine gastropod mollusk in the family Chromodorididae.'
+collections:
+  - southeast_asia_marine_id_guide

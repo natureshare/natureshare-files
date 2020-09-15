@@ -1,0 +1,35 @@
+id:
+  - name: Heteroconger hassi
+    common: Spotted Garden Eel
+    by:
+      - maractwin
+      - pmk00001
+    ref:
+      inaturalist: 153191
+datetime: '2015-08-24T17:54:55-04:00'
+latitude: -8.4756
+longitude: 119.556533
+location_name: 'Komodo, Komodo, Manggarai, Nusa Tenggara Timur, Indonesia'
+tags:
+  - animals~chordates~ray-finned_fishes~true_eels~congers_and_garden_eels
+photos:
+  - source: iNaturalist
+    id: '2438925'
+    width: 1600
+    height: 1068
+    thumbnail_url: 'https://static.inaturalist.org/photos/2438925/medium.jpg?1443330627'
+    original_url: 'https://static.inaturalist.org/photos/2438925/original.jpg?1443330627'
+    license: CC BY-NC-SA
+    attribution: Mark Rosenstein
+    href: 'https://www.inaturalist.org/photos/2438925'
+license: CC BY 4.0
+created_at: '2015-09-27T01:10:24-04:00'
+updated_at: '2017-06-03T15:58:42-04:00'
+source:
+  - name: iNaturalist
+    href: 'http://www.inaturalist.org/observations/2004243'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Spotted_garden_eel'
+description: The spotted garden eel (Heteroconger hassi) is a heteroconger belonging to the family Congridae. It is native to the Indo-Pacific.
+collections:
+  - southeast_asia_marine_id_guide

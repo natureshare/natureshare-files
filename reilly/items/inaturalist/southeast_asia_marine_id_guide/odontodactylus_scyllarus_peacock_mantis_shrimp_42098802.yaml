@@ -1,0 +1,36 @@
+id:
+  - name: Odontodactylus scyllarus
+    common: Peacock Mantis Shrimp
+    by:
+      - zahnerphoto
+      - tracc
+    ref:
+      inaturalist: 119395
+datetime: '2012-08-26T02:57:00-04:00'
+latitude: 4.208134
+longitude: 118.647683
+location_name: 'Mabul Island, Sabah, Malaysia'
+accuracy: 12867
+tags:
+  - animals~arthropods~malacostracans~mantis_shrimps~odontodactylid_mantis_shrimps
+photos:
+  - source: iNaturalist
+    id: '66820798'
+    width: 1000
+    height: 667
+    thumbnail_url: 'https://static.inaturalist.org/photos/66820798/medium.jpg?1586796033'
+    original_url: 'https://static.inaturalist.org/photos/66820798/original.jpg?1586796033'
+    license: CC BY-NC
+    attribution: terence zahner
+    href: 'https://www.inaturalist.org/photos/66820798'
+license: CC BY 4.0
+created_at: '2020-04-13T12:42:06-04:00'
+updated_at: '2020-04-17T10:16:39-04:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/42098802'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Odontodactylus_scyllarus'
+description: 'Odontodactylus scyllarus, known as the peacock mantis shrimp, harlequin mantis shrimp, painted mantis shrimp, or clown mantis shrimp, is a large mantis shrimp native to the Indo-Pacific from Guam to East Africa.'
+collections:
+  - southeast_asia_marine_id_guide

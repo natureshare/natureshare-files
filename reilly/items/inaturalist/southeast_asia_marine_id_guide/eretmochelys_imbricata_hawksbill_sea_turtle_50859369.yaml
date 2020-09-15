@@ -1,0 +1,38 @@
+id:
+  - name: Eretmochelys imbricata
+    common: Hawksbill Sea Turtle
+    by:
+      - albertkang
+      - rudyard
+      - zizou
+      - alfonsustoribio
+    ref:
+      inaturalist: 39672
+datetime: '2019-08-06T16:13:00+08:00'
+latitude: -8.749608
+longitude: 119.489431
+location_name: 'Nusa Tenggara Timur, ID'
+accuracy: 31271
+tags:
+  - animals~chordates~reptiles~turtles_and_tortoises~typical_sea_turtles
+photos:
+  - source: iNaturalist
+    id: '80781561'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/80781561/medium.jpg?1593066109'
+    original_url: 'https://static.inaturalist.org/photos/80781561/original.jpg?1593066109'
+    license: CC BY-NC
+    attribution: Albert Kang
+    href: 'https://www.inaturalist.org/photos/80781561'
+license: CC BY 4.0
+created_at: '2020-06-25T14:23:17+08:00'
+updated_at: '2020-06-28T10:17:46+08:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/50859369'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Hawksbill_sea_turtle'
+description: 'The hawksbill sea turtle (Eretmochelys imbricata) is a critically endangered sea turtle belonging to the family Cheloniidae. It is the only extant species in the genus Eretmochelys. The species has a worldwide distribution, with Atlantic and Indo-Pacific subspecies—E. i. imbricata and E. i. bissa, respectively.'
+collections:
+  - southeast_asia_marine_id_guide

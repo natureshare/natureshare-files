@@ -1,0 +1,37 @@
+id:
+  - name: Acreichthys tomentosus
+    common: Bristle-tail Leatherjacket
+    by:
+      - maractwin
+      - zizou
+      - ciccarello_gf
+    ref:
+      inaturalist: 338159
+datetime: '2018-07-19T15:54:00+02:00'
+latitude: -8.50134
+longitude: 119.599267
+location_name: 'Flores, Indonesia'
+accuracy: 2
+description: 'Acreichthys tomentosus, commonly known as the bristle-tail filefish, is a species of demersal marine fish which belongs to the family Monacanthidae widespread throughout the tropical waters of the Indo-west Pacific.'
+tags:
+  - animals~chordates~ray-finned_fishes~puffers_and_filefishes~filefishes
+photos:
+  - source: iNaturalist
+    id: '67157433'
+    width: 640
+    height: 480
+    thumbnail_url: 'https://static.inaturalist.org/photos/67157433/medium.jpeg?1587025932'
+    original_url: 'https://static.inaturalist.org/photos/67157433/original.jpeg?1587025932'
+    license: CC BY-NC
+    attribution: Ciccarello GF
+    href: 'https://www.inaturalist.org/photos/67157433'
+license: CC BY 4.0
+created_at: '2020-04-16T10:33:11+02:00'
+updated_at: '2020-04-16T15:59:57+02:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/42299454'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Acreichthys_tomentosus'
+collections:
+  - southeast_asia_marine_id_guide

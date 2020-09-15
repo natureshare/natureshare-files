@@ -1,0 +1,36 @@
+id:
+  - name: Plectorhinchus albovittatus
+    common: Giant Sweetlips
+    by:
+      - tim_wilms
+      - maractwin
+      - julianjimenez
+    ref:
+      inaturalist: 199248
+latitude: -8.481617
+longitude: 119.506465
+location_name: 'Nusa Tenggara Oriental, Indonesia'
+accuracy: 488
+tags:
+  - animals~chordates~ray-finned_fishes~perch-like_fishes~grunts
+photos:
+  - source: iNaturalist
+    id: '91742992'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://static.inaturalist.org/photos/91742992/medium.jpeg?1598326996'
+    original_url: 'https://static.inaturalist.org/photos/91742992/original.jpeg?1598326996'
+    license: CC BY-NC-ND
+    attribution: Julian Jimenez
+    href: 'https://www.inaturalist.org/photos/91742992'
+license: CC BY 4.0
+created_at: '2020-08-25T07:33:36+00:00'
+updated_at: '2020-08-25T13:09:58+00:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/57522193'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Plectorhinchus_albovittatus'
+description: "Plectorhinchus albovittatus, the two-striped sweetlips, is a species of grunt native to the Indian Ocean and the western Pacific Ocean. They occur in lagoons, reefs, or around seamounts. Juveniles live in turbid inshore and brackish waters. This species can reach 100\_cm (39\_in) SL. This species can be found in the aquarium trade."
+collections:
+  - southeast_asia_marine_id_guide

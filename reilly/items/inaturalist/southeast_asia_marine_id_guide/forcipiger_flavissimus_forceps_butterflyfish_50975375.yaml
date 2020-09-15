@@ -1,0 +1,38 @@
+id:
+  - name: Forcipiger flavissimus
+    common: Forceps Butterflyfish
+    by:
+      - albertkang
+      - maractwin
+      - ewoutknoester
+      - michalsloviak
+    ref:
+      inaturalist: 100990
+datetime: '2019-08-07T11:46:00+08:00'
+latitude: -8.512505
+longitude: 119.585996
+location_name: 'Komodo, Kabupaten Manggarai Barat, Nusa Tenggara Tim., Indonesia'
+accuracy: 1953
+tags:
+  - animals~chordates~ray-finned_fishes~perch-like_fishes~butterflyfishes
+photos:
+  - source: iNaturalist
+    id: '80971328'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://static.inaturalist.org/photos/80971328/medium.jpeg?1593171128'
+    original_url: 'https://static.inaturalist.org/photos/80971328/original.jpeg?1593171128'
+    license: CC BY-NC
+    attribution: Albert Kang
+    href: 'https://www.inaturalist.org/photos/80971328'
+license: CC BY 4.0
+created_at: '2020-06-26T19:32:49+08:00'
+updated_at: '2020-06-29T04:31:34+08:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/50975375'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Yellow_longnose_butterflyfish'
+description: 'The yellow longnose butterflyfish or forceps butterflyfish, Forcipiger flavissimus, is a species of marine fish in the family Chaetodontidae.'
+collections:
+  - southeast_asia_marine_id_guide

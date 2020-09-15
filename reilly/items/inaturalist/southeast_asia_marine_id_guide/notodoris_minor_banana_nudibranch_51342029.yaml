@@ -1,0 +1,36 @@
+id:
+  - name: Notodoris minor
+    common: Banana Nudibranch
+    by:
+      - mdebrauwer
+      - gbiscop
+    ref:
+      inaturalist: 504909
+datetime: '2010-06-29T13:23:00+08:00'
+latitude: -8.490689
+longitude: 119.596276
+location_name: 'Komodo, Komodo, ID-NT-MB, ID-NT, ID'
+accuracy: 977
+tags:
+  - animals~molluscs~gastropods~nudibranchs~aegiridae
+photos:
+  - source: iNaturalist
+    id: '81563458'
+    width: 1365
+    height: 1024
+    thumbnail_url: 'https://static.inaturalist.org/photos/81563458/medium.jpg?1593421295'
+    original_url: 'https://static.inaturalist.org/photos/81563458/original.jpg?1593421295'
+    license: CC BY-NC
+    attribution: Maarten De Brauwer
+    href: 'https://www.inaturalist.org/photos/81563458'
+license: CC BY 4.0
+created_at: '2020-06-29T17:06:06+08:00'
+updated_at: '2020-06-30T01:13:31+08:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/51342029'
+  - name: Wikipedia
+    href: 'http://en.wikipedia.org/wiki/Notodoris_minor'
+description: 'Notodoris minor is a species of sea slug. It is a dorid nudibranch, a shell-less marine gastropod mollusc in the family Aegiridae.'
+collections:
+  - southeast_asia_marine_id_guide

@@ -1,0 +1,36 @@
+id:
+  - name: Polycarpa aurata
+    common: Ink-pot Sea Squirt
+    by:
+      - francoisroche
+      - julianjimenez
+    ref:
+      inaturalist: 155047
+datetime: '2016-11-03T00:50:00+00:00'
+latitude: -8.478222
+longitude: 119.485179
+location_name: 'Nusa Tenggara Oriental, Indonesia'
+accuracy: 488
+tags:
+  - animals~chordates~sea_squirts~stolidobranchia~styelidae
+photos:
+  - source: iNaturalist
+    id: '91743351'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://static.inaturalist.org/photos/91743351/medium.jpeg?1598327216'
+    original_url: 'https://static.inaturalist.org/photos/91743351/original.jpeg?1598327216'
+    license: CC BY-NC-ND
+    attribution: Julian Jimenez
+    href: 'https://www.inaturalist.org/photos/91743351'
+license: CC BY 4.0
+created_at: '2020-08-25T07:33:37+00:00'
+updated_at: '2020-08-25T16:39:53+00:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/57522196'
+  - name: Wikipedia
+    href: 'https://en.wikipedia.org/wiki/Polycarpa_aurata'
+description: 'Polycarpa aurata, also known as the ox heart ascidian, the gold-mouth sea squirt  or the ink-spot sea squirt, is a species of tunicate in the family Styelidae.'
+collections:
+  - southeast_asia_marine_id_guide
