@@ -1,0 +1,43 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "juliem",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjuliem%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjuliem%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/juliem/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/juliem/items/ns/2017/59f96cbeed2a892d4000a435.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjuliem%2Fitems%2Fns%2F2017%2F59f96cbeed2a892d4000a435.yaml",
+   "title": "Todiramphus sanctus",
+   "content_text": "Briefly landed on a post near our dam.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59f96cfded2a8939840005a4.JPG",
+   "date_published": "2017-11-01T06:42:57.000+00:00",
+   "date_modified": "2017-11-01T11:25:23.000+00:00",
+   "tags": [
+    "id~Todiramphus sanctus",
+    "tag~bird-colourful",
+    "tag~kingfisher"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.694924,
+     -37.457589
+    ]
+   },
+   "_meta": {
+    "date": "2017-11-01",
+    "imageCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

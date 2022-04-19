@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.086052,
+     -38.082021
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/suzanne/collections/birds_seen_at_145_gibsons_road_cobains/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsuzanne%2Fcollections%2Fbirds_seen_at_145_gibsons_road_cobains%2Faggregate%2Findex.json",
+    "date": "2018-07-09",
+    "title": "suzanne",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b434181ed2a892807000042.JPG"
+   }
+  }
+ ]
+}

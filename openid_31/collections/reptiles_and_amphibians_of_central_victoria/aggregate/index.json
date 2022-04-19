@@ -1,0 +1,99 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Reptiles and Amphibians of Central Victoria.",
+ "description": "All reptiles and amphibians found in Central Victoria.",
+ "author": {
+  "name": "openid_31",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fcollections%2Freptiles_and_amphibians_of_central_victoria%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_31/collections/reptiles_and_amphibians_of_central_victoria/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e7e0.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e7e0.yaml",
+   "title": "Unidentified",
+   "content_text": "Brown tree frog (I think?)",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b8e.jpg",
+   "date_published": "2011-05-27T21:38:26.000+00:00",
+   "date_modified": "2011-05-27T21:40:38.000+00:00",
+   "tags": [
+    "id~Unidentified"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.596622,
+     -37.391364
+    ]
+   },
+   "_meta": {
+    "date": "2010-04-30",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_31",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e7de.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e7de.yaml",
+   "title": "Unidentified",
+   "content_text": "Southern Brown tree frog.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b8b.jpg",
+   "date_published": "2011-05-27T21:34:10.000+00:00",
+   "date_modified": "2011-05-27T21:37:02.000+00:00",
+   "tags": [
+    "id~Unidentified"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.596558,
+     -37.391519
+    ]
+   },
+   "_meta": {
+    "date": "2010-04-30",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_31",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e7db.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e7db.yaml",
+   "title": "Unidentified",
+   "content_text": "Brown tree frog ( I think?).",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b88.jpg",
+   "date_published": "2011-05-27T21:24:36.000+00:00",
+   "date_modified": "2011-05-27T21:26:52.000+00:00",
+   "tags": [
+    "id~Unidentified"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.595592,
+     -37.390952
+    ]
+   },
+   "_meta": {
+    "date": "2010-04-30",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_31",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": "<p>All reptiles and amphibians found in Central Victoria.</p>\n"
+ }
+}

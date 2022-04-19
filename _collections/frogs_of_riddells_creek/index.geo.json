@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.666767,
+     -37.447197
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/frogs_of_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Ffrogs_of_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2017-03-25",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58d6558ced2a89e548000099.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.661,
+     -37.456
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/collections/frogs_of_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Ffrogs_of_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2017-03-25",
+    "title": "jamesbooth",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58d6558ced2a89e548000099.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.684,
+     -37.446
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/william_hall/collections/frogs_of_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwilliam_hall%2Fcollections%2Ffrogs_of_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2012-12-24",
+    "title": "william_hall",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb129840137ae.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.668,
+     -37.44
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/psoralea/collections/frogs_of_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fcollections%2Ffrogs_of_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2011-03-12",
+    "title": "psoralea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb12984011786.jpg"
+   }
+  }
+ ]
+}

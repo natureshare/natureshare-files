@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.449,
+     -37.309
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/collections/reptiles_and_amphibians_of_upper_coliban_reservoir_area_south_kyneton/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fcollections%2Freptiles_and_amphibians_of_upper_coliban_reservoir_area_south_kyneton%2Faggregate%2Findex.json",
+    "date": "2019-06-26",
+    "title": "openid_31",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000012/2019-06-26/7df3166b_7f47_416b_bbe1_b6b85e894f9e.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.446,
+     -37.311
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/collections/reptiles_and_amphibians_of_upper_coliban_reservoir_area_south_kyneton/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fcollections%2Freptiles_and_amphibians_of_upper_coliban_reservoir_area_south_kyneton%2Faggregate%2Findex.json",
+    "date": "2019-06-26",
+    "title": "therebel2015",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000012/2019-06-26/7df3166b_7f47_416b_bbe1_b6b85e894f9e.jpeg"
+   }
+  }
+ ]
+}

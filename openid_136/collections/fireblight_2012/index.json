@@ -1,0 +1,43 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Fireblight 2012",
+ "description": "",
+ "author": {
+  "name": "openid_136",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_136%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_136%2Fcollections%2Ffireblight_2012%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_136/collections/fireblight_2012/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_136/items/ns/2012/53b39855e35eb1298400f915.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_136%2Fitems%2Fns%2F2012%2F53b39855e35eb1298400f915.yaml",
+   "title": "Peltoschema orphana",
+   "content_text": "-",
+   "date_published": "2012-09-20T21:43:15.000+00:00",
+   "date_modified": "2012-09-20T21:48:31.000+00:00",
+   "tags": [
+    "id~Peltoschema orphana"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.159264,
+     -37.517538
+    ]
+   },
+   "_meta": {
+    "date": "2012-09-19"
+   },
+   "author": {
+    "name": "openid_136",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_136%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

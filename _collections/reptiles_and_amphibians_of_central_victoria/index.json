@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Reptiles And Amphibians Of Central Victoria",
+ "description": "All users for [reptiles_and_amphibians_of_central_victoria]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Freptiles_and_amphibians_of_central_victoria%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/reptiles_and_amphibians_of_central_victoria/index.json",
+ "items": [
+  {
+   "title": "openid_31",
+   "content_text": "3 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b8e.jpg",
+   "date_published": "2011-05-27T21:38:26.000+00:00",
+   "date_modified": "2011-05-27T21:38:26.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.596,
+     -37.391
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2011-05-27",
+    "name": "reptiles_and_amphibians_of_central_victoria",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_31/collections/reptiles_and_amphibians_of_central_victoria/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fcollections%2Freptiles_and_amphibians_of_central_victoria%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

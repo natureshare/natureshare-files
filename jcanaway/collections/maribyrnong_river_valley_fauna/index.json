@@ -1,0 +1,101 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Maribyrnong River Valley Fauna",
+ "description": "",
+ "author": {
+  "name": "jcanaway",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjcanaway%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjcanaway%2Fcollections%2Fmaribyrnong_river_valley_fauna%2Findex.json",
+ "feed_url": "https://files.natureshare.org/jcanaway/collections/maribyrnong_river_valley_fauna/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/jcanaway/items/ns/2013/53b39856e35eb1298400fdd7.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjcanaway%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400fdd7.yaml",
+   "title": "Falcunculus frontatus",
+   "content_text": "Male (left) and female Crested Shrike-tit in suburban garden, Avondale Heights. Appear to be nesting nearby. Male gets aggressive and attacks its image in car side mirrors and windows.\nNB male has blacker throat - female olive green.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb129840138e7.jpg",
+   "date_published": "2013-01-14T17:56:02.000+00:00",
+   "date_modified": "2013-01-14T18:30:34.000+00:00",
+   "tags": [
+    "id~Falcunculus frontatus",
+    "tag~female",
+    "tag~male",
+    "tag~pair"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.855498,
+     -37.763421
+    ]
+   },
+   "_meta": {
+    "date": "2013-01-07",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "jcanaway",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjcanaway%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/jcanaway/items/ns/2011/53b39850e35eb1298400e80e.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjcanaway%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e80e.yaml",
+   "title": "Litoria raniformis",
+   "content_text": "Found dead in seasonal pool beside Maribyrnong River. ID not 100% guaranteed; back not as warty as usual but eyes also collapsed so may be due to dehydration/decay. Only other possible frog is Golden Bell Grass Frog, which is not found in Melbourne area. ",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011bba.jpg",
+   "date_published": "2011-06-05T16:41:24.000+00:00",
+   "date_modified": "2011-06-05T16:48:27.000+00:00",
+   "tags": [
+    "id~Litoria raniformis",
+    "tag~dead",
+    "tag~frog"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.852167,
+     -37.761833
+    ]
+   },
+   "_meta": {
+    "date": "2011-06-05",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "jcanaway",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjcanaway%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/jcanaway/items/ns/2015/maribyrnong_river_valley_fauna_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjcanaway%2Fitems%2Fns%2F2015%2Fmaribyrnong_river_valley_fauna_species_list.yaml",
+   "title": "Litoria raniformis",
+   "content_text": "Species list for collection.",
+   "date_published": "2011-06-05T16:25:12.000+00:00",
+   "date_modified": "2015-04-07T08:47:35.000+00:00",
+   "tags": [
+    "id~Litoria raniformis",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.849157,
+     -37.756058
+    ]
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "jcanaway",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjcanaway%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

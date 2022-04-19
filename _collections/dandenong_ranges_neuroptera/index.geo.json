@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.361533,
+     -37.894346
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/argybee/collections/dandenong_ranges_neuroptera/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fargybee%2Fcollections%2Fdandenong_ranges_neuroptera%2Faggregate%2Findex.json",
+    "date": "2018-01-12",
+    "title": "argybee",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a58b120ed2a893fb70000ab.jpg"
+   }
+  }
+ ]
+}

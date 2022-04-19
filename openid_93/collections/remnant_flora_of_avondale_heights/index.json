@@ -1,0 +1,126 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Remnant Flora Of Avondale Heights",
+ "description": "",
+ "author": {
+  "name": "openid_93",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_93%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_93%2Fcollections%2Fremnant_flora_of_avondale_heights%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_93/collections/remnant_flora_of_avondale_heights/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_93/items/ns/2011/53b39853e35eb1298400f12e.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_93%2Fitems%2Fns%2F2011%2F53b39853e35eb1298400f12e.yaml",
+   "title": "Eryngium ovinum",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb12984012715.jpg",
+   "date_published": "2011-12-15T14:08:19.000+00:00",
+   "date_modified": "2011-12-15T14:16:35.000+00:00",
+   "tags": [
+    "id~Eryngium ovinum",
+    "tag~flower"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.854414,
+     -37.748593
+    ]
+   },
+   "_meta": {
+    "date": "2010-11-16",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_93",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_93%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_93/items/ns/2011/53b39853e35eb1298400f12c.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_93%2Fitems%2Fns%2F2011%2F53b39853e35eb1298400f12c.yaml",
+   "title": "Leptorhynchos squamatus",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb12984012713.jpg",
+   "date_published": "2011-12-15T14:01:32.000+00:00",
+   "date_modified": "2011-12-15T14:05:25.000+00:00",
+   "tags": [
+    "id~Leptorhynchos squamatus",
+    "tag~flowerhead"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.854608,
+     -37.749086
+    ]
+   },
+   "_meta": {
+    "date": "2006-12-31",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_93",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_93%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_93/items/ns/2015/remnant_flora_of_avondale_heights_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_93%2Fitems%2Fns%2F2015%2Fremnant_flora_of_avondale_heights_species_list.yaml",
+   "title": "29 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2011-12-15T12:49:08.000+00:00",
+   "date_modified": "2015-04-07T08:47:36.000+00:00",
+   "tags": [
+    "id~Acaena echinata",
+    "id~Asperula conferta",
+    "id~Atriplex semibaccata",
+    "id~Austrodanthonia caespitosa",
+    "id~Austrodanthonia fulva",
+    "id~Austrodanthonia geniculata",
+    "id~Austrodanthonia setacea",
+    "id~Austrostipa bigeniculata",
+    "id~Bothriochloa macra",
+    "id~Calocephalus citreus",
+    "id~Chloris truncata",
+    "id~Chrysocephalum apiculatum s.s.",
+    "id~Convolvulus angustissimus",
+    "id~Cotula australis",
+    "id~Crassula decumbens var. decumbens",
+    "id~Dichondra repens",
+    "id~Einadia nutans subsp. nutans",
+    "id~Eryngium ovinum",
+    "id~Goodenia pinnatifida",
+    "id~Helichrysum aff. rutidolepis (Lowland Swamps)",
+    "id~Hypoxis glabella var. glabella",
+    "id~Juncus spp.",
+    "id~Leptorhynchos squamatus",
+    "id~Oxalis perennans",
+    "id~Pimelea spinescens subsp. spinescens",
+    "id~Solenogyne gunnii",
+    "id~Themeda triandra",
+    "id~Velleia paradoxa",
+    "id~Wahlenbergia spp.",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.854715,
+     -37.751206
+    ]
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "openid_93",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_93%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

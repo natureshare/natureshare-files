@@ -1,0 +1,47 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Strange fungi and lichen",
+ "description": "",
+ "author": {
+  "name": "david_francis",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fstrange_fungi_and_lichen%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/david_francis/collections/strange_fungi_and_lichen/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/david_francis/items/ns/2014/53cbac02e35eb1cc3c000004.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2014%2F53cbac02e35eb1cc3c000004.yaml",
+   "title": "Cladia retipora",
+   "content_text": "Growing on ground.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53cbac02e35eb1cc3c000003.JPG",
+   "date_published": "2014-07-20T11:46:10.000+00:00",
+   "date_modified": "2014-07-20T11:46:44.000+00:00",
+   "tags": [
+    "id~Cladia retipora"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.567151,
+     -37.409068
+    ]
+   },
+   "_meta": {
+    "date": "2011-04-10",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "david_francis",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

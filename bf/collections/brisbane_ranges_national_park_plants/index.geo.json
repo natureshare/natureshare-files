@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.167914,
+     -37.890991
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bf/items/ns/2018/5b61caf0ed2a89eae4000139.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbf%2Fitems%2Fns%2F2018%2F5b61caf0ed2a89eae4000139.yaml",
+    "date": "2012-10-20",
+    "title": "Grevillea steiglitziana",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b61cb37ed2a89c6aa000072.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.250471,
+     -37.856926
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bf/items/ns/2018/5b5f4856ed2a8903a0008eee.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbf%2Fitems%2Fns%2F2018%2F5b5f4856ed2a8903a0008eee.yaml",
+    "date": "2012-06-30",
+    "title": "Xanthorrhoea spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b5f48b6ed2a892807000084.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.250471,
+     -37.856926
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bf/items/ns/2018/5b5f40c5ed2a8903a0008ee6.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbf%2Fitems%2Fns%2F2018%2F5b5f40c5ed2a8903a0008ee6.yaml",
+    "date": "2012-10-20",
+    "title": "Goodenia lanata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b5f40cbed2a891efe000079.JPG"
+   }
+  }
+ ]
+}

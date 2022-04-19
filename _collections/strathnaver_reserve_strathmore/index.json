@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Strathnaver Reserve Strathmore",
+ "description": "All users for [strathnaver_reserve_strathmore]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fstrathnaver_reserve_strathmore%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/strathnaver_reserve_strathmore/index.json",
+ "items": [
+  {
+   "title": "judyallen",
+   "content_text": "21 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb1298401354d.jpg",
+   "date_published": "2012-11-17T13:58:06.000+00:00",
+   "date_modified": "2012-11-17T13:58:06.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.907774,
+     -37.717631
+    ]
+   },
+   "_meta": {
+    "itemCount": 21,
+    "date": "2012-11-17",
+    "name": "strathnaver_reserve_strathmore",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/judyallen/collections/strathnaver_reserve_strathmore/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjudyallen%2Fcollections%2Fstrathnaver_reserve_strathmore%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,38 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.034072,
+     -37.851928
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/reilly/items/ns/2015/552b5b65ed2a8961ed000010.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2015%2F552b5b65ed2a8961ed000010.yaml",
+    "date": "2015-02-24",
+    "title": "Phrissogonus laticostata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/552b5b65ed2a8961ed00000f.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.685303,
+     -37.455965
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/reilly/items/ns/2018/test_collection_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2018%2Ftest_collection_species_list.yaml",
+    "date": "2018-12-04",
+    "title": "6 ids"
+   }
+  }
+ ]
+}

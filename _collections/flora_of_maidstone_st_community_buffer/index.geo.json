@@ -1,0 +1,21 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.812186,
+     -37.854424
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_7/collections/flora_of_maidstone_st_community_buffer/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fcollections%2Fflora_of_maidstone_st_community_buffer%2Faggregate%2Findex.json",
+    "date": "2012-10-11",
+    "title": "openid_7"
+   }
+  }
+ ]
+}

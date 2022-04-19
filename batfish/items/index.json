@@ -1,0 +1,120 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "batfish",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbatfish%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbatfish%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/batfish/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/batfish/items/ns/2017/5a41faa7ed2a89ee87000001.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbatfish%2Fitems%2Fns%2F2017%2F5a41faa7ed2a89ee87000001.yaml",
+   "title": "Persectania ewingii",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a41fab2ed2a892d1500004d.jpg",
+   "date_published": "2017-12-26T07:32:42.000+00:00",
+   "date_modified": "2017-12-26T07:32:54.000+00:00",
+   "tags": [
+    "id~Persectania ewingii"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.07197,
+     -37.577865
+    ]
+   },
+   "_meta": {
+    "date": "2017-12-18",
+    "imageCount": 1
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/batfish/items/ns/2017/5a41b4d1ed2a89e23c001f07.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbatfish%2Fitems%2Fns%2F2017%2F5a41b4d1ed2a89e23c001f07.yaml",
+   "title": "Chlorocoma stereota",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a41b4dfed2a89298f000055.jpg",
+   "date_published": "2017-12-26T02:32:49.000+00:00",
+   "date_modified": "2017-12-26T07:10:31.000+00:00",
+   "tags": [
+    "id~Chlorocoma stereota"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.07204,
+     -37.577657
+    ]
+   },
+   "_meta": {
+    "date": "2017-12-18",
+    "imageCount": 1
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/batfish/items/ns/2017/5a41b485ed2a89e23c001f02.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbatfish%2Fitems%2Fns%2F2017%2F5a41b485ed2a89e23c001f02.yaml",
+   "title": "Eccymatoge morphna",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a41b48eed2a892d1500004b.jpg",
+   "date_published": "2017-12-26T02:31:33.000+00:00",
+   "date_modified": "2017-12-26T02:31:56.000+00:00",
+   "tags": [
+    "id~Eccymatoge morphna"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2017-12-18",
+    "imageCount": 1
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/batfish/items/ns/2017/5a41b419ed2a89e23c001efb.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbatfish%2Fitems%2Fns%2F2017%2F5a41b419ed2a89e23c001efb.yaml",
+   "title": "Scopula rubraria",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a41b422ed2a89298f000054.jpg",
+   "date_published": "2017-12-26T02:29:45.000+00:00",
+   "date_modified": "2017-12-26T02:30:42.000+00:00",
+   "tags": [
+    "id~Scopula rubraria"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2017-12-18",
+    "imageCount": 2
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/batfish/items/ns/2017/5a41b38bed2a89e23c001ef9.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbatfish%2Fitems%2Fns%2F2017%2F5a41b38bed2a89e23c001ef9.yaml",
+   "title": "Anachloris subochraria",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a41b395ed2a893fb7000065.jpg",
+   "date_published": "2017-12-26T02:27:23.000+00:00",
+   "date_modified": "2017-12-26T02:28:01.000+00:00",
+   "tags": [
+    "id~Anachloris subochraria"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2017-12-18",
+    "imageCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 5,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

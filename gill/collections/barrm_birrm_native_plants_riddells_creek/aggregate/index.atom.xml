@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Barrm birrm native plants riddells creek</title>
+  <id>https://files.natureshare.org/gill/collections/barrm_birrm_native_plants_riddells_creek/aggregate/index.xml</id>
+  <updated>2016-11-12T20:00:03.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/gill/collections/barrm_birrm_native_plants_riddells_creek/aggregate/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/gill/collections/barrm_birrm_native_plants_riddells_creek/aggregate/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fcollections%2Fbarrm_birrm_native_plants_riddells_creek%2Faggregate%2Findex.json"/>
+  <author>
+    <name>gill</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 gill</rights>
+  <entry>
+    <id>https://files.natureshare.org/gill/items/ns/2016/582703e7ed2a897480003608.yaml</id>
+    <title>Arthropodium strictum s.s.</title>
+    <updated>2016-11-12T20:00:03.000+00:00</updated>
+    <published>2016-11-12T12:07:20.000+00:00</published>
+    <author>
+      <name>gill</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Swathes of chocolate lilies along the edge of Barrm Birrm. Photo taken via Facebook messenger and does NOT do the displays justice in any way. </content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2016%2F582703e7ed2a897480003608.yaml"/>
+    <category term="id~Arthropodium strictum s.s."/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/gill/items/ns/2016/57aff57aed2a89450f0003c3.yaml</id>
+    <title>Hardenbergia violacea</title>
+    <updated>2016-08-14T04:43:07.000+00:00</updated>
+    <published>2016-08-14T04:43:07.000+00:00</published>
+    <author>
+      <name>gill</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">A small spray resting on the hillside of the dam in Barrm Birrm.</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2016%2F57aff57aed2a89450f0003c3.yaml"/>
+    <category term="id~Hardenbergia violacea"/>
+  </entry>
+</feed>

@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Flora And Fauna Of Tower Hill Reserve",
+ "description": "All users for [flora_and_fauna_of_tower_hill_reserve]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fflora_and_fauna_of_tower_hill_reserve%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/flora_and_fauna_of_tower_hill_reserve/index.json",
+ "items": [
+  {
+   "title": "pauline",
+   "content_text": "36 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5746a4eded2a89211c00023b.JPG",
+   "date_published": "2016-05-26T07:28:02.000+00:00",
+   "date_modified": "2016-05-26T07:28:02.000+00:00",
+   "_geo": {
+    "coordinates": [
+     142.360549,
+     -38.317131
+    ]
+   },
+   "_meta": {
+    "itemCount": 36,
+    "date": "2016-05-26",
+    "name": "flora_and_fauna_of_tower_hill_reserve",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/pauline/collections/flora_and_fauna_of_tower_hill_reserve/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpauline%2Fcollections%2Fflora_and_fauna_of_tower_hill_reserve%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

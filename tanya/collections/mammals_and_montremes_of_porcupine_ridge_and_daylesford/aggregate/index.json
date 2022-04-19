@@ -1,0 +1,47 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Mammals and montremes of Porcupine Ridge and Daylesford ",
+ "description": "This album covers mammals and monotremes of Porcupine Ridge and surrounds - to about 30 kilometres, so including Hepburn Regional park and parts of the Wombat State Forest. It includes feeding signs, bones, tracks and scats.",
+ "author": {
+  "name": "tanya",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftanya%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftanya%2Fcollections%2Fmammals_and_montremes_of_porcupine_ridge_and_daylesford%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/tanya/collections/mammals_and_montremes_of_porcupine_ridge_and_daylesford/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/tanya/items/ns/2015/55bc1ba3ed2a89db81000795.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftanya%2Fitems%2Fns%2F2015%2F55bc1ba3ed2a89db81000795.yaml",
+   "title": "Hydromys chrysogaster",
+   "content_text": "Two Native Water Rats observed at the creek behind the lake.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55bc1ba2ed2a89db81000793.JPG",
+   "date_published": "2015-04-05T17:24:59.000+00:00",
+   "date_modified": "2015-08-31T12:25:23.000+00:00",
+   "tags": [
+    "id~Hydromys chrysogaster"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.138266,
+     -37.347458
+    ]
+   },
+   "_meta": {
+    "date": "2015-04-05",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "tanya",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftanya%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": "<p>This album covers mammals and monotremes of Porcupine Ridge and surrounds - to about 30 kilometres, so including Hepburn Regional park and parts of the Wombat State Forest. It includes feeding signs, bones, tracks and scats.</p>\n"
+ }
+}

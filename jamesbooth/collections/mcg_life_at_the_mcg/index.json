@@ -1,0 +1,45 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Mcg Life At The Mcg",
+ "description": "",
+ "author": {
+  "name": "jamesbooth",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fmcg_life_at_the_mcg%2Findex.json",
+ "feed_url": "https://files.natureshare.org/jamesbooth/collections/mcg_life_at_the_mcg/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/jamesbooth/items/ns/2015/55506304ed2a89d1da0000ea.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Fns%2F2015%2F55506304ed2a89d1da0000ea.yaml",
+   "title": "Columba livia",
+   "content_text": "Pigeons left undisturbed in front Richmond's goals.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55506304ed2a89d1da0000e9.JPG",
+   "date_published": "2015-05-11T08:06:28.000+00:00",
+   "date_modified": "2015-05-11T08:10:35.000+00:00",
+   "tags": [
+    "id~Columba livia"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.98408,
+     -37.819968
+    ]
+   },
+   "_meta": {
+    "date": "2015-05-02",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "jamesbooth",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

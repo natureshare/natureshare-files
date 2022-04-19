@@ -1,0 +1,38 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.618377,
+     -37.420391
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/rosscolliver/items/ns/2016/57a5a7eeed2a89450f000053.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frosscolliver%2Fitems%2Fns%2F2016%2F57a5a7eeed2a89450f000053.yaml",
+    "date": "2016-08-06",
+    "title": "Triglochin spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57a5a845ed2a89d73e000001.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.652808,
+     -37.467859
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/rosscolliver/items/ns/2016/56ccf679ed2a89b54c00001e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frosscolliver%2Fitems%2Fns%2F2016%2F56ccf679ed2a89b54c00001e.yaml",
+    "date": "2016-02-24",
+    "title": "Galenia pubescens var. pubescens"
+   }
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Test Collection",
+ "description": "",
+ "author": {
+  "name": "reilly",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fcollections%2Ftest_collection%2Findex.json",
+ "feed_url": "https://files.natureshare.org/reilly/collections/test_collection/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/reilly/items/ns/2015/552b5b65ed2a8961ed000010.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2015%2F552b5b65ed2a8961ed000010.yaml",
+   "title": "Phrissogonus laticostata",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/552b5b65ed2a8961ed00000f.jpg",
+   "date_published": "2015-04-13T06:00:05.000+00:00",
+   "date_modified": "2015-04-13T12:13:44.000+00:00",
+   "tags": [
+    "id~Phrissogonus laticostata",
+    "tag~moth"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.034072,
+     -37.851928
+    ]
+   },
+   "_meta": {
+    "date": "2015-02-24",
+    "imageCount": 3
+   },
+   "author": {
+    "name": "reilly",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/reilly/items/ns/2018/test_collection_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2018%2Ftest_collection_species_list.yaml",
+   "title": "6 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2010-05-17T00:34:01.000+00:00",
+   "date_modified": "2018-12-04T04:46:14.000+00:00",
+   "tags": [
+    "id~Acacia X grayana",
+    "id~Macropus giganteus",
+    "id~Phascolarctos cinereus",
+    "id~Tachyglossus aculeatus",
+    "id~Tiliqua rugosa",
+    "id~Vombatus ursinus",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.685303,
+     -37.455965
+    ]
+   },
+   "_meta": {
+    "date": "2018-12-04"
+   },
+   "author": {
+    "name": "reilly",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

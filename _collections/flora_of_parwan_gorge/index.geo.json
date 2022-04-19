@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.502401,
+     -37.712072
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_61/collections/flora_of_parwan_gorge/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_61%2Fcollections%2Fflora_of_parwan_gorge%2Faggregate%2Findex.json",
+    "date": "2011-09-15",
+    "title": "openid_61",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984012084.jpg"
+   }
+  }
+ ]
+}

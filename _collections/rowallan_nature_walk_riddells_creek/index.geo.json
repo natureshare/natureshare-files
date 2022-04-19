@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.696,
+     -37.406
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/rowallan_nature_walk_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Frowallan_nature_walk_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2013-10-20",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143f5.jpg"
+   }
+  }
+ ]
+}

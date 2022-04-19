@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.357,
+     -37.908
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/honeyeater/collections/dandenong_ranges/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fhoneyeater%2Fcollections%2Fdandenong_ranges%2Faggregate%2Findex.json",
+    "date": "2016-01-22",
+    "title": "honeyeater",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a22096ed2a89b31c000033.jpeg"
+   }
+  }
+ ]
+}

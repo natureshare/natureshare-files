@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Wattle Glen",
+ "description": "All users for [wattle_glen]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fwattle_glen%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/wattle_glen/index.json",
+ "items": [
+  {
+   "title": "openid_120",
+   "content_text": "24 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/543e47b5e35eb1314d0002d5.JPG",
+   "date_published": "2014-10-15T10:08:53.000+00:00",
+   "date_modified": "2014-10-15T10:08:53.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.182426,
+     -37.667704
+    ]
+   },
+   "_meta": {
+    "itemCount": 24,
+    "date": "2014-10-15",
+    "name": "wattle_glen",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_120/collections/wattle_glen/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_120%2Fcollections%2Fwattle_glen%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

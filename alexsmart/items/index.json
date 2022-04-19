@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "alexsmart",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Falexsmart%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Falexsmart%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/alexsmart/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/alexsmart/items/ns/2015/565a084aed2a89e56e0010e8.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Falexsmart%2Fitems%2Fns%2F2015%2F565a084aed2a89e56e0010e8.yaml",
+   "title": "Isoodon obesulus obesulus",
+   "content_text": "Using front feet and nose to dig for food",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/565a0865ed2a899c6300025f.jpg",
+   "date_published": "2015-11-28T20:08:51.000+00:00",
+   "date_modified": "2016-01-17T12:16:32.000+00:00",
+   "tags": [
+    "id~Isoodon obesulus obesulus"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.27021,
+     -38.128599
+    ]
+   },
+   "_meta": {
+    "date": "2015-11-27",
+    "imageCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

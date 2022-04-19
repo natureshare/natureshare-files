@@ -1,0 +1,47 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Riddells creek plants",
+ "description": "",
+ "author": {
+  "name": "lydia",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fcollections%2Friddells_creek_plants%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/lydia/collections/riddells_creek_plants/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/lydia/items/ns/2016/57bc33aaed2a89450f00096b.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2016%2F57bc33aaed2a89450f00096b.yaml",
+   "title": "Pterostylis melagramma",
+   "content_text": "Please help with ID and sorry for the bad photo, I took it with my Laptop and I was trying not to touch it but it in a rather awkward position on the edge of a very steep bank. It is the first greenhood I have seen this season.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57bc33b0ed2a892daf00000e.jpg",
+   "date_published": "2016-08-23T11:46:52.000+00:00",
+   "date_modified": "2016-08-26T23:22:45.000+00:00",
+   "tags": [
+    "id~Pterostylis melagramma"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.65235,
+     -37.431326
+    ]
+   },
+   "_meta": {
+    "date": "2016-08-18",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "lydia",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

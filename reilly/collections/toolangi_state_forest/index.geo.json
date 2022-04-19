@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.527817,
+     -37.522087
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/reilly/items/dropbox/2020/img_3340.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fdropbox%2F2020%2Fimg_3340.yaml",
+    "date": "2016-10-31",
+    "title": "Eucalyptus regnans",
+    "image": "https://photos.natureshare.org/user_generated_content/thumbnails/reilly/items/dropbox/2020/img_3340.jpg"
+   }
+  }
+ ]
+}

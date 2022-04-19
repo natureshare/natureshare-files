@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/russell/collections/moths_of_mallacoota/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Moths of Mallacoota</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmoths_of_mallacoota%2Faggregate%2Findex.json</link>
+    <description>For moths of the general Mallacoota area, east and west of the lake and north to Genoa.</description>
+    <language>en-us</language>
+    <copyright>© 2022 russell</copyright>
+    <pubDate>Tue, 07 Apr 2015 08:47:35 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Circopetes obtusata</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2F53b3985ae35eb12984010ab7.yaml</link>
+      <dc:creator>russell</dc:creator>
+      <description>Spotted on Ellena's bike.</description>
+      <category>id~Circopetes obtusata</category>
+      <guid isPermaLink="false">https://files.natureshare.org/russell/items/ns/2014/53b3985ae35eb12984010ab7.yaml</guid>
+      <pubDate>Sat, 18 Jan 2014 11:47:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lepidoptera spp.</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400eee3.yaml</link>
+      <dc:creator>cclarke</dc:creator>
+      <description>About 5cm wingspan</description>
+      <category>id~Lepidoptera spp.</category>
+      <guid isPermaLink="false">https://files.natureshare.org/cclarke/items/ns/2011/53b39852e35eb1298400eee3.yaml</guid>
+      <pubDate>Tue, 01 Nov 2011 22:52:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Amata sp. (1), Circopetes obtusata</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Fmoths_of_mallacoota_species_list.yaml</link>
+      <dc:creator>russell</dc:creator>
+      <description>Species list for collection.</description>
+      <category>id~Amata sp. (1)</category>
+      <category>id~Circopetes obtusata</category>
+      <category>tag~species-list</category>
+      <guid isPermaLink="false">https://files.natureshare.org/russell/items/ns/2015/moths_of_mallacoota_species_list.yaml</guid>
+      <pubDate>Thu, 23 Jun 2011 17:00:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Amata sp. (1)</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e8fb.yaml</link>
+      <dc:creator>russell</dc:creator>
+      <description>Male? On Elaeocarpus reticulatus (fruit not ripe).</description>
+      <category>id~Amata sp. (1)</category>
+      <guid isPermaLink="false">https://files.natureshare.org/russell/items/ns/2011/53b39850e35eb1298400e8fb.yaml</guid>
+      <pubDate>Thu, 23 Jun 2011 16:58:07 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

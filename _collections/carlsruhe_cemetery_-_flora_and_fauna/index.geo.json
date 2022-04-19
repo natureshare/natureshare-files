@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.50626,
+     -37.29261
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/koolah/collections/carlsruhe_cemetery_-_flora_and_fauna/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fcollections%2Fcarlsruhe_cemetery_-_flora_and_fauna%2Faggregate%2Findex.json",
+    "date": "2019-03-31",
+    "title": "koolah",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_53b39818e35eb12984000024/2019-04-01/1554074269/P1310376%20Carlsruhe%20Cemetery%20Mar%209_19%20Bendidus%20breviusculus%20NS.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.50626,
+     -37.29261
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/wendymoore/collections/carlsruhe_cemetery_-_flora_and_fauna/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwendymoore%2Fcollections%2Fcarlsruhe_cemetery_-_flora_and_fauna%2Faggregate%2Findex.json",
+    "date": "2019-03-31",
+    "title": "wendymoore",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_53b39818e35eb12984000024/2019-04-01/1554074269/P1310376%20Carlsruhe%20Cemetery%20Mar%209_19%20Bendidus%20breviusculus%20NS.jpg"
+   }
+  }
+ ]
+}

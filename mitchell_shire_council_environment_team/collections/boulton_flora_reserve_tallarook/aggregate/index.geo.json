@@ -1,0 +1,38 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.095566,
+     -37.095965
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/mitchell_shire_council_environment_team/items/ns/2015/54feb3feed2a8974d30000be.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fitems%2Fns%2F2015%2F54feb3feed2a8974d30000be.yaml",
+    "date": "2007-09-16",
+    "title": "Tetratheca ciliata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54feb3fded2a8974d30000bc.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.09618,
+     -37.09529
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/mitchell_shire_council_environment_team/items/ns/2015/boulton_flora_reserve_tallarook_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fitems%2Fns%2F2015%2Fboulton_flora_reserve_tallarook_species_list.yaml",
+    "date": "2015-03-10",
+    "title": "Tetratheca ciliata"
+   }
+  }
+ ]
+}

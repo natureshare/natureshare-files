@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.566093,
+     -38.024325
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/items/ns/2016/56bd5c00ed2a89c42d000144.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2016%2F56bd5c00ed2a89c42d000144.yaml",
+    "date": "2016-02-11",
+    "title": "Ardea modesta",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56bd5c0ded2a89d4f800000a.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.574322,
+     -38.010412
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/items/ns/2016/56bd59c1ed2a89c42d00013e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2016%2F56bd59c1ed2a89c42d00013e.yaml",
+    "date": "2016-02-11",
+    "title": "Acrocephalus stentoreus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56bd59cbed2a893b01000007.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.539917,
+     -37.995092
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/items/ns/2016/56bd576aed2a893a1e00003d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2016%2F56bd576aed2a893a1e00003d.yaml",
+    "date": "2016-02-11",
+    "title": "Milvus migrans",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56bd5774ed2a899c67000007.jpg"
+   }
+  }
+ ]
+}

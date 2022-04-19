@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Bats Of Riddells Creek",
+ "description": "All users for [bats_of_riddells_creek]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fbats_of_riddells_creek%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/bats_of_riddells_creek/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "3 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb129840115aa.jpg",
+   "date_published": "2010-11-12T14:43:19.000+00:00",
+   "date_modified": "2010-11-12T14:43:19.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.660072,
+     -37.445562
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2010-11-12",
+    "name": "bats_of_riddells_creek",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/bats_of_riddells_creek/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fbats_of_riddells_creek%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

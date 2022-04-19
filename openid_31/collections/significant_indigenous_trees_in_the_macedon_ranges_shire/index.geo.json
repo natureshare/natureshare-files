@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.400987,
+     -37.2845
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e7ea.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e7ea.yaml",
+    "date": "2009-07-11",
+    "title": "Eucalyptus rubida",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b99.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.400445,
+     -37.287636
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e7e8.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e7e8.yaml",
+    "date": "2010-02-08",
+    "title": "Eucalyptus pauciflora",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b96.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.406268,
+     -37.278953
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e7e3.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e7e3.yaml",
+    "date": "2008-04-06",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b91.jpg"
+   }
+  }
+ ]
+}

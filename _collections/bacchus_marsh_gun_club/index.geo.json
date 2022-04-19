@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.390885,
+     -37.726649
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tmiller/collections/bacchus_marsh_gun_club/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fcollections%2Fbacchus_marsh_gun_club%2Faggregate%2Findex.json",
+    "date": "2017-02-16",
+    "title": "tmiller",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a537eaed2a89d73e000388.JPG"
+   }
+  }
+ ]
+}

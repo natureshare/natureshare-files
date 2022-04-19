@@ -1,0 +1,49 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Brisbane Ranges surrounds - Mammals",
+ "description": "Mammal sightings in the area around/near the Brisbane Ranges",
+ "author": {
+  "name": "monitor",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmonitor%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmonitor%2Fcollections%2Fbrisbane_ranges_surrounds_-_mammals%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/monitor/collections/brisbane_ranges_surrounds_-_mammals/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/monitor/items/ns/2015/554de1b7ed2a89c6e500004a.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmonitor%2Fitems%2Fns%2F2015%2F554de1b7ed2a89c6e500004a.yaml",
+   "title": "Nyctophilus geoffroyi",
+   "content_text": "Flying around in our garage before coming to rest on a roof beam.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/554de1b7ed2a89c6e5000049.JPG",
+   "date_published": "2015-05-09T10:30:15.000+00:00",
+   "date_modified": "2015-05-09T10:35:29.000+00:00",
+   "tags": [
+    "id~Nyctophilus geoffroyi",
+    "tag~adult",
+    "tag~bat"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.146521,
+     -37.808326
+    ]
+   },
+   "_meta": {
+    "date": "2015-05-06",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "monitor",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmonitor%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": "<p>Mammal sightings in the area around/near the Brisbane Ranges</p>\n"
+ }
+}

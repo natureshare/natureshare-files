@@ -1,0 +1,45 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Beetles Jewel Beetle Reference Collection",
+ "description": "",
+ "author": {
+  "name": "david_francis",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fbeetles_jewel_beetle_reference_collection%2Findex.json",
+ "feed_url": "https://files.natureshare.org/david_francis/collections/beetles_jewel_beetle_reference_collection/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/david_francis/items/ns/2015/54f45d53ed2a8983c20003fb.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2015%2F54f45d53ed2a8983c20003fb.yaml",
+   "title": "Castiarina flavopicta",
+   "content_text": "Jewel Beetle on garden-planted Babingtonia. Possibly Castiarina sp.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f45d52ed2a8983c20003fa.jpg",
+   "date_published": "2015-03-02T12:53:39.000+00:00",
+   "date_modified": "2015-03-02T12:54:50.000+00:00",
+   "tags": [
+    "id~Castiarina flavopicta"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.594817,
+     -37.408444
+    ]
+   },
+   "_meta": {
+    "date": "2015-02-03",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "david_francis",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

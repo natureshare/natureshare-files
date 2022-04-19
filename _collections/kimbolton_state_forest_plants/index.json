@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Kimbolton State Forest Plants",
+ "description": "All users for [kimbolton_state_forest_plants]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fkimbolton_state_forest_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/kimbolton_state_forest_plants/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "4 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840120ff.jpg",
+   "date_published": "2011-09-20T18:22:05.000+00:00",
+   "date_modified": "2011-09-20T18:22:05.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.50592,
+     -36.915313
+    ]
+   },
+   "_meta": {
+    "itemCount": 4,
+    "date": "2011-09-20",
+    "name": "kimbolton_state_forest_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/kimbolton_state_forest_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fkimbolton_state_forest_plants%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "cclarke",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840120ff.jpg",
+   "date_published": "2011-09-20T18:22:05.000+00:00",
+   "date_modified": "2011-09-20T18:22:05.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.492,
+     -36.919
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2011-09-20",
+    "name": "kimbolton_state_forest_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/cclarke/collections/kimbolton_state_forest_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fcollections%2Fkimbolton_state_forest_plants%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

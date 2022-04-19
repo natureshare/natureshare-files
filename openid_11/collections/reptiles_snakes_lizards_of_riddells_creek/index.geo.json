@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.658935,
+     -37.434317
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_11/items/ns/2010/53b3984fe35eb1298400e212.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_11%2Fitems%2Fns%2F2010%2F53b3984fe35eb1298400e212.yaml",
+    "date": "2010-10-14",
+    "title": "Tiliqua nigrolutea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb1298401147b.jpg"
+   }
+  }
+ ]
+}

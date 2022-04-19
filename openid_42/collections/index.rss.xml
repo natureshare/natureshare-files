@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/openid_42/collections/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Collections</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fcollections%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 openid_42</copyright>
+    <pubDate>Mon, 17 Sep 2018 10:27:00 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Brisbane Ranges - Reptiles and Amphibians</title>
+      <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fcollections%2Fbrisbane_ranges_reptiles_and_amphibians%2Faggregate%2Findex.json</link>
+      <dc:creator>openid_42</dc:creator>
+      <description>15 items</description>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_42/collections/brisbane_ranges_reptiles_and_amphibians/aggregate/index.json</guid>
+      <pubDate>Mon, 17 Sep 2018 10:27:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brisbane Ranges - Mammals</title>
+      <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fcollections%2Fbrisbane_ranges_mammals%2Faggregate%2Findex.json</link>
+      <dc:creator>openid_42</dc:creator>
+      <description>32 items</description>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_42/collections/brisbane_ranges_mammals/aggregate/index.json</guid>
+      <pubDate>Sat, 31 Mar 2018 05:04:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wildlife and native plants of Staughton Vale Road</title>
+      <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fcollections%2Fwildlife_and_native_plants_of_staughton_vale_road%2Faggregate%2Findex.json</link>
+      <dc:creator>openid_42</dc:creator>
+      <description>10 items</description>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_42/collections/wildlife_and_native_plants_of_staughton_vale_road/aggregate/index.json</guid>
+      <pubDate>Fri, 14 Oct 2011 16:04:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brisbane ranges birds</title>
+      <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fcollections%2Fbrisbane_ranges_birds%2Faggregate%2Findex.json</link>
+      <dc:creator>openid_42</dc:creator>
+      <description>2 items</description>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_42/collections/brisbane_ranges_birds/aggregate/index.json</guid>
+      <pubDate>Wed, 12 Oct 2011 13:11:11 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

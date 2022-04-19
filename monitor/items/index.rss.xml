@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/monitor/items/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Observations</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmonitor%2Fitems%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 monitor</copyright>
+    <pubDate>Wed, 10 Jun 2015 01:06:54 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Phascolarctos cinereus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmonitor%2Fitems%2Fns%2F2015%2F55778d10ed2a8918dd000891.yaml</link>
+      <dc:creator>monitor</dc:creator>
+      <description>-</description>
+      <category>id~Phascolarctos cinereus</category>
+      <category>tag~female</category>
+      <guid isPermaLink="false">https://files.natureshare.org/monitor/items/ns/2015/55778d10ed2a8918dd000891.yaml</guid>
+      <pubDate>Wed, 10 Jun 2015 01:04:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nyctophilus geoffroyi</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmonitor%2Fitems%2Fns%2F2015%2F554de1b7ed2a89c6e500004a.yaml</link>
+      <dc:creator>monitor</dc:creator>
+      <description>Flying around in our garage before coming to rest on a roof beam.</description>
+      <category>id~Nyctophilus geoffroyi</category>
+      <category>tag~adult</category>
+      <category>tag~bat</category>
+      <guid isPermaLink="false">https://files.natureshare.org/monitor/items/ns/2015/554de1b7ed2a89c6e500004a.yaml</guid>
+      <pubDate>Sat, 09 May 2015 10:30:15 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.261863,
+     -37.855169
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bertbohosouth/items/ns/2017/58fc10deed2a8972fd00000d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbertbohosouth%2Fitems%2Fns%2F2017%2F58fc10deed2a8972fd00000d.yaml",
+    "date": "2017-04-23",
+    "title": "Christinus marmoratus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58fc10e5ed2a89a81f0000fd.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.793262,
+     -36.821911
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bertbohosouth/items/ns/2017/589697a0ed2a89d10f002c9a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbertbohosouth%2Fitems%2Fns%2F2017%2F589697a0ed2a89d10f002c9a.yaml",
+    "date": "2017-01-31",
+    "title": "Notechis scutatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/589697aced2a892daf000397.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.33597,
+     -34.204214
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bertbohosouth/items/ns/2017/5790cb07ed2a89e69f0009c8.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbertbohosouth%2Fitems%2Fns%2F2017%2F5790cb07ed2a89e69f0009c8.yaml",
+    "date": "2016-07-11",
+    "title": "Suta spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5790cb5aed2a89211c00027b.JPG"
+   }
+  }
+ ]
+}

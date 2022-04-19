@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.555,
+     -37.48
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/mallacoota_genoa_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmallacoota_genoa_creek%2Faggregate%2Findex.json",
+    "date": "2014-01-30",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb12984014df3.jpg"
+   }
+  }
+ ]
+}

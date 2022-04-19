@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.528,
+     -37.522
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/reilly/collections/toolangi_state_forest/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fcollections%2Ftoolangi_state_forest%2Faggregate%2Findex.json",
+    "date": "2016-10-31",
+    "title": "reilly",
+    "image": "https://photos.natureshare.org/user_generated_content/thumbnails/reilly/items/dropbox/2020/img_3340.jpg"
+   }
+  }
+ ]
+}

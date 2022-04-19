@@ -1,0 +1,99 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Mt Worth State Park",
+ "description": "",
+ "author": {
+  "name": "openid_165",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_165%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_165%2Fcollections%2Fmt_worth_state_park%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_165/collections/mt_worth_state_park/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_165/items/ns/2013/53b39858e35eb12984010347.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_165%2Fitems%2Fns%2F2013%2F53b39858e35eb12984010347.yaml",
+   "title": "Asplenium bulbiferum subsp. gracillimum",
+   "content_text": "Mother Spleenwort",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb1298401415a.jpg",
+   "date_published": "2013-07-19T15:01:09.000+00:00",
+   "date_modified": "2014-07-03T02:31:41.000+00:00",
+   "tags": [
+    "id~Asplenium bulbiferum subsp. gracillimum"
+   ],
+   "_geo": {
+    "coordinates": [
+     146.001333,
+     -38.282167
+    ]
+   },
+   "_meta": {
+    "date": "2013-06-29",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_165",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_165%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_165/items/ns/2013/53b39858e35eb1298401033f.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_165%2Fitems%2Fns%2F2013%2F53b39858e35eb1298401033f.yaml",
+   "title": "Tettigarcta crinita",
+   "content_text": "Final instar immature Hairy Cicada",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014150.jpg",
+   "date_published": "2013-07-19T14:43:28.000+00:00",
+   "date_modified": "2014-07-03T02:34:03.000+00:00",
+   "tags": [
+    "id~Tettigarcta crinita",
+    "tag~cicada"
+   ],
+   "_geo": {
+    "coordinates": [
+     146.009105,
+     -38.280639
+    ]
+   },
+   "_meta": {
+    "date": "2011-04-16",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "openid_165",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_165%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_165/items/ns/2013/53b39858e35eb12984010331.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_165%2Fitems%2Fns%2F2013%2F53b39858e35eb12984010331.yaml",
+   "title": "Asplenium flabellifolium",
+   "content_text": "Necklace Fern",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb1298401415b.jpg",
+   "date_published": "2013-07-19T14:25:09.000+00:00",
+   "date_modified": "2014-07-03T02:40:02.000+00:00",
+   "tags": [
+    "id~Asplenium flabellifolium",
+    "tag~fern"
+   ],
+   "_geo": {
+    "coordinates": [
+     146.002,
+     -38.282167
+    ]
+   },
+   "_meta": {
+    "date": "2013-06-29",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_165",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_165%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.27,
+     -38.39
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_169/collections/birds_at_13_limonite_road_boolarra/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_169%2Fcollections%2Fbirds_at_13_limonite_road_boolarra%2Faggregate%2Findex.json",
+    "date": "2013-07-19",
+    "title": "Birds at 13 Limonite Road, Boolarra",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014152.jpg"
+   }
+  }
+ ]
+}

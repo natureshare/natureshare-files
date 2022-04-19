@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.425972,
+     -38.272958
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/collections/mt_richmond_np_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fcollections%2Fmt_richmond_np_plants%2Faggregate%2Findex.json",
+    "date": "2019-12-27",
+    "title": "banksiaman",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39819e35eb129840000b2/2019-12-27/helichrysum_leucopsideum.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.425972,
+     -38.272958
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/mt_richmond_np_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmt_richmond_np_plants%2Faggregate%2Findex.json",
+    "date": "2019-12-27",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39819e35eb129840000b2/2019-12-27/helichrysum_leucopsideum.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.431,
+     -38.274
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/collections/mt_richmond_np_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fmt_richmond_np_plants%2Faggregate%2Findex.json",
+    "date": "2017-11-09",
+    "title": "tsnata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a04378fed2a89398400064a.jpg"
+   }
+  }
+ ]
+}

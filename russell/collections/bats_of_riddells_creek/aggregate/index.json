@@ -1,0 +1,99 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Bats of Riddells Creek",
+ "description": "",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fbats_of_riddells_creek%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/bats_of_riddells_creek/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2010/53b3984fe35eb1298400e309.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2010%2F53b3984fe35eb1298400e309.yaml",
+   "title": "Vespadelus vulturnus",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb129840115aa.jpg",
+   "date_published": "2010-11-12T14:43:19.000+00:00",
+   "date_modified": "2010-11-12T14:44:59.000+00:00",
+   "tags": [
+    "id~Vespadelus vulturnus"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.662738,
+     -37.437981
+    ]
+   },
+   "_meta": {
+    "date": "2007-03-04",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2010/53b3984fe35eb1298400e308.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2010%2F53b3984fe35eb1298400e308.yaml",
+   "title": "Nyctophilus geoffroyi",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb129840115a9.jpg",
+   "date_published": "2010-11-12T14:34:00.000+00:00",
+   "date_modified": "2010-11-12T14:36:17.000+00:00",
+   "tags": [
+    "id~Nyctophilus geoffroyi"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.654587,
+     -37.430752
+    ]
+   },
+   "_meta": {
+    "date": "2006-01-31",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2015/bats_of_riddells_creek_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Fbats_of_riddells_creek_species_list.yaml",
+   "title": "Nyctophilus geoffroyi, Vespadelus vulturnus",
+   "content_text": "Species list for collection.",
+   "date_published": "2010-11-12T14:33:05.000+00:00",
+   "date_modified": "2015-04-07T08:47:32.000+00:00",
+   "tags": [
+    "id~Nyctophilus geoffroyi",
+    "id~Vespadelus vulturnus",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.660072,
+     -37.445562
+    ]
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

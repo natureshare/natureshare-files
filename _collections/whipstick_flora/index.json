@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Whipstick Flora",
+ "description": "All users for [whipstick_flora]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fwhipstick_flora%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/whipstick_flora/index.json",
+ "items": [
+  {
+   "title": "andrewbrown",
+   "content_text": "15 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59df4e6eed2a893984000494.JPG",
+   "date_published": "2017-10-12T12:24:22.000+00:00",
+   "date_modified": "2017-10-12T12:24:22.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.278083,
+     -36.629931
+    ]
+   },
+   "_meta": {
+    "itemCount": 15,
+    "date": "2017-10-12",
+    "name": "whipstick_flora",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/andrewbrown/collections/whipstick_flora/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandrewbrown%2Fcollections%2Fwhipstick_flora%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.577869,
+     -37.378497
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/items/ns/2018/5a8e9747ed2a894e8c000124.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2018%2F5a8e9747ed2a894e8c000124.yaml",
+    "date": "2018-02-22",
+    "title": "Oreixenica lathoniella herceus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a8e974ded2a8966a0000072.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.61295,
+     -37.373872
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/items/ns/2015/54d56237ed2a89cd200002af.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2015%2F54d56237ed2a89cd200002af.yaml",
+    "date": "2015-02-06",
+    "title": "Tisiphone abeona albifascia",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54d56236ed2a89cd200002ae.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.594685,
+     -37.408172
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/items/ns/2012/53b39854e35eb1298400f490.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f490.yaml",
+    "date": "2012-03-31",
+    "title": "Eurema smilax smilax",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012ba3.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.59491,
+     -37.40844
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/items/ns/2011/53b39852e35eb1298400f06e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400f06e.yaml",
+    "date": "2011-11-28",
+    "title": "Papilio aegeus aegeus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb1298401260a.jpg"
+   }
+  }
+ ]
+}

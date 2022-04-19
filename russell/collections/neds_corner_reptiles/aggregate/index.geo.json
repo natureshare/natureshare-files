@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.344254,
+     -34.246933
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2013/53b39859e35eb1298401074e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39859e35eb1298401074e.yaml",
+    "date": "2013-09-29",
+    "title": "Pogona vitticeps",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb12984014810.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.326447,
+     -34.141075
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2012/53b39854e35eb1298400f505.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f505.yaml",
+    "date": "2012-03-31",
+    "title": "Nephrurus milii",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012c3f.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.328299,
+     -34.140687
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2012/53b39854e35eb1298400f4a6.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f4a6.yaml",
+    "date": "2012-03-30",
+    "title": "Chasmina pulchra, Gehyra variegata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012bb8.jpg"
+   }
+  }
+ ]
+}

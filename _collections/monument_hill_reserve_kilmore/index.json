@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Monument Hill Reserve Kilmore",
+ "description": "All users for [monument_hill_reserve_kilmore]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fmonument_hill_reserve_kilmore%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/monument_hill_reserve_kilmore/index.json",
+ "items": [
+  {
+   "title": "mitchell_shire_council_environment_team",
+   "content_text": "6 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ff9204ed2a8994a90000e6.JPG",
+   "date_published": "2015-03-11T00:53:24.000+00:00",
+   "date_modified": "2015-03-11T00:53:24.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.970626,
+     -37.301773
+    ]
+   },
+   "_meta": {
+    "itemCount": 6,
+    "date": "2015-03-11",
+    "name": "monument_hill_reserve_kilmore",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/mitchell_shire_council_environment_team/collections/monument_hill_reserve_kilmore/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fcollections%2Fmonument_hill_reserve_kilmore%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

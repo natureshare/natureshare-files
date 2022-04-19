@@ -1,0 +1,45 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Barrm Birrm Native Plants Riddells Creek",
+ "description": "",
+ "author": {
+  "name": "lydia",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fcollections%2Fbarrm_birrm_native_plants_riddells_creek%2Findex.json",
+ "feed_url": "https://files.natureshare.org/lydia/collections/barrm_birrm_native_plants_riddells_creek/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/lydia/items/ns/2013/53b39858e35eb12984010490.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2013%2F53b39858e35eb12984010490.yaml",
+   "title": "Calochlaena dubia",
+   "content_text": "New species record for Barrm Birrm. Down a steep ravine.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014399.jpg",
+   "date_published": "2013-09-07T15:18:19.000+00:00",
+   "date_modified": "2014-07-03T00:24:26.000+00:00",
+   "tags": [
+    "id~Calochlaena dubia"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.65892,
+     -37.439843
+    ]
+   },
+   "_meta": {
+    "date": "2013-09-01",
+    "imageCount": 3
+   },
+   "author": {
+    "name": "lydia",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

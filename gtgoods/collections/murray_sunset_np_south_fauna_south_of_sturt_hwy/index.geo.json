@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.594939,
+     -34.862395
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gtgoods/items/ns/2015/54e97de4ed2a89ef27000538.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fitems%2Fns%2F2015%2F54e97de4ed2a89ef27000538.yaml",
+    "date": "2012-04-13",
+    "title": "Oreoica gutturalis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e97de3ed2a89ef27000537.jpg"
+   }
+  }
+ ]
+}

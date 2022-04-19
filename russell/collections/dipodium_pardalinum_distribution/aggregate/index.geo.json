@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.643906,
+     -37.416565
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2011/53b3984fe35eb1298400e4be.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e4be.yaml",
+    "date": "2007-01-12",
+    "title": "Dipodium pardalinum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb12984011795.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.643214,
+     -37.418883
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2011/53b3984fe35eb1298400e4bd.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e4bd.yaml",
+    "date": "2010-01-04",
+    "title": "Dipodium pardalinum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb12984011794.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.54746,
+     -37.422588
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2011/53b3984fe35eb1298400e4bc.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e4bc.yaml",
+    "date": "2010-01-13",
+    "title": "Dipodium pardalinum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb12984011793.jpg"
+   }
+  }
+ ]
+}

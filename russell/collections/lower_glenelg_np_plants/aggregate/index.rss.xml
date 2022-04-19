@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/russell/collections/lower_glenelg_np_plants/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Lower glenelg np plants</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Flower_glenelg_np_plants%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 russell</copyright>
+    <pubDate>Wed, 20 Nov 2013 20:00:00 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Platylobium triangulare</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e7d5.yaml</link>
+      <dc:creator>russell</dc:creator>
+      <description>Glenelg NP. Not sure of precise location. Showing ID feature - long peduncles on flower and seedpod (flowers/seedpods sessile on P. obtusangulum).</description>
+      <category>id~Platylobium triangulare</category>
+      <category>tag~flower</category>
+      <guid isPermaLink="false">https://files.natureshare.org/russell/items/ns/2011/53b39850e35eb1298400e7d5.yaml</guid>
+      <pubDate>Fri, 27 May 2011 20:15:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Utricularia spp.</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2010%2F53b3984ee35eb1298400e10b.yaml</link>
+      <dc:creator>russell</dc:creator>
+      <description>Possibly U. barkeri. Not sure of precise location.</description>
+      <category>id~Utricularia spp.</category>
+      <category>tag~flower</category>
+      <guid isPermaLink="false">https://files.natureshare.org/russell/items/ns/2010/53b3984ee35eb1298400e10b.yaml</guid>
+      <pubDate>Sat, 26 Jun 2010 19:26:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Glycine latrobeana</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2010%2F53b3984ee35eb1298400e10a.yaml</link>
+      <dc:creator>russell</dc:creator>
+      <description>Lower Glenelg NP - not sure of precise location.</description>
+      <category>id~Glycine latrobeana</category>
+      <category>tag~flower</category>
+      <category>tag~leaf</category>
+      <guid isPermaLink="false">https://files.natureshare.org/russell/items/ns/2010/53b3984ee35eb1298400e10a.yaml</guid>
+      <pubDate>Sat, 26 Jun 2010 19:07:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lomandra nana</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2010%2F53b3984ee35eb1298400e109.yaml</link>
+      <dc:creator>russell</dc:creator>
+      <description>Lower Glenelg NP - not sure of precise location.</description>
+      <category>id~Lomandra nana</category>
+      <category>tag~flower</category>
+      <category>tag~male</category>
+      <guid isPermaLink="false">https://files.natureshare.org/russell/items/ns/2010/53b3984ee35eb1298400e109.yaml</guid>
+      <pubDate>Sat, 26 Jun 2010 19:01:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

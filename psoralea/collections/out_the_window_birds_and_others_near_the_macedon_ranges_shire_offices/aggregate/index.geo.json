@@ -1,0 +1,37 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.585711,
+     -37.483806
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/psoralea/items/ns/2013/53b39858e35eb12984010424.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2013%2F53b39858e35eb12984010424.yaml",
+    "date": "2013-08-28",
+    "title": "Elanus axillaris"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.585764,
+     -37.483202
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/psoralea/items/ns/2013/53b39858e35eb12984010423.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2013%2F53b39858e35eb12984010423.yaml",
+    "date": "2013-08-28",
+    "title": "Phylidonyris novaehollandiae"
+   }
+  }
+ ]
+}

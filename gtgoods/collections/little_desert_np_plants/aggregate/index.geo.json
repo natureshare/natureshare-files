@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.81604,
+     -36.443916
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gtgoods/items/ns/2015/55f7fc8ded2a89b06c000937.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fitems%2Fns%2F2015%2F55f7fc8ded2a89b06c000937.yaml",
+    "date": "2015-09-09",
+    "title": "Cassytha melantha",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55f7fca1ed2a890d95000181.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.6921,
+     -36.495821
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gtgoods/items/ns/2015/55c1f9f6ed2a89db81000a77.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fitems%2Fns%2F2015%2F55c1f9f6ed2a89db81000a77.yaml",
+    "date": "2015-08-03",
+    "title": "Eucalyptus leptophylla",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55c1f9f6ed2a89db81000a76.jpg"
+   }
+  }
+ ]
+}

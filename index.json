@@ -1,0 +1,4890 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "NatureShare",
+ "description": "",
+ "author": {
+  "name": "All Users",
+  "url": "https://natureshare.org/"
+ },
+ "home_page_url": "https://natureshare.org/",
+ "feed_url": "https://files.natureshare.org/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/chrisl/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Findex.json",
+   "title": "Chris Lindorff",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/187676075/medium.jpg",
+   "content_text": "-",
+   "date_published": "2022-04-12T12:47:07.000+00:00",
+   "date_modified": "2022-04-12T12:50:08.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.759,
+     -36.175
+    ]
+   },
+   "_meta": {
+    "itemCount": 3860,
+    "date": "2022-04-12"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/koolah/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fitems%2Findex.json",
+   "title": "Cathy Powers",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/184457586/medium.jpg",
+   "content_text": "-",
+   "date_published": "2022-03-25T09:46:47.000+00:00",
+   "date_modified": "2022-03-25T21:45:46.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.688,
+     -37.33
+    ]
+   },
+   "_meta": {
+    "itemCount": 4259,
+    "date": "2022-03-25"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/reilly/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Findex.json",
+   "title": "Reilly",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/104868199/medium.jpeg",
+   "content_text": "-",
+   "date_published": "2020-11-19T00:13:25.000+00:00",
+   "date_modified": "2020-12-20T10:39:38.000+00:00",
+   "_geo": {
+    "coordinates": [
+     122.76,
+     -17.572
+    ]
+   },
+   "_meta": {
+    "itemCount": 482,
+    "date": "2020-12-20"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/petermoth/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpetermoth%2Fitems%2Findex.json",
+   "title": "Peter Marriott",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb1298400000e/2020-04-30/17feb06banksiappm.jpeg",
+   "content_text": "-",
+   "date_published": "2020-04-30T06:23:08.000+00:00",
+   "date_modified": "2020-04-30T06:42:39.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.566,
+     -37.553
+    ]
+   },
+   "_meta": {
+    "itemCount": 249,
+    "date": "2020-04-30"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/emucreek/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Femucreek%2Fitems%2Findex.json",
+   "title": "Peter Clark",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_55375c83ed2a89a9d4004fe1/2020-02-04/img_0731.jpeg",
+   "content_text": "-",
+   "date_published": "2020-02-04T04:12:31.000+00:00",
+   "date_modified": "2020-02-19T01:22:37.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.672,
+     -37.429
+    ]
+   },
+   "_meta": {
+    "itemCount": 415,
+    "date": "2020-02-19"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/banksiaman/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Findex.json",
+   "title": "Kevin Sparrow",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39819e35eb129840000b2/2020-02-02/ptilotus_macrocephalus.jpeg",
+   "content_text": "Currently Vice President",
+   "date_published": "2020-02-02T10:51:01.000+00:00",
+   "date_modified": "2020-02-02T10:52:18.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.172,
+     -37.831
+    ]
+   },
+   "_meta": {
+    "itemCount": 1933,
+    "date": "2020-02-02"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/linleymcg/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flinleymcg%2Fitems%2Findex.json",
+   "title": "Linley McGlashan",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb1298400000c/2020-01-04/dsc_3532.jpeg",
+   "content_text": "-",
+   "date_published": "2020-01-04T09:59:23.000+00:00",
+   "date_modified": "2020-01-14T05:53:08.000+00:00",
+   "_geo": {
+    "coordinates": [
+     142.527,
+     -37.508
+    ]
+   },
+   "_meta": {
+    "itemCount": 112,
+    "date": "2020-01-14"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/triplett/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftriplett%2Fitems%2Findex.json",
+   "title": "Jeff Triplett",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_595341e2ed2a89e53c000001/2019-12-18/20190305_0018c.jpeg",
+   "content_text": "-",
+   "date_published": "2019-12-18T07:34:51.000+00:00",
+   "date_modified": "2019-12-18T07:37:13.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.852,
+     -37.655
+    ]
+   },
+   "_meta": {
+    "itemCount": 82,
+    "date": "2019-12-18"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/zeke1944/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fzeke1944%2Fitems%2Findex.json",
+   "title": "zeke1944",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5b30dd66ed2a89a99300133d/2019-11-20/malva_weinmanniana.jpeg",
+   "content_text": "-",
+   "date_published": "2019-11-20T06:32:46.000+00:00",
+   "date_modified": "2019-11-20T06:38:19.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.037,
+     -38.041
+    ]
+   },
+   "_meta": {
+    "itemCount": 142,
+    "date": "2019-11-20"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/wendymoore/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwendymoore%2Fitems%2Findex.json",
+   "title": "Wendy Moore",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-10-13/dec14_10_cburngl_z_cic_imgp1489_cropns.jpeg",
+   "content_text": "-",
+   "date_published": "2019-10-12T13:16:49.000+00:00",
+   "date_modified": "2019-10-12T13:20:50.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.209,
+     -37.579
+    ]
+   },
+   "_meta": {
+    "itemCount": 1193,
+    "date": "2019-10-12"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/leuba/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fitems%2Findex.json",
+   "title": "Leuba Ridgway",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_54e155eeed2a8987b7000185/2019-10-09/darkspotmoth.jpeg",
+   "content_text": "-",
+   "date_published": "2019-10-08T13:15:46.000+00:00",
+   "date_modified": "2019-10-09T11:31:33.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.546,
+     -37.886
+    ]
+   },
+   "_meta": {
+    "itemCount": 147,
+    "date": "2019-10-09"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/tsnata/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json",
+   "title": "Thomas Nataprawira",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000026/2019-09-22/p1120025_billy_button.jpeg",
+   "content_text": "-",
+   "date_published": "2019-09-22T10:30:54.000+00:00",
+   "date_modified": "2019-09-22T10:34:22.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.392,
+     -37.896
+    ]
+   },
+   "_meta": {
+    "itemCount": 1100,
+    "date": "2019-09-22"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/kim_tarpey/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkim_tarpey%2Fitems%2Findex.json",
+   "title": "Kim Tarpey",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_59cab2a0ed2a892d40000b13/2019-09-08/pterostylis_2.jpeg",
+   "content_text": "Always a lover of the natural bush land I started getting serious about  my observations when in 2016 I started documenting to the Bowerbird site, thus qualifying as a citizen scientist. I am now becoming a \"Nature Sharer\".\r\nI still have huge L Plates on ",
+   "date_published": "2019-09-08T05:46:22.000+00:00",
+   "date_modified": "2019-09-08T05:53:42.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.088,
+     -37.705
+    ]
+   },
+   "_meta": {
+    "itemCount": 25,
+    "date": "2019-09-08"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/lconole/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Findex.json",
+   "title": "Lawrie Conole",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_54f272c6ed2a8945a1000240/2019-08-20/img_20190820_201524_01.jpeg",
+   "content_text": "Lawrie Conole has over 40 years of ecological experience in Victoria and Australia, and parts of Asia. His background includes state and local government and university research roles, as well as ecological consulting in small to multinational companies. ",
+   "date_published": "2019-08-20T10:24:38.000+00:00",
+   "date_modified": "2019-08-21T10:51:55.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.415,
+     -37.367
+    ]
+   },
+   "_meta": {
+    "itemCount": 69,
+    "date": "2019-08-21"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/joyhick/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjoyhick%2Fitems%2Findex.json",
+   "title": "Joy Hick",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_581bb264ed2a897480002085/2019-07-31/6af9568d_afa3_49b6_9478_4c4b0503c000.jpeg",
+   "content_text": "-",
+   "date_published": "2019-07-30T23:31:22.000+00:00",
+   "date_modified": "2019-07-30T23:31:52.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.652,
+     -36.393
+    ]
+   },
+   "_meta": {
+    "itemCount": 38,
+    "date": "2019-07-30"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/lorrainecphelan/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Florrainecphelan%2Fitems%2Findex.json",
+   "title": "Lorraine Phelan",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_56b45e90ed2a89d4ab000026/2019-07-20/podoserpula_pusio_2.jpeg",
+   "content_text": "-",
+   "date_published": "2019-07-20T11:28:19.000+00:00",
+   "date_modified": "2019-07-20T11:29:14.000+00:00",
+   "_geo": {
+    "coordinates": [
+     142.906,
+     -38.042
+    ]
+   },
+   "_meta": {
+    "itemCount": 729,
+    "date": "2019-07-20"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/echidna/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fechidna%2Fitems%2Findex.json",
+   "title": "Frank Pierce",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c033a85a9663368420000e3/2019-07-13/22mar2019_blanket_leaf_fp_monoctenia_falernara_img_1533a_1.jpeg",
+   "content_text": "-",
+   "date_published": "2019-07-13T12:27:38.000+00:00",
+   "date_modified": "2019-07-14T10:07:36.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.173,
+     -38.235
+    ]
+   },
+   "_meta": {
+    "itemCount": 67,
+    "date": "2019-07-14"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/andrew_allen/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandrew_allen%2Fitems%2Findex.json",
+   "title": "Andrew Allen",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_583ba1bbed2a897480005b25/2019-07-11/img_7208.jpeg",
+   "content_text": "I'm happy to share larger resolution files if needed, contact me here or on my web page listed above",
+   "date_published": "2019-07-11T05:47:19.000+00:00",
+   "date_modified": "2019-07-11T23:44:33.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.769,
+     -37.598
+    ]
+   },
+   "_meta": {
+    "itemCount": 839,
+    "date": "2019-07-11"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/moth_er/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmoth_er%2Fitems%2Findex.json",
+   "title": "Marilyn Hewish",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5a66f216ed2a8939830000a8/2019-07-07/sobriana_ophiodesma_6763_mh.jpeg",
+   "content_text": "-",
+   "date_published": "2019-07-07T11:58:23.000+00:00",
+   "date_modified": "2019-07-07T11:59:16.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.117,
+     -38.433
+    ]
+   },
+   "_meta": {
+    "itemCount": 100,
+    "date": "2019-07-07"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/michaelgooch/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Findex.json",
+   "title": "Michael Gooch",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_542524cce35eb1aeb3000097/2019-07-04/d4_0708_2.jpeg",
+   "content_text": "-",
+   "date_published": "2019-07-04T10:14:30.000+00:00",
+   "date_modified": "2019-07-04T10:19:02.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.546,
+     -37.624
+    ]
+   },
+   "_meta": {
+    "itemCount": 81,
+    "date": "2019-07-04"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/hdavid/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fhdavid%2Fitems%2Findex.json",
+   "title": "David Mules",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c117e3c2a53d7116600010f/2019-07-04/euproctis_limbalis.jpeg",
+   "content_text": "-",
+   "date_published": "2019-07-04T07:45:32.000+00:00",
+   "date_modified": "2019-07-04T07:46:15.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.737,
+     -38.629
+    ]
+   },
+   "_meta": {
+    "itemCount": 28,
+    "date": "2019-07-04"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/therebel2015/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Findex.json",
+   "title": "Nadya Korinfsky",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000012/2019-06-26/717af830_7bc3_40c1_9662_7ee16b498f45.jpeg",
+   "content_text": "-",
+   "date_published": "2019-06-26T10:09:24.000+00:00",
+   "date_modified": "2019-06-26T10:11:57.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.551,
+     -37.41
+    ]
+   },
+   "_meta": {
+    "itemCount": 360,
+    "date": "2019-06-26"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/kennedyh/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkennedyh%2Fitems%2Findex.json",
+   "title": "Ken Harris",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_558768e9ed2a8918dd0010b2/2019-06-26/furcatrox_furneauxi_04_img_6857_21mar19_sheoakpicnicarea_kh_ns.jpeg",
+   "content_text": "-",
+   "date_published": "2019-06-26T00:44:08.000+00:00",
+   "date_modified": "2019-06-26T00:45:18.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.692,
+     -38.62
+    ]
+   },
+   "_meta": {
+    "itemCount": 35,
+    "date": "2019-06-26"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/d_kurek/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fd_kurek%2Fitems%2Findex.json",
+   "title": "Daniel Kurek",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c1ed10e3abbd6b7f00000e2/2019-05-23/1558601781/DSCN7558.JPG",
+   "content_text": "-",
+   "date_published": "2019-05-23T08:56:15.000+00:00",
+   "date_modified": "2019-05-23T08:57:13.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.075,
+     -37.821
+    ]
+   },
+   "_meta": {
+    "itemCount": 71,
+    "date": "2019-05-23"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/james_gordon/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjames_gordon%2Fitems%2Findex.json",
+   "title": "james gordon",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5cdba9fd0fdc3044a1000004/2019-05-15/1557899996/20190422_121950.jpg",
+   "content_text": "-",
+   "date_published": "2019-05-15T06:00:56.000+00:00",
+   "date_modified": "2019-05-15T06:01:55.000+00:00",
+   "_geo": {
+    "coordinates": [
+     146.812,
+     -36.733
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2019-05-15"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/michaelrusso/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelrusso%2Fitems%2Findex.json",
+   "title": "Michael Russo",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5cd0e7b23abbd60c8b000018/2019-05-07/1557195319/Grevillea%20microstegia.jpg",
+   "content_text": "-",
+   "date_published": "2019-05-07T02:19:13.000+00:00",
+   "date_modified": "2019-05-16T13:40:42.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2019-05-16"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/fatkiwi/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ffatkiwi%2Fitems%2Findex.json",
+   "title": "amanda",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5ccf71ed3abbd6e8c0000013/2019-05-06/1557099387/fullsizeoutput_5b9.jpeg",
+   "content_text": "-",
+   "date_published": "2019-05-05T23:37:28.000+00:00",
+   "date_modified": "2019-05-20T03:16:34.000+00:00",
+   "_geo": {
+    "coordinates": [
+     138.883,
+     -34.663
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2019-05-20"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/adammc/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fadammc%2Fitems%2Findex.json",
+   "title": "Adam Mcnamara",
+   "content_text": "-",
+   "date_published": "2019-05-03T11:55:47.000+00:00",
+   "date_modified": "2019-05-03T11:55:47.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.176,
+     -37.497
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2019-05-03"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/249pbr/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F249pbr%2Fitems%2Findex.json",
+   "title": "John Walter",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_59ff9e61ed2a899b0200019e/2019-04-19/1555639429/DSC_9936%20Thalaina%20inscripta%20crop.jpg",
+   "content_text": "-",
+   "date_published": "2019-04-19T02:25:35.000+00:00",
+   "date_modified": "2019-04-19T02:26:07.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.28,
+     -37.407
+    ]
+   },
+   "_meta": {
+    "itemCount": 291,
+    "date": "2019-04-19"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/15/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F15%2Fitems%2Findex.json",
+   "title": "15",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5ca9de6a3abbd6a33e0000c6/2019-04-07/1554636419/F4CC4E58-508C-4CE9-AECE-8D27D4F95B91.jpeg",
+   "content_text": "-",
+   "date_published": "2019-04-07T11:30:44.000+00:00",
+   "date_modified": "2019-05-14T06:38:50.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.692,
+     -37.458
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2019-05-14"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/purpleowl68/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpurpleowl68%2Fitems%2Findex.json",
+   "title": "Heather Elizabeth",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_55891815ed2a8918dd001175/2019-03-06/1551791167/DSC_3928.jpg",
+   "content_text": "-",
+   "date_published": "2019-03-05T13:07:23.000+00:00",
+   "date_modified": "2019-03-06T07:03:57.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.291,
+     -37.806
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2019-03-06"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/jezza2705/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjezza2705%2Fitems%2Findex.json",
+   "title": "Jeromy Molino",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c679f6e3abbd6595b00002a/2019-02-16/1550294964/DSCF6497.JPG",
+   "content_text": "-",
+   "date_published": "2019-02-16T05:30:27.000+00:00",
+   "date_modified": "2019-02-16T06:16:46.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2019-02-16"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/westernplainsgardener/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fitems%2Findex.json",
+   "title": "Ethan Travis",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5b960d3ded2a89cce30032a4/2019-02-13/1550043274/IMG_3461.JPG",
+   "content_text": "-",
+   "date_published": "2019-02-13T07:35:18.000+00:00",
+   "date_modified": "2019-02-13T07:38:19.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.615,
+     -37.848
+    ]
+   },
+   "_meta": {
+    "itemCount": 21,
+    "date": "2019-02-13"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/argybee/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fargybee%2Fitems%2Findex.json",
+   "title": "Mark Ridgway",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_53b39819e35eb129840000b8/2019-01-31/1548897985/casuacattie.jpg",
+   "content_text": "Amateur field naturalist fascinated by all life forms and particularly evolved inter-relationships. \r\nRecent years focusing more on moths, fungi, wasps, flies.",
+   "date_published": "2019-01-31T01:28:15.000+00:00",
+   "date_modified": "2019-01-31T06:52:28.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.346,
+     -37.926
+    ]
+   },
+   "_meta": {
+    "itemCount": 376,
+    "date": "2019-01-31"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/fletch/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ffletch%2Fitems%2Findex.json",
+   "title": "Fletcher Grant ",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5aec3077ed2a893f5a0012d5/2018-12-29/1546044780/IMG_20181115_094026.jpg",
+   "content_text": "-",
+   "date_published": "2018-12-29T00:54:30.000+00:00",
+   "date_modified": "2018-12-29T00:54:47.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.034,
+     -38.298
+    ]
+   },
+   "_meta": {
+    "itemCount": 13,
+    "date": "2018-12-29"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/cath/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcath%2Fitems%2Findex.json",
+   "title": "Cath South",
+   "content_text": "-",
+   "date_published": "2018-12-25T21:10:46.000+00:00",
+   "date_modified": "2018-12-25T21:10:46.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.748,
+     -38.341
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2018-12-25"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/markwilliams/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Findex.json",
+   "title": "Mark Williams",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_53b39819e35eb129840000b1/2018-12-18/1545102608/IMG_5116.jpg",
+   "content_text": "-",
+   "date_published": "2018-12-18T03:11:32.000+00:00",
+   "date_modified": "2018-12-18T03:17:13.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.262,
+     -37.682
+    ]
+   },
+   "_meta": {
+    "itemCount": 47,
+    "date": "2018-12-18"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/swainsona/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fswainsona%2Fitems%2Findex.json",
+   "title": "swainsona",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c0a5f601779a4009f0001b6/2018-12-07/1544185336/20160904_110736.jpg",
+   "content_text": "-",
+   "date_published": "2018-12-07T12:23:22.000+00:00",
+   "date_modified": "2018-12-07T22:23:14.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.409,
+     -36.256
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2018-12-07"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/patrickkavanagh/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpatrickkavanagh%2Fitems%2Findex.json",
+   "title": "Patrick Kavanagh",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c03b61fa96633fc2600012c/2018-12-02/1543747204/Ant_18-11-22_11.JPG",
+   "content_text": "-",
+   "date_published": "2018-12-02T10:41:34.000+00:00",
+   "date_modified": "2018-12-03T00:19:02.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2018-12-03"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/bf/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbf%2Fitems%2Findex.json",
+   "title": "Ben Fisher",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bdc5c53ed2a89c6aa000126.jpg",
+   "content_text": "-",
+   "date_published": "2018-11-02T14:20:22.000+00:00",
+   "date_modified": "2018-11-02T14:20:59.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.989,
+     -37.508
+    ]
+   },
+   "_meta": {
+    "itemCount": 34,
+    "date": "2018-11-02"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/bernie_l/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbernie_l%2Fitems%2Findex.json",
+   "title": "Bernie Lingham",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bdad9aded2a892807000136.JPG",
+   "content_text": "-",
+   "date_published": "2018-11-02T09:04:59.000+00:00",
+   "date_modified": "2018-11-02T09:05:36.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.419,
+     -38.236
+    ]
+   },
+   "_meta": {
+    "itemCount": 26,
+    "date": "2018-11-02"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/brucenjo/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbrucenjo%2Fitems%2Findex.json",
+   "title": "Bruce Donnelly",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bcd87b5ed2a891efe000113.jpeg",
+   "content_text": "-",
+   "date_published": "2018-10-22T08:15:16.000+00:00",
+   "date_modified": "2018-10-22T08:18:33.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.595,
+     -36.426
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2018-10-22"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/clairer/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fclairer%2Fitems%2Findex.json",
+   "title": "Claire Robson",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bcd6bb4ed2a89c6aa00010b.jpg",
+   "content_text": "-",
+   "date_published": "2018-10-22T05:25:50.000+00:00",
+   "date_modified": "2018-10-22T06:21:46.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.433,
+     -37.614
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2018-10-22"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/clairegraham/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fclairegraham%2Fitems%2Findex.json",
+   "title": "Claire Graham",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bc59d8ded2a89402b000107.jpeg",
+   "content_text": "-",
+   "date_published": "2018-10-16T08:16:12.000+00:00",
+   "date_modified": "2018-10-16T08:16:20.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.665,
+     -37.435
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2018-10-16"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/helenr/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fhelenr%2Fitems%2Findex.json",
+   "title": "Helen Ryvitch",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbf41bfed2a89402b0000f9.jpeg",
+   "content_text": "-",
+   "date_published": "2018-10-11T12:27:39.000+00:00",
+   "date_modified": "2018-10-12T00:55:22.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.576,
+     -37.49
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2018-10-12"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/david_francis/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json",
+   "title": "David Francis",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bb74247ed2a891efe0000ed.jpg",
+   "content_text": "-",
+   "date_published": "2018-10-05T10:54:23.000+00:00",
+   "date_modified": "2018-10-05T11:20:40.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.59,
+     -37.245
+    ]
+   },
+   "_meta": {
+    "itemCount": 1311,
+    "date": "2018-10-05"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/davea/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavea%2Fitems%2Findex.json",
+   "title": "davea",
+   "content_text": "-",
+   "date_published": "2018-09-29T08:40:39.000+00:00",
+   "date_modified": "2018-09-29T08:42:53.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.34,
+     -37.575
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2018-09-29"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/william/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwilliam%2Fitems%2Findex.json",
+   "title": "William Terry",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b9b428bed2a89c6aa0000c3.jpg",
+   "content_text": "-",
+   "date_published": "2018-09-14T05:10:39.000+00:00",
+   "date_modified": "2018-09-19T04:45:10.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.575,
+     -37.355
+    ]
+   },
+   "_meta": {
+    "itemCount": 15,
+    "date": "2018-09-19"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/suzid/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsuzid%2Fitems%2Findex.json",
+   "title": "Suzi Duncan",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b98aa0ced2a89c6aa0000bf.jpg",
+   "content_text": "-",
+   "date_published": "2018-09-12T05:57:33.000+00:00",
+   "date_modified": "2018-09-14T00:59:03.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.038,
+     -37.484
+    ]
+   },
+   "_meta": {
+    "itemCount": 14,
+    "date": "2018-09-14"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/buercs/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbuercs%2Fitems%2Findex.json",
+   "title": "Charles Buer",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b932ceded2a8928070000d3.jpeg",
+   "content_text": "-",
+   "date_published": "2018-09-08T01:59:03.000+00:00",
+   "date_modified": "2018-09-08T02:00:57.000+00:00",
+   "_geo": {
+    "coordinates": [
+     142.501,
+     -37.038
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2018-09-08"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/andrewbrown/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandrewbrown%2Fitems%2Findex.json",
+   "title": "Andrew Brown",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b49a2f4ed2a89402b000052.JPG",
+   "content_text": "-",
+   "date_published": "2018-07-14T07:21:24.000+00:00",
+   "date_modified": "2018-07-14T07:25:41.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.396,
+     -36.819
+    ]
+   },
+   "_meta": {
+    "itemCount": 977,
+    "date": "2018-07-14"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/suzanne/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsuzanne%2Fitems%2Findex.json",
+   "title": "Suzanne Jones",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b434181ed2a892807000042.JPG",
+   "content_text": "-",
+   "date_published": "2018-07-09T11:09:07.000+00:00",
+   "date_modified": "2018-07-13T14:42:58.000+00:00",
+   "_geo": {
+    "coordinates": [
+     147.089,
+     -38.081
+    ]
+   },
+   "_meta": {
+    "itemCount": 961,
+    "date": "2018-07-13"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/leesammut/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fleesammut%2Fitems%2Findex.json",
+   "title": "Lee Sammut",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2af6a7ed2a89e822000034.JPG",
+   "content_text": "-",
+   "date_published": "2018-06-21T00:59:03.000+00:00",
+   "date_modified": "2018-06-21T01:01:55.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.449,
+     -37.122
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2018-06-21"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/cynthia/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcynthia%2Fitems%2Findex.json",
+   "title": "Cynthia Isley",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b0bd6a9ed2a89d0e7000018.jpg",
+   "content_text": "-",
+   "date_published": "2018-05-28T10:15:01.000+00:00",
+   "date_modified": "2018-05-31T04:04:33.000+00:00",
+   "_geo": {
+    "coordinates": [
+     151.662,
+     -32.967
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2018-05-31"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/gderrin/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgderrin%2Fitems%2Findex.json",
+   "title": "Geoff Derrin",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5afbe0a6ed2a897570000003.JPG",
+   "content_text": "-",
+   "date_published": "2018-05-16T07:41:17.000+00:00",
+   "date_modified": "2018-05-16T07:45:26.000+00:00",
+   "_geo": {
+    "coordinates": [
+     152.303,
+     -30.394
+    ]
+   },
+   "_meta": {
+    "itemCount": 4,
+    "date": "2018-05-16"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/chris_steff/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchris_steff%2Fitems%2Findex.json",
+   "title": "Chris Steffanoni",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59395166ed2a89398400003e.JPG",
+   "content_text": "Born and raised on Mt Macedon, I developed an appreciation and passion from nature and the environment through a year of environmental studies at Latrobe University. My studies shifted to health science for work but I still love taking time out to ride, w",
+   "date_published": "2018-05-15T00:32:48.000+00:00",
+   "date_modified": "2018-05-15T00:32:55.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.579,
+     -37.415
+    ]
+   },
+   "_meta": {
+    "itemCount": 16,
+    "date": "2018-05-15"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/saskia/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsaskia%2Fitems%2Findex.json",
+   "title": "Saskia",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ac29cc8ed2a8929e700006d.jpg",
+   "content_text": "-",
+   "date_published": "2018-04-03T11:34:29.000+00:00",
+   "date_modified": "2018-04-03T11:35:10.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.308,
+     -37.471
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2018-04-03"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/lorainek/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Florainek%2Fitems%2Findex.json",
+   "title": "loraine",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ab23afbed2a8929e7000053.jpeg",
+   "content_text": "-",
+   "date_published": "2018-03-21T11:18:36.000+00:00",
+   "date_modified": "2018-03-23T00:35:12.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.895,
+     -37.781
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2018-03-23"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/akuhlmann/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fakuhlmann%2Fitems%2Findex.json",
+   "title": "Andrew Kuhlmann",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a9f6054ed2a89abdd000032.JPG",
+   "content_text": "-",
+   "date_published": "2018-03-07T03:46:22.000+00:00",
+   "date_modified": "2018-03-15T11:00:17.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.663,
+     -37.411
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2018-03-15"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/peterm/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpeterm%2Fitems%2Findex.json",
+   "title": "Peter Marriott",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a9bbf89ed2a89cf9000002c.jpg",
+   "content_text": "-",
+   "date_published": "2018-03-04T09:52:31.000+00:00",
+   "date_modified": "2018-03-04T10:39:52.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.134,
+     -37.642
+    ]
+   },
+   "_meta": {
+    "itemCount": 38,
+    "date": "2018-03-04"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/jamesbooth/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json",
+   "title": "James Booth",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a9bbf2eed2a8929e700002a.JPG",
+   "content_text": "-",
+   "date_published": "2018-03-04T09:45:18.000+00:00",
+   "date_modified": "2018-03-05T02:53:46.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.093,
+     -36.524
+    ]
+   },
+   "_meta": {
+    "itemCount": 1439,
+    "date": "2018-03-05"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/ferrymanau/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fferrymanau%2Fitems%2Findex.json",
+   "title": "Francis Ebury",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a9770a5ed2a897fc800001c.jpg",
+   "content_text": "-",
+   "date_published": "2018-03-01T03:27:14.000+00:00",
+   "date_modified": "2018-03-01T04:16:25.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.59,
+     -37.383
+    ]
+   },
+   "_meta": {
+    "itemCount": 14,
+    "date": "2018-03-01"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/jrenyard/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjrenyard%2Fitems%2Findex.json",
+   "title": "John Renyard",
+   "content_text": "-",
+   "date_published": "2018-02-22T22:07:40.000+00:00",
+   "date_modified": "2018-02-22T22:08:07.000+00:00",
+   "_geo": {
+    "coordinates": [
+     142.962,
+     -38.494
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2018-02-22"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/gill/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Findex.json",
+   "title": "Gill Best",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a784216ed2a8966a0000030.png",
+   "content_text": "-",
+   "date_published": "2018-02-05T11:42:41.000+00:00",
+   "date_modified": "2018-02-05T11:44:46.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.676,
+     -37.109
+    ]
+   },
+   "_meta": {
+    "itemCount": 66,
+    "date": "2018-02-05"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/guymer/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fguymer%2Fitems%2Findex.json",
+   "title": "Sue Guymer",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54a7a8a7e35eb1b832000001.jpg",
+   "content_text": "APS Maroondah member",
+   "date_published": "2018-02-05T06:42:34.000+00:00",
+   "date_modified": "2018-02-05T06:50:28.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.208,
+     -37.781
+    ]
+   },
+   "_meta": {
+    "itemCount": 288,
+    "date": "2018-02-05"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/ozfroggirl/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fozfroggirl%2Fitems%2Findex.json",
+   "title": "Majella Jackiw",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a5b0020ed2a893fb70000bb.jpg",
+   "content_text": "-",
+   "date_published": "2018-01-14T07:06:33.000+00:00",
+   "date_modified": "2018-01-14T08:20:56.000+00:00",
+   "_geo": {
+    "coordinates": [
+     146.253,
+     -38.189
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2018-01-14"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/iandsmith/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fiandsmith%2Fitems%2Findex.json",
+   "title": "Ian Smith",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a51a75bed2a893fb7000096.JPG",
+   "content_text": "-",
+   "date_published": "2018-01-07T04:51:21.000+00:00",
+   "date_modified": "2018-05-04T12:11:25.000+00:00",
+   "_geo": {
+    "coordinates": [
+     151.582,
+     -33.057
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2018-05-04"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/greyim/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgreyim%2Fitems%2Findex.json",
+   "title": "graham alexander",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a4fe0d4ed2a890e9e000068.jpg",
+   "content_text": "-",
+   "date_published": "2018-01-05T20:36:04.000+00:00",
+   "date_modified": "2018-01-05T21:32:57.000+00:00",
+   "_geo": {
+    "coordinates": [
+     146.326,
+     -41.184
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2018-01-05"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/nath10154/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fnath10154%2Fitems%2Findex.json",
+   "title": "nath10154",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a4f511eed2a890e9e000067.JPG",
+   "content_text": "-",
+   "date_published": "2018-01-05T10:25:12.000+00:00",
+   "date_modified": "2018-01-05T10:26:31.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2018-01-05"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/psoralea/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Findex.json",
+   "title": "Lachlan Milne",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a49e4b6ed2a890e9e000054.jpeg",
+   "content_text": "-",
+   "date_published": "2018-01-01T07:36:43.000+00:00",
+   "date_modified": "2018-01-01T07:37:20.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.604,
+     -37.508
+    ]
+   },
+   "_meta": {
+    "itemCount": 46,
+    "date": "2018-01-01"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/curioso/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcurioso%2Fitems%2Findex.json",
+   "title": "curioso",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a44cc8ced2a89298f000057.JPG",
+   "content_text": "-",
+   "date_published": "2017-12-28T11:03:40.000+00:00",
+   "date_modified": "2017-12-28T11:05:13.000+00:00",
+   "_geo": {
+    "coordinates": [
+     151.484,
+     -33.381
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-12-28"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/batfish/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbatfish%2Fitems%2Findex.json",
+   "title": "Andrew King",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a41fab2ed2a892d1500004d.jpg",
+   "content_text": "-",
+   "date_published": "2017-12-26T07:32:42.000+00:00",
+   "date_modified": "2017-12-26T07:32:54.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.072,
+     -37.578
+    ]
+   },
+   "_meta": {
+    "itemCount": 5,
+    "date": "2017-12-26"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/skeeta/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fskeeta%2Fitems%2Findex.json",
+   "title": "skeeta",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a40e7d2ed2a892d1500004a.jpg",
+   "content_text": "-",
+   "date_published": "2017-12-25T11:57:53.000+00:00",
+   "date_modified": "2017-12-25T11:59:05.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-12-25"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/chorner/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchorner%2Fitems%2Findex.json",
+   "title": "Cara Horner",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a332be9ed2a89298f000020.JPG",
+   "content_text": "-",
+   "date_published": "2017-12-15T01:56:35.000+00:00",
+   "date_modified": "2017-12-15T02:01:49.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.019,
+     -37.627
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-12-15"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/abcmaps/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fabcmaps%2Fitems%2Findex.json",
+   "title": "Luke Steenhuis",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a31aa34ed2a892d15000018.JPG",
+   "content_text": "-",
+   "date_published": "2017-12-13T22:35:50.000+00:00",
+   "date_modified": "2017-12-14T03:16:12.000+00:00",
+   "_geo": {
+    "coordinates": [
+     146.377,
+     -37.578
+    ]
+   },
+   "_meta": {
+    "itemCount": 39,
+    "date": "2017-12-14"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/pauline/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpauline%2Fitems%2Findex.json",
+   "title": "Pauline McCarthy",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a1f4b5fed2a8939840007b0.JPG",
+   "content_text": "-",
+   "date_published": "2017-11-30T00:08:19.000+00:00",
+   "date_modified": "2017-11-30T00:08:33.000+00:00",
+   "_geo": {
+    "coordinates": [
+     142.302,
+     -37.848
+    ]
+   },
+   "_meta": {
+    "itemCount": 189,
+    "date": "2017-11-30"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/lindyh/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flindyh%2Fitems%2Findex.json",
+   "title": "Lindy Harris",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a1a3d21ed2a893984000719.jpg",
+   "content_text": "-",
+   "date_published": "2017-11-27T09:27:54.000+00:00",
+   "date_modified": "2017-11-27T09:28:19.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.381,
+     -37.816
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-11-27"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/reames81/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freames81%2Fitems%2Findex.json",
+   "title": "Robyn Eames",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a10abdded2a8939840006c6.jpg",
+   "content_text": "-",
+   "date_published": "2017-11-18T21:53:14.000+00:00",
+   "date_modified": "2017-11-18T21:55:44.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-11-18"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/sadia/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsadia%2Fitems%2Findex.json",
+   "title": "Sadia Haque",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a027829ed2a893984000623.jpg",
+   "content_text": "-",
+   "date_published": "2017-11-08T03:21:05.000+00:00",
+   "date_modified": "2017-11-08T12:31:20.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-11-08"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/juliem/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjuliem%2Fitems%2Findex.json",
+   "title": "Julie Macdonald",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59f96cfded2a8939840005a4.JPG",
+   "content_text": "-",
+   "date_published": "2017-11-01T06:42:57.000+00:00",
+   "date_modified": "2017-11-01T11:25:23.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.695,
+     -37.458
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-11-01"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/bush/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbush%2Fitems%2Findex.json",
+   "title": "Ricardo Nogueira",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59e6d39aed2a893984000502.jpg",
+   "content_text": "-",
+   "date_published": "2017-10-18T04:10:07.000+00:00",
+   "date_modified": "2017-10-18T04:10:07.000+00:00",
+   "_geo": {
+    "coordinates": [
+     139.781,
+     -35.209
+    ]
+   },
+   "_meta": {
+    "itemCount": 7,
+    "date": "2017-10-18"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/jeflom/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjeflom%2Fitems%2Findex.json",
+   "title": "Jeff Lomas",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59d4a8b1ed2a8939840003e3.JPG",
+   "content_text": "-",
+   "date_published": "2017-10-04T09:59:30.000+00:00",
+   "date_modified": "2017-10-04T09:59:30.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.37,
+     -38.694
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-10-04"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/woody/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwoody%2Fitems%2Findex.json",
+   "title": "Michael Blyth",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c8f5caed2a8939840002da.jpeg",
+   "content_text": "-",
+   "date_published": "2017-09-25T12:25:40.000+00:00",
+   "date_modified": "2017-09-25T12:25:40.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.524,
+     -37.384
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-09-25"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/jamesmmcardle/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesmmcardle%2Fitems%2Findex.json",
+   "title": "James McArdle",
+   "content_text": "-",
+   "date_published": "2017-09-01T23:32:08.000+00:00",
+   "date_modified": "2017-09-01T23:32:08.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.235,
+     -37.055
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-09-01"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/dredgy/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdredgy%2Fitems%2Findex.json",
+   "title": "Tim Dredge",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/599c161fed2a8939840001a3.jpg",
+   "content_text": "-",
+   "date_published": "2017-08-22T11:35:43.000+00:00",
+   "date_modified": "2017-08-27T12:30:22.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 6,
+    "date": "2017-08-27"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/anniemaybelle/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fanniemaybelle%2Fitems%2Findex.json",
+   "title": "Annie Phelan",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/598b041aed2a893984000182.jpg",
+   "content_text": "-",
+   "date_published": "2017-08-09T12:54:44.000+00:00",
+   "date_modified": "2017-08-09T12:54:44.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.583,
+     -37.4
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-08-09"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/tmiller/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fitems%2Findex.json",
+   "title": "Tom Miller",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5964343aed2a893984000105.jpg",
+   "content_text": "-",
+   "date_published": "2017-07-11T02:16:02.000+00:00",
+   "date_modified": "2017-07-11T02:45:24.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.286,
+     -37.628
+    ]
+   },
+   "_meta": {
+    "itemCount": 30,
+    "date": "2017-07-11"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/ronsteicke/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fronsteicke%2Fitems%2Findex.json",
+   "title": "Ronald Steicke",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/596354c1ed2a8939840000ea.JPG",
+   "content_text": "-",
+   "date_published": "2017-07-10T10:31:09.000+00:00",
+   "date_modified": "2017-07-10T12:55:23.000+00:00",
+   "_geo": {
+    "coordinates": [
+     142.088,
+     -34.194
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-07-10"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/lindamerlino/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flindamerlino%2Fitems%2Findex.json",
+   "title": "Linda Merlino",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59518fb8ed2a8939840000ac.jpg",
+   "content_text": "-",
+   "date_published": "2017-06-27T01:47:24.000+00:00",
+   "date_modified": "2017-06-30T01:14:33.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.068,
+     -37.646
+    ]
+   },
+   "_meta": {
+    "itemCount": 5,
+    "date": "2017-06-30"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/vuk_2/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fvuk_2%2Fitems%2Findex.json",
+   "title": "Vuk Vojis",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5941201eed2a893984000061.JPG",
+   "content_text": "-",
+   "date_published": "2017-06-14T11:37:15.000+00:00",
+   "date_modified": "2017-06-14T11:37:57.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.119,
+     -38.028
+    ]
+   },
+   "_meta": {
+    "itemCount": 88,
+    "date": "2017-06-14"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/jylu/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fitems%2Findex.json",
+   "title": "Jing-Yi Lu",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5937ef0ded2a89398400003c.JPG",
+   "content_text": "-",
+   "date_published": "2017-06-07T12:22:41.000+00:00",
+   "date_modified": "2017-06-12T09:54:06.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.891,
+     -37.889
+    ]
+   },
+   "_meta": {
+    "itemCount": 16,
+    "date": "2017-06-12"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/matthewroach/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmatthewroach%2Fitems%2Findex.json",
+   "title": "Matthew Roach",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592a70b7ed2a891d6d000169.JPG",
+   "content_text": "-",
+   "date_published": "2017-05-28T06:43:49.000+00:00",
+   "date_modified": "2017-05-28T07:20:45.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.19,
+     -37.66
+    ]
+   },
+   "_meta": {
+    "itemCount": 6,
+    "date": "2017-05-28"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/steve/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsteve%2Fitems%2Findex.json",
+   "title": "Steve B",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59182a63ed2a891d6d000146.PNG",
+   "content_text": "-",
+   "date_published": "2017-05-14T10:05:24.000+00:00",
+   "date_modified": "2017-05-15T12:20:53.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.733,
+     -36.868
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-05-15"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/nicb/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fnicb%2Fitems%2Findex.json",
+   "title": "nicb",
+   "content_text": "-",
+   "date_published": "2017-05-09T13:36:35.000+00:00",
+   "date_modified": "2017-05-31T13:33:20.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-05-31"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/vukvuk/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fvukvuk%2Fitems%2Findex.json",
+   "title": "vuk vojisavljevic",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58fe036ced2a891d6d000112.JPG",
+   "content_text": "-",
+   "date_published": "2017-04-24T13:51:48.000+00:00",
+   "date_modified": "2017-12-12T03:26:53.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.123,
+     -38.052
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2017-12-12"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/frankiebee/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ffrankiebee%2Fitems%2Findex.json",
+   "title": "Frances Beacom",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58fc3b92ed2a89e548000102.JPG",
+   "content_text": "-",
+   "date_published": "2017-04-23T05:33:21.000+00:00",
+   "date_modified": "2017-04-23T13:12:45.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.661,
+     -37.454
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2017-04-23"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/bertbohosouth/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbertbohosouth%2Fitems%2Findex.json",
+   "title": "Bertram Lobert",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58fc10e5ed2a89a81f0000fd.jpg",
+   "content_text": "-",
+   "date_published": "2017-04-23T02:36:20.000+00:00",
+   "date_modified": "2017-04-24T04:16:24.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.13,
+     -36.294
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2017-04-24"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/canado312/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcanado312%2Fitems%2Findex.json",
+   "title": "Alistair  Walker",
+   "content_text": "-",
+   "date_published": "2017-04-14T10:38:29.000+00:00",
+   "date_modified": "2017-04-14T10:38:29.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.191,
+     -36.866
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-04-14"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/bethanyl/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbethanyl%2Fitems%2Findex.json",
+   "title": "Bethany Lindorff",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ec8edced2a89e5480000ca.jpeg",
+   "content_text": "-",
+   "date_published": "2017-04-11T08:10:35.000+00:00",
+   "date_modified": "2017-04-11T10:39:40.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.913,
+     -37.69
+    ]
+   },
+   "_meta": {
+    "itemCount": 6,
+    "date": "2017-04-11"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/dairyfreelady/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdairyfreelady%2Fitems%2Findex.json",
+   "title": "dairyfreelady",
+   "content_text": "-",
+   "date_published": "2017-04-09T08:29:03.000+00:00",
+   "date_modified": "2017-04-09T08:29:03.000+00:00",
+   "_geo": {
+    "coordinates": [
+     146.174,
+     -42.116
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-04-09"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/helenal1978/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fhelenal1978%2Fitems%2Findex.json",
+   "title": "Helena Lindorff",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ba610bed2a891d6d000022.jpg",
+   "content_text": "-",
+   "date_published": "2017-03-04T06:52:17.000+00:00",
+   "date_modified": "2017-03-04T09:19:48.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.223,
+     -37.902
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2017-03-04"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/ellena/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fellena%2Fitems%2Findex.json",
+   "title": "Ellena Best",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58300fd0ed2a892daf000204.PNG",
+   "content_text": "-",
+   "date_published": "2017-02-28T09:06:36.000+00:00",
+   "date_modified": "2017-02-28T10:57:11.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.052,
+     -37.588
+    ]
+   },
+   "_meta": {
+    "itemCount": 17,
+    "date": "2017-02-28"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/andill/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandill%2Fitems%2Findex.json",
+   "title": "Andrew Dilley",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58b373dced2a894410000017.jpg",
+   "content_text": "-",
+   "date_published": "2017-02-27T00:32:12.000+00:00",
+   "date_modified": "2017-02-27T00:34:55.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.563,
+     -37.483
+    ]
+   },
+   "_meta": {
+    "itemCount": 16,
+    "date": "2017-02-27"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/joelvanden/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjoelvanden%2Fitems%2Findex.json",
+   "title": "Joel Vanden",
+   "content_text": "-",
+   "date_published": "2017-02-15T00:11:33.000+00:00",
+   "date_modified": "2017-02-15T11:57:02.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.764,
+     -38.354
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-02-15"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/artinau/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fartinau%2Fitems%2Findex.json",
+   "title": "Gabbie",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58973a25ed2a892daf0003a0.JPG",
+   "content_text": "-",
+   "date_published": "2017-02-05T14:51:38.000+00:00",
+   "date_modified": "2017-02-05T21:54:45.000+00:00",
+   "_geo": {
+    "coordinates": [
+     116.264,
+     -31.853
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-02-05"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/lindagrant/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flindagrant%2Fitems%2Findex.json",
+   "title": "Linda Grant",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/589700f6ed2a89d73e00035b.jpg",
+   "content_text": "-",
+   "date_published": "2017-02-05T10:47:25.000+00:00",
+   "date_modified": "2017-02-05T10:47:25.000+00:00",
+   "_geo": {
+    "coordinates": [
+     142.026,
+     -37.722
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-02-05"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/cclarke/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json",
+   "title": "Chris Clarke",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588b2fc6ed2a89b3fe000351.jpg",
+   "content_text": "-",
+   "date_published": "2017-01-27T11:33:12.000+00:00",
+   "date_modified": "2017-01-27T11:33:12.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.172,
+     -37.493
+    ]
+   },
+   "_meta": {
+    "itemCount": 1769,
+    "date": "2017-01-27"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/steveburrows/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsteveburrows%2Fitems%2Findex.json",
+   "title": "Steve Burrows",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/587164c3ed2a89b3fe0002d7.jpg",
+   "content_text": "-",
+   "date_published": "2017-01-07T22:03:22.000+00:00",
+   "date_modified": "2017-01-08T03:00:36.000+00:00",
+   "_geo": {
+    "coordinates": [
+     149.747,
+     -37.578
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-01-08"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/wilcirrus/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwilcirrus%2Fitems%2Findex.json",
+   "title": "Wes T",
+   "content_text": "-",
+   "date_published": "2017-01-04T10:43:46.000+00:00",
+   "date_modified": "2017-01-04T10:43:46.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.125,
+     -37.857
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-01-04"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/judyallen/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjudyallen%2Fitems%2Findex.json",
+   "title": "Judy Allen",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/585353bbed2a89b3fe00025b.JPG",
+   "content_text": "-",
+   "date_published": "2016-12-16T03:01:35.000+00:00",
+   "date_modified": "2016-12-16T03:01:35.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.814,
+     -37.678
+    ]
+   },
+   "_meta": {
+    "itemCount": 101,
+    "date": "2016-12-16"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/meldotp/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmeldotp%2Fitems%2Findex.json",
+   "title": "mel pritchard",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/582acb55ed2a89b7180001c2.JPG",
+   "content_text": "-",
+   "date_published": "2016-11-15T08:46:59.000+00:00",
+   "date_modified": "2016-11-15T08:46:59.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.503,
+     -37.234
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2016-11-15"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/helena/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fhelena%2Fitems%2Findex.json",
+   "title": "Helena Lindorff",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5818787fed2a89d73e000171.jpg",
+   "content_text": "-",
+   "date_published": "2016-11-08T09:37:48.000+00:00",
+   "date_modified": "2016-11-08T09:38:55.000+00:00",
+   "_geo": {
+    "coordinates": [
+     142.472,
+     -36.853
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2016-11-08"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/jcorrie/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjcorrie%2Fitems%2Findex.json",
+   "title": "John Corrie",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/581dbab3ed2a89b71800018c.JPG",
+   "content_text": "-",
+   "date_published": "2016-11-05T11:18:15.000+00:00",
+   "date_modified": "2016-11-05T11:18:15.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.961,
+     -38.565
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2016-11-05"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/giorgiod/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Findex.json",
+   "title": "Giorgio De Nola",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58186c58ed2a89b718000175.JPG",
+   "content_text": "-",
+   "date_published": "2016-11-01T10:20:36.000+00:00",
+   "date_modified": "2016-11-01T10:20:36.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.414,
+     -37.785
+    ]
+   },
+   "_meta": {
+    "itemCount": 372,
+    "date": "2016-11-01"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/lydia/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Findex.json",
+   "title": "Lydia Best",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5805e5b7ed2a89b3fe000135.jpg",
+   "content_text": "-",
+   "date_published": "2016-10-18T09:11:04.000+00:00",
+   "date_modified": "2016-10-18T12:44:01.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.083,
+     -36.433
+    ]
+   },
+   "_meta": {
+    "itemCount": 29,
+    "date": "2016-10-18"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/buffy/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbuffy%2Fitems%2Findex.json",
+   "title": "Elizabeth Hatfield",
+   "content_text": "-",
+   "date_published": "2016-10-09T05:47:57.000+00:00",
+   "date_modified": "2016-10-09T05:47:57.000+00:00",
+   "_geo": {
+    "coordinates": [
+     141.879,
+     -37.818
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2016-10-09"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/brett/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbrett%2Fitems%2Findex.json",
+   "title": "Brett",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e91552ed2a89b7180000a0.JPG",
+   "content_text": "-",
+   "date_published": "2016-09-26T12:33:37.000+00:00",
+   "date_modified": "2016-09-26T12:34:01.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.238,
+     -37.999
+    ]
+   },
+   "_meta": {
+    "itemCount": 11,
+    "date": "2016-09-26"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/stunningphotography/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fstunningphotography%2Fitems%2Findex.json",
+   "title": "Mario Krotkas",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57d26d2fed2a89b71800002d.jpg",
+   "content_text": "-",
+   "date_published": "2016-09-09T08:09:48.000+00:00",
+   "date_modified": "2016-09-10T03:40:37.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.126,
+     -37.991
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2016-09-10"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/laura_prentice/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flaura_prentice%2Fitems%2Findex.json",
+   "title": "Laura Prentice",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57b63d01ed2a892daf00000c.JPG",
+   "content_text": "-",
+   "date_published": "2016-09-01T23:27:56.000+00:00",
+   "date_modified": "2016-09-02T13:08:42.000+00:00",
+   "_geo": {
+    "coordinates": [
+     142.466,
+     -38.374
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2016-09-02"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/rosscolliver/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frosscolliver%2Fitems%2Findex.json",
+   "title": "Ross Colliver",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57a5a845ed2a89d73e000001.JPG",
+   "content_text": "-",
+   "date_published": "2016-08-06T09:12:56.000+00:00",
+   "date_modified": "2016-08-06T09:16:00.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.636,
+     -37.444
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2016-08-06"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/gdholmes/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgdholmes%2Fitems%2Findex.json",
+   "title": "Gareth Holmes",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5771ef7ded2a89211c00026b.JPG",
+   "content_text": "-",
+   "date_published": "2016-06-28T03:30:58.000+00:00",
+   "date_modified": "2016-06-28T03:35:13.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.364,
+     -37.483
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2016-06-28"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/scotia/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fscotia%2Fitems%2Findex.json",
+   "title": "Scott",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57543f84ed2a890be7000219.jpg",
+   "content_text": "-",
+   "date_published": "2016-06-05T15:10:10.000+00:00",
+   "date_modified": "2016-06-05T15:11:20.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.941,
+     -35.969
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2016-06-05"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/aussietrekker/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Faussietrekker%2Fitems%2Findex.json",
+   "title": "JUDITH MCGINNESS",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/573809c7ed2a89211c000220.JPG",
+   "content_text": "-",
+   "date_published": "2016-05-15T05:39:08.000+00:00",
+   "date_modified": "2016-05-15T05:39:08.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.313,
+     -37.875
+    ]
+   },
+   "_meta": {
+    "itemCount": 17,
+    "date": "2016-05-15"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/glenno/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fglenno%2Fitems%2Findex.json",
+   "title": "Glenn Wilson",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5725bf82ed2a890be70001cb.jpg",
+   "content_text": "-",
+   "date_published": "2016-05-01T08:47:15.000+00:00",
+   "date_modified": "2016-05-01T11:15:06.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.44,
+     -37.68
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2016-05-01"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/jedwards/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fitems%2Findex.json",
+   "title": "John Edwards",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55b83e66ed2a89db81000346.jpg",
+   "content_text": "-",
+   "date_published": "2016-04-27T07:01:54.000+00:00",
+   "date_modified": "2016-04-27T07:01:54.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.702,
+     -37.803
+    ]
+   },
+   "_meta": {
+    "itemCount": 62,
+    "date": "2016-04-27"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/sundaybooth/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsundaybooth%2Fitems%2Findex.json",
+   "title": "Sunday Booth",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/570980eded2a890be7000195.JPG",
+   "content_text": "-",
+   "date_published": "2016-04-09T22:43:25.000+00:00",
+   "date_modified": "2016-04-09T22:43:25.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.401,
+     -36.063
+    ]
+   },
+   "_meta": {
+    "itemCount": 13,
+    "date": "2016-04-09"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/wendyfurniss/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwendyfurniss%2Fitems%2Findex.json",
+   "title": "Wendy Furniss",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57070307ed2a89211c0001b4.JPG",
+   "content_text": "-",
+   "date_published": "2016-04-08T01:16:07.000+00:00",
+   "date_modified": "2016-04-10T02:49:05.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.504,
+     -37.611
+    ]
+   },
+   "_meta": {
+    "itemCount": 16,
+    "date": "2016-04-10"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/lauren_fraser/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flauren_fraser%2Fitems%2Findex.json",
+   "title": "Lauren Fraser",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56fdbc7fed2a890be7000179.jpg",
+   "content_text": "-",
+   "date_published": "2016-04-01T00:26:43.000+00:00",
+   "date_modified": "2016-04-02T23:01:50.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.439,
+     -38.031
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2016-04-02"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/ljhovey/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fljhovey%2Fitems%2Findex.json",
+   "title": "Lyn Hovey",
+   "content_text": "-",
+   "date_published": "2016-03-26T10:07:29.000+00:00",
+   "date_modified": "2016-04-21T12:13:13.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.679,
+     -37.46
+    ]
+   },
+   "_meta": {
+    "itemCount": 11,
+    "date": "2016-04-21"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/natj83/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fnatj83%2Fitems%2Findex.json",
+   "title": "Nat",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56f3f25ded2a890be700014f.jpg",
+   "content_text": "-",
+   "date_published": "2016-03-24T14:08:50.000+00:00",
+   "date_modified": "2016-03-25T06:23:25.000+00:00",
+   "_geo": {
+    "coordinates": [
+     146.514,
+     -37.53
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2016-03-25"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/cyndeemtaylor/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcyndeemtaylor%2Fitems%2Findex.json",
+   "title": "Cyndee  Taylor",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56f2fdd8ed2a890be7000148.png",
+   "content_text": "-",
+   "date_published": "2016-03-23T20:58:31.000+00:00",
+   "date_modified": "2016-03-24T03:25:02.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2016-03-24"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/snowyriverman/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsnowyriverman%2Fitems%2Findex.json",
+   "title": "Josh Tuck",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ed4d87ed2a89211c00015f.jpg",
+   "content_text": "-",
+   "date_published": "2016-03-19T13:08:18.000+00:00",
+   "date_modified": "2016-03-19T13:08:18.000+00:00",
+   "_geo": {
+    "coordinates": [
+     148.562,
+     -37.025
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2016-03-19"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/andrewhill/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandrewhill%2Fitems%2Findex.json",
+   "title": "Andrew Hill",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56e37f96ed2a89211c000121.JPG",
+   "content_text": "-",
+   "date_published": "2016-03-12T02:30:01.000+00:00",
+   "date_modified": "2016-03-12T02:31:37.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.543,
+     -37.677
+    ]
+   },
+   "_meta": {
+    "itemCount": 15,
+    "date": "2016-03-12"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/nativeplantlover/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fnativeplantlover%2Fitems%2Findex.json",
+   "title": "Chris Walker-Cook",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56d4068aed2a890be7000090.JPG",
+   "content_text": "-",
+   "date_published": "2016-02-29T08:56:38.000+00:00",
+   "date_modified": "2016-02-29T08:57:42.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.04,
+     -37.73
+    ]
+   },
+   "_meta": {
+    "itemCount": 12,
+    "date": "2016-02-29"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/honeyeater/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fhoneyeater%2Fitems%2Findex.json",
+   "title": "honeyeater",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a22096ed2a89b31c000033.jpeg",
+   "content_text": "-",
+   "date_published": "2016-01-22T13:53:35.000+00:00",
+   "date_modified": "2016-01-22T13:53:35.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.356,
+     -37.909
+    ]
+   },
+   "_meta": {
+    "itemCount": 4,
+    "date": "2016-01-22"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/colleenb/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcolleenb%2Fitems%2Findex.json",
+   "title": "Colleen Barnes",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/569c51a3ed2a89b31c000012.jpg",
+   "content_text": "-",
+   "date_published": "2016-01-18T02:51:57.000+00:00",
+   "date_modified": "2016-01-19T09:31:39.000+00:00",
+   "_geo": {
+    "coordinates": [
+     141.33,
+     -34.141
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2016-01-19"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/mcrad/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmcrad%2Fitems%2Findex.json",
+   "title": "Murray&Rose Dodd",
+   "content_text": "-",
+   "date_published": "2016-01-16T20:27:40.000+00:00",
+   "date_modified": "2016-01-16T20:27:40.000+00:00",
+   "_geo": {
+    "coordinates": [
+     146.613,
+     -36.196
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2016-01-16"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/alexsmart/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Falexsmart%2Fitems%2Findex.json",
+   "title": "Alex Smart",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/565a0865ed2a899c6300025f.jpg",
+   "content_text": "-",
+   "date_published": "2015-11-28T20:08:51.000+00:00",
+   "date_modified": "2016-01-17T12:16:32.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.27,
+     -38.129
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2016-01-17"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/pam/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpam%2Fitems%2Findex.json",
+   "title": "Pam Brooks",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5653e37ded2a899c63000208.jpg",
+   "content_text": "-",
+   "date_published": "2015-11-24T04:14:19.000+00:00",
+   "date_modified": "2015-11-25T09:21:22.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.683,
+     -37.458
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2015-11-25"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_126/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_126%2Fitems%2Findex.json",
+   "title": "Jason Caruso",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/564eaceded2a899c630001d8.jpg",
+   "content_text": "-",
+   "date_published": "2015-11-20T05:18:43.000+00:00",
+   "date_modified": "2015-11-20T05:18:43.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.878,
+     -37.631
+    ]
+   },
+   "_meta": {
+    "itemCount": 97,
+    "date": "2015-11-20"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/anni75/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fanni75%2Fitems%2Findex.json",
+   "title": "Annemaree Docking",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5648636ded2a899c630001a8.JPG",
+   "content_text": "-",
+   "date_published": "2015-11-15T10:51:59.000+00:00",
+   "date_modified": "2015-11-15T10:51:59.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.934,
+     -37.302
+    ]
+   },
+   "_meta": {
+    "itemCount": 334,
+    "date": "2015-11-15"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/kywong/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkywong%2Fitems%2Findex.json",
+   "title": "Del",
+   "content_text": "-",
+   "date_published": "2015-11-04T10:02:11.000+00:00",
+   "date_modified": "2015-11-04T10:02:11.000+00:00",
+   "_geo": {
+    "coordinates": [
+     141.009,
+     -38.039
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2015-11-04"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/martinl/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmartinl%2Fitems%2Findex.json",
+   "title": "Martin Lagerwey",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5635c6d7ed2a899c6300009b.JPG",
+   "content_text": "-",
+   "date_published": "2015-11-01T08:12:09.000+00:00",
+   "date_modified": "2015-11-01T08:12:09.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.152,
+     -37.414
+    ]
+   },
+   "_meta": {
+    "itemCount": 169,
+    "date": "2015-11-01"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/mcnova/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmcnova%2Fitems%2Findex.json",
+   "title": "mcnova",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5635a0f1ed2a899c63000095.JPG",
+   "content_text": "-",
+   "date_published": "2015-11-01T05:23:39.000+00:00",
+   "date_modified": "2015-11-01T05:23:39.000+00:00",
+   "_geo": {
+    "coordinates": [
+     142.332,
+     -37.04
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2015-11-01"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/megani/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmegani%2Fitems%2Findex.json",
+   "title": "Megan Ivey-Law",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5634537bed2a899c63000080.jpg",
+   "content_text": "-",
+   "date_published": "2015-10-31T06:30:15.000+00:00",
+   "date_modified": "2015-10-31T06:30:15.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.012,
+     -37.972
+    ]
+   },
+   "_meta": {
+    "itemCount": 17,
+    "date": "2015-10-31"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/keng/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkeng%2Fitems%2Findex.json",
+   "title": "Ken Griffiths",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5624f466ed2a890d95000564.jpg",
+   "content_text": "-",
+   "date_published": "2015-10-19T13:47:02.000+00:00",
+   "date_modified": "2015-10-20T04:55:25.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.211,
+     -37.871
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2015-10-20"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/lsmith76/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flsmith76%2Fitems%2Findex.json",
+   "title": "lsmith76",
+   "content_text": "-",
+   "date_published": "2015-10-19T00:45:46.000+00:00",
+   "date_modified": "2015-10-19T00:58:45.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2015-10-19"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/melvba/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmelvba%2Fitems%2Findex.json",
+   "title": "Mel",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560092b8ed2a890d95000213.JPG",
+   "content_text": "-",
+   "date_published": "2015-09-21T23:28:33.000+00:00",
+   "date_modified": "2015-09-21T23:37:45.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.121,
+     -37.336
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2015-09-21"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json",
+   "title": "Russell Best",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55fe17d8ed2a890d950001d9.jpeg",
+   "content_text": "\nIn memory of Russell Best (1963 - 2015)\n\nThe co-founder of NatureShare and the biggest contributor of species information, observations, photos, collections and identifications. Russell travelled widely in Victoria in search of native, rare and threatene",
+   "date_published": "2015-09-20T02:19:47.000+00:00",
+   "date_modified": "2015-09-20T02:21:32.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.768,
+     -36.687
+    ]
+   },
+   "_meta": {
+    "itemCount": 5453,
+    "date": "2015-09-20"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/gtgoods/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fitems%2Findex.json",
+   "title": "Graham Goods",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55f7fca1ed2a890d95000181.jpg",
+   "content_text": "-",
+   "date_published": "2015-09-15T11:10:05.000+00:00",
+   "date_modified": "2015-09-15T11:12:03.000+00:00",
+   "_geo": {
+    "coordinates": [
+     141.903,
+     -36.403
+    ]
+   },
+   "_meta": {
+    "itemCount": 10,
+    "date": "2015-09-15"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/gmgoods/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgmgoods%2Fitems%2Findex.json",
+   "title": "Maree Goods",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55f38a5aed2a890d95000141.jpg",
+   "content_text": "-",
+   "date_published": "2015-09-12T02:13:17.000+00:00",
+   "date_modified": "2015-09-12T02:16:47.000+00:00",
+   "_geo": {
+    "coordinates": [
+     142.182,
+     -36.692
+    ]
+   },
+   "_meta": {
+    "itemCount": 224,
+    "date": "2015-09-12"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/wallaby55/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwallaby55%2Fitems%2Findex.json",
+   "title": "Rae Talbot",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55de5991ed2a890d95000069.JPG",
+   "content_text": "-",
+   "date_published": "2015-08-27T00:27:32.000+00:00",
+   "date_modified": "2015-08-27T00:29:35.000+00:00",
+   "_geo": {
+    "coordinates": [
+     142.615,
+     -36.457
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2015-08-27"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/libbyw/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flibbyw%2Fitems%2Findex.json",
+   "title": "Libby Woodward",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55c18477ed2a89db81000a06.JPG",
+   "content_text": "-",
+   "date_published": "2015-08-05T03:35:19.000+00:00",
+   "date_modified": "2015-08-05T03:35:53.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.715,
+     -36.522
+    ]
+   },
+   "_meta": {
+    "itemCount": 116,
+    "date": "2015-08-05"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/tanya/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftanya%2Fitems%2Findex.json",
+   "title": "Tanya Loos",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55bc17c1ed2a89db8100078f.JPG",
+   "content_text": "-",
+   "date_published": "2015-08-01T00:50:10.000+00:00",
+   "date_modified": "2015-08-01T00:50:53.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.138,
+     -37.347
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2015-08-01"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/kylierobertson/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkylierobertson%2Fitems%2Findex.json",
+   "title": "Kylie Robertson",
+   "content_text": "-",
+   "date_published": "2015-07-11T05:25:30.000+00:00",
+   "date_modified": "2015-07-11T05:25:30.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.097,
+     -38.26
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2015-07-11"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/bianca_aquilina/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbianca_aquilina%2Fitems%2Findex.json",
+   "title": "bianca_aquilina",
+   "content_text": "-",
+   "date_published": "2015-06-15T11:16:40.000+00:00",
+   "date_modified": "2015-06-24T11:06:23.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.674,
+     -37.432
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2015-06-24"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_73/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_73%2Fitems%2Findex.json",
+   "title": "Linda Richmond",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5578fdcaed2a8918dd000956.jpg",
+   "content_text": "-",
+   "date_published": "2015-06-11T03:17:30.000+00:00",
+   "date_modified": "2015-06-11T03:33:05.000+00:00",
+   "_geo": {
+    "coordinates": [
+     147.155,
+     -38.191
+    ]
+   },
+   "_meta": {
+    "itemCount": 93,
+    "date": "2015-06-11"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/monitor/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmonitor%2Fitems%2Findex.json",
+   "title": "Colin Cook",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55778d0fed2a8918dd000890.JPG",
+   "content_text": "-",
+   "date_published": "2015-06-10T01:04:16.000+00:00",
+   "date_modified": "2015-06-10T01:06:54.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.211,
+     -37.786
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2015-06-10"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/abc123/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Findex.json",
+   "title": "Tom Stafford",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55783a8fed2a8918dd0008e4.JPG",
+   "content_text": "-",
+   "date_published": "2015-06-09T22:56:01.000+00:00",
+   "date_modified": "2015-06-10T14:15:14.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.938,
+     -37.784
+    ]
+   },
+   "_meta": {
+    "itemCount": 10,
+    "date": "2015-06-10"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/cp7heaven/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcp7heaven%2Fitems%2Findex.json",
+   "title": "Claudia Phelps",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5545736eed2a89dfbc000309.JPG",
+   "content_text": "-",
+   "date_published": "2015-05-03T01:01:35.000+00:00",
+   "date_modified": "2015-05-08T04:09:51.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.598,
+     -31.377
+    ]
+   },
+   "_meta": {
+    "itemCount": 30,
+    "date": "2015-05-08"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/argmason/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fargmason%2Fitems%2Findex.json",
+   "title": "Alexander  Mason",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55029cc8ed2a8974d3000325.jpg",
+   "content_text": "-",
+   "date_published": "2015-03-13T08:16:08.000+00:00",
+   "date_modified": "2015-03-13T08:17:03.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2015-03-13"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/maribyrnongparkranger/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmaribyrnongparkranger%2Fitems%2Findex.json",
+   "title": "Maribyrnong Park Ranger",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ffe2c6ed2a8974d3000192.jpg",
+   "content_text": "-",
+   "date_published": "2015-03-11T06:37:58.000+00:00",
+   "date_modified": "2015-03-11T06:38:56.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.884,
+     -37.786
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2015-03-11"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/mitchell_shire_council_environment_team/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fitems%2Findex.json",
+   "title": "mitchell_shire_council_environment_team",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ff9204ed2a8994a90000e6.JPG",
+   "content_text": "-",
+   "date_published": "2015-03-11T00:53:24.000+00:00",
+   "date_modified": "2015-03-11T01:03:10.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.979,
+     -37.237
+    ]
+   },
+   "_meta": {
+    "itemCount": 10,
+    "date": "2015-03-11"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/alicecummins/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Falicecummins%2Fitems%2Findex.json",
+   "title": "Alice Cummins",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54dfdf1fed2a8987b7000068.jpg",
+   "content_text": "-",
+   "date_published": "2015-02-14T23:49:51.000+00:00",
+   "date_modified": "2015-02-15T00:04:21.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.62,
+     -37.421
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2015-02-15"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/francesovermars/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ffrancesovermars%2Fitems%2Findex.json",
+   "title": "Frances Overmars",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54b234a4ed2a89b68f00006f.JPG",
+   "content_text": "-",
+   "date_published": "2015-01-11T08:30:29.000+00:00",
+   "date_modified": "2015-01-12T05:02:44.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.591,
+     -37.761
+    ]
+   },
+   "_meta": {
+    "itemCount": 7,
+    "date": "2015-01-12"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/peterf/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpeterf%2Fitems%2Findex.json",
+   "title": "Peter Fraser",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/549a9470e35eb14400000020.JPG",
+   "content_text": "-",
+   "date_published": "2014-12-24T10:24:50.000+00:00",
+   "date_modified": "2014-12-24T10:38:17.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.302,
+     -38.023
+    ]
+   },
+   "_meta": {
+    "itemCount": 14,
+    "date": "2014-12-24"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_120/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_120%2Fitems%2Findex.json",
+   "title": "Peter Bire",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/549950d3e35eb1cd5a00001a.JPG",
+   "content_text": "-",
+   "date_published": "2014-12-23T11:24:03.000+00:00",
+   "date_modified": "2014-12-23T22:51:40.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.649,
+     -36.286
+    ]
+   },
+   "_meta": {
+    "itemCount": 290,
+    "date": "2014-12-23"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/strepera/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fstrepera%2Fitems%2Findex.json",
+   "title": "strepera",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54919510e35eb1a216000025.jpg",
+   "content_text": "-",
+   "date_published": "2014-12-17T14:37:04.000+00:00",
+   "date_modified": "2014-12-17T15:00:42.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.063,
+     -37.859
+    ]
+   },
+   "_meta": {
+    "itemCount": 8,
+    "date": "2014-12-17"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/user547e9660e35eb1c64e000001/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fuser547e9660e35eb1c64e000001%2Fitems%2Findex.json",
+   "title": "user547e9660e35eb1c64e000001",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/547e96cbe35eb1c64e000002.jpg",
+   "content_text": "-",
+   "date_published": "2014-12-03T04:51:23.000+00:00",
+   "date_modified": "2014-12-03T10:54:59.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.685,
+     -37.458
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2014-12-03"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/varenahardy/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fvarenahardy%2Fitems%2Findex.json",
+   "title": "Varena Hardy",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5472b9d6e35eb18cf6000067.JPG",
+   "content_text": "-",
+   "date_published": "2014-11-24T04:53:43.000+00:00",
+   "date_modified": "2014-11-24T04:54:46.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.938,
+     -37.748
+    ]
+   },
+   "_meta": {
+    "itemCount": 22,
+    "date": "2014-11-24"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/barrietaylor/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbarrietaylor%2Fitems%2Findex.json",
+   "title": "Barrie Taylor",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545db88ee35eb11974000019.jpg",
+   "content_text": "Wedderburn landholder of 25 acres adjoining the Korong nature conservation reserve. Member of Wedderburn Conservation Management network, Mount Korong group and Friends of Yarra Valley Parks.",
+   "date_published": "2014-11-08T06:30:39.000+00:00",
+   "date_modified": "2014-11-10T00:27:15.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.627,
+     -36.396
+    ]
+   },
+   "_meta": {
+    "itemCount": 302,
+    "date": "2014-11-10"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/louise_nicholas/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flouise_nicholas%2Fitems%2Findex.json",
+   "title": "Louise Nicholas",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545876cde35eb12c8f000109.JPG",
+   "content_text": "-",
+   "date_published": "2014-11-04T06:48:45.000+00:00",
+   "date_modified": "2015-01-24T00:58:41.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.753,
+     -37.291
+    ]
+   },
+   "_meta": {
+    "itemCount": 40,
+    "date": "2015-01-24"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/bennorth/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbennorth%2Fitems%2Findex.json",
+   "title": "Ben North",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/542e3af1e35eb1dec10001a9.JPG",
+   "content_text": "-",
+   "date_published": "2014-10-30T21:51:18.000+00:00",
+   "date_modified": "2014-10-30T21:51:18.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.893,
+     -37.784
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2014-10-30"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/marty/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarty%2Fitems%2Findex.json",
+   "title": "Martin Roberts",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544ac607e35eb1c76700000f.JPG",
+   "content_text": "-",
+   "date_published": "2014-10-24T21:35:03.000+00:00",
+   "date_modified": "2014-10-25T12:14:17.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.291,
+     -37.22
+    ]
+   },
+   "_meta": {
+    "itemCount": 9,
+    "date": "2014-10-25"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/williamterry/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwilliamterry%2Fitems%2Findex.json",
+   "title": "William Terry",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54223d6be35eb1cc7400004f.JPG",
+   "content_text": "-",
+   "date_published": "2014-09-24T03:41:31.000+00:00",
+   "date_modified": "2014-09-24T03:52:01.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.571,
+     -37.337
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2014-09-24"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_7/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Findex.json",
+   "title": "Colleen Miller",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54175eefe35eb173a600007b.jpg",
+   "content_text": "-",
+   "date_published": "2014-09-15T22:19:11.000+00:00",
+   "date_modified": "2014-09-15T22:19:11.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.635,
+     -37.856
+    ]
+   },
+   "_meta": {
+    "itemCount": 68,
+    "date": "2014-09-15"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_130/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Findex.json",
+   "title": "Pinkerton Landcare and  Environment Group",
+   "content_text": "-",
+   "date_published": "2014-08-13T02:13:55.000+00:00",
+   "date_modified": "2014-08-13T10:54:43.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.581,
+     -37.759
+    ]
+   },
+   "_meta": {
+    "itemCount": 15,
+    "date": "2014-08-13"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/mike/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmike%2Fitems%2Findex.json",
+   "title": "Michael Norris",
+   "content_text": "Amateur naturalist and environmental activist.  Leader in wildlife and other Friends groups in the City of Bayside (Melbourne) and former Councillor.",
+   "date_published": "2014-08-07T04:20:02.000+00:00",
+   "date_modified": "2014-08-07T04:20:02.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.998,
+     -37.943
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2014-08-07"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_169/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_169%2Fitems%2Findex.json",
+   "title": "Cathy Beamish",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53c9cf09e35eb1b845000003.JPG",
+   "content_text": "-",
+   "date_published": "2014-07-19T01:51:05.000+00:00",
+   "date_modified": "2014-07-19T01:55:46.000+00:00",
+   "_geo": {
+    "coordinates": [
+     146.263,
+     -38.402
+    ]
+   },
+   "_meta": {
+    "itemCount": 9,
+    "date": "2014-07-19"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_201/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_201%2Fitems%2Findex.json",
+   "title": "Swee Oon",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986de35eb1298401554e.jpg",
+   "content_text": "-",
+   "date_published": "2014-06-24T22:13:32.000+00:00",
+   "date_modified": "2014-07-02T06:34:47.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2014-07-02"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_199/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_199%2Fitems%2Findex.json",
+   "title": "GRAHAM ARKINSTALL",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb12984015375.jpg",
+   "content_text": "-",
+   "date_published": "2014-05-25T14:42:06.000+00:00",
+   "date_modified": "2014-07-02T08:16:42.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2014-07-02"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_197/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_197%2Fitems%2Findex.json",
+   "title": "Bill Aitchison",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb12984015296.jpg",
+   "content_text": "-",
+   "date_published": "2014-04-30T14:22:03.000+00:00",
+   "date_modified": "2014-07-02T09:09:22.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.227,
+     -37.775
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2014-07-02"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_194/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_194%2Fitems%2Findex.json",
+   "title": "Kevin Sparrow",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb12984015273.jpg",
+   "content_text": "-",
+   "date_published": "2014-04-25T21:19:06.000+00:00",
+   "date_modified": "2014-06-03T16:35:20.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.251,
+     -38.719
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2014-06-03"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_28/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fitems%2Findex.json",
+   "title": "Bill Strong",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb12984014efb.jpg",
+   "content_text": "-",
+   "date_published": "2014-03-08T18:38:21.000+00:00",
+   "date_modified": "2015-04-07T08:47:42.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.899,
+     -37.684
+    ]
+   },
+   "_meta": {
+    "itemCount": 287,
+    "date": "2015-04-07"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/jcanaway/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjcanaway%2Fitems%2Findex.json",
+   "title": "jane canaway",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ae35eb12984014b9b.jpg",
+   "content_text": "-",
+   "date_published": "2013-12-20T14:41:34.000+00:00",
+   "date_modified": "2014-07-02T15:53:49.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.218,
+     -38.077
+    ]
+   },
+   "_meta": {
+    "itemCount": 7,
+    "date": "2014-07-02"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_170/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_170%2Fitems%2Findex.json",
+   "title": "Mike Beamish",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ae35eb12984014af0.jpg",
+   "content_text": "-",
+   "date_published": "2013-12-06T16:58:13.000+00:00",
+   "date_modified": "2014-07-02T16:31:03.000+00:00",
+   "_geo": {
+    "coordinates": [
+     146.27,
+     -38.387
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2014-07-02"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_186/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_186%2Fitems%2Findex.json",
+   "title": "openid_186",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ae35eb12984014840.jpg",
+   "content_text": "-",
+   "date_published": "2013-11-19T11:25:58.000+00:00",
+   "date_modified": "2014-07-02T19:27:58.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.553,
+     -37.418
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2014-07-02"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/william_hall/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwilliam_hall%2Fitems%2Findex.json",
+   "title": "William Hall",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb12984014792.jpg",
+   "content_text": "-",
+   "date_published": "2013-11-10T15:05:19.000+00:00",
+   "date_modified": "2014-07-02T20:12:48.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.692,
+     -37.455
+    ]
+   },
+   "_meta": {
+    "itemCount": 27,
+    "date": "2014-07-02"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/rebekah_brown/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frebekah_brown%2Fitems%2Findex.json",
+   "title": "Rebekah  Brown",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ae35eb1298401484f.jpg",
+   "content_text": "-",
+   "date_published": "2013-11-09T15:01:23.000+00:00",
+   "date_modified": "2013-11-20T06:03:57.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.273,
+     -37.785
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2013-11-20"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_121/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_121%2Fitems%2Findex.json",
+   "title": "Neil Duncan",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb1298401475c.jpg",
+   "content_text": "-",
+   "date_published": "2013-11-05T21:27:54.000+00:00",
+   "date_modified": "2014-07-02T20:26:17.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.907,
+     -37.738
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2014-07-02"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/cclarke1/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke1%2Fitems%2Findex.json",
+   "title": "Chris Clarke",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb129840145e2.jpg",
+   "content_text": "-",
+   "date_published": "2013-10-21T20:15:53.000+00:00",
+   "date_modified": "2014-07-02T21:54:15.000+00:00",
+   "_geo": {
+    "coordinates": [
+     146.141,
+     -38.801
+    ]
+   },
+   "_meta": {
+    "itemCount": 71,
+    "date": "2014-07-02"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_183/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_183%2Fitems%2Findex.json",
+   "title": "Maree  Goods",
+   "content_text": "-",
+   "date_published": "2013-10-21T18:50:28.000+00:00",
+   "date_modified": "2013-10-21T18:50:28.000+00:00",
+   "_geo": {
+    "coordinates": [
+     140.988,
+     -36.548
+    ]
+   },
+   "_meta": {
+    "itemCount": 7,
+    "date": "2013-10-21"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_182/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_182%2Fitems%2Findex.json",
+   "title": "Neds Corner",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb12984014435.jpg",
+   "content_text": "-",
+   "date_published": "2013-09-29T18:20:20.000+00:00",
+   "date_modified": "2017-03-25T05:46:39.000+00:00",
+   "_geo": {
+    "coordinates": [
+     141.324,
+     -34.173
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-03-25"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_55/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_55%2Fitems%2Findex.json",
+   "title": "Ben Cullen",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014407.jpg",
+   "content_text": "-",
+   "date_published": "2013-09-16T09:14:19.000+00:00",
+   "date_modified": "2014-07-02T23:55:08.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.419,
+     -37.975
+    ]
+   },
+   "_meta": {
+    "itemCount": 20,
+    "date": "2014-07-02"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_176/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_176%2Fitems%2Findex.json",
+   "title": "openid_176",
+   "content_text": "-",
+   "date_published": "2013-08-15T20:28:01.000+00:00",
+   "date_modified": "2013-08-15T20:28:01.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2013-08-15"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_62/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_62%2Fitems%2Findex.json",
+   "title": "Geordie Scott-Walker",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014254.jpg",
+   "content_text": "-",
+   "date_published": "2013-08-08T18:05:21.000+00:00",
+   "date_modified": "2014-07-03T01:31:19.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.919,
+     -36.554
+    ]
+   },
+   "_meta": {
+    "itemCount": 7,
+    "date": "2014-07-03"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_165/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_165%2Fitems%2Findex.json",
+   "title": "Ken Harris",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb1298401415a.jpg",
+   "content_text": "-",
+   "date_published": "2013-07-19T15:01:09.000+00:00",
+   "date_modified": "2014-07-03T02:31:41.000+00:00",
+   "_geo": {
+    "coordinates": [
+     146.004,
+     -38.282
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2014-07-03"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_117/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_117%2Fitems%2Findex.json",
+   "title": "openid_117",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014153.jpg",
+   "content_text": "-",
+   "date_published": "2013-07-19T14:59:42.000+00:00",
+   "date_modified": "2013-07-19T14:59:42.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 8,
+    "date": "2013-07-19"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_173/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_173%2Fitems%2Findex.json",
+   "title": "Sue Bendel",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014154.bmp",
+   "content_text": "-",
+   "date_published": "2013-07-19T14:43:24.000+00:00",
+   "date_modified": "2013-07-19T14:54:07.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.03,
+     -37.743
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2013-07-19"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_171/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_171%2Fitems%2Findex.json",
+   "title": "openid_171",
+   "content_text": "-",
+   "date_published": "2013-07-19T14:34:57.000+00:00",
+   "date_modified": "2013-07-19T14:34:57.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2013-07-19"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_172/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_172%2Fitems%2Findex.json",
+   "title": "Mary Anne Kennan",
+   "content_text": "-",
+   "date_published": "2013-07-19T14:25:08.000+00:00",
+   "date_modified": "2013-07-19T14:25:08.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2013-07-19"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_156/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_156%2Fitems%2Findex.json",
+   "title": "openid_156",
+   "content_text": "-",
+   "date_published": "2013-06-10T19:31:30.000+00:00",
+   "date_modified": "2013-06-10T19:31:30.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2013-06-10"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_147/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_147%2Fitems%2Findex.json",
+   "title": "Barrie Taylor",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39867e35eb12984013c4c.jpg",
+   "content_text": "-",
+   "date_published": "2013-04-13T14:33:20.000+00:00",
+   "date_modified": "2013-04-13T14:33:20.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.625,
+     -36.397
+    ]
+   },
+   "_meta": {
+    "itemCount": 26,
+    "date": "2013-04-13"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_63/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fitems%2Findex.json",
+   "title": "Daryl Akers",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011f39.jpg",
+   "content_text": "-",
+   "date_published": "2013-03-11T17:50:13.000+00:00",
+   "date_modified": "2013-03-11T17:50:13.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.581,
+     -37.731
+    ]
+   },
+   "_meta": {
+    "itemCount": 14,
+    "date": "2013-03-11"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_155/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_155%2Fitems%2Findex.json",
+   "title": "openid_155",
+   "content_text": "-",
+   "date_published": "2013-02-28T13:49:02.000+00:00",
+   "date_modified": "2013-02-28T13:49:02.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2013-02-28"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_35/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_35%2Fitems%2Findex.json",
+   "title": "Ian McLean",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013aa7.jpg",
+   "content_text": "-",
+   "date_published": "2013-02-25T10:08:17.000+00:00",
+   "date_modified": "2013-02-25T10:09:03.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.531,
+     -37.478
+    ]
+   },
+   "_meta": {
+    "itemCount": 15,
+    "date": "2013-02-25"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_151/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_151%2Fitems%2Findex.json",
+   "title": "J Grubb",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013976.jpg",
+   "content_text": "-",
+   "date_published": "2013-01-31T11:01:55.000+00:00",
+   "date_modified": "2017-05-08T03:03:24.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.663,
+     -37.438
+    ]
+   },
+   "_meta": {
+    "itemCount": 7,
+    "date": "2017-05-08"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_145/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_145%2Fitems%2Findex.json",
+   "title": "Jodi Jackson",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb12984013692.jpg",
+   "content_text": "-",
+   "date_published": "2012-12-10T22:05:27.000+00:00",
+   "date_modified": "2012-12-10T22:21:08.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.92,
+     -37.588
+    ]
+   },
+   "_meta": {
+    "itemCount": 5,
+    "date": "2012-12-10"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_53/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_53%2Fitems%2Findex.json",
+   "title": "Ros N",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb12984013509.jpg",
+   "content_text": "-",
+   "date_published": "2012-11-12T22:02:54.000+00:00",
+   "date_modified": "2012-11-12T22:06:44.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.973,
+     -38.574
+    ]
+   },
+   "_meta": {
+    "itemCount": 14,
+    "date": "2012-11-12"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_141/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_141%2Fitems%2Findex.json",
+   "title": "Barrie Taylor",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb129840134f9.jpg",
+   "content_text": "-",
+   "date_published": "2012-11-12T15:01:03.000+00:00",
+   "date_modified": "2012-11-12T15:05:04.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.41,
+     -37.076
+    ]
+   },
+   "_meta": {
+    "itemCount": 4,
+    "date": "2012-11-12"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_136/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_136%2Fitems%2Findex.json",
+   "title": "openid_136",
+   "content_text": "-",
+   "date_published": "2012-09-30T06:30:18.000+00:00",
+   "date_modified": "2012-09-30T06:30:18.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.159,
+     -37.518
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2012-09-30"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_138/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_138%2Fitems%2Findex.json",
+   "title": "David Akers",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb129840132fc.jpg",
+   "content_text": "-",
+   "date_published": "2012-09-29T19:10:18.000+00:00",
+   "date_modified": "2012-09-29T19:19:15.000+00:00",
+   "_geo": {
+    "coordinates": [
+     146.709,
+     -38.516
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2012-09-29"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_137/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_137%2Fitems%2Findex.json",
+   "title": "Nicole Spillane ",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb129840132fb.jpg",
+   "content_text": "-",
+   "date_published": "2012-09-29T13:42:05.000+00:00",
+   "date_modified": "2012-09-29T13:47:01.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.597,
+     -36.968
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2012-09-29"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/julie/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjulie%2Fitems%2Findex.json",
+   "title": "Julie Macdonald",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb129840132f8.jpg",
+   "content_text": "-",
+   "date_published": "2012-09-29T09:48:45.000+00:00",
+   "date_modified": "2012-09-29T10:43:00.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.695,
+     -37.458
+    ]
+   },
+   "_meta": {
+    "itemCount": 4,
+    "date": "2012-09-29"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_135/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_135%2Fitems%2Findex.json",
+   "title": "Debbie Reynolds",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb12984013182.jpg",
+   "content_text": "-",
+   "date_published": "2012-09-19T19:12:22.000+00:00",
+   "date_modified": "2012-09-19T19:21:37.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.755,
+     -37.682
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2012-09-19"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_131/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_131%2Fitems%2Findex.json",
+   "title": "openid_131",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012e83.jpg",
+   "content_text": "-",
+   "date_published": "2012-07-26T17:15:22.000+00:00",
+   "date_modified": "2014-11-09T11:10:13.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.583,
+     -37.819
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2014-11-09"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_16/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_16%2Fitems%2Findex.json",
+   "title": "Narelle Sutton",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012e15.jpg",
+   "content_text": "-",
+   "date_published": "2012-07-09T10:19:56.000+00:00",
+   "date_modified": "2012-07-09T14:55:48.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.66,
+     -37.435
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2012-07-09"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_129/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_129%2Fitems%2Findex.json",
+   "title": "Fam Charko",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012dd2.jpg",
+   "content_text": "-",
+   "date_published": "2012-06-18T19:07:50.000+00:00",
+   "date_modified": "2015-07-19T05:21:56.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.711,
+     -37.556
+    ]
+   },
+   "_meta": {
+    "itemCount": 20,
+    "date": "2015-07-19"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_127/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_127%2Fitems%2Findex.json",
+   "title": "Tony Faithfull",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012d94.jpg",
+   "content_text": "-",
+   "date_published": "2012-05-29T22:02:32.000+00:00",
+   "date_modified": "2012-05-29T22:09:16.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.999,
+     -37.705
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2012-05-29"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_123/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_123%2Fitems%2Findex.json",
+   "title": "openid_123",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012d3e.jpg",
+   "content_text": "-",
+   "date_published": "2012-05-15T22:44:50.000+00:00",
+   "date_modified": "2012-05-15T23:00:22.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2012-05-15"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_40/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_40%2Fitems%2Findex.json",
+   "title": "openid_40",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012bb4.jpg",
+   "content_text": "-",
+   "date_published": "2012-04-02T12:54:31.000+00:00",
+   "date_modified": "2012-04-02T13:02:14.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.487,
+     -36.822
+    ]
+   },
+   "_meta": {
+    "itemCount": 28,
+    "date": "2012-04-02"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_107/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_107%2Fitems%2Findex.json",
+   "title": "openid_107",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012b4c.jpg",
+   "content_text": "-",
+   "date_published": "2012-03-19T14:37:55.000+00:00",
+   "date_modified": "2012-03-19T15:00:35.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.577,
+     -37.432
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2012-03-19"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_118/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_118%2Fitems%2Findex.json",
+   "title": "openid_118",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012af8.jpg",
+   "content_text": "-",
+   "date_published": "2012-03-12T11:32:30.000+00:00",
+   "date_modified": "2012-03-12T11:40:22.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.64,
+     -37.405
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2012-03-12"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_71/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_71%2Fitems%2Findex.json",
+   "title": "Charlotte Catmur",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012abb.jpg",
+   "content_text": "-",
+   "date_published": "2012-03-06T16:11:11.000+00:00",
+   "date_modified": "2012-03-06T16:11:21.000+00:00",
+   "_geo": {
+    "coordinates": [
+     154.559,
+     -33.883
+    ]
+   },
+   "_meta": {
+    "itemCount": 20,
+    "date": "2012-03-06"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_42/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Findex.json",
+   "title": "Caz Bartholomew",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012a84.jpg",
+   "content_text": "-",
+   "date_published": "2012-03-02T11:59:41.000+00:00",
+   "date_modified": "2012-03-02T11:59:41.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.282,
+     -37.842
+    ]
+   },
+   "_meta": {
+    "itemCount": 21,
+    "date": "2012-03-02"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_68/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_68%2Fitems%2Findex.json",
+   "title": "Elspeth Swan",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012a91.jpg",
+   "content_text": "-",
+   "date_published": "2012-02-26T14:37:04.000+00:00",
+   "date_modified": "2012-02-26T14:40:18.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.774,
+     -36.636
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2012-02-26"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_104/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_104%2Fitems%2Findex.json",
+   "title": "openid_104",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb12984012728.jpg",
+   "content_text": "-",
+   "date_published": "2011-12-17T14:18:53.000+00:00",
+   "date_modified": "2011-12-17T14:41:39.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.695,
+     -37.458
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2011-12-17"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_93/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_93%2Fitems%2Findex.json",
+   "title": "openid_93",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb12984012715.jpg",
+   "content_text": "-",
+   "date_published": "2011-12-15T14:08:19.000+00:00",
+   "date_modified": "2011-12-15T14:16:35.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.855,
+     -37.75
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2011-12-15"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_103/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_103%2Fitems%2Findex.json",
+   "title": "Janine Duffy",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb12984012712.jpg",
+   "content_text": "-",
+   "date_published": "2011-12-15T09:40:49.000+00:00",
+   "date_modified": "2011-12-15T09:41:41.000+00:00",
+   "_geo": {
+    "coordinates": [
+     148.8,
+     -37.499
+    ]
+   },
+   "_meta": {
+    "itemCount": 12,
+    "date": "2011-12-15"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_102/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_102%2Fitems%2Findex.json",
+   "title": "openid_102",
+   "content_text": "-",
+   "date_published": "2011-11-23T20:27:05.000+00:00",
+   "date_modified": "2011-11-23T20:27:05.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2011-11-23"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_100/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_100%2Fitems%2Findex.json",
+   "title": "openid_100",
+   "content_text": "-",
+   "date_published": "2011-11-22T20:07:01.000+00:00",
+   "date_modified": "2015-04-07T08:47:36.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.15,
+     -37.885
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2015-04-07"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_101/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_101%2Fitems%2Findex.json",
+   "title": "openid_101",
+   "content_text": "-",
+   "date_published": "2011-11-21T15:56:04.000+00:00",
+   "date_modified": "2011-11-21T15:56:04.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2011-11-21"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_97/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_97%2Fitems%2Findex.json",
+   "title": "openid_97",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb12984012412.jpg",
+   "content_text": "-",
+   "date_published": "2011-11-06T16:20:07.000+00:00",
+   "date_modified": "2011-11-06T16:22:57.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2011-11-06"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_95/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_95%2Fitems%2Findex.json",
+   "title": "openid_95",
+   "content_text": "-",
+   "date_published": "2011-11-03T11:58:52.000+00:00",
+   "date_modified": "2011-11-03T11:58:52.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2011-11-03"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_87/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_87%2Fitems%2Findex.json",
+   "title": "Beth Gaze",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb1298401236e.jpg",
+   "content_text": "-",
+   "date_published": "2011-10-25T20:30:30.000+00:00",
+   "date_modified": "2014-11-14T06:34:42.000+00:00",
+   "_geo": {
+    "coordinates": [
+     119.38,
+     -34.402
+    ]
+   },
+   "_meta": {
+    "itemCount": 5,
+    "date": "2014-11-14"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_91/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_91%2Fitems%2Findex.json",
+   "title": "openid_91",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb1298401234a.jpg",
+   "content_text": "-",
+   "date_published": "2011-10-22T20:48:16.000+00:00",
+   "date_modified": "2011-10-24T19:31:21.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2011-10-24"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_90/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_90%2Fitems%2Findex.json",
+   "title": "Mohsen Mesgaran",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb12984012334.jpg",
+   "content_text": "-",
+   "date_published": "2011-10-21T16:18:04.000+00:00",
+   "date_modified": "2011-10-21T16:24:30.000+00:00",
+   "_geo": {
+    "coordinates": [
+     140.994,
+     -38.057
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2011-10-21"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_76/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_76%2Fitems%2Findex.json",
+   "title": "openid_76",
+   "content_text": "-",
+   "date_published": "2011-10-17T21:20:40.000+00:00",
+   "date_modified": "2015-04-07T08:47:35.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.768,
+     -37.707
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2015-04-07"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_88/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_88%2Fitems%2Findex.json",
+   "title": "openid_88",
+   "content_text": "-",
+   "date_published": "2011-10-11T21:42:26.000+00:00",
+   "date_modified": "2011-10-12T13:03:16.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 4,
+    "date": "2011-10-12"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_34/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_34%2Fitems%2Findex.json",
+   "title": "openid_34",
+   "content_text": "-",
+   "date_published": "2011-10-10T18:11:17.000+00:00",
+   "date_modified": "2011-10-10T18:11:17.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.928,
+     -36.08
+    ]
+   },
+   "_meta": {
+    "itemCount": 11,
+    "date": "2011-10-10"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_83/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_83%2Fitems%2Findex.json",
+   "title": "openid_83",
+   "content_text": "-",
+   "date_published": "2011-09-24T12:16:47.000+00:00",
+   "date_modified": "2011-09-24T12:16:47.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2011-09-24"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_81/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_81%2Fitems%2Findex.json",
+   "title": "Libby Woodward",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840120f7.jpg",
+   "content_text": "-",
+   "date_published": "2011-09-20T17:02:32.000+00:00",
+   "date_modified": "2011-09-20T17:13:37.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.303,
+     -37.28
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2011-09-20"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_80/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_80%2Fitems%2Findex.json",
+   "title": "openid_80",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840120f5.jpg",
+   "content_text": "-",
+   "date_published": "2011-09-20T11:56:30.000+00:00",
+   "date_modified": "2011-09-20T11:56:30.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.822,
+     -37.799
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2011-09-20"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_61/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_61%2Fitems%2Findex.json",
+   "title": "Simon Jolly",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984012084.jpg",
+   "content_text": "-",
+   "date_published": "2011-09-15T13:12:03.000+00:00",
+   "date_modified": "2015-03-10T10:00:31.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.502,
+     -37.712
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2015-03-10"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_52/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fitems%2Findex.json",
+   "title": "openid_52",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984012075.jpg",
+   "content_text": "-",
+   "date_published": "2011-09-12T23:24:42.000+00:00",
+   "date_modified": "2011-09-12T23:49:36.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.768,
+     -36.833
+    ]
+   },
+   "_meta": {
+    "itemCount": 6,
+    "date": "2011-09-12"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_77/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_77%2Fitems%2Findex.json",
+   "title": "Pam Everson",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb1298401207e.jpg",
+   "content_text": "-",
+   "date_published": "2011-09-12T22:46:12.000+00:00",
+   "date_modified": "2011-09-14T21:00:26.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.271,
+     -38.13
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2011-09-14"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_19/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_19%2Fitems%2Findex.json",
+   "title": "Anne Langmaid",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011f41.jpg",
+   "content_text": "-",
+   "date_published": "2011-08-27T22:22:06.000+00:00",
+   "date_modified": "2011-08-27T22:27:44.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.484,
+     -37.783
+    ]
+   },
+   "_meta": {
+    "itemCount": 25,
+    "date": "2011-08-27"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_60/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_60%2Fitems%2Findex.json",
+   "title": "Wendy M",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011edd.jpg",
+   "content_text": "-",
+   "date_published": "2011-08-27T17:22:50.000+00:00",
+   "date_modified": "2011-08-27T17:22:50.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.001,
+     -37.736
+    ]
+   },
+   "_meta": {
+    "itemCount": 14,
+    "date": "2011-08-27"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_56/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_56%2Fitems%2Findex.json",
+   "title": "openid_56",
+   "content_text": "-",
+   "date_published": "2011-08-25T16:20:04.000+00:00",
+   "date_modified": "2011-08-25T16:20:04.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2011-08-25"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_67/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_67%2Fitems%2Findex.json",
+   "title": "openid_67",
+   "content_text": "-",
+   "date_published": "2011-08-18T15:20:41.000+00:00",
+   "date_modified": "2011-08-18T15:20:41.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2011-08-18"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_58/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_58%2Fitems%2Findex.json",
+   "title": "Graham Oliver",
+   "content_text": "-",
+   "date_published": "2011-08-17T23:39:48.000+00:00",
+   "date_modified": "2015-04-07T08:47:35.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.15,
+     -37.879
+    ]
+   },
+   "_meta": {
+    "itemCount": 4,
+    "date": "2015-04-07"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_64/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_64%2Fitems%2Findex.json",
+   "title": "openid_64",
+   "content_text": "-",
+   "date_published": "2011-08-16T13:07:26.000+00:00",
+   "date_modified": "2011-08-16T13:12:30.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.63,
+     -37.621
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2011-08-16"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_54/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_54%2Fitems%2Findex.json",
+   "title": "openid_54",
+   "content_text": "-",
+   "date_published": "2011-08-04T15:34:30.000+00:00",
+   "date_modified": "2011-08-04T15:34:30.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2011-08-04"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_49/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_49%2Fitems%2Findex.json",
+   "title": "openid_49",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011cec.jpg",
+   "content_text": "-",
+   "date_published": "2011-06-21T20:51:25.000+00:00",
+   "date_modified": "2014-11-14T10:50:29.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.588,
+     -37.487
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2014-11-14"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_31/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Findex.json",
+   "title": "Nadya  Korinfsky",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b99.jpg",
+   "content_text": "-",
+   "date_published": "2011-05-27T22:57:47.000+00:00",
+   "date_modified": "2014-11-14T10:51:45.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.496,
+     -37.359
+    ]
+   },
+   "_meta": {
+    "itemCount": 65,
+    "date": "2014-11-14"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_44/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_44%2Fitems%2Findex.json",
+   "title": "Marina De Nola",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011adf.jpg",
+   "content_text": "-",
+   "date_published": "2011-05-18T14:13:41.000+00:00",
+   "date_modified": "2011-05-18T14:19:10.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.564,
+     -37.785
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2011-05-18"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_33/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_33%2Fitems%2Findex.json",
+   "title": "openid_33",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb1298401187a.jpg",
+   "content_text": "-",
+   "date_published": "2011-04-05T16:12:34.000+00:00",
+   "date_modified": "2011-04-05T16:12:34.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.656,
+     -37.429
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2011-04-05"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_26/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_26%2Fitems%2Findex.json",
+   "title": "John Thompson",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb12984011833.jpg",
+   "content_text": "-",
+   "date_published": "2011-04-01T14:04:06.000+00:00",
+   "date_modified": "2011-04-01T14:06:15.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.992,
+     -37.929
+    ]
+   },
+   "_meta": {
+    "itemCount": 13,
+    "date": "2011-04-01"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_30/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_30%2Fitems%2Findex.json",
+   "title": "openid_30",
+   "content_text": "-",
+   "date_published": "2011-03-16T12:35:47.000+00:00",
+   "date_modified": "2011-03-16T12:39:47.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.021,
+     -37.961
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2011-03-16"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_27/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_27%2Fitems%2Findex.json",
+   "title": "Pam Strong",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb12984011772.jpg",
+   "content_text": "-",
+   "date_published": "2011-03-10T18:23:45.000+00:00",
+   "date_modified": "2011-03-10T18:24:39.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 5,
+    "date": "2011-03-10"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_23/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_23%2Fitems%2Findex.json",
+   "title": "Helen Snee",
+   "content_text": "-",
+   "date_published": "2011-03-09T12:43:12.000+00:00",
+   "date_modified": "2011-03-09T12:43:12.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.235,
+     -37.099
+    ]
+   },
+   "_meta": {
+    "itemCount": 5,
+    "date": "2011-03-09"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_24/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_24%2Fitems%2Findex.json",
+   "title": "openid_24",
+   "content_text": "-",
+   "date_published": "2011-03-04T13:21:02.000+00:00",
+   "date_modified": "2011-03-04T13:21:02.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2011-03-04"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_20/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_20%2Fitems%2Findex.json",
+   "title": "openid_20",
+   "content_text": "-",
+   "date_published": "2011-03-01T22:43:04.000+00:00",
+   "date_modified": "2011-03-01T22:43:04.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2011-03-01"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_11/items/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_11%2Fitems%2Findex.json",
+   "title": "Nathan Fell",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb12984011655.jpg",
+   "content_text": "-",
+   "date_published": "2010-11-22T15:16:48.000+00:00",
+   "date_modified": "2010-11-22T15:19:28.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.623,
+     -37.531
+    ]
+   },
+   "_meta": {
+    "itemCount": 70,
+    "date": "2010-11-22"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 264,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

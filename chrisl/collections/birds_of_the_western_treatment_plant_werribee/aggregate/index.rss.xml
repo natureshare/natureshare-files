@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/chrisl/collections/birds_of_the_western_treatment_plant_werribee/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Birds of the western treatment plant werribee</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fcollections%2Fbirds_of_the_western_treatment_plant_werribee%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 chrisl</copyright>
+    <pubDate>Wed, 11 Nov 2015 13:24:52 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Chrysococcyx basalis</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2015%2F5643407bed2a89e56e00080e.yaml</link>
+      <dc:creator>chrisl</dc:creator>
+      <description>Calling from atop African Boxthorn.</description>
+      <category>id~Chrysococcyx basalis</category>
+      <guid isPermaLink="false">https://files.natureshare.org/chrisl/items/ns/2015/5643407bed2a89e56e00080e.yaml</guid>
+      <pubDate>Wed, 11 Nov 2015 13:24:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Poliocephalus poliocephalus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2015%2F564340aded2a89e56e000812.yaml</link>
+      <dc:creator>chrisl</dc:creator>
+      <description>-</description>
+      <category>id~Poliocephalus poliocephalus</category>
+      <guid isPermaLink="false">https://files.natureshare.org/chrisl/items/ns/2015/564340aded2a89e56e000812.yaml</guid>
+      <pubDate>Wed, 11 Nov 2015 13:23:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ardea modesta</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2015%2F5643409aed2a89e56e000811.yaml</link>
+      <dc:creator>chrisl</dc:creator>
+      <description>-</description>
+      <category>id~Ardea modesta</category>
+      <guid isPermaLink="false">https://files.natureshare.org/chrisl/items/ns/2015/5643409aed2a89e56e000811.yaml</guid>
+      <pubDate>Wed, 11 Nov 2015 13:22:44 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

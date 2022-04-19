@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.459227,
+     -38.24072
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/pauline/collections/fauna_of_winslow_western_district/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpauline%2Fcollections%2Ffauna_of_winslow_western_district%2Faggregate%2Findex.json",
+    "date": "2017-11-30",
+    "title": "pauline",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a1f4b5fed2a8939840007b0.JPG"
+   }
+  }
+ ]
+}

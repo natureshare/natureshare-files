@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Mcg Life At The Mcg",
+ "description": "All users for [mcg_life_at_the_mcg]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fmcg_life_at_the_mcg%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/mcg_life_at_the_mcg/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "4 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55506304ed2a89d1da0000e9.JPG",
+   "date_published": "2015-05-11T08:06:28.000+00:00",
+   "date_modified": "2015-05-11T08:06:28.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.984319,
+     -37.819701
+    ]
+   },
+   "_meta": {
+    "itemCount": 4,
+    "date": "2015-05-11",
+    "name": "mcg_life_at_the_mcg",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/mcg_life_at_the_mcg/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmcg_life_at_the_mcg%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "jamesbooth",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55506304ed2a89d1da0000e9.JPG",
+   "date_published": "2015-05-11T08:06:28.000+00:00",
+   "date_modified": "2015-05-11T08:06:28.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.984,
+     -37.82
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2015-05-11",
+    "name": "mcg_life_at_the_mcg",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/jamesbooth/collections/mcg_life_at_the_mcg/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fmcg_life_at_the_mcg%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

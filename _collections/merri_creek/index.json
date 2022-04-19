@@ -1,0 +1,85 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Merri Creek",
+ "description": "All users for [merri_creek]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fmerri_creek%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/merri_creek/index.json",
+ "items": [
+  {
+   "title": "openid_127",
+   "content_text": "47 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-10-13/dec14_10_cburngl_z_cic_imgp1489_cropns.jpeg",
+   "date_published": "2019-10-12T13:16:49.000+00:00",
+   "date_modified": "2019-10-12T13:16:49.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.028458,
+     -37.583766
+    ]
+   },
+   "_meta": {
+    "itemCount": 47,
+    "date": "2019-10-12",
+    "name": "merri_creek",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_127/collections/merri_creek/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_127%2Fcollections%2Fmerri_creek%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "wendymoore",
+   "content_text": "42 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-10-13/dec14_10_cburngl_z_cic_imgp1489_cropns.jpeg",
+   "date_published": "2019-10-12T13:16:49.000+00:00",
+   "date_modified": "2019-10-12T13:16:49.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.966,
+     -37.635
+    ]
+   },
+   "_meta": {
+    "itemCount": 42,
+    "date": "2019-10-12",
+    "name": "merri_creek",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/wendymoore/collections/merri_creek/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwendymoore%2Fcollections%2Fmerri_creek%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "jamesbooth",
+   "content_text": "2 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011f51.jpg",
+   "date_published": "2011-08-28T18:04:23.000+00:00",
+   "date_modified": "2011-08-28T18:04:23.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.979,
+     -37.708
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2011-08-28",
+    "name": "merri_creek",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/jamesbooth/collections/merri_creek/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fmerri_creek%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

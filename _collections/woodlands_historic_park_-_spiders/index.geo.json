@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.86363,
+     -37.64818
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/andrew_allen/collections/woodlands_historic_park_-_spiders/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandrew_allen%2Fcollections%2Fwoodlands_historic_park_-_spiders%2Faggregate%2Findex.json",
+    "date": "2019-01-20",
+    "title": "andrew_allen",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_583ba1bbed2a897480005b25/2019-01-20/1547943708/jumping-spider-2019-01-18-woodlands-1.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.859,
+     -37.641
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/triplett/collections/woodlands_historic_park_-_spiders/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftriplett%2Fcollections%2Fwoodlands_historic_park_-_spiders%2Faggregate%2Findex.json",
+    "date": "2017-09-13",
+    "title": "triplett",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59b873b5ed2a893984000242.jpg"
+   }
+  }
+ ]
+}

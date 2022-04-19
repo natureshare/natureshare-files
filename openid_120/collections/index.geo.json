@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.182426,
+     -37.667704
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_120/collections/wattle_glen/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_120%2Fcollections%2Fwattle_glen%2Faggregate%2Findex.json",
+    "date": "2014-10-15",
+    "title": "Wattle Glen",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/543e47b5e35eb1314d0002d5.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.285,
+     -37.651
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_120/collections/christmas_hills_nillumbik/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_120%2Fcollections%2Fchristmas_hills_nillumbik%2Faggregate%2Findex.json",
+    "date": "2014-01-30",
+    "title": "Christmas Hills Nillumbik",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb12984014dfb.png"
+   }
+  }
+ ]
+}

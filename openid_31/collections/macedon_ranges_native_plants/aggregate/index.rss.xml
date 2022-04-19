@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/openid_31/collections/macedon_ranges_native_plants/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Macedon ranges native plants</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fcollections%2Fmacedon_ranges_native_plants%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 openid_31</copyright>
+    <pubDate>Mon, 02 May 2011 22:54:21 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Dipodium roseum s.s.</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e6ff.yaml</link>
+      <dc:creator>openid_31</dc:creator>
+      <description>Rosy Hyancinth Orchid. Location- Mt Macedon Rd, 'Forest Glade Garden', in gully area.</description>
+      <category>id~Dipodium roseum s.s.</category>
+      <category>tag~flower</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e6ff.yaml</guid>
+      <pubDate>Mon, 02 May 2011 22:48:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unidentified</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e6f8.yaml</link>
+      <dc:creator>openid_31</dc:creator>
+      <description>Tree fern. They grow in the gullies of Mt Macedon.</description>
+      <category>id~Unidentified</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e6f8.yaml</guid>
+      <pubDate>Mon, 02 May 2011 22:12:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clematis aristata</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e6f6.yaml</link>
+      <dc:creator>openid_31</dc:creator>
+      <description>Mountain Clematis.</description>
+      <category>id~Clematis aristata</category>
+      <category>tag~flower</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e6f6.yaml</guid>
+      <pubDate>Mon, 02 May 2011 22:01:34 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

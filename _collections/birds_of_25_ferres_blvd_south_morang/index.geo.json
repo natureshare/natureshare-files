@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.068,
+     -37.645
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/collections/birds_of_25_ferres_blvd_south_morang/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fbirds_of_25_ferres_blvd_south_morang%2Faggregate%2Findex.json",
+    "date": "2017-09-06",
+    "title": "jamesbooth",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59b07effed2a893984000200.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.068,
+     -37.646
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lindamerlino/collections/birds_of_25_ferres_blvd_south_morang/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flindamerlino%2Fcollections%2Fbirds_of_25_ferres_blvd_south_morang%2Faggregate%2Findex.json",
+    "date": "2017-06-27",
+    "title": "lindamerlino",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59518fb8ed2a8939840000ac.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.068,
+     -37.645
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jedwards/collections/birds_of_25_ferres_blvd_south_morang/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fcollections%2Fbirds_of_25_ferres_blvd_south_morang%2Faggregate%2Findex.json",
+    "date": "2016-04-27",
+    "title": "jedwards",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55b83e66ed2a89db81000346.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.068,
+     -37.645
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/anni75/collections/birds_of_25_ferres_blvd_south_morang/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fanni75%2Fcollections%2Fbirds_of_25_ferres_blvd_south_morang%2Faggregate%2Findex.json",
+    "date": "2014-10-12",
+    "title": "anni75",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/543a7443e35eb132b0000061.JPG"
+   }
+  }
+ ]
+}

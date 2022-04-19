@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Flora And Fauna Of The Wimmera",
+ "description": "All users for [flora_and_fauna_of_the_wimmera]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fflora_and_fauna_of_the_wimmera%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/flora_and_fauna_of_the_wimmera/index.json",
+ "items": [
+  {
+   "title": "pauline",
+   "content_text": "25 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57ea3f98ed2a89d73e0000a5.JPG",
+   "date_published": "2016-09-27T09:51:15.000+00:00",
+   "date_modified": "2016-09-27T09:51:15.000+00:00",
+   "_geo": {
+    "coordinates": [
+     142.196317,
+     -36.71736
+    ]
+   },
+   "_meta": {
+    "itemCount": 25,
+    "date": "2016-09-27",
+    "name": "flora_and_fauna_of_the_wimmera",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/pauline/collections/flora_and_fauna_of_the_wimmera/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpauline%2Fcollections%2Fflora_and_fauna_of_the_wimmera%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

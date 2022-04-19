@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.652455,
+     -37.430373
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/items/ns/2015/5677fa95ed2a89d6d6000321.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2015%2F5677fa95ed2a89d6d6000321.yaml",
+    "date": "2015-09-18",
+    "title": "Cyrtostylis reniformis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5677facaed2a89832800003c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.652187,
+     -37.430799
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/items/ns/2015/5677fab3ed2a89d6d6000322.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2015%2F5677fab3ed2a89d6d6000322.yaml",
+    "date": "2015-09-18",
+    "title": "Asplenium flabellifolium",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5677fadced2a89832800003d.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.653643,
+     -37.430711
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/items/ns/2014/54183e3de35eb17426000058.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2014%2F54183e3de35eb17426000058.yaml",
+    "date": "2014-09-15",
+    "title": "Acacia nano-dealbata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54183e3de35eb17426000053.jpg"
+   }
+  }
+ ]
+}

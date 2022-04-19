@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Dandenong Ranges Coleoptera",
+ "description": "All users for [dandenong_ranges_coleoptera]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fdandenong_ranges_coleoptera%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/dandenong_ranges_coleoptera/index.json",
+ "items": [
+  {
+   "title": "argybee",
+   "content_text": "42 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a69c833ed2a89f453000023.jpg",
+   "date_published": "2018-01-25T12:14:00.000+00:00",
+   "date_modified": "2018-01-25T12:14:00.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.353809,
+     -37.881611
+    ]
+   },
+   "_meta": {
+    "itemCount": 42,
+    "date": "2018-01-25",
+    "name": "dandenong_ranges_coleoptera",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/argybee/collections/dandenong_ranges_coleoptera/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fargybee%2Fcollections%2Fdandenong_ranges_coleoptera%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "leuba",
+   "content_text": "7 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a69c833ed2a89f453000023.jpg",
+   "date_published": "2018-01-25T12:14:00.000+00:00",
+   "date_modified": "2018-01-25T12:14:00.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.311,
+     -37.899
+    ]
+   },
+   "_meta": {
+    "itemCount": 7,
+    "date": "2018-01-25",
+    "name": "dandenong_ranges_coleoptera",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/leuba/collections/dandenong_ranges_coleoptera/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fcollections%2Fdandenong_ranges_coleoptera%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

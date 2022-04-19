@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/jylu/collections/baluk_willum_nature_conservation_reserve_belgrave/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Baluk willum nature conservation reserve belgrave</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fcollections%2Fbaluk_willum_nature_conservation_reserve_belgrave%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 jylu</copyright>
+    <pubDate>Mon, 22 May 2017 14:00:19 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Cryptostylis leptochila</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fitems%2Fns%2F2017%2F59225013ed2a893e6b001e92.yaml</link>
+      <dc:creator>jylu</dc:creator>
+      <description>Only two individuals were found still in flowers at this time.&#xD;
+Lots of leaves and several withered flower stems were sighted.</description>
+      <category>id~Cryptostylis leptochila</category>
+      <category>tag~flowers-red</category>
+      <guid isPermaLink="false">https://files.natureshare.org/jylu/items/ns/2017/59225013ed2a893e6b001e92.yaml</guid>
+      <pubDate>Mon, 22 May 2017 02:46:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pterostylis grandiflora</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fitems%2Fns%2F2017%2F59224ee1ed2a893e6b001e8b.yaml</link>
+      <dc:creator>jylu</dc:creator>
+      <description>Probably the first individual with fully opened flower in the reserve.</description>
+      <category>id~Pterostylis grandiflora</category>
+      <category>tag~flower-green</category>
+      <guid isPermaLink="false">https://files.natureshare.org/jylu/items/ns/2017/59224ee1ed2a893e6b001e8b.yaml</guid>
+      <pubDate>Mon, 22 May 2017 02:41:18 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

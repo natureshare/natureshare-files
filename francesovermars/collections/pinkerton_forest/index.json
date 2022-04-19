@@ -1,0 +1,71 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Pinkerton Forest",
+ "description": "",
+ "author": {
+  "name": "francesovermars",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ffrancesovermars%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ffrancesovermars%2Fcollections%2Fpinkerton_forest%2Findex.json",
+ "feed_url": "https://files.natureshare.org/francesovermars/collections/pinkerton_forest/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/francesovermars/items/ns/2013/53b39858e35eb129840103f9.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ffrancesovermars%2Fitems%2Fns%2F2013%2F53b39858e35eb129840103f9.yaml",
+   "title": "Enchylaena tomentosa var. tomentosa",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014299.jpg",
+   "date_published": "2013-08-23T15:02:57.000+00:00",
+   "date_modified": "2014-07-03T01:11:01.000+00:00",
+   "tags": [
+    "id~Enchylaena tomentosa var. tomentosa"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.596171,
+     -37.766746
+    ]
+   },
+   "_meta": {
+    "date": "2013-08-11",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "francesovermars",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ffrancesovermars%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/francesovermars/items/ns/2013/53b39858e35eb129840103f5.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ffrancesovermars%2Fitems%2Fns%2F2013%2F53b39858e35eb129840103f5.yaml",
+   "title": "Eremophila deserti",
+   "content_text": "This Turkey bush was eaten down to ankle height when first viewed in 1992, with rabbit proof fencing and strategic grazing by sheep (the bush was protected by branches)within the grassy grey-woodland over the years the shrub has survived and thrived.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014295.jpg",
+   "date_published": "2013-08-23T14:46:05.000+00:00",
+   "date_modified": "2014-07-03T01:12:15.000+00:00",
+   "tags": [
+    "id~Eremophila deserti"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.596729,
+     -37.768137
+    ]
+   },
+   "_meta": {
+    "date": "2013-08-11",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "francesovermars",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ffrancesovermars%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

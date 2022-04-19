@@ -1,0 +1,42 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "lindagrant",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flindagrant%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flindagrant%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/lindagrant/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/lindagrant/items/ns/2017/589700cced2a89d10f002dfa.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flindagrant%2Fitems%2Fns%2F2017%2F589700cced2a89d10f002dfa.yaml",
+   "title": "Eriophora spp.",
+   "content_text": "Can anyone ID this spider for me please?\r\nSpotted inside the Eastern Barred Bandicoot enclosure in Hamilton Vic.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/589700f6ed2a89d73e00035b.jpg",
+   "date_published": "2017-02-05T10:47:25.000+00:00",
+   "date_modified": "2017-02-05T10:47:25.000+00:00",
+   "tags": [
+    "id~Eriophora spp.",
+    "tag~orb-spider"
+   ],
+   "_geo": {
+    "coordinates": [
+     142.025815,
+     -37.722463
+    ]
+   },
+   "_meta": {
+    "date": "2017-01-28",
+    "imageCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,72 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Melton Frogs",
+ "description": "",
+ "author": {
+  "name": "openid_63",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fcollections%2Fmelton_frogs%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_63/collections/melton_frogs/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_63/items/ns/2011/53b39853e35eb1298400f172.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fitems%2Fns%2F2011%2F53b39853e35eb1298400f172.yaml",
+   "title": "Litoria peronii",
+   "content_text": "Melton Valley Golf Course",
+   "date_published": "2011-12-26T08:56:11.000+00:00",
+   "date_modified": "2011-12-26T09:50:24.000+00:00",
+   "tags": [
+    "id~Litoria peronii"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.597244,
+     -37.678318
+    ]
+   },
+   "_meta": {
+    "date": "2011-12-25"
+   },
+   "author": {
+    "name": "openid_63",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_63/items/ns/2015/melton_frogs_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fitems%2Fns%2F2015%2Fmelton_frogs_species_list.yaml",
+   "title": "8 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2011-08-25T22:25:36.000+00:00",
+   "date_modified": "2015-04-07T08:47:35.000+00:00",
+   "tags": [
+    "id~Crinia signifera",
+    "id~Limnodynastes dumerilii",
+    "id~Limnodynastes tasmaniensis",
+    "id~Litoria ewingii",
+    "id~Litoria peronii",
+    "id~Litoria raniformis",
+    "id~Litoria verreauxii verreauxii",
+    "id~Neobatrachus sudelli",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "openid_63",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

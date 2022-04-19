@@ -1,0 +1,96 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Birds of Werribee River Volcanic Gorge - Blue Box Flat",
+ "description": "",
+ "author": {
+  "name": "openid_130",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fcollections%2Fbirds_of_werribee_river_volcanic_gorge_blue_box_flat%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_130/collections/birds_of_werribee_river_volcanic_gorge_blue_box_flat/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_130/items/ns/2014/53e9947ce35eb1be5800001e.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Fns%2F2014%2F53e9947ce35eb1be5800001e.yaml",
+   "title": "14 ids",
+   "content_text": "Blue Box Flat\t\t\r\nManed Duck\t       Chenonetta jubata\t2\r\nWhistling Kite\t       Haliastur sphenurus\t1\r\nSulphur-crested Cockatoo\t Cacatua galerita\t3\r\nEastern Rosella\t Platycercus eximius\t4\r\nRed-rumped Parrot\t Psephotus haematonotus\t15\r\nSuperb Fairywren\t Malurus cyaneus\t15\r\nWhite-browed Scrubwren\t Sericornis frontalis\t1\r\nBrown Thornbill\t Acanthiza pusilla\t1\r\nAustralian Magpie\t Gymnorhina tibicen\t2\r\nGrey Fantail\t Rhipidura albiscapa\t1\r\nLittle Raven\t Corvus mellori\t1\r\nSilvereye\t Zosterops lateralis\t8\r\nCommon Starling\t Sturnus vulgaris\t20\r\nRed-browed Finch\t Neochmia temporalis\t20\r\n",
+   "date_published": "2014-08-12T04:13:48.000+00:00",
+   "date_modified": "2014-08-12T04:19:08.000+00:00",
+   "tags": [
+    "id~Acanthiza pusilla",
+    "id~Cacatua galerita",
+    "id~Chenonetta jubata",
+    "id~Corvus mellori",
+    "id~Gymnorhina tibicen",
+    "id~Haliastur sphenurus",
+    "id~Malurus cyaneus",
+    "id~Neochmia temporalis",
+    "id~Platycercus eximius",
+    "id~Psephotus haematonotus",
+    "id~Rhipidura albiscarpa",
+    "id~Sericornis frontalis",
+    "id~Sturnus vulgaris",
+    "id~Zosterops lateralis"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.580151,
+     -37.761568
+    ]
+   },
+   "_meta": {
+    "date": "2014-07-22"
+   },
+   "author": {
+    "name": "openid_130",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_130/items/ns/2014/birds_of_werribee_river_volcanic_gorge_blue_box_flat_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Fns%2F2014%2Fbirds_of_werribee_river_volcanic_gorge_blue_box_flat_species_list.yaml",
+   "title": "14 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2014-08-12T04:04:59.000+00:00",
+   "date_modified": "2014-08-12T04:09:48.000+00:00",
+   "tags": [
+    "id~Acanthiza pusilla",
+    "id~Cacatua galerita",
+    "id~Chenonetta jubata",
+    "id~Corvus mellori",
+    "id~Cracticus tibicen",
+    "id~Haliastur sphenurus",
+    "id~Malurus cyaneus",
+    "id~Neochmia temporalis",
+    "id~Platycercus eximius",
+    "id~Psephotus haematonotus",
+    "id~Rhipidura albiscapa",
+    "id~Sericornis frontalis",
+    "id~Sturnus vulgaris",
+    "id~Zosterops lateralis",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.579587,
+     -37.76081
+    ]
+   },
+   "_meta": {
+    "date": "2014-08-12"
+   },
+   "author": {
+    "name": "openid_130",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

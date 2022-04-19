@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.068585,
+     -37.623905
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bf/collections/millbrook/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbf%2Fcollections%2Fmillbrook%2Faggregate%2Findex.json",
+    "date": "2018-11-02",
+    "title": "bf",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bdc5c53ed2a89c6aa000126.jpg"
+   }
+  }
+ ]
+}

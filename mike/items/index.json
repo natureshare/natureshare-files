@@ -1,0 +1,40 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "mike",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmike%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmike%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/mike/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/mike/items/ns/2014/53e2fe72e35eb1a67d000009.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmike%2Fitems%2Fns%2F2014%2F53e2fe72e35eb1a67d000009.yaml",
+   "title": "Vanessa kershawi",
+   "content_text": "Good views of one at rest and ? another in flight. This year in Bayside I've made my latest May record, my only July record (28th) and some \"possibles\" in the last week or so. My earliest August record before this was on 23.8.12. Climate variability?",
+   "date_published": "2014-08-07T04:20:02.000+00:00",
+   "date_modified": "2014-08-07T04:20:02.000+00:00",
+   "tags": [
+    "id~Vanessa kershawi",
+    "tag~adult"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.998177,
+     -37.9432
+    ]
+   },
+   "_meta": {
+    "date": "2014-08-04"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "wilcirrus",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwilcirrus%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwilcirrus%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/wilcirrus/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/wilcirrus/items/ns/2017/586ccf62ed2a89f464000606.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fwilcirrus%2Fitems%2Fns%2F2017%2F586ccf62ed2a89f464000606.yaml",
+   "title": "Psaltoda moerens",
+   "content_text": "Appears to be a Red Eye cicada calling from the maple tree in my backyard. It went silent after the recording.",
+   "date_published": "2017-01-04T10:43:46.000+00:00",
+   "date_modified": "2017-01-04T10:43:46.000+00:00",
+   "tags": [
+    "id~Psaltoda moerens",
+    "tag~calling"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.124614,
+     -37.856883
+    ]
+   },
+   "_meta": {
+    "date": "2017-01-04",
+    "videoCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

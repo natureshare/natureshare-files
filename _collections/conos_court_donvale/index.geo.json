@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.197536,
+     -37.787136
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/guymer/collections/conos_court_donvale/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fguymer%2Fcollections%2Fconos_court_donvale%2Faggregate%2Findex.json",
+    "date": "2018-02-05",
+    "title": "guymer",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54a7a8a7e35eb1b832000001.jpg"
+   }
+  }
+ ]
+}

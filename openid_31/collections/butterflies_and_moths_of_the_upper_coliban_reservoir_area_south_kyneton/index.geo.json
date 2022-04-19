@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.405448,
+     -37.27764
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e703.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e703.yaml",
+    "date": "2010-04-12",
+    "title": "Junonia villida calybe",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011a45.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.405453,
+     -37.277702
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e5a8.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e5a8.yaml",
+    "date": "2011-01-25",
+    "title": "Platyptilia emissalis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb1298401189d.jpg"
+   }
+  }
+ ]
+}

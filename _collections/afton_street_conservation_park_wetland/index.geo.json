@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.886,
+     -37.76
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/afton_street_conservation_park_wetland/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fafton_street_conservation_park_wetland%2Faggregate%2Findex.json",
+    "date": "2013-08-11",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb1298401425e.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.886,
+     -37.76
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/collections/afton_street_conservation_park_wetland/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fafton_street_conservation_park_wetland%2Faggregate%2Findex.json",
+    "date": "2013-08-11",
+    "title": "tsnata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb1298401425e.jpg"
+   }
+  }
+ ]
+}

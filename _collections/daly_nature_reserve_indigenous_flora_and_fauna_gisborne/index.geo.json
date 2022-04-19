@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.588162,
+     -37.492745
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/daly_nature_reserve_indigenous_flora_and_fauna_gisborne/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fdaly_nature_reserve_indigenous_flora_and_fauna_gisborne%2Faggregate%2Findex.json",
+    "date": "2017-02-26",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58b2a5feed2a89e548000012.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.588,
+     -37.493
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/andill/collections/daly_nature_reserve_indigenous_flora_and_fauna_gisborne/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandill%2Fcollections%2Fdaly_nature_reserve_indigenous_flora_and_fauna_gisborne%2Faggregate%2Findex.json",
+    "date": "2017-02-26",
+    "title": "andill",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58b2a5feed2a89e548000012.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.588,
+     -37.493
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/collections/daly_nature_reserve_indigenous_flora_and_fauna_gisborne/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fdaly_nature_reserve_indigenous_flora_and_fauna_gisborne%2Faggregate%2Findex.json",
+    "date": "2014-11-01",
+    "title": "david_francis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54547060e35eb1dca80001b6.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.588,
+     -37.493
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/collections/daly_nature_reserve_indigenous_flora_and_fauna_gisborne/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fcollections%2Fdaly_nature_reserve_indigenous_flora_and_fauna_gisborne%2Faggregate%2Findex.json",
+    "date": "2013-06-24",
+    "title": "therebel2015",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39867e35eb12984013f9a.jpg"
+   }
+  }
+ ]
+}

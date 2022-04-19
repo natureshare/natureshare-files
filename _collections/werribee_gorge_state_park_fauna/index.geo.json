@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.345,
+     -37.664
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/werribee_gorge_state_park_fauna/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fwerribee_gorge_state_park_fauna%2Faggregate%2Findex.json",
+    "date": "2014-04-12",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb12984015221.jpg"
+   }
+  }
+ ]
+}

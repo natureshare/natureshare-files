@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.475861,
+     -37.62946
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/croajingalong_np_birds/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fcroajingalong_np_birds%2Faggregate%2Findex.json",
+    "date": "2014-08-28",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53ff5563e35eb19d94000044.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.692,
+     -37.651
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lydia/collections/croajingalong_np_birds/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fcollections%2Fcroajingalong_np_birds%2Faggregate%2Findex.json",
+    "date": "2013-02-02",
+    "title": "lydia",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb1298401397c.jpg"
+   }
+  }
+ ]
+}

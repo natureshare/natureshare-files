@@ -1,0 +1,232 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Craigieburn Grassland Ncr Flora",
+ "description": "",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fcraigieburn_grassland_ncr_flora%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/craigieburn_grassland_ncr_flora/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2015/craigieburn_grassland_ncr_flora_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Fcraigieburn_grassland_ncr_flora_species_list.yaml",
+   "title": "134 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2012-02-23T11:44:30.000+00:00",
+   "date_modified": "2015-04-07T08:47:36.000+00:00",
+   "tags": [
+    "id~Acacia implexa",
+    "id~Acacia mearnsii",
+    "id~Acacia melanoxylon",
+    "id~Acaena echinata",
+    "id~Aira elegantissima",
+    "id~Allium vineale",
+    "id~Amphibromus pithogastrus",
+    "id~Apium annuum",
+    "id~Arctotheca calendula",
+    "id~Arctotheca prostrata",
+    "id~Arthropodium milleflorum s.l.",
+    "id~Asperula conferta",
+    "id~Austrodanthonia carphoides",
+    "id~Austrodanthonia duttoniana",
+    "id~Austrodanthonia eriantha",
+    "id~Austrodanthonia pilosa",
+    "id~Austrodanthonia racemosa var. racemosa",
+    "id~Austrodanthonia setacea var. setacea",
+    "id~Austrodanthonia tenuior",
+    "id~Austrostipa bigeniculata",
+    "id~Austrostipa gibbosa",
+    "id~Avena fatua",
+    "id~Bolboschoenus caldwellii",
+    "id~Briza maxima",
+    "id~Briza minor",
+    "id~Bromus hordeaceus subsp. hordeaceus",
+    "id~Bulbine bulbosa",
+    "id~Calocephalus citreus",
+    "id~Calocephalus lacteus",
+    "id~Calystegia sepium subsp. roseata",
+    "id~Carex tasmanica",
+    "id~Carthamus lanatus",
+    "id~Centella cordifolia",
+    "id~Cerastium glomeratum s.l.",
+    "id~Cirsium vulgare",
+    "id~Comesperma polygaloides",
+    "id~Convolvulus angustissimus",
+    "id~Crassula closiana",
+    "id~Cullen tenax",
+    "id~Cynodon dactylon var. dactylon",
+    "id~Cynosurus echinatus",
+    "id~Cyperus eragrostis",
+    "id~Desmodium varians",
+    "id~Dichelachne sciurea spp. agg.",
+    "id~Dichondra repens",
+    "id~Drosera peltata subsp. peltata",
+    "id~Ehrharta calycina",
+    "id~Elymus scaber var. scaber",
+    "id~Enneapogon nigricans",
+    "id~Eryngium ovinum",
+    "id~Eucalyptus camaldulensis",
+    "id~Eucalyptus ovata var. ovata",
+    "id~Euchiton involucratus s.l.",
+    "id~Genista monspessulana",
+    "id~Geranium homeanum",
+    "id~Holcus lanatus",
+    "id~Hordeum murinum s.l.",
+    "id~Hydrocotyle sibthorpioides",
+    "id~Hydrocotyle verticillata",
+    "id~Hypochoeris glabra",
+    "id~Hypochoeris radicata",
+    "id~Isolepis victoriensis",
+    "id~Juncus amabilis",
+    "id~Juncus filicaulis",
+    "id~Juncus flavidus",
+    "id~Juncus holoschoenus",
+    "id~Juncus kraussii subsp. australiensis",
+    "id~Juncus subsecundus",
+    "id~Lachnagrostis punicea subsp. punicea",
+    "id~Lemna disperma",
+    "id~Leontodon taraxacoides subsp. taraxacoides",
+    "id~Leptinella reptans s.l.",
+    "id~Leptospermum lanigerum",
+    "id~Lobelia irrigua",
+    "id~Lolium rigidum",
+    "id~Malus pumila",
+    "id~Malva nicaeensis",
+    "id~Melicytus dentatus s.l.",
+    "id~Microlaena stipoides var. stipoides",
+    "id~Muellerina eucalyptoides",
+    "id~Myoporum petiolatum",
+    "id~Myriophyllum spp.",
+    "id~Nassella neesiana",
+    "id~Nassella trichotoma",
+    "id~Neopaxia australasica",
+    "id~Opercularia varia",
+    "id~Oxalis perennans",
+    "id~Paronychia spp.",
+    "id~Paspalum distichum",
+    "id~Pennisetum alopecuroides",
+    "id~Pennisetum clandestinum",
+    "id~Persicaria decipiens",
+    "id~Phalaris aquatica",
+    "id~Phragmites australis",
+    "id~Plantago lanceolata",
+    "id~Plantago major",
+    "id~Poa annua",
+    "id~Poa labillardierei var. (Volcanic Plains)",
+    "id~Poa morrisii",
+    "id~Poa sieberiana var. hirtella",
+    "id~Polypogon monspeliensis",
+    "id~Prunus spp.",
+    "id~Pteridium esculentum",
+    "id~Ranunculus diminutus",
+    "id~Raphanus raphanistrum",
+    "id~Rapistrum rugosum",
+    "id~Rosa rubiginosa",
+    "id~Rubus fruticosus spp. agg.",
+    "id~Rumex crispus",
+    "id~Schoenoplectus tabernaemontani",
+    "id~Schoenus apogon",
+    "id~Schoenus nitens",
+    "id~Schoenus tesquorum",
+    "id~Selliera radicans",
+    "id~Senecio glomeratus subsp. glomeratus",
+    "id~Sisyrinchium spp.",
+    "id~Solenogyne dominii",
+    "id~Themeda triandra",
+    "id~Tricoryne elatior",
+    "id~Trifolium angustifolium var. angustifolium",
+    "id~Trifolium dubium",
+    "id~Trifolium fragiferum var. fragiferum",
+    "id~Trifolium glomeratum",
+    "id~Trifolium repens var. repens",
+    "id~Trifolium spp.",
+    "id~Trifolium striatum",
+    "id~Triglochin procera s.l.",
+    "id~Typha latifolia",
+    "id~Vinca major",
+    "id~Vulpia bromoides",
+    "id~Vulpia spp.",
+    "id~Wahlenbergia gracilis",
+    "id~Wurmbea dioica",
+    "id~Xanthium spinosum",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.9669,
+     -37.611775
+    ]
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2011/53b39851e35eb1298400e954.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e954.yaml",
+   "title": "Bursaria spinosa subsp. spinosa",
+   "content_text": "Magnificent old 'tree'.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011d5a.jpg",
+   "date_published": "2011-07-02T20:39:41.000+00:00",
+   "date_modified": "2011-07-02T20:52:33.000+00:00",
+   "tags": [
+    "id~Bursaria spinosa subsp. spinosa",
+    "tag~form",
+    "tag~tree"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.961883,
+     -37.629211
+    ]
+   },
+   "_meta": {
+    "date": "2010-04-22",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2010/53b3984ee35eb1298400e13b.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2010%2F53b3984ee35eb1298400e13b.yaml",
+   "title": "Muellerina eucalyptoides",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ce35eb1298401137b.jpg",
+   "date_published": "2010-07-15T14:28:50.000+00:00",
+   "date_modified": "2010-07-15T14:36:34.000+00:00",
+   "tags": [
+    "id~Muellerina eucalyptoides",
+    "tag~fruit"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.96127,
+     -37.62584
+    ]
+   },
+   "_meta": {
+    "date": "2010-04-22",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

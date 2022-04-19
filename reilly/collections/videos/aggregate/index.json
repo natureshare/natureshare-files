@@ -1,0 +1,47 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Videos",
+ "description": "",
+ "author": {
+  "name": "reilly",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fcollections%2Fvideos%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/reilly/collections/videos/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/reilly/items/ns/2015/54a9f642e35eb1494800003a.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2015%2F54a9f642e35eb1494800003a.yaml",
+   "title": "Wallabia bicolor",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54a9f641e35eb14948000038.jpg",
+   "date_published": "2015-01-05T02:26:10.000+00:00",
+   "date_modified": "2015-01-05T02:26:50.000+00:00",
+   "tags": [
+    "id~Wallabia bicolor"
+   ],
+   "_geo": {
+    "coordinates": [
+     146.376358,
+     -39.031522
+    ]
+   },
+   "_meta": {
+    "date": "2014-12-31",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "reilly",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

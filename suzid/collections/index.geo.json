@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.038,
+     -37.484
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/suzid/collections/birds_of_whittlesea/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsuzid%2Fcollections%2Fbirds_of_whittlesea%2Faggregate%2Findex.json",
+    "date": "2018-03-01",
+    "title": "Birds of whittlesea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a976c74ed2a8929e7000019.jpg"
+   }
+  }
+ ]
+}

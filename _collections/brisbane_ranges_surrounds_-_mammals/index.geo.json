@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.218955,
+     -37.829294
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/monitor/collections/brisbane_ranges_surrounds_-_mammals/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmonitor%2Fcollections%2Fbrisbane_ranges_surrounds_-_mammals%2Faggregate%2Findex.json",
+    "date": "2015-05-09",
+    "title": "monitor",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/554de1b7ed2a89c6e5000049.JPG"
+   }
+  }
+ ]
+}

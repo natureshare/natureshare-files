@@ -1,0 +1,55 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.9669,
+     -37.611775
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2015/craigieburn_grassland_ncr_flora_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Fcraigieburn_grassland_ncr_flora_species_list.yaml",
+    "date": "2015-04-07",
+    "title": "134 ids"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.961883,
+     -37.629211
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2011/53b39851e35eb1298400e954.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e954.yaml",
+    "date": "2010-04-22",
+    "title": "Bursaria spinosa subsp. spinosa",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011d5a.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.96127,
+     -37.62584
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2010/53b3984ee35eb1298400e13b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2010%2F53b3984ee35eb1298400e13b.yaml",
+    "date": "2010-04-22",
+    "title": "Muellerina eucalyptoides",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ce35eb1298401137b.jpg"
+   }
+  }
+ ]
+}

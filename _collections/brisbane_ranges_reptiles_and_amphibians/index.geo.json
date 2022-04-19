@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.27,
+     -37.825
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/collections/brisbane_ranges_reptiles_and_amphibians/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fcollections%2Fbrisbane_ranges_reptiles_and_amphibians%2Faggregate%2Findex.json",
+    "date": "2018-09-17",
+    "title": "chrisl",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ac88fc1ed2a8929e700007d.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.27,
+     -37.825
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/koolah/collections/brisbane_ranges_reptiles_and_amphibians/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fcollections%2Fbrisbane_ranges_reptiles_and_amphibians%2Faggregate%2Findex.json",
+    "date": "2018-09-17",
+    "title": "koolah",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ac88fc1ed2a8929e700007d.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.27,
+     -37.825
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_42/collections/brisbane_ranges_reptiles_and_amphibians/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fcollections%2Fbrisbane_ranges_reptiles_and_amphibians%2Faggregate%2Findex.json",
+    "date": "2018-09-17",
+    "title": "openid_42",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ac88fc1ed2a8929e700007d.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Birds Of Werribee River Volcanic Gorge Pinkerton Flat",
+ "description": "",
+ "author": {
+  "name": "openid_130",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fcollections%2Fbirds_of_werribee_river_volcanic_gorge_pinkerton_flat%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_130/collections/birds_of_werribee_river_volcanic_gorge_pinkerton_flat/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_130/items/ns/2014/53e98ebde35eb175d700001f.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Fns%2F2014%2F53e98ebde35eb175d700001f.yaml",
+   "title": "17 ids",
+   "content_text": "Pinkerton Flat\t\t\r\nPacific Black Duck\t Anas superciliosa\t2\r\nWedge-tailed Eagle\t Aquila audax\t2\r\nSwamp Harrier\t Circus approximans\t1\r\nGalah\t Eolophus roseicapilla\t1\r\nEastern Rosella\t Platycercus eximius\t3\r\nRed-rumped Parrot\t Psephotus haematonotus\t20\r\nSuperb Fairywren\t Malurus cyaneus\t30\r\nWhite-plumed Honeyeater\t Lichenostomus penicillatus\t3\r\nSpiny-cheeked Honeyeater\t Acanthagenys rufogularis\t2\r\nBrown Thornbill\t Acanthiza pusilla\t2\r\nAustralian Magpie\t Gymnorhina tibicen\t1\r\nBlack-faced Cuckooshrike\t Coracina novaehollandiae\t1\r\nLittle Raven\t Corvus mellori\t1\r\nSilvereye\t Zosterops lateralis\t10\r\nCommon Blackbird\t Turdus merula\t1\r\nEuropean Goldfinch\t Carduelis carduelis\t25\r\nRed-browed Finch\t Neochmia temporalis\t30\r\n",
+   "date_published": "2014-08-12T03:49:17.000+00:00",
+   "date_modified": "2014-08-12T03:59:20.000+00:00",
+   "tags": [
+    "id~Acanthagenys rufogularis",
+    "id~Acanthiza pusilla",
+    "id~Anas superciliosa",
+    "id~Aquila audax",
+    "id~Carduelis carduelis",
+    "id~Circus approximans",
+    "id~Coracina novaehollandiae",
+    "id~Corvus mellori",
+    "id~Eolophus roseicapilla",
+    "id~Gymnorhina tibicen",
+    "id~Lichenostomus penicillatus",
+    "id~Malurus cyaneus",
+    "id~Neochmia temporalis",
+    "id~Platycercus eximius",
+    "id~Psephotus haematonotus",
+    "id~Turdus merula",
+    "id~Zosterops lateralis"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.579679,
+     -37.756988
+    ]
+   },
+   "_meta": {
+    "date": "2014-07-22"
+   },
+   "author": {
+    "name": "openid_130",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_130/items/ns/2014/birds_of_werribee_river_volcanic_gorge_pinkerton_flat_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Fns%2F2014%2Fbirds_of_werribee_river_volcanic_gorge_pinkerton_flat_species_list.yaml",
+   "title": "17 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2014-08-12T03:41:25.000+00:00",
+   "date_modified": "2014-08-12T03:41:25.000+00:00",
+   "tags": [
+    "id~Acanthagenys rufogularis",
+    "id~Acanthiza pusilla",
+    "id~Anas superciliosa",
+    "id~Aquila audax",
+    "id~Carduelis carduelis",
+    "id~Circus approximans",
+    "id~Coracina novaehollandiae",
+    "id~Corvus mellori",
+    "id~Cracticus tibicen",
+    "id~Eolophus roseicapillus",
+    "id~Malurus cyaneus",
+    "id~Neochmia temporalis",
+    "id~Platycercus eximius",
+    "id~Psephotus haematonotus",
+    "id~Ptilotula penicillata",
+    "id~Turdus merula",
+    "id~Zosterops lateralis",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.579679,
+     -37.756988
+    ]
+   },
+   "_meta": {
+    "date": "2014-08-12"
+   },
+   "author": {
+    "name": "openid_130",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

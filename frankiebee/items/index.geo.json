@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.647444,
+     -37.452369
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/frankiebee/items/ns/2017/58fc3b8bed2a89f3bf000dca.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ffrankiebee%2Fitems%2Fns%2F2017%2F58fc3b8bed2a89f3bf000dca.yaml",
+    "date": "2017-04-22",
+    "title": "Stibaroma melanotoxa",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58fc3b92ed2a89e548000102.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.674958,
+     -37.455628
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/frankiebee/items/ns/2016/585e46eded2a89748000ae2c.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ffrankiebee%2Fitems%2Fns%2F2016%2F585e46eded2a89748000ae2c.yaml",
+    "date": "2016-12-24",
+    "title": "Todiramphus sanctus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/585e46f6ed2a89b718000299.JPG"
+   }
+  }
+ ]
+}

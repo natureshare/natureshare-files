@@ -1,0 +1,47 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Galls of victoria",
+ "description": "",
+ "author": {
+  "name": "lorrainecphelan",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Florrainecphelan%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Florrainecphelan%2Fcollections%2Fgalls_of_victoria%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/lorrainecphelan/collections/galls_of_victoria/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/lorrainecphelan/items/ns/2018/5b77f717ed2a89a7f1005d0e.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Florrainecphelan%2Fitems%2Fns%2F2018%2F5b77f717ed2a89a7f1005d0e.yaml",
+   "title": "Unidentified",
+   "content_text": "Galls on Cassytha sp.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b77f71bed2a891efe00009c.jpg",
+   "date_published": "2018-08-18T10:42:00.000+00:00",
+   "date_modified": "2018-08-18T10:42:22.000+00:00",
+   "tags": [
+    "id~Unidentified"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.15342,
+     -38.327986
+    ]
+   },
+   "_meta": {
+    "date": "2018-08-16",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "lorrainecphelan",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Florrainecphelan%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

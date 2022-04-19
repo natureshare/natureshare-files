@@ -1,0 +1,47 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "AUSSIETREKKER'S WEEDS ",
+ "description": "",
+ "author": {
+  "name": "aussietrekker",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Faussietrekker%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Faussietrekker%2Fcollections%2Faussietrekker_s_weeds_of_australia%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/aussietrekker/collections/aussietrekker_s_weeds_of_australia/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/aussietrekker/items/ns/2016/57353ff9ed2a89e6680007f2.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Faussietrekker%2Fitems%2Fns%2F2016%2F57353ff9ed2a89e6680007f2.yaml",
+   "title": "Sisymbrium irio",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/573540b6ed2a890be70001e2.JPG",
+   "date_published": "2016-05-13T02:46:17.000+00:00",
+   "date_modified": "2016-05-14T04:11:15.000+00:00",
+   "tags": [
+    "id~Sisymbrium irio"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.830246,
+     -37.869471
+    ]
+   },
+   "_meta": {
+    "date": "2009-09-01",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "aussietrekker",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Faussietrekker%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

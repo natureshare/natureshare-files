@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.176826,
+     -38.171257
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/leuba/items/ns/2015/54f98f22ed2a89097e00055d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fitems%2Fns%2F2015%2F54f98f22ed2a89097e00055d.yaml",
+    "date": "2015-02-17",
+    "title": "Andrenosoma queenslandi",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f98f20ed2a89097e00055a.jpg"
+   }
+  }
+ ]
+}

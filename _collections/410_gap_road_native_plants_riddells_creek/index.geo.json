@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654633,
+     -37.43076
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/collections/410_gap_road_native_plants_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fcollections%2F410_gap_road_native_plants_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2015-12-21",
+    "title": "gill",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5677facaed2a89832800003c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654633,
+     -37.43076
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/410_gap_road_native_plants_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2F410_gap_road_native_plants_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2015-12-21",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5677facaed2a89832800003c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.653,
+     -37.431
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/collections/410_gap_road_native_plants_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fcollections%2F410_gap_road_native_plants_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2015-12-21",
+    "title": "chrisl",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5677facaed2a89832800003c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.653,
+     -37.43
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/collections/410_gap_road_native_plants_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2F410_gap_road_native_plants_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2010-06-28",
+    "title": "david_francis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ce35eb12984011352.jpg"
+   }
+  }
+ ]
+}

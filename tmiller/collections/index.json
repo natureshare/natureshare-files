@@ -1,0 +1,107 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "tmiller",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/tmiller/collections/index.json",
+ "items": [
+  {
+   "title": "Bacchus Marsh Racecourse Reserve",
+   "content_text": "7 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5964343aed2a893984000105.jpg",
+   "date_published": "2017-07-11T02:16:02.000+00:00",
+   "date_modified": "2017-07-11T02:16:02.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.402547,
+     -37.697795
+    ]
+   },
+   "_meta": {
+    "itemCount": 7,
+    "date": "2017-07-11",
+    "name": "bacchus_marsh_race_course_reserve",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/tmiller/collections/bacchus_marsh_race_course_reserve/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fcollections%2Fbacchus_marsh_race_course_reserve%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Ballan Mineral Springs Reserve",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a537bfed2a892daf0003c5.JPG",
+   "date_published": "2017-02-17T00:04:27.000+00:00",
+   "date_modified": "2017-02-17T00:04:27.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.191929,
+     -37.607815
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-02-17",
+    "name": "ballan_mineral_springs_reserve",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/tmiller/collections/ballan_mineral_springs_reserve/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fcollections%2Fballan_mineral_springs_reserve%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Bacchus Marsh Gun Club",
+   "content_text": "5 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a537eaed2a89d73e000388.JPG",
+   "date_published": "2017-02-16T05:45:11.000+00:00",
+   "date_modified": "2017-02-16T05:45:11.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.390885,
+     -37.726649
+    ]
+   },
+   "_meta": {
+    "itemCount": 5,
+    "date": "2017-02-16",
+    "name": "bacchus_marsh_gun_club",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/tmiller/collections/bacchus_marsh_gun_club/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fcollections%2Fbacchus_marsh_gun_club%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Spargo Creek Mineral Spring Reserve",
+   "content_text": "8 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a537a7ed2a89d73e000386.JPG",
+   "date_published": "2017-02-16T05:43:01.000+00:00",
+   "date_modified": "2017-02-16T05:43:01.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.139318,
+     -37.491768
+    ]
+   },
+   "_meta": {
+    "itemCount": 8,
+    "date": "2017-02-16",
+    "name": "spargo_creek_mineral_spring_reserve",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/tmiller/collections/spargo_creek_mineral_spring_reserve/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fcollections%2Fspargo_creek_mineral_spring_reserve%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 4,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

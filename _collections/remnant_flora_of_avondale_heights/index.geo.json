@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.854715,
+     -37.751206
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_93/collections/remnant_flora_of_avondale_heights/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_93%2Fcollections%2Fremnant_flora_of_avondale_heights%2Faggregate%2Findex.json",
+    "date": "2011-12-15",
+    "title": "openid_93",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb12984012715.jpg"
+   }
+  }
+ ]
+}

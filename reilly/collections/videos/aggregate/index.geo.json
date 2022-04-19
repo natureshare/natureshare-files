@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.376358,
+     -39.031522
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/reilly/items/ns/2015/54a9f642e35eb1494800003a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2015%2F54a9f642e35eb1494800003a.yaml",
+    "date": "2014-12-31",
+    "title": "Wallabia bicolor",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54a9f641e35eb14948000038.jpg"
+   }
+  }
+ ]
+}

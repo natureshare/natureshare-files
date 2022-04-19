@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Gravel Reserve Bushland Reserve Plants",
+ "description": "All users for [gravel_reserve_bushland_reserve_plants]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fgravel_reserve_bushland_reserve_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/gravel_reserve_bushland_reserve_plants/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "8 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55b7b508ed2a89db8100031e.jpg",
+   "date_published": "2015-07-28T16:50:56.000+00:00",
+   "date_modified": "2015-07-28T16:50:56.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.148886,
+     -37.069988
+    ]
+   },
+   "_meta": {
+    "itemCount": 8,
+    "date": "2015-07-28",
+    "name": "gravel_reserve_bushland_reserve_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/gravel_reserve_bushland_reserve_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fgravel_reserve_bushland_reserve_plants%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

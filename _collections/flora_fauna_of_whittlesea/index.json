@@ -1,0 +1,64 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Flora Fauna Of Whittlesea",
+ "description": "All users for [flora_fauna_of_whittlesea]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fflora_fauna_of_whittlesea%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/flora_fauna_of_whittlesea/index.json",
+ "items": [
+  {
+   "title": "jedwards",
+   "content_text": "26 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143db.jpg",
+   "date_published": "2013-09-11T14:32:20.000+00:00",
+   "date_modified": "2013-09-11T14:32:20.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.156,
+     -37.517
+    ]
+   },
+   "_meta": {
+    "itemCount": 26,
+    "date": "2013-09-11",
+    "name": "flora_fauna_of_whittlesea",
+    "featured": true,
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/jedwards/collections/flora_fauna_of_whittlesea/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fcollections%2Fflora_fauna_of_whittlesea%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "russell",
+   "content_text": "19 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143db.jpg",
+   "date_published": "2013-09-11T14:32:20.000+00:00",
+   "date_modified": "2013-09-11T14:32:20.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.163,
+     -37.521
+    ]
+   },
+   "_meta": {
+    "itemCount": 19,
+    "date": "2013-09-11",
+    "name": "flora_fauna_of_whittlesea",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/flora_fauna_of_whittlesea/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fflora_fauna_of_whittlesea%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Fauna Of Willowmavin",
+ "description": "All users for [fauna_of_willowmavin]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Ffauna_of_willowmavin%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/fauna_of_willowmavin/index.json",
+ "items": [
+  {
+   "title": "anni75",
+   "content_text": "80 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/564071fced2a899c63000150.JPG",
+   "date_published": "2015-11-09T10:18:15.000+00:00",
+   "date_modified": "2015-11-09T10:18:15.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.908082,
+     -37.261994
+    ]
+   },
+   "_meta": {
+    "itemCount": 80,
+    "date": "2015-11-09",
+    "name": "fauna_of_willowmavin",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/anni75/collections/fauna_of_willowmavin/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fanni75%2Fcollections%2Ffauna_of_willowmavin%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

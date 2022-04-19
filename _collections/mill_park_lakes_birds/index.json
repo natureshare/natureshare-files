@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Mill Park Lakes Birds",
+ "description": "All users for [mill_park_lakes_birds]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fmill_park_lakes_birds%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/mill_park_lakes_birds/index.json",
+ "items": [
+  {
+   "title": "openid_126",
+   "content_text": "35 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39867e35eb12984013bfe.jpg",
+   "date_published": "2013-03-22T20:01:01.000+00:00",
+   "date_modified": "2013-03-22T20:01:01.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.071,
+     -37.639
+    ]
+   },
+   "_meta": {
+    "itemCount": 35,
+    "date": "2013-03-22",
+    "name": "mill_park_lakes_birds",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_126/collections/mill_park_lakes_birds/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_126%2Fcollections%2Fmill_park_lakes_birds%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

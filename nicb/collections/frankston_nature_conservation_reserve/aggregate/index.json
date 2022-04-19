@@ -1,0 +1,52 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Frankston nature conservation reserve",
+ "description": "",
+ "author": {
+  "name": "nicb",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fnicb%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fnicb%2Fcollections%2Ffrankston_nature_conservation_reserve%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/nicb/collections/frankston_nature_conservation_reserve/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/nicb/items/ns/2017/frankston_nature_conservation_reserve_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fnicb%2Fitems%2Fns%2F2017%2Ffrankston_nature_conservation_reserve_species_list.yaml",
+   "title": "10 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2017-05-09T13:36:35.000+00:00",
+   "date_modified": "2017-05-31T13:33:20.000+00:00",
+   "tags": [
+    "id~Allocasuarina littoralis",
+    "id~Drosera spp.",
+    "id~Eucalyptus ovata",
+    "id~Eucalyptus viminalis",
+    "id~Goodenia ovata",
+    "id~Leptospermum continentale",
+    "id~Pinus radiata",
+    "id~Pittosporum undulatum",
+    "id~Rubus fruticosus spp. agg.",
+    "id~Themeda triandra",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2017-05-31"
+   },
+   "author": {
+    "name": "nicb",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fnicb%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

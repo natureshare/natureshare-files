@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.373,
+     -36.783
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/andrewbrown/collections/junortoun_flora/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandrewbrown%2Fcollections%2Fjunortoun_flora%2Faggregate%2Findex.json",
+    "date": "2018-04-14",
+    "title": "andrewbrown",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ad1f779ed2a897fc8000074.JPG"
+   }
+  }
+ ]
+}

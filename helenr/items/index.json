@@ -1,0 +1,42 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "helenr",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fhelenr%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fhelenr%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/helenr/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/helenr/items/ns/2018/5bbf41bbed2a89c10e0033c7.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fhelenr%2Fitems%2Fns%2F2018%2F5bbf41bbed2a89c10e0033c7.yaml",
+   "title": "Neosparassus spp.",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbf41bfed2a89402b0000f9.jpeg",
+   "date_published": "2018-10-11T12:27:39.000+00:00",
+   "date_modified": "2018-10-12T00:55:22.000+00:00",
+   "tags": [
+    "id~Neosparassus spp.",
+    "tag~juvenile"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.576294,
+     -37.490094
+    ]
+   },
+   "_meta": {
+    "date": "2018-10-11",
+    "imageCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

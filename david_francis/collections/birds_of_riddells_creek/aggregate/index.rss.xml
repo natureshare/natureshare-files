@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/david_francis/collections/birds_of_riddells_creek/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Birds of riddells creek</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fbirds_of_riddells_creek%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 david_francis</copyright>
+    <pubDate>Mon, 21 Jun 2010 19:31:23 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Falco peregrinus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2010%2F53b3984ee35eb1298400e0f1.yaml</link>
+      <dc:creator>david_francis</dc:creator>
+      <description>-</description>
+      <category>id~Falco peregrinus</category>
+      <guid isPermaLink="false">https://files.natureshare.org/david_francis/items/ns/2010/53b3984ee35eb1298400e0f1.yaml</guid>
+      <pubDate>Sun, 20 Jun 2010 20:55:09 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

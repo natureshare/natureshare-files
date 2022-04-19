@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.126,
+     -37.991
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/stunningphotography/collections/birds_of_braeside_park_victoria/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fstunningphotography%2Fcollections%2Fbirds_of_braeside_park_victoria%2Faggregate%2Findex.json",
+    "date": "2016-09-09",
+    "title": "stunningphotography",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57d26d2fed2a89b71800002d.jpg"
+   }
+  }
+ ]
+}

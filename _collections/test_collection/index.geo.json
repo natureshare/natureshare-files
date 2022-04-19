@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.685303,
+     -37.455965
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/test_collection/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Ftest_collection%2Faggregate%2Findex.json",
+    "date": "2015-04-13",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/552b5b65ed2a8961ed00000f.jpg"
+   }
+  }
+ ]
+}

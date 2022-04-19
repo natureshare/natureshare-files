@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.576563,
+     -37.38655
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/cclarke/items/ns/2012/53b39853e35eb1298400f410.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2012%2F53b39853e35eb1298400f410.yaml",
+    "date": "2012-03-11",
+    "title": "Petroica phoenicea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012af1.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.576823,
+     -37.38862
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/cclarke/items/ns/2011/53b39852e35eb1298400ef78.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400ef78.yaml",
+    "date": "2011-11-12",
+    "title": "Petroica phoenicea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb1298401249b.jpg"
+   }
+  }
+ ]
+}

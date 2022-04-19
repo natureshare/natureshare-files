@@ -1,0 +1,70 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Mallacoota, Shady Gully, Casuarina & Heathland Walk - Plants",
+ "description": "",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmallacoota_shady_gully_casuarina_heathland_walk_plants%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/mallacoota_shady_gully_casuarina_heathland_walk_plants/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2013/53b39858e35eb1298401042c.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39858e35eb1298401042c.yaml",
+   "title": "Wurmbea uniflora",
+   "content_text": "Plant usually has a single flower (rarely two flowers as in 2nd pic) - note the white bumps on each petal = nectaries. In Shady Gully Reserve - location to within 100m.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840142e0.jpg",
+   "date_published": "2013-09-01T11:59:14.000+00:00",
+   "date_modified": "2014-07-03T00:51:13.000+00:00",
+   "tags": [
+    "id~Wurmbea uniflora",
+    "tag~flower"
+   ],
+   "_geo": {
+    "coordinates": [
+     149.750605,
+     -37.556707
+    ]
+   },
+   "_meta": {
+    "date": "2011-09-26",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2015/mallacoota_shady_gully_casuarina_heathland_walk_plants_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Fmallacoota_shady_gully_casuarina_heathland_walk_plants_species_list.yaml",
+   "title": "Wurmbea uniflora",
+   "content_text": "Species list for collection.",
+   "date_published": "2011-06-08T10:31:05.000+00:00",
+   "date_modified": "2015-04-07T08:47:32.000+00:00",
+   "tags": [
+    "id~Wurmbea uniflora",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

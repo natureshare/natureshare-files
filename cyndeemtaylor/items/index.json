@@ -1,0 +1,38 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "cyndeemtaylor",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcyndeemtaylor%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcyndeemtaylor%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/cyndeemtaylor/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/cyndeemtaylor/items/ns/2016/56f2fd9aed2a89edf000019f.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcyndeemtaylor%2Fitems%2Fns%2F2016%2F56f2fd9aed2a89edf000019f.yaml",
+   "title": "Amegilla spp.",
+   "content_text": "Bee like with a hard back like a beetle, face of a fly or grasshopper, and hovers like a hummingbird ",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56f2fdd8ed2a890be7000148.png",
+   "date_published": "2016-03-23T20:58:31.000+00:00",
+   "date_modified": "2016-03-24T03:25:02.000+00:00",
+   "tags": [
+    "id~Amegilla spp."
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2016-03-24",
+    "imageCount": 2
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

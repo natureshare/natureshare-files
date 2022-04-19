@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.344925,
+     -37.939901
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/leuba/items/ns/2015/55c2cca3ed2a89db81000a9f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fitems%2Fns%2F2015%2F55c2cca3ed2a89db81000a9f.yaml",
+    "date": "2015-08-03",
+    "title": "Pterostylis grandiflora",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55c2cca1ed2a89db81000a99.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.344925,
+     -37.939901
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/leuba/items/ns/2015/550aba87ed2a8974d300078f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fitems%2Fns%2F2015%2F550aba87ed2a8974d300078f.yaml",
+    "date": "2015-01-02",
+    "title": "Poranthera microphylla s.s.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/550aba86ed2a8974d300078c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.3478,
+     -37.946076
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/leuba/items/ns/2015/54fa47fced2a89097e00063d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fitems%2Fns%2F2015%2F54fa47fced2a89097e00063d.yaml",
+    "date": "2014-10-30",
+    "title": "Thelymitra ixioides s.l.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54fa47faed2a89097e000639.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.340934,
+     -37.941744
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/leuba/items/ns/2015/54f9638bed2a89097e0004f4.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fitems%2Fns%2F2015%2F54f9638bed2a89097e0004f4.yaml",
+    "date": "2014-10-30",
+    "title": "Microtis arenaria",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f9638aed2a89097e0004f0.jpg"
+   }
+  }
+ ]
+}

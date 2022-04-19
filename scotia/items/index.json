@@ -1,0 +1,43 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "scotia",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fscotia%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fscotia%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/scotia/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/scotia/items/ns/2016/57543f71ed2a89e668000ffe.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fscotia%2Fitems%2Fns%2F2016%2F57543f71ed2a89e668000ffe.yaml",
+   "title": "Scutigera coleoptrata",
+   "content_text": "I believe this is a specimen of Scutigera coleoptrata.  It is walking across a small hand shovel approx. 14cm wide.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57543f84ed2a890be7000219.jpg",
+   "date_published": "2016-06-05T15:10:10.000+00:00",
+   "date_modified": "2016-06-05T15:11:20.000+00:00",
+   "tags": [
+    "id~Scutigera coleoptrata",
+    "tag~adult",
+    "tag~insect"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.940828,
+     -35.969041
+    ]
+   },
+   "_meta": {
+    "date": "2013-06-05",
+    "imageCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

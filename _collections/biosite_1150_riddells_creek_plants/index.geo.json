@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.718,
+     -37.468
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/biosite_1150_riddells_creek_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fbiosite_1150_riddells_creek_plants%2Faggregate%2Findex.json",
+    "date": "2013-05-10",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39867e35eb12984013d94.jpg"
+   }
+  }
+ ]
+}

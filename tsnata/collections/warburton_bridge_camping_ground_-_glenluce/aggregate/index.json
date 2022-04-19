@@ -1,0 +1,100 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Warburton Bridge Camping Ground - Glenluce",
+ "description": "A small camping ground next to Loddon River, off Drummond-Vaughan Forest Rd, Glenluce",
+ "author": {
+  "name": "tsnata",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fwarburton_bridge_camping_ground_-_glenluce%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/tsnata/collections/warburton_bridge_camping_ground_-_glenluce/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/tsnata/items/ns/2015/55ecc8dbed2a89b06c00030c.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2015%2F55ecc8dbed2a89b06c00030c.yaml",
+   "title": "Malurus cyaneus",
+   "content_text": "Blue wren in Warburton Bridge Camping Ground.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55ecc8fbed2a890d950000e6.jpg",
+   "date_published": "2015-09-06T23:14:35.000+00:00",
+   "date_modified": "2015-09-06T23:17:05.000+00:00",
+   "tags": [
+    "id~Malurus cyaneus",
+    "tag~male-adult"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.238859,
+     -37.170357
+    ]
+   },
+   "_meta": {
+    "date": "2015-09-06",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "tsnata",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/tsnata/items/ns/2015/warburton_bridge_camping_ground_-_glenluce_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2015%2Fwarburton_bridge_camping_ground_-_glenluce_species_list.yaml",
+   "title": "Eopsaltria australis, Malurus cyaneus",
+   "content_text": "Species list for collection.",
+   "date_published": "2015-09-06T22:54:35.000+00:00",
+   "date_modified": "2015-10-22T10:26:51.000+00:00",
+   "tags": [
+    "id~Eopsaltria australis",
+    "id~Malurus cyaneus",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.237816,
+     -37.170214
+    ]
+   },
+   "_meta": {
+    "date": "2015-10-22"
+   },
+   "author": {
+    "name": "tsnata",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/tsnata/items/ns/2015/55ecc0f8ed2a89b06c000306.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2015%2F55ecc0f8ed2a89b06c000306.yaml",
+   "title": "Eopsaltria australis",
+   "content_text": "Eastern Yellow Robin in Warburton Bridge Camping Ground.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55ecc10fed2a890d950000e5.jpg",
+   "date_published": "2015-09-06T22:40:56.000+00:00",
+   "date_modified": "2015-09-06T22:44:45.000+00:00",
+   "tags": [
+    "id~Eopsaltria australis"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.238451,
+     -37.170118
+    ]
+   },
+   "_meta": {
+    "date": "2015-09-06",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "tsnata",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": "<p>A small camping ground next to Loddon River, off Drummond-Vaughan Forest Rd, Glenluce</p>\n"
+ }
+}

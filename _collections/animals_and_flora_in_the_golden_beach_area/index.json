@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Animals And Flora In The Golden Beach Area",
+ "description": "All users for [animals_and_flora_in_the_golden_beach_area]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fanimals_and_flora_in_the_golden_beach_area%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/animals_and_flora_in_the_golden_beach_area/index.json",
+ "items": [
+  {
+   "title": "openid_73",
+   "content_text": "31 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840122a6.jpg",
+   "date_published": "2011-10-10T20:39:00.000+00:00",
+   "date_modified": "2011-10-10T20:39:00.000+00:00",
+   "_geo": {
+    "coordinates": [
+     147.411976,
+     -38.222943
+    ]
+   },
+   "_meta": {
+    "itemCount": 31,
+    "date": "2011-10-10",
+    "name": "animals_and_flora_in_the_golden_beach_area",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_73/collections/animals_and_flora_in_the_golden_beach_area/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_73%2Fcollections%2Fanimals_and_flora_in_the_golden_beach_area%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

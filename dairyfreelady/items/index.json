@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "dairyfreelady",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdairyfreelady%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdairyfreelady%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/dairyfreelady/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/dairyfreelady/items/ns/2017/58e9f025ed2a89486500168e.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdairyfreelady%2Fitems%2Fns%2F2017%2F58e9f025ed2a89486500168e.yaml",
+   "title": "Apina callisto",
+   "content_text": "Found sleeping on a poster on the wall in the visitor centre at Lake St Clair. Later found on the floor of the main walkway through the centre  & when moved to safety exhibited lovely defensive behaviour: wings flexed right back; body with wasp-like colouring revealed, arched body as though about to sting.",
+   "date_published": "2017-04-09T08:29:03.000+00:00",
+   "date_modified": "2017-04-09T08:29:03.000+00:00",
+   "tags": [
+    "id~Apina callisto",
+    "tag~adult",
+    "tag~moth"
+   ],
+   "_geo": {
+    "coordinates": [
+     146.174191,
+     -42.11583
+    ]
+   },
+   "_meta": {
+    "date": "2017-04-07"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

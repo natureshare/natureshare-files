@@ -1,0 +1,204 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Birds Of Ballarat Winter Swamp",
+ "description": "",
+ "author": {
+  "name": "giorgiod",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fcollections%2Fbirds_of_ballarat_-_winter_swamp%2Findex.json",
+ "feed_url": "https://files.natureshare.org/giorgiod/collections/birds_of_ballarat_-_winter_swamp/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/giorgiod/items/ns/2016/57eeac8aed2a89450f00805d.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Fns%2F2016%2F57eeac8aed2a89450f00805d.yaml",
+   "title": "Todiramphus sanctus",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57eeaca4ed2a89d73e0000b8.JPG",
+   "date_published": "2016-09-30T18:22:13.000+00:00",
+   "date_modified": "2016-10-01T01:09:02.000+00:00",
+   "tags": [
+    "id~Todiramphus sanctus"
+   ],
+   "_geo": {
+    "coordinates": [
+     143.783378,
+     -37.538308
+    ]
+   },
+   "_meta": {
+    "date": "2016-09-30",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "giorgiod",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/giorgiod/items/ns/2016/57eea22ded2a89450f00800b.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Fns%2F2016%2F57eea22ded2a89450f00800b.yaml",
+   "title": "25 ids",
+   "content_text": "Observations by Finley Japp on http://ebird.org/ebird/australia/hotspot/L2552685",
+   "date_published": "2016-09-30T17:34:37.000+00:00",
+   "date_modified": "2016-09-30T17:34:37.000+00:00",
+   "tags": [
+    "id~Acanthiza chrysorrhoa",
+    "id~Acanthiza pusilla",
+    "id~Anthochaera carunculata",
+    "id~Carduelis carduelis",
+    "id~Cisticola exilis",
+    "id~Colluricincla harmonica",
+    "id~Cygnus atratus",
+    "id~Egretta novaehollandiae",
+    "id~Falco cenchroides",
+    "id~Grallina cyanoleuca",
+    "id~Gymnorhina tibicen",
+    "id~Hirundo neoxena",
+    "id~Lichenostomus penicillatus",
+    "id~Malurus cyaneus",
+    "id~Manorina melanocephala",
+    "id~Megalurus gramineus",
+    "id~Neochmia temporalis",
+    "id~Ocyphaps lophotes",
+    "id~Phylidonyris novaehollandiae",
+    "id~Platycercus elegans elegans",
+    "id~Platycercus eximius",
+    "id~Strepera graculina",
+    "id~Sturnus vulgaris",
+    "id~Turdus merula",
+    "id~Zosterops lateralis"
+   ],
+   "_geo": {
+    "coordinates": [
+     143.788085,
+     -37.536394
+    ]
+   },
+   "_meta": {
+    "date": "2016-07-09"
+   },
+   "author": {
+    "name": "giorgiod",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/giorgiod/items/ns/2016/birds_of_ballarat_-_winter_swamp_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Fns%2F2016%2Fbirds_of_ballarat_-_winter_swamp_species_list.yaml",
+   "title": "87 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2016-09-30T17:28:41.000+00:00",
+   "date_modified": "2016-09-30T18:24:16.000+00:00",
+   "tags": [
+    "id~Acanthiza chrysorrhoa",
+    "id~Acanthiza pusilla",
+    "id~Accipiter cirrhocephalus",
+    "id~Accipiter fasciatus",
+    "id~Anas castanea",
+    "id~Anas gracilis",
+    "id~Anas rhynchotis",
+    "id~Anas superciliosa",
+    "id~Anthochaera carunculata",
+    "id~Anthus novaeseelandiae",
+    "id~Aquila audax",
+    "id~Ardea modesta",
+    "id~Ardea pacifica",
+    "id~Aythya australis",
+    "id~Biziura lobata",
+    "id~Cacatua sanguinea",
+    "id~Cacatua tenuirostris",
+    "id~Calidris acuminata",
+    "id~Carduelis carduelis",
+    "id~Chenonetta jubata",
+    "id~Chlidonias hybrida",
+    "id~Chroicocephalus novaehollandiae",
+    "id~Circus approximans",
+    "id~Cisticola exilis",
+    "id~Colluricincla harmonica",
+    "id~Corvus mellori",
+    "id~Cracticus tibicen",
+    "id~Cygnus atratus",
+    "id~Egretta novaehollandiae",
+    "id~Elseyornis melanops",
+    "id~Eolophus roseicapillus",
+    "id~Eopsaltria australis",
+    "id~Epthianura albifrons",
+    "id~Erythrogonys cinctus",
+    "id~Falco berigora",
+    "id~Falco cenchroides",
+    "id~Fulica atra",
+    "id~Gallinago hardwickii",
+    "id~Gallinula tenebrosa",
+    "id~Gallirallus philippensis",
+    "id~Glossopsitta concinna",
+    "id~Grallina cyanoleuca",
+    "id~Grus rubicunda",
+    "id~Haliastur sphenurus",
+    "id~Himantopus himantopus s.l.",
+    "id~Hirundo neoxena",
+    "id~Ixobrychus dubius",
+    "id~Lewinia pectoralis",
+    "id~Malurus cyaneus",
+    "id~Manorina melanocephala",
+    "id~Megalurus gramineus",
+    "id~Microcarbo melanoleucos",
+    "id~Neochmia temporalis",
+    "id~Nycticorax caledonicus",
+    "id~Ocyphaps lophotes",
+    "id~Oxyura australis",
+    "id~Pachycephala rufiventris",
+    "id~Pardalotus striatus",
+    "id~Passer domesticus",
+    "id~Petrochelidon ariel",
+    "id~Petrochelidon nigricans",
+    "id~Phalacrocorax sulcirostris",
+    "id~Phylidonyris novaehollandiae",
+    "id~Platalea flavipes",
+    "id~Platycercus elegans elegans",
+    "id~Platycercus eximius",
+    "id~Plegadis falcinellus",
+    "id~Poliocephalus poliocephalus",
+    "id~Porzana fluminea",
+    "id~Porzana pusilla",
+    "id~Porzana tabuensis",
+    "id~Ptilotula penicillata",
+    "id~Rhipidura albiscapa",
+    "id~Rhipidura leucophrys",
+    "id~Stictonetta naevosa",
+    "id~Strepera versicolor",
+    "id~Sturnus vulgaris",
+    "id~Tachybaptus novaehollandiae",
+    "id~Tadorna tadornoides",
+    "id~Threskiornis molucca",
+    "id~Threskiornis spinicollis",
+    "id~Todiramphus sanctus",
+    "id~Tribonyx ventralis",
+    "id~Trichoglossus haematodus",
+    "id~Turdus merula",
+    "id~Vanellus miles",
+    "id~Zosterops lateralis",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     143.78757,
+     -37.536938
+    ]
+   },
+   "_meta": {
+    "date": "2016-09-30"
+   },
+   "author": {
+    "name": "giorgiod",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

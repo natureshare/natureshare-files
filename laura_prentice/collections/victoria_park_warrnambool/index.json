@@ -1,0 +1,45 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Victoria Park Warrnambool",
+ "description": "",
+ "author": {
+  "name": "laura_prentice",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flaura_prentice%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flaura_prentice%2Fcollections%2Fvictoria_park_warrnambool%2Findex.json",
+ "feed_url": "https://files.natureshare.org/laura_prentice/collections/victoria_park_warrnambool/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/laura_prentice/items/ns/2016/57b63cd3ed2a89450f000624.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flaura_prentice%2Fitems%2Fns%2F2016%2F57b63cd3ed2a89450f000624.yaml",
+   "title": "Phascolarctos cinereus",
+   "content_text": "We found this Koala during our community bird survey!",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57b63d01ed2a892daf00000c.JPG",
+   "date_published": "2016-09-01T23:27:56.000+00:00",
+   "date_modified": "2016-09-02T13:08:42.000+00:00",
+   "tags": [
+    "id~Phascolarctos cinereus"
+   ],
+   "_geo": {
+    "coordinates": [
+     142.465853,
+     -38.373528
+    ]
+   },
+   "_meta": {
+    "date": "2016-07-23",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "laura_prentice",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flaura_prentice%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

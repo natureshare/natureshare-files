@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.086875,
+     -37.50753
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/collections/eucalypts_of_whittlesea_and_surrounds/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fcollections%2Feucalypts_of_whittlesea_and_surrounds%2Faggregate%2Findex.json",
+    "date": "2017-12-21",
+    "title": "markwilliams",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a3c3488ed2a893fb7000057.JPG"
+   }
+  }
+ ]
+}

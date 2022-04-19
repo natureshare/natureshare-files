@@ -1,0 +1,21 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654609,
+     -37.43105
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2011/53b3984fe35eb1298400e403.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e403.yaml",
+    "date": "2011-02-12",
+    "title": "Papilio aegeus aegeus"
+   }
+  }
+ ]
+}

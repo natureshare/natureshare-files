@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/gtgoods/collections/wimmera_plains_flora_fauna/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Wimmera Plains Flora Fauna</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fcollections%2Fwimmera_plains_flora_fauna%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 gtgoods</copyright>
+    <pubDate>Wed, 15 Apr 2015 11:28:53 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Enchylaena tomentosa var. tomentosa (prostrate form)</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fitems%2Fns%2F2015%2F552e4ae5ed2a893e78000031.yaml</link>
+      <dc:creator>gtgoods</dc:creator>
+      <description>-</description>
+      <category>id~Enchylaena tomentosa var. tomentosa (prostrate form)</category>
+      <category>tag~fruit</category>
+      <category>tag~leaves</category>
+      <guid isPermaLink="false">https://files.natureshare.org/gtgoods/items/ns/2015/552e4ae5ed2a893e78000031.yaml</guid>
+      <pubDate>Wed, 15 Apr 2015 11:26:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Synemon selene</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fitems%2Fns%2F2015%2F54e982d7ed2a8987b70005af.yaml</link>
+      <dc:creator>gtgoods</dc:creator>
+      <description>This dark morph of the Pale Sun-moth is extremely rare therefore the position is only approximate.</description>
+      <category>id~Synemon selene</category>
+      <category>tag~sun-moth</category>
+      <guid isPermaLink="false">https://files.natureshare.org/gtgoods/items/ns/2015/54e982d7ed2a8987b70005af.yaml</guid>
+      <pubDate>Sun, 22 Feb 2015 07:18:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Malurus lamberti</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fitems%2Fns%2F2015%2F54e98110ed2a8987b70005ab.yaml</link>
+      <dc:creator>gtgoods</dc:creator>
+      <description>-</description>
+      <category>id~Malurus lamberti</category>
+      <category>tag~bird</category>
+      <guid isPermaLink="false">https://files.natureshare.org/gtgoods/items/ns/2015/54e98110ed2a8987b70005ab.yaml</guid>
+      <pubDate>Sun, 22 Feb 2015 07:11:12 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

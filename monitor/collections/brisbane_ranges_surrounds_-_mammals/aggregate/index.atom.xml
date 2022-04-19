@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Brisbane Ranges surrounds - Mammals</title>
+  <id>https://files.natureshare.org/monitor/collections/brisbane_ranges_surrounds_-_mammals/aggregate/index.xml</id>
+  <updated>2015-05-09T10:35:29.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/monitor/collections/brisbane_ranges_surrounds_-_mammals/aggregate/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/monitor/collections/brisbane_ranges_surrounds_-_mammals/aggregate/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmonitor%2Fcollections%2Fbrisbane_ranges_surrounds_-_mammals%2Faggregate%2Findex.json"/>
+  <author>
+    <name>monitor</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmonitor%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 monitor</rights>
+  <subtitle>Mammal sightings in the area around/near the Brisbane Ranges</subtitle>
+  <entry>
+    <id>https://files.natureshare.org/monitor/items/ns/2015/554de1b7ed2a89c6e500004a.yaml</id>
+    <title>Nyctophilus geoffroyi</title>
+    <updated>2015-05-09T10:35:29.000+00:00</updated>
+    <published>2015-05-09T10:30:15.000+00:00</published>
+    <author>
+      <name>monitor</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmonitor%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Flying around in our garage before coming to rest on a roof beam.</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmonitor%2Fitems%2Fns%2F2015%2F554de1b7ed2a89c6e500004a.yaml"/>
+    <category term="id~Nyctophilus geoffroyi"/>
+    <category term="tag~adult"/>
+    <category term="tag~bat"/>
+  </entry>
+</feed>

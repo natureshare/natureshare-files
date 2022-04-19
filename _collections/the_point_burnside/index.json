@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "The Point Burnside",
+ "description": "All users for [the_point_burnside]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fthe_point_burnside%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/the_point_burnside/index.json",
+ "items": [
+  {
+   "title": "giorgiod",
+   "content_text": "15 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545a9566e35eb12c8f000291.jpg",
+   "date_published": "2014-11-05T21:23:50.000+00:00",
+   "date_modified": "2014-11-05T21:23:50.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.759838,
+     -37.739953
+    ]
+   },
+   "_meta": {
+    "itemCount": 15,
+    "date": "2014-11-05",
+    "name": "the_point_burnside",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/giorgiod/collections/the_point_burnside/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fcollections%2Fthe_point_burnside%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "russell",
+   "content_text": "4 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54306c53e35eb147cd00005f.jpg",
+   "date_published": "2014-10-04T21:53:24.000+00:00",
+   "date_modified": "2014-10-04T21:53:24.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.759,
+     -37.743
+    ]
+   },
+   "_meta": {
+    "itemCount": 4,
+    "date": "2014-10-04",
+    "name": "the_point_burnside",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/the_point_burnside/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fthe_point_burnside%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

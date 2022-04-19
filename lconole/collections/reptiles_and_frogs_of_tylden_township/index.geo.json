@@ -1,0 +1,69 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.417275,
+     -37.325047
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lconole/items/ns/2017/587ca349ed2a89f4640029cc.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2017%2F587ca349ed2a89f4640029cc.yaml",
+    "date": "2017-01-16",
+    "title": "Litoria peronii"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.417144,
+     -37.322304
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lconole/items/ns/2015/5590cb20ed2a8918dd001577.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2F5590cb20ed2a8918dd001577.yaml",
+    "date": "2015-06-28",
+    "title": "3 ids"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.413928,
+     -37.326823
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lconole/items/ns/2015/55090abfed2a8974d30006e2.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2F55090abfed2a8974d30006e2.yaml",
+    "date": "2015-03-18",
+    "title": "3 ids"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.407285,
+     -37.326193
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lconole/items/ns/2015/reptiles_and_frogs_of_tylden_township_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2Freptiles_and_frogs_of_tylden_township_species_list.yaml",
+    "date": "2015-10-05",
+    "title": "13 ids"
+   }
+  }
+ ]
+}

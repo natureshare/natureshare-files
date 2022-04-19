@@ -1,0 +1,38 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.895747,
+     -37.778826
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/maribyrnongparkranger/items/ns/2015/54ffe2c6ed2a8974d3000195.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmaribyrnongparkranger%2Fitems%2Fns%2F2015%2F54ffe2c6ed2a8974d3000195.yaml",
+    "date": "2014-12-04",
+    "title": "Malurus cyaneus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ffe2c6ed2a8974d3000192.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.872487,
+     -37.793342
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/maribyrnongparkranger/items/ns/2019/flora_fauna_of_the_city_of_maribyrnong_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmaribyrnongparkranger%2Fitems%2Fns%2F2019%2Fflora_fauna_of_the_city_of_maribyrnong_species_list.yaml",
+    "date": "2019-09-02",
+    "title": "147 ids"
+   }
+  }
+ ]
+}

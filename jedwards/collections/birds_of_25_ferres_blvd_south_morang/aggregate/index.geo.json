@@ -1,0 +1,54 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.067298,
+     -37.645845
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jedwards/items/ns/2016/572063e2ed2a89e66800016b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fitems%2Fns%2F2016%2F572063e2ed2a89e66800016b.yaml",
+    "date": "2016-04-27",
+    "title": "Ardea modesta"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.068176,
+     -37.645078
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jedwards/items/ns/2016/572034b0ed2a89e66800015a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fitems%2Fns%2F2016%2F572034b0ed2a89e66800015a.yaml",
+    "date": "2016-04-27",
+    "title": "Pardalotus punctatus"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.067205,
+     -37.645508
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jedwards/items/ns/2015/55b83e66ed2a89db81000348.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fitems%2Fns%2F2015%2F55b83e66ed2a89db81000348.yaml",
+    "date": "2015-07-15",
+    "title": "Acanthorhynchus tenuirostris",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55b83e66ed2a89db81000346.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,167 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Flora Of The Werribee River Cobbledicks To The Coast",
+ "description": "",
+ "author": {
+  "name": "openid_7",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fcollections%2Fflora_of_the_werribee_river_cobbledicks_to_the_coast%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_7/collections/flora_of_the_werribee_river_cobbledicks_to_the_coast/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_7/items/ns/2011/53b39851e35eb1298400ebe9.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ebe9.yaml",
+   "title": "Acacia provincialis",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb1298401207b.jpg",
+   "date_published": "2011-09-13T21:16:24.000+00:00",
+   "date_modified": "2011-09-13T21:21:06.000+00:00",
+   "tags": [
+    "id~Acacia provincialis",
+    "tag~flower",
+    "tag~leaf"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.65076,
+     -37.894854
+    ]
+   },
+   "_meta": {
+    "date": "2007-10-18",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_7",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_7/items/ns/2011/53b39851e35eb1298400ebe8.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ebe8.yaml",
+   "title": "Acacia rostriformis",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb1298401207a.jpg",
+   "date_published": "2011-09-13T21:10:48.000+00:00",
+   "date_modified": "2011-09-13T21:12:16.000+00:00",
+   "tags": [
+    "id~Acacia rostriformis",
+    "tag~flower",
+    "tag~leaf"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.641111,
+     -37.88
+    ]
+   },
+   "_meta": {
+    "date": "2008-08-29",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_7",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_7/items/ns/2011/53b39851e35eb1298400ebe7.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ebe7.yaml",
+   "title": "Wilsonia rotundifolia",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984012079.jpg",
+   "date_published": "2011-09-13T21:03:41.000+00:00",
+   "date_modified": "2011-09-13T21:08:52.000+00:00",
+   "tags": [
+    "id~Wilsonia rotundifolia"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.670734,
+     -37.941575
+    ]
+   },
+   "_meta": {
+    "date": "2006-10-17",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_7",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_7/items/ns/2015/flora_of_the_werribee_river_cobbledicks_to_the_coast_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Fns%2F2015%2Fflora_of_the_werribee_river_cobbledicks_to_the_coast_species_list.yaml",
+   "title": "42 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2011-09-13T17:51:04.000+00:00",
+   "date_modified": "2015-04-07T08:47:35.000+00:00",
+   "tags": [
+    "id~Acacia acinacea s.s.",
+    "id~Acacia implexa",
+    "id~Acacia melanoxylon",
+    "id~Acacia paradoxa",
+    "id~Acacia provincialis",
+    "id~Acacia verniciflua (Bacchus Marsh variant)",
+    "id~Austrodanthonia spp.",
+    "id~Austrostipa scabra",
+    "id~Austrostipa spp.",
+    "id~Azolla filiculoides",
+    "id~Bursaria spinosa",
+    "id~Callistemon pallidus",
+    "id~Calystegia sepium subsp. roseata",
+    "id~Clematis microphylla s.l.",
+    "id~Coprosma quadrifida",
+    "id~Dichelachne crinita",
+    "id~Disphyma crassifolium subsp. clavellatum",
+    "id~Eucalyptus baueriana",
+    "id~Eucalyptus camaldulensis",
+    "id~Glycine tabacina s.l.",
+    "id~Lomandra longifolia",
+    "id~Melicytus dentatus s.l.",
+    "id~Microlaena spp.",
+    "id~Myrsine howittiana",
+    "id~Pelargonium rodneyanum",
+    "id~Poa labillardierei",
+    "id~Pomaderris aspera",
+    "id~Pseudognaphalium luteoalbum",
+    "id~Rhagodia parabolica",
+    "id~Rubus parvifolius",
+    "id~Sambucus gaudichaudiana",
+    "id~Sarcocornia quinqueflora subsp. quinqueflora",
+    "id~Sclerolaena muricata",
+    "id~Solanum aviculare",
+    "id~Suaeda australis",
+    "id~Themeda triandra",
+    "id~Triglochin procera s.l.",
+    "id~Typha domingensis",
+    "id~Urtica incisa",
+    "id~Vittadinia cuneata",
+    "id~Wahlenbergia gracilis",
+    "id~Wilsonia rotundifolia",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.653549,
+     -37.911159
+    ]
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "openid_7",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 4,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

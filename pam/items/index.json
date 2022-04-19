@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "pam",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpam%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpam%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/pam/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/pam/items/ns/2015/5653e36ded2a89373f0000f1.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpam%2Fitems%2Fns%2F2015%2F5653e36ded2a89373f0000f1.yaml",
+   "title": "Omyta centrolineata centrolineata",
+   "content_text": "On my fly screen.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5653e37ded2a899c63000208.jpg",
+   "date_published": "2015-11-24T04:14:19.000+00:00",
+   "date_modified": "2015-11-25T09:21:22.000+00:00",
+   "tags": [
+    "id~Omyta centrolineata centrolineata"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.683219,
+     -37.458476
+    ]
+   },
+   "_meta": {
+    "date": "2015-11-24",
+    "imageCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

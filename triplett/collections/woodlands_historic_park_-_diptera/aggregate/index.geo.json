@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.859052,
+     -37.639585
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/triplett/items/ns/2018/5b77acf4ed2a89a7f1005a7e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftriplett%2Fitems%2Fns%2F2018%2F5b77acf4ed2a89a7f1005a7e.yaml",
+    "date": "2017-08-12",
+    "title": "Diptera spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b77acf5ed2a8928070000a0.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.86064,
+     -37.644112
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/triplett/items/ns/2018/5a810444ed2a89def7002090.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftriplett%2Fitems%2Fns%2F2018%2F5a810444ed2a89def7002090.yaml",
+    "date": "2018-02-08",
+    "title": "Lauxaniidae spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a810445ed2a8966a0000048.jpg"
+   }
+  }
+ ]
+}

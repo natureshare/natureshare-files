@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/russell/collections/plants_of_jollys_road_anakie/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Plants of jollys road anakie</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fplants_of_jollys_road_anakie%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 russell</copyright>
+    <pubDate>Wed, 28 Sep 2016 07:25:57 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Clematis decipiens</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2F5478663ee35eb1b5c2000056.yaml</link>
+      <dc:creator>russell</dc:creator>
+      <description>Flammuliform leaf is the key feature for C. decipiens. C. microphylla s.s. is trifoliolate, having 3 sets of usually 3 leaflets with a total of 9-11 leaflets per leaf. ID confirmed by Neville Walsh.</description>
+      <category>id~Clematis decipiens</category>
+      <category>tag~leaf</category>
+      <guid isPermaLink="false">https://files.natureshare.org/russell/items/ns/2014/5478663ee35eb1b5c2000056.yaml</guid>
+      <pubDate>Fri, 28 Nov 2014 12:10:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isolepis spp.</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2F5476ffdbe35eb1f33d000004.yaml</link>
+      <dc:creator>russell</dc:creator>
+      <description>Maybe Isolepis cernua subsp. platycarpus. ID by Neville Walsh.</description>
+      <category>id~Isolepis spp.</category>
+      <guid isPermaLink="false">https://files.natureshare.org/russell/items/ns/2014/5476ffdbe35eb1f33d000004.yaml</guid>
+      <pubDate>Thu, 27 Nov 2014 10:41:31 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

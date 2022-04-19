@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Broadmeadows Valley Park",
+ "description": "All users for [broadmeadows_valley_park]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fbroadmeadows_valley_park%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/broadmeadows_valley_park/index.json",
+ "items": [
+  {
+   "title": "judyallen",
+   "content_text": "5 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb12984013666.jpg",
+   "date_published": "2012-12-08T17:12:04.000+00:00",
+   "date_modified": "2012-12-08T17:12:04.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.911,
+     -37.672
+    ]
+   },
+   "_meta": {
+    "itemCount": 5,
+    "date": "2012-12-08",
+    "name": "broadmeadows_valley_park",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/judyallen/collections/broadmeadows_valley_park/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjudyallen%2Fcollections%2Fbroadmeadows_valley_park%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "russell",
+   "content_text": "2 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb1298401165f.jpg",
+   "date_published": "2010-11-29T17:22:20.000+00:00",
+   "date_modified": "2010-11-29T17:22:20.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.915,
+     -37.668
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2010-11-29",
+    "name": "broadmeadows_valley_park",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/broadmeadows_valley_park/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fbroadmeadows_valley_park%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

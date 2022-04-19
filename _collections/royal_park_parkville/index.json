@@ -1,0 +1,64 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Royal Park Parkville",
+ "description": "All users for [royal_park_parkville]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Froyal_park_parkville%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/royal_park_parkville/index.json",
+ "items": [
+  {
+   "title": "tsnata",
+   "content_text": "96 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000026/2019-06-19/p1100424_ns.jpeg",
+   "date_published": "2019-06-19T03:24:17.000+00:00",
+   "date_modified": "2019-06-19T03:24:17.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.951226,
+     -37.789993
+    ]
+   },
+   "_meta": {
+    "itemCount": 96,
+    "date": "2019-06-19",
+    "name": "royal_park_parkville",
+    "featured": true,
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/tsnata/collections/royal_park_parkville/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Froyal_park_parkville%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "abc123",
+   "content_text": "4 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55783a8fed2a8918dd0008e4.JPG",
+   "date_published": "2015-06-09T22:56:01.000+00:00",
+   "date_modified": "2015-06-09T22:56:01.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.944,
+     -37.783
+    ]
+   },
+   "_meta": {
+    "itemCount": 4,
+    "date": "2015-06-09",
+    "name": "royal_park_parkville",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/abc123/collections/royal_park_parkville/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fcollections%2Froyal_park_parkville%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

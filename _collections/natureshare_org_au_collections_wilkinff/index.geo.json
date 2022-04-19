@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.273933,
+     -37.714771
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/collections/natureshare_org_au_collections_wilkinff/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fcollections%2Fnatureshare_org_au_collections_wilkinff%2Faggregate%2Findex.json",
+    "date": "2016-10-15",
+    "title": "banksiaman",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5801fcc1ed2a89b3fe00011d.JPG"
+   }
+  }
+ ]
+}

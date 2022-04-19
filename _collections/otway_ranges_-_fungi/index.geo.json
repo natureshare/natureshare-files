@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.544669,
+     -38.697284
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/249pbr/collections/otway_ranges_-_fungi/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F249pbr%2Fcollections%2Fotway_ranges_-_fungi%2Faggregate%2Findex.json",
+    "date": "2019-07-01",
+    "title": "249pbr",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5b30dd66ed2a89a99300133d/2019-07-01/hebeloma_victoriense.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.95,
+     -38.49
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/zeke1944/collections/otway_ranges_-_fungi/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fzeke1944%2Fcollections%2Fotway_ranges_-_fungi%2Faggregate%2Findex.json",
+    "date": "2019-07-01",
+    "title": "zeke1944",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5b30dd66ed2a89a99300133d/2019-07-01/hebeloma_victoriense.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.834,
+     -38.565
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lorrainecphelan/collections/otway_ranges_-_fungi/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Florrainecphelan%2Fcollections%2Fotway_ranges_-_fungi%2Faggregate%2Findex.json",
+    "date": "2018-08-29",
+    "title": "lorrainecphelan",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b86526ded2a89402b0000a7.jpg"
+   }
+  }
+ ]
+}

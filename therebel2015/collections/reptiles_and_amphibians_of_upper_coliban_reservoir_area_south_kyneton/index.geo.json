@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.406935,
+     -37.278581
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2019/5d13430dc347d5695600027e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2019%2F5d13430dc347d5695600027e.yaml",
+    "date": "2018-12-22",
+    "title": "Tiliqua nigrolutea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000012/2019-06-26/7df3166b_7f47_416b_bbe1_b6b85e894f9e.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.404865,
+     -37.277898
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2016/56e2ba44ed2a89be36000118.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2016%2F56e2ba44ed2a89be36000118.yaml",
+    "date": "2016-02-16",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56e2ba56ed2a89211c00011c.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.405193,
+     -37.277775
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2012/53b39854e35eb1298400f525.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f525.yaml",
+    "date": "2012-03-17",
+    "title": "Limnodynastes dumerilii",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012c68.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.566689,
+     -37.408619
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2011/53b39851e35eb1298400ea1d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ea1d.yaml",
+    "date": "2011-02-17",
+    "title": "Litoria ewingii",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011e6e.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.261228,
+     -37.85248
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/koolah/collections/brisbane_ranges_moths/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fcollections%2Fbrisbane_ranges_moths%2Faggregate%2Findex.json",
+    "date": "2019-07-18",
+    "title": "koolah",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000024/2019-07-18/p1280544_brisbane_ranges_dec_24_18_moerarchis_inconcisella_ns.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.229,
+     -37.891
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/collections/brisbane_ranges_moths/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fcollections%2Fbrisbane_ranges_moths%2Faggregate%2Findex.json",
+    "date": "2018-03-31",
+    "title": "chrisl",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5abedc0ced2a897fc8000053.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.223,
+     -37.902
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bethanyl/collections/brisbane_ranges_moths/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbethanyl%2Fcollections%2Fbrisbane_ranges_moths%2Faggregate%2Findex.json",
+    "date": "2017-04-11",
+    "title": "bethanyl",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ec8edced2a89e5480000ca.jpeg"
+   }
+  }
+ ]
+}

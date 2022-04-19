@@ -1,0 +1,101 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Dragonflies Of The Macedon Range",
+ "description": "",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fdragonflies_of_the_macedon_range%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/dragonflies_of_the_macedon_range/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2015/dragonflies_of_the_macedon_range_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Fdragonflies_of_the_macedon_range_species_list.yaml",
+   "title": "5 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2013-01-09T19:57:31.000+00:00",
+   "date_modified": "2015-04-07T08:47:43.000+00:00",
+   "tags": [
+    "id~Austroaeschna parvistigma",
+    "id~Austrolestes analis",
+    "id~Eusynthemis guttata",
+    "id~Hemianax papuensis",
+    "id~Orthetrum caledonicum",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.595215,
+     -37.397545
+    ]
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2013/53b39856e35eb1298400fdaf.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400fdaf.yaml",
+   "title": "Orthetrum caledonicum",
+   "content_text": "Female.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb129840138ae.jpg",
+   "date_published": "2013-01-09T19:35:00.000+00:00",
+   "date_modified": "2013-01-09T20:00:24.000+00:00",
+   "tags": [
+    "id~Orthetrum caledonicum",
+    "tag~female"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.595215,
+     -37.397545
+    ]
+   },
+   "_meta": {
+    "date": "2013-01-06",
+    "imageCount": 3
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2013/53b39856e35eb1298400fd8d.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400fd8d.yaml",
+   "title": "Eusynthemis guttata",
+   "content_text": "Probably different individuals photographed but I think all are females. On walk up Mt Towrong.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013862.jpg",
+   "date_published": "2013-01-07T21:37:05.000+00:00",
+   "date_modified": "2013-01-07T21:58:11.000+00:00",
+   "tags": [
+    "id~Eusynthemis guttata"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.602005,
+     -37.396576
+    ]
+   },
+   "_meta": {
+    "date": "2013-01-06",
+    "imageCount": 3
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

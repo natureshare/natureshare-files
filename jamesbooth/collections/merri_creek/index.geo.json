@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.972453,
+     -37.64601
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/items/ns/2011/53b39851e35eb1298400eaf4.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400eaf4.yaml",
+    "date": "2009-11-10",
+    "title": "Austrelaps superbus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011f51.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.984791,
+     -37.769477
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/items/ns/2011/53b39851e35eb1298400ea30.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ea30.yaml",
+    "date": "2007-05-16",
+    "title": "Falcunculus frontatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011e83.jpg"
+   }
+  }
+ ]
+}

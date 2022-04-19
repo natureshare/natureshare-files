@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Woodlands Historic Park Blattodea",
+ "description": "All users for [woodlands_historic_park_-_blattodea]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fwoodlands_historic_park_-_blattodea%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/woodlands_historic_park_-_blattodea/index.json",
+ "items": [
+  {
+   "title": "andrew_allen",
+   "content_text": "8 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_583ba1bbed2a897480005b25/2018-12-02/1543739966/cockroach-2018-12-02-woodlands.jpg",
+   "date_published": "2018-12-02T08:39:47.000+00:00",
+   "date_modified": "2018-12-02T08:39:47.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.862584,
+     -37.649068
+    ]
+   },
+   "_meta": {
+    "itemCount": 8,
+    "date": "2018-12-02",
+    "name": "woodlands_historic_park_-_blattodea",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/andrew_allen/collections/woodlands_historic_park_-_blattodea/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandrew_allen%2Fcollections%2Fwoodlands_historic_park_-_blattodea%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "triplett",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbc1228ed2a89280700010c.jpg",
+   "date_published": "2018-10-09T02:31:52.000+00:00",
+   "date_modified": "2018-10-09T02:31:52.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.864,
+     -37.645
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2018-10-09",
+    "name": "woodlands_historic_park_-_blattodea",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/triplett/collections/woodlands_historic_park_-_blattodea/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftriplett%2Fcollections%2Fwoodlands_historic_park_-_blattodea%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

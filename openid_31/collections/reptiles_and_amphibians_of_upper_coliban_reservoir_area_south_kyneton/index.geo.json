@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.595388,
+     -37.391895
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e7d8.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e7d8.yaml",
+    "date": "2010-04-30",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b85.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.406212,
+     -37.278735
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e63d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e63d.yaml",
+    "date": "2009-07-05",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011957.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.404828,
+     -37.278198
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e63c.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e63c.yaml",
+    "date": "2011-01-27",
+    "title": "Austrelaps superbus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011956.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.405354,
+     -37.27769
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e63b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e63b.yaml",
+    "date": "2011-01-25",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011955.jpg"
+   }
+  }
+ ]
+}

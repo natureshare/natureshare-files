@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Mammals Of Tylden Township",
+ "description": "All users for [mammals_of_tylden_township]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fmammals_of_tylden_township%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/mammals_of_tylden_township/index.json",
+ "items": [
+  {
+   "title": "lconole",
+   "content_text": "4 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f64522ed2a89ef11000019.JPG",
+   "date_published": "2015-06-29T04:40:40.000+00:00",
+   "date_modified": "2015-06-29T04:40:40.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.407285,
+     -37.326193
+    ]
+   },
+   "_meta": {
+    "itemCount": 4,
+    "date": "2015-06-29",
+    "name": "mammals_of_tylden_township",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/lconole/collections/mammals_of_tylden_township/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fcollections%2Fmammals_of_tylden_township%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

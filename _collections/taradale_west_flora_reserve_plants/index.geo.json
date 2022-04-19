@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.36945,
+     -37.135448
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/taradale_west_flora_reserve_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Ftaradale_west_flora_reserve_plants%2Faggregate%2Findex.json",
+    "date": "2015-09-07",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55ed0188ed2a890d950000ec.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.368,
+     -37.137
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/collections/taradale_west_flora_reserve_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Ftaradale_west_flora_reserve_plants%2Faggregate%2Findex.json",
+    "date": "2014-06-27",
+    "title": "david_francis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986de35eb1298401555d.jpg"
+   }
+  }
+ ]
+}

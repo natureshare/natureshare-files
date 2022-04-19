@@ -1,0 +1,87 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.791278,
+     -36.791622
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_52/items/ns/2011/53b39851e35eb1298400ebe1.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ebe1.yaml",
+    "date": "2011-08-06",
+    "title": "Leucosarcia melanoleuca, Vombatus ursinus"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.820932,
+     -36.819077
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_52/items/ns/2011/53b39851e35eb1298400e9a6.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e9a6.yaml",
+    "date": "2010-11-09",
+    "title": "Leptospermum continentale, Nesoptilotis leucotis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984012075.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.819988,
+     -36.819317
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_52/items/ns/2011/53b39851e35eb1298400e9a5.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e9a5.yaml",
+    "date": "2010-11-09",
+    "title": "Tiliqua nigrolutea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984012074.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.652618,
+     -36.881268
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_52/items/ns/2011/53b39851e35eb1298400e9a4.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e9a4.yaml",
+    "date": "2010-11-06",
+    "title": "Pseudonaja textilis"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.756989,
+     -36.853252
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_52/items/ns/2015/strathbogie_ranges_nature_atlas_project_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fitems%2Fns%2F2015%2Fstrathbogie_ranges_nature_atlas_project_species_list.yaml",
+    "date": "2015-04-07",
+    "title": "Pseudonaja textilis"
+   }
+  }
+ ]
+}

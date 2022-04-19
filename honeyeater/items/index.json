@@ -1,0 +1,104 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "honeyeater",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fhoneyeater%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fhoneyeater%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/honeyeater/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/honeyeater/items/ns/2016/56a225d7ed2a899a9a000057.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fhoneyeater%2Fitems%2Fns%2F2016%2F56a225d7ed2a899a9a000057.yaml",
+   "title": "Unidentified",
+   "content_text": "-",
+   "date_published": "2016-01-22T13:53:35.000+00:00",
+   "date_modified": "2016-01-22T13:53:35.000+00:00",
+   "tags": [
+    "id~Unidentified"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2016-01-22"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/honeyeater/items/ns/2016/56a2208ced2a899a9a000051.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fhoneyeater%2Fitems%2Fns%2F2016%2F56a2208ced2a899a9a000051.yaml",
+   "title": "Cyclochila australasiae",
+   "content_text": "Last years cicadas landed all over our balcony & backyard. Photo 2014 approx. date entered. ",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a22096ed2a89b31c000033.jpeg",
+   "date_published": "2016-01-22T12:32:40.000+00:00",
+   "date_modified": "2016-01-31T22:55:27.000+00:00",
+   "tags": [
+    "id~Cyclochila australasiae",
+    "tag~adult"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.353882,
+     -37.909767
+    ]
+   },
+   "_meta": {
+    "date": "2014-10-01",
+    "imageCount": 2
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/honeyeater/items/ns/2016/56a202d2ed2a899a9a000027.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fhoneyeater%2Fitems%2Fns%2F2016%2F56a202d2ed2a899a9a000027.yaml",
+   "title": "Engaeus urostrictus",
+   "content_text": "I'm not sure which of the 2 varieties it could be - Urostrictus or Engaeus tuberculatus - as I live close to a creek & but also on a slope away from stream but with plenty water.  (I have larger resolution photos - though I took them with an automatic camera, so the focus is not great, unfortunately - as it was a rare and chance occurrence this morning). ",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a202d9ed2a89e050000032.jpeg",
+   "date_published": "2016-01-22T10:32:11.000+00:00",
+   "date_modified": "2016-01-23T08:34:18.000+00:00",
+   "tags": [
+    "id~Engaeus urostrictus"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.353882,
+     -37.909767
+    ]
+   },
+   "_meta": {
+    "date": "2016-01-22",
+    "imageCount": 1
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/honeyeater/items/ns/2016/5689cb03ed2a890461000001.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fhoneyeater%2Fitems%2Fns%2F2016%2F5689cb03ed2a890461000001.yaml",
+   "title": "Endoxyla spp.",
+   "content_text": "I found this in my yard a few weeks ago and after much to-and-fro on some Facebook wildlife identification pages - we identified is as the 'Endoxyla' (size approx 10cm, Female). We thought it might be - . 'Endoxyla Leucomocla or Ghost Moth, Goats moth but settled on Endoxyla - which is known in the Dandenong Ranges and has a similar wing pattern and size (approx 10cm), and colouring (red tinged, tho most gone on this specimen). ",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/568c7ac1ed2a89038f00000d.JPG",
+   "date_published": "2016-01-22T04:48:58.000+00:00",
+   "date_modified": "2016-01-22T12:25:53.000+00:00",
+   "tags": [
+    "id~Endoxyla spp.",
+    "tag~moth"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.359389,
+     -37.905972
+    ]
+   },
+   "_meta": {
+    "date": "2016-01-02",
+    "imageCount": 4
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 4,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

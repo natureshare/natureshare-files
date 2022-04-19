@@ -1,0 +1,21 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.63,
+     -37.621
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_64/collections/plants_of_toolern_vale/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_64%2Fcollections%2Fplants_of_toolern_vale%2Faggregate%2Findex.json",
+    "date": "2011-08-16",
+    "title": "openid_64"
+   }
+  }
+ ]
+}

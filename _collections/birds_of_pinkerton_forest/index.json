@@ -1,0 +1,37 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Birds Of Pinkerton Forest",
+ "description": "All users for [birds_of_pinkerton_forest]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fbirds_of_pinkerton_forest%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/birds_of_pinkerton_forest/index.json",
+ "items": [
+  {
+   "title": "openid_63",
+   "content_text": "1 items",
+   "date_published": "2012-02-21T03:43:28.000+00:00",
+   "date_modified": "2012-02-21T03:43:28.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2012-02-21",
+    "name": "birds_of_pinkerton_forest",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_63/collections/birds_of_pinkerton_forest/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fcollections%2Fbirds_of_pinkerton_forest%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

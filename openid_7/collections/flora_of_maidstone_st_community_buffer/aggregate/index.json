@@ -1,0 +1,77 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Flora of Maidstone St Community Buffer",
+ "description": "",
+ "author": {
+  "name": "openid_7",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fcollections%2Fflora_of_maidstone_st_community_buffer%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_7/collections/flora_of_maidstone_st_community_buffer/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_7/items/ns/2015/flora_of_maidstone_st_community_buffer_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Fns%2F2015%2Fflora_of_maidstone_st_community_buffer_species_list.yaml",
+   "title": "32 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2012-10-11T18:55:54.000+00:00",
+   "date_modified": "2015-04-07T08:47:40.000+00:00",
+   "tags": [
+    "id~Allocasuarina verticillata",
+    "id~Arthropodium strictum s.s.",
+    "id~Austrodanthonia spp.",
+    "id~Austrostipa scabra subsp. falcata",
+    "id~Austrostipa spp.",
+    "id~Brachyscome basaltica var. gracilis",
+    "id~Brachyscome dentata",
+    "id~Calocephalus citreus",
+    "id~Calocephalus lacteus",
+    "id~Calotis scapigera",
+    "id~Cassinia arcuata",
+    "id~Cheilanthes austrotenuifolia",
+    "id~Chloris truncata",
+    "id~Chrysocephalum apiculatum s.s.",
+    "id~Dianella admixta",
+    "id~Dichelachne crinita",
+    "id~Elymus scaber var. scaber",
+    "id~Isolepis inundata",
+    "id~Lachnagrostis aemula s.s.",
+    "id~Lomandra filiformis subsp. filiformis",
+    "id~Microlaena stipoides var. stipoides",
+    "id~Minuria leptophylla",
+    "id~Pimelea glauca",
+    "id~Poa sieberiana var. sieberiana",
+    "id~Podolepis jaceoides s.s.",
+    "id~Pseudognaphalium luteoalbum",
+    "id~Themeda triandra",
+    "id~Veronica gracilis",
+    "id~Vittadinia cuneata var. cuneata",
+    "id~Wahlenbergia communis s.l.",
+    "id~Wahlenbergia gracilenta s.s.",
+    "id~Wahlenbergia stricta subsp. stricta",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.812186,
+     -37.854424
+    ]
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "openid_7",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/bertbohosouth/items/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Observations</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbertbohosouth%2Fitems%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 bertbohosouth</copyright>
+    <pubDate>Mon, 24 Apr 2017 04:16:24 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Christinus marmoratus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbertbohosouth%2Fitems%2Fns%2F2017%2F58fc10deed2a8972fd00000d.yaml</link>
+      <dc:creator>bertbohosouth</dc:creator>
+      <description>Found in a pot plant.</description>
+      <category>id~Christinus marmoratus</category>
+      <category>tag~animal</category>
+      <category>tag~dorsal</category>
+      <guid isPermaLink="false">https://files.natureshare.org/bertbohosouth/items/ns/2017/58fc10deed2a8972fd00000d.yaml</guid>
+      <pubDate>Sun, 23 Apr 2017 02:36:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Notechis scutatus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbertbohosouth%2Fitems%2Fns%2F2017%2F589697a0ed2a89d10f002c9a.yaml</link>
+      <dc:creator>bertbohosouth</dc:creator>
+      <description>A Tiger Snake was observed by Peter Kelly in the home garden on his Creek Junction property -photo. The animal was about 1.4 m long and had distinctive banding. A second, smaller Tiger Snake was observed later the same day closer to the house and , the following day, in the wood pile.</description>
+      <category>id~Notechis scutatus</category>
+      <guid isPermaLink="false">https://files.natureshare.org/bertbohosouth/items/ns/2017/589697a0ed2a89d10f002c9a.yaml</guid>
+      <pubDate>Sun, 05 Feb 2017 03:16:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Suta spp.</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbertbohosouth%2Fitems%2Fns%2F2017%2F5790cb07ed2a89e69f0009c8.yaml</link>
+      <dc:creator>bertbohosouth</dc:creator>
+      <description>Initial ID was Suta spectabilis based on location, but body colouration and pattern suggests Suta flagellum. Mid-body scale rows were not counted.</description>
+      <category>id~Suta spp.</category>
+      <category>tag~snake</category>
+      <guid isPermaLink="false">https://files.natureshare.org/bertbohosouth/items/ns/2017/5790cb07ed2a89e69f0009c8.yaml</guid>
+      <pubDate>Sun, 05 Feb 2017 03:01:11 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lauriston Reserve</title>
+  <id>https://files.natureshare.org/russell/collections/lauriston_reserve/index.xml</id>
+  <updated>2015-04-07T08:47:34.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/russell/collections/lauriston_reserve/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/russell/collections/lauriston_reserve/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Flauriston_reserve%2Findex.json"/>
+  <author>
+    <name>russell</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 russell</rights>
+  <entry>
+    <id>https://files.natureshare.org/russell/items/ns/2012/53b39854e35eb1298400f61d.yaml</id>
+    <title>Eucalyptus polyanthemos subsp. vestita</title>
+    <updated>2012-06-13T15:29:22.000+00:00</updated>
+    <published>2012-06-13T15:29:07.000+00:00</published>
+    <author>
+      <name>russell</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f61d.yaml"/>
+    <category term="id~Eucalyptus polyanthemos subsp. vestita"/>
+    <category term="tag~juvenile-leaf"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/russell/items/ns/2012/53b39854e35eb1298400f61c.yaml</id>
+    <title>Exocarpos cupressiformis</title>
+    <updated>2012-06-13T15:12:55.000+00:00</updated>
+    <published>2012-06-13T15:10:58.000+00:00</published>
+    <author>
+      <name>russell</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Lots of trees seem to be fruiting up but this is the first I have seen this season (no plants I saw fruited last season).</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f61c.yaml"/>
+    <category term="id~Exocarpos cupressiformis"/>
+    <category term="tag~fruit"/>
+    <category term="tag~yellow"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/russell/items/ns/2012/53b39854e35eb1298400f61b.yaml</id>
+    <title>Hardenbergia violacea</title>
+    <updated>2012-06-13T15:03:18.000+00:00</updated>
+    <published>2012-06-13T15:02:11.000+00:00</published>
+    <author>
+      <name>russell</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">First I've seen flowering this year.</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f61b.yaml"/>
+    <category term="id~Hardenbergia violacea"/>
+    <category term="tag~flower"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/russell/items/ns/2015/lauriston_reserve_species_list.yaml</id>
+    <title>131 ids</title>
+    <updated>2015-04-07T08:47:34.000+00:00</updated>
+    <published>2011-03-08T18:10:19.000+00:00</published>
+    <author>
+      <name>russell</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Species list for collection.</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Flauriston_reserve_species_list.yaml"/>
+    <category term="id~Acacia aculeatissima"/>
+    <category term="id~Acacia aspera"/>
+    <category term="id~Acacia baileyana"/>
+    <category term="id~Acacia dealbata"/>
+    <category term="id~Acacia gunnii"/>
+    <category term="id~Acacia longifolia"/>
+    <category term="id~Acacia mearnsii"/>
+    <category term="id~Acacia melanoxylon"/>
+    <category term="id~Acacia provincialis"/>
+    <category term="id~Acaena novae-zelandiae"/>
+    <category term="id~Acetosella vulgaris"/>
+    <category term="id~Acrotriche serrulata"/>
+    <category term="id~Agrostis capillaris var. capillaris"/>
+    <category term="id~Aira elegantissima"/>
+    <category term="id~Amyema pendula subsp. pendula (s.s.)"/>
+    <category term="id~Anthoxanthum odoratum"/>
+    <category term="id~Arthropodium strictum s.s."/>
+    <category term="id~Astroloma humifusum"/>
+    <category term="id~Austrodanthonia fulva"/>
+    <category term="id~Austrostipa mollis"/>
+    <category term="id~Briza maxima"/>
+    <category term="id~Briza minor"/>
+    <category term="id~Bromus hordeaceus subsp. hordeaceus"/>
+    <category term="id~Brunonia australis"/>
+    <category term="id~Burchardia umbellata"/>
+    <category term="id~Bursaria spinosa subsp. spinosa"/>
+    <category term="id~Caladenia carnea s.s."/>
+    <category term="id~Caladenia gracilis"/>
+    <category term="id~Caladenia iridescens"/>
+    <category term="id~Caladenia phaeoclavia"/>
+    <category term="id~Calochilus robertsonii"/>
+    <category term="id~Carduus tenuiflorus"/>
+    <category term="id~Cassinia arcuata"/>
+    <category term="id~Cassytha glabella"/>
+    <category term="id~Centella cordifolia"/>
+    <category term="id~Cerastium glomeratum s.l."/>
+    <category term="id~Chiloglottis valida"/>
+    <category term="id~Cirsium vulgare"/>
+    <category term="id~Craspedia variabilis"/>
+    <category term="id~Crassula decumbens var. decumbens"/>
+    <category term="id~Crataegus monogyna"/>
+    <category term="id~Cytisus scoparius"/>
+    <category term="id~Daucus glochidiatus"/>
+    <category term="id~Daviesia leptophylla"/>
+    <category term="id~Dianella admixta"/>
+    <category term="id~Dillwynia cinerascens s.l."/>
+    <category term="id~Dillwynia sericea"/>
+    <category term="id~Dipodium roseum s.s."/>
+    <category term="id~Drosera peltata subsp. auriculata"/>
+    <category term="id~Drosera peltata subsp. peltata"/>
+    <category term="id~Drosera whittakeri subsp. aberrans"/>
+    <category term="id~Eucalyptus dives"/>
+    <category term="id~Eucalyptus goniocalyx s.s."/>
+    <category term="id~Eucalyptus obliqua"/>
+    <category term="id~Eucalyptus polyanthemos subsp. vestita"/>
+    <category term="id~Eucalyptus radiata"/>
+    <category term="id~Eucalyptus rubida"/>
+    <category term="id~Exocarpos cupressiformis"/>
+    <category term="id~Galium aparine"/>
+    <category term="id~Genista monspessulana"/>
+    <category term="id~Geranium sp. 3"/>
+    <category term="id~Glossodia major"/>
+    <category term="id~Gompholobium huegelii"/>
+    <category term="id~Gonocarpus tetragynus"/>
+    <category term="id~Grevillea repens"/>
+    <category term="id~Hakea decurrens subsp. physocarpa"/>
+    <category term="id~Hardenbergia violacea"/>
+    <category term="id~Helichrysum scorpioides"/>
+    <category term="id~Holcus lanatus"/>
+    <category term="id~Hovea heterophylla"/>
+    <category term="id~Hydrocotyle callicarpa"/>
+    <category term="id~Hydrocotyle foveolata"/>
+    <category term="id~Hydrocotyle laxiflora"/>
+    <category term="id~Hypericum gramineum"/>
+    <category term="id~Hypochoeris radicata"/>
+    <category term="id~Hypoxis vaginata var. vaginata"/>
+    <category term="id~Joycea pallida"/>
+    <category term="id~Juncus amabilis"/>
+    <category term="id~Juncus holoschoenus"/>
+    <category term="id~Juncus remotiflorus"/>
+    <category term="id~Juncus subsecundus"/>
+    <category term="id~Lagenophora huegelii"/>
+    <category term="id~Leontodon taraxacoides subsp. taraxacoides"/>
+    <category term="id~Leptorhynchos tenuifolius"/>
+    <category term="id~Leucanthemum vulgare"/>
+    <category term="id~Leucopogon virgatus"/>
+    <category term="id~Lomandra filiformis"/>
+    <category term="id~Lomandra longifolia subsp. longifolia"/>
+    <category term="id~Luzula meridionalis"/>
+    <category term="id~Microlaena stipoides var. stipoides"/>
+    <category term="id~Microseris sp. 3"/>
+    <category term="id~Olearia myrsinoides"/>
+    <category term="id~Opercularia varia"/>
+    <category term="id~Oxalis perennans"/>
+    <category term="id~Ozothamnus obcordatus"/>
+    <category term="id~Pimelea linifolia"/>
+    <category term="id~Pinus radiata"/>
+    <category term="id~Plantago lanceolata"/>
+    <category term="id~Plantago varia"/>
+    <category term="id~Poa annua"/>
+    <category term="id~Poa sieberiana var. sieberiana"/>
+    <category term="id~Podolobium procumbens"/>
+    <category term="id~Poranthera microphylla s.l."/>
+    <category term="id~Pteridium esculentum"/>
+    <category term="id~Pterostylis melagramma"/>
+    <category term="id~Pterostylis nutans"/>
+    <category term="id~Pultenaea humilis"/>
+    <category term="id~Ranunculus muricatus"/>
+    <category term="id~Romulea rosea var. australis s.s."/>
+    <category term="id~Rosa rubiginosa"/>
+    <category term="id~Rubus fruticosus spp. agg."/>
+    <category term="id~Schoenus apogon"/>
+    <category term="id~Senecio glomeratus"/>
+    <category term="id~Senecio phelleus"/>
+    <category term="id~Stackhousia monogyna"/>
+    <category term="id~Stellaria media"/>
+    <category term="id~Stylidium armeria subsp. armeria"/>
+    <category term="id~Taraxacum officinale spp. agg."/>
+    <category term="id~Tetratheca ciliata"/>
+    <category term="id~Thelymitra pauciflora s.l."/>
+    <category term="id~Themeda triandra"/>
+    <category term="id~Thysanotus patersonii"/>
+    <category term="id~Ulex europaeus"/>
+    <category term="id~Velleia paradoxa"/>
+    <category term="id~Veronica arvensis"/>
+    <category term="id~Veronica gracilis"/>
+    <category term="id~Viola betonicifolia"/>
+    <category term="id~Viola hederacea sensu Entwisle (1996)"/>
+    <category term="id~Wahlenbergia stricta subsp. stricta"/>
+    <category term="id~Wurmbea dioica"/>
+    <category term="id~Xerochrysum viscosum"/>
+    <category term="tag~species-list"/>
+  </entry>
+</feed>

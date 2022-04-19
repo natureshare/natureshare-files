@@ -1,0 +1,97 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Glistering Insects",
+ "description": "",
+ "author": {
+  "name": "psoralea",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fcollections%2Fglistering_insects%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/psoralea/collections/glistering_insects/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/psoralea/items/ns/2018/5a49bbf2ed2a893ede00006b.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2018%2F5a49bbf2ed2a893ede00006b.yaml",
+   "title": "Geometridae spp.",
+   "content_text": "Caterpillars on indigofera australis - very well camouflaged ",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a49bc06ed2a893fb700007c.jpeg",
+   "date_published": "2018-01-01T04:46:18.000+00:00",
+   "date_modified": "2018-01-01T04:47:32.000+00:00",
+   "tags": [
+    "id~Geometridae spp.",
+    "tag~caterpillar",
+    "tag~shrub"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.6678,
+     -37.439986
+    ]
+   },
+   "_meta": {
+    "date": "2017-12-28",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "psoralea",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/psoralea/items/ns/2015/54ec3e62ed2a8987b70006c0.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2015%2F54ec3e62ed2a8987b70006c0.yaml",
+   "title": "Siphanta spp.",
+   "content_text": "-",
+   "date_published": "2015-02-24T09:03:30.000+00:00",
+   "date_modified": "2015-02-24T09:03:30.000+00:00",
+   "tags": [
+    "id~Siphanta spp."
+   ],
+   "_geo": {
+    "coordinates": [
+     144.668114,
+     -37.43996
+    ]
+   },
+   "_meta": {
+    "date": "2015-02-24"
+   },
+   "author": {
+    "name": "psoralea",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/psoralea/items/ns/2015/54ec3b80ed2a89d990000792.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2015%2F54ec3b80ed2a89d990000792.yaml",
+   "title": "Chauliognathus lugubris",
+   "content_text": "-",
+   "date_published": "2015-02-24T08:51:12.000+00:00",
+   "date_modified": "2015-02-24T08:55:46.000+00:00",
+   "tags": [
+    "id~Chauliognathus lugubris"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.668114,
+     -37.43996
+    ]
+   },
+   "_meta": {
+    "date": "2015-02-24"
+   },
+   "author": {
+    "name": "psoralea",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

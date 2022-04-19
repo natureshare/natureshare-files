@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/gtgoods/collections/little_desert_np_plants/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Little Desert Np Plants</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fcollections%2Flittle_desert_np_plants%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 gtgoods</copyright>
+    <pubDate>Tue, 15 Sep 2015 11:12:03 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Cassytha melantha</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fitems%2Fns%2F2015%2F55f7fc8ded2a89b06c000937.yaml</link>
+      <dc:creator>gtgoods</dc:creator>
+      <description>-</description>
+      <category>id~Cassytha melantha</category>
+      <category>tag~bud</category>
+      <category>tag~flower</category>
+      <guid isPermaLink="false">https://files.natureshare.org/gtgoods/items/ns/2015/55f7fc8ded2a89b06c000937.yaml</guid>
+      <pubDate>Tue, 15 Sep 2015 11:10:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eucalyptus leptophylla</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fitems%2Fns%2F2015%2F55c1f9f6ed2a89db81000a77.yaml</link>
+      <dc:creator>gtgoods</dc:creator>
+      <description>-</description>
+      <category>id~Eucalyptus leptophylla</category>
+      <category>tag~buds</category>
+      <guid isPermaLink="false">https://files.natureshare.org/gtgoods/items/ns/2015/55c1f9f6ed2a89db81000a77.yaml</guid>
+      <pubDate>Wed, 05 Aug 2015 11:56:38 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

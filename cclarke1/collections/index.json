@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "cclarke1",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke1%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke1%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/cclarke1/collections/index.json",
+ "items": [
+  {
+   "title": "Wilsons prom np plants",
+   "content_text": "59 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb129840145e2.jpg",
+   "date_published": "2013-10-21T20:15:53.000+00:00",
+   "date_modified": "2013-10-21T20:15:53.000+00:00",
+   "_geo": {
+    "coordinates": [
+     146.3,
+     -38.981
+    ]
+   },
+   "_meta": {
+    "itemCount": 59,
+    "date": "2013-10-21",
+    "name": "wilsons_prom_np_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/cclarke1/collections/wilsons_prom_np_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke1%2Fcollections%2Fwilsons_prom_np_plants%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

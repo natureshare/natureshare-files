@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.652535,
+     -37.430286
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/items/ns/2010/53b3984ee35eb1298400e116.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2010%2F53b3984ee35eb1298400e116.yaml",
+    "date": "2010-06-28",
+    "title": "Acianthus pusillus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ce35eb12984011352.jpg"
+   }
+  }
+ ]
+}

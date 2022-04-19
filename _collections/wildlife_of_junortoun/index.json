@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Wildlife Of Junortoun",
+ "description": "All users for [wildlife_of_junortoun]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fwildlife_of_junortoun%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/wildlife_of_junortoun/index.json",
+ "items": [
+  {
+   "title": "andrewbrown",
+   "content_text": "370 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b05617aed2a89d0e7000012.jpeg",
+   "date_published": "2018-05-23T12:44:46.000+00:00",
+   "date_modified": "2018-05-23T12:44:46.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.379516,
+     -36.777825
+    ]
+   },
+   "_meta": {
+    "itemCount": 370,
+    "date": "2018-05-23",
+    "name": "wildlife_of_junortoun",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/andrewbrown/collections/wildlife_of_junortoun/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandrewbrown%2Fcollections%2Fwildlife_of_junortoun%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

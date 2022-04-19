@@ -1,0 +1,64 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Wyperfeld Np Plants",
+ "description": "All users for [wyperfeld_np_plants]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fwyperfeld_np_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/wyperfeld_np_plants/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "108 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53c501e2e35eb1387b00002d.JPG",
+   "date_published": "2014-07-15T10:26:42.000+00:00",
+   "date_modified": "2014-07-15T10:26:42.000+00:00",
+   "_geo": {
+    "coordinates": [
+     141.730911,
+     -35.624187
+    ]
+   },
+   "_meta": {
+    "itemCount": 108,
+    "date": "2014-07-15",
+    "name": "wyperfeld_np_plants",
+    "featured": true,
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/wyperfeld_np_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fwyperfeld_np_plants%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "reilly",
+   "content_text": "2 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53c501e2e35eb1387b00002d.JPG",
+   "date_published": "2014-07-15T10:26:42.000+00:00",
+   "date_modified": "2014-07-15T10:26:42.000+00:00",
+   "_geo": {
+    "coordinates": [
+     142,
+     -35.5
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2014-07-15",
+    "name": "wyperfeld_np_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/reilly/collections/wyperfeld_np_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fcollections%2Fwyperfeld_np_plants%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,70 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Neds Corner Birds",
+ "description": "",
+ "author": {
+  "name": "colleenb",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcolleenb%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcolleenb%2Fcollections%2Fneds_corner_birds%2Findex.json",
+ "feed_url": "https://files.natureshare.org/colleenb/collections/neds_corner_birds/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/colleenb/items/ns/2016/569c52aeed2a8939fa000001.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcolleenb%2Fitems%2Fns%2F2016%2F569c52aeed2a8939fa000001.yaml",
+   "title": "Pomatostomus ruficeps",
+   "content_text": "-",
+   "date_published": "2016-01-18T02:51:57.000+00:00",
+   "date_modified": "2016-01-19T09:31:39.000+00:00",
+   "tags": [
+    "id~Pomatostomus ruficeps"
+   ],
+   "_geo": {
+    "coordinates": [
+     141.329827,
+     -34.140696
+    ]
+   },
+   "_meta": {
+    "date": "2015-06-17",
+    "videoCount": 1
+   },
+   "author": {
+    "name": "colleenb",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcolleenb%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/colleenb/items/ns/2016/569c5199ed2a89eef6000004.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcolleenb%2Fitems%2Fns%2F2016%2F569c5199ed2a89eef6000004.yaml",
+   "title": "Pomatostomus ruficeps",
+   "content_text": "Captured on motion-sensor camera at bird bath.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/569c51a3ed2a89b31c000012.jpg",
+   "date_published": "2016-01-18T02:46:27.000+00:00",
+   "date_modified": "2016-01-18T02:46:27.000+00:00",
+   "tags": [
+    "id~Pomatostomus ruficeps"
+   ],
+   "_geo": {
+    "coordinates": [
+     141.329827,
+     -34.140696
+    ]
+   },
+   "_meta": {
+    "date": "2015-12-25",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "colleenb",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcolleenb%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

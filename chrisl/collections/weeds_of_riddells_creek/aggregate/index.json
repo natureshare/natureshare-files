@@ -1,0 +1,75 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Weeds of riddells creek",
+ "description": "",
+ "author": {
+  "name": "chrisl",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fcollections%2Fweeds_of_riddells_creek%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/chrisl/collections/weeds_of_riddells_creek/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/chrisl/items/ns/2015/5677fafaed2a89d6d6000328.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2015%2F5677fafaed2a89d6d6000328.yaml",
+   "title": "Erica lusitanica",
+   "content_text": "On roadside.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5677fb54ed2a898328000043.jpg",
+   "date_published": "2015-12-21T21:13:29.000+00:00",
+   "date_modified": "2015-12-21T21:13:29.000+00:00",
+   "tags": [
+    "id~Erica lusitanica",
+    "tag~flower"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.652712,
+     -37.431489
+    ]
+   },
+   "_meta": {
+    "date": "2015-09-18",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "chrisl",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/chrisl/items/ns/2015/5677fb1ded2a89d6d600032b.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2015%2F5677fb1ded2a89d6d600032b.yaml",
+   "title": "Ulex europaeus",
+   "content_text": "On roadside.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5677fb9ded2a898328000045.jpg",
+   "date_published": "2015-12-21T21:07:48.000+00:00",
+   "date_modified": "2015-12-21T21:07:48.000+00:00",
+   "tags": [
+    "id~Ulex europaeus",
+    "tag~flower"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.653023,
+     -37.431515
+    ]
+   },
+   "_meta": {
+    "date": "2015-09-18",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "chrisl",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.912467,
+     -37.797153
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/maribyrnongparkranger/collections/newell_s_paddock_footscray/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmaribyrnongparkranger%2Fcollections%2Fnewell_s_paddock_footscray%2Faggregate%2Findex.json",
+    "date": "2019-08-07",
+    "title": "maribyrnongparkranger",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000026/2019-08-07/p1100861_ed.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.912467,
+     -37.797153
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/collections/newell_s_paddock_footscray/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fnewell_s_paddock_footscray%2Faggregate%2Findex.json",
+    "date": "2019-08-07",
+    "title": "tsnata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000026/2019-08-07/p1100861_ed.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.911,
+     -37.797
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bennorth/collections/newell_s_paddock_footscray/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbennorth%2Fcollections%2Fnewell_s_paddock_footscray%2Faggregate%2Findex.json",
+    "date": "2014-10-03",
+    "title": "bennorth",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/542e3af1e35eb1dec10001a9.JPG"
+   }
+  }
+ ]
+}

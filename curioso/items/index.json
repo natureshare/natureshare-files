@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "curioso",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcurioso%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcurioso%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/curioso/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/curioso/items/ns/2017/5a44cc6ced2a89e23c002aca.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcurioso%2Fitems%2Fns%2F2017%2F5a44cc6ced2a89e23c002aca.yaml",
+   "title": "Cordyceps gunnii",
+   "content_text": "Club formations of the cordyceps gunnii found amidst banksia leaf litter and native violets. Three clubs were found in situ. One was removed and broken open and photographed. 28 December 2017.\r\n",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a44cc8ced2a89298f000057.JPG",
+   "date_published": "2017-12-28T11:03:40.000+00:00",
+   "date_modified": "2017-12-28T11:05:13.000+00:00",
+   "tags": [
+    "id~Cordyceps gunnii"
+   ],
+   "_geo": {
+    "coordinates": [
+     151.484373,
+     -33.380874
+    ]
+   },
+   "_meta": {
+    "date": "2017-12-28",
+    "imageCount": 2
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

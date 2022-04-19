@@ -1,0 +1,98 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Lake Elizabeth",
+ "description": "",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Flake_elizabeth%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/lake_elizabeth/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2013/53b39856e35eb1298400ff22.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400ff22.yaml",
+   "title": "Cyathea australis",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013af1.jpg",
+   "date_published": "2013-03-08T23:28:08.000+00:00",
+   "date_modified": "2013-03-08T23:32:27.000+00:00",
+   "tags": [
+    "id~Cyathea australis",
+    "tag~id",
+    "tag~sorus"
+   ],
+   "_geo": {
+    "coordinates": [
+     143.762309,
+     -38.55272
+    ]
+   },
+   "_meta": {
+    "date": "2013-03-03",
+    "imageCount": 3
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2015/lake_elizabeth_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Flake_elizabeth_species_list.yaml",
+   "title": "Cyathea australis, Dicksonia antarctica",
+   "content_text": "Species list for collection.",
+   "date_published": "2013-03-08T23:26:19.000+00:00",
+   "date_modified": "2015-04-07T08:47:40.000+00:00",
+   "tags": [
+    "id~Cyathea australis",
+    "id~Dicksonia antarctica",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2013/53b39856e35eb1298400ff21.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400ff21.yaml",
+   "title": "Dicksonia antarctica",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013aee.jpg",
+   "date_published": "2013-03-08T23:16:39.000+00:00",
+   "date_modified": "2013-03-08T23:22:30.000+00:00",
+   "tags": [
+    "id~Dicksonia antarctica",
+    "tag~id",
+    "tag~sorus"
+   ],
+   "_geo": {
+    "coordinates": [
+     143.76045,
+     -38.551685
+    ]
+   },
+   "_meta": {
+    "date": "2013-03-03",
+    "imageCount": 3
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

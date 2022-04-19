@@ -1,0 +1,72 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.69449,
+     -37.406625
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2013/53b39858e35eb129840105ca.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39858e35eb129840105ca.yaml",
+    "date": "2013-10-19",
+    "title": "Eurema smilax smilax"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.698322,
+     -37.408272
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2013/53b39858e35eb129840104d1.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39858e35eb129840104d1.yaml",
+    "date": "2013-09-13",
+    "title": "Hydrocotyle foveolata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143f5.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.694604,
+     -37.405519
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2013/53b39858e35eb129840104d0.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39858e35eb129840104d0.yaml",
+    "date": "2013-09-13",
+    "title": "Pultenaea gunnii subsp. gunnii",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143f4.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.695641,
+     -37.404764
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2013/53b39858e35eb129840104cf.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39858e35eb129840104cf.yaml",
+    "date": "2013-09-13",
+    "title": "Caladenia praecox",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143f3.jpg"
+   }
+  }
+ ]
+}

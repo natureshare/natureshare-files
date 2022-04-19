@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.38,
+     -34.402
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_87/collections/interactions_between_animals_and_coastal_weeds/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_87%2Fcollections%2Finteractions_between_animals_and_coastal_weeds%2Faggregate%2Findex.json",
+    "date": "2011-10-25",
+    "title": "Interactions between animals and coastal weeds",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb1298401236e.jpg"
+   }
+  }
+ ]
+}

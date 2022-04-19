@@ -1,0 +1,42 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Pallisters Reserve Orford",
+ "description": "All users for [pallisters_reserve_orford]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fpallisters_reserve_orford%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/pallisters_reserve_orford/index.json",
+ "items": [
+  {
+   "title": "banksiaman",
+   "content_text": "147 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/594c6d67ed2a893984000084.JPG",
+   "date_published": "2017-06-23T01:23:34.000+00:00",
+   "date_modified": "2017-06-23T01:23:34.000+00:00",
+   "_geo": {
+    "coordinates": [
+     142.033,
+     -38.204
+    ]
+   },
+   "_meta": {
+    "itemCount": 147,
+    "date": "2017-06-23",
+    "name": "pallisters_reserve_orford",
+    "featured": true,
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/banksiaman/collections/pallisters_reserve_orford/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fcollections%2Fpallisters_reserve_orford%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.614608,
+     -36.456895
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/wallaby55/items/ns/2015/55de5974ed2a89eafd000056.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fwallaby55%2Fitems%2Fns%2F2015%2F55de5974ed2a89eafd000056.yaml",
+    "date": "2011-09-04",
+    "title": "Acacia acinacea s.s.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55de5991ed2a890d95000069.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.614608,
+     -36.456895
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/wallaby55/items/ns/2015/55de57f8ed2a89eafd000051.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fwallaby55%2Fitems%2Fns%2F2015%2F55de57f8ed2a89eafd000051.yaml",
+    "date": "2011-09-04",
+    "title": "Acacia acinacea s.s.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55de581bed2a890d95000068.JPG"
+   }
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.795888,
+     -37.808207
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_7/collections/derrimut_grassland_flora/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fcollections%2Fderrimut_grassland_flora%2Faggregate%2Findex.json",
+    "date": "2011-04-28",
+    "title": "openid_7",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011a14.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.8,
+     -37.805
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/cclarke/collections/derrimut_grassland_flora/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fcollections%2Fderrimut_grassland_flora%2Faggregate%2Findex.json",
+    "date": "2011-04-28",
+    "title": "cclarke",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011a14.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.797,
+     -37.809
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/giorgiod/collections/derrimut_grassland_flora/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fcollections%2Fderrimut_grassland_flora%2Faggregate%2Findex.json",
+    "date": "2011-04-15",
+    "title": "giorgiod",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb1298401194e.jpg"
+   }
+  }
+ ]
+}

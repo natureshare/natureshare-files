@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.577031,
+     -37.432137
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_107/items/ns/2012/53b39854e35eb1298400f454.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_107%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f454.yaml",
+    "date": "2012-03-17",
+    "title": "Papilio aegeus aegeus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012b4c.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "echidna",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fechidna%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fechidna%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/echidna/collections/index.json",
+ "items": [
+  {
+   "title": "Otways Bioscan – Lepidoptera",
+   "content_text": "370 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000024/2019-07-19/p1330060_otb_2018_204_mar_23_19_ns.jpeg",
+   "date_published": "2019-07-19T12:03:53.000+00:00",
+   "date_modified": "2019-07-19T12:03:53.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.884002,
+     -38.639853
+    ]
+   },
+   "_meta": {
+    "itemCount": 370,
+    "date": "2019-07-19",
+    "name": "otways_bioscan_lepidoptera",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/echidna/collections/otways_bioscan_lepidoptera/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fechidna%2Fcollections%2Fotways_bioscan_lepidoptera%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Otway ranges - moths",
+   "content_text": "40 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c033a85a9663368420000e3/2019-07-13/22mar2019_blanket_leaf_fp_monoctenia_falernara_img_1533a_1.jpeg",
+   "date_published": "2019-07-13T12:27:38.000+00:00",
+   "date_modified": "2019-07-13T12:27:38.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.632,
+     -38.599
+    ]
+   },
+   "_meta": {
+    "itemCount": 40,
+    "date": "2019-07-13",
+    "name": "otway_ranges_-_moths",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/echidna/collections/otway_ranges_-_moths/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fechidna%2Fcollections%2Fotway_ranges_-_moths%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Organ pipes np - invertebrates",
+   "content_text": "14 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c033a85a9663368420000e3/2018-12-05/1544009594/Hypobapta%20diffundens%20%20%20Organ%20Pipes%20%20%202018-12-01%20%20%20IMG_4287a.jpg",
+   "date_published": "2018-12-05T11:35:03.000+00:00",
+   "date_modified": "2018-12-05T11:35:03.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.767,
+     -37.668
+    ]
+   },
+   "_meta": {
+    "itemCount": 14,
+    "date": "2018-12-05",
+    "name": "organ_pipes_np_-_invertebrates",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/echidna/collections/organ_pipes_np_-_invertebrates/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fechidna%2Fcollections%2Forgan_pipes_np_-_invertebrates%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

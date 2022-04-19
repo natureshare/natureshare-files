@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Mount Cottrell Flora And Fauna",
+ "description": "All users for [mount_cottrell_flora_and_fauna]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fmount_cottrell_flora_and_fauna%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/mount_cottrell_flora_and_fauna/index.json",
+ "items": [
+  {
+   "title": "openid_28",
+   "content_text": "18 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39867e35eb12984013e30.jpg",
+   "date_published": "2013-05-24T15:13:29.000+00:00",
+   "date_modified": "2013-05-24T15:13:29.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.635696,
+     -37.766372
+    ]
+   },
+   "_meta": {
+    "itemCount": 18,
+    "date": "2013-05-24",
+    "name": "mount_cottrell_flora_and_fauna",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_28/collections/mount_cottrell_flora_and_fauna/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fcollections%2Fmount_cottrell_flora_and_fauna%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

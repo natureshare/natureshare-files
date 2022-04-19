@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/tsnata/collections/brisbane_ranges_birds/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Brisbane ranges birds</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fbrisbane_ranges_birds%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 tsnata</copyright>
+    <pubDate>Mon, 18 May 2015 03:25:03 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Cormobates leucophaeus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2015%2F55588fffed2a890e0300068a.yaml</link>
+      <dc:creator>tsnata</dc:creator>
+      <description>-</description>
+      <category>id~Cormobates leucophaeus</category>
+      <guid isPermaLink="false">https://files.natureshare.org/tsnata/items/ns/2015/55588fffed2a890e0300068a.yaml</guid>
+      <pubDate>Sun, 17 May 2015 12:56:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Melithreptus lunatus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2015%2F555882f3ed2a890e0300067e.yaml</link>
+      <dc:creator>tsnata</dc:creator>
+      <description>A group of honey-eaters feasting on eucalypt flowers. Very active. Second photo showed a bit of the head.&#xD;
+Location approximate. On the track between Stony Creek and Anakie Gorge Picnic Area. Id by David Francis and Chris Lindorff as White-naped Honeyeater.</description>
+      <category>id~Melithreptus lunatus</category>
+      <guid isPermaLink="false">https://files.natureshare.org/tsnata/items/ns/2015/555882f3ed2a890e0300067e.yaml</guid>
+      <pubDate>Sun, 17 May 2015 12:00:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sericornis frontalis</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2015%2F555869a3ed2a890e0300064b.yaml</link>
+      <dc:creator>tsnata</dc:creator>
+      <description>-</description>
+      <category>id~Sericornis frontalis</category>
+      <guid isPermaLink="false">https://files.natureshare.org/tsnata/items/ns/2015/555869a3ed2a890e0300064b.yaml</guid>
+      <pubDate>Sun, 17 May 2015 10:12:51 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

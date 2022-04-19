@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.906692,
+     -38.100343
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/collections/mt_eccles_np_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fcollections%2Fmt_eccles_np_plants%2Faggregate%2Findex.json",
+    "date": "2018-02-22",
+    "title": "banksiaman",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a8f531fed2a89f453000092.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.822,
+     -38.116
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lorrainecphelan/collections/mt_eccles_np_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Florrainecphelan%2Fcollections%2Fmt_eccles_np_plants%2Faggregate%2Findex.json",
+    "date": "2018-02-22",
+    "title": "lorrainecphelan",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a8f531fed2a89f453000092.jpg"
+   }
+  }
+ ]
+}

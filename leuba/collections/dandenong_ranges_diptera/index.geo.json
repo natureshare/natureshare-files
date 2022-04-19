@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.294184,
+     -37.869665
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/leuba/items/ns/2016/569c2e05ed2a89f5e100001f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fitems%2Fns%2F2016%2F569c2e05ed2a89f5e100001f.yaml",
+    "date": "2016-01-15",
+    "title": "Villa spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/569c2e0bed2a897bc7000013.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.17898,
+     -38.172532
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/leuba/items/ns/2015/56618cd0ed2a89b5f500010f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fitems%2Fns%2F2015%2F56618cd0ed2a89b5f500010f.yaml",
+    "date": "2015-10-23",
+    "title": "Aleucosia calophthalma",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56618cdded2a899c63000280.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.295395,
+     -37.883583
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/leuba/items/ns/2015/56151682ed2a89401600a5b2.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fitems%2Fns%2F2015%2F56151682ed2a89401600a5b2.yaml",
+    "date": "2015-10-07",
+    "title": "Therevidae spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5615168eed2a890d9500046b.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.312095,
+     -37.898139
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/leuba/items/ns/2015/550aad41ed2a8994a900056b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fitems%2Fns%2F2015%2F550aad41ed2a8994a900056b.yaml",
+    "date": "2015-03-04",
+    "title": "Anthrax dolabratus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/550aad40ed2a8994a9000569.jpg"
+   }
+  }
+ ]
+}

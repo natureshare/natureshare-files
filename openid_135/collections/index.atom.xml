@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Collections</title>
+  <id>https://files.natureshare.org/openid_135/collections/index.xml</id>
+  <updated>2012-09-19T19:12:22.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/openid_135/collections/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/openid_135/collections/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_135%2Fcollections%2Findex.json"/>
+  <author>
+    <name>openid_135</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_135%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 openid_135</rights>
+  <entry>
+    <id>https://files.natureshare.org/openid_135/collections/banchory_grove_grassland_ncr_flora/aggregate/index.json</id>
+    <title>Banchory grove grassland ncr flora</title>
+    <updated>2012-09-19T19:12:22.000+00:00</updated>
+    <published>2012-09-19T19:12:22.000+00:00</published>
+    <author>
+      <name>openid_135</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_135%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">3 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_135%2Fcollections%2Fbanchory_grove_grassland_ncr_flora%2Faggregate%2Findex.json"/>
+  </entry>
+</feed>

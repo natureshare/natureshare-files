@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.206886,
+     -37.230602
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/porcupine_ridge_state_forest_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fporcupine_ridge_state_forest_plants%2Faggregate%2Findex.json",
+    "date": "2015-08-01",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55bcec55ed2a89db81000800.jpeg"
+   }
+  }
+ ]
+}

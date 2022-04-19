@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Baw Baw Np Fauna",
+ "description": "All users for [baw_baw_np_-_fauna]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fbaw_baw_np_-_fauna%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/baw_baw_np_-_fauna/index.json",
+ "items": [
+  {
+   "title": "koolah",
+   "content_text": "8 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ab3af2ed2a89b31c000047.jpg",
+   "date_published": "2016-01-29T10:13:05.000+00:00",
+   "date_modified": "2016-01-29T10:13:05.000+00:00",
+   "_geo": {
+    "coordinates": [
+     146.312,
+     -37.839
+    ]
+   },
+   "_meta": {
+    "itemCount": 8,
+    "date": "2016-01-29",
+    "name": "baw_baw_np_-_fauna",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/koolah/collections/baw_baw_np_-_fauna/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fcollections%2Fbaw_baw_np_-_fauna%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

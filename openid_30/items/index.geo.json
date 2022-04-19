@@ -1,0 +1,21 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.020593,
+     -37.961092
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_30/items/ns/2011/53b3984fe35eb1298400e4e4.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_30%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e4e4.yaml",
+    "date": "2011-03-15",
+    "title": "Bossiaea cinerea"
+   }
+  }
+ ]
+}

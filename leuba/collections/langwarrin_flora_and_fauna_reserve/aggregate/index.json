@@ -1,0 +1,47 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Langwarrin flora and fauna reserve",
+ "description": "",
+ "author": {
+  "name": "leuba",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fcollections%2Flangwarrin_flora_and_fauna_reserve%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/leuba/collections/langwarrin_flora_and_fauna_reserve/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/leuba/items/ns/2015/54f98f22ed2a89097e00055d.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fitems%2Fns%2F2015%2F54f98f22ed2a89097e00055d.yaml",
+   "title": "Andrenosoma queenslandi",
+   "content_text": "This black robber fly was about 15 mm long. The thorax was flat along the midline and symmetrically lumpy on either side. Eyes were large and facing upwards. Stiff white bristles seen between the eyes and on the face. Legs also had stiff white setae. Wings were dark and folded over the abdomen which had white spots on the lateral aspects of some of the tergites.\r\nSpotted flying around dried logs ( Langwarrin Flora & Fauna Reserve).\r\nSynonym: Laphria maura \r\n",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f98f20ed2a89097e00055a.jpg",
+   "date_published": "2015-03-06T11:27:30.000+00:00",
+   "date_modified": "2015-03-07T01:08:34.000+00:00",
+   "tags": [
+    "id~Andrenosoma queenslandi"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.176826,
+     -38.171257
+    ]
+   },
+   "_meta": {
+    "date": "2015-02-17",
+    "imageCount": 3
+   },
+   "author": {
+    "name": "leuba",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

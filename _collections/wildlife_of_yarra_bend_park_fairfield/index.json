@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Wildlife Of Yarra Bend Park Fairfield",
+ "description": "All users for [wildlife_of_yarra_bend_park_fairfield]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fwildlife_of_yarra_bend_park_fairfield%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/wildlife_of_yarra_bend_park_fairfield/index.json",
+ "items": [
+  {
+   "title": "martinl",
+   "content_text": "5 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f159e9ed2a8983c20000d0.JPG",
+   "date_published": "2015-02-28T06:02:17.000+00:00",
+   "date_modified": "2015-02-28T06:02:17.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.030003,
+     -37.793101
+    ]
+   },
+   "_meta": {
+    "itemCount": 5,
+    "date": "2015-02-28",
+    "name": "wildlife_of_yarra_bend_park_fairfield",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/martinl/collections/wildlife_of_yarra_bend_park_fairfield/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmartinl%2Fcollections%2Fwildlife_of_yarra_bend_park_fairfield%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

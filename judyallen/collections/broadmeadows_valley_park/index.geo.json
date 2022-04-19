@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.905891,
+     -37.676993
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/judyallen/items/ns/2012/53b39856e35eb1298400fc46.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjudyallen%2Fitems%2Fns%2F2012%2F53b39856e35eb1298400fc46.yaml",
+    "date": "2012-07-15",
+    "title": "Austracris guttulosa",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb12984013666.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.906836,
+     -37.676824
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/judyallen/items/ns/2012/53b39856e35eb1298400fb96.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjudyallen%2Fitems%2Fns%2F2012%2F53b39856e35eb1298400fb96.yaml",
+    "date": "2011-10-02",
+    "title": "Gonocarpus tetragynus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb1298401354e.jpg"
+   }
+  }
+ ]
+}

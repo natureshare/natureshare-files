@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.154314,
+     -38.34567
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bernie_l/items/ns/2018/5bc2f249ed2a89c10e0042e3.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbernie_l%2Fitems%2Fns%2F2018%2F5bc2f249ed2a89c10e0042e3.yaml",
+    "date": "2018-10-11",
+    "title": "Myrmecia nigriscapa",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bc2f2d6ed2a89280700011e.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.159904,
+     -38.411988
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bernie_l/items/ns/2018/5bb48198ed2a8968760000d0.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbernie_l%2Fitems%2Fns%2F2018%2F5bb48198ed2a8968760000d0.yaml",
+    "date": "2018-09-23",
+    "title": "Caladenia catenata s.s.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bb4819ded2a8928070000f5.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.159131,
+     -38.411719
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bernie_l/items/ns/2018/5bb480a2ed2a89c10e00050a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbernie_l%2Fitems%2Fns%2F2018%2F5bb480a2ed2a89c10e00050a.yaml",
+    "date": "2018-09-23",
+    "title": "Caladenia catenata s.s.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bb480a8ed2a891efe0000e7.JPG"
+   }
+  }
+ ]
+}

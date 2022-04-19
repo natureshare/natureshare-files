@@ -1,0 +1,75 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Metcalfe Flora Reserve Plants",
+ "description": "",
+ "author": {
+  "name": "david_francis",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fmetcalfe_flora_reserve_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/david_francis/collections/metcalfe_flora_reserve_plants/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/david_francis/items/ns/2014/53d35bc6e35eb1b0f6000049.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2014%2F53d35bc6e35eb1b0f6000049.yaml",
+   "title": "Craspedia variabilis",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53d35bc6e35eb1b0f6000047.jpg",
+   "date_published": "2014-07-26T07:41:58.000+00:00",
+   "date_modified": "2014-07-27T00:24:35.000+00:00",
+   "tags": [
+    "id~Craspedia variabilis",
+    "tag~inflorescence",
+    "tag~leaf"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.451319,
+     -37.135669
+    ]
+   },
+   "_meta": {
+    "date": "2014-07-22",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "david_francis",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/david_francis/items/ns/2014/53ce6175e35eb1a8d3000005.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2014%2F53ce6175e35eb1a8d3000005.yaml",
+   "title": "Acacia gunnii",
+   "content_text": "Acacia gunnii (Ploughshare Wattle) \r\nSpreading, erect or prostrate shrub to 1 m high \r\nFlowers Jun - Oct",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53ce6175e35eb1a8d3000001.jpg",
+   "date_published": "2014-07-22T13:04:53.000+00:00",
+   "date_modified": "2016-02-16T10:21:33.000+00:00",
+   "tags": [
+    "id~Acacia gunnii",
+    "tag~flower",
+    "tag~leaf"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.451044,
+     -37.135108
+    ]
+   },
+   "_meta": {
+    "date": "2014-07-22",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "david_francis",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

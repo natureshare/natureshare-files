@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Collections</title>
+  <id>https://files.natureshare.org/openid_42/collections/index.xml</id>
+  <updated>2018-09-17T10:27:00.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/openid_42/collections/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/openid_42/collections/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fcollections%2Findex.json"/>
+  <author>
+    <name>openid_42</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 openid_42</rights>
+  <entry>
+    <id>https://files.natureshare.org/openid_42/collections/brisbane_ranges_reptiles_and_amphibians/aggregate/index.json</id>
+    <title>Brisbane Ranges - Reptiles and Amphibians</title>
+    <updated>2018-09-17T10:27:00.000+00:00</updated>
+    <published>2018-09-17T10:27:00.000+00:00</published>
+    <author>
+      <name>openid_42</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">15 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fcollections%2Fbrisbane_ranges_reptiles_and_amphibians%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/openid_42/collections/brisbane_ranges_mammals/aggregate/index.json</id>
+    <title>Brisbane Ranges - Mammals</title>
+    <updated>2018-03-31T05:04:44.000+00:00</updated>
+    <published>2018-03-31T05:04:44.000+00:00</published>
+    <author>
+      <name>openid_42</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">32 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fcollections%2Fbrisbane_ranges_mammals%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/openid_42/collections/wildlife_and_native_plants_of_staughton_vale_road/aggregate/index.json</id>
+    <title>Wildlife and native plants of Staughton Vale Road</title>
+    <updated>2011-10-14T16:04:20.000+00:00</updated>
+    <published>2011-10-14T16:04:20.000+00:00</published>
+    <author>
+      <name>openid_42</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">10 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fcollections%2Fwildlife_and_native_plants_of_staughton_vale_road%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/openid_42/collections/brisbane_ranges_birds/aggregate/index.json</id>
+    <title>Brisbane ranges birds</title>
+    <updated>2011-10-12T13:11:11.000+00:00</updated>
+    <published>2011-10-12T13:11:11.000+00:00</published>
+    <author>
+      <name>openid_42</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">2 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fcollections%2Fbrisbane_ranges_birds%2Faggregate%2Findex.json"/>
+  </entry>
+</feed>

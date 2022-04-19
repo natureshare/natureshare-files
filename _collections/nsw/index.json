@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Nsw",
+ "description": "All users for [nsw]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fnsw%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/nsw/index.json",
+ "items": [
+  {
+   "title": "reilly",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/thumbnails/reilly/items/dropbox/2020/img_4853.jpg",
+   "date_published": "2020-03-13T07:49:17.000+00:00",
+   "date_modified": "2020-03-13T07:49:17.000+00:00",
+   "_geo": {
+    "coordinates": [
+     148.108,
+     -35.068
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2020-03-13",
+    "name": "nsw",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/reilly/collections/nsw/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fcollections%2Fnsw%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/russell/collections/test_collection/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Test Collection</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Ftest_collection%2Faggregate%2Findex.json</link>
+    <description>This is a test collection.</description>
+    <language>en-us</language>
+    <copyright>© 2022 russell</copyright>
+    <pubDate>Tue, 04 Dec 2018 04:46:14 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Phrissogonus laticostata</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2015%2F552b5b65ed2a8961ed000010.yaml</link>
+      <dc:creator>reilly</dc:creator>
+      <description>-</description>
+      <category>id~Phrissogonus laticostata</category>
+      <category>tag~moth</category>
+      <guid isPermaLink="false">https://files.natureshare.org/reilly/items/ns/2015/552b5b65ed2a8961ed000010.yaml</guid>
+      <pubDate>Mon, 13 Apr 2015 06:00:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>6 ids</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2018%2Ftest_collection_species_list.yaml</link>
+      <dc:creator>reilly</dc:creator>
+      <description>Species list for collection.</description>
+      <category>id~Acacia X grayana</category>
+      <category>id~Macropus giganteus</category>
+      <category>id~Phascolarctos cinereus</category>
+      <category>id~Tachyglossus aculeatus</category>
+      <category>id~Tiliqua rugosa</category>
+      <category>id~Vombatus ursinus</category>
+      <category>tag~species-list</category>
+      <guid isPermaLink="false">https://files.natureshare.org/reilly/items/ns/2018/test_collection_species_list.yaml</guid>
+      <pubDate>Mon, 17 May 2010 00:34:01 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

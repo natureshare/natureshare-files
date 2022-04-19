@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Flora Of The Western Grassland Reserve",
+ "description": "All users for [flora_of_the_western_grassland_reserve]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fflora_of_the_western_grassland_reserve%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/flora_of_the_western_grassland_reserve/index.json",
+ "items": [
+  {
+   "title": "openid_7",
+   "content_text": "12 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb1298401208b.jpg",
+   "date_published": "2011-09-15T13:48:21.000+00:00",
+   "date_modified": "2011-09-15T13:48:21.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.571753,
+     -37.831277
+    ]
+   },
+   "_meta": {
+    "itemCount": 12,
+    "date": "2011-09-15",
+    "name": "flora_of_the_western_grassland_reserve",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_7/collections/flora_of_the_western_grassland_reserve/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fcollections%2Fflora_of_the_western_grassland_reserve%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

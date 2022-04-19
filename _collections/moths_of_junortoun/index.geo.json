@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.381503,
+     -36.77842
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/andrewbrown/collections/moths_of_junortoun/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandrewbrown%2Fcollections%2Fmoths_of_junortoun%2Faggregate%2Findex.json",
+    "date": "2018-06-11",
+    "title": "andrewbrown",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b1e6d2eed2a897570000018.JPG"
+   }
+  }
+ ]
+}

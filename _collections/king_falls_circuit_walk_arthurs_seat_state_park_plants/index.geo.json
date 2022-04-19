@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.94436,
+     -38.373134
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/king_falls_circuit_walk_arthurs_seat_state_park_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fking_falls_circuit_walk_arthurs_seat_state_park_plants%2Faggregate%2Findex.json",
+    "date": "2011-03-15",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb129840117a0.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.945,
+     -38.372
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/cclarke/collections/king_falls_circuit_walk_arthurs_seat_state_park_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fcollections%2Fking_falls_circuit_walk_arthurs_seat_state_park_plants%2Faggregate%2Findex.json",
+    "date": "2011-03-15",
+    "title": "cclarke",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb129840117a0.jpg"
+   }
+  }
+ ]
+}

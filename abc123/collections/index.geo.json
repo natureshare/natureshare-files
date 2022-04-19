@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.944,
+     -37.783
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/abc123/collections/royal_park_parkville/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fcollections%2Froyal_park_parkville%2Faggregate%2Findex.json",
+    "date": "2015-06-09",
+    "title": "Royal park parkville",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55783a8fed2a8918dd0008e4.JPG"
+   }
+  }
+ ]
+}

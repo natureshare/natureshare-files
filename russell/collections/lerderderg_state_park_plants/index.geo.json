@@ -1,0 +1,72 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.412589,
+     -37.527681
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2017/lerderderg_state_park_plants_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2017%2Flerderderg_state_park_plants_species_list.yaml",
+    "date": "2017-10-12",
+    "title": "417 ids"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.420115,
+     -37.611912
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2014/53b3985ae35eb12984010cb9.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2F53b3985ae35eb12984010cb9.yaml",
+    "date": "2014-03-25",
+    "title": "Rhagodia parabolica",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb129840150b9.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.418228,
+     -37.60997
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2014/53b3985ae35eb12984010c96.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2F53b3985ae35eb12984010c96.yaml",
+    "date": "2014-03-25",
+    "title": "Acacia rostriformis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb129840150b8.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.422745,
+     -37.613533
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2012/53b39855e35eb1298400face.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2012%2F53b39855e35eb1298400face.yaml",
+    "date": "2012-10-14",
+    "title": "Westringia glabra",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb1298401343e.jpg"
+   }
+  }
+ ]
+}

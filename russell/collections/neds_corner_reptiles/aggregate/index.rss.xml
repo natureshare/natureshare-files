@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/russell/collections/neds_corner_reptiles/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Neds corner reptiles</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fneds_corner_reptiles%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 russell</copyright>
+    <pubDate>Wed, 02 Jul 2014 19:41:47 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Pogona vitticeps</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39859e35eb1298401074e.yaml</link>
+      <dc:creator>russell</dc:creator>
+      <description>Basking on a 1.5m saltbush.</description>
+      <category>id~Pogona vitticeps</category>
+      <category>tag~basking</category>
+      <guid isPermaLink="false">https://files.natureshare.org/russell/items/ns/2013/53b39859e35eb1298401074e.yaml</guid>
+      <pubDate>Mon, 18 Nov 2013 17:55:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nephrurus milii</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f505.yaml</link>
+      <dc:creator>russell</dc:creator>
+      <description>-</description>
+      <category>id~Nephrurus milii</category>
+      <guid isPermaLink="false">https://files.natureshare.org/russell/items/ns/2012/53b39854e35eb1298400f505.yaml</guid>
+      <pubDate>Thu, 12 Apr 2012 18:08:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chasmina pulchra, Gehyra variegata</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f4a6.yaml</link>
+      <dc:creator>russell</dc:creator>
+      <description>Gecko hiding behind the outside light and snacking on moths as they flew in.</description>
+      <category>id~Chasmina pulchra</category>
+      <category>id~Gehyra variegata</category>
+      <category>tag~feeding</category>
+      <guid isPermaLink="false">https://files.natureshare.org/russell/items/ns/2012/53b39854e35eb1298400f4a6.yaml</guid>
+      <pubDate>Tue, 03 Apr 2012 14:00:07 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

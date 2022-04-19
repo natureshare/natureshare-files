@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.37,
+     -38.694
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jeflom/collections/great_otway_np_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjeflom%2Fcollections%2Fgreat_otway_np_plants%2Faggregate%2Findex.json",
+    "date": "2017-10-04",
+    "title": "Great otway np plants",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59d4a8b1ed2a8939840003e3.JPG"
+   }
+  }
+ ]
+}

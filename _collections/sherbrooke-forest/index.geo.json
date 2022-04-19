@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.3703,
+     -37.895702
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jylu/collections/sherbrooke-forest/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fcollections%2Fsherbrooke-forest%2Faggregate%2Findex.json",
+    "date": "2016-09-23",
+    "title": "jylu",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e4f130ed2a89b3fe00007a.JPG"
+   }
+  }
+ ]
+}

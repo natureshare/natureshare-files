@@ -1,0 +1,104 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "openid_42",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_42/collections/index.json",
+ "items": [
+  {
+   "title": "Brisbane Ranges - Reptiles and Amphibians",
+   "content_text": "15 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ac88fc1ed2a8929e700007d.jpg",
+   "date_published": "2018-09-17T10:27:00.000+00:00",
+   "date_modified": "2018-09-17T10:27:00.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.27,
+     -37.825
+    ]
+   },
+   "_meta": {
+    "itemCount": 15,
+    "date": "2018-09-17",
+    "name": "brisbane_ranges_reptiles_and_amphibians",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_42/collections/brisbane_ranges_reptiles_and_amphibians/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fcollections%2Fbrisbane_ranges_reptiles_and_amphibians%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Brisbane Ranges - Mammals",
+   "content_text": "32 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5abf167eed2a89cf90000055.jpg",
+   "date_published": "2018-03-31T05:04:44.000+00:00",
+   "date_modified": "2018-03-31T05:04:44.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.28,
+     -37.815
+    ]
+   },
+   "_meta": {
+    "itemCount": 32,
+    "date": "2018-03-31",
+    "name": "brisbane_ranges_mammals",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_42/collections/brisbane_ranges_mammals/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fcollections%2Fbrisbane_ranges_mammals%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Wildlife and native plants of Staughton Vale Road",
+   "content_text": "10 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840122cc.jpg",
+   "date_published": "2011-10-14T16:04:20.000+00:00",
+   "date_modified": "2011-10-14T16:04:20.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.282428,
+     -37.843038
+    ]
+   },
+   "_meta": {
+    "itemCount": 10,
+    "date": "2011-10-14",
+    "name": "wildlife_and_native_plants_of_staughton_vale_road",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_42/collections/wildlife_and_native_plants_of_staughton_vale_road/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fcollections%2Fwildlife_and_native_plants_of_staughton_vale_road%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Brisbane ranges birds",
+   "content_text": "2 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840122b6.jpg",
+   "date_published": "2011-10-12T13:11:11.000+00:00",
+   "date_modified": "2011-10-12T13:11:11.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2011-10-12",
+    "name": "brisbane_ranges_birds",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_42/collections/brisbane_ranges_birds/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fcollections%2Fbrisbane_ranges_birds%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 4,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

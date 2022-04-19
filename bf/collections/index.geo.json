@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.068585,
+     -37.623905
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bf/collections/millbrook/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbf%2Fcollections%2Fmillbrook%2Faggregate%2Findex.json",
+    "date": "2018-11-02",
+    "title": "Millbrook",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bdc5c53ed2a89c6aa000126.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.223,
+     -37.868
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bf/collections/brisbane_ranges_national_park_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbf%2Fcollections%2Fbrisbane_ranges_national_park_plants%2Faggregate%2Findex.json",
+    "date": "2018-08-01",
+    "title": "Brisbane ranges national park plants",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b61cb37ed2a89c6aa000072.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.717936,
+     -37.308543
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bf/collections/mount_beckworth/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbf%2Fcollections%2Fmount_beckworth%2Faggregate%2Findex.json",
+    "date": "2018-08-01",
+    "title": "Mount Beckworth Scenic Reserve",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b61b784ed2a892807000088.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.069,
+     -37.624
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bf/collections/victorian_volcanic_plains_native_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbf%2Fcollections%2Fvictorian_volcanic_plains_native_plants%2Faggregate%2Findex.json",
+    "date": "2018-07-30",
+    "title": "Victorian volcanic plains native plants",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b5e6105ed2a891efe000070.jpg"
+   }
+  }
+ ]
+}

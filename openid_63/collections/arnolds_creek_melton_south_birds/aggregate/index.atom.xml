@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Arnolds Creek (Melton South) birds</title>
+  <id>https://files.natureshare.org/openid_63/collections/arnolds_creek_melton_south_birds/aggregate/index.xml</id>
+  <updated>2015-04-07T08:47:35.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/openid_63/collections/arnolds_creek_melton_south_birds/aggregate/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/openid_63/collections/arnolds_creek_melton_south_birds/aggregate/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fcollections%2Farnolds_creek_melton_south_birds%2Faggregate%2Findex.json"/>
+  <author>
+    <name>openid_63</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 openid_63</rights>
+  <subtitle>Spotted Pardalote in Eynesbury</subtitle>
+  <entry>
+    <id>https://files.natureshare.org/openid_63/items/ns/2015/arnolds_creek_melton_south_birds_species_list.yaml</id>
+    <title>67 ids</title>
+    <updated>2015-04-07T08:47:35.000+00:00</updated>
+    <published>2011-08-25T20:10:50.000+00:00</published>
+    <author>
+      <name>openid_63</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Species list for collection.</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fitems%2Fns%2F2015%2Farnolds_creek_melton_south_birds_species_list.yaml"/>
+    <category term="id~Acanthiza chrysorrhoa"/>
+    <category term="id~Acanthiza nana"/>
+    <category term="id~Accipiter fasciatus"/>
+    <category term="id~Acridotheres tristis"/>
+    <category term="id~Alauda arvensis"/>
+    <category term="id~Anas platyrhynchos"/>
+    <category term="id~Anas superciliosa"/>
+    <category term="id~Anthochaera carunculata"/>
+    <category term="id~Anthus novaeseelandiae"/>
+    <category term="id~Aquila audax"/>
+    <category term="id~Ardea modesta"/>
+    <category term="id~Cacatua galerita"/>
+    <category term="id~Cacatua sanguinea"/>
+    <category term="id~Cacatua tenuirostris"/>
+    <category term="id~Carduelis carduelis"/>
+    <category term="id~Carduelis chloris"/>
+    <category term="id~Chenonetta jubata"/>
+    <category term="id~Chrysococcyx basalis"/>
+    <category term="id~Cisticola exilis"/>
+    <category term="id~Colluricincla harmonica"/>
+    <category term="id~Columba livia"/>
+    <category term="id~Coracina novaehollandiae"/>
+    <category term="id~Corvus mellori"/>
+    <category term="id~Dacelo novaeguineae"/>
+    <category term="id~Dicaeum hirundinaceum"/>
+    <category term="id~Egretta novaehollandiae"/>
+    <category term="id~Elanus axillaris"/>
+    <category term="id~Eolophus roseicapilla"/>
+    <category term="id~Epthianura albifrons"/>
+    <category term="id~Falco berigora"/>
+    <category term="id~Falco cenchroides"/>
+    <category term="id~Falco longipennis"/>
+    <category term="id~Gallinago hardwickii"/>
+    <category term="id~Glossopsitta concinna"/>
+    <category term="id~Glossopsitta porphyrocephala"/>
+    <category term="id~Grallina cyanoleuca"/>
+    <category term="id~Haliastur sphenurus"/>
+    <category term="id~Hieraaetus morphnoides"/>
+    <category term="id~Hirundo neoxena"/>
+    <category term="id~Lichenostomus penicillatus"/>
+    <category term="id~Malurus cyaneus"/>
+    <category term="id~Microcarbo melanoleucos"/>
+    <category term="id~Neochmia temporalis"/>
+    <category term="id~Ocyphaps lophotes"/>
+    <category term="id~Ogyris abrota"/>
+    <category term="id~Pachycephala pectoralis"/>
+    <category term="id~Pachycephala rufiventris"/>
+    <category term="id~Pardalotus punctatus"/>
+    <category term="id~Pardalotus striatus"/>
+    <category term="id~Passer domesticus"/>
+    <category term="id~Petroica boodang"/>
+    <category term="id~Phylidonyris novaehollandiae"/>
+    <category term="id~Platycercus eximius"/>
+    <category term="id~Psephotus haematonotus"/>
+    <category term="id~Rhipidura albiscarpa"/>
+    <category term="id~Rhipidura leucophrys"/>
+    <category term="id~Rhipidura rufifrons"/>
+    <category term="id~Sericornis frontalis"/>
+    <category term="id~Smicrornis brevirostris"/>
+    <category term="id~Streptopelia chinensis"/>
+    <category term="id~Sturnus vulgaris"/>
+    <category term="id~Taeniopygia guttata"/>
+    <category term="id~Threskiornis spinicollis"/>
+    <category term="id~Todiramphus sanctus"/>
+    <category term="id~Trichoglossus haematodus"/>
+    <category term="id~Turdus merula"/>
+    <category term="id~Zosterops lateralis"/>
+    <category term="tag~species-list"/>
+  </entry>
+</feed>

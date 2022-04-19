@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.687744,
+     -37.464363
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/55dbb5f2ed2a897ee1000006.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F55dbb5f2ed2a897ee1000006.yaml",
+    "date": "2015-08-22",
+    "title": "Cymbonotus preissianus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55dbb609ed2a890d95000005.jpeg"
+   }
+  }
+ ]
+}

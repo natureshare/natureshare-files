@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.65621,
+     -37.429351
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_33/items/ns/2011/53b3984fe35eb1298400e587.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_33%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e587.yaml",
+    "date": "2011-04-05",
+    "title": "Nyctophilus geoffroyi",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb1298401187a.jpg"
+   }
+  }
+ ]
+}

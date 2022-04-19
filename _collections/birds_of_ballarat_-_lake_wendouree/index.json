@@ -1,0 +1,40 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Birds Of Ballarat Lake Wendouree",
+ "description": "All users for [birds_of_ballarat_-_lake_wendouree]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fbirds_of_ballarat_-_lake_wendouree%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/birds_of_ballarat_-_lake_wendouree/index.json",
+ "items": [
+  {
+   "title": "giorgiod",
+   "content_text": "2 items",
+   "date_published": "2016-09-30T16:58:17.000+00:00",
+   "date_modified": "2016-09-30T16:58:17.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.833404,
+     -37.550549
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2016-09-30",
+    "name": "birds_of_ballarat_-_lake_wendouree",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/giorgiod/collections/birds_of_ballarat_-_lake_wendouree/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fcollections%2Fbirds_of_ballarat_-_lake_wendouree%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/suzanne/collections/strange_fungi_and_lichen/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Strange fungi and lichen</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsuzanne%2Fcollections%2Fstrange_fungi_and_lichen%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 suzanne</copyright>
+    <pubDate>Sat, 27 Sep 2014 23:09:44 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Mycetozoa spp.</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fsuzanne%2Fitems%2Fns%2F2014%2F5424f0eae35eb1cc74000142.yaml</link>
+      <dc:creator>suzanne</dc:creator>
+      <description>Teresa, on Bowerbird website, has confirmed my recent suspicion that these photos are of the sporangium of a Slime mould.  She called them a Myxomycetes and said they are possibly a Physarum species.&#xD;
+These 'black blobs' were on the Microlaena stipoides (Weeping grass) for only a few days, then disappeared.  They covered an area of at least 1.5 metres, possibly more. </description>
+      <category>id~Mycetozoa spp.</category>
+      <category>tag~slime-mould</category>
+      <guid isPermaLink="false">https://files.natureshare.org/suzanne/items/ns/2014/5424f0eae35eb1cc74000142.yaml</guid>
+      <pubDate>Fri, 26 Sep 2014 04:51:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fuligo septica</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fsuzanne%2Fitems%2Fns%2F2014%2F5422a314e35eb17d1900010e.yaml</link>
+      <dc:creator>suzanne</dc:creator>
+      <description>This is the sporangium producing phase of the slime mould Fuligo septica.</description>
+      <category>id~Fuligo septica</category>
+      <category>tag~slime-mould</category>
+      <category>tag~sporangia</category>
+      <guid isPermaLink="false">https://files.natureshare.org/suzanne/items/ns/2014/5422a314e35eb17d1900010e.yaml</guid>
+      <pubDate>Wed, 24 Sep 2014 10:55:16 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

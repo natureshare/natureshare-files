@@ -1,0 +1,97 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Birds Of The Western Treatment Plant Werribee",
+ "description": "",
+ "author": {
+  "name": "tsnata",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fbirds_of_the_western_treatment_plant_werribee%2Findex.json",
+ "feed_url": "https://files.natureshare.org/tsnata/collections/birds_of_the_western_treatment_plant_werribee/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/tsnata/items/ns/2016/56bd5c00ed2a89c42d000144.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2016%2F56bd5c00ed2a89c42d000144.yaml",
+   "title": "Ardea modesta",
+   "content_text": "Eastern great egret with unidentified frog.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56bd5c0ded2a89d4f800000a.jpg",
+   "date_published": "2016-02-12T04:23:49.000+00:00",
+   "date_modified": "2016-02-12T11:56:27.000+00:00",
+   "tags": [
+    "id~Ardea modesta"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.566093,
+     -38.024325
+    ]
+   },
+   "_meta": {
+    "date": "2016-02-11",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "tsnata",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/tsnata/items/ns/2016/56bd59c1ed2a89c42d00013e.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2016%2F56bd59c1ed2a89c42d00013e.yaml",
+   "title": "Acrocephalus stentoreus",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56bd59cbed2a893b01000007.jpg",
+   "date_published": "2016-02-12T04:12:22.000+00:00",
+   "date_modified": "2016-02-12T07:41:37.000+00:00",
+   "tags": [
+    "id~Acrocephalus stentoreus"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.574322,
+     -38.010412
+    ]
+   },
+   "_meta": {
+    "date": "2016-02-11",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "tsnata",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/tsnata/items/ns/2016/56bd576aed2a893a1e00003d.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2016%2F56bd576aed2a893a1e00003d.yaml",
+   "title": "Milvus migrans",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56bd5774ed2a899c67000007.jpg",
+   "date_published": "2016-02-12T04:00:08.000+00:00",
+   "date_modified": "2016-02-12T04:00:08.000+00:00",
+   "tags": [
+    "id~Milvus migrans"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.539917,
+     -37.995092
+    ]
+   },
+   "_meta": {
+    "date": "2016-02-11",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "tsnata",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

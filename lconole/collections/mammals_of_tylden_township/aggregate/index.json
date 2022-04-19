@@ -1,0 +1,139 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Mammals of Tylden township",
+ "description": "Species recorded within 2km of the Tylden General Store - essentially the township boundaries.",
+ "author": {
+  "name": "lconole",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fcollections%2Fmammals_of_tylden_township%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/lconole/collections/mammals_of_tylden_township/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/lconole/items/ns/2015/5590cc48ed2a8918dd001586.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2F5590cc48ed2a8918dd001586.yaml",
+   "title": "Macropus giganteus",
+   "content_text": "Recent site works at the quarry, the kangaroos spending more time in our yard! 7 individuals, various ages including with young in pouch.",
+   "date_published": "2015-06-29T04:40:40.000+00:00",
+   "date_modified": "2015-06-29T04:40:40.000+00:00",
+   "tags": [
+    "id~Macropus giganteus",
+    "tag~breeding"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.416393,
+     -37.327645
+    ]
+   },
+   "_meta": {
+    "date": "2015-06-27"
+   },
+   "author": {
+    "name": "lconole",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/lconole/items/ns/2015/54f64522ed2a89ef1100001a.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2F54f64522ed2a89ef1100001a.yaml",
+   "title": "Vespadelus darlingtoni",
+   "content_text": "Entered house through gap in ceiling.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f64522ed2a89ef11000019.JPG",
+   "date_published": "2015-03-03T23:34:58.000+00:00",
+   "date_modified": "2015-03-04T02:16:12.000+00:00",
+   "tags": [
+    "id~Vespadelus darlingtoni",
+    "tag~adult-female"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.415686,
+     -37.32785
+    ]
+   },
+   "_meta": {
+    "date": "2014-05-26",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "lconole",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/lconole/items/ns/2015/54f64406ed2a89b7cf000019.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2F54f64406ed2a89b7cf000019.yaml",
+   "title": "Vespadelus vulturnus",
+   "content_text": "Came in through the bathroom window (but it's not a member of The Beatles).",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f64406ed2a89b7cf000018.JPG",
+   "date_published": "2015-03-03T23:30:14.000+00:00",
+   "date_modified": "2015-03-04T02:16:09.000+00:00",
+   "tags": [
+    "id~Vespadelus vulturnus",
+    "tag~male-adult"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.415838,
+     -37.327819
+    ]
+   },
+   "_meta": {
+    "date": "2015-02-21",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "lconole",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/lconole/items/ns/2017/mammals_of_tylden_township_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2017%2Fmammals_of_tylden_township_species_list.yaml",
+   "title": "15 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2015-03-01T07:09:27.000+00:00",
+   "date_modified": "2017-01-16T10:44:46.000+00:00",
+   "tags": [
+    "id~Chalinolobus gouldii",
+    "id~Chalinolobus morio",
+    "id~Lepus europeaus",
+    "id~Macropus giganteus",
+    "id~Mus musculus",
+    "id~Nyctophilus geoffroyi",
+    "id~Oryctolagus cuniculus",
+    "id~Pseudocheirus peregrinus",
+    "id~Tachyglossus aculeatus",
+    "id~Tadarida australis",
+    "id~Vespadelus darlingtoni",
+    "id~Vespadelus regulus",
+    "id~Vespadelus vulturnus",
+    "id~Vulpes vulpes",
+    "id~Wallabia bicolor",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.407285,
+     -37.326193
+    ]
+   },
+   "_meta": {
+    "date": "2017-01-16"
+   },
+   "author": {
+    "name": "lconole",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 4,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": "<p>Species recorded within 2km of the Tylden General Store - essentially the township boundaries.</p>\n"
+ }
+}

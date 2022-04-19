@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/steve/items/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Observations</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsteve%2Fitems%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 steve</copyright>
+    <pubDate>Mon, 15 May 2017 12:20:53 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Apina callisto</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fsteve%2Fitems%2Fns%2F2017%2F59182a5bed2a893e6b0007d7.yaml</link>
+      <dc:creator>steve</dc:creator>
+      <description>Amazingly striking markings. Found in the stubble. </description>
+      <category>id~Apina callisto</category>
+      <guid isPermaLink="false">https://files.natureshare.org/steve/items/ns/2017/59182a5bed2a893e6b0007d7.yaml</guid>
+      <pubDate>Sun, 14 May 2017 10:05:24 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

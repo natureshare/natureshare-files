@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.707966,
+     -36.878659
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/collections/mt_ida_heathcote_graytown_national_park/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fmt_ida_heathcote_graytown_national_park%2Faggregate%2Findex.json",
+    "date": "2016-10-07",
+    "title": "david_francis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f780fded2a89b3fe0000ec.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.707966,
+     -36.878659
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_73/collections/mt_ida_heathcote_graytown_national_park/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_73%2Fcollections%2Fmt_ida_heathcote_graytown_national_park%2Faggregate%2Findex.json",
+    "date": "2016-10-07",
+    "title": "openid_73",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f780fded2a89b3fe0000ec.jpg"
+   }
+  }
+ ]
+}

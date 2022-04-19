@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.40055,
+     -35.88823
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/sundaybooth/collections/gunbower_national_park_fauna/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsundaybooth%2Fcollections%2Fgunbower_national_park_fauna%2Faggregate%2Findex.json",
+    "date": "2014-10-08",
+    "title": "sundaybooth",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5434e984e35eb18edd00000b.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.411,
+     -35.9
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/collections/gunbower_national_park_fauna/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fgunbower_national_park_fauna%2Faggregate%2Findex.json",
+    "date": "2014-10-05",
+    "title": "jamesbooth",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/543108b8e35eb1bbd0000023.JPG"
+   }
+  }
+ ]
+}

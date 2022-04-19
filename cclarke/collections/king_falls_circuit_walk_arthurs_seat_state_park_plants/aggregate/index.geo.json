@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.945116,
+     -38.372608
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/cclarke/items/ns/2011/53b3984fe35eb1298400e4ca.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e4ca.yaml",
+    "date": "2011-03-11",
+    "title": "Pteris tremula",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb129840117a0.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.944472,
+     -38.371992
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/cclarke/items/ns/2011/53b3984fe35eb1298400e4c8.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e4c8.yaml",
+    "date": "2011-03-11",
+    "title": "Gleichenia dicarpa",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb1298401179f.jpg"
+   }
+  }
+ ]
+}

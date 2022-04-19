@@ -1,0 +1,55 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.595215,
+     -37.397545
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2015/dragonflies_of_the_macedon_range_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Fdragonflies_of_the_macedon_range_species_list.yaml",
+    "date": "2015-04-07",
+    "title": "5 ids"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.595215,
+     -37.397545
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2013/53b39856e35eb1298400fdaf.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400fdaf.yaml",
+    "date": "2013-01-06",
+    "title": "Orthetrum caledonicum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb129840138ae.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.602005,
+     -37.396576
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2013/53b39856e35eb1298400fd8d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400fd8d.yaml",
+    "date": "2013-01-06",
+    "title": "Eusynthemis guttata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013862.jpg"
+   }
+  }
+ ]
+}

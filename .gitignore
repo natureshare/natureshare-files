@@ -19,3 +19,6 @@ _scripts
 ## Indexes:
 # !*.json
 # !*.xml
+!*.json
+!*.xml
+!CNAME

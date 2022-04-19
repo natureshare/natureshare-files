@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.028458,
+     -37.583766
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_127/collections/merri_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_127%2Fcollections%2Fmerri_creek%2Faggregate%2Findex.json",
+    "date": "2019-10-12",
+    "title": "openid_127",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-10-13/dec14_10_cburngl_z_cic_imgp1489_cropns.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.966,
+     -37.635
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/wendymoore/collections/merri_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwendymoore%2Fcollections%2Fmerri_creek%2Faggregate%2Findex.json",
+    "date": "2019-10-12",
+    "title": "wendymoore",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-10-13/dec14_10_cburngl_z_cic_imgp1489_cropns.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.979,
+     -37.708
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/collections/merri_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fmerri_creek%2Faggregate%2Findex.json",
+    "date": "2011-08-28",
+    "title": "jamesbooth",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011f51.jpg"
+   }
+  }
+ ]
+}

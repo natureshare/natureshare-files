@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Neds Corner Flora Survey Quadrat 0301</title>
+  <id>https://files.natureshare.org/chrisl/collections/neds_corner_flora_survey_quadrat_0301/aggregate/index.xml</id>
+  <updated>2015-10-06T03:55:12.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/chrisl/collections/neds_corner_flora_survey_quadrat_0301/aggregate/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/chrisl/collections/neds_corner_flora_survey_quadrat_0301/aggregate/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fcollections%2Fneds_corner_flora_survey_quadrat_0301%2Faggregate%2Findex.json"/>
+  <author>
+    <name>chrisl</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 chrisl</rights>
+  <subtitle>Cattle Bush site.&#xD;
+&#xD;
+A 20x20m flora survey quadrat that was set up in 2003, shortly after the acquisition of Neds Corner Station by Trust for Nature. This collection is a full list of all flora observed in all survey years within the quadrat. Record sheets are held by Trust for Nature.</subtitle>
+  <entry>
+    <id>https://files.natureshare.org/chrisl/items/ns/2015/neds_corner_flora_survey_quadrat_0301_species_list.yaml</id>
+    <title>59 ids</title>
+    <updated>2015-10-06T03:55:12.000+00:00</updated>
+    <published>2015-10-06T01:55:59.000+00:00</published>
+    <author>
+      <name>chrisl</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Species list for collection.</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2015%2Fneds_corner_flora_survey_quadrat_0301_species_list.yaml"/>
+    <category term="id~Actinobole uliginosum"/>
+    <category term="id~Alectryon oleifolius subsp. canescens"/>
+    <category term="id~Angianthus tomentosus"/>
+    <category term="id~Atriplex limbata"/>
+    <category term="id~Atriplex lindleyi"/>
+    <category term="id~Atriplex pumilio"/>
+    <category term="id~Austrostipa scabra subsp. falcata"/>
+    <category term="id~Brachyscome lineariloba"/>
+    <category term="id~Bromus rubens"/>
+    <category term="id~Bulbine semibarbata"/>
+    <category term="id~Calandrinia eremaea"/>
+    <category term="id~Calotis hispidula"/>
+    <category term="id~Chthonocephalus pseudevax"/>
+    <category term="id~Crassula colorata"/>
+    <category term="id~Crassula sieberiana s.l."/>
+    <category term="id~Cucumis myriocarpus subsp. leptodermis"/>
+    <category term="id~Daucus glochidiatus"/>
+    <category term="id~Dysphania cristata"/>
+    <category term="id~Enchylaena tomentosa var. tomentosa"/>
+    <category term="id~Enneapogon avenaceus"/>
+    <category term="id~Eragrostis dielsii"/>
+    <category term="id~Euphorbia drummondii"/>
+    <category term="id~Herniaria cinerea"/>
+    <category term="id~Hordeum glaucum"/>
+    <category term="id~Hypochaeris radicata"/>
+    <category term="id~Lactuca spp."/>
+    <category term="id~Lamarckia aurea"/>
+    <category term="id~Limonium lobatum"/>
+    <category term="id~Lycium australe"/>
+    <category term="id~Maireana pyramidata"/>
+    <category term="id~Maireana radiata"/>
+    <category term="id~Medicago minima"/>
+    <category term="id~Mesembryanthemum crystallinum"/>
+    <category term="id~Mesembryanthemum nodiflorum"/>
+    <category term="id~Nicotiana velutina"/>
+    <category term="id~Osteocarpum acropterum var. deminutum"/>
+    <category term="id~Osteocarpum salsuginosum"/>
+    <category term="id~Pimelea trichostachya"/>
+    <category term="id~Pogonolepis muelleriana"/>
+    <category term="id~Polycalymma stuartii"/>
+    <category term="id~Rhagodia spinescens"/>
+    <category term="id~Rhodanthe moschata"/>
+    <category term="id~Salsola tragus"/>
+    <category term="id~Sarcozona praecox"/>
+    <category term="id~Schismus barbatus"/>
+    <category term="id~Sclerochlamys brachyptera"/>
+    <category term="id~Sclerolaena diacantha"/>
+    <category term="id~Sclerolaena patenticuspis"/>
+    <category term="id~Sclerolaena tricuspis"/>
+    <category term="id~Senecio glossanthus s.l."/>
+    <category term="id~Senecio pinnatifolius"/>
+    <category term="id~Sida corrugata"/>
+    <category term="id~Silene apetala var. apetala"/>
+    <category term="id~Sisymbrium orientale"/>
+    <category term="id~Sonchus oleraceus"/>
+    <category term="id~Tetragonia eremaea s.s."/>
+    <category term="id~Vulpia myuros"/>
+    <category term="id~Wahlenbergia stricta subsp. stricta"/>
+    <category term="id~Wurmbea dioica"/>
+    <category term="tag~species-list"/>
+  </entry>
+</feed>

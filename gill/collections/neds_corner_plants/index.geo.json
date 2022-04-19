@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.327133,
+     -34.139008
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2014/541985c5e35eb1bbf90000bb.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2014%2F541985c5e35eb1bbf90000bb.yaml",
+    "date": "2014-09-03",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/541985c5e35eb1bbf90000b9.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.368667,
+     -34.243328
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2014/541978fbe35eb1bbf9000096.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2014%2F541978fbe35eb1bbf9000096.yaml",
+    "date": "2014-09-04",
+    "title": "Rhodanthe corymbiflora",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/541978fbe35eb1bbf9000093.jpg"
+   }
+  }
+ ]
+}

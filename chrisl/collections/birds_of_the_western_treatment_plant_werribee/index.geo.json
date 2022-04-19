@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.576122,
+     -38.017076
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/items/ns/2015/5643407bed2a89e56e00080e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2015%2F5643407bed2a89e56e00080e.yaml",
+    "date": "2015-08-22",
+    "title": "Chrysococcyx basalis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/564340a7ed2a899c63000168.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.572815,
+     -38.018563
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/items/ns/2015/564340aded2a89e56e000812.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2015%2F564340aded2a89e56e000812.yaml",
+    "date": "2015-08-22",
+    "title": "Poliocephalus poliocephalus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/564340e3ed2a899c6300016b.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.576573,
+     -38.011135
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/items/ns/2015/5643409aed2a89e56e000811.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2015%2F5643409aed2a89e56e000811.yaml",
+    "date": "2015-08-22",
+    "title": "Ardea modesta",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/564340dbed2a899c6300016a.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.984319,
+     -37.819701
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/mcg_life_at_the_mcg/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmcg_life_at_the_mcg%2Faggregate%2Findex.json",
+    "date": "2015-05-11",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55506304ed2a89d1da0000e9.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.984,
+     -37.82
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/collections/mcg_life_at_the_mcg/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fmcg_life_at_the_mcg%2Faggregate%2Findex.json",
+    "date": "2015-05-11",
+    "title": "jamesbooth",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55506304ed2a89d1da0000e9.JPG"
+   }
+  }
+ ]
+}

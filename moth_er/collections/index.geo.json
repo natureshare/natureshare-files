@@ -1,0 +1,90 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.884002,
+     -38.639853
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/moth_er/collections/otways_bioscan_lepidoptera/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmoth_er%2Fcollections%2Fotways_bioscan_lepidoptera%2Faggregate%2Findex.json",
+    "date": "2019-07-19",
+    "title": "Otways Bioscan – Lepidoptera",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000024/2019-07-19/p1330060_otb_2018_204_mar_23_19_ns.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.873,
+     -38.555
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/moth_er/collections/otway_ranges_-_moths/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmoth_er%2Fcollections%2Fotway_ranges_-_moths%2Faggregate%2Findex.json",
+    "date": "2019-07-07",
+    "title": "Otway ranges - moths",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5a66f216ed2a8939830000a8/2019-07-07/sobriana_ophiodesma_6763_mh.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.767,
+     -37.668
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/moth_er/collections/organ_pipes_np_-_invertebrates/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmoth_er%2Fcollections%2Forgan_pipes_np_-_invertebrates%2Faggregate%2Findex.json",
+    "date": "2018-12-03",
+    "title": "Organ pipes np - invertebrates",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5a66f216ed2a8939830000a8/2018-12-03/1543821694/Cryptophasa%20ochroleuca%20OrganPipes%201Dec2018%207227.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.532,
+     -38.243
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/moth_er/collections/ocean_grove_nature_reserve/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmoth_er%2Fcollections%2Focean_grove_nature_reserve%2Faggregate%2Findex.json",
+    "date": "2018-03-14",
+    "title": "Ocean grove nature reserve",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5aa99c83ed2a89abdd000046.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.712,
+     -37.71
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/moth_er/collections/yarra_ranges_national_park_-_moths/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmoth_er%2Fcollections%2Fyarra_ranges_national_park_-_moths%2Faggregate%2Findex.json",
+    "date": "2018-01-24",
+    "title": "Yarra ranges national park - moths",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a680403ed2a895fa2000006.jpg"
+   }
+  }
+ ]
+}

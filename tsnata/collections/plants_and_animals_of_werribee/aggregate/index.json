@@ -1,0 +1,100 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Plants and animals of werribee",
+ "description": "",
+ "author": {
+  "name": "tsnata",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fplants_and_animals_of_werribee%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/tsnata/collections/plants_and_animals_of_werribee/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/tsnata/items/ns/2014/5471d80fe35eb1f43b000049.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2014%2F5471d80fe35eb1f43b000049.yaml",
+   "title": "Malurus cyaneus",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5471d80fe35eb1f43b000048.jpg",
+   "date_published": "2014-11-23T12:50:23.000+00:00",
+   "date_modified": "2014-11-23T12:52:12.000+00:00",
+   "tags": [
+    "id~Malurus cyaneus",
+    "tag~male-adult"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.673199,
+     -37.927693
+    ]
+   },
+   "_meta": {
+    "date": "2014-11-19",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "tsnata",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/tsnata/items/ns/2014/5471d6b5e35eb1f43b00003a.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2014%2F5471d6b5e35eb1f43b00003a.yaml",
+   "title": "Ocyphaps lophotes",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5471d6b4e35eb1f43b000039.jpg",
+   "date_published": "2014-11-23T12:44:37.000+00:00",
+   "date_modified": "2014-11-23T12:46:03.000+00:00",
+   "tags": [
+    "id~Ocyphaps lophotes",
+    "tag~adult"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.673693,
+     -37.929284
+    ]
+   },
+   "_meta": {
+    "date": "2014-11-19",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "tsnata",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/tsnata/items/ns/2014/5471d3eee35eb1f43b000008.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2014%2F5471d3eee35eb1f43b000008.yaml",
+   "title": "Rhipidura leucophrys",
+   "content_text": "willie wagtail with two chicks.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5471d3ede35eb1f43b000006.jpg",
+   "date_published": "2014-11-23T12:32:46.000+00:00",
+   "date_modified": "2018-09-10T06:45:47.000+00:00",
+   "tags": [
+    "id~Rhipidura leucophrys",
+    "tag~adult",
+    "tag~chicks"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2014-11-19",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "tsnata",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

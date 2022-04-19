@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Birds of Braeside Park, Victoria</title>
+  <id>https://files.natureshare.org/stunningphotography/collections/birds_of_braeside_park_victoria/aggregate/index.xml</id>
+  <updated>2016-09-10T03:40:37.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/stunningphotography/collections/birds_of_braeside_park_victoria/aggregate/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/stunningphotography/collections/birds_of_braeside_park_victoria/aggregate/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fstunningphotography%2Fcollections%2Fbirds_of_braeside_park_victoria%2Faggregate%2Findex.json"/>
+  <author>
+    <name>stunningphotography</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fstunningphotography%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 stunningphotography</rights>
+  <subtitle>Birds of Braeside Park, Victoria</subtitle>
+  <entry>
+    <id>https://files.natureshare.org/stunningphotography/items/ns/2016/57d26d25ed2a89450f001285.yaml</id>
+    <title>Cacatua galerita</title>
+    <updated>2016-09-10T03:40:37.000+00:00</updated>
+    <published>2016-09-09T08:09:48.000+00:00</published>
+    <author>
+      <name>stunningphotography</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fstunningphotography%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Flying adult cockatoo</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fstunningphotography%2Fitems%2Fns%2F2016%2F57d26d25ed2a89450f001285.yaml"/>
+    <category term="id~Cacatua galerita"/>
+    <category term="tag~adult"/>
+  </entry>
+</feed>

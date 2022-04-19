@@ -1,0 +1,21 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.704382,
+     -36.599657
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/items/ns/2017/soaks_project_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Fns%2F2017%2Fsoaks_project_species_list.yaml",
+    "date": "2017-03-06",
+    "title": "250 ids"
+   }
+  }
+ ]
+}

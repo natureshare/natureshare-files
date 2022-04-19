@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/d_kurek/collections/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Collections</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fd_kurek%2Fcollections%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 d_kurek</copyright>
+    <pubDate>Sun, 24 Mar 2019 11:38:24 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Moths of metropolitan melbourne</title>
+      <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fd_kurek%2Fcollections%2Fmoths_of_metropolitan_melbourne%2Faggregate%2Findex.json</link>
+      <dc:creator>d_kurek</dc:creator>
+      <description>45 items</description>
+      <guid isPermaLink="false">https://files.natureshare.org/d_kurek/collections/moths_of_metropolitan_melbourne/aggregate/index.json</guid>
+      <pubDate>Sun, 24 Mar 2019 11:38:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bentleigh East - Invertebrates</title>
+      <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fd_kurek%2Fcollections%2Fbentleigh_east_-_invertebrates%2Faggregate%2Findex.json</link>
+      <dc:creator>d_kurek</dc:creator>
+      <description>24 items</description>
+      <guid isPermaLink="false">https://files.natureshare.org/d_kurek/collections/bentleigh_east_-_invertebrates/aggregate/index.json</guid>
+      <pubDate>Sun, 24 Mar 2019 11:38:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Organ pipes np - invertebrates</title>
+      <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fd_kurek%2Fcollections%2Forgan_pipes_np_-_invertebrates%2Faggregate%2Findex.json</link>
+      <dc:creator>d_kurek</dc:creator>
+      <description>23 items</description>
+      <guid isPermaLink="false">https://files.natureshare.org/d_kurek/collections/organ_pipes_np_-_invertebrates/aggregate/index.json</guid>
+      <pubDate>Sun, 23 Dec 2018 06:07:34 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

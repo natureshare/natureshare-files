@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.47375,
+     -37.261184
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/pauline/collections/flora_and_fauna_of_the_grampians/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpauline%2Fcollections%2Fflora_and_fauna_of_the_grampians%2Faggregate%2Findex.json",
+    "date": "2018-10-18",
+    "title": "pauline",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bc86ae4ed2a891efe00010c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.402,
+     -37.493
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/collections/flora_and_fauna_of_the_grampians/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fflora_and_fauna_of_the_grampians%2Faggregate%2Findex.json",
+    "date": "2018-10-18",
+    "title": "tsnata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bc86ae4ed2a891efe00010c.jpg"
+   }
+  }
+ ]
+}

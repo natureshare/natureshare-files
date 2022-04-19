@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.523779,
+     -37.106989
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/koolah/items/ns/2018/5ab5c29eed2a89719a000081.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fitems%2Fns%2F2018%2F5ab5c29eed2a89719a000081.yaml",
+    "date": "2018-03-20",
+    "title": "Corunastylis morrisii",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ab5c2a6ed2a89cf90000048.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.3263,
+     -37.61008
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/koolah/items/ns/2016/581d8389ed2a89748000245f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fitems%2Fns%2F2016%2F581d8389ed2a89748000245f.yaml",
+    "date": "2016-10-07",
+    "title": "Utricularia tenella",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/581d8392ed2a892daf0001ba.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.33231,
+     -37.62919
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/koolah/items/ns/2016/57cbf41eed2a89450f000edd.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fitems%2Fns%2F2016%2F57cbf41eed2a89450f000edd.yaml",
+    "date": "2016-09-03",
+    "title": "Caladenia parva",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57cbf43ced2a892daf000018.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.536525,
+     -37.290794
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/koolah/items/ns/2015/55d2f04ced2a89db81001217.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fitems%2Fns%2F2015%2F55d2f04ced2a89db81001217.yaml",
+    "date": "2006-10-11",
+    "title": "Burnettia cuneata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55d2f04bed2a89db81001214.JPG"
+   }
+  }
+ ]
+}

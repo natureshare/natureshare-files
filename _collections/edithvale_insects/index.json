@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Edithvale Insects",
+ "description": "All users for [edithvale_insects]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fedithvale_insects%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/edithvale_insects/index.json",
+ "items": [
+  {
+   "title": "vuk_2",
+   "content_text": "9 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592c3f1bed2a894410000151.JPG",
+   "date_published": "2017-05-29T15:30:15.000+00:00",
+   "date_modified": "2017-05-29T15:30:15.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.129,
+     -38.039
+    ]
+   },
+   "_meta": {
+    "itemCount": 9,
+    "date": "2017-05-29",
+    "name": "edithvale_insects",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/vuk_2/collections/edithvale_insects/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fvuk_2%2Fcollections%2Fedithvale_insects%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

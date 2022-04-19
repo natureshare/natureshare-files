@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.841046,
+     -37.724191
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_19/collections/birds_of_horseshoe_bend_rd_keilor/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_19%2Fcollections%2Fbirds_of_horseshoe_bend_rd_keilor%2Faggregate%2Findex.json",
+    "date": "2011-08-27",
+    "title": "openid_19",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011f41.jpg"
+   }
+  }
+ ]
+}

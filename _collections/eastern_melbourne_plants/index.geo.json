@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.209,
+     -37.781
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/guymer/collections/eastern_melbourne_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fguymer%2Fcollections%2Feastern_melbourne_plants%2Faggregate%2Findex.json",
+    "date": "2014-12-26",
+    "title": "guymer",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/549d2f97e35eb1155a00002c.jpg"
+   }
+  }
+ ]
+}

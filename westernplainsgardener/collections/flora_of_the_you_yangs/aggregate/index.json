@@ -1,0 +1,51 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Flora of the you yangs",
+ "description": "",
+ "author": {
+  "name": "westernplainsgardener",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fcollections%2Fflora_of_the_you_yangs%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/westernplainsgardener/collections/flora_of_the_you_yangs/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/westernplainsgardener/items/ns/2018/5bbef53ded2a89c10e0031ce.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fitems%2Fns%2F2018%2F5bbef53ded2a89c10e0031ce.yaml",
+   "title": "Thysanotus patersonii",
+   "content_text": "I found it growing on a dead Boneseed plant",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbef546ed2a891efe0000f8.JPG",
+   "date_published": "2018-10-11T07:04:51.000+00:00",
+   "date_modified": "2018-10-11T07:05:11.000+00:00",
+   "tags": [
+    "id~Thysanotus patersonii",
+    "tag~flower-purple",
+    "tag~plant",
+    "tag~plant-small",
+    "tag~twining-climber"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.4147,
+     -37.955323
+    ]
+   },
+   "_meta": {
+    "date": "2018-10-10",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "westernplainsgardener",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

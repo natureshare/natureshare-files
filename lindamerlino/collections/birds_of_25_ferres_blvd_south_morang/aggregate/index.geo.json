@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.068542,
+     -37.646419
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lindamerlino/items/ns/2017/59518fb1ed2a897cef000f55.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flindamerlino%2Fitems%2Fns%2F2017%2F59518fb1ed2a897cef000f55.yaml",
+    "date": "2017-06-26",
+    "title": "Psephotus haematonotus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59518fb8ed2a8939840000ac.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.067964,
+     -37.645828
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lindamerlino/items/ns/2016/5823f7b8ed2a8974800030c6.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flindamerlino%2Fitems%2Fns%2F2016%2F5823f7b8ed2a8974800030c6.yaml",
+    "date": "2016-11-10",
+    "title": "Anas superciliosa",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5823f7ceed2a89b3fe0001c3.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.067306,
+     -37.645031
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lindamerlino/items/ns/2016/57c7a92bed2a89450f000dc9.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flindamerlino%2Fitems%2Fns%2F2016%2F57c7a92bed2a89450f000dc9.yaml",
+    "date": "2016-08-19",
+    "title": "Cacatua galerita",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57c7a950ed2a89b3fe00001b.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.067383,
+     -37.645978
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lindamerlino/items/ns/2016/580da5dfed2a8974800006e2.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flindamerlino%2Fitems%2Fns%2F2016%2F580da5dfed2a8974800006e2.yaml",
+    "date": "2016-08-31",
+    "title": "Vanellus miles",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/580da5f5ed2a89b3fe00014e.JPG"
+   }
+  }
+ ]
+}

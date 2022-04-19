@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.321917,
+     -34.141046
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2012/53b39854e35eb1298400f4aa.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f4aa.yaml",
+    "date": "2012-03-30",
+    "title": "Limnodynastes tasmaniensis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012bbf.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.326553,
+     -34.141061
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2012/53b39854e35eb1298400f4a9.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f4a9.yaml",
+    "date": "2012-03-30",
+    "title": "Litoria peronii",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012bbc.jpg"
+   }
+  }
+ ]
+}

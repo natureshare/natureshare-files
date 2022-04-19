@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.207875,
+     -34.179219
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/items/ns/2012/53b39854e35eb1298400f515.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f515.yaml",
+    "date": "2012-04-01",
+    "title": "Crinum flaccidum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012c57.jpg"
+   }
+  }
+ ]
+}

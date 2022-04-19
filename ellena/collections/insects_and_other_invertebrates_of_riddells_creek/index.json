@@ -1,0 +1,72 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Insects And Other Invertebrates Of Riddells Creek",
+ "description": "",
+ "author": {
+  "name": "ellena",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fellena%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fellena%2Fcollections%2Finsects_and_other_invertebrates_of_riddells_creek%2Findex.json",
+ "feed_url": "https://files.natureshare.org/ellena/collections/insects_and_other_invertebrates_of_riddells_creek/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/ellena/items/ns/2013/53b39856e35eb1298400fe54.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fellena%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400fe54.yaml",
+   "title": "Phacodes obscurus",
+   "content_text": "Found on my bedroom carpet.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb1298401398d.jpg",
+   "date_published": "2013-02-04T17:58:25.000+00:00",
+   "date_modified": "2015-09-10T06:06:19.000+00:00",
+   "tags": [
+    "id~Phacodes obscurus"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.654754,
+     -37.430854
+    ]
+   },
+   "_meta": {
+    "date": "2013-01-08",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "ellena",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fellena%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/ellena/items/ns/2013/53b39856e35eb1298400fe53.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fellena%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400fe53.yaml",
+   "title": "Fabriogenia spp.",
+   "content_text": "Found dead on lounge floor.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb1298401398b.jpg",
+   "date_published": "2013-02-04T17:32:48.000+00:00",
+   "date_modified": "2013-02-04T17:51:36.000+00:00",
+   "tags": [
+    "id~Fabriogenia spp.",
+    "tag~dead"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.654732,
+     -37.430846
+    ]
+   },
+   "_meta": {
+    "date": "2013-01-07",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "ellena",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fellena%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

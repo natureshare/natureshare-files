@@ -1,0 +1,38 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.597244,
+     -37.678318
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_63/items/ns/2011/53b39853e35eb1298400f172.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fitems%2Fns%2F2011%2F53b39853e35eb1298400f172.yaml",
+    "date": "2011-12-25",
+    "title": "Litoria peronii"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.564285,
+     -37.783197
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_63/items/ns/2011/53b39851e35eb1298400eae1.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400eae1.yaml",
+    "date": "2009-11-15",
+    "title": "Climacteris picumnus victoriae",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011f39.jpg"
+   }
+  }
+ ]
+}

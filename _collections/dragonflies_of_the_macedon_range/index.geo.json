@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.595215,
+     -37.397545
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/dragonflies_of_the_macedon_range/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fdragonflies_of_the_macedon_range%2Faggregate%2Findex.json",
+    "date": "2015-03-22",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/550e8373ed2a8974d30008e8.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.589,
+     -37.389
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/collections/dragonflies_of_the_macedon_range/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fdragonflies_of_the_macedon_range%2Faggregate%2Findex.json",
+    "date": "2015-03-22",
+    "title": "david_francis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/550e8373ed2a8974d30008e8.jpg"
+   }
+  }
+ ]
+}

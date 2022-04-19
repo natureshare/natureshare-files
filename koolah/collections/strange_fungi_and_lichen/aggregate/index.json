@@ -1,0 +1,48 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Strange fungi and lichen",
+ "description": "",
+ "author": {
+  "name": "koolah",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fcollections%2Fstrange_fungi_and_lichen%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/koolah/collections/strange_fungi_and_lichen/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/koolah/items/ns/2015/55dc55b4ed2a897ee1000031.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fitems%2Fns%2F2015%2F55dc55b4ed2a897ee1000031.yaml",
+   "title": "Coltricia cinnamomea",
+   "content_text": "Infected.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55dc55c6ed2a890d95000019.JPG",
+   "date_published": "2015-08-25T11:47:00.000+00:00",
+   "date_modified": "2018-07-27T01:34:59.000+00:00",
+   "tags": [
+    "id~Coltricia cinnamomea",
+    "tag~brown"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.25008,
+     -37.86559
+    ]
+   },
+   "_meta": {
+    "date": "2015-08-25",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "koolah",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

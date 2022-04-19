@@ -1,0 +1,87 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "The monk diggings national heritage park plants",
+ "description": "",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fthe_monk_diggings_national_heritage_park_plants%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/the_monk_diggings_national_heritage_park_plants/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2011/53b39851e35eb1298400ecca.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ecca.yaml",
+   "title": "Philotheca verrucosa",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb12984012190.jpg",
+   "date_published": "2011-09-22T23:16:42.000+00:00",
+   "date_modified": "2011-09-22T23:18:43.000+00:00",
+   "tags": [
+    "id~Philotheca verrucosa",
+    "tag~flower"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.252548,
+     -37.115643
+    ]
+   },
+   "_meta": {
+    "date": "2011-09-18",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2011/53b39851e35eb1298400ecc8.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ecc8.yaml",
+   "title": "14 ids",
+   "content_text": "-",
+   "date_published": "2011-09-22T22:19:00.000+00:00",
+   "date_modified": "2011-09-22T22:55:44.000+00:00",
+   "tags": [
+    "id~Acacia acinacea s.s.",
+    "id~Acacia genistifolia",
+    "id~Acacia pycnantha",
+    "id~Daviesia ulicifolia subsp. ruscifolia",
+    "id~Drosera auriculata",
+    "id~Goodenia blackiana",
+    "id~Grevillea alpina",
+    "id~Lepidosperma curtisiae",
+    "id~Leptorhynchos tenuifolius",
+    "id~Ozothamnus obcordatus",
+    "id~Philotheca verrucosa",
+    "id~Pimelea linifolia",
+    "id~Schoenus apogon",
+    "id~Tetratheca ciliata",
+    "tag~flower",
+    "tag~survey"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.252548,
+     -37.115643
+    ]
+   },
+   "_meta": {
+    "date": "2011-09-18"
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

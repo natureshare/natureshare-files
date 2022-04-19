@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.532,
+     -37.523
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/collections/pyrete_range_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fpyrete_range_plants%2Faggregate%2Findex.json",
+    "date": "2017-07-30",
+    "title": "david_francis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/597d2faeed2a89398400014b.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.532,
+     -37.523
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/pyrete_range_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fpyrete_range_plants%2Faggregate%2Findex.json",
+    "date": "2017-07-30",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/597d2faeed2a89398400014b.jpg"
+   }
+  }
+ ]
+}

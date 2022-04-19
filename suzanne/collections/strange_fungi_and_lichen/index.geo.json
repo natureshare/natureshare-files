@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.086052,
+     -38.082021
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/suzanne/items/ns/2014/5424f0eae35eb1cc74000142.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fsuzanne%2Fitems%2Fns%2F2014%2F5424f0eae35eb1cc74000142.yaml",
+    "date": "2012-02-18",
+    "title": "Mycetozoa spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5424f0e9e35eb1cc74000140.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.086052,
+     -38.082021
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/suzanne/items/ns/2014/5422a314e35eb17d1900010e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fsuzanne%2Fitems%2Fns%2F2014%2F5422a314e35eb17d1900010e.yaml",
+    "date": "2010-03-18",
+    "title": "Fuligo septica",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5422a314e35eb17d1900010c.jpg"
+   }
+  }
+ ]
+}

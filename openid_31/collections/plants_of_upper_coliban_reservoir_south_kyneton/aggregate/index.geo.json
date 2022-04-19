@@ -1,0 +1,888 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.403674,
+     -37.278855
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2019/5d134454c347d5969c0002d1.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2019%2F5d134454c347d5969c0002d1.yaml",
+    "date": "2018-12-24",
+    "title": "Hypericum spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000012/2019-06-26/717af830_7bc3_40c1_9662_7ee16b498f45.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.407879,
+     -37.279742
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2019/5d133deac347d52ac2000290.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2019%2F5d133deac347d52ac2000290.yaml",
+    "date": "2018-12-15",
+    "title": "Austrostipa spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000012/2019-06-26/7c93e17c_b456_4cfc_b3f3_0be70fb5e520.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.405626,
+     -37.277304
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2019/5c8ce1cc3abbd65a5c0000f5.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2019%2F5c8ce1cc3abbd65a5c0000f5.yaml",
+    "date": "2018-12-20",
+    "title": "Lycoperdon perlatum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_53b39818e35eb12984000012/2019-03-16/1552736566/41C0DEA4-D28D-4E0B-A859-6D5F29A16510.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.407723,
+     -37.279708
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2019/5c75279f3abbd62bed0000cf.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2019%2F5c75279f3abbd62bed0000cf.yaml",
+    "date": "2018-12-15",
+    "title": "Austrostipa spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_53b39818e35eb12984000012/2019-02-26/1551181519/825DF649-CD74-4C31-ACBA-B870CA6B0FBF.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.399443,
+     -37.288685
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2015/55b8e253ed2a89db8100052f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2015%2F55b8e253ed2a89db8100052f.yaml",
+    "date": "2015-07-15",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55b8e252ed2a89db8100052e.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.399357,
+     -37.285407
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2015/55b8dc3ced2a895db800007b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2015%2F55b8dc3ced2a895db800007b.yaml",
+    "date": "2015-07-29",
+    "title": "Rubus rugosus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55b8dc3bed2a895db8000078.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.400644,
+     -37.282402
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2015/55b8da3ced2a89db81000516.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2015%2F55b8da3ced2a89db81000516.yaml",
+    "date": "2015-01-14",
+    "title": "Centaurium tenuiflorum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55b8da3ced2a89db81000513.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.400644,
+     -37.282402
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2015/54ccbf37ed2a8971510003b7.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2015%2F54ccbf37ed2a8971510003b7.yaml",
+    "date": "2014-07-20",
+    "title": "Fungi spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ccbf37ed2a8971510003b6.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.400952,
+     -37.285697
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2015/54ccbe05ed2a8971510003b1.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2015%2F54ccbe05ed2a8971510003b1.yaml",
+    "date": "2014-07-20",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ccbe05ed2a8971510003b0.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.398252,
+     -37.283623
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2015/54ccbceded2a899aeb0002f7.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2015%2F54ccbceded2a899aeb0002f7.yaml",
+    "date": "2014-07-20",
+    "title": "Acacia decurrens",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ccbceded2a899aeb0002f6.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.407813,
+     -37.279777
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2015/54ccb932ed2a8980b7000329.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2015%2F54ccb932ed2a8980b7000329.yaml",
+    "date": "2014-07-20",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ccb932ed2a8980b7000328.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.399969,
+     -37.284255
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2015/54ccb802ed2a899aeb0002ec.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2015%2F54ccb802ed2a899aeb0002ec.yaml",
+    "date": "2014-07-20",
+    "title": "Eucalyptus radiata s.l.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ccb802ed2a899aeb0002eb.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.403252,
+     -37.280789
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2015/54ccb6f4ed2a8980b7000323.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2015%2F54ccb6f4ed2a8980b7000323.yaml",
+    "date": "2014-07-20",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ccb6f4ed2a8980b7000322.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.403675,
+     -37.280695
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2013/53b39858e35eb129840104a1.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2013%2F53b39858e35eb129840104a1.yaml",
+    "date": "2013-08-24",
+    "title": "Fungi spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143b1.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.403031,
+     -37.285723
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2013/53b39858e35eb129840104a0.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2013%2F53b39858e35eb129840104a0.yaml",
+    "date": "2013-08-30",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143b0.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.401336,
+     -37.286721
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2013/53b39858e35eb1298401049f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2013%2F53b39858e35eb1298401049f.yaml",
+    "date": "2013-08-30",
+    "title": "Fungi spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143af.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.400306,
+     -37.287131
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2013/53b39858e35eb1298401049e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2013%2F53b39858e35eb1298401049e.yaml",
+    "date": "2013-08-30",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143ae.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.400257,
+     -37.28778
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2013/53b39858e35eb1298401049d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2013%2F53b39858e35eb1298401049d.yaml",
+    "date": "2013-08-30",
+    "title": "Leptodontium paradoxum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143ad.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.401443,
+     -37.286038
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2013/53b39858e35eb1298401049a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2013%2F53b39858e35eb1298401049a.yaml",
+    "date": "2013-08-30",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143aa.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.40538,
+     -37.277084
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2013/53b39858e35eb12984010498.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2013%2F53b39858e35eb12984010498.yaml",
+    "date": "2013-08-31",
+    "title": "Peziza spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143a8.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.404597,
+     -37.284212
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2013/53b39858e35eb12984010497.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2013%2F53b39858e35eb12984010497.yaml",
+    "date": "2013-08-30",
+    "title": "Melicytus dentatus s.s.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143a6.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.403406,
+     -37.282197
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2012/53b39854e35eb1298400f677.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f677.yaml",
+    "date": "2012-06-08",
+    "title": "Eucalyptus camaldulensis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012e2f.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.400982,
+     -37.284528
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2012/53b39854e35eb1298400f676.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f676.yaml",
+    "date": "2012-06-08",
+    "title": "Eucalyptus rubida",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012e2e.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.399308,
+     -37.284229
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2012/53b39854e35eb1298400f675.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f675.yaml",
+    "date": "2012-06-08",
+    "title": "Fungi spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012e2d.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.404844,
+     -37.277485
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2012/53b39854e35eb1298400f670.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f670.yaml",
+    "date": "2012-04-27",
+    "title": "Taraxacum officinale spp. agg.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012e26.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.397409,
+     -37.287182
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2012/53b39854e35eb1298400f528.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f528.yaml",
+    "date": "2012-03-22",
+    "title": "Verbascum virgatum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012c6c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.403557,
+     -37.278376
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2012/53b39853e35eb1298400f3de.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2012%2F53b39853e35eb1298400f3de.yaml",
+    "date": "2012-02-27",
+    "title": "Fungi spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012aaf.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.399501,
+     -37.284843
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2011/53b39852e35eb1298400efe1.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400efe1.yaml",
+    "date": "2011-11-03",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb1298401252b.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.402323,
+     -37.284084
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2011/53b39852e35eb1298400efdf.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400efdf.yaml",
+    "date": "2011-11-03",
+    "title": "Laphangium luteoalbum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb12984012529.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.39786,
+     -37.283307
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2011/53b39852e35eb1298400efde.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400efde.yaml",
+    "date": "2011-11-03",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb12984012528.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.398417,
+     -37.283119
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2011/53b39852e35eb1298400efdc.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400efdc.yaml",
+    "date": "2011-11-03",
+    "title": "Burchardia umbellata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb12984012525.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.398589,
+     -37.283358
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2011/53b39852e35eb1298400efdb.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400efdb.yaml",
+    "date": "2011-11-03",
+    "title": "Arthropodium strictum s.s.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb12984012523.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.399126,
+     -37.282112
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2011/53b39852e35eb1298400efd9.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400efd9.yaml",
+    "date": "2011-11-03",
+    "title": "Drosera peltata subsp. peltata spp. agg.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb12984012522.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.40339,
+     -37.28571
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2011/53b39851e35eb1298400e952.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e952.yaml",
+    "date": "2010-02-08",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011d57.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.407537,
+     -37.283648
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2011/53b39851e35eb1298400e951.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e951.yaml",
+    "date": "2010-02-08",
+    "title": "Lythrum salicaria",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011d56.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.40758,
+     -37.283307
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2011/53b39851e35eb1298400e950.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e950.yaml",
+    "date": "2010-02-08",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011d55.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.406292,
+     -37.27979
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2011/53b39851e35eb1298400e94e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e94e.yaml",
+    "date": "2010-02-08",
+    "title": "Centaurium spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011d53.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.405997,
+     -37.279269
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2011/53b39851e35eb1298400e945.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e945.yaml",
+    "date": "2009-12-27",
+    "title": "Eucalyptus pauciflora",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011d4a.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.407467,
+     -37.279785
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2011/53b39851e35eb1298400e941.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e941.yaml",
+    "date": "2009-12-13",
+    "title": "Themeda triandra",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011d46.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.407735,
+     -37.279935
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2011/53b39851e35eb1298400e940.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e940.yaml",
+    "date": "2009-12-13",
+    "title": "Pelargonium rodneyanum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012d18.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.40722,
+     -37.279687
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/items/ns/2011/53b39851e35eb1298400e93f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e93f.yaml",
+    "date": "2009-12-07",
+    "title": "Wahlenbergia stricta subsp. stricta",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012d19.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.405713,
+     -37.279353
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e7e5.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e7e5.yaml",
+    "date": "2008-04-06",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b92.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.408079,
+     -37.279095
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e6ee.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e6ee.yaml",
+    "date": "2008-09-13",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011a2d.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.405697,
+     -37.279382
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e6ed.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e6ed.yaml",
+    "date": "2008-09-13",
+    "title": "Eucalyptus pauciflora",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011a2c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.407918,
+     -37.279762
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e5a2.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e5a2.yaml",
+    "date": "2009-12-13",
+    "title": "Pimelea humilis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011897.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.407518,
+     -37.27986
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e59f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e59f.yaml",
+    "date": "2009-12-13",
+    "title": "Themeda triandra",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011893.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.407135,
+     -37.279682
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e59e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e59e.yaml",
+    "date": "2009-12-07",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011892.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.405895,
+     -37.279266
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b3984fe35eb1298400e567.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e567.yaml",
+    "date": "2009-12-27",
+    "title": "Eucalyptus pauciflora",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011850.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.407709,
+     -37.279282
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b3984fe35eb1298400e565.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e565.yaml",
+    "date": "2009-12-13",
+    "title": "Pelargonium rodneyanum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb1298401184e.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.40361,
+     -37.253287
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/items/ns/2015/plants_of_upper_coliban_reservoir_south_kyneton_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2015%2Fplants_of_upper_coliban_reservoir_south_kyneton_species_list.yaml",
+    "date": "2015-04-07",
+    "title": "39 ids"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.650872,
+     -37.468527
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2010/53b3984fe35eb1298400e269.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2010%2F53b3984fe35eb1298400e269.yaml",
+    "date": "2010-02-18",
+    "title": "Trifolium arvense var. arvense",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb12984011500.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.656156,
+     -37.437137
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2010/53b3984ee35eb1298400df2f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2010%2F53b3984ee35eb1298400df2f.yaml",
+    "date": "2009-10-20",
+    "title": "Acacia provincialis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ce35eb12984011149.jpg"
+   }
+  }
+ ]
+}

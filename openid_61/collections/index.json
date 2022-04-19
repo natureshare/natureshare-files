@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "openid_61",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_61%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_61%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_61/collections/index.json",
+ "items": [
+  {
+   "title": "Flora of Parwan Gorge",
+   "content_text": "2 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984012084.jpg",
+   "date_published": "2011-09-15T13:12:03.000+00:00",
+   "date_modified": "2011-09-15T13:12:03.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.502401,
+     -37.712072
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2011-09-15",
+    "name": "flora_of_parwan_gorge",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_61/collections/flora_of_parwan_gorge/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_61%2Fcollections%2Fflora_of_parwan_gorge%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

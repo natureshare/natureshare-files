@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/frankiebee/items/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Observations</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ffrankiebee%2Fitems%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 frankiebee</copyright>
+    <pubDate>Sun, 23 Apr 2017 13:12:45 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Stibaroma melanotoxa</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ffrankiebee%2Fitems%2Fns%2F2017%2F58fc3b8bed2a89f3bf000dca.yaml</link>
+      <dc:creator>frankiebee</dc:creator>
+      <description>Not sure what it is but nicely camouflaged</description>
+      <category>id~Stibaroma melanotoxa</category>
+      <category>tag~camouflage</category>
+      <category>tag~grey</category>
+      <category>tag~moth</category>
+      <guid isPermaLink="false">https://files.natureshare.org/frankiebee/items/ns/2017/58fc3b8bed2a89f3bf000dca.yaml</guid>
+      <pubDate>Sun, 23 Apr 2017 05:33:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Todiramphus sanctus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ffrankiebee%2Fitems%2Fns%2F2016%2F585e46eded2a89748000ae2c.yaml</link>
+      <dc:creator>frankiebee</dc:creator>
+      <description>Spotted a flash of blue flying across the dam. Then she/he landed on a branch in front of me. Had a feeling there were two but couldn't be sure. </description>
+      <category>id~Todiramphus sanctus</category>
+      <category>tag~bird</category>
+      <category>tag~kingfisher</category>
+      <guid isPermaLink="false">https://files.natureshare.org/frankiebee/items/ns/2016/585e46eded2a89748000ae2c.yaml</guid>
+      <pubDate>Mon, 26 Dec 2016 06:35:01 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

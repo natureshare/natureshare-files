@@ -1,0 +1,38 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.202194,
+     -37.73505
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_141/items/ns/2012/53b39855e35eb1298400fb63.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_141%2Fitems%2Fns%2F2012%2F53b39855e35eb1298400fb63.yaml",
+    "date": "2012-11-07",
+    "title": "Wahlenbergia spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb129840134f9.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.617229,
+     -36.416983
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_141/items/ns/2012/53b39855e35eb1298400fb3e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_141%2Fitems%2Fns%2F2012%2F53b39855e35eb1298400fb3e.yaml",
+    "date": "2012-11-08",
+    "title": "Unidentified"
+   }
+  }
+ ]
+}

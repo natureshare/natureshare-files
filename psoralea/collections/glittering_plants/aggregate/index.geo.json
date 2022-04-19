@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.667633,
+     -37.440236
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/psoralea/items/ns/2018/5a49e4a0ed2a89e23c003da6.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2018%2F5a49e4a0ed2a89e23c003da6.yaml",
+    "date": "2018-01-01",
+    "title": "Eucalyptus ovata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a49e4b6ed2a890e9e000054.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.667808,
+     -37.440346
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/psoralea/items/ns/2018/5a49cf85ed2a893ede000082.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2018%2F5a49cf85ed2a893ede000082.yaml",
+    "date": "2018-01-01",
+    "title": "Acacia mearnsii",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a49cf96ed2a892d1500006e.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.669932,
+     -37.439111
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/psoralea/items/ns/2018/5a49cd21ed2a89e23c003d46.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2018%2F5a49cd21ed2a89e23c003d46.yaml",
+    "date": "2018-01-01",
+    "title": "Rytidosperma spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a49cd37ed2a89298f00006c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.671124,
+     -37.439828
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/psoralea/items/ns/2015/54f94a81ed2a89097e0004bd.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2015%2F54f94a81ed2a89097e0004bd.yaml",
+    "date": "2015-02-27",
+    "title": "Dipodium roseum s.s.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f94a81ed2a89097e0004bc.jpg"
+   }
+  }
+ ]
+}

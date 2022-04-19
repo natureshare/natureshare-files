@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.132583,
+     -38.248073
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/collections/flora_of_pretty_hill_flora_reserve/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fcollections%2Fflora_of_pretty_hill_flora_reserve%2Faggregate%2Findex.json",
+    "date": "2015-11-25",
+    "title": "banksiaman",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56559b16ed2a899c63000228.JPG"
+   }
+  }
+ ]
+}

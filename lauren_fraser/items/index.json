@@ -1,0 +1,44 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "lauren_fraser",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flauren_fraser%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flauren_fraser%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/lauren_fraser/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/lauren_fraser/items/ns/2016/56fdbc6aed2a8900e1000001.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flauren_fraser%2Fitems%2Fns%2F2016%2F56fdbc6aed2a8900e1000001.yaml",
+   "title": "Acacia paradoxa x stictophylla",
+   "content_text": "Long time reader, first time uploader. I am fairly confident this is a hybrid between Acacia paradoxa and Acacia stictophylla- both species are found in the reserve (Hillview Bushland Reserve). There were a number of similar individuals in close proximity. Please excuse my hand!",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56fdbc7fed2a890be7000179.jpg",
+   "date_published": "2016-04-01T00:26:43.000+00:00",
+   "date_modified": "2016-04-02T23:01:50.000+00:00",
+   "tags": [
+    "id~Acacia paradoxa x stictophylla",
+    "tag~hybrid",
+    "tag~phyllodes",
+    "tag~spines"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.438815,
+     -38.030984
+    ]
+   },
+   "_meta": {
+    "date": "2014-09-10",
+    "imageCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

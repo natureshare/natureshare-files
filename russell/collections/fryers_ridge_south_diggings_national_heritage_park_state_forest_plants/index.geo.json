@@ -1,0 +1,70 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.232475,
+     -37.152877
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2011/53b39851e35eb1298400ecdc.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ecdc.yaml",
+    "date": "2011-09-18",
+    "title": "Gompholobium huegelii"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.232475,
+     -37.152877
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2011/53b39851e35eb1298400ecdb.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ecdb.yaml",
+    "date": "2011-09-18",
+    "title": "7 ids"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.232453,
+     -37.153023
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2011/53b39851e35eb1298400ecda.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ecda.yaml",
+    "date": "2011-09-18",
+    "title": "Dillwynia ramosissima",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840121a2.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.26726,
+     -37.170695
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2015/fryers_ridge_south_diggings_national_heritage_park_state_forest_plants_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Ffryers_ridge_south_diggings_national_heritage_park_state_forest_plants_species_list.yaml",
+    "date": "2015-04-07",
+    "title": "138 ids"
+   }
+  }
+ ]
+}

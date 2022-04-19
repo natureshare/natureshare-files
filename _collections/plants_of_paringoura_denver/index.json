@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Plants Of Paringoura Denver",
+ "description": "All users for [plants_of_paringoura_denver]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fplants_of_paringoura_denver%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/plants_of_paringoura_denver/index.json",
+ "items": [
+  {
+   "title": "openid_81",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840120f7.jpg",
+   "date_published": "2011-09-20T17:02:32.000+00:00",
+   "date_modified": "2011-09-20T17:02:32.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.303,
+     -37.28
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2011-09-20",
+    "name": "plants_of_paringoura_denver",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_81/collections/plants_of_paringoura_denver/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_81%2Fcollections%2Fplants_of_paringoura_denver%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.756989,
+     -36.853252
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_52/collections/strathbogie_ranges_nature_atlas_project/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fcollections%2Fstrathbogie_ranges_nature_atlas_project%2Faggregate%2Findex.json",
+    "date": "2011-07-27",
+    "title": "Strathbogie Ranges Nature Atlas Project",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984012075.jpg"
+   }
+  }
+ ]
+}

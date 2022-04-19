@@ -1,0 +1,106 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Wilsons prom np plants",
+ "description": "",
+ "author": {
+  "name": "reilly",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fcollections%2Fwilsons_prom_np_plants%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/reilly/collections/wilsons_prom_np_plants/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/reilly/items/ns/2016/5698f6dded2a89b77800000c.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2016%2F5698f6dded2a89b77800000c.yaml",
+   "title": "Patersonia fragilis",
+   "content_text": "Probably a very common purple flower...",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5698f6b8ed2a89b31c000005.jpg",
+   "date_published": "2016-01-17T02:42:36.000+00:00",
+   "date_modified": "2016-01-17T04:25:44.000+00:00",
+   "tags": [
+    "id~Patersonia fragilis",
+    "tag~flower"
+   ],
+   "_geo": {
+    "coordinates": [
+     146.364914,
+     -38.910408
+    ]
+   },
+   "_meta": {
+    "date": "2015-10-31",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "reilly",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/reilly/items/ns/2016/56986917ed2a8958af000001.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2016%2F56986917ed2a8958af000001.yaml",
+   "title": "Olearia argophylla",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56986927ed2a89e050000002.jpg",
+   "date_published": "2016-01-15T03:37:22.000+00:00",
+   "date_modified": "2016-01-15T03:37:22.000+00:00",
+   "tags": [
+    "id~Olearia argophylla",
+    "tag~leaf",
+    "tag~seed"
+   ],
+   "_geo": {
+    "coordinates": [
+     146.40825,
+     -39.026244
+    ]
+   },
+   "_meta": {
+    "date": "2016-01-09",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "reilly",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/reilly/items/ns/2016/56959e33ed2a8932c9000065.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2016%2F56959e33ed2a8932c9000065.yaml",
+   "title": "Diplarrena moraea",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5695a065ed2a890f7e000034.jpg",
+   "date_published": "2016-01-13T00:49:29.000+00:00",
+   "date_modified": "2016-01-16T11:41:41.000+00:00",
+   "tags": [
+    "id~Diplarrena moraea",
+    "tag~3-large-petals",
+    "tag~flower",
+    "tag~white",
+    "tag~white-petals"
+   ],
+   "_geo": {
+    "coordinates": [
+     146.395186,
+     -38.921483
+    ]
+   },
+   "_meta": {
+    "date": "2015-11-01",
+    "imageCount": 4
+   },
+   "author": {
+    "name": "reilly",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

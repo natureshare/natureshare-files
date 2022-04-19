@@ -1,0 +1,40 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Porcupine Flat Historic Reserve Plants",
+ "description": "All users for [porcupine_flat_historic_reserve_plants]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fporcupine_flat_historic_reserve_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/porcupine_flat_historic_reserve_plants/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "1 items",
+   "date_published": "2011-03-08T17:30:40.000+00:00",
+   "date_modified": "2011-03-08T17:30:40.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.101315,
+     -36.977667
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2011-03-08",
+    "name": "porcupine_flat_historic_reserve_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/porcupine_flat_historic_reserve_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fporcupine_flat_historic_reserve_plants%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

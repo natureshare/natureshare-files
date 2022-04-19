@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.683219,
+     -37.458476
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/pam/items/ns/2015/5653e36ded2a89373f0000f1.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpam%2Fitems%2Fns%2F2015%2F5653e36ded2a89373f0000f1.yaml",
+    "date": "2015-11-24",
+    "title": "Omyta centrolineata centrolineata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5653e37ded2a899c63000208.jpg"
+   }
+  }
+ ]
+}

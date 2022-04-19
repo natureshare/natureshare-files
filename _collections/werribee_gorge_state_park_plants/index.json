@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Werribee Gorge State Park Plants",
+ "description": "All users for [werribee_gorge_state_park_plants]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fwerribee_gorge_state_park_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/werribee_gorge_state_park_plants/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "29 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54175eefe35eb173a600007b.jpg",
+   "date_published": "2014-09-15T21:49:36.000+00:00",
+   "date_modified": "2014-09-15T21:49:36.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.345,
+     -37.664
+    ]
+   },
+   "_meta": {
+    "itemCount": 29,
+    "date": "2014-09-15",
+    "name": "werribee_gorge_state_park_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/werribee_gorge_state_park_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fwerribee_gorge_state_park_plants%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "banksiaman",
+   "content_text": "5 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb129840151e2.jpg",
+   "date_published": "2014-04-08T17:21:58.000+00:00",
+   "date_modified": "2014-04-08T17:21:58.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.364,
+     -37.664
+    ]
+   },
+   "_meta": {
+    "itemCount": 5,
+    "date": "2014-04-08",
+    "name": "werribee_gorge_state_park_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/banksiaman/collections/werribee_gorge_state_park_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fcollections%2Fwerribee_gorge_state_park_plants%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

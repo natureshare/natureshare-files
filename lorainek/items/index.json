@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "lorainek",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Florainek%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Florainek%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/lorainek/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/lorainek/items/ns/2018/5ab23afaed2a89224b00052e.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Florainek%2Fitems%2Fns%2F2018%2F5ab23afaed2a89224b00052e.yaml",
+   "title": "Lophoictinia isura",
+   "content_text": "Little eagle was gliding around the open grass kind and wooded area in circles, then joined what looked like a mate over near highpoint. It didn't make any dives for food that I saw. Video also taken, but it wouldn't upload",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ab23afbed2a8929e7000053.jpeg",
+   "date_published": "2018-03-21T11:18:36.000+00:00",
+   "date_modified": "2018-03-23T00:35:12.000+00:00",
+   "tags": [
+    "id~Lophoictinia isura"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.894536,
+     -37.780809
+    ]
+   },
+   "_meta": {
+    "date": "2018-03-20",
+    "imageCount": 3
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

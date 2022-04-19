@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Banchory Grove Grassland Ncr Flora",
+ "description": "All users for [banchory_grove_grassland_ncr_flora]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fbanchory_grove_grassland_ncr_flora%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/banchory_grove_grassland_ncr_flora/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "16 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb129840131ab.jpg",
+   "date_published": "2012-09-21T15:51:14.000+00:00",
+   "date_modified": "2012-09-21T15:51:14.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.755675,
+     -37.68119
+    ]
+   },
+   "_meta": {
+    "itemCount": 16,
+    "date": "2012-09-21",
+    "name": "banchory_grove_grassland_ncr_flora",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/banchory_grove_grassland_ncr_flora/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fbanchory_grove_grassland_ncr_flora%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "openid_135",
+   "content_text": "3 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb12984013182.jpg",
+   "date_published": "2012-09-19T19:12:22.000+00:00",
+   "date_modified": "2012-09-19T19:12:22.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.755,
+     -37.682
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2012-09-19",
+    "name": "banchory_grove_grassland_ncr_flora",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_135/collections/banchory_grove_grassland_ncr_flora/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_135%2Fcollections%2Fbanchory_grove_grassland_ncr_flora%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

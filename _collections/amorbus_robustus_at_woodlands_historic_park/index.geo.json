@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.863839,
+     -37.649153
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/andrew_allen/collections/amorbus_robustus_at_woodlands_historic_park/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandrew_allen%2Fcollections%2Famorbus_robustus_at_woodlands_historic_park%2Faggregate%2Findex.json",
+    "date": "2018-02-17",
+    "title": "andrew_allen",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a87f80ced2a89f45300007e.jpg"
+   }
+  }
+ ]
+}

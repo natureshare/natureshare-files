@@ -1,0 +1,85 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "openid_19",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_19%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_19%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_19/collections/index.json",
+ "items": [
+  {
+   "title": "Birds of Horseshoe Bend Rd Keilor",
+   "content_text": "5 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011f41.jpg",
+   "date_published": "2011-08-27T22:22:06.000+00:00",
+   "date_modified": "2011-08-27T22:22:06.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.841046,
+     -37.724191
+    ]
+   },
+   "_meta": {
+    "itemCount": 5,
+    "date": "2011-08-27",
+    "name": "birds_of_horseshoe_bend_rd_keilor",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_19/collections/birds_of_horseshoe_bend_rd_keilor/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_19%2Fcollections%2Fbirds_of_horseshoe_bend_rd_keilor%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Brisbane ranges national park plants",
+   "content_text": "7 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011d62.jpg",
+   "date_published": "2011-07-07T00:42:47.000+00:00",
+   "date_modified": "2011-07-07T00:42:47.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.23,
+     -37.867
+    ]
+   },
+   "_meta": {
+    "itemCount": 7,
+    "date": "2011-07-07",
+    "name": "brisbane_ranges_national_park_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_19/collections/brisbane_ranges_national_park_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_19%2Fcollections%2Fbrisbane_ranges_national_park_plants%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Fungus of central victoria",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011d5e.jpg",
+   "date_published": "2011-07-06T23:16:11.000+00:00",
+   "date_modified": "2011-07-06T23:16:11.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.263,
+     -37.42
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2011-07-06",
+    "name": "fungus_of_central_victoria",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_19/collections/fungus_of_central_victoria/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_19%2Fcollections%2Ffungus_of_central_victoria%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

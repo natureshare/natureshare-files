@@ -1,0 +1,76 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Littoral zones",
+ "description": "",
+ "author": {
+  "name": "david_francis",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Flittoral_zones%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/david_francis/collections/littoral_zones/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/david_francis/items/ns/2018/5a92846eed2a89ad32000a5d.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2018%2F5a92846eed2a89ad32000a5d.yaml",
+   "title": "Corallina spp.",
+   "content_text": "A coralline red seaweed washed ashore from deeper waters. The jointed stems contain lime/calcium absorbed from sea water. The bleached, calcareous skeletons of Corallines are commonly found washed up on beaches.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a928472ed2a897fc8000005.jpg",
+   "date_published": "2018-02-25T09:47:34.000+00:00",
+   "date_modified": "2018-02-25T13:00:01.000+00:00",
+   "tags": [
+    "id~Corallina spp.",
+    "tag~seaweed"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.326564,
+     -38.340625
+    ]
+   },
+   "_meta": {
+    "date": "2018-02-25",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "david_francis",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/david_francis/items/ns/2018/5a926359ed2a89bcb90000e0.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2018%2F5a926359ed2a89bcb90000e0.yaml",
+   "title": "Hormosira banksii",
+   "content_text": "Huge masses of this well-known brown seaweed covering rocks at low tide. Two pictures.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a92635ded2a89cf9000000e.jpg",
+   "date_published": "2018-02-25T07:22:16.000+00:00",
+   "date_modified": "2018-02-25T07:22:41.000+00:00",
+   "tags": [
+    "id~Hormosira banksii",
+    "tag~habitat",
+    "tag~seaweed"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.326822,
+     -38.340667
+    ]
+   },
+   "_meta": {
+    "date": "2018-02-25",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "david_francis",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

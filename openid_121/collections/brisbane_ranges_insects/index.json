@@ -1,0 +1,43 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Brisbane Ranges Insects",
+ "description": "",
+ "author": {
+  "name": "openid_121",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_121%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_121%2Fcollections%2Fbrisbane_ranges_insects%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_121/collections/brisbane_ranges_insects/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_121/items/ns/2013/53b39859e35eb129840106d8.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_121%2Fitems%2Fns%2F2013%2F53b39859e35eb129840106d8.yaml",
+   "title": "Leptotarsus ducalis bancrofti",
+   "content_text": "Crane Fly",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb1298401475c.jpg",
+   "date_published": "2013-11-05T21:27:54.000+00:00",
+   "date_modified": "2014-07-02T20:26:17.000+00:00",
+   "tags": [
+    "id~Leptotarsus ducalis bancrofti",
+    "tag~insects"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2012-11-02",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_121",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_121%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

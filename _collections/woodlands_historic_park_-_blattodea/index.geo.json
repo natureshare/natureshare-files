@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.862584,
+     -37.649068
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/andrew_allen/collections/woodlands_historic_park_-_blattodea/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandrew_allen%2Fcollections%2Fwoodlands_historic_park_-_blattodea%2Faggregate%2Findex.json",
+    "date": "2018-12-02",
+    "title": "andrew_allen",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_583ba1bbed2a897480005b25/2018-12-02/1543739966/cockroach-2018-12-02-woodlands.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.864,
+     -37.645
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/triplett/collections/woodlands_historic_park_-_blattodea/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftriplett%2Fcollections%2Fwoodlands_historic_park_-_blattodea%2Faggregate%2Findex.json",
+    "date": "2018-10-09",
+    "title": "triplett",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbc1228ed2a89280700010c.jpg"
+   }
+  }
+ ]
+}

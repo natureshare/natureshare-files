@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.24807,
+     -37.866051
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/items/ns/2015/55588fffed2a890e0300068a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2015%2F55588fffed2a890e0300068a.yaml",
+    "date": "2015-05-16",
+    "title": "Cormobates leucophaeus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55588ffeed2a890e03000689.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.259602,
+     -37.860936
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/items/ns/2015/555882f3ed2a890e0300067e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2015%2F555882f3ed2a890e0300067e.yaml",
+    "date": "2015-05-16",
+    "title": "Melithreptus lunatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/555882f2ed2a890e0300067c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.271767,
+     -37.860317
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/items/ns/2015/555869a3ed2a890e0300064b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2015%2F555869a3ed2a890e0300064b.yaml",
+    "date": "2015-05-16",
+    "title": "Sericornis frontalis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/555869a2ed2a890e0300064a.jpg"
+   }
+  }
+ ]
+}

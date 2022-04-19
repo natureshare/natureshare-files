@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/openid_19/collections/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Collections</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_19%2Fcollections%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 openid_19</copyright>
+    <pubDate>Sat, 27 Aug 2011 22:22:06 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Birds of Horseshoe Bend Rd Keilor</title>
+      <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_19%2Fcollections%2Fbirds_of_horseshoe_bend_rd_keilor%2Faggregate%2Findex.json</link>
+      <dc:creator>openid_19</dc:creator>
+      <description>5 items</description>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_19/collections/birds_of_horseshoe_bend_rd_keilor/aggregate/index.json</guid>
+      <pubDate>Sat, 27 Aug 2011 22:22:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brisbane ranges national park plants</title>
+      <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_19%2Fcollections%2Fbrisbane_ranges_national_park_plants%2Faggregate%2Findex.json</link>
+      <dc:creator>openid_19</dc:creator>
+      <description>7 items</description>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_19/collections/brisbane_ranges_national_park_plants/aggregate/index.json</guid>
+      <pubDate>Thu, 07 Jul 2011 00:42:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fungus of central victoria</title>
+      <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_19%2Fcollections%2Ffungus_of_central_victoria%2Faggregate%2Findex.json</link>
+      <dc:creator>openid_19</dc:creator>
+      <description>1 items</description>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_19/collections/fungus_of_central_victoria/aggregate/index.json</guid>
+      <pubDate>Wed, 06 Jul 2011 23:16:11 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

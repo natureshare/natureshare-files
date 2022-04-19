@@ -1,0 +1,104 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Merri Creek",
+ "description": "",
+ "author": {
+  "name": "openid_127",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_127%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_127%2Fcollections%2Fmerri_creek%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_127/collections/merri_creek/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_127/items/ns/2012/53b39854e35eb1298400f605.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_127%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f605.yaml",
+   "title": "Notechis scutatus",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012d94.jpg",
+   "date_published": "2012-05-29T22:02:32.000+00:00",
+   "date_modified": "2012-05-29T22:09:16.000+00:00",
+   "tags": [
+    "id~Notechis scutatus",
+    "tag~swimming"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.979561,
+     -37.755295
+    ]
+   },
+   "_meta": {
+    "date": "2009-01-19",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_127",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_127%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_127/items/ns/2012/53b39854e35eb1298400f603.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_127%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f603.yaml",
+   "title": "Anas castanea, Potamogeton ochreatus",
+   "content_text": "Family group of Chestnut Teal feeding on Potamogeton ochreatus.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012d91.jpg",
+   "date_published": "2012-05-28T21:16:09.000+00:00",
+   "date_modified": "2012-05-28T21:27:12.000+00:00",
+   "tags": [
+    "id~Anas castanea",
+    "id~Potamogeton ochreatus",
+    "tag~breeding",
+    "tag~family_group"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.988546,
+     -37.776074
+    ]
+   },
+   "_meta": {
+    "date": "2009-01-05",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "openid_127",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_127%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_127/items/ns/2015/merri_creek_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_127%2Fitems%2Fns%2F2015%2Fmerri_creek_species_list.yaml",
+   "title": "5 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2012-05-28T21:06:11.000+00:00",
+   "date_modified": "2015-04-07T08:47:37.000+00:00",
+   "tags": [
+    "id~Anas castanea",
+    "id~Anas superciliosa",
+    "id~Egeria densa",
+    "id~Notechis scutatus",
+    "id~Potamogeton ochreatus",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.028458,
+     -37.583766
+    ]
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "openid_127",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_127%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

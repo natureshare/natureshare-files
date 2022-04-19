@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/canado312/items/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Observations</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcanado312%2Fitems%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 canado312</copyright>
+    <pubDate>Fri, 14 Apr 2017 10:38:29 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Pardalotus punctatus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcanado312%2Fitems%2Fns%2F2017%2F58f0a67ced2a89486500239a.yaml</link>
+      <dc:creator>canado312</dc:creator>
+      <description>-</description>
+      <category>id~Pardalotus punctatus</category>
+      <guid isPermaLink="false">https://files.natureshare.org/canado312/items/ns/2017/58f0a67ced2a89486500239a.yaml</guid>
+      <pubDate>Fri, 14 Apr 2017 10:38:29 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

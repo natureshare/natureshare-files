@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.596,
+     -37.391
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/collections/reptiles_and_amphibians_of_central_victoria/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fcollections%2Freptiles_and_amphibians_of_central_victoria%2Faggregate%2Findex.json",
+    "date": "2011-05-27",
+    "title": "openid_31",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b8e.jpg"
+   }
+  }
+ ]
+}

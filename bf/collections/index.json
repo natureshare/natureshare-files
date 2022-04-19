@@ -1,0 +1,107 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "bf",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbf%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbf%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/bf/collections/index.json",
+ "items": [
+  {
+   "title": "Millbrook",
+   "content_text": "12 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bdc5c53ed2a89c6aa000126.jpg",
+   "date_published": "2018-11-02T14:20:22.000+00:00",
+   "date_modified": "2018-11-02T14:20:22.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.068585,
+     -37.623905
+    ]
+   },
+   "_meta": {
+    "itemCount": 12,
+    "date": "2018-11-02",
+    "name": "millbrook",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/bf/collections/millbrook/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbf%2Fcollections%2Fmillbrook%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Brisbane ranges national park plants",
+   "content_text": "3 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b61cb37ed2a89c6aa000072.JPG",
+   "date_published": "2018-08-01T15:05:33.000+00:00",
+   "date_modified": "2018-08-01T15:05:33.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.223,
+     -37.868
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2018-08-01",
+    "name": "brisbane_ranges_national_park_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/bf/collections/brisbane_ranges_national_park_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbf%2Fcollections%2Fbrisbane_ranges_national_park_plants%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Mount Beckworth Scenic Reserve",
+   "content_text": "14 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b61b784ed2a892807000088.JPG",
+   "date_published": "2018-08-01T13:40:01.000+00:00",
+   "date_modified": "2018-08-01T13:40:01.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.717936,
+     -37.308543
+    ]
+   },
+   "_meta": {
+    "itemCount": 14,
+    "date": "2018-08-01",
+    "name": "mount_beckworth",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/bf/collections/mount_beckworth/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbf%2Fcollections%2Fmount_beckworth%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Victorian volcanic plains native plants",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b5e6105ed2a891efe000070.jpg",
+   "date_published": "2018-07-30T00:53:34.000+00:00",
+   "date_modified": "2018-07-30T00:53:34.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.069,
+     -37.624
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2018-07-30",
+    "name": "victorian_volcanic_plains_native_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/bf/collections/victorian_volcanic_plains_native_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbf%2Fcollections%2Fvictorian_volcanic_plains_native_plants%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 4,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

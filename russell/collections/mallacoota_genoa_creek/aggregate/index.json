@@ -1,0 +1,71 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Mallacoota, Genoa Creek",
+ "description": "",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmallacoota_genoa_creek%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/mallacoota_genoa_creek/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2014/53b3985ae35eb12984010b10.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2F53b3985ae35eb12984010b10.yaml",
+   "title": "Drosera binata",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb12984014df3.jpg",
+   "date_published": "2014-01-30T20:15:54.000+00:00",
+   "date_modified": "2014-07-02T13:43:15.000+00:00",
+   "tags": [
+    "id~Drosera binata",
+    "tag~flower"
+   ],
+   "_geo": {
+    "coordinates": [
+     149.555336,
+     -37.48011
+    ]
+   },
+   "_meta": {
+    "date": "2014-01-30",
+    "imageCount": 3
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2015/mallacoota_genoa_creek_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Fmallacoota_genoa_creek_species_list.yaml",
+   "title": "Drosera binata, Drosera spatulata",
+   "content_text": "Species list for collection.",
+   "date_published": "2011-06-08T10:26:39.000+00:00",
+   "date_modified": "2015-04-07T08:47:27.000+00:00",
+   "tags": [
+    "id~Drosera binata",
+    "id~Drosera spatulata",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

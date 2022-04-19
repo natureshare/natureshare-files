@@ -1,0 +1,69 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Plants Of Toolern Vale",
+ "description": "",
+ "author": {
+  "name": "openid_64",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_64%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_64%2Fcollections%2Fplants_of_toolern_vale%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_64/collections/plants_of_toolern_vale/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_64/items/ns/2011/53b39851e35eb1298400ea72.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_64%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ea72.yaml",
+   "title": "Unidentified",
+   "content_text": "-",
+   "date_published": "2011-08-16T13:07:26.000+00:00",
+   "date_modified": "2011-08-16T13:12:30.000+00:00",
+   "tags": [
+    "id~Unidentified",
+    "tag~flower"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.62986,
+     -37.621234
+    ]
+   },
+   "_meta": {
+    "date": "2011-08-15"
+   },
+   "author": {
+    "name": "openid_64",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_64%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_64/items/ns/2015/plants_of_toolern_vale_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_64%2Fitems%2Fns%2F2015%2Fplants_of_toolern_vale_species_list.yaml",
+   "title": "4 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2011-08-16T13:00:30.000+00:00",
+   "date_modified": "2015-04-07T08:47:35.000+00:00",
+   "tags": [
+    "id~Allocasuarina luehmannii",
+    "id~Eucalyptus melliodora",
+    "id~Eucalyptus microcarpa",
+    "id~Pseudognaphalium luteoalbum",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "openid_64",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_64%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

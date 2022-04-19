@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.946102,
+     -37.783376
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/abc123/items/ns/2015/55776f01ed2a8918dd000887.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Fns%2F2015%2F55776f01ed2a8918dd000887.yaml",
+    "date": "2015-06-07",
+    "title": "Acanthorhynchus tenuirostris",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55783a8fed2a8918dd0008e4.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.943282,
+     -37.782385
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/abc123/items/ns/2015/5505fa2aed2a8974d30004dd.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Fns%2F2015%2F5505fa2aed2a8974d30004dd.yaml",
+    "date": "2015-03-10",
+    "title": "Platalea regia",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5505fa2aed2a8974d30004da.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.942252,
+     -37.782107
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/abc123/items/ns/2015/5502d80eed2a8994a9000246.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Fns%2F2015%2F5502d80eed2a8994a9000246.yaml",
+    "date": "2015-03-12",
+    "title": "Sturnus vulgaris",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5502d80eed2a8994a9000245.PNG"
+   }
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.694871,
+     -37.457508
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_104/items/ns/2011/53b39853e35eb1298400f139.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_104%2Fitems%2Fns%2F2011%2F53b39853e35eb1298400f139.yaml",
+    "date": "2011-12-14",
+    "title": "Litoria peronii",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb12984012728.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.694694,
+     -37.457601
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_104/items/ns/2011/53b39853e35eb1298400f101.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_104%2Fitems%2Fns%2F2011%2F53b39853e35eb1298400f101.yaml",
+    "date": "2011-12-08",
+    "title": "Phalaenoides glycinae",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb129840126de.jpg"
+   }
+  }
+ ]
+}

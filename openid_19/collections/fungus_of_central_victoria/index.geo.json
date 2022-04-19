@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.263191,
+     -37.419772
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_19/items/ns/2011/53b39851e35eb1298400e958.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_19%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e958.yaml",
+    "date": "2011-06-29",
+    "title": "Tremella fuciformis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011d5e.jpg"
+   }
+  }
+ ]
+}

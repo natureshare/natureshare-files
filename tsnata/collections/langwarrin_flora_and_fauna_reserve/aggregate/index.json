@@ -1,0 +1,47 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Langwarrin flora and fauna reserve",
+ "description": "",
+ "author": {
+  "name": "tsnata",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Flangwarrin_flora_and_fauna_reserve%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/tsnata/collections/langwarrin_flora_and_fauna_reserve/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/tsnata/items/ns/2016/57ce97c9ed2a89450f001009.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2016%2F57ce97c9ed2a89450f001009.yaml",
+   "title": "Colluricincla harmonica",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57ce97e5ed2a89b71800001d.JPG",
+   "date_published": "2016-09-06T10:27:34.000+00:00",
+   "date_modified": "2016-09-06T10:27:34.000+00:00",
+   "tags": [
+    "id~Colluricincla harmonica"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.185482,
+     -38.176901
+    ]
+   },
+   "_meta": {
+    "date": "2016-09-02",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "tsnata",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

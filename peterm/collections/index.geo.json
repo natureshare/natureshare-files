@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.42,
+     -37.559
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/peterm/collections/lerderderg_state_park_-_moths/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpeterm%2Fcollections%2Flerderderg_state_park_-_moths%2Faggregate%2Findex.json",
+    "date": "2018-03-04",
+    "title": "Lerderderg state park - moths",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a9bbf89ed2a89cf9000002c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.711,
+     -37.71
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/peterm/collections/yarra_ranges_national_park_-_moths/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpeterm%2Fcollections%2Fyarra_ranges_national_park_-_moths%2Faggregate%2Findex.json",
+    "date": "2018-01-17",
+    "title": "Yarra ranges national park - moths",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a5fddabed2a8914b1000006.jpg"
+   }
+  }
+ ]
+}

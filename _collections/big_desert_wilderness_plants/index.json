@@ -1,0 +1,42 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Big Desert Wilderness Plants",
+ "description": "All users for [big_desert_wilderness_plants]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fbig_desert_wilderness_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/big_desert_wilderness_plants/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "132 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/558ad4deed2a89faa0000102.jpg",
+   "date_published": "2015-06-24T16:03:44.000+00:00",
+   "date_modified": "2015-06-24T16:03:44.000+00:00",
+   "_geo": {
+    "coordinates": [
+     141.145889,
+     -35.652312
+    ]
+   },
+   "_meta": {
+    "itemCount": 132,
+    "date": "2015-06-24",
+    "name": "big_desert_wilderness_plants",
+    "featured": true,
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/big_desert_wilderness_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fbig_desert_wilderness_plants%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.499786,
+     -37.647934
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2014/542baf91e35eb1398e000178.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2F542baf91e35eb1398e000178.yaml",
+    "date": "2014-09-29",
+    "title": "Hemicordulia tau",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/542baf90e35eb1398e000177.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.496119,
+     -37.65079
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2014/540082dfe35eb19cd5000038.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2F540082dfe35eb19cd5000038.yaml",
+    "date": "2014-07-02",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/540082dfe35eb19cd5000037.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.505753,
+     -37.662975
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2014/53b3985ae35eb12984010d48.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2F53b3985ae35eb12984010d48.yaml",
+    "date": "2014-03-23",
+    "title": "Podomyrma adelaidae",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb129840151e6.jpg"
+   }
+  }
+ ]
+}

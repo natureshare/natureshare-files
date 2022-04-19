@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/openid_52/items/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Observations</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fitems%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 openid_52</copyright>
+    <pubDate>Tue, 07 Apr 2015 08:47:35 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Leucosarcia melanoleuca, Vombatus ursinus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ebe1.yaml</link>
+      <dc:creator>openid_52</dc:creator>
+      <description>Wonga Pigeon on Boundary Hill Rd, Boho South. Weekly sightings in the district over the last 18 months, since the drought broke.</description>
+      <category>id~Leucosarcia melanoleuca</category>
+      <category>id~Vombatus ursinus</category>
+      <category>tag~burrow</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_52/items/ns/2011/53b39851e35eb1298400ebe1.yaml</guid>
+      <pubDate>Mon, 12 Sep 2011 23:24:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unidentified</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ebe0.yaml</link>
+      <dc:creator>openid_52</dc:creator>
+      <description>-</description>
+      <category>id~Unidentified</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_52/items/ns/2011/53b39851e35eb1298400ebe0.yaml</guid>
+      <pubDate>Mon, 12 Sep 2011 23:18:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Leptospermum continentale, Nesoptilotis leucotis</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e9a6.yaml</link>
+      <dc:creator>openid_52</dc:creator>
+      <description>Nest constructed in Common Baekea in Perched Boggy Shrubland EVC 185</description>
+      <category>id~Leptospermum continentale</category>
+      <category>id~Nesoptilotis leucotis</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_52/items/ns/2011/53b39851e35eb1298400e9a6.yaml</guid>
+      <pubDate>Wed, 27 Jul 2011 01:52:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tiliqua nigrolutea</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e9a5.yaml</link>
+      <dc:creator>openid_52</dc:creator>
+      <description>A likely gravid female in wetland habitat, adjacent to a stream.</description>
+      <category>id~Tiliqua nigrolutea</category>
+      <category>tag~lizard</category>
+      <category>tag~skink</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_52/items/ns/2011/53b39851e35eb1298400e9a5.yaml</guid>
+      <pubDate>Wed, 27 Jul 2011 01:48:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pseudonaja textilis</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e9a4.yaml</link>
+      <dc:creator>openid_52</dc:creator>
+      <description>-</description>
+      <category>id~Pseudonaja textilis</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_52/items/ns/2011/53b39851e35eb1298400e9a4.yaml</guid>
+      <pubDate>Wed, 27 Jul 2011 01:38:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pseudonaja textilis</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fitems%2Fns%2F2015%2Fstrathbogie_ranges_nature_atlas_project_species_list.yaml</link>
+      <dc:creator>openid_52</dc:creator>
+      <description>Species list for collection.</description>
+      <category>id~Pseudonaja textilis</category>
+      <category>tag~species-list</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_52/items/ns/2015/strathbogie_ranges_nature_atlas_project_species_list.yaml</guid>
+      <pubDate>Wed, 27 Jul 2011 01:10:14 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

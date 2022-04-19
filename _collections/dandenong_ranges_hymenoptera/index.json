@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Dandenong Ranges Hymenoptera",
+ "description": "All users for [dandenong_ranges_hymenoptera]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fdandenong_ranges_hymenoptera%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/dandenong_ranges_hymenoptera/index.json",
+ "items": [
+  {
+   "title": "argybee",
+   "content_text": "19 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/583121c3ed2a89b3fe0001ed.JPG",
+   "date_published": "2016-11-21T09:37:43.000+00:00",
+   "date_modified": "2016-11-21T09:37:43.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.35604,
+     -37.871043
+    ]
+   },
+   "_meta": {
+    "itemCount": 19,
+    "date": "2016-11-21",
+    "name": "dandenong_ranges_hymenoptera",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/argybee/collections/dandenong_ranges_hymenoptera/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fargybee%2Fcollections%2Fdandenong_ranges_hymenoptera%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "leuba",
+   "content_text": "4 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/568d0b4aed2a890f7e000001.jpg",
+   "date_published": "2016-01-06T12:44:50.000+00:00",
+   "date_modified": "2016-01-06T12:44:50.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.321,
+     -37.905
+    ]
+   },
+   "_meta": {
+    "itemCount": 4,
+    "date": "2016-01-06",
+    "name": "dandenong_ranges_hymenoptera",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/leuba/collections/dandenong_ranges_hymenoptera/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fcollections%2Fdandenong_ranges_hymenoptera%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.754,
+     -36.47
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gtgoods/collections/little_desert_np_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fcollections%2Flittle_desert_np_plants%2Faggregate%2Findex.json",
+    "date": "2015-09-15",
+    "title": "Little desert np plants",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55f7fca1ed2a890d95000181.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.168,
+     -36.5
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gtgoods/collections/wimmera_plains_flora_fauna/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fcollections%2Fwimmera_plains_flora_fauna%2Faggregate%2Findex.json",
+    "date": "2015-04-15",
+    "title": "Wimmera plains flora fauna",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/552e4ae5ed2a893e78000030.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.595,
+     -34.862
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gtgoods/collections/murray_sunset_np_south_fauna_south_of_sturt_hwy/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fcollections%2Fmurray_sunset_np_south_fauna_south_of_sturt_hwy%2Faggregate%2Findex.json",
+    "date": "2015-02-22",
+    "title": "Murray sunset np south fauna south of sturt hwy",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e97de3ed2a89ef27000537.jpg"
+   }
+  }
+ ]
+}

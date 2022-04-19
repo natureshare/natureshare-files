@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.736,
+     -37.729
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/giorgiod/collections/caroline_springs_patch_1/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fcollections%2Fcaroline_springs_patch_1%2Faggregate%2Findex.json",
+    "date": "2014-10-04",
+    "title": "giorgiod",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54307599e35eb1dec100025a.JPG"
+   }
+  }
+ ]
+}

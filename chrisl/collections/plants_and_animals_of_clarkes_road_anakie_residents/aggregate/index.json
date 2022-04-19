@@ -1,0 +1,116 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Plants and Animals of Clarkes Road, Anakie residents",
+ "description": "A list of native plants and animals recorded from private land that backs onto or is nearby Clarkes Road in Anakie.",
+ "author": {
+  "name": "chrisl",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fcollections%2Fplants_and_animals_of_clarkes_road_anakie_residents%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/chrisl/collections/plants_and_animals_of_clarkes_road_anakie_residents/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/chrisl/items/ns/2018/plants_and_animals_of_clarkes_road_anakie_residents_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2018%2Fplants_and_animals_of_clarkes_road_anakie_residents_species_list.yaml",
+   "title": "71 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2018-06-21T08:16:22.000+00:00",
+   "date_modified": "2018-06-21T08:47:44.000+00:00",
+   "tags": [
+    "id~Acacia mearnsii",
+    "id~Acacia myrtifolia",
+    "id~Acacia paradoxa",
+    "id~Acacia pycnantha",
+    "id~Acaena echinata",
+    "id~Acianthus pusillus",
+    "id~Acrotriche serrulata",
+    "id~Allocasuarina littoralis",
+    "id~Amyema miquelii",
+    "id~Arthropodium strictum s.l.",
+    "id~Astroloma humifusum",
+    "id~Brachyloma ciliatum",
+    "id~Brunonia australis",
+    "id~Calandrinia calyptrata",
+    "id~Carpobrotus modestus",
+    "id~Chamaescilla corymbosa var. corymbosa",
+    "id~Cheilanthes austrotenuifolia",
+    "id~Colluricincla harmonica",
+    "id~Comesperma volubile",
+    "id~Correa reflexa var. reflexa",
+    "id~Corybas incurvus",
+    "id~Cracticus tibicen",
+    "id~Cyrtostylis reniformis",
+    "id~Dianella revoluta var. revoluta",
+    "id~Dichondra repens",
+    "id~Diuris pardina",
+    "id~Drosera aberrans",
+    "id~Drosera glanduligera",
+    "id~Drosera macrantha subsp. macrantha",
+    "id~Einadia hastata",
+    "id~Eucalyptus goniocalyx subsp. laxa",
+    "id~Eucalyptus obliqua",
+    "id~Eucalyptus ovata var. ovata",
+    "id~Eucalyptus polyanthemos subsp. vestita",
+    "id~Euchiton japonicus s.s.",
+    "id~Gahnia radula",
+    "id~Geranium spp.",
+    "id~Glossodia major",
+    "id~Gonocarpus tetragynus",
+    "id~Goodenia geniculata",
+    "id~Hibbertia riparia",
+    "id~Hydrocotyle foveolata",
+    "id~Hydrocotyle laxiflora",
+    "id~Hypericum gramineum spp. agg.",
+    "id~Isopogon ceratophyllus",
+    "id~Lepidosperma semiteres",
+    "id~Leptospermum myrsinoides",
+    "id~Lomandra filiformis subsp. coriacea",
+    "id~Lomandra multiflora subsp. multiflora",
+    "id~Macropus giganteus",
+    "id~Microlaena stipoides var. stipoides",
+    "id~Oxalis exilis",
+    "id~Pimelea humilis",
+    "id~Platylobium obtusangulum",
+    "id~Pterostylis concinna",
+    "id~Pterostylis melagramma",
+    "id~Pterostylis nana",
+    "id~Pterostylis nutans",
+    "id~Pterostylis parviflora s.s.",
+    "id~Pterostylis smaragdyna",
+    "id~Pterostylis striata",
+    "id~Ranunculus sessiliflorus var. sessiliflorus",
+    "id~Rhipidura leucophrys",
+    "id~Rytidosperma spp.",
+    "id~Senecio tenuiflorus spp. agg.",
+    "id~Tachyglossus aculeatus",
+    "id~Thelymitra pauciflora s.l.",
+    "id~Thysanotus patersonii",
+    "id~Viola hederacea sensu Entwisle (1996)",
+    "id~Wahlenbergia stricta subsp. stricta",
+    "id~Xanthorrhoea australis",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.213634,
+     -37.916153
+    ]
+   },
+   "_meta": {
+    "date": "2018-06-21"
+   },
+   "author": {
+    "name": "chrisl",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": "<p>A list of native plants and animals recorded from private land that backs onto or is nearby Clarkes Road in Anakie.</p>\n"
+ }
+}

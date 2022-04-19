@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.359473,
+     -37.878631
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/argybee/collections/dandenong_ranges_diptera/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fargybee%2Fcollections%2Fdandenong_ranges_diptera%2Faggregate%2Findex.json",
+    "date": "2016-11-21",
+    "title": "argybee",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5832a4cbed2a89d73e0001de.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.27,
+     -37.956
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/leuba/collections/dandenong_ranges_diptera/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fcollections%2Fdandenong_ranges_diptera%2Faggregate%2Findex.json",
+    "date": "2016-01-18",
+    "title": "leuba",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/569c2e0bed2a897bc7000013.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.149822,
+     -37.885066
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_100/items/ns/2015/plants_of_scotchmans_creek_crosby_drive_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_100%2Fitems%2Fns%2F2015%2Fplants_of_scotchmans_creek_crosby_drive_species_list.yaml",
+    "date": "2015-04-07",
+    "title": "80 ids"
+   }
+  }
+ ]
+}

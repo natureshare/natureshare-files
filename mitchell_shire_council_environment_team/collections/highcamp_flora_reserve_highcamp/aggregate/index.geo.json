@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.890609,
+     -37.182835
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/mitchell_shire_council_environment_team/items/ns/2015/54ff763bed2a8994a90000ba.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fitems%2Fns%2F2015%2F54ff763bed2a8994a90000ba.yaml",
+    "date": "2007-09-15",
+    "title": "Wurmbea dioica subsp. dioica",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ff763bed2a8994a90000b7.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.889987,
+     -37.182305
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/mitchell_shire_council_environment_team/items/ns/2015/54ff7495ed2a8974d3000159.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fitems%2Fns%2F2015%2F54ff7495ed2a8974d3000159.yaml",
+    "date": "2007-09-16",
+    "title": "Hibbertia humifusa subsp. humifusa",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ff7495ed2a8974d3000157.JPG"
+   }
+  }
+ ]
+}

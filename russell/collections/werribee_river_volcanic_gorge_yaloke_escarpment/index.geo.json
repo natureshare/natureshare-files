@@ -1,0 +1,54 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.580383,
+     -37.764023
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2011/53b39850e35eb1298400e813.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e813.yaml",
+    "date": "2011-06-05",
+    "title": "Sigesbeckia australiensis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011bbc.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.580383,
+     -37.764023
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2011/53b39850e35eb1298400e810.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e810.yaml",
+    "date": "2011-06-05",
+    "title": "35 ids"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.580383,
+     -37.764023
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2011/53b39850e35eb1298400e80f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e80f.yaml",
+    "date": "2011-06-05",
+    "title": "31 ids"
+   }
+  }
+ ]
+}

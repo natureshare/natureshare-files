@@ -1,0 +1,21 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.768,
+     -37.707
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_76/collections/birds_of_6_shearer_close_sydenham_vic/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_76%2Fcollections%2Fbirds_of_6_shearer_close_sydenham_vic%2Faggregate%2Findex.json",
+    "date": "2011-10-17",
+    "title": "Birds of 6 shearer close sydenham vic"
+   }
+  }
+ ]
+}

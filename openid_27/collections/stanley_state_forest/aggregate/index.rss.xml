@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/openid_27/collections/stanley_state_forest/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Stanley state forest</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_27%2Fcollections%2Fstanley_state_forest%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 openid_27</copyright>
+    <pubDate>Wed, 10 Dec 2014 02:50:03 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Unidentified</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_27%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e49f.yaml</link>
+      <dc:creator>openid_27</dc:creator>
+      <description>-</description>
+      <category>id~Unidentified</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_27/items/ns/2011/53b3984fe35eb1298400e49f.yaml</guid>
+      <pubDate>Thu, 10 Mar 2011 18:23:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dianella revoluta s.l., Dianella revoluta var. revoluta</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_27%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e49e.yaml</link>
+      <dc:creator>openid_27</dc:creator>
+      <description>-</description>
+      <category>id~Dianella revoluta s.l.</category>
+      <category>id~Dianella revoluta var. revoluta</category>
+      <category>tag~flower</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_27/items/ns/2011/53b3984fe35eb1298400e49e.yaml</guid>
+      <pubDate>Thu, 10 Mar 2011 18:11:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Leucochrysum albicans var. albicans</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_27%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e49d.yaml</link>
+      <dc:creator>openid_27</dc:creator>
+      <description>-</description>
+      <category>id~Leucochrysum albicans var. albicans</category>
+      <category>tag~flower</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_27/items/ns/2011/53b3984fe35eb1298400e49d.yaml</guid>
+      <pubDate>Thu, 10 Mar 2011 17:57:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Diptera spp.</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_27%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e49c.yaml</link>
+      <dc:creator>openid_27</dc:creator>
+      <description>-</description>
+      <category>id~Diptera spp.</category>
+      <category>tag~insect</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_27/items/ns/2011/53b3984fe35eb1298400e49c.yaml</guid>
+      <pubDate>Thu, 10 Mar 2011 17:51:52 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

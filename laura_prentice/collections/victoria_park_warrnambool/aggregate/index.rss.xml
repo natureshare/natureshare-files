@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/laura_prentice/collections/victoria_park_warrnambool/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Victoria Park Warrnambool</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flaura_prentice%2Fcollections%2Fvictoria_park_warrnambool%2Faggregate%2Findex.json</link>
+    <description>Nature in a 14ha park next to the industrial estate in Warrnambool. Community groups in the 1980's planted native trees and the park retains a small amount of remnant native grasses. Its a place where we can all get close to nature in the town. We hope to see an increase in birds as "Friends of Victoria Park"plants more native understory plants. </description>
+    <language>en-us</language>
+    <copyright>© 2022 laura_prentice</copyright>
+    <pubDate>Fri, 02 Sep 2016 13:08:42 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Phascolarctos cinereus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flaura_prentice%2Fitems%2Fns%2F2016%2F57b63cd3ed2a89450f000624.yaml</link>
+      <dc:creator>laura_prentice</dc:creator>
+      <description>We found this Koala during our community bird survey!</description>
+      <category>id~Phascolarctos cinereus</category>
+      <guid isPermaLink="false">https://files.natureshare.org/laura_prentice/items/ns/2016/57b63cd3ed2a89450f000624.yaml</guid>
+      <pubDate>Thu, 01 Sep 2016 23:27:56 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

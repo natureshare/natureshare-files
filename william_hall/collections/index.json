@@ -1,0 +1,85 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "william_hall",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwilliam_hall%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwilliam_hall%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/william_hall/collections/index.json",
+ "items": [
+  {
+   "title": "Birds of riddells creek",
+   "content_text": "13 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb12984014792.jpg",
+   "date_published": "2013-11-10T15:05:19.000+00:00",
+   "date_modified": "2013-11-10T15:05:19.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.685,
+     -37.446
+    ]
+   },
+   "_meta": {
+    "itemCount": 13,
+    "date": "2013-11-10",
+    "name": "birds_of_riddells_creek",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/william_hall/collections/birds_of_riddells_creek/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwilliam_hall%2Fcollections%2Fbirds_of_riddells_creek%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Frogs of riddells creek",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb129840137ae.jpg",
+   "date_published": "2012-12-24T09:23:15.000+00:00",
+   "date_modified": "2012-12-24T09:23:15.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.684,
+     -37.446
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2012-12-24",
+    "name": "frogs_of_riddells_creek",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/william_hall/collections/frogs_of_riddells_creek/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwilliam_hall%2Fcollections%2Ffrogs_of_riddells_creek%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Insects and other invertebrates of riddells creek",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb12984013722.jpg",
+   "date_published": "2012-12-19T10:37:36.000+00:00",
+   "date_modified": "2012-12-19T10:37:36.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.685,
+     -37.446
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2012-12-19",
+    "name": "insects_and_other_invertebrates_of_riddells_creek",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/william_hall/collections/insects_and_other_invertebrates_of_riddells_creek/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwilliam_hall%2Fcollections%2Finsects_and_other_invertebrates_of_riddells_creek%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

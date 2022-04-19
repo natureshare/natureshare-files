@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.471546,
+     -36.854176
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/helena/items/ns/2016/5818782ced2a897480001b68.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fhelena%2Fitems%2Fns%2F2016%2F5818782ced2a897480001b68.yaml",
+    "date": "2016-10-29",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5818787fed2a89d73e000171.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.471753,
+     -36.851593
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/helena/items/ns/2016/58219499ed2a897480002c67.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fhelena%2Fitems%2Fns%2F2016%2F58219499ed2a897480002c67.yaml",
+    "date": "2016-10-31",
+    "title": "Brunonia australis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/582194b8ed2a89b3fe0001b5.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.472053,
+     -36.852177
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/helena/items/ns/2016/58186eebed2a897480001b27.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fhelena%2Fitems%2Fns%2F2016%2F58186eebed2a897480001b27.yaml",
+    "date": "2016-10-31",
+    "title": "Dillwynia glaberrima",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58186f21ed2a892daf0001a7.jpg"
+   }
+  }
+ ]
+}

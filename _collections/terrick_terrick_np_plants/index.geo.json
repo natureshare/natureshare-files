@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.224808,
+     -36.147116
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/terrick_terrick_np_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fterrick_terrick_np_plants%2Faggregate%2Findex.json",
+    "date": "2014-10-05",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54310d65e35eb1bbd0000025.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.244,
+     -36.168
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/cclarke/collections/terrick_terrick_np_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fcollections%2Fterrick_terrick_np_plants%2Faggregate%2Findex.json",
+    "date": "2012-03-11",
+    "title": "cclarke",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012aee.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "jedwards",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/jedwards/collections/index.json",
+ "items": [
+  {
+   "title": "Flora & Fauna of Whittlesea",
+   "content_text": "26 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143db.jpg",
+   "date_published": "2013-09-11T14:32:20.000+00:00",
+   "date_modified": "2013-09-11T14:32:20.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.156,
+     -37.517
+    ]
+   },
+   "_meta": {
+    "itemCount": 26,
+    "date": "2013-09-11",
+    "name": "flora_fauna_of_whittlesea",
+    "featured": true,
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/jedwards/collections/flora_fauna_of_whittlesea/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fcollections%2Fflora_fauna_of_whittlesea%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Plants and Animals of Werribee ",
+   "content_text": "52 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5b960d3ded2a89cce30032a4/2019-02-13/1550043274/IMG_3461.JPG",
+   "date_published": "2019-02-13T07:35:18.000+00:00",
+   "date_modified": "2019-02-13T07:35:18.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.594165,
+     -37.880358
+    ]
+   },
+   "_meta": {
+    "itemCount": 52,
+    "date": "2019-02-13",
+    "name": "plants_and_animals_of_werribee",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/jedwards/collections/plants_and_animals_of_werribee/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fcollections%2Fplants_and_animals_of_werribee%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Birds of 25 ferres blvd south morang",
+   "content_text": "3 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55b83e66ed2a89db81000346.jpg",
+   "date_published": "2016-04-27T07:01:54.000+00:00",
+   "date_modified": "2016-04-27T07:01:54.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.068,
+     -37.645
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2016-04-27",
+    "name": "birds_of_25_ferres_blvd_south_morang",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/jedwards/collections/birds_of_25_ferres_blvd_south_morang/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fcollections%2Fbirds_of_25_ferres_blvd_south_morang%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

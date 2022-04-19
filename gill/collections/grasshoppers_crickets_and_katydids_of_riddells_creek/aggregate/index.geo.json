@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.683212,
+     -37.458368
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2011/53b3984fe35eb1298400e586.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e586.yaml",
+    "date": "2011-03-28",
+    "title": "Caedicia simplex",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011879.jpg"
+   }
+  }
+ ]
+}

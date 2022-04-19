@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/reilly/collections/wyperfeld_np_plants/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Wyperfeld np plants</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fcollections%2Fwyperfeld_np_plants%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 reilly</copyright>
+    <pubDate>Sun, 09 Nov 2014 23:52:53 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Unidentified</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2014%2F53c501e2e35eb1387b00002f.yaml</link>
+      <dc:creator>reilly</dc:creator>
+      <description>-</description>
+      <category>id~Unidentified</category>
+      <category>tag~landscape</category>
+      <guid isPermaLink="false">https://files.natureshare.org/reilly/items/ns/2014/53c501e2e35eb1387b00002f.yaml</guid>
+      <pubDate>Tue, 15 Jul 2014 10:26:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Triodia spp.</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2014%2F53c50128e35eb11bc6000036.yaml</link>
+      <dc:creator>reilly</dc:creator>
+      <description>-</description>
+      <category>id~Triodia spp.</category>
+      <guid isPermaLink="false">https://files.natureshare.org/reilly/items/ns/2014/53c50128e35eb11bc6000036.yaml</guid>
+      <pubDate>Tue, 15 Jul 2014 10:23:36 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

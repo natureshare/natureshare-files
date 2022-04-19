@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.162974,
+     -37.522096
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2013/53b39858e35eb129840104b6.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39858e35eb129840104b6.yaml",
+    "date": "2013-09-08",
+    "title": "Diuris pardina",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143cc.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.16298,
+     -37.521966
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2013/53b39858e35eb129840104b5.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39858e35eb129840104b5.yaml",
+    "date": "2013-09-08",
+    "title": "Caladenia carnea s.s.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143cb.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.163071,
+     -37.522209
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2013/53b39858e35eb129840104b3.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39858e35eb129840104b3.yaml",
+    "date": "2013-09-08",
+    "title": "Glossodia major",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143c9.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.188736,
+     -37.521034
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2013/53b39858e35eb12984010427.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39858e35eb12984010427.yaml",
+    "date": "2013-08-30",
+    "title": "Caladenia praecox",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840142d7.jpg"
+   }
+  }
+ ]
+}

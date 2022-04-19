@@ -1,0 +1,47 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Derrimut grassland flora",
+ "description": "",
+ "author": {
+  "name": "cclarke",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fcollections%2Fderrimut_grassland_flora%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/cclarke/collections/derrimut_grassland_flora/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/cclarke/items/ns/2011/53b39850e35eb1298400e6d8.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e6d8.yaml",
+   "title": "Goodenia pinnatifida",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011a14.jpg",
+   "date_published": "2011-04-28T18:28:48.000+00:00",
+   "date_modified": "2011-04-28T18:32:36.000+00:00",
+   "tags": [
+    "id~Goodenia pinnatifida"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.799719,
+     -37.805274
+    ]
+   },
+   "_meta": {
+    "date": "2008-09-10",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "cclarke",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

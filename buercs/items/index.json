@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "buercs",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbuercs%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbuercs%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/buercs/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/buercs/items/ns/2018/5b932ce7ed2a89cce30026c5.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbuercs%2Fitems%2Fns%2F2018%2F5b932ce7ed2a89cce30026c5.yaml",
+   "title": "Caladenia grampiana",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b932ceded2a8928070000d3.jpeg",
+   "date_published": "2018-09-08T01:59:03.000+00:00",
+   "date_modified": "2018-09-08T02:00:57.000+00:00",
+   "tags": [
+    "id~Caladenia grampiana"
+   ],
+   "_geo": {
+    "coordinates": [
+     142.494217,
+     -37.022706
+    ]
+   },
+   "_meta": {
+    "date": "2018-09-08",
+    "imageCount": 1
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/buercs/items/ns/2018/5b920d35ed2a89cce3002243.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbuercs%2Fitems%2Fns%2F2018%2F5b920d35ed2a89cce3002243.yaml",
+   "title": "Leporella fimbriata",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b920d3bed2a89c6aa0000b5.jpeg",
+   "date_published": "2018-09-07T05:31:33.000+00:00",
+   "date_modified": "2018-09-08T03:56:51.000+00:00",
+   "tags": [
+    "id~Leporella fimbriata"
+   ],
+   "_geo": {
+    "coordinates": [
+     142.50795,
+     -37.05243
+    ]
+   },
+   "_meta": {
+    "date": "2018-09-07",
+    "imageCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,89 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Neds Corner Flora Survey Quadrat 0302",
+ "description": "",
+ "author": {
+  "name": "chrisl",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fcollections%2Fneds_corner_flora_survey_quadrat_0302%2Findex.json",
+ "feed_url": "https://files.natureshare.org/chrisl/collections/neds_corner_flora_survey_quadrat_0302/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/chrisl/items/ns/2015/neds_corner_flora_survey_quadrat_0302_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2015%2Fneds_corner_flora_survey_quadrat_0302_species_list.yaml",
+   "title": "46 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2015-10-06T04:05:32.000+00:00",
+   "date_modified": "2015-10-06T05:32:13.000+00:00",
+   "tags": [
+    "id~Acacia oswaldii",
+    "id~Actinobole uliginosum",
+    "id~Atriplex lindleyi subsp. inflata",
+    "id~Austrostipa nitida",
+    "id~Austrostipa scabra subsp. falcata",
+    "id~Brachyscome lineariloba",
+    "id~Bromus rubens",
+    "id~Bulbine semibarbata",
+    "id~Calandrinia eremaea",
+    "id~Callitris gracilis",
+    "id~Citrullus lanatus",
+    "id~Crassula colorata",
+    "id~Crassula sieberiana s.l.",
+    "id~Cucumis myriocarpus subsp. leptodermis",
+    "id~Daucus glochidiatus",
+    "id~Echium plantagineum",
+    "id~Enchylaena tomentosa var. tomentosa",
+    "id~Enneapogon avenaceus",
+    "id~Erodium crinitum",
+    "id~Euphorbia drummondii",
+    "id~Hordeum glaucum",
+    "id~Hypochaeris radicata",
+    "id~Lactuca spp.",
+    "id~Limonium lobatum",
+    "id~Lycium australe",
+    "id~Maireana pyramidata",
+    "id~Maireana radiata",
+    "id~Medicago minima",
+    "id~Medicago polymorpha",
+    "id~Mesembryanthemum crystallinum",
+    "id~Mesembryanthemum nodiflorum",
+    "id~Nicotiana velutina",
+    "id~Pogonolepis muelleriana",
+    "id~Polycalymma stuartii",
+    "id~Rhagodia spinescens",
+    "id~Rhodanthe moschata",
+    "id~Salsola tragus subsp. tragus",
+    "id~Sarcozona praecox",
+    "id~Schismus barbatus",
+    "id~Sclerochlamys brachyptera",
+    "id~Senecio glossanthus s.s.",
+    "id~Silene apetala var. apetala",
+    "id~Sisymbrium orientale",
+    "id~Sonchus asper s.s.",
+    "id~Sonchus oleraceus",
+    "id~Tetragonia eremaea s.l.",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     141.29161,
+     -34.132843
+    ]
+   },
+   "_meta": {
+    "date": "2015-10-06"
+   },
+   "author": {
+    "name": "chrisl",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

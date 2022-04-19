@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.715257,
+     -37.466759
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2013/53b39857e35eb129840100d2.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39857e35eb129840100d2.yaml",
+    "date": "2013-05-09",
+    "title": "Senecio cunninghamii var. cunninghamii",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39867e35eb12984013d94.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.718885,
+     -37.468936
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2012/53b39854e35eb1298400f5d6.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f5d6.yaml",
+    "date": "2012-05-10",
+    "title": "Banksia marginata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012d44.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.718713,
+     -37.468875
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2011/53b3984fe35eb1298400e47f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e47f.yaml",
+    "date": "2010-11-11",
+    "title": "Thelymitra megcalyptra",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb12984011753.jpg"
+   }
+  }
+ ]
+}

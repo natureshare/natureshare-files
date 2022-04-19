@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.555023,
+     -38.756786
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/items/ns/2014/54a3d951e35eb106b8000048.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2014%2F54a3d951e35eb106b8000048.yaml",
+    "date": "2014-12-28",
+    "title": "Hymenophyllum flabellatum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54a3d950e35eb106b8000043.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.555023,
+     -38.756786
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/items/ns/2014/54a3d472e35eb1c61e00007f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2014%2F54a3d472e35eb1c61e00007f.yaml",
+    "date": "2014-12-28",
+    "title": "Crepidomanes venosum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54a3d471e35eb1c61e00007b.jpg"
+   }
+  }
+ ]
+}

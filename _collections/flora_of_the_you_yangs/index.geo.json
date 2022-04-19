@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.419,
+     -37.955
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_7/collections/flora_of_the_you_yangs/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fcollections%2Fflora_of_the_you_yangs%2Faggregate%2Findex.json",
+    "date": "2018-10-11",
+    "title": "openid_7",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbef546ed2a891efe0000f8.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.415,
+     -37.955
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/westernplainsgardener/collections/flora_of_the_you_yangs/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fcollections%2Fflora_of_the_you_yangs%2Faggregate%2Findex.json",
+    "date": "2018-10-11",
+    "title": "westernplainsgardener",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbef546ed2a891efe0000f8.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.414,
+     -37.955
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/collections/flora_of_the_you_yangs/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fflora_of_the_you_yangs%2Faggregate%2Findex.json",
+    "date": "2017-05-18",
+    "title": "tsnata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/591d7cf1ed2a89a81f00013a.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.444,
+     -37.956
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/collections/flora_of_the_you_yangs/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fcollections%2Fflora_of_the_you_yangs%2Faggregate%2Findex.json",
+    "date": "2016-03-26",
+    "title": "chrisl",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56f5ef28ed2a890be700015c.jpg"
+   }
+  }
+ ]
+}

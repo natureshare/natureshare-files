@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.167001,
+     -36.499408
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gtgoods/items/ns/2015/552e4ae5ed2a893e78000031.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fitems%2Fns%2F2015%2F552e4ae5ed2a893e78000031.yaml",
+    "date": "2015-03-12",
+    "title": "Enchylaena tomentosa var. tomentosa (prostrate form)",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/552e4ae5ed2a893e78000030.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.168331,
+     -36.501754
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gtgoods/items/ns/2015/54e982d7ed2a8987b70005af.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fitems%2Fns%2F2015%2F54e982d7ed2a8987b70005af.yaml",
+    "date": "2015-02-19",
+    "title": "Synemon selene",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e982d6ed2a8987b70005ae.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.168632,
+     -36.49858
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gtgoods/items/ns/2015/54e98110ed2a8987b70005ab.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fitems%2Fns%2F2015%2F54e98110ed2a8987b70005ab.yaml",
+    "date": "2011-11-08",
+    "title": "Malurus lamberti",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e98110ed2a8987b70005aa.jpg"
+   }
+  }
+ ]
+}

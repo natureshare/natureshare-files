@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Wonthaggi Heathlands Nature Conservation Reserve",
+ "description": "All users for [wonthaggi_heathlands_nature_conservation_reserve]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fwonthaggi_heathlands_nature_conservation_reserve%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/wonthaggi_heathlands_nature_conservation_reserve/index.json",
+ "items": [
+  {
+   "title": "koolah",
+   "content_text": "4 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57cfbb33ed2a89d73e000029.jpg",
+   "date_published": "2016-09-07T07:08:11.000+00:00",
+   "date_modified": "2016-09-07T07:08:11.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.568619,
+     -38.633029
+    ]
+   },
+   "_meta": {
+    "itemCount": 4,
+    "date": "2016-09-07",
+    "name": "wonthaggi_heathlands_nature_conservation_reserve",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/koolah/collections/wonthaggi_heathlands_nature_conservation_reserve/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fcollections%2Fwonthaggi_heathlands_nature_conservation_reserve%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "tsnata",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57cfbb33ed2a89d73e000029.jpg",
+   "date_published": "2016-09-07T07:08:11.000+00:00",
+   "date_modified": "2016-09-07T07:08:11.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.564,
+     -38.63
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2016-09-07",
+    "name": "wonthaggi_heathlands_nature_conservation_reserve",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/tsnata/collections/wonthaggi_heathlands_nature_conservation_reserve/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fwonthaggi_heathlands_nature_conservation_reserve%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

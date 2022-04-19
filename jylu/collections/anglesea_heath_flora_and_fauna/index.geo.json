@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.181895,
+     -38.401406
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jylu/items/ns/2016/57f4c14aed2a89450f008aba.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fitems%2Fns%2F2016%2F57f4c14aed2a89450f008aba.yaml",
+    "date": "2016-10-02",
+    "title": "Drosera pygmaea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f4c171ed2a89b3fe0000de.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.181882,
+     -38.401478
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jylu/items/ns/2016/57f4bf26ed2a89450f008ab5.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fitems%2Fns%2F2016%2F57f4bf26ed2a89450f008ab5.yaml",
+    "date": "2016-10-02",
+    "title": "Drosera glanduligera",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f4bf53ed2a89d73e0000e3.JPG"
+   }
+  }
+ ]
+}

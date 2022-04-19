@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/koolah/collections/strange_fungi_and_lichen/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Strange Fungi And Lichen</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fcollections%2Fstrange_fungi_and_lichen%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 koolah</copyright>
+    <pubDate>Fri, 27 Jul 2018 01:34:59 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Coltricia cinnamomea</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fitems%2Fns%2F2015%2F55dc55b4ed2a897ee1000031.yaml</link>
+      <dc:creator>koolah</dc:creator>
+      <description>Infected.</description>
+      <category>id~Coltricia cinnamomea</category>
+      <category>tag~brown</category>
+      <guid isPermaLink="false">https://files.natureshare.org/koolah/items/ns/2015/55dc55b4ed2a897ee1000031.yaml</guid>
+      <pubDate>Tue, 25 Aug 2015 11:47:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

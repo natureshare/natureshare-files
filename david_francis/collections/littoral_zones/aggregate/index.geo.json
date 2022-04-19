@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.326564,
+     -38.340625
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/items/ns/2018/5a92846eed2a89ad32000a5d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2018%2F5a92846eed2a89ad32000a5d.yaml",
+    "date": "2018-02-25",
+    "title": "Corallina spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a928472ed2a897fc8000005.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.326822,
+     -38.340667
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/items/ns/2018/5a926359ed2a89bcb90000e0.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2018%2F5a926359ed2a89bcb90000e0.yaml",
+    "date": "2018-02-25",
+    "title": "Hormosira banksii",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a92635ded2a89cf9000000e.jpg"
+   }
+  }
+ ]
+}

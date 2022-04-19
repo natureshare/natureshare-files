@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.301227,
+     -37.002097
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/items/ns/2015/54d5ee7fed2a89cd200004ad.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Fns%2F2015%2F54d5ee7fed2a89cd200004ad.yaml",
+    "date": "2015-02-01",
+    "title": "Acacia pravissima",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54d5ee7eed2a89cd200004ab.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.301227,
+     -37.002097
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/items/ns/2015/54d5ede1ed2a89cd200004a6.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Fns%2F2015%2F54d5ede1ed2a89cd200004a6.yaml",
+    "date": "2015-02-01",
+    "title": "Rhipidura albiscarpa",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54d5ede0ed2a89cd200004a5.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.29789,
+     -37.00353
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/items/ns/2015/54d5ed5aed2a89cd200004a2.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Fns%2F2015%2F54d5ed5aed2a89cd200004a2.yaml",
+    "date": "2015-02-01",
+    "title": "Eucalyptus globulus subsp. bicostata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54d5ed5aed2a89cd200004a1.JPG"
+   }
+  }
+ ]
+}

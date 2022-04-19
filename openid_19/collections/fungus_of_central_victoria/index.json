@@ -1,0 +1,46 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Fungus Of Central Victoria",
+ "description": "",
+ "author": {
+  "name": "openid_19",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_19%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_19%2Fcollections%2Ffungus_of_central_victoria%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_19/collections/fungus_of_central_victoria/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_19/items/ns/2011/53b39851e35eb1298400e958.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_19%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e958.yaml",
+   "title": "Tremella fuciformis",
+   "content_text": "Tremella fuciformis is a form of jelly fungus. It looked like a srewed up wet tissue sitting on a log. Have never seen one before. \n",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011d5e.jpg",
+   "date_published": "2011-07-06T23:16:11.000+00:00",
+   "date_modified": "2015-07-19T05:11:25.000+00:00",
+   "tags": [
+    "id~Tremella fuciformis",
+    "tag~fungus"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.263191,
+     -37.419772
+    ]
+   },
+   "_meta": {
+    "date": "2011-06-29",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_19",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_19%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

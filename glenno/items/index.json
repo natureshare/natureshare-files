@@ -1,0 +1,42 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "glenno",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fglenno%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fglenno%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/glenno/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/glenno/items/ns/2016/5725bf7bed2a89e6680002df.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fglenno%2Fitems%2Fns%2F2016%2F5725bf7bed2a89e6680002df.yaml",
+   "title": "Tiliqua scincoides, Tiliqua spp.",
+   "content_text": "I've noticed a few lizards around town even brown snakes in same area willl publish more species as i come across them",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5725bf82ed2a890be70001cb.jpg",
+   "date_published": "2016-05-01T08:47:15.000+00:00",
+   "date_modified": "2016-05-01T11:15:06.000+00:00",
+   "tags": [
+    "id~Tiliqua scincoides",
+    "id~Tiliqua spp."
+   ],
+   "_geo": {
+    "coordinates": [
+     144.439621,
+     -37.679961
+    ]
+   },
+   "_meta": {
+    "date": "2016-05-01",
+    "imageCount": 2
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

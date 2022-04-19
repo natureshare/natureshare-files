@@ -1,0 +1,45 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Birds Of Riddells Creek",
+ "description": "",
+ "author": {
+  "name": "david_francis",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fbirds_of_riddells_creek%2Findex.json",
+ "feed_url": "https://files.natureshare.org/david_francis/collections/birds_of_riddells_creek/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/david_francis/items/ns/2010/53b3984ee35eb1298400e0f1.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2010%2F53b3984ee35eb1298400e0f1.yaml",
+   "title": "Falco peregrinus",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ce35eb12984011329.jpg",
+   "date_published": "2010-06-20T20:55:09.000+00:00",
+   "date_modified": "2010-06-21T19:31:23.000+00:00",
+   "tags": [
+    "id~Falco peregrinus"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.666381,
+     -37.4183
+    ]
+   },
+   "_meta": {
+    "date": "2008-10-25",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "david_francis",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

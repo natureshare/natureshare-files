@@ -1,0 +1,76 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Broadmeadows Valley Park",
+ "description": "",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fbroadmeadows_valley_park%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/broadmeadows_valley_park/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2010/53b3984fe35eb1298400e39b.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2010%2F53b3984fe35eb1298400e39b.yaml",
+   "title": "Geranium sp. 1",
+   "content_text": "Broadmeadows.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb1298401165f.jpg",
+   "date_published": "2010-11-29T17:22:20.000+00:00",
+   "date_modified": "2014-05-22T16:53:56.000+00:00",
+   "tags": [
+    "id~Geranium sp. 1",
+    "tag~long-hairs-present",
+    "tag~seedpod"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.914749,
+     -37.667751
+    ]
+   },
+   "_meta": {
+    "date": "2010-11-25",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2010/53b3984fe35eb1298400e39a.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2010%2F53b3984fe35eb1298400e39a.yaml",
+   "title": "Geranium sp. 1",
+   "content_text": "Broadmeadows.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb1298401165d.jpg",
+   "date_published": "2010-11-29T17:10:08.000+00:00",
+   "date_modified": "2014-05-22T16:54:37.000+00:00",
+   "tags": [
+    "id~Geranium sp. 1",
+    "tag~flower",
+    "tag~long-hairs-absent",
+    "tag~sepal"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.914749,
+     -37.667751
+    ]
+   },
+   "_meta": {
+    "date": "2010-11-25",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

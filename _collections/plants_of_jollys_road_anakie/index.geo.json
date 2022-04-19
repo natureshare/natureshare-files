@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.224,
+     -37.902
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/collections/plants_of_jollys_road_anakie/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fcollections%2Fplants_of_jollys_road_anakie%2Faggregate%2Findex.json",
+    "date": "2017-04-25",
+    "title": "chrisl",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ffd46bed2a89441000010c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.224,
+     -37.902
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/plants_of_jollys_road_anakie/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fplants_of_jollys_road_anakie%2Faggregate%2Findex.json",
+    "date": "2014-11-28",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5478663ee35eb1b5c2000055.jpg"
+   }
+  }
+ ]
+}

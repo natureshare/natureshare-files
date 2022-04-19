@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Frogs Of Riddells Creek</title>
+  <id>https://files.natureshare.org/_collections/frogs_of_riddells_creek/index.xml</id>
+  <updated>2017-03-25T11:38:45.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/_collections/frogs_of_riddells_creek/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/_collections/frogs_of_riddells_creek/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Ffrogs_of_riddells_creek%2Findex.json"/>
+  <author>
+    <name>All Collections</name>
+    <uri>https://natureshare.org/collections</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 All Collections</rights>
+  <subtitle>All users for [frogs_of_riddells_creek]</subtitle>
+  <entry>
+    <id>https://files.natureshare.org/russell/collections/frogs_of_riddells_creek/aggregate/index.json</id>
+    <title>russell</title>
+    <updated>2017-03-25T11:38:45.000+00:00</updated>
+    <published>2017-03-25T11:38:45.000+00:00</published>
+    <author>
+      <name>All Collections</name>
+      <uri>https://natureshare.org/collections</uri>
+    </author>
+    <content type="text">23 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Ffrogs_of_riddells_creek%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/frogs_of_riddells_creek/aggregate/index.json</id>
+    <title>jamesbooth</title>
+    <updated>2017-03-25T11:38:45.000+00:00</updated>
+    <published>2017-03-25T11:38:45.000+00:00</published>
+    <author>
+      <name>All Collections</name>
+      <uri>https://natureshare.org/collections</uri>
+    </author>
+    <content type="text">10 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Ffrogs_of_riddells_creek%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/william_hall/collections/frogs_of_riddells_creek/aggregate/index.json</id>
+    <title>william_hall</title>
+    <updated>2012-12-24T09:23:15.000+00:00</updated>
+    <published>2012-12-24T09:23:15.000+00:00</published>
+    <author>
+      <name>All Collections</name>
+      <uri>https://natureshare.org/collections</uri>
+    </author>
+    <content type="text">1 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwilliam_hall%2Fcollections%2Ffrogs_of_riddells_creek%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/psoralea/collections/frogs_of_riddells_creek/aggregate/index.json</id>
+    <title>psoralea</title>
+    <updated>2011-03-12T22:18:09.000+00:00</updated>
+    <published>2011-03-12T22:18:09.000+00:00</published>
+    <author>
+      <name>All Collections</name>
+      <uri>https://natureshare.org/collections</uri>
+    </author>
+    <content type="text">1 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fcollections%2Ffrogs_of_riddells_creek%2Faggregate%2Findex.json"/>
+  </entry>
+</feed>

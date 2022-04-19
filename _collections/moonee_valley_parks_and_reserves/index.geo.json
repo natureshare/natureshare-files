@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.886,
+     -37.75
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/collections/moonee_valley_parks_and_reserves/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fmoonee_valley_parks_and_reserves%2Faggregate%2Findex.json",
+    "date": "2014-10-24",
+    "title": "tsnata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544a2beae35eb13cf8000031.jpg"
+   }
+  }
+ ]
+}

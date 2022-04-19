@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.545199,
+     -38.419403
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/collections/grantville_lodge/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fgrantville_lodge%2Faggregate%2Findex.json",
+    "date": "2016-09-14",
+    "title": "tsnata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57d93786ed2a892daf000035.JPG"
+   }
+  }
+ ]
+}

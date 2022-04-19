@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Birds Of Kinglake West",
+ "description": "All users for [birds_of_kinglake_west]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fbirds_of_kinglake_west%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/birds_of_kinglake_west/index.json",
+ "items": [
+  {
+   "title": "jamesbooth",
+   "content_text": "11 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5838aaa6ed2a89b7180001e8.JPG",
+   "date_published": "2016-11-25T21:42:14.000+00:00",
+   "date_modified": "2016-11-25T21:42:14.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.238571,
+     -37.486028
+    ]
+   },
+   "_meta": {
+    "itemCount": 11,
+    "date": "2016-11-25",
+    "name": "birds_of_kinglake_west",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/jamesbooth/collections/birds_of_kinglake_west/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fbirds_of_kinglake_west%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

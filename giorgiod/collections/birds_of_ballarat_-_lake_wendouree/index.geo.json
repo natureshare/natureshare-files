@@ -1,0 +1,37 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.831687,
+     -37.548916
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/giorgiod/items/ns/2016/57ee99a9ed2a89450f007f9d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Fns%2F2016%2F57ee99a9ed2a89450f007f9d.yaml",
+    "date": "2016-09-10",
+    "title": "Cygnus atratus"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.833404,
+     -37.550549
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/giorgiod/items/ns/2016/birds_of_ballarat_-_lake_wendouree_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Fns%2F2016%2Fbirds_of_ballarat_-_lake_wendouree_species_list.yaml",
+    "date": "2016-09-30",
+    "title": "85 ids"
+   }
+  }
+ ]
+}

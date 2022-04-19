@@ -1,0 +1,38 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.415838,
+     -37.327819
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lconole/items/ns/2015/54f65eb8ed2a89b7cf00004b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2F54f65eb8ed2a89b7cf00004b.yaml",
+    "date": "2015-01-08",
+    "title": "Gymnorhina tibicen",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f65eb8ed2a89b7cf00004a.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.407285,
+     -37.326193
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lconole/items/ns/2015/birds_of_tylden_township_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2Fbirds_of_tylden_township_species_list.yaml",
+    "date": "2015-12-20",
+    "title": "115 ids"
+   }
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Birds Of Eynesbury Forest",
+ "description": "All users for [birds_of_eynesbury_forest]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fbirds_of_eynesbury_forest%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/birds_of_eynesbury_forest/index.json",
+ "items": [
+  {
+   "title": "giorgiod",
+   "content_text": "29 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbef813ed2a89c6aa0000f3.JPG",
+   "date_published": "2018-10-11T07:15:48.000+00:00",
+   "date_modified": "2018-10-11T07:15:48.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.564,
+     -37.787
+    ]
+   },
+   "_meta": {
+    "itemCount": 29,
+    "date": "2018-10-11",
+    "name": "birds_of_eynesbury_forest",
+    "featured": true,
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/giorgiod/collections/birds_of_eynesbury_forest/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fcollections%2Fbirds_of_eynesbury_forest%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "westernplainsgardener",
+   "content_text": "2 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbef813ed2a89c6aa0000f3.JPG",
+   "date_published": "2018-10-11T07:15:48.000+00:00",
+   "date_modified": "2018-10-11T07:15:48.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.567,
+     -37.788
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2018-10-11",
+    "name": "birds_of_eynesbury_forest",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/westernplainsgardener/collections/birds_of_eynesbury_forest/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fcollections%2Fbirds_of_eynesbury_forest%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "openid_28",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011bb2.jpg",
+   "date_published": "2011-06-03T16:54:45.000+00:00",
+   "date_modified": "2011-06-03T16:54:45.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.565,
+     -37.786
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2011-06-03",
+    "name": "birds_of_eynesbury_forest",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_28/collections/birds_of_eynesbury_forest/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fcollections%2Fbirds_of_eynesbury_forest%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.951226,
+     -37.789993
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/collections/royal_park_parkville/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Froyal_park_parkville%2Faggregate%2Findex.json",
+    "date": "2019-06-19",
+    "title": "tsnata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000026/2019-06-19/p1100424_ns.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.944,
+     -37.783
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/abc123/collections/royal_park_parkville/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fcollections%2Froyal_park_parkville%2Faggregate%2Findex.json",
+    "date": "2015-06-09",
+    "title": "abc123",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55783a8fed2a8918dd0008e4.JPG"
+   }
+  }
+ ]
+}

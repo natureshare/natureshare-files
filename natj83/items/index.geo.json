@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.513896,
+     -37.529519
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/natj83/items/ns/2016/56f3f246ed2a89edf0000204.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fnatj83%2Fitems%2Fns%2F2016%2F56f3f246ed2a89edf0000204.yaml",
+    "date": "2016-03-12",
+    "title": "Petauroides volans",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56f3f25ded2a890be700014f.jpg"
+   }
+  }
+ ]
+}

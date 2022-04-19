@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.684865,
+     -37.457729
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/user547e9660e35eb1c64e000001/items/ns/2014/547e96cbe35eb1c64e000003.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fuser547e9660e35eb1c64e000001%2Fitems%2Fns%2F2014%2F547e96cbe35eb1c64e000003.yaml",
+    "date": "2014-12-03",
+    "title": "Lepidoptera spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/547e96cbe35eb1c64e000002.jpg"
+   }
+  }
+ ]
+}

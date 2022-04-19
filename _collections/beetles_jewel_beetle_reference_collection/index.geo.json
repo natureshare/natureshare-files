@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.402488,
+     -38.045911
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/martinl/collections/beetles_jewel_beetle_reference_collection/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmartinl%2Fcollections%2Fbeetles_jewel_beetle_reference_collection%2Faggregate%2Findex.json",
+    "date": "2019-06-20",
+    "title": "martinl",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-06-20/buprestidaecastiarina_octomaculataoctober29_09wooleysbres_155_crop.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.818,
+     -37.457
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/wendymoore/collections/beetles_jewel_beetle_reference_collection/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwendymoore%2Fcollections%2Fbeetles_jewel_beetle_reference_collection%2Faggregate%2Findex.json",
+    "date": "2019-06-20",
+    "title": "wendymoore",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-06-20/buprestidaecastiarina_octomaculataoctober29_09wooleysbres_155_crop.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.595,
+     -37.408
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/collections/beetles_jewel_beetle_reference_collection/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fbeetles_jewel_beetle_reference_collection%2Faggregate%2Findex.json",
+    "date": "2015-03-02",
+    "title": "david_francis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f45d52ed2a8983c20003fa.jpg"
+   }
+  }
+ ]
+}

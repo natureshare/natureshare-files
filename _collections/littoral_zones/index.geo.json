@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.126,
+     -38.193
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/leuba/collections/littoral_zones/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fcollections%2Flittoral_zones%2Faggregate%2Findex.json",
+    "date": "2018-06-03",
+    "title": "leuba",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b13dbbeed2a89e82200001d.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.203,
+     -38.22
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/argybee/collections/littoral_zones/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fargybee%2Fcollections%2Flittoral_zones%2Faggregate%2Findex.json",
+    "date": "2018-05-31",
+    "title": "argybee",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b0fe33ded2a89757000000f.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.327,
+     -38.341
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/collections/littoral_zones/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Flittoral_zones%2Faggregate%2Findex.json",
+    "date": "2018-02-25",
+    "title": "david_francis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a928472ed2a897fc8000005.jpg"
+   }
+  }
+ ]
+}

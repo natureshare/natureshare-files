@@ -1,0 +1,102 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Neds corner reptiles",
+ "description": "",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fneds_corner_reptiles%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/neds_corner_reptiles/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2013/53b39859e35eb1298401074e.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39859e35eb1298401074e.yaml",
+   "title": "Pogona vitticeps",
+   "content_text": "Basking on a 1.5m saltbush.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb12984014810.jpg",
+   "date_published": "2013-11-18T17:55:48.000+00:00",
+   "date_modified": "2014-07-02T19:41:47.000+00:00",
+   "tags": [
+    "id~Pogona vitticeps",
+    "tag~basking"
+   ],
+   "_geo": {
+    "coordinates": [
+     141.344254,
+     -34.246933
+    ]
+   },
+   "_meta": {
+    "date": "2013-09-29",
+    "imageCount": 3
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2012/53b39854e35eb1298400f505.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f505.yaml",
+   "title": "Nephrurus milii",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012c3f.jpg",
+   "date_published": "2012-04-12T18:08:11.000+00:00",
+   "date_modified": "2012-04-12T18:17:49.000+00:00",
+   "tags": [
+    "id~Nephrurus milii"
+   ],
+   "_geo": {
+    "coordinates": [
+     141.326447,
+     -34.141075
+    ]
+   },
+   "_meta": {
+    "date": "2012-03-31",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2012/53b39854e35eb1298400f4a6.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f4a6.yaml",
+   "title": "Chasmina pulchra, Gehyra variegata",
+   "content_text": "Gecko hiding behind the outside light and snacking on moths as they flew in.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012bb8.jpg",
+   "date_published": "2012-04-03T14:00:07.000+00:00",
+   "date_modified": "2012-04-03T14:08:38.000+00:00",
+   "tags": [
+    "id~Chasmina pulchra",
+    "id~Gehyra variegata",
+    "tag~feeding"
+   ],
+   "_geo": {
+    "coordinates": [
+     141.328299,
+     -34.140687
+    ]
+   },
+   "_meta": {
+    "date": "2012-03-30",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Highcamp Flora Reserve, Highcamp",
+ "description": "",
+ "author": {
+  "name": "mitchell_shire_council_environment_team",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fcollections%2Fhighcamp_flora_reserve_highcamp%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/mitchell_shire_council_environment_team/collections/highcamp_flora_reserve_highcamp/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/mitchell_shire_council_environment_team/items/ns/2015/54ff763bed2a8994a90000ba.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fitems%2Fns%2F2015%2F54ff763bed2a8994a90000ba.yaml",
+   "title": "Wurmbea dioica subsp. dioica",
+   "content_text": "Early Nancy",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ff763bed2a8994a90000b7.JPG",
+   "date_published": "2015-03-10T22:54:51.000+00:00",
+   "date_modified": "2015-03-12T07:41:15.000+00:00",
+   "tags": [
+    "id~Wurmbea dioica subsp. dioica",
+    "tag~female",
+    "tag~flower",
+    "tag~male"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.890609,
+     -37.182835
+    ]
+   },
+   "_meta": {
+    "date": "2007-09-15",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "mitchell_shire_council_environment_team",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/mitchell_shire_council_environment_team/items/ns/2015/54ff7495ed2a8974d3000159.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fitems%2Fns%2F2015%2F54ff7495ed2a8974d3000159.yaml",
+   "title": "Hibbertia humifusa subsp. humifusa",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ff7495ed2a8974d3000157.JPG",
+   "date_published": "2015-03-10T22:47:49.000+00:00",
+   "date_modified": "2015-03-17T05:52:16.000+00:00",
+   "tags": [
+    "id~Hibbertia humifusa subsp. humifusa",
+    "tag~flower"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.889987,
+     -37.182305
+    ]
+   },
+   "_meta": {
+    "date": "2007-09-16",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "mitchell_shire_council_environment_team",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

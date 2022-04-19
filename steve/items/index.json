@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "steve",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsteve%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsteve%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/steve/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/steve/items/ns/2017/59182a5bed2a893e6b0007d7.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fsteve%2Fitems%2Fns%2F2017%2F59182a5bed2a893e6b0007d7.yaml",
+   "title": "Apina callisto",
+   "content_text": "Amazingly striking markings. Found in the stubble. ",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59182a63ed2a891d6d000146.PNG",
+   "date_published": "2017-05-14T10:05:24.000+00:00",
+   "date_modified": "2017-05-15T12:20:53.000+00:00",
+   "tags": [
+    "id~Apina callisto"
+   ],
+   "_geo": {
+    "coordinates": [
+     143.733109,
+     -36.868079
+    ]
+   },
+   "_meta": {
+    "date": "2017-05-14",
+    "imageCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

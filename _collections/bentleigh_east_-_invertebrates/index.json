@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Bentleigh East Invertebrates",
+ "description": "All users for [bentleigh_east_-_invertebrates]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fbentleigh_east_-_invertebrates%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/bentleigh_east_-_invertebrates/index.json",
+ "items": [
+  {
+   "title": "d_kurek",
+   "content_text": "24 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c1ed10e3abbd6b7f00000e2/2019-03-24/1553427484/DSCN4703.JPG",
+   "date_published": "2019-03-24T11:38:24.000+00:00",
+   "date_modified": "2019-03-24T11:38:24.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.056,
+     -37.911
+    ]
+   },
+   "_meta": {
+    "itemCount": 24,
+    "date": "2019-03-24",
+    "name": "bentleigh_east_-_invertebrates",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/d_kurek/collections/bentleigh_east_-_invertebrates/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fd_kurek%2Fcollections%2Fbentleigh_east_-_invertebrates%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

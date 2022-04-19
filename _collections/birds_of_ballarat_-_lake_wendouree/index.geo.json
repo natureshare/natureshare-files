@@ -1,0 +1,21 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.833404,
+     -37.550549
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/giorgiod/collections/birds_of_ballarat_-_lake_wendouree/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fcollections%2Fbirds_of_ballarat_-_lake_wendouree%2Faggregate%2Findex.json",
+    "date": "2016-09-30",
+    "title": "giorgiod"
+   }
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Victorian Volcanic Plains Native Plants",
+ "description": "",
+ "author": {
+  "name": "chrisl",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fcollections%2Fvictorian_volcanic_plains_native_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/chrisl/collections/victorian_volcanic_plains_native_plants/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/chrisl/items/ns/2016/56f639d1ed2a89edf000031e.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2016%2F56f639d1ed2a89edf000031e.yaml",
+   "title": "Lobelia irrigua",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56f639dbed2a89211c000182.JPG",
+   "date_published": "2016-03-26T07:29:32.000+00:00",
+   "date_modified": "2016-03-26T07:29:32.000+00:00",
+   "tags": [
+    "id~Lobelia irrigua",
+    "tag~flower"
+   ],
+   "_geo": {
+    "coordinates": [
+     143.293283,
+     -38.151697
+    ]
+   },
+   "_meta": {
+    "date": "2008-11-10",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "chrisl",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/chrisl/items/ns/2013/53b39857e35eb12984010279.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2013%2F53b39857e35eb12984010279.yaml",
+   "title": "Anogramma leptophylla",
+   "content_text": "Small annual fern growing under rock crevice with liverwort.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014039.jpg",
+   "date_published": "2013-07-01T14:37:24.000+00:00",
+   "date_modified": "2014-07-03T03:55:19.000+00:00",
+   "tags": [
+    "id~Anogramma leptophylla"
+   ],
+   "_geo": {
+    "coordinates": [
+     143.197715,
+     -37.959109
+    ]
+   },
+   "_meta": {
+    "date": "2008-05-03",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "chrisl",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

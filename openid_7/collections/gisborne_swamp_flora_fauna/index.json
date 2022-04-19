@@ -1,0 +1,44 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Gisborne Swamp Flora Fauna",
+ "description": "",
+ "author": {
+  "name": "openid_7",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fcollections%2Fgisborne_swamp_flora_fauna%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_7/collections/gisborne_swamp_flora_fauna/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_7/items/ns/2014/541765dfe35eb173a6000092.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Fns%2F2014%2F541765dfe35eb173a6000092.yaml",
+   "title": "Thelymitra spp.",
+   "content_text": "In 2009 I was working on this site and am confident there were Thelymitra under the trees to the North, as shown by marker.",
+   "date_published": "2014-09-15T22:19:11.000+00:00",
+   "date_modified": "2014-09-15T22:19:11.000+00:00",
+   "tags": [
+    "id~Thelymitra spp.",
+    "tag~leaves"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.582874,
+     -37.468845
+    ]
+   },
+   "_meta": {
+    "date": "2009-10-22"
+   },
+   "author": {
+    "name": "openid_7",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

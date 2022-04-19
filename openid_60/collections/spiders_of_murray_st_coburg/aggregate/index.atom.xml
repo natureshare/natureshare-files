@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Spiders of murray st coburg</title>
+  <id>https://files.natureshare.org/openid_60/collections/spiders_of_murray_st_coburg/aggregate/index.xml</id>
+  <updated>2015-03-16T16:32:57.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/openid_60/collections/spiders_of_murray_st_coburg/aggregate/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/openid_60/collections/spiders_of_murray_st_coburg/aggregate/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_60%2Fcollections%2Fspiders_of_murray_st_coburg%2Faggregate%2Findex.json"/>
+  <author>
+    <name>openid_60</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_60%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 openid_60</rights>
+  <entry>
+    <id>https://files.natureshare.org/openid_60/items/ns/2011/53b39851e35eb1298400ea60.yaml</id>
+    <title>Maratus pavonis</title>
+    <updated>2011-08-15T03:12:30.000+00:00</updated>
+    <published>2011-08-15T03:09:25.000+00:00</published>
+    <author>
+      <name>openid_60</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_60%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_60%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ea60.yaml"/>
+    <category term="id~Maratus pavonis"/>
+    <category term="tag~male"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/openid_60/items/ns/2011/53b39851e35eb1298400ea5f.yaml</id>
+    <title>Salticidae spp.</title>
+    <updated>2015-03-16T16:32:57.000+00:00</updated>
+    <published>2011-08-15T02:53:18.000+00:00</published>
+    <author>
+      <name>openid_60</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_60%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_60%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ea5f.yaml"/>
+    <category term="id~Salticidae spp."/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/openid_60/items/ns/2011/53b39851e35eb1298400ea5e.yaml</id>
+    <title>Philoponella congregabilis</title>
+    <updated>2011-08-15T02:52:03.000+00:00</updated>
+    <published>2011-08-15T02:45:37.000+00:00</published>
+    <author>
+      <name>openid_60</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_60%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_60%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ea5e.yaml"/>
+    <category term="id~Philoponella congregabilis"/>
+  </entry>
+</feed>

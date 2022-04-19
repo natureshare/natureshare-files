@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Brisbane Ranges Birds</title>
+  <id>https://files.natureshare.org/tsnata/collections/brisbane_ranges_birds/index.xml</id>
+  <updated>2015-05-18T03:25:03.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/tsnata/collections/brisbane_ranges_birds/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/tsnata/collections/brisbane_ranges_birds/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fbrisbane_ranges_birds%2Findex.json"/>
+  <author>
+    <name>tsnata</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 tsnata</rights>
+  <entry>
+    <id>https://files.natureshare.org/tsnata/items/ns/2015/55588fffed2a890e0300068a.yaml</id>
+    <title>Cormobates leucophaeus</title>
+    <updated>2015-05-17T13:06:44.000+00:00</updated>
+    <published>2015-05-17T12:56:31.000+00:00</published>
+    <author>
+      <name>tsnata</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2015%2F55588fffed2a890e0300068a.yaml"/>
+    <category term="id~Cormobates leucophaeus"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/tsnata/items/ns/2015/555882f3ed2a890e0300067e.yaml</id>
+    <title>Melithreptus lunatus</title>
+    <updated>2015-05-18T03:25:03.000+00:00</updated>
+    <published>2015-05-17T12:00:51.000+00:00</published>
+    <author>
+      <name>tsnata</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">A group of honey-eaters feasting on eucalypt flowers. Very active. Second photo showed a bit of the head.&#xD;
+Location approximate. On the track between Stony Creek and Anakie Gorge Picnic Area. Id by David Francis and Chris Lindorff as White-naped Honeyeater.</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2015%2F555882f3ed2a890e0300067e.yaml"/>
+    <category term="id~Melithreptus lunatus"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/tsnata/items/ns/2015/555869a3ed2a890e0300064b.yaml</id>
+    <title>Sericornis frontalis</title>
+    <updated>2015-05-17T10:25:49.000+00:00</updated>
+    <published>2015-05-17T10:12:51.000+00:00</published>
+    <author>
+      <name>tsnata</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2015%2F555869a3ed2a890e0300064b.yaml"/>
+    <category term="id~Sericornis frontalis"/>
+  </entry>
+</feed>

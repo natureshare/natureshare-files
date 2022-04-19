@@ -1,0 +1,47 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Bullengarook Flora",
+ "description": "",
+ "author": {
+  "name": "openid_95",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_95%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_95%2Fcollections%2Fbullengarook_flora%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_95/collections/bullengarook_flora/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_95/items/ns/2015/bullengarook_flora_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_95%2Fitems%2Fns%2F2015%2Fbullengarook_flora_species_list.yaml",
+   "title": "7 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2011-11-02T19:37:46.000+00:00",
+   "date_modified": "2015-04-07T08:47:35.000+00:00",
+   "tags": [
+    "id~Acacia gunnii",
+    "id~Acacia oxycedrus",
+    "id~Banksia marginata",
+    "id~Brachyscome multifida",
+    "id~Bulbine bulbosa",
+    "id~Stylidium graminifolium s.s.",
+    "id~Tetratheca ciliata",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "openid_95",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_95%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.418762,
+     -34.212086
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/collections/neds_corner_insects_spiders_and_other_invertebrates/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fcollections%2Fneds_corner_insects_spiders_and_other_invertebrates%2Faggregate%2Findex.json",
+    "date": "2017-04-24",
+    "title": "chrisl",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58fe834eed2a89e54800010d.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.418762,
+     -34.212086
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/neds_corner_insects_spiders_and_other_invertebrates/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fneds_corner_insects_spiders_and_other_invertebrates%2Faggregate%2Findex.json",
+    "date": "2017-04-24",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58fe834eed2a89e54800010d.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.348,
+     -34.163
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/collections/neds_corner_insects_spiders_and_other_invertebrates/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fneds_corner_insects_spiders_and_other_invertebrates%2Faggregate%2Findex.json",
+    "date": "2017-04-24",
+    "title": "jamesbooth",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58fe834eed2a89e54800010d.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.37,
+     -34.244
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/collections/neds_corner_insects_spiders_and_other_invertebrates/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fcollections%2Fneds_corner_insects_spiders_and_other_invertebrates%2Faggregate%2Findex.json",
+    "date": "2014-09-17",
+    "title": "gill",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/541971fee35eb109b700002c.jpg"
+   }
+  }
+ ]
+}

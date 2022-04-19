@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.222942,
+     -37.901909
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2014/5478663ee35eb1b5c2000056.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2F5478663ee35eb1b5c2000056.yaml",
+    "date": "2014-11-25",
+    "title": "Clematis decipiens",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5478663ee35eb1b5c2000055.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.225509,
+     -37.902167
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2014/5476ffdbe35eb1f33d000004.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2F5476ffdbe35eb1f33d000004.yaml",
+    "date": "2014-11-25",
+    "title": "Isolepis spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5476ffdbe35eb1f33d000003.jpg"
+   }
+  }
+ ]
+}

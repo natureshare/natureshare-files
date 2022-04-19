@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Moths of riddells creek</title>
+  <id>https://files.natureshare.org/lydia/collections/moths_of_riddells_creek/aggregate/index.xml</id>
+  <updated>2011-12-24T23:34:37.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/lydia/collections/moths_of_riddells_creek/aggregate/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/lydia/collections/moths_of_riddells_creek/aggregate/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fcollections%2Fmoths_of_riddells_creek%2Faggregate%2Findex.json"/>
+  <author>
+    <name>lydia</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 lydia</rights>
+  <entry>
+    <id>https://files.natureshare.org/lydia/items/ns/2011/53b39853e35eb1298400f160.yaml</id>
+    <title>Melanodes anthracitaria</title>
+    <updated>2011-12-24T23:34:37.000+00:00</updated>
+    <published>2011-12-22T21:35:05.000+00:00</published>
+    <author>
+      <name>lydia</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Lydia spotted and IDed the moth, photo by Russell Best. New species for Riddells Creek. First pic is with flash on, second pic is same moth without flash. It looks black to the eye (not grey).</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2011%2F53b39853e35eb1298400f160.yaml"/>
+    <category term="id~Melanodes anthracitaria"/>
+  </entry>
+</feed>

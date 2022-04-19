@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.067278,
+     -37.645274
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/anni75/items/ns/2014/543a7443e35eb132b0000062.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fanni75%2Fitems%2Fns%2F2014%2F543a7443e35eb132b0000062.yaml",
+    "date": "2014-10-03",
+    "title": "Dacelo novaeguineae",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/543a7443e35eb132b0000061.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.067858,
+     -37.644883
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/anni75/items/ns/2014/54280e35e35eb1398e00007d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fanni75%2Fitems%2Fns%2F2014%2F54280e35e35eb1398e00007d.yaml",
+    "date": "2014-08-18",
+    "title": "Grallina cyanoleuca",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54280e35e35eb1398e00007c.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.067775,
+     -37.643626
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/anni75/items/ns/2014/5427f637e35eb192b9000028.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fanni75%2Fitems%2Fns%2F2014%2F5427f637e35eb192b9000028.yaml",
+    "date": "2014-09-25",
+    "title": "Psephotus haematonotus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5427f637e35eb192b9000027.JPG"
+   }
+  }
+ ]
+}

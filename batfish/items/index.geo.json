@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.07197,
+     -37.577865
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/batfish/items/ns/2017/5a41faa7ed2a89ee87000001.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbatfish%2Fitems%2Fns%2F2017%2F5a41faa7ed2a89ee87000001.yaml",
+    "date": "2017-12-18",
+    "title": "Persectania ewingii",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a41fab2ed2a892d1500004d.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.07204,
+     -37.577657
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/batfish/items/ns/2017/5a41b4d1ed2a89e23c001f07.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbatfish%2Fitems%2Fns%2F2017%2F5a41b4d1ed2a89e23c001f07.yaml",
+    "date": "2017-12-18",
+    "title": "Chlorocoma stereota",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a41b4dfed2a89298f000055.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Turpins Falls Scenic Reserve Plants",
+ "description": "",
+ "author": {
+  "name": "david_francis",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fturpins_falls_scenic_reserve_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/david_francis/collections/turpins_falls_scenic_reserve_plants/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/david_francis/items/ns/2014/53ce5c72e35eb1da75000006.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2014%2F53ce5c72e35eb1da75000006.yaml",
+   "title": "Pleurosorus rutifolius s.s.",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53ce5c71e35eb1da75000001.jpg",
+   "date_published": "2014-07-22T12:43:30.000+00:00",
+   "date_modified": "2014-07-22T13:00:25.000+00:00",
+   "tags": [
+    "id~Pleurosorus rutifolius s.s.",
+    "tag~frond",
+    "tag~sori"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.482941,
+     -37.134102
+    ]
+   },
+   "_meta": {
+    "date": "2014-07-22",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "david_francis",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/david_francis/items/ns/2014/53ce5aa4e35eb1bdb1000007.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2014%2F53ce5aa4e35eb1bdb1000007.yaml",
+   "title": "Callistemon sieberi",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53ce5aa3e35eb1bdb1000003.jpg",
+   "date_published": "2014-07-22T12:35:48.000+00:00",
+   "date_modified": "2014-07-22T12:36:15.000+00:00",
+   "tags": [
+    "id~Callistemon sieberi",
+    "tag~adult-leaf",
+    "tag~fruit"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.483322,
+     -37.13401
+    ]
+   },
+   "_meta": {
+    "date": "2014-07-22",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "david_francis",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

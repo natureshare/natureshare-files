@@ -1,0 +1,55 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.347748,
+     -37.940678
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_73/items/ns/2011/53b39851e35eb1298400eb42.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_73%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400eb42.yaml",
+    "date": "2011-09-03",
+    "title": "Pterostylis grandiflora",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011fb9.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.348434,
+     -37.94149
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_73/items/ns/2011/53b39851e35eb1298400eb41.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_73%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400eb41.yaml",
+    "date": "2011-08-07",
+    "title": "Pterostylis nutans",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011fb8.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.351009,
+     -37.941422
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_73/items/ns/2019/baluk_willum_nature_conservation_reserve_belgrave_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_73%2Fitems%2Fns%2F2019%2Fbaluk_willum_nature_conservation_reserve_belgrave_species_list.yaml",
+    "date": "2019-10-08",
+    "title": "306 ids"
+   }
+  }
+ ]
+}

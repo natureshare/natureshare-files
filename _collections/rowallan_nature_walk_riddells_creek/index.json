@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Rowallan Nature Walk Riddells Creek",
+ "description": "All users for [rowallan_nature_walk_riddells_creek]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Frowallan_nature_walk_riddells_creek%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/rowallan_nature_walk_riddells_creek/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "5 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143f5.jpg",
+   "date_published": "2013-10-20T15:12:57.000+00:00",
+   "date_modified": "2013-10-20T15:12:57.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.696,
+     -37.406
+    ]
+   },
+   "_meta": {
+    "itemCount": 5,
+    "date": "2013-10-20",
+    "name": "rowallan_nature_walk_riddells_creek",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/rowallan_nature_walk_riddells_creek/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Frowallan_nature_walk_riddells_creek%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

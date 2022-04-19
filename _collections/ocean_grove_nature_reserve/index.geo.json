@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.537912,
+     -38.243591
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/koolah/collections/ocean_grove_nature_reserve/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fcollections%2Focean_grove_nature_reserve%2Faggregate%2Findex.json",
+    "date": "2018-11-02",
+    "title": "koolah",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bdad9aded2a892807000136.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.526,
+     -38.245
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bernie_l/collections/ocean_grove_nature_reserve/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbernie_l%2Fcollections%2Focean_grove_nature_reserve%2Faggregate%2Findex.json",
+    "date": "2018-11-02",
+    "title": "bernie_l",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bdad9aded2a892807000136.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.532,
+     -38.243
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/moth_er/collections/ocean_grove_nature_reserve/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmoth_er%2Fcollections%2Focean_grove_nature_reserve%2Faggregate%2Findex.json",
+    "date": "2018-03-14",
+    "title": "moth_er",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5aa99c83ed2a89abdd000046.jpg"
+   }
+  }
+ ]
+}

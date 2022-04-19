@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.172012,
+     -37.299729
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_28/items/ns/2011/53b3984fe35eb1298400e483.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e483.yaml",
+    "date": "2011-03-08",
+    "title": "Calectasia intermedia",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb12984011756.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654701,
+     -37.430959
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lydia/items/ns/2015/54d84df7ed2a892e78000072.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2015%2F54d84df7ed2a892e78000072.yaml",
+    "date": "2015-02-07",
+    "title": "Phasmatidae spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54d84df7ed2a892e78000071.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654783,
+     -37.430868
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lydia/items/ns/2013/53b39856e35eb1298400fe4a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400fe4a.yaml",
+    "date": "2013-01-09",
+    "title": "Echthromorpha intricatoria",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb1298401397f.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654673,
+     -37.430933
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lydia/items/ns/2012/53b39853e35eb1298400f1b4.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2012%2F53b39853e35eb1298400f1b4.yaml",
+    "date": "2011-12-31",
+    "title": "Oligochaeta spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb129840127cd.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654678,
+     -37.430643
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lydia/items/ns/2011/53b39850e35eb1298400e7b2.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e7b2.yaml",
+    "date": "2011-05-21",
+    "title": "Notonectidae spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b58.jpg"
+   }
+  }
+ ]
+}

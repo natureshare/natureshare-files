@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.74225,
+     -37.895332
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/giorgiod/items/ns/2011/53b39851e35eb1298400ea4d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ea4d.yaml",
+    "date": "2011-06-18",
+    "title": "Ardea modesta",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011ea2.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.746815,
+     -37.897098
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/giorgiod/items/ns/2011/53b39851e35eb1298400ea4c.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ea4c.yaml",
+    "date": "2011-06-18",
+    "title": "Petroica phoenicea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011ea1.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.74214,
+     -37.894738
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/giorgiod/items/ns/2011/53b39851e35eb1298400ea4b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ea4b.yaml",
+    "date": "2011-06-18",
+    "title": "Megalurus gramineus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011ea0.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.746643,
+     -37.897148
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/giorgiod/items/ns/2011/53b39851e35eb1298400ea48.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ea48.yaml",
+    "date": "2011-06-18",
+    "title": "Ptilotula penicillata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011e9d.jpg"
+   }
+  }
+ ]
+}

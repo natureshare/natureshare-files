@@ -1,0 +1,42 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "woody",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwoody%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwoody%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/woody/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/woody/items/ns/2017/59c8f5b2ed2a892d40000708.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fwoody%2Fitems%2Fns%2F2017%2F59c8f5b2ed2a892d40000708.yaml",
+   "title": "Eucalyptus crenulata",
+   "content_text": "2 or 3 tree Buxtom Gum trees, one of them is around 12m high and a younger smaller tree at the front of our property.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59c8f5caed2a8939840002da.jpeg",
+   "date_published": "2017-09-25T12:25:40.000+00:00",
+   "date_modified": "2017-09-25T12:25:40.000+00:00",
+   "tags": [
+    "id~Eucalyptus crenulata",
+    "tag~leaf"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.524244,
+     -37.384472
+    ]
+   },
+   "_meta": {
+    "date": "2017-09-25",
+    "imageCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

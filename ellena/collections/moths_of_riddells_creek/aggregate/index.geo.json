@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654792,
+     -37.430812
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/ellena/items/ns/2015/550940daed2a8994a90004ff.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fellena%2Fitems%2Fns%2F2015%2F550940daed2a8994a90004ff.yaml",
+    "date": "2015-03-06",
+    "title": "Crypsiphona ocultaria",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/550940d9ed2a8994a90004fd.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654846,
+     -37.430618
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/ellena/items/ns/2015/54e1ad87ed2a89d9900002bb.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fellena%2Fitems%2Fns%2F2015%2F54e1ad87ed2a89d9900002bb.yaml",
+    "date": "2015-02-16",
+    "title": "Elhamma australasiae",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e1ad85ed2a89d9900002b7.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654792,
+     -37.43081
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/ellena/items/ns/2014/544785a9e35eb11add0000b2.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fellena%2Fitems%2Fns%2F2014%2F544785a9e35eb11add0000b2.yaml",
+    "date": "2014-10-21",
+    "title": "Opodiphthera helena",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544785a9e35eb11add0000b1.jpg"
+   }
+  }
+ ]
+}

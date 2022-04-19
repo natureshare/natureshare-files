@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.839,
+     -38.684
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_53/collections/grey_river/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_53%2Fcollections%2Fgrey_river%2Faggregate%2Findex.json",
+    "date": "2012-11-12",
+    "title": "Grey river",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb12984013509.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.650149,
+     -37.906778
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_7/items/ns/2011/53b39851e35eb1298400ebea.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ebea.yaml",
+    "date": "2011-09-12",
+    "title": "Ninox novaeseelandiae",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb1298401207c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.648654,
+     -37.891992
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_7/items/ns/2011/53b39851e35eb1298400ebe6.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ebe6.yaml",
+    "date": "2006-11-02",
+    "title": "Anhinga novaehollandiae",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984012078.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.337006,
+     -37.181655
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/collections/humboldt_belltopper_hill_flora_reserve_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fhumboldt_belltopper_hill_flora_reserve_plants%2Faggregate%2Findex.json",
+    "date": "2016-09-29",
+    "title": "david_francis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57ec72ebed2a89d73e0000af.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.337006,
+     -37.181655
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/humboldt_belltopper_hill_flora_reserve_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fhumboldt_belltopper_hill_flora_reserve_plants%2Faggregate%2Findex.json",
+    "date": "2016-09-29",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57ec72ebed2a89d73e0000af.jpg"
+   }
+  }
+ ]
+}

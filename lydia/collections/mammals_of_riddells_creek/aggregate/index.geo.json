@@ -1,0 +1,21 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654541,
+     -37.430748
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lydia/items/ns/2016/57d1157bed2a89450f001205.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2016%2F57d1157bed2a89450f001205.yaml",
+    "date": "2016-09-08",
+    "title": "Vombatus ursinus"
+   }
+  }
+ ]
+}

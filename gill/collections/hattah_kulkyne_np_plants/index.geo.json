@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.322464,
+     -34.759525
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2014/54198241e35eb1bbf90000af.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2014%2F54198241e35eb1bbf90000af.yaml",
+    "date": "2014-09-03",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54198241e35eb1bbf90000ae.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.318039,
+     -34.760108
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2014/54197ea2e35eb109b700005d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2014%2F54197ea2e35eb109b700005d.yaml",
+    "date": "2014-09-03",
+    "title": "Prostanthera serpyllifolia subsp. microphylla",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54197ea2e35eb109b700005b.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Komodo Np",
+ "description": "",
+ "author": {
+  "name": "reilly",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fcollections%2Fkomodo_np%2Findex.json",
+ "feed_url": "https://files.natureshare.org/reilly/collections/komodo_np/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/reilly/items/dropbox/2020_komodo_np/dragon.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fdropbox%2F2020_komodo_np%2Fdragon.yaml",
+   "title": "Varanus komodoensis",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org/user_generated_content/thumbnails/reilly/items/dropbox/2020_komodo_np/dragon.jpg",
+   "date_published": "2020-01-23T09:39:15.000+00:00",
+   "date_modified": "2020-08-31T08:56:17.000+00:00",
+   "tags": [
+    "id~Varanus komodoensis",
+    "tag~dropbox"
+   ],
+   "_geo": {
+    "coordinates": [
+     119.718544,
+     -8.656292
+    ]
+   },
+   "_meta": {
+    "date": "2020-01-23",
+    "imageCount": 7
+   },
+   "author": {
+    "name": "reilly",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

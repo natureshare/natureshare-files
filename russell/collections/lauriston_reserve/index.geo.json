@@ -1,0 +1,72 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.356415,
+     -37.238411
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2012/53b39854e35eb1298400f61d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f61d.yaml",
+    "date": "2012-06-02",
+    "title": "Eucalyptus polyanthemos subsp. vestita",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012db5.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.355667,
+     -37.243063
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2012/53b39854e35eb1298400f61c.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f61c.yaml",
+    "date": "2012-06-02",
+    "title": "Exocarpos cupressiformis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012db4.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.356827,
+     -37.237989
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2012/53b39854e35eb1298400f61b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f61b.yaml",
+    "date": "2012-06-02",
+    "title": "Hardenbergia violacea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012db3.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.36018,
+     -37.238939
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2015/lauriston_reserve_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Flauriston_reserve_species_list.yaml",
+    "date": "2015-04-07",
+    "title": "131 ids"
+   }
+  }
+ ]
+}

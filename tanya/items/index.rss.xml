@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/tanya/items/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Observations</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftanya%2Fitems%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 tanya</copyright>
+    <pubDate>Mon, 31 Aug 2015 12:25:23 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Tiliqua nigrolutea</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftanya%2Fitems%2Fns%2F2015%2F55bc17c2ed2a89db81000791.yaml</link>
+      <dc:creator>tanya</dc:creator>
+      <description>This blue-tongue was on the dirt road - I moved it to other side and she or he urinated on me!</description>
+      <category>id~Tiliqua nigrolutea</category>
+      <guid isPermaLink="false">https://files.natureshare.org/tanya/items/ns/2015/55bc17c2ed2a89db81000791.yaml</guid>
+      <pubDate>Sat, 01 Aug 2015 00:50:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hydromys chrysogaster</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftanya%2Fitems%2Fns%2F2015%2F55bc1ba3ed2a89db81000795.yaml</link>
+      <dc:creator>tanya</dc:creator>
+      <description>Two Native Water Rats observed at the creek behind the lake.</description>
+      <category>id~Hydromys chrysogaster</category>
+      <guid isPermaLink="false">https://files.natureshare.org/tanya/items/ns/2015/55bc1ba3ed2a89db81000795.yaml</guid>
+      <pubDate>Sun, 05 Apr 2015 17:24:59 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.45104,
+     -37.13511
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2014/53d33a9ee35eb1a9ac000047.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2F53d33a9ee35eb1a9ac000047.yaml",
+    "date": "2014-07-21",
+    "title": "39 ids"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.452276,
+     -37.122823
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2015/metcalfe_flora_reserve_plants_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Fmetcalfe_flora_reserve_plants_species_list.yaml",
+    "date": "2015-04-07",
+    "title": "161 ids"
+   }
+  }
+ ]
+}

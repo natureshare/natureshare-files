@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.65235,
+     -37.431326
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lydia/items/ns/2016/57bc33aaed2a89450f00096b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2016%2F57bc33aaed2a89450f00096b.yaml",
+    "date": "2016-08-18",
+    "title": "Pterostylis melagramma",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57bc33b0ed2a892daf00000e.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Fauna of Mount Eccles",
+ "description": "Mount Eccles (Budj Bim) National Park is located in western Victoria. It is a long dormant volcano with a crater lake (Lake Surprise) and surrounded by 55 sq.km of bushland.",
+ "author": {
+  "name": "pauline",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpauline%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpauline%2Fcollections%2Ffauna_of_mount_eccles%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/pauline/collections/fauna_of_mount_eccles/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/pauline/items/ns/2016/5733dd02ed2a89e66800076c.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpauline%2Fitems%2Fns%2F2016%2F5733dd02ed2a89e66800076c.yaml",
+   "title": "Eulamprus spp.",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5733dd0fed2a890be70001de.JPG",
+   "date_published": "2016-05-12T01:34:17.000+00:00",
+   "date_modified": "2016-05-12T01:34:17.000+00:00",
+   "tags": [
+    "id~Eulamprus spp.",
+    "tag~reptile"
+   ],
+   "_geo": {
+    "coordinates": [
+     141.921906,
+     -38.074025
+    ]
+   },
+   "_meta": {
+    "date": "2015-09-20",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "pauline",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpauline%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": "<p>Mount Eccles (Budj Bim) National Park is located in western Victoria. It is a long dormant volcano with a crater lake (Lake Surprise) and surrounded by 55 <a href=\"http://sq.km\">sq.km</a> of bushland.</p>\n"
+ }
+}

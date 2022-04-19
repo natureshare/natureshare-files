@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.122581,
+     -38.0524
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/vukvuk/items/ns/2017/58fe02f4ed2a893d8c00001b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fvukvuk%2Fitems%2Fns%2F2017%2F58fe02f4ed2a893d8c00001b.yaml",
+    "date": "2017-04-24",
+    "title": "Epyaxa sodaliata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58fe036ced2a891d6d000112.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.122581,
+     -38.0524
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/vukvuk/items/ns/2017/58fe0041ed2a893d8c00000d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fvukvuk%2Fitems%2Fns%2F2017%2F58fe0041ed2a893d8c00000d.yaml",
+    "date": "2017-04-24",
+    "title": "Epyaxa sodaliata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58fe00c1ed2a89e54800010b.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.122581,
+     -38.0524
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/vukvuk/items/ns/2017/58fdff51ed2a89d2de000003.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fvukvuk%2Fitems%2Fns%2F2017%2F58fdff51ed2a89d2de000003.yaml",
+    "date": "2017-04-24",
+    "title": "Pezothrips kellyanus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58fdffcfed2a891d6d000111.JPG"
+   }
+  }
+ ]
+}

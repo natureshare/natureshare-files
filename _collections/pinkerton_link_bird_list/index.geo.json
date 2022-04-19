@@ -1,0 +1,21 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.58,
+     -37.762
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_130/collections/pinkerton_link_bird_list/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fcollections%2Fpinkerton_link_bird_list%2Faggregate%2Findex.json",
+    "date": "2014-08-13",
+    "title": "openid_130"
+   }
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.86363,
+     -37.64818
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/andrew_allen/collections/woodlands_historic_park_-_hymenoptera/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandrew_allen%2Fcollections%2Fwoodlands_historic_park_-_hymenoptera%2Faggregate%2Findex.json",
+    "date": "2019-02-08",
+    "title": "andrew_allen",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_583ba1bbed2a897480005b25/2019-02-09/1549659380/ant-2019-01-18-woodlands-6.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.864,
+     -37.644
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/triplett/collections/woodlands_historic_park_-_hymenoptera/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftriplett%2Fcollections%2Fwoodlands_historic_park_-_hymenoptera%2Faggregate%2Findex.json",
+    "date": "2018-08-18",
+    "title": "triplett",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b77b057ed2a89402b000089.jpg"
+   }
+  }
+ ]
+}

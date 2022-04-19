@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/kywong/items/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Observations</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkywong%2Fitems%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 kywong</copyright>
+    <pubDate>Wed, 04 Nov 2015 10:02:11 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Macropus giganteus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fkywong%2Fitems%2Fns%2F2015%2F5639d7a3ed2a89e56e00049f.yaml</link>
+      <dc:creator>kywong</dc:creator>
+      <description>-</description>
+      <category>id~Macropus giganteus</category>
+      <guid isPermaLink="false">https://files.natureshare.org/kywong/items/ns/2015/5639d7a3ed2a89e56e00049f.yaml</guid>
+      <pubDate>Wed, 04 Nov 2015 10:02:11 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

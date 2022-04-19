@@ -1,0 +1,123 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.946102,
+     -37.783376
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/abc123/items/ns/2015/55776f01ed2a8918dd000887.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Fns%2F2015%2F55776f01ed2a8918dd000887.yaml",
+    "date": "2015-06-07",
+    "title": "Acanthorhynchus tenuirostris",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55783a8fed2a8918dd0008e4.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.943282,
+     -37.782385
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/abc123/items/ns/2015/5505fa2aed2a8974d30004dd.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Fns%2F2015%2F5505fa2aed2a8974d30004dd.yaml",
+    "date": "2015-03-10",
+    "title": "Platalea regia",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5505fa2aed2a8974d30004da.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.942252,
+     -37.782107
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/abc123/items/ns/2015/5502d80eed2a8994a9000246.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Fns%2F2015%2F5502d80eed2a8994a9000246.yaml",
+    "date": "2015-03-12",
+    "title": "Sturnus vulgaris",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5502d80eed2a8994a9000245.PNG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.947224,
+     -37.782033
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/abc123/items/ns/2015/54fed89bed2a8974d30000d0.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Fns%2F2015%2F54fed89bed2a8974d30000d0.yaml",
+    "date": "2015-01-29",
+    "title": "Carduelis carduelis"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.006585,
+     -37.796623
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/abc123/items/ns/2015/54f6fddbed2a89097e0001af.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Fns%2F2015%2F54f6fddbed2a89097e0001af.yaml",
+    "date": "2015-02-12",
+    "title": "Tiliqua scincoides",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f6fddbed2a89097e0001ad.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.912341,
+     -37.797108
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/abc123/items/ns/2015/54f309cbed2a8945a1000356.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Fns%2F2015%2F54f309cbed2a8945a1000356.yaml",
+    "date": "2015-03-01",
+    "title": "Lycium ferocissimum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f30b75ed2a8945a1000359.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.870934,
+     -37.763348
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/abc123/items/ns/2015/54f1afe9ed2a8983c20001a3.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Fns%2F2015%2F54f1afe9ed2a8983c20001a3.yaml",
+    "date": "2014-12-26",
+    "title": "Podargus strigoides",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f1afe9ed2a8983c20001a2.JPG"
+   }
+  }
+ ]
+}

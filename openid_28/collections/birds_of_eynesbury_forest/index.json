@@ -1,0 +1,46 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Birds Of Eynesbury Forest",
+ "description": "",
+ "author": {
+  "name": "openid_28",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fcollections%2Fbirds_of_eynesbury_forest%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_28/collections/birds_of_eynesbury_forest/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_28/items/ns/2011/53b39850e35eb1298400e806.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e806.yaml",
+   "title": "Pachycephala pectoralis",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011bb2.jpg",
+   "date_published": "2011-06-03T16:54:45.000+00:00",
+   "date_modified": "2011-10-18T12:33:58.000+00:00",
+   "tags": [
+    "id~Pachycephala pectoralis",
+    "tag~female"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.565208,
+     -37.786301
+    ]
+   },
+   "_meta": {
+    "date": "2010-08-08",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_28",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

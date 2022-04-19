@@ -1,0 +1,37 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "lsmith76",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flsmith76%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flsmith76%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/lsmith76/collections/index.json",
+ "items": [
+  {
+   "title": "Hanging rock",
+   "content_text": "1 items",
+   "date_published": "2015-10-19T00:45:46.000+00:00",
+   "date_modified": "2015-10-19T00:45:46.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2015-10-19",
+    "name": "hanging_rock",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/lsmith76/collections/hanging_rock/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flsmith76%2Fcollections%2Fhanging_rock%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

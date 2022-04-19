@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.628,
+     -36.393
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_147/collections/wcmnburnedsite01/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_147%2Fcollections%2Fwcmnburnedsite01%2Faggregate%2Findex.json",
+    "date": "2014-11-08",
+    "title": "openid_147",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545d7d23e35eb1db8400007c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.628,
+     -36.393
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/barrietaylor/collections/wcmnburnedsite01/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbarrietaylor%2Fcollections%2Fwcmnburnedsite01%2Faggregate%2Findex.json",
+    "date": "2014-11-08",
+    "title": "barrietaylor",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545d7d23e35eb1db8400007c.jpg"
+   }
+  }
+ ]
+}

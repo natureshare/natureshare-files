@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/russell/collections/neds_corner_mammals/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Neds corner mammals</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fneds_corner_mammals%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 russell</copyright>
+    <pubDate>Wed, 02 Jul 2014 19:26:56 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Tachyglossus aculeatus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39859e35eb12984010770.yaml</link>
+      <dc:creator>russell</dc:creator>
+      <description>Known only from tracks at Neds before this one appeared from his favourite shed.</description>
+      <category>id~Tachyglossus aculeatus</category>
+      <guid isPermaLink="false">https://files.natureshare.org/russell/items/ns/2013/53b39859e35eb12984010770.yaml</guid>
+      <pubDate>Tue, 19 Nov 2013 11:39:29 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

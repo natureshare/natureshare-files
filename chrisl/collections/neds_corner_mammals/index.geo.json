@@ -1,0 +1,90 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.360199,
+     -34.234543
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/items/ns/2017/5871c222ed2a89f46400105d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2017%2F5871c222ed2a89f46400105d.yaml",
+    "date": "2016-04-04",
+    "title": "Chalinolobus gouldii",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5871c25ced2a892daf0002eb.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.514908,
+     -34.260147
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/items/ns/2013/53b39858e35eb129840102e3.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2013%2F53b39858e35eb129840102e3.yaml",
+    "date": "2012-03-31",
+    "title": "Macropus fuliginosus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840140cf.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.515228,
+     -34.260143
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/items/ns/2013/53b39858e35eb129840102e2.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2013%2F53b39858e35eb129840102e2.yaml",
+    "date": "2012-03-31",
+    "title": "Macropus fuliginosus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840140ce.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.446518,
+     -34.246944
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/items/ns/2013/53b39858e35eb129840102e0.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2013%2F53b39858e35eb129840102e0.yaml",
+    "date": "2012-03-31",
+    "title": "Macropus rufus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840140ca.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.290298,
+     -34.136482
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/items/ns/2012/53b39854e35eb1298400f657.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f657.yaml",
+    "date": "2012-03-30",
+    "title": "Macropus fuliginosus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012e01.jpg"
+   }
+  }
+ ]
+}

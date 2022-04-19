@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/openid_7/collections/weeds/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Weeds</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fcollections%2Fweeds%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 openid_7</copyright>
+    <pubDate>Tue, 06 Sep 2011 11:52:00 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Nassella hyalina</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400eb7b.yaml</link>
+      <dc:creator>openid_7</dc:creator>
+      <description>-</description>
+      <category>id~Nassella hyalina</category>
+      <category>tag~seed</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_7/items/ns/2011/53b39851e35eb1298400eb7b.yaml</guid>
+      <pubDate>Tue, 06 Sep 2011 11:47:44 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

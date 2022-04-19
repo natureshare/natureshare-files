@@ -1,0 +1,40 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Coopracambra Np Plants",
+ "description": "All users for [coopracambra_np_plants]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fcoopracambra_np_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/coopracambra_np_plants/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "1 items",
+   "date_published": "2012-08-28T17:17:46.000+00:00",
+   "date_modified": "2012-08-28T17:17:46.000+00:00",
+   "_geo": {
+    "coordinates": [
+     149.359818,
+     -37.339046
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2012-08-28",
+    "name": "coopracambra_np_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/coopracambra_np_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fcoopracambra_np_plants%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

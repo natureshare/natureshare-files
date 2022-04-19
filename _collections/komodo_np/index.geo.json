@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     119.719,
+     -8.656
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/reilly/collections/komodo_np/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fcollections%2Fkomodo_np%2Faggregate%2Findex.json",
+    "date": "2020-01-23",
+    "title": "reilly",
+    "image": "https://photos.natureshare.org/user_generated_content/thumbnails/reilly/items/dropbox/2020_komodo_np/dragon.jpg"
+   }
+  }
+ ]
+}

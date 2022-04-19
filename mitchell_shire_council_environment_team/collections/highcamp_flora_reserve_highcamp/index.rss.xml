@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/mitchell_shire_council_environment_team/collections/highcamp_flora_reserve_highcamp/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Highcamp Flora Reserve Highcamp</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fcollections%2Fhighcamp_flora_reserve_highcamp%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 mitchell_shire_council_environment_team</copyright>
+    <pubDate>Tue, 17 Mar 2015 05:52:16 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Wurmbea dioica subsp. dioica</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fitems%2Fns%2F2015%2F54ff763bed2a8994a90000ba.yaml</link>
+      <dc:creator>mitchell_shire_council_environment_team</dc:creator>
+      <description>Early Nancy</description>
+      <category>id~Wurmbea dioica subsp. dioica</category>
+      <category>tag~female</category>
+      <category>tag~flower</category>
+      <category>tag~male</category>
+      <guid isPermaLink="false">https://files.natureshare.org/mitchell_shire_council_environment_team/items/ns/2015/54ff763bed2a8994a90000ba.yaml</guid>
+      <pubDate>Tue, 10 Mar 2015 22:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hibbertia humifusa subsp. humifusa</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fitems%2Fns%2F2015%2F54ff7495ed2a8974d3000159.yaml</link>
+      <dc:creator>mitchell_shire_council_environment_team</dc:creator>
+      <description>-</description>
+      <category>id~Hibbertia humifusa subsp. humifusa</category>
+      <category>tag~flower</category>
+      <guid isPermaLink="false">https://files.natureshare.org/mitchell_shire_council_environment_team/items/ns/2015/54ff7495ed2a8974d3000159.yaml</guid>
+      <pubDate>Tue, 10 Mar 2015 22:47:49 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

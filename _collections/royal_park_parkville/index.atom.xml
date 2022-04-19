@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Royal Park Parkville</title>
+  <id>https://files.natureshare.org/_collections/royal_park_parkville/index.xml</id>
+  <updated>2019-06-19T03:24:17.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/_collections/royal_park_parkville/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/_collections/royal_park_parkville/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Froyal_park_parkville%2Findex.json"/>
+  <author>
+    <name>All Collections</name>
+    <uri>https://natureshare.org/collections</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 All Collections</rights>
+  <subtitle>All users for [royal_park_parkville]</subtitle>
+  <entry>
+    <id>https://files.natureshare.org/tsnata/collections/royal_park_parkville/aggregate/index.json</id>
+    <title>tsnata</title>
+    <updated>2019-06-19T03:24:17.000+00:00</updated>
+    <published>2019-06-19T03:24:17.000+00:00</published>
+    <author>
+      <name>All Collections</name>
+      <uri>https://natureshare.org/collections</uri>
+    </author>
+    <content type="text">96 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Froyal_park_parkville%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/abc123/collections/royal_park_parkville/aggregate/index.json</id>
+    <title>abc123</title>
+    <updated>2015-06-09T22:56:01.000+00:00</updated>
+    <published>2015-06-09T22:56:01.000+00:00</published>
+    <author>
+      <name>All Collections</name>
+      <uri>https://natureshare.org/collections</uri>
+    </author>
+    <content type="text">4 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fcollections%2Froyal_park_parkville%2Faggregate%2Findex.json"/>
+  </entry>
+</feed>

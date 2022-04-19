@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/lconole/collections/reptiles_and_frogs_of_tylden_township/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Reptiles and frogs of Tylden township</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fcollections%2Freptiles_and_frogs_of_tylden_township%2Faggregate%2Findex.json</link>
+    <description>Species recorded within 2km of the Tylden General Store - essentially the township boundaries.</description>
+    <language>en-us</language>
+    <copyright>© 2022 lconole</copyright>
+    <pubDate>Mon, 16 Jan 2017 10:41:13 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Litoria peronii</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2017%2F587ca349ed2a89f4640029cc.yaml</link>
+      <dc:creator>lconole</dc:creator>
+      <description>Two Peron's Tree-frogs calling at last light. I've not heard them here before over the last ~5 years.</description>
+      <category>id~Litoria peronii</category>
+      <category>tag~calling</category>
+      <guid isPermaLink="false">https://files.natureshare.org/lconole/items/ns/2017/587ca349ed2a89f4640029cc.yaml</guid>
+      <pubDate>Mon, 16 Jan 2017 10:41:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>3 ids</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2F5590cb20ed2a8918dd001577.yaml</link>
+      <dc:creator>lconole</dc:creator>
+      <description>Frogs heard calling from dam on private property (Litoria ewingii, Crinia signifera) and roadside swale (Pseudophryne bibronii, Litoria ewingii, Crinia signifera).</description>
+      <category>id~Crinia signifera</category>
+      <category>id~Litoria ewingii</category>
+      <category>id~Pseudophryne bibronii</category>
+      <category>tag~calling</category>
+      <category>tag~male</category>
+      <guid isPermaLink="false">https://files.natureshare.org/lconole/items/ns/2015/5590cb20ed2a8918dd001577.yaml</guid>
+      <pubDate>Mon, 29 Jun 2015 04:35:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>3 ids</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2F55090abfed2a8974d30006e2.yaml</link>
+      <dc:creator>lconole</dc:creator>
+      <description>Calling from patch of Ranunculus in waterway tributary of Little Coliban River.</description>
+      <category>id~Crinia parinsignifera</category>
+      <category>id~Crinia signifera</category>
+      <category>id~Litoria ewingii</category>
+      <category>tag~calling</category>
+      <guid isPermaLink="false">https://files.natureshare.org/lconole/items/ns/2015/55090abfed2a8974d30006e2.yaml</guid>
+      <pubDate>Wed, 18 Mar 2015 05:18:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>13 ids</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2Freptiles_and_frogs_of_tylden_township_species_list.yaml</link>
+      <dc:creator>lconole</dc:creator>
+      <description>Species list for collection.</description>
+      <category>id~Austrelaps superbus</category>
+      <category>id~Crinia parinsignifera</category>
+      <category>id~Crinia signifera</category>
+      <category>id~Lampropholis guichenoti</category>
+      <category>id~Limnodynastes dumerilii</category>
+      <category>id~Limnodynastes peronii</category>
+      <category>id~Limnodynastes tasmaniensis</category>
+      <category>id~Litoria ewingii</category>
+      <category>id~Litoria verreauxii verreauxii</category>
+      <category>id~Pseudemoia pagenstecheri</category>
+      <category>id~Pseudonaja textilis</category>
+      <category>id~Pseudophryne bibronii</category>
+      <category>id~Tiliqua nigrolutea</category>
+      <category>tag~species-list</category>
+      <guid isPermaLink="false">https://files.natureshare.org/lconole/items/ns/2015/reptiles_and_frogs_of_tylden_township_species_list.yaml</guid>
+      <pubDate>Sun, 01 Mar 2015 07:04:33 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

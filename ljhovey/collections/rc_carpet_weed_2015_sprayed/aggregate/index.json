@@ -1,0 +1,46 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "RC Carpet Weed 2015 (SPRAYED)",
+ "description": "For recording the locations in Riddells Creek of weeds that have been sprayed.",
+ "author": {
+  "name": "ljhovey",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fljhovey%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fljhovey%2Fcollections%2Frc_carpet_weed_2015_sprayed%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/ljhovey/collections/rc_carpet_weed_2015_sprayed/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/ljhovey/items/ns/2015/rc_carpet_weed_2015_sprayed_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fljhovey%2Fitems%2Fns%2F2015%2Frc_carpet_weed_2015_sprayed_species_list.yaml",
+   "title": "Galenia pubescens var. pubescens",
+   "content_text": "Species list for collection.",
+   "date_published": "2015-10-26T00:43:48.000+00:00",
+   "date_modified": "2015-10-26T00:50:23.000+00:00",
+   "tags": [
+    "id~Galenia pubescens var. pubescens",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.685303,
+     -37.455965
+    ]
+   },
+   "_meta": {
+    "date": "2015-10-26"
+   },
+   "author": {
+    "name": "ljhovey",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fljhovey%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": "<p>For recording the locations in Riddells Creek of weeds that have been sprayed.</p>\n"
+ }
+}

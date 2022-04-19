@@ -1,0 +1,68 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "frankiebee",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ffrankiebee%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ffrankiebee%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/frankiebee/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/frankiebee/items/ns/2017/58fc3b8bed2a89f3bf000dca.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ffrankiebee%2Fitems%2Fns%2F2017%2F58fc3b8bed2a89f3bf000dca.yaml",
+   "title": "Stibaroma melanotoxa",
+   "content_text": "Not sure what it is but nicely camouflaged",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58fc3b92ed2a89e548000102.JPG",
+   "date_published": "2017-04-23T05:33:21.000+00:00",
+   "date_modified": "2017-04-23T13:12:45.000+00:00",
+   "tags": [
+    "id~Stibaroma melanotoxa",
+    "tag~camouflage",
+    "tag~grey",
+    "tag~moth"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.647444,
+     -37.452369
+    ]
+   },
+   "_meta": {
+    "date": "2017-04-22",
+    "imageCount": 1
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/frankiebee/items/ns/2016/585e46eded2a89748000ae2c.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ffrankiebee%2Fitems%2Fns%2F2016%2F585e46eded2a89748000ae2c.yaml",
+   "title": "Todiramphus sanctus",
+   "content_text": "Spotted a flash of blue flying across the dam. Then she/he landed on a branch in front of me. Had a feeling there were two but couldn't be sure. ",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/585e46f6ed2a89b718000299.JPG",
+   "date_published": "2016-12-26T06:35:01.000+00:00",
+   "date_modified": "2016-12-27T22:22:49.000+00:00",
+   "tags": [
+    "id~Todiramphus sanctus",
+    "tag~bird",
+    "tag~kingfisher"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.674958,
+     -37.455628
+    ]
+   },
+   "_meta": {
+    "date": "2016-12-24",
+    "imageCount": 2
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

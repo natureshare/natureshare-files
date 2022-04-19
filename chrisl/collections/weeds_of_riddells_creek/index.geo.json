@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.652712,
+     -37.431489
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/items/ns/2015/5677fafaed2a89d6d6000328.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2015%2F5677fafaed2a89d6d6000328.yaml",
+    "date": "2015-09-18",
+    "title": "Erica lusitanica",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5677fb54ed2a898328000043.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.653023,
+     -37.431515
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/items/ns/2015/5677fb1ded2a89d6d600032b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2015%2F5677fb1ded2a89d6d600032b.yaml",
+    "date": "2015-09-18",
+    "title": "Ulex europaeus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5677fb9ded2a898328000045.jpg"
+   }
+  }
+ ]
+}

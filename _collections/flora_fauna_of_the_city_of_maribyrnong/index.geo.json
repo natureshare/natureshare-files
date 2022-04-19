@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.872487,
+     -37.793342
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/maribyrnongparkranger/collections/flora_fauna_of_the_city_of_maribyrnong/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmaribyrnongparkranger%2Fcollections%2Fflora_fauna_of_the_city_of_maribyrnong%2Faggregate%2Findex.json",
+    "date": "2019-08-30",
+    "title": "maribyrnongparkranger",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000026/2019-08-30/p1110217_ed.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.872487,
+     -37.793342
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/collections/flora_fauna_of_the_city_of_maribyrnong/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fflora_fauna_of_the_city_of_maribyrnong%2Faggregate%2Findex.json",
+    "date": "2019-08-30",
+    "title": "tsnata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000026/2019-08-30/p1110217_ed.jpeg"
+   }
+  }
+ ]
+}

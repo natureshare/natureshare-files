@@ -1,0 +1,93 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Birds at 13 Limonite Road, Boolarra",
+ "description": "Wattlebird",
+ "author": {
+  "name": "openid_169",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_169%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_169%2Fcollections%2Fbirds_at_13_limonite_road_boolarra%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_169/collections/birds_at_13_limonite_road_boolarra/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_169/items/ns/2013/53b39858e35eb12984010348.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_169%2Fitems%2Fns%2F2013%2F53b39858e35eb12984010348.yaml",
+   "title": "4 ids",
+   "content_text": "-",
+   "date_published": "2013-07-19T15:10:07.000+00:00",
+   "date_modified": "2013-07-19T15:10:07.000+00:00",
+   "tags": [
+    "id~Acanthorhynchus tenuirostris",
+    "id~Alisterus scapularis",
+    "id~Anthochaera chrysoptera",
+    "id~Strepera graculina"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2013-07-18"
+   },
+   "author": {
+    "name": "openid_169",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_169%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_169/items/ns/2015/birds_at_13_limonite_road_boolarra_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_169%2Fitems%2Fns%2F2015%2Fbirds_at_13_limonite_road_boolarra_species_list.yaml",
+   "title": "Anthochaera chrysoptera",
+   "content_text": "Species list for collection.",
+   "date_published": "2013-07-19T14:50:06.000+00:00",
+   "date_modified": "2015-04-07T08:47:40.000+00:00",
+   "tags": [
+    "id~Anthochaera chrysoptera",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "openid_169",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_169%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_169/items/ns/2013/53b39858e35eb1298401032f.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_169%2Fitems%2Fns%2F2013%2F53b39858e35eb1298401032f.yaml",
+   "title": "Pteridium esculentum",
+   "content_text": "Found in the Boolarra Bush.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014152.jpg",
+   "date_published": "2013-07-19T14:25:09.000+00:00",
+   "date_modified": "2014-07-03T02:39:46.000+00:00",
+   "tags": [
+    "id~Pteridium esculentum"
+   ],
+   "_geo": {
+    "coordinates": [
+     146.270167,
+     -38.389833
+    ]
+   },
+   "_meta": {
+    "date": "2013-07-06",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_169",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_169%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": "<p>Wattlebird</p>\n"
+ }
+}

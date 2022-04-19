@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.223458,
+     -37.901909
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/helenal1978/items/ns/2017/58ba6105ed2a89bb7e0000a9.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fhelenal1978%2Fitems%2Fns%2F2017%2F58ba6105ed2a89bb7e0000a9.yaml",
+    "date": "2017-03-04",
+    "title": "Acacia pycnantha",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ba610bed2a891d6d000022.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.223335,
+     -37.901949
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/helenal1978/items/ns/2017/58ba5de8ed2a8938900024e4.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fhelenal1978%2Fitems%2Fns%2F2017%2F58ba5de8ed2a8938900024e4.yaml",
+    "date": "2017-03-04",
+    "title": "Acacia acinacea s.s.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ba5df1ed2a894410000025.jpg"
+   }
+  }
+ ]
+}

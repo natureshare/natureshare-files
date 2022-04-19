@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.536865,
+     -34.583475
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/murray_sunset_np_south_flora_south_of_sturt_hwy/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmurray_sunset_np_south_flora_south_of_sturt_hwy%2Faggregate%2Findex.json",
+    "date": "2013-12-23",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ae35eb12984014be9.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.754,
+     -34.89
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/collections/murray_sunset_np_south_flora_south_of_sturt_hwy/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fmurray_sunset_np_south_flora_south_of_sturt_hwy%2Faggregate%2Findex.json",
+    "date": "2013-09-21",
+    "title": "jamesbooth",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb1298401442f.jpg"
+   }
+  }
+ ]
+}

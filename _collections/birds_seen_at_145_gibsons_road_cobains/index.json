@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Birds Seen At 145 Gibsons Road Cobains",
+ "description": "All users for [birds_seen_at_145_gibsons_road_cobains]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fbirds_seen_at_145_gibsons_road_cobains%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/birds_seen_at_145_gibsons_road_cobains/index.json",
+ "items": [
+  {
+   "title": "suzanne",
+   "content_text": "96 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b434181ed2a892807000042.JPG",
+   "date_published": "2018-07-09T11:09:07.000+00:00",
+   "date_modified": "2018-07-09T11:09:07.000+00:00",
+   "_geo": {
+    "coordinates": [
+     147.086052,
+     -38.082021
+    ]
+   },
+   "_meta": {
+    "itemCount": 96,
+    "date": "2018-07-09",
+    "name": "birds_seen_at_145_gibsons_road_cobains",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/suzanne/collections/birds_seen_at_145_gibsons_road_cobains/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsuzanne%2Fcollections%2Fbirds_seen_at_145_gibsons_road_cobains%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

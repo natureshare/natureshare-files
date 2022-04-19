@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.353045,
+     -37.328239
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lconole/collections/flora_of_spring_hill_-_tylden_south/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fcollections%2Fflora_of_spring_hill_-_tylden_south%2Faggregate%2Findex.json",
+    "date": "2017-01-31",
+    "title": "lconole",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588fd685ed2a892daf00037f.JPG"
+   }
+  }
+ ]
+}

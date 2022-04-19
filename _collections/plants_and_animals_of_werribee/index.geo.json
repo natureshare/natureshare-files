@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.594165,
+     -37.880358
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jedwards/collections/plants_and_animals_of_werribee/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fcollections%2Fplants_and_animals_of_werribee%2Faggregate%2Findex.json",
+    "date": "2019-02-13",
+    "title": "jedwards",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5b960d3ded2a89cce30032a4/2019-02-13/1550043274/IMG_3461.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.668,
+     -37.873
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/westernplainsgardener/collections/plants_and_animals_of_werribee/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fcollections%2Fplants_and_animals_of_werribee%2Faggregate%2Findex.json",
+    "date": "2019-02-13",
+    "title": "westernplainsgardener",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5b960d3ded2a89cce30032a4/2019-02-13/1550043274/IMG_3461.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.673,
+     -37.928
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/collections/plants_and_animals_of_werribee/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fplants_and_animals_of_werribee%2Faggregate%2Findex.json",
+    "date": "2014-11-23",
+    "title": "tsnata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5471d80fe35eb1f43b000048.jpg"
+   }
+  }
+ ]
+}

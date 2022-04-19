@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "ozfroggirl",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fozfroggirl%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fozfroggirl%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/ozfroggirl/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/ozfroggirl/items/ns/2018/5a5b001aed2a89d22b002608.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fozfroggirl%2Fitems%2Fns%2F2018%2F5a5b001aed2a89d22b002608.yaml",
+   "title": "Hippotion scrofa",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a5b0020ed2a893fb70000bb.jpg",
+   "date_published": "2018-01-14T07:06:33.000+00:00",
+   "date_modified": "2018-01-14T08:20:56.000+00:00",
+   "tags": [
+    "id~Hippotion scrofa"
+   ],
+   "_geo": {
+    "coordinates": [
+     146.252512,
+     -38.188712
+    ]
+   },
+   "_meta": {
+    "date": "2018-01-06",
+    "imageCount": 2
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

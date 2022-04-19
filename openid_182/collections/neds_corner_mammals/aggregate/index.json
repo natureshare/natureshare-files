@@ -1,0 +1,48 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Neds corner mammals",
+ "description": "",
+ "author": {
+  "name": "openid_182",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_182%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_182%2Fcollections%2Fneds_corner_mammals%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_182/collections/neds_corner_mammals/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_182/items/ns/2013/53b39858e35eb129840104fa.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_182%2Fitems%2Fns%2F2013%2F53b39858e35eb129840104fa.yaml",
+   "title": "Macropus rufus",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb12984014435.jpg",
+   "date_published": "2013-09-29T18:20:20.000+00:00",
+   "date_modified": "2017-03-25T05:46:39.000+00:00",
+   "tags": [
+    "id~Macropus rufus",
+    "tag~male"
+   ],
+   "_geo": {
+    "coordinates": [
+     141.323793,
+     -34.172585
+    ]
+   },
+   "_meta": {
+    "date": "2013-08-10",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_182",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_182%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

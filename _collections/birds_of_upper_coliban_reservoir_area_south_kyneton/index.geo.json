@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.40773,
+     -37.269408
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/collections/birds_of_upper_coliban_reservoir_area_south_kyneton/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fcollections%2Fbirds_of_upper_coliban_reservoir_area_south_kyneton%2Faggregate%2Findex.json",
+    "date": "2015-01-31",
+    "title": "openid_31",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ccb3bded2a899aeb0002e2.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.404,
+     -37.28
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/collections/birds_of_upper_coliban_reservoir_area_south_kyneton/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fcollections%2Fbirds_of_upper_coliban_reservoir_area_south_kyneton%2Faggregate%2Findex.json",
+    "date": "2015-01-31",
+    "title": "therebel2015",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ccb3bded2a899aeb0002e2.JPG"
+   }
+  }
+ ]
+}

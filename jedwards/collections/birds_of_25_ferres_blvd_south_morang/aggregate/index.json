@@ -1,0 +1,95 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Birds of 25 ferres blvd south morang",
+ "description": "",
+ "author": {
+  "name": "jedwards",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fcollections%2Fbirds_of_25_ferres_blvd_south_morang%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/jedwards/collections/birds_of_25_ferres_blvd_south_morang/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/jedwards/items/ns/2016/572063e2ed2a89e66800016b.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fitems%2Fns%2F2016%2F572063e2ed2a89e66800016b.yaml",
+   "title": "Ardea modesta",
+   "content_text": "-",
+   "date_published": "2016-04-27T07:01:54.000+00:00",
+   "date_modified": "2016-04-27T07:01:54.000+00:00",
+   "tags": [
+    "id~Ardea modesta"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.067298,
+     -37.645845
+    ]
+   },
+   "_meta": {
+    "date": "2016-04-27"
+   },
+   "author": {
+    "name": "jedwards",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/jedwards/items/ns/2016/572034b0ed2a89e66800015a.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fitems%2Fns%2F2016%2F572034b0ed2a89e66800015a.yaml",
+   "title": "Pardalotus punctatus",
+   "content_text": "No photo available unfortunately; the bird hit the eastern window of the City of Whittlesea Civic Centre and died.  ",
+   "date_published": "2016-04-27T03:40:32.000+00:00",
+   "date_modified": "2016-04-27T03:40:32.000+00:00",
+   "tags": [
+    "id~Pardalotus punctatus"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.068176,
+     -37.645078
+    ]
+   },
+   "_meta": {
+    "date": "2016-04-27"
+   },
+   "author": {
+    "name": "jedwards",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/jedwards/items/ns/2015/55b83e66ed2a89db81000348.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fitems%2Fns%2F2015%2F55b83e66ed2a89db81000348.yaml",
+   "title": "Acanthorhynchus tenuirostris",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55b83e66ed2a89db81000346.jpg",
+   "date_published": "2015-07-29T02:45:58.000+00:00",
+   "date_modified": "2015-07-29T02:47:39.000+00:00",
+   "tags": [
+    "id~Acanthorhynchus tenuirostris"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.067205,
+     -37.645508
+    ]
+   },
+   "_meta": {
+    "date": "2015-07-15",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "jedwards",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

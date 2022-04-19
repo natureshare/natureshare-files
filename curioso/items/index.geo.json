@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.484373,
+     -33.380874
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/curioso/items/ns/2017/5a44cc6ced2a89e23c002aca.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcurioso%2Fitems%2Fns%2F2017%2F5a44cc6ced2a89e23c002aca.yaml",
+    "date": "2017-12-28",
+    "title": "Cordyceps gunnii",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a44cc8ced2a89298f000057.JPG"
+   }
+  }
+ ]
+}

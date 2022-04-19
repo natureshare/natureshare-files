@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.518638,
+     -37.352061
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/williamterry/items/ns/2014/54223d6be35eb1cc74000050.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fwilliamterry%2Fitems%2Fns%2F2014%2F54223d6be35eb1cc74000050.yaml",
+    "date": "2014-09-23",
+    "title": "Vicia hirsuta",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54223d6be35eb1cc7400004f.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.596964,
+     -37.328263
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/williamterry/items/ns/2014/53f2f7abe35eb15e3c000006.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fwilliamterry%2Fitems%2Fns%2F2014%2F53f2f7abe35eb15e3c000006.yaml",
+    "date": "2014-08-19",
+    "title": "Climacteris erythrops",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53f2f7abe35eb15e3c000004.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.596696,
+     -37.330038
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/williamterry/items/ns/2014/53e94787e35eb175d700000b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fwilliamterry%2Fitems%2Fns%2F2014%2F53e94787e35eb175d700000b.yaml",
+    "date": "2014-08-11",
+    "title": "Sambucus gaudichaudiana",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53e94787e35eb175d700000a.JPG"
+   }
+  }
+ ]
+}

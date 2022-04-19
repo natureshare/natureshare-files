@@ -1,0 +1,55 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.238859,
+     -37.170357
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/items/ns/2015/55ecc8dbed2a89b06c00030c.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2015%2F55ecc8dbed2a89b06c00030c.yaml",
+    "date": "2015-09-06",
+    "title": "Malurus cyaneus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55ecc8fbed2a890d950000e6.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.237816,
+     -37.170214
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/items/ns/2015/warburton_bridge_camping_ground_-_glenluce_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2015%2Fwarburton_bridge_camping_ground_-_glenluce_species_list.yaml",
+    "date": "2015-10-22",
+    "title": "Eopsaltria australis, Malurus cyaneus"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.238451,
+     -37.170118
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/items/ns/2015/55ecc0f8ed2a89b06c000306.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2015%2F55ecc0f8ed2a89b06c000306.yaml",
+    "date": "2015-09-06",
+    "title": "Eopsaltria australis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55ecc10fed2a890d950000e5.jpg"
+   }
+  }
+ ]
+}

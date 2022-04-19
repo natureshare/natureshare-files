@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.676208,
+     -37.462105
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/biosite_3583_riddells_creek_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fbiosite_3583_riddells_creek_plants%2Faggregate%2Findex.json",
+    "date": "2016-11-09",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5822fd22ed2a89b7180001a1.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.693,
+     -37.464
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/collections/biosite_3583_riddells_creek_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fbiosite_3583_riddells_creek_plants%2Faggregate%2Findex.json",
+    "date": "2016-11-09",
+    "title": "david_francis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5822fd22ed2a89b7180001a1.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.688,
+     -37.464
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/collections/biosite_3583_riddells_creek_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fcollections%2Fbiosite_3583_riddells_creek_plants%2Faggregate%2Findex.json",
+    "date": "2015-08-25",
+    "title": "gill",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55dbb609ed2a890d95000005.jpeg"
+   }
+  }
+ ]
+}

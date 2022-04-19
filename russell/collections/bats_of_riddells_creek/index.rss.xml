@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/russell/collections/bats_of_riddells_creek/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Bats Of Riddells Creek</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fbats_of_riddells_creek%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 russell</copyright>
+    <pubDate>Tue, 07 Apr 2015 08:47:32 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Vespadelus vulturnus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2010%2F53b3984fe35eb1298400e309.yaml</link>
+      <dc:creator>russell</dc:creator>
+      <description>-</description>
+      <category>id~Vespadelus vulturnus</category>
+      <guid isPermaLink="false">https://files.natureshare.org/russell/items/ns/2010/53b3984fe35eb1298400e309.yaml</guid>
+      <pubDate>Fri, 12 Nov 2010 14:43:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nyctophilus geoffroyi</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2010%2F53b3984fe35eb1298400e308.yaml</link>
+      <dc:creator>russell</dc:creator>
+      <description>-</description>
+      <category>id~Nyctophilus geoffroyi</category>
+      <guid isPermaLink="false">https://files.natureshare.org/russell/items/ns/2010/53b3984fe35eb1298400e308.yaml</guid>
+      <pubDate>Fri, 12 Nov 2010 14:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nyctophilus geoffroyi, Vespadelus vulturnus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Fbats_of_riddells_creek_species_list.yaml</link>
+      <dc:creator>russell</dc:creator>
+      <description>Species list for collection.</description>
+      <category>id~Nyctophilus geoffroyi</category>
+      <category>id~Vespadelus vulturnus</category>
+      <category>tag~species-list</category>
+      <guid isPermaLink="false">https://files.natureshare.org/russell/items/ns/2015/bats_of_riddells_creek_species_list.yaml</guid>
+      <pubDate>Fri, 12 Nov 2010 14:33:05 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,38 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.336951,
+     -36.841233
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/54ce073fed2a899aeb0003df.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F54ce073fed2a899aeb0003df.yaml",
+    "date": "2015-01-26",
+    "title": "Canis lupus dingo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.281791,
+     -36.86326
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/54ce0567ed2a899aeb0003d4.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F54ce0567ed2a899aeb0003d4.yaml",
+    "date": "2015-01-26",
+    "title": "Eulamprus spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ce0567ed2a899aeb0003d3.jpg"
+   }
+  }
+ ]
+}

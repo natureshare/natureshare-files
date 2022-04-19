@@ -1,0 +1,45 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Neds Corner Mammals",
+ "description": "",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fneds_corner_mammals%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/neds_corner_mammals/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2013/53b39859e35eb12984010770.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39859e35eb12984010770.yaml",
+   "title": "Tachyglossus aculeatus",
+   "content_text": "Known only from tracks at Neds before this one appeared from his favourite shed.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ae35eb12984014842.jpg",
+   "date_published": "2013-11-19T11:39:29.000+00:00",
+   "date_modified": "2014-07-02T19:26:56.000+00:00",
+   "tags": [
+    "id~Tachyglossus aculeatus"
+   ],
+   "_geo": {
+    "coordinates": [
+     141.327332,
+     -34.140408
+    ]
+   },
+   "_meta": {
+    "date": "2013-09-29",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

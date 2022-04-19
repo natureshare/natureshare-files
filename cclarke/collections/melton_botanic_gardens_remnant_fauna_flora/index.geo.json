@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.588972,
+     -37.692489
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/cclarke/items/ns/2013/53b39856e35eb1298400ff4b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400ff4b.yaml",
+    "date": "2013-03-09",
+    "title": "Elseyornis melanops",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013b2a.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.5938,
+     -37.689382
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/cclarke/items/ns/2013/53b39856e35eb1298400ff4a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400ff4a.yaml",
+    "date": "2013-03-09",
+    "title": "Eucalyptus microcarpa",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013b29.jpg"
+   }
+  }
+ ]
+}

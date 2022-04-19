@@ -1,0 +1,99 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Brisbane ranges birds",
+ "description": "",
+ "author": {
+  "name": "tsnata",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fbrisbane_ranges_birds%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/tsnata/collections/brisbane_ranges_birds/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/tsnata/items/ns/2015/55588fffed2a890e0300068a.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2015%2F55588fffed2a890e0300068a.yaml",
+   "title": "Cormobates leucophaeus",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55588ffeed2a890e03000689.jpg",
+   "date_published": "2015-05-17T12:56:31.000+00:00",
+   "date_modified": "2015-05-17T13:06:44.000+00:00",
+   "tags": [
+    "id~Cormobates leucophaeus"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.24807,
+     -37.866051
+    ]
+   },
+   "_meta": {
+    "date": "2015-05-16",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "tsnata",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/tsnata/items/ns/2015/555882f3ed2a890e0300067e.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2015%2F555882f3ed2a890e0300067e.yaml",
+   "title": "Melithreptus lunatus",
+   "content_text": "A group of honey-eaters feasting on eucalypt flowers. Very active. Second photo showed a bit of the head.\r\nLocation approximate. On the track between Stony Creek and Anakie Gorge Picnic Area. Id by David Francis and Chris Lindorff as White-naped Honeyeater.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/555882f2ed2a890e0300067c.jpg",
+   "date_published": "2015-05-17T12:00:51.000+00:00",
+   "date_modified": "2015-05-18T03:25:03.000+00:00",
+   "tags": [
+    "id~Melithreptus lunatus"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.259602,
+     -37.860936
+    ]
+   },
+   "_meta": {
+    "date": "2015-05-16",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "tsnata",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/tsnata/items/ns/2015/555869a3ed2a890e0300064b.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2015%2F555869a3ed2a890e0300064b.yaml",
+   "title": "Sericornis frontalis",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/555869a2ed2a890e0300064a.jpg",
+   "date_published": "2015-05-17T10:12:51.000+00:00",
+   "date_modified": "2015-05-17T10:25:49.000+00:00",
+   "tags": [
+    "id~Sericornis frontalis"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.271767,
+     -37.860317
+    ]
+   },
+   "_meta": {
+    "date": "2015-05-16",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "tsnata",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

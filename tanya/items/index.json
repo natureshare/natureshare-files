@@ -1,0 +1,60 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "tanya",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftanya%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftanya%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/tanya/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/tanya/items/ns/2015/55bc17c2ed2a89db81000791.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftanya%2Fitems%2Fns%2F2015%2F55bc17c2ed2a89db81000791.yaml",
+   "title": "Tiliqua nigrolutea",
+   "content_text": "This blue-tongue was on the dirt road - I moved it to other side and she or he urinated on me!",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55bc17c1ed2a89db8100078f.JPG",
+   "date_published": "2015-08-01T00:50:10.000+00:00",
+   "date_modified": "2015-08-01T00:50:53.000+00:00",
+   "tags": [
+    "id~Tiliqua nigrolutea"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2014-12-27",
+    "imageCount": 1
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/tanya/items/ns/2015/55bc1ba3ed2a89db81000795.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftanya%2Fitems%2Fns%2F2015%2F55bc1ba3ed2a89db81000795.yaml",
+   "title": "Hydromys chrysogaster",
+   "content_text": "Two Native Water Rats observed at the creek behind the lake.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55bc1ba2ed2a89db81000793.JPG",
+   "date_published": "2015-04-05T17:24:59.000+00:00",
+   "date_modified": "2015-08-31T12:25:23.000+00:00",
+   "tags": [
+    "id~Hydromys chrysogaster"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.138266,
+     -37.347458
+    ]
+   },
+   "_meta": {
+    "date": "2015-04-05",
+    "imageCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

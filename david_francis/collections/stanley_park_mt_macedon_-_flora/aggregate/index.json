@@ -1,0 +1,437 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Stanley Park, Mt Macedon - Flora",
+ "description": "Native plants of Stanley Park, Mount Macedon recorded 1976 to 2013 by Macedon Range Conservation Society members (1970s), David Francis (2000 -) and Atlas Ecology (2013). Some of the species in the early lists have not been sighted in recent times.",
+ "author": {
+  "name": "david_francis",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fstanley_park_mt_macedon_-_flora%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/david_francis/collections/stanley_park_mt_macedon_-_flora/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/david_francis/items/ns/2017/58d06e5bed2a896341000584.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2017%2F58d06e5bed2a896341000584.yaml",
+   "title": "Cedronella canariensis",
+   "content_text": "Growing alongside a creek at Stanley Park below the waterfall.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58d06e60ed2a89e548000088.JPG",
+   "date_published": "2017-03-21T00:07:29.000+00:00",
+   "date_modified": "2017-03-21T00:07:29.000+00:00",
+   "tags": [
+    "id~Cedronella canariensis",
+    "tag~weed"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.580604,
+     -37.406754
+    ]
+   },
+   "_meta": {
+    "date": "2010-12-21",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "david_francis",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/david_francis/items/ns/2017/stanley_park_mt_macedon_-_flora_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2017%2Fstanley_park_mt_macedon_-_flora_species_list.yaml",
+   "title": "122 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2016-08-19T01:02:07.000+00:00",
+   "date_modified": "2017-03-21T03:10:54.000+00:00",
+   "tags": [
+    "id~Acacia dealbata subsp. dealbata",
+    "id~Acacia mearnsii",
+    "id~Acacia melanoxylon",
+    "id~Acacia stricta",
+    "id~Acacia verticillata",
+    "id~Acaena echinata",
+    "id~Acaena novae-zelandiae",
+    "id~Acrotriche prostrata",
+    "id~Acrotriche serrulata",
+    "id~Adiantum aethiopicum",
+    "id~Alisma plantago-aquatica",
+    "id~Arthropodium milleflorum s.l.",
+    "id~Arthropodium strictum s.s.",
+    "id~Asperula scoparia subsp. scoparia",
+    "id~Asplenium flabellifolium",
+    "id~Austrostipa rudis",
+    "id~Bedfordia arborescens",
+    "id~Billardiera mutabilis",
+    "id~Blechnum nudum",
+    "id~Blechnum wattsii",
+    "id~Bossiaea prostrata",
+    "id~Bulbine bulbosa",
+    "id~Burchardia umbellata",
+    "id~Bursaria spinosa",
+    "id~Carex breviculmis",
+    "id~Carex fascicularis",
+    "id~Cassinia aculeata",
+    "id~Cassinia arcuata",
+    "id~Cassinia longifolia",
+    "id~Cedronella canariensis",
+    "id~Clematis aristata",
+    "id~Comesperma volubile",
+    "id~Coprosma hirtella",
+    "id~Coprosma quadrifida",
+    "id~Correa reflexa",
+    "id~Craspedia variabilis",
+    "id~Cyathea australis",
+    "id~Cynoglossum suaveolens",
+    "id~Dianella admixta",
+    "id~Dianella sp. aff. longifolia (Benambra)",
+    "id~Dianella tasmanica",
+    "id~Dicksonia antarctica",
+    "id~Dillwynia cinerascens s.s.",
+    "id~Dillwynia sericea",
+    "id~Drosera peltata s.s.",
+    "id~Epilobium billardierianum",
+    "id~Eucalyptus obliqua",
+    "id~Eucalyptus ovata var. ovata",
+    "id~Eucalyptus radiata subsp. radiata",
+    "id~Eucalyptus viminalis subsp. viminalis",
+    "id~Exocarpos cupressiformis",
+    "id~Gahnia radula",
+    "id~Gahnia sieberiana",
+    "id~Geranium potentilloides var. potentilloides",
+    "id~Geranium sp. 2",
+    "id~Glycine clandestina",
+    "id~Gonocarpus tetragynus",
+    "id~Goodenia ovata",
+    "id~Haloragis heterophylla",
+    "id~Hardenbergia violacea",
+    "id~Hedycarya angustifolia",
+    "id~Hydrocotyle laxiflora",
+    "id~Indigofera australis",
+    "id~Isolepis fluitans",
+    "id~Juncus pallidus",
+    "id~Juncus planifolius",
+    "id~Juncus spp.",
+    "id~Kunzea ericoides spp. agg.",
+    "id~Leptorhynchos squamatus",
+    "id~Leptorhynchos squamatus subsp. squamatus",
+    "id~Leptorhynchos tenuifolius",
+    "id~Leptospermum lanigerum",
+    "id~Linum marginale",
+    "id~Lomandra filiformis",
+    "id~Lomandra longifolia",
+    "id~Microlaena stipoides var. stipoides",
+    "id~Microseris walteri",
+    "id~Microtis parviflora",
+    "id~Microtis unifolia",
+    "id~Olearia argophylla",
+    "id~Olearia lirata",
+    "id~Oxalis exilis/perennans",
+    "id~Pauridia vaginata",
+    "id~Pelargonium australe",
+    "id~Pelargonium inodorum",
+    "id~Pelargonium rodneyanum",
+    "id~Pimelea humilis",
+    "id~Plantago varia",
+    "id~Poa labillardierei",
+    "id~Poa sieberiana",
+    "id~Polyscias sambucifolia subsp. 1",
+    "id~Polystichum proliferum",
+    "id~Pomaderris aspera",
+    "id~Poranthera microphylla s.s.",
+    "id~Prostanthera lasianthos",
+    "id~Pteridium esculentum",
+    "id~Pterostylis melagramma",
+    "id~Pultenaea daphnoides",
+    "id~Ranunculus lappaceus",
+    "id~Rubus parvifolius",
+    "id~Rytidosperma caespitosum",
+    "id~Rytidosperma racemosum var. racemosum",
+    "id~Rytidosperma spp.",
+    "id~Sambucus gaudichaudiana",
+    "id~Senecio glomeratus",
+    "id~Senecio hispidulus s.s.",
+    "id~Senecio linearifolius var. linearifolius",
+    "id~Senecio minimus",
+    "id~Senecio phelleus",
+    "id~Senecio prenanthoides",
+    "id~Senecio quadridentatus",
+    "id~Solanum laciniatum",
+    "id~Stellaria pungens",
+    "id~Stylidium armeria subsp. armeria",
+    "id~Tetrarrhena juncea",
+    "id~Thelymitra ixioides s.l.",
+    "id~Thelymitra pauciflora s.l.",
+    "id~Themeda triandra",
+    "id~Veronica gracilis",
+    "id~Viola hederacea sensu Thiele & Prober",
+    "id~Wahlenbergia stricta subsp. stricta",
+    "id~Wurmbea dioica",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.58037,
+     -37.406254
+    ]
+   },
+   "_meta": {
+    "date": "2017-03-21"
+   },
+   "author": {
+    "name": "david_francis",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/david_francis/items/ns/2014/5498a6a6e35eb1bae500003f.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2014%2F5498a6a6e35eb1bae500003f.yaml",
+   "title": "Dianella longifolia s.l.",
+   "content_text": "A dozen or so plants scattered over this corner of Stanley Park",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5498a6a5e35eb1bae5000038.jpg",
+   "date_published": "2014-12-22T23:17:58.000+00:00",
+   "date_modified": "2017-06-08T01:51:24.000+00:00",
+   "tags": [
+    "id~Dianella longifolia s.l.",
+    "tag~flower",
+    "tag~habit",
+    "tag~leaf"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.578508,
+     -37.405278
+    ]
+   },
+   "_meta": {
+    "date": "2014-12-22",
+    "imageCount": 3
+   },
+   "author": {
+    "name": "david_francis",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/david_francis/items/ns/2014/53c7b86fe35eb10c5a000006.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2014%2F53c7b86fe35eb10c5a000006.yaml",
+   "title": "Carex fascicularis",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53c7b86fe35eb10c5a000005.jpg",
+   "date_published": "2014-07-17T11:50:07.000+00:00",
+   "date_modified": "2014-07-17T11:50:24.000+00:00",
+   "tags": [
+    "id~Carex fascicularis"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.580401,
+     -37.406642
+    ]
+   },
+   "_meta": {
+    "date": "2010-12-21",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "david_francis",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/david_francis/items/ns/2014/53c2683de35eb1037500000b.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2014%2F53c2683de35eb1037500000b.yaml",
+   "title": "Pterostylis melagramma",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53c2683de35eb10375000009.JPG",
+   "date_published": "2014-07-13T11:06:37.000+00:00",
+   "date_modified": "2016-02-16T11:58:23.000+00:00",
+   "tags": [
+    "id~Pterostylis melagramma",
+    "tag~flower",
+    "tag~orchid"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.58197,
+     -37.407204
+    ]
+   },
+   "_meta": {
+    "date": "2010-09-26",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "david_francis",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/david_francis/items/ns/2014/53bfbdd4e35eb1104800000f.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2014%2F53bfbdd4e35eb1104800000f.yaml",
+   "title": "Blechnum wattsii",
+   "content_text": "Fronds spread along creeping rhizome to 125 cm tall \r\nYoung fronds tinged pink to bronze \r\nFertile fronds (two images lower right) commonly taller than sterile, pinnae linear, long.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53bfbdd4e35eb1104800000c.jpg",
+   "date_published": "2014-07-11T10:35:00.000+00:00",
+   "date_modified": "2014-07-11T10:40:10.000+00:00",
+   "tags": [
+    "id~Blechnum wattsii",
+    "tag~fertile-frond"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.57991,
+     -37.406029
+    ]
+   },
+   "_meta": {
+    "date": "2005-11-27",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "david_francis",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/david_francis/items/ns/2013/53b39857e35eb1298401016c.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2013%2F53b39857e35eb1298401016c.yaml",
+   "title": "Pelargonium rodneyanum",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39867e35eb12984013e89.jpg",
+   "date_published": "2013-06-02T23:34:43.000+00:00",
+   "date_modified": "2014-07-03T06:14:25.000+00:00",
+   "tags": [
+    "id~Pelargonium rodneyanum"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.580597,
+     -37.405922
+    ]
+   },
+   "_meta": {
+    "date": "2007-12-08",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "david_francis",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/david_francis/items/ns/2011/53b39850e35eb1298400e628.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e628.yaml",
+   "title": "Leptorhynchos squamatus subsp. squamatus",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011940.jpg",
+   "date_published": "2011-04-14T17:35:25.000+00:00",
+   "date_modified": "2011-04-14T17:35:55.000+00:00",
+   "tags": [
+    "id~Leptorhynchos squamatus subsp. squamatus",
+    "tag~flower",
+    "tag~habit_herb",
+    "tag~leaf"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.580658,
+     -37.405907
+    ]
+   },
+   "_meta": {
+    "date": "2010-12-21",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "david_francis",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/david_francis/items/ns/2010/53b3984ee35eb1298400dee9.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2010%2F53b3984ee35eb1298400dee9.yaml",
+   "title": "Pelargonium australe",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ce35eb12984011104.jpg",
+   "date_published": "2010-05-22T21:39:20.000+00:00",
+   "date_modified": "2013-06-02T13:53:34.000+00:00",
+   "tags": [
+    "id~Pelargonium australe"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.5801,
+     -37.405756
+    ]
+   },
+   "_meta": {
+    "date": "2008-11-13",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "david_francis",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/david_francis/items/ns/2010/53b3984ee35eb1298400dee7.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2010%2F53b3984ee35eb1298400dee7.yaml",
+   "title": "Microtis unifolia",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ce35eb12984011102.jpg",
+   "date_published": "2010-05-22T21:25:27.000+00:00",
+   "date_modified": "2010-05-22T21:26:07.000+00:00",
+   "tags": [
+    "id~Microtis unifolia"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.580383,
+     -37.406265
+    ]
+   },
+   "_meta": {
+    "date": "2007-12-08",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "david_francis",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/david_francis/items/ns/2010/53b3984ee35eb1298400dee6.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2010%2F53b3984ee35eb1298400dee6.yaml",
+   "title": "Microtis parviflora",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ce35eb12984011101.jpg",
+   "date_published": "2010-05-22T21:23:51.000+00:00",
+   "date_modified": "2010-05-22T21:24:35.000+00:00",
+   "tags": [
+    "id~Microtis parviflora"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.578705,
+     -37.405823
+    ]
+   },
+   "_meta": {
+    "date": "2007-12-08",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "david_francis",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 11,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": "<p>Native plants of Stanley Park, Mount Macedon recorded 1976 to 2013 by Macedon Range Conservation Society members (1970s), David Francis (2000 -) and Atlas Ecology (2013). Some of the species in the early lists have not been sighted in recent times.</p>\n"
+ }
+}

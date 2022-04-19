@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Taradale West Flora Reserve Plants",
+ "description": "All users for [taradale_west_flora_reserve_plants]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Ftaradale_west_flora_reserve_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/taradale_west_flora_reserve_plants/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "17 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55ed0188ed2a890d950000ec.jpg",
+   "date_published": "2015-09-07T03:15:49.000+00:00",
+   "date_modified": "2015-09-07T03:15:49.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.36945,
+     -37.135448
+    ]
+   },
+   "_meta": {
+    "itemCount": 17,
+    "date": "2015-09-07",
+    "name": "taradale_west_flora_reserve_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/taradale_west_flora_reserve_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Ftaradale_west_flora_reserve_plants%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "david_francis",
+   "content_text": "5 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986de35eb1298401555d.jpg",
+   "date_published": "2014-06-27T23:27:01.000+00:00",
+   "date_modified": "2014-06-27T23:27:01.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.368,
+     -37.137
+    ]
+   },
+   "_meta": {
+    "itemCount": 5,
+    "date": "2014-06-27",
+    "name": "taradale_west_flora_reserve_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/david_francis/collections/taradale_west_flora_reserve_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Ftaradale_west_flora_reserve_plants%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

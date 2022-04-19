@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Tylden South Plants",
+ "description": "All users for [tylden_south_plants]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Ftylden_south_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/tylden_south_plants/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "2 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53f8343ae35eb1ff420000b1.png",
+   "date_published": "2014-08-23T06:27:07.000+00:00",
+   "date_modified": "2014-08-23T06:27:07.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.350996,
+     -37.3385
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2014-08-23",
+    "name": "tylden_south_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/tylden_south_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Ftylden_south_plants%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

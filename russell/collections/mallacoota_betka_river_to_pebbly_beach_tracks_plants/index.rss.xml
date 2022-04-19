@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/russell/collections/mallacoota_betka_river_to_pebbly_beach_tracks_plants/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Mallacoota Betka River To Pebbly Beach Tracks Plants</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmallacoota_betka_river_to_pebbly_beach_tracks_plants%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 russell</copyright>
+    <pubDate>Tue, 07 Apr 2015 08:47:42 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Selliera radicans</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Fmallacoota_betka_river_to_pebbly_beach_tracks_plants_species_list.yaml</link>
+      <dc:creator>russell</dc:creator>
+      <description>Species list for collection.</description>
+      <category>id~Selliera radicans</category>
+      <category>tag~species-list</category>
+      <guid isPermaLink="false">https://files.natureshare.org/russell/items/ns/2015/mallacoota_betka_river_to_pebbly_beach_tracks_plants_species_list.yaml</guid>
+      <pubDate>Tue, 18 Feb 2014 16:06:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Selliera radicans</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2F53b3985ae35eb12984010bc7.yaml</link>
+      <dc:creator>russell</dc:creator>
+      <description>-</description>
+      <category>id~Selliera radicans</category>
+      <category>tag~flower</category>
+      <guid isPermaLink="false">https://files.natureshare.org/russell/items/ns/2014/53b3985ae35eb12984010bc7.yaml</guid>
+      <pubDate>Tue, 18 Feb 2014 15:06:09 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

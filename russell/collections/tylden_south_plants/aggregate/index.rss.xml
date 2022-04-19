@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/russell/collections/tylden_south_plants/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Tylden South - Plants</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Ftylden_south_plants%2Faggregate%2Findex.json</link>
+    <description>Initial species list (36 species) compiled by Ern Perkins and the Castlemaine Field Nats.</description>
+    <language>en-us</language>
+    <copyright>© 2022 russell</copyright>
+    <pubDate>Sat, 23 Aug 2014 09:25:15 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Pterostylis melagramma</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2014%2F53f8343be35eb1ff420000b2.yaml</link>
+      <dc:creator>gill</dc:creator>
+      <description>-</description>
+      <category>id~Pterostylis melagramma</category>
+      <category>tag~flower</category>
+      <guid isPermaLink="false">https://files.natureshare.org/gill/items/ns/2014/53f8343be35eb1ff420000b2.yaml</guid>
+      <pubDate>Sat, 23 Aug 2014 06:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>37 ids</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2Ftylden_south_plants_species_list.yaml</link>
+      <dc:creator>russell</dc:creator>
+      <description>Species list for collection.</description>
+      <category>id~Acacia dealbata</category>
+      <category>id~Acacia melanoxylon</category>
+      <category>id~Acacia verticillata</category>
+      <category>id~Acaena novae-zelandiae</category>
+      <category>id~Adiantum aethiopicum</category>
+      <category>id~Agrostis capillaris var. capillaris</category>
+      <category>id~Alternanthera denticulata s.l.</category>
+      <category>id~Clematis aristata</category>
+      <category>id~Cyperus exaltatus</category>
+      <category>id~Eucalyptus obliqua</category>
+      <category>id~Eucalyptus ovata</category>
+      <category>id~Eucalyptus radiata</category>
+      <category>id~Eucalyptus rubida</category>
+      <category>id~Glycine clandestina</category>
+      <category>id~Gonocarpus tetragynus</category>
+      <category>id~Goodenia ovata</category>
+      <category>id~Holcus lanatus</category>
+      <category>id~Hydrocotyle sibthorpioides</category>
+      <category>id~Juncus amabilis</category>
+      <category>id~Juncus articulatus</category>
+      <category>id~Juncus holoschoenus</category>
+      <category>id~Juncus homalocaulis</category>
+      <category>id~Juncus remotiflorus</category>
+      <category>id~Lomandra longifolia subsp. longifolia</category>
+      <category>id~Luzula meridionalis</category>
+      <category>id~Oxalis perennans</category>
+      <category>id~Poa labillardierei</category>
+      <category>id~Poa sieberiana var. sieberiana</category>
+      <category>id~Poranthera microphylla s.l.</category>
+      <category>id~Pteridium esculentum</category>
+      <category>id~Pterostylis melagramma</category>
+      <category>id~Rubus fruticosus spp. agg.</category>
+      <category>id~Tetrarrhena juncea</category>
+      <category>id~Ulex europaeus</category>
+      <category>id~Veronica notabilis</category>
+      <category>id~Viola betonicifolia</category>
+      <category>id~Viola hederacea sensu Thiele &amp; Prober</category>
+      <category>tag~species-list</category>
+      <guid isPermaLink="false">https://files.natureshare.org/russell/items/ns/2014/tylden_south_plants_species_list.yaml</guid>
+      <pubDate>Tue, 08 Mar 2011 22:11:28 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

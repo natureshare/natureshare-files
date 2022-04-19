@@ -1,0 +1,55 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.855498,
+     -37.763421
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jcanaway/items/ns/2013/53b39856e35eb1298400fdd7.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjcanaway%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400fdd7.yaml",
+    "date": "2013-01-07",
+    "title": "Falcunculus frontatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb129840138e7.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.852167,
+     -37.761833
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jcanaway/items/ns/2011/53b39850e35eb1298400e80e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjcanaway%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e80e.yaml",
+    "date": "2011-06-05",
+    "title": "Litoria raniformis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011bba.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.849157,
+     -37.756058
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jcanaway/items/ns/2015/maribyrnong_river_valley_fauna_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjcanaway%2Fitems%2Fns%2F2015%2Fmaribyrnong_river_valley_fauna_species_list.yaml",
+    "date": "2015-04-07",
+    "title": "Litoria raniformis"
+   }
+  }
+ ]
+}

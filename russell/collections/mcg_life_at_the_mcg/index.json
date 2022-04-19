@@ -1,0 +1,101 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Mcg Life At The Mcg",
+ "description": "",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmcg_life_at_the_mcg%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/mcg_life_at_the_mcg/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2011/53b39853e35eb1298400f1a8.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2011%2F53b39853e35eb1298400f1a8.yaml",
+   "title": "Trichosurus vulpecula",
+   "content_text": "-",
+   "date_published": "2011-12-30T20:33:40.000+00:00",
+   "date_modified": "2011-12-30T20:37:28.000+00:00",
+   "tags": [
+    "id~Trichosurus vulpecula"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.98448,
+     -37.817099
+    ]
+   },
+   "_meta": {
+    "date": "1992-08-05"
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2015/mcg_life_at_the_mcg_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Fmcg_life_at_the_mcg_species_list.yaml",
+   "title": "6 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2011-12-29T23:44:27.000+00:00",
+   "date_modified": "2015-04-07T08:47:36.000+00:00",
+   "tags": [
+    "id~Chroicocephalus novaehollandiae",
+    "id~Columba livia",
+    "id~Heteronympha merope merope",
+    "id~Hirundo neoxena",
+    "id~Passer domesticus",
+    "id~Trichosurus vulpecula",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.984319,
+     -37.819701
+    ]
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2011/53b39853e35eb1298400f17b.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2011%2F53b39853e35eb1298400f17b.yaml",
+   "title": "5 ids",
+   "content_text": "MCG test match. Day 3. Australia vs India. ",
+   "date_published": "2011-12-28T16:52:46.000+00:00",
+   "date_modified": "2011-12-28T17:35:19.000+00:00",
+   "tags": [
+    "id~Chroicocephalus novaehollandiae",
+    "id~Columba livia",
+    "id~Heteronympha merope merope",
+    "id~Hirundo neoxena",
+    "id~Passer domesticus"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.983398,
+     -37.819927
+    ]
+   },
+   "_meta": {
+    "date": "2011-12-28"
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

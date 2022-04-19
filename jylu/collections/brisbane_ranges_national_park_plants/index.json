@@ -1,0 +1,45 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Brisbane Ranges National Park Plants",
+ "description": "",
+ "author": {
+  "name": "jylu",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fcollections%2Fbrisbane_ranges_national_park_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/jylu/collections/brisbane_ranges_national_park_plants/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/jylu/items/ns/2016/57dff4a4ed2a89450f006a20.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fitems%2Fns%2F2016%2F57dff4a4ed2a89450f006a20.yaml",
+   "title": "Senecio linearifolius var. linearifolius",
+   "content_text": "In the forest of stringybarks and ironbarks, understory herbs close to shrubs. ",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57dff4ceed2a89b3fe000053.JPG",
+   "date_published": "2016-09-19T14:30:10.000+00:00",
+   "date_modified": "2016-09-20T13:25:15.000+00:00",
+   "tags": [
+    "id~Senecio linearifolius var. linearifolius"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.314555,
+     -37.739942
+    ]
+   },
+   "_meta": {
+    "date": "2016-09-18",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "jylu",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

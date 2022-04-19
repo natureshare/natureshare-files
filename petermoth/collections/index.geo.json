@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.884002,
+     -38.639853
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/petermoth/collections/otways_bioscan_lepidoptera/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpetermoth%2Fcollections%2Fotways_bioscan_lepidoptera%2Faggregate%2Findex.json",
+    "date": "2019-07-19",
+    "title": "Otways Bioscan – Lepidoptera",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000024/2019-07-19/p1330060_otb_2018_204_mar_23_19_ns.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.666,
+     -37.445
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/petermoth/collections/moths_of_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpetermoth%2Fcollections%2Fmoths_of_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2012-12-27",
+    "title": "Moths of riddells creek",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb129840137de.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.664455,
+     -37.442226
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2016/582703e7ed2a897480003608.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2016%2F582703e7ed2a897480003608.yaml",
+    "date": "2016-11-11",
+    "title": "Arthropodium strictum s.s.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/582703ebed2a89b3fe0001c8.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.656312,
+     -37.437285
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2016/57aff57aed2a89450f0003c3.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2016%2F57aff57aed2a89450f0003c3.yaml",
+    "date": "2016-08-14",
+    "title": "Hardenbergia violacea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57aff57eed2a892daf000009.jpg"
+   }
+  }
+ ]
+}

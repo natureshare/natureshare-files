@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.849157,
+     -37.756058
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jcanaway/collections/maribyrnong_river_valley_fauna/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjcanaway%2Fcollections%2Fmaribyrnong_river_valley_fauna%2Faggregate%2Findex.json",
+    "date": "2019-03-25",
+    "title": "Maribyrnong River Valley fauna",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_53b39818e35eb12984000026/2019-03-25/1553510053/toadfish.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.314,
+     -39.025
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jcanaway/collections/wilsons_prom_np_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjcanaway%2Fcollections%2Fwilsons_prom_np_plants%2Faggregate%2Findex.json",
+    "date": "2013-12-20",
+    "title": "Wilsons prom np plants",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ae35eb12984014b9b.jpg"
+   }
+  }
+ ]
+}

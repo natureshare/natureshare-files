@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Bayside Coastal Reserve",
+ "description": "All users for [bayside_coastal_reserve]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fbayside_coastal_reserve%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/bayside_coastal_reserve/index.json",
+ "items": [
+  {
+   "title": "megani",
+   "content_text": "17 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5634537bed2a899c63000080.jpg",
+   "date_published": "2015-10-31T06:30:15.000+00:00",
+   "date_modified": "2015-10-31T06:30:15.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.011295,
+     -37.970453
+    ]
+   },
+   "_meta": {
+    "itemCount": 17,
+    "date": "2015-10-31",
+    "name": "bayside_coastal_reserve",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/megani/collections/bayside_coastal_reserve/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmegani%2Fcollections%2Fbayside_coastal_reserve%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

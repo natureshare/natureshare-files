@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.43,
+     -37.193
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/collections/fungus_of_central_victoria/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fcollections%2Ffungus_of_central_victoria%2Faggregate%2Findex.json",
+    "date": "2019-06-26",
+    "title": "openid_31",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000012/2019-06-26/e1903eba_0287_4a20_a27f_9a5dd90e2370.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.447,
+     -37.342
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/collections/fungus_of_central_victoria/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fcollections%2Ffungus_of_central_victoria%2Faggregate%2Findex.json",
+    "date": "2019-06-26",
+    "title": "therebel2015",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000012/2019-06-26/e1903eba_0287_4a20_a27f_9a5dd90e2370.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.388,
+     -36.77
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/andrewbrown/collections/fungus_of_central_victoria/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandrewbrown%2Fcollections%2Ffungus_of_central_victoria%2Faggregate%2Findex.json",
+    "date": "2017-10-15",
+    "title": "andrewbrown",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59e1e885ed2a8939840004d4.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.263,
+     -37.42
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_19/collections/fungus_of_central_victoria/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_19%2Fcollections%2Ffungus_of_central_victoria%2Faggregate%2Findex.json",
+    "date": "2011-07-06",
+    "title": "openid_19",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011d5e.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "openid_87",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_87%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_87%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_87/collections/index.json",
+ "items": [
+  {
+   "title": "Interactions between animals and coastal weeds",
+   "content_text": "5 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb1298401236e.jpg",
+   "date_published": "2011-10-25T20:30:30.000+00:00",
+   "date_modified": "2011-10-25T20:30:30.000+00:00",
+   "_geo": {
+    "coordinates": [
+     119.38,
+     -34.402
+    ]
+   },
+   "_meta": {
+    "itemCount": 5,
+    "date": "2011-10-25",
+    "name": "interactions_between_animals_and_coastal_weeds",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_87/collections/interactions_between_animals_and_coastal_weeds/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_87%2Fcollections%2Finteractions_between_animals_and_coastal_weeds%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,46 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Birds Of Braeside Park Victoria",
+ "description": "",
+ "author": {
+  "name": "stunningphotography",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fstunningphotography%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fstunningphotography%2Fcollections%2Fbirds_of_braeside_park_victoria%2Findex.json",
+ "feed_url": "https://files.natureshare.org/stunningphotography/collections/birds_of_braeside_park_victoria/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/stunningphotography/items/ns/2016/57d26d25ed2a89450f001285.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fstunningphotography%2Fitems%2Fns%2F2016%2F57d26d25ed2a89450f001285.yaml",
+   "title": "Cacatua galerita",
+   "content_text": "Flying adult cockatoo",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57d26d2fed2a89b71800002d.jpg",
+   "date_published": "2016-09-09T08:09:48.000+00:00",
+   "date_modified": "2016-09-10T03:40:37.000+00:00",
+   "tags": [
+    "id~Cacatua galerita",
+    "tag~adult"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.125693,
+     -37.990988
+    ]
+   },
+   "_meta": {
+    "date": "2015-11-07",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "stunningphotography",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fstunningphotography%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

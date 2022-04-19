@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Insects",
+ "description": "All users for [insects]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Finsects%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/insects/index.json",
+ "items": [
+  {
+   "title": "honeyeater",
+   "content_text": "3 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a22096ed2a89b31c000033.jpeg",
+   "date_published": "2016-01-22T12:32:40.000+00:00",
+   "date_modified": "2016-01-22T12:32:40.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.933,
+     -37.966
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2016-01-22",
+    "name": "insects",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/honeyeater/collections/insects/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fhoneyeater%2Fcollections%2Finsects%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

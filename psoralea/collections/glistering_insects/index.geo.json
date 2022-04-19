@@ -1,0 +1,54 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.6678,
+     -37.439986
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/psoralea/items/ns/2018/5a49bbf2ed2a893ede00006b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2018%2F5a49bbf2ed2a893ede00006b.yaml",
+    "date": "2017-12-28",
+    "title": "Geometridae spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a49bc06ed2a893fb700007c.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.668114,
+     -37.43996
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/psoralea/items/ns/2015/54ec3e62ed2a8987b70006c0.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2015%2F54ec3e62ed2a8987b70006c0.yaml",
+    "date": "2015-02-24",
+    "title": "Siphanta spp."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.668114,
+     -37.43996
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/psoralea/items/ns/2015/54ec3b80ed2a89d990000792.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2015%2F54ec3b80ed2a89d990000792.yaml",
+    "date": "2015-02-24",
+    "title": "Chauliognathus lugubris"
+   }
+  }
+ ]
+}

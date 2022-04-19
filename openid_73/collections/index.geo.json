@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.351009,
+     -37.941422
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_73/collections/baluk_willum_nature_conservation_reserve_belgrave/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_73%2Fcollections%2Fbaluk_willum_nature_conservation_reserve_belgrave%2Faggregate%2Findex.json",
+    "date": "2017-05-22",
+    "title": "Baluk Willam Nature Conservation Reserve, Belgrave",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5922501eed2a89a81f000146.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.707966,
+     -36.878659
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_73/collections/mt_ida_heathcote_graytown_national_park/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_73%2Fcollections%2Fmt_ida_heathcote_graytown_national_park%2Faggregate%2Findex.json",
+    "date": "2016-10-07",
+    "title": "Mt Ida, Heathcote-Graytown National Park",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f780fded2a89b3fe0000ec.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.176,
+     -38.178
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_73/collections/langwarrin_flora_and_fauna_reserve/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_73%2Fcollections%2Flangwarrin_flora_and_fauna_reserve%2Faggregate%2Findex.json",
+    "date": "2015-06-11",
+    "title": "Langwarrin flora and fauna reserve",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5578fdcaed2a8918dd000956.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.411976,
+     -38.222943
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_73/collections/animals_and_flora_in_the_golden_beach_area/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_73%2Fcollections%2Fanimals_and_flora_in_the_golden_beach_area%2Faggregate%2Findex.json",
+    "date": "2011-10-10",
+    "title": "Animals and Flora in the Golden Beach area",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840122a6.jpg"
+   }
+  }
+ ]
+}

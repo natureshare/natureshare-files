@@ -1,0 +1,61 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Dry Diggings Daylesford Plants",
+ "description": "",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fdry_diggings_daylesford_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/dry_diggings_daylesford_plants/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2015/dry_diggings_daylesford_plants_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Fdry_diggings_daylesford_plants_species_list.yaml",
+   "title": "18 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2011-03-08T18:00:44.000+00:00",
+   "date_modified": "2015-04-07T08:47:34.000+00:00",
+   "tags": [
+    "id~Acacia dealbata",
+    "id~Acacia verniciflua",
+    "id~Austrodanthonia pilosa",
+    "id~Caladenia gracilis",
+    "id~Calochilus robertsonii",
+    "id~Dillwynia ramosissima",
+    "id~Dipodium roseum s.s.",
+    "id~Eucalyptus goniocalyx s.l.",
+    "id~Eucalyptus obliqua",
+    "id~Genista monspessulana",
+    "id~Glossodia major",
+    "id~Gonocarpus tetragynus",
+    "id~Hovea heterophylla",
+    "id~Hypochoeris radicata",
+    "id~Opercularia varia",
+    "id~Poa sieberiana var. sieberiana",
+    "id~Stylidium armeria subsp. armeria",
+    "id~Thysanotus tuberosus",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.157448,
+     -37.29809
+    ]
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,48 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Fauna of Great Ocean Road, Port Cambell to Warrnambool.",
+ "description": "Encompassing the Port Campbell National Park",
+ "author": {
+  "name": "pauline",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpauline%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpauline%2Fcollections%2Ffauna_of_great_ocean_road_port_cambell_to_warrnambool%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/pauline/collections/fauna_of_great_ocean_road_port_cambell_to_warrnambool/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/pauline/items/ns/2016/5710995aed2a89671d00003d.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpauline%2Fitems%2Fns%2F2016%2F5710995aed2a89671d00003d.yaml",
+   "title": "Rattus fuscipes",
+   "content_text": "A little bush rat was totally ignoring the sightseers at London Bridge, Great Ocean Road.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57109967ed2a89211c0001c7.JPG",
+   "date_published": "2016-04-15T07:37:42.000+00:00",
+   "date_modified": "2016-04-21T14:15:01.000+00:00",
+   "tags": [
+    "id~Rattus fuscipes",
+    "tag~mammal"
+   ],
+   "_geo": {
+    "coordinates": [
+     142.924986,
+     -38.607647
+    ]
+   },
+   "_meta": {
+    "date": "2016-04-14",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "pauline",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpauline%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": "<p>Encompassing the Port Campbell National Park</p>\n"
+ }
+}

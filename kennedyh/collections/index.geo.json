@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.884002,
+     -38.639853
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/kennedyh/collections/otways_bioscan_lepidoptera/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkennedyh%2Fcollections%2Fotways_bioscan_lepidoptera%2Faggregate%2Findex.json",
+    "date": "2019-07-19",
+    "title": "Otways Bioscan – Lepidoptera",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000024/2019-07-19/p1330060_otb_2018_204_mar_23_19_ns.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.687,
+     -38.619
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/kennedyh/collections/otway_ranges_-_moths/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkennedyh%2Fcollections%2Fotway_ranges_-_moths%2Faggregate%2Findex.json",
+    "date": "2019-06-26",
+    "title": "Otway ranges - moths",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_558768e9ed2a8918dd0010b2/2019-06-26/furcatrox_furneauxi_04_img_6857_21mar19_sheoakpicnicarea_kh_ns.jpeg"
+   }
+  }
+ ]
+}

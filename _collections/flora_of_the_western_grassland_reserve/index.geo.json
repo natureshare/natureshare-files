@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.571753,
+     -37.831277
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_7/collections/flora_of_the_western_grassland_reserve/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fcollections%2Fflora_of_the_western_grassland_reserve%2Faggregate%2Findex.json",
+    "date": "2011-09-15",
+    "title": "openid_7",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb1298401208b.jpg"
+   }
+  }
+ ]
+}

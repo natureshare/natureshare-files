@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "james_gordon",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjames_gordon%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjames_gordon%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/james_gordon/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/james_gordon/items/ns/2019/5cdbab180fdc3094da00000f.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjames_gordon%2Fitems%2Fns%2F2019%2F5cdbab180fdc3094da00000f.yaml",
+   "title": "Unidentified",
+   "content_text": "Is anyone able to help me identify these species of flora? The photos were taken along Lake Catani in Mt Buffalo national park.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5cdba9fd0fdc3044a1000004/2019-05-15/1557899996/20190422_121950.jpg",
+   "date_published": "2019-05-15T06:00:56.000+00:00",
+   "date_modified": "2019-05-15T06:01:55.000+00:00",
+   "tags": [
+    "id~Unidentified"
+   ],
+   "_geo": {
+    "coordinates": [
+     146.811944,
+     -36.733056
+    ]
+   },
+   "_meta": {
+    "date": "2019-04-22",
+    "imageCount": 2
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.001333,
+     -38.282167
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_165/items/ns/2013/53b39858e35eb12984010347.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_165%2Fitems%2Fns%2F2013%2F53b39858e35eb12984010347.yaml",
+    "date": "2013-06-29",
+    "title": "Asplenium bulbiferum subsp. gracillimum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb1298401415a.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.009105,
+     -38.280639
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_165/items/ns/2013/53b39858e35eb1298401033f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_165%2Fitems%2Fns%2F2013%2F53b39858e35eb1298401033f.yaml",
+    "date": "2011-04-16",
+    "title": "Tettigarcta crinita",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014150.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.002,
+     -38.282167
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_165/items/ns/2013/53b39858e35eb12984010331.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_165%2Fitems%2Fns%2F2013%2F53b39858e35eb12984010331.yaml",
+    "date": "2013-06-29",
+    "title": "Asplenium flabellifolium",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb1298401415b.jpg"
+   }
+  }
+ ]
+}

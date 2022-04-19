@@ -1,0 +1,21 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.747255,
+     -37.739855
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/giorgiod/items/ns/2011/53b39852e35eb1298400ed96.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400ed96.yaml",
+    "date": "2011-10-04",
+    "title": "Litoria raniformis"
+   }
+  }
+ ]
+}

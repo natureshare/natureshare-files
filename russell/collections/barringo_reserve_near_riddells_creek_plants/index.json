@@ -1,0 +1,73 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Barringo Reserve Near Riddells Creek Plants",
+ "description": "",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fbarringo_reserve_near_riddells_creek_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/barringo_reserve_near_riddells_creek_plants/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2015/54e2e725ed2a89ef270002e4.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2F54e2e725ed2a89ef270002e4.yaml",
+   "title": "Ozothamnus ferrugineus",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e2e724ed2a89ef270002e3.jpg",
+   "date_published": "2015-02-17T07:00:53.000+00:00",
+   "date_modified": "2015-02-17T07:01:48.000+00:00",
+   "tags": [
+    "id~Ozothamnus ferrugineus",
+    "tag~flower"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.619629,
+     -37.420628
+    ]
+   },
+   "_meta": {
+    "date": "2015-02-17",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2015/54e2e0dfed2a89d990000370.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2F54e2e0dfed2a89d990000370.yaml",
+   "title": "Galenia pubescens var. pubescens",
+   "content_text": "2 plants near car park, stand out at the moment as lush plants against brown surrounds.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e2e0deed2a89d99000036e.jpg",
+   "date_published": "2015-02-17T06:34:07.000+00:00",
+   "date_modified": "2015-02-17T06:44:48.000+00:00",
+   "tags": [
+    "id~Galenia pubescens var. pubescens",
+    "tag~flower"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.620117,
+     -37.42107
+    ]
+   },
+   "_meta": {
+    "date": "2015-02-17",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

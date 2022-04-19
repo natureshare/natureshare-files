@@ -1,0 +1,45 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Insects And Other Invertebrates Of Riddells Creek",
+ "description": "",
+ "author": {
+  "name": "openid_16",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_16%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_16%2Fcollections%2Finsects_and_other_invertebrates_of_riddells_creek%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_16/collections/insects_and_other_invertebrates_of_riddells_creek/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_16/items/ns/2012/53b39854e35eb1298400f664.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_16%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f664.yaml",
+   "title": "Limax maximus",
+   "content_text": "Tyra Sutton spotted and Lydia Best identified this Leopard Slug during Riddells Creek Landcare's Clean Up Australia Day 2012 event in Barrm Birrm. Photo taken by Russell Best.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012e15.jpg",
+   "date_published": "2012-07-09T10:19:56.000+00:00",
+   "date_modified": "2012-07-09T14:55:48.000+00:00",
+   "tags": [
+    "id~Limax maximus"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.659647,
+     -37.435256
+    ]
+   },
+   "_meta": {
+    "date": "2012-03-04",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_16",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_16%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

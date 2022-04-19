@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/lsmith76/collections/hanging_rock/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Hanging Rock</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flsmith76%2Fcollections%2Fhanging_rock%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 lsmith76</copyright>
+    <pubDate>Mon, 19 Oct 2015 00:58:45 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>9 ids</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flsmith76%2Fitems%2Fns%2F2015%2Fhanging_rock_species_list.yaml</link>
+      <dc:creator>lsmith76</dc:creator>
+      <description>Species list for collection.</description>
+      <category>id~Briza maxima</category>
+      <category>id~Genista monspessulana</category>
+      <category>id~Hedera helix</category>
+      <category>id~Ilex aquifolium</category>
+      <category>id~Plantago lanceolata</category>
+      <category>id~Romulea rosea var. australis s.s.</category>
+      <category>id~Vicia hirsuta</category>
+      <category>id~Vicia sativa subsp. cordata/sativa</category>
+      <category>id~Vicia sativa subsp. nigra</category>
+      <category>tag~species-list</category>
+      <guid isPermaLink="false">https://files.natureshare.org/lsmith76/items/ns/2015/hanging_rock_species_list.yaml</guid>
+      <pubDate>Mon, 19 Oct 2015 00:45:46 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

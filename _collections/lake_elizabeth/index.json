@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Lake Elizabeth",
+ "description": "All users for [lake_elizabeth]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Flake_elizabeth%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/lake_elizabeth/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "3 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013af1.jpg",
+   "date_published": "2013-03-08T23:28:08.000+00:00",
+   "date_modified": "2013-03-08T23:28:08.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.761,
+     -38.552
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2013-03-08",
+    "name": "lake_elizabeth",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/lake_elizabeth/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Flake_elizabeth%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

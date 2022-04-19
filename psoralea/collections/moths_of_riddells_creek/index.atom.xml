@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Moths Of Riddells Creek</title>
+  <id>https://files.natureshare.org/psoralea/collections/moths_of_riddells_creek/index.xml</id>
+  <updated>2015-04-08T11:10:11.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/psoralea/collections/moths_of_riddells_creek/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/psoralea/collections/moths_of_riddells_creek/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fcollections%2Fmoths_of_riddells_creek%2Findex.json"/>
+  <author>
+    <name>psoralea</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 psoralea</rights>
+  <entry>
+    <id>https://files.natureshare.org/psoralea/items/ns/2015/55250ba1ed2a89048b00009b.yaml</id>
+    <title>Trictena atripalpis</title>
+    <updated>2015-04-08T11:10:11.000+00:00</updated>
+    <published>2015-04-08T11:06:09.000+00:00</published>
+    <author>
+      <name>psoralea</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2015%2F55250ba1ed2a89048b00009b.yaml"/>
+    <category term="id~Trictena atripalpis"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/psoralea/items/ns/2011/53b39850e35eb1298400e811.yaml</id>
+    <title>Lepidoptera spp., Ninox novaeseelandiae</title>
+    <updated>2011-06-05T22:17:17.000+00:00</updated>
+    <published>2011-06-05T22:10:19.000+00:00</published>
+    <author>
+      <name>psoralea</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Southern Boobook feeding on moths at our lounge window after rain, which brought the moths.</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e811.yaml"/>
+    <category term="id~Lepidoptera spp."/>
+    <category term="id~Ninox novaeseelandiae"/>
+    <category term="tag~behaviour"/>
+    <category term="tag~feeding"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/psoralea/items/ns/2011/53b3984fe35eb1298400e4af.yaml</id>
+    <title>Lepidoptera spp.</title>
+    <updated>2011-03-12T22:02:03.000+00:00</updated>
+    <published>2011-03-12T21:57:17.000+00:00</published>
+    <author>
+      <name>psoralea</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e4af.yaml"/>
+    <category term="id~Lepidoptera spp."/>
+    <category term="tag~moth"/>
+  </entry>
+</feed>

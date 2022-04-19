@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654723,
+     -37.431014
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/giorgiod/items/ns/2011/53b39850e35eb1298400e7d4.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e7d4.yaml",
+    "date": "2011-04-25",
+    "title": "Melithreptus lunatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b80.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/psoralea/collections/moths_of_riddells_creek/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Moths of riddells creek</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fcollections%2Fmoths_of_riddells_creek%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 psoralea</copyright>
+    <pubDate>Wed, 08 Apr 2015 11:10:11 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Trictena atripalpis</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2015%2F55250ba1ed2a89048b00009b.yaml</link>
+      <dc:creator>psoralea</dc:creator>
+      <description>-</description>
+      <category>id~Trictena atripalpis</category>
+      <guid isPermaLink="false">https://files.natureshare.org/psoralea/items/ns/2015/55250ba1ed2a89048b00009b.yaml</guid>
+      <pubDate>Wed, 08 Apr 2015 11:06:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lepidoptera spp., Ninox novaeseelandiae</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e811.yaml</link>
+      <dc:creator>psoralea</dc:creator>
+      <description>Southern Boobook feeding on moths at our lounge window after rain, which brought the moths.</description>
+      <category>id~Lepidoptera spp.</category>
+      <category>id~Ninox novaeseelandiae</category>
+      <category>tag~behaviour</category>
+      <category>tag~feeding</category>
+      <guid isPermaLink="false">https://files.natureshare.org/psoralea/items/ns/2011/53b39850e35eb1298400e811.yaml</guid>
+      <pubDate>Sun, 05 Jun 2011 22:10:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lepidoptera spp.</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e4af.yaml</link>
+      <dc:creator>psoralea</dc:creator>
+      <description>-</description>
+      <category>id~Lepidoptera spp.</category>
+      <category>tag~moth</category>
+      <guid isPermaLink="false">https://files.natureshare.org/psoralea/items/ns/2011/53b3984fe35eb1298400e4af.yaml</guid>
+      <pubDate>Sat, 12 Mar 2011 21:57:17 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

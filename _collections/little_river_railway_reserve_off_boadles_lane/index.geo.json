@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.516091,
+     -37.956549
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_28/collections/little_river_railway_reserve_off_boadles_lane/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fcollections%2Flittle_river_railway_reserve_off_boadles_lane%2Faggregate%2Findex.json",
+    "date": "2011-11-05",
+    "title": "openid_28",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb12984012407.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.518,
+     -37.955
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/cclarke/collections/little_river_railway_reserve_off_boadles_lane/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fcollections%2Flittle_river_railway_reserve_off_boadles_lane%2Faggregate%2Findex.json",
+    "date": "2011-11-05",
+    "title": "cclarke",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb12984012407.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Dandenong Ranges Diptera",
+ "description": "All users for [dandenong_ranges_diptera]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fdandenong_ranges_diptera%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/dandenong_ranges_diptera/index.json",
+ "items": [
+  {
+   "title": "argybee",
+   "content_text": "27 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5832a4cbed2a89d73e0001de.JPG",
+   "date_published": "2016-11-21T07:44:31.000+00:00",
+   "date_modified": "2016-11-21T07:44:31.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.359473,
+     -37.878631
+    ]
+   },
+   "_meta": {
+    "itemCount": 27,
+    "date": "2016-11-21",
+    "name": "dandenong_ranges_diptera",
+    "featured": true,
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/argybee/collections/dandenong_ranges_diptera/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fargybee%2Fcollections%2Fdandenong_ranges_diptera%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "leuba",
+   "content_text": "5 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/569c2e0bed2a897bc7000013.jpg",
+   "date_published": "2016-01-18T00:20:47.000+00:00",
+   "date_modified": "2016-01-18T00:20:47.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.27,
+     -37.956
+    ]
+   },
+   "_meta": {
+    "itemCount": 5,
+    "date": "2016-01-18",
+    "name": "dandenong_ranges_diptera",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/leuba/collections/dandenong_ranges_diptera/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fcollections%2Fdandenong_ranges_diptera%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

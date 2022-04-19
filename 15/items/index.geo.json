@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.691894,
+     -37.458354
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/15/items/ns/2019/5ca9df643abbd6c61d00016e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2F15%2Fitems%2Fns%2F2019%2F5ca9df643abbd6c61d00016e.yaml",
+    "date": "2019-03-31",
+    "title": "Papilio anactus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5ca9de6a3abbd6a33e0000c6/2019-04-07/1554636419/F4CC4E58-508C-4CE9-AECE-8D27D4F95B91.jpeg"
+   }
+  }
+ ]
+}

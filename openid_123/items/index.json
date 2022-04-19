@@ -1,0 +1,38 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "openid_123",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_123%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_123%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_123/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_123/items/ns/2012/53b39854e35eb1298400f5d2.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_123%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f5d2.yaml",
+   "title": "Diptera spp.",
+   "content_text": "Unknown fly.   ",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012d3e.jpg",
+   "date_published": "2012-05-15T22:44:50.000+00:00",
+   "date_modified": "2012-05-15T23:00:22.000+00:00",
+   "tags": [
+    "id~Diptera spp."
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2011-04-25",
+    "imageCount": 3
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

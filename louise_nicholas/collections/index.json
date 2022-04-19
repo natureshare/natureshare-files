@@ -1,0 +1,42 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "louise_nicholas",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flouise_nicholas%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flouise_nicholas%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/louise_nicholas/collections/index.json",
+ "items": [
+  {
+   "title": "Clunes  - Finches Gully private property - Flora and Fauna",
+   "content_text": "70 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a6d1264ed2a8966a0000025.jpg",
+   "date_published": "2018-01-28T00:02:42.000+00:00",
+   "date_modified": "2018-01-28T00:02:42.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.752972,
+     -37.290561
+    ]
+   },
+   "_meta": {
+    "itemCount": 70,
+    "date": "2018-01-28",
+    "name": "clunes_finchesgully_flora_and_fauna",
+    "featured": true,
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/louise_nicholas/collections/clunes_finchesgully_flora_and_fauna/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flouise_nicholas%2Fcollections%2Fclunes_finchesgully_flora_and_fauna%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

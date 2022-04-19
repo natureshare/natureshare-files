@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.309204,
+     -34.266933
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/items/ns/2013/53b39858e35eb12984010323.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2013%2F53b39858e35eb12984010323.yaml",
+    "date": "2009-01-02",
+    "title": "Pittosporum angustifolium",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014137.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.20816,
+     -34.179054
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/items/ns/2013/53b39858e35eb12984010319.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2013%2F53b39858e35eb12984010319.yaml",
+    "date": "2012-04-01",
+    "title": "Crinum flaccidum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014125.jpg"
+   }
+  }
+ ]
+}

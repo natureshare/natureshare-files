@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.615269,
+     -38.291149
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_131/items/ns/2012/53b39854e35eb1298400f6b4.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_131%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f6b4.yaml",
+    "date": "2012-07-21",
+    "title": "Haliotis spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012e83.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.55081,
+     -37.347098
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_131/items/ns/2012/53b39854e35eb1298400f6b3.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_131%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f6b3.yaml",
+    "date": "2012-07-12",
+    "title": "Ninox novaeseelandiae",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012e82.jpg"
+   }
+  }
+ ]
+}

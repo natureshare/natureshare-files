@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.561775,
+     -37.025461
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/snowyriverman/collections/natureshare_org_au_collections_snowyriver/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsnowyriverman%2Fcollections%2Fnatureshare_org_au_collections_snowyriver%2Faggregate%2Findex.json",
+    "date": "2016-03-19",
+    "title": "snowyriverman",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ed4d87ed2a89211c00015f.jpg"
+   }
+  }
+ ]
+}

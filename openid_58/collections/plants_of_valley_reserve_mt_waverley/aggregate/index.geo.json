@@ -1,0 +1,37 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.136142,
+     -37.879417
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_58/items/ns/2011/53b39851e35eb1298400ea8a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_58%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ea8a.yaml",
+    "date": "1992-12-31",
+    "title": "11 ids"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.135167,
+     -37.880129
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_58/items/ns/2015/plants_of_valley_reserve_mt_waverley_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_58%2Fitems%2Fns%2F2015%2Fplants_of_valley_reserve_mt_waverley_species_list.yaml",
+    "date": "2015-04-07",
+    "title": "143 ids"
+   }
+  }
+ ]
+}

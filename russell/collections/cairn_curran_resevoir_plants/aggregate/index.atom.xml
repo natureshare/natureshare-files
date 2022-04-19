@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cairn Curran Resevoir - Plants</title>
+  <id>https://files.natureshare.org/russell/collections/cairn_curran_resevoir_plants/aggregate/index.xml</id>
+  <updated>2015-04-07T08:47:34.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/russell/collections/cairn_curran_resevoir_plants/aggregate/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/russell/collections/cairn_curran_resevoir_plants/aggregate/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fcairn_curran_resevoir_plants%2Faggregate%2Findex.json"/>
+  <author>
+    <name>russell</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 russell</rights>
+  <subtitle>Initial species list (56 species) compiled by Ern Perkins and the Castlemaine Field Nats. Stretches from Baringhup to Newstead.</subtitle>
+  <entry>
+    <id>https://files.natureshare.org/russell/items/ns/2015/cairn_curran_resevoir_plants_species_list.yaml</id>
+    <title>56 ids</title>
+    <updated>2015-04-07T08:47:34.000+00:00</updated>
+    <published>2011-03-08T17:42:56.000+00:00</published>
+    <author>
+      <name>russell</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Species list for collection.</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Fcairn_curran_resevoir_plants_species_list.yaml"/>
+    <category term="id~Allium vineale"/>
+    <category term="id~Alternanthera denticulata s.l."/>
+    <category term="id~Aster subulatus"/>
+    <category term="id~Atriplex prostrata"/>
+    <category term="id~Austrostipa mollis"/>
+    <category term="id~Bolboschoenus medianus"/>
+    <category term="id~Calotis scapigera"/>
+    <category term="id~Carex divisa"/>
+    <category term="id~Carex tereticaulis"/>
+    <category term="id~Centipeda cunninghamii"/>
+    <category term="id~Chenopodium glaucum"/>
+    <category term="id~Cirsium vulgare"/>
+    <category term="id~Citrullus lanatus"/>
+    <category term="id~Convolvulus angustissimus"/>
+    <category term="id~Cynoglossum suaveolens"/>
+    <category term="id~Dactylis glomerata"/>
+    <category term="id~Datura stramonium"/>
+    <category term="id~Datura wrightii"/>
+    <category term="id~Dysphania glomulifera ssp. glomulifera"/>
+    <category term="id~Echium plantagineum"/>
+    <category term="id~Eleocharis acuta"/>
+    <category term="id~Eleocharis pusilla"/>
+    <category term="id~Eragrostis parviflora"/>
+    <category term="id~Genista monspessulana"/>
+    <category term="id~Heliotropium europaeum"/>
+    <category term="id~Helminthotheca echioides"/>
+    <category term="id~Hordeum marinum"/>
+    <category term="id~Juncus acutus subsp. acutus"/>
+    <category term="id~Juncus amabilis"/>
+    <category term="id~Juncus subsecundus"/>
+    <category term="id~Lactuca serriola"/>
+    <category term="id~Lemna disperma"/>
+    <category term="id~Lepidium africanum"/>
+    <category term="id~Lythrum hyssopifolia"/>
+    <category term="id~Malva nicaeensis"/>
+    <category term="id~Mimulus repens"/>
+    <category term="id~Modiola caroliniana"/>
+    <category term="id~Persicaria lapathifolia"/>
+    <category term="id~Persicaria prostrata"/>
+    <category term="id~Phalaris aquatica"/>
+    <category term="id~Phragmites australis"/>
+    <category term="id~Plantago lanceolata"/>
+    <category term="id~Polygonum plebeium"/>
+    <category term="id~Polypogon monspeliensis"/>
+    <category term="id~Pseudognaphalium luteoalbum"/>
+    <category term="id~Reseda luteola"/>
+    <category term="id~Rumex conglomeratus"/>
+    <category term="id~Rumex crispus"/>
+    <category term="id~Salvia verbenaca"/>
+    <category term="id~Silybum marianum"/>
+    <category term="id~Spergularia rubra s.l."/>
+    <category term="id~Stellaria caespitosa"/>
+    <category term="id~Trifolium angustifolium var. angustifolium"/>
+    <category term="id~Trifolium arvense var. arvense"/>
+    <category term="id~Typha spp."/>
+    <category term="id~Vulpia myuros f. myuros"/>
+    <category term="tag~species-list"/>
+  </entry>
+</feed>

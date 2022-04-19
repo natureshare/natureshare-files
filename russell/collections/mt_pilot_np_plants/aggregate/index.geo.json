@@ -1,0 +1,72 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.670416,
+     -36.251736
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/items/ns/2019/5d847f86cad3ebb2a100020e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2019%2F5d847f86cad3ebb2a100020e.yaml",
+    "date": "2019-09-14",
+    "title": "Stypandra glauca",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000026/2019-09-20/p1110718_stypandra.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.670607,
+     -36.251463
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/items/ns/2019/5d847e74cad3eb202400020c.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2019%2F5d847e74cad3eb202400020c.yaml",
+    "date": "2019-09-14",
+    "title": "Callitris endlicheri",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000026/2019-09-20/p1110728_pine.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.670409,
+     -36.251843
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/items/ns/2019/5d847c6ccad3eb4c5500022d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2019%2F5d847c6ccad3eb4c5500022d.yaml",
+    "date": "2019-09-14",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000026/2019-09-20/p1110732_acacia.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.66312,
+     -36.271339
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2015/mt_pilot_np_plants_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Fmt_pilot_np_plants_species_list.yaml",
+    "date": "2015-04-07",
+    "title": "573 ids"
+   }
+  }
+ ]
+}

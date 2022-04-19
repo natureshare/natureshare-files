@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Highcamp Flora Reserve Highcamp",
+ "description": "All users for [highcamp_flora_reserve_highcamp]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fhighcamp_flora_reserve_highcamp%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/highcamp_flora_reserve_highcamp/index.json",
+ "items": [
+  {
+   "title": "mitchell_shire_council_environment_team",
+   "content_text": "2 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ff763bed2a8994a90000b7.JPG",
+   "date_published": "2015-03-10T22:54:51.000+00:00",
+   "date_modified": "2015-03-10T22:54:51.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.889483,
+     -37.181296
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2015-03-10",
+    "name": "highcamp_flora_reserve_highcamp",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/mitchell_shire_council_environment_team/collections/highcamp_flora_reserve_highcamp/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fcollections%2Fhighcamp_flora_reserve_highcamp%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

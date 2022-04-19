@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.613261,
+     -37.366476
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_118/items/ns/2012/53b39853e35eb1298400f416.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_118%2Fitems%2Fns%2F2012%2F53b39853e35eb1298400f416.yaml",
+    "date": "2012-03-10",
+    "title": "Oreixenica lathoniella herceus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012af8.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.66683,
+     -37.44351
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_118/items/ns/2012/53b39853e35eb1298400f389.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_118%2Fitems%2Fns%2F2012%2F53b39853e35eb1298400f389.yaml",
+    "date": "2012-02-15",
+    "title": "Delias harpalyce",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012a43.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Reef Hills State Park Flora And Fauna",
+ "description": "All users for [reef_hills_state_park_flora_and_fauna]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Freef_hills_state_park_flora_and_fauna%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/reef_hills_state_park_flora_and_fauna/index.json",
+ "items": [
+  {
+   "title": "openid_28",
+   "content_text": "10 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb1298401250e.jpg",
+   "date_published": "2011-11-18T20:39:43.000+00:00",
+   "date_modified": "2011-11-18T20:39:43.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.939636,
+     -36.615665
+    ]
+   },
+   "_meta": {
+    "itemCount": 10,
+    "date": "2011-11-18",
+    "name": "reef_hills_state_park_flora_and_fauna",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_28/collections/reef_hills_state_park_flora_and_fauna/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fcollections%2Freef_hills_state_park_flora_and_fauna%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

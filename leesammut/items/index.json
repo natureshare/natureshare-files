@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "leesammut",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fleesammut%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fleesammut%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/leesammut/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/leesammut/items/ns/2018/5b2af550ed2a8994980006e3.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fleesammut%2Fitems%2Fns%2F2018%2F5b2af550ed2a8994980006e3.yaml",
+   "title": "Hakea decurrens",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b2af6a7ed2a89e822000034.JPG",
+   "date_published": "2018-06-21T00:59:03.000+00:00",
+   "date_modified": "2018-06-21T01:01:55.000+00:00",
+   "tags": [
+    "id~Hakea decurrens"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.448512,
+     -37.121651
+    ]
+   },
+   "_meta": {
+    "date": "2018-06-19",
+    "imageCount": 3
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

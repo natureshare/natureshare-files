@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/reilly/collections/wilsons_prom_np_plants/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Wilsons prom np plants</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fcollections%2Fwilsons_prom_np_plants%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 reilly</copyright>
+    <pubDate>Sun, 17 Jan 2016 04:25:44 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Patersonia fragilis</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2016%2F5698f6dded2a89b77800000c.yaml</link>
+      <dc:creator>reilly</dc:creator>
+      <description>Probably a very common purple flower...</description>
+      <category>id~Patersonia fragilis</category>
+      <category>tag~flower</category>
+      <guid isPermaLink="false">https://files.natureshare.org/reilly/items/ns/2016/5698f6dded2a89b77800000c.yaml</guid>
+      <pubDate>Sun, 17 Jan 2016 02:42:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Olearia argophylla</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2016%2F56986917ed2a8958af000001.yaml</link>
+      <dc:creator>reilly</dc:creator>
+      <description>-</description>
+      <category>id~Olearia argophylla</category>
+      <category>tag~leaf</category>
+      <category>tag~seed</category>
+      <guid isPermaLink="false">https://files.natureshare.org/reilly/items/ns/2016/56986917ed2a8958af000001.yaml</guid>
+      <pubDate>Fri, 15 Jan 2016 03:37:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Diplarrena moraea</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2016%2F56959e33ed2a8932c9000065.yaml</link>
+      <dc:creator>reilly</dc:creator>
+      <description>-</description>
+      <category>id~Diplarrena moraea</category>
+      <category>tag~3-large-petals</category>
+      <category>tag~flower</category>
+      <category>tag~white</category>
+      <category>tag~white-petals</category>
+      <guid isPermaLink="false">https://files.natureshare.org/reilly/items/ns/2016/56959e33ed2a8932c9000065.yaml</guid>
+      <pubDate>Wed, 13 Jan 2016 00:49:29 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

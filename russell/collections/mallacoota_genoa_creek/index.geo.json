@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.555336,
+     -37.48011
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2014/53b3985ae35eb12984010b10.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2F53b3985ae35eb12984010b10.yaml",
+    "date": "2014-01-30",
+    "title": "Drosera binata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb12984014df3.jpg"
+   }
+  }
+ ]
+}

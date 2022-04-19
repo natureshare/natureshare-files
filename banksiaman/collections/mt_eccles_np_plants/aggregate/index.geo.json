@@ -1,0 +1,701 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.847764,
+     -38.125652
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lorrainecphelan/items/ns/2018/5a8f531bed2a8945cc0001d3.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Florrainecphelan%2Fitems%2Fns%2F2018%2F5a8f531bed2a8945cc0001d3.yaml",
+    "date": "2018-02-22",
+    "title": "Boronia nana var. nana",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a8f531fed2a89f453000092.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.815384,
+     -38.113768
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lorrainecphelan/items/ns/2017/58f7f6e3ed2a89f3bf000460.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Florrainecphelan%2Fitems%2Fns%2F2017%2F58f7f6e3ed2a89f3bf000460.yaml",
+    "date": "2017-04-19",
+    "title": "Boronia nana",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58f7f6e7ed2a89a81f0000ed.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.815213,
+     -38.113903
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lorrainecphelan/items/ns/2017/58f7f2feed2a89f3bf00044c.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Florrainecphelan%2Fitems%2Fns%2F2017%2F58f7f2feed2a89f3bf00044c.yaml",
+    "date": "2017-04-19",
+    "title": "Argentipallium blandowskianum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58f7f324ed2a891d6d0000fa.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.815041,
+     -38.113498
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lorrainecphelan/items/ns/2017/58f74723ed2a89f3bf000307.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Florrainecphelan%2Fitems%2Fns%2F2017%2F58f74723ed2a89f3bf000307.yaml",
+    "date": "2017-04-19",
+    "title": "Astroloma humifusum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58f7472ced2a891d6d0000f9.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.92326,
+     -38.057038
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58cf90b9ed2a896341000382.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58cf90b9ed2a896341000382.yaml",
+    "date": "2017-03-13",
+    "title": "Senecio hispidulus s.l.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58cf9148ed2a89e548000086.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.923313,
+     -38.057023
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce67b6ed2a89149d000157.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce67b6ed2a89149d000157.yaml",
+    "date": "2017-03-13",
+    "title": "Solanum nigrum s.s.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce67d2ed2a89e54800007c.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.922823,
+     -38.058192
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce673aed2a89149d000152.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce673aed2a89149d000152.yaml",
+    "date": "2017-03-13",
+    "title": "Myoporum insulare",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce6764ed2a89441000007a.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.92494,
+     -38.062147
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce66aced2a89149d000147.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce66aced2a89149d000147.yaml",
+    "date": "2017-03-13",
+    "title": "Allocasuarina verticillata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce66b1ed2a894410000079.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.925485,
+     -38.062573
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce6646ed2a89149d000142.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce6646ed2a89149d000142.yaml",
+    "date": "2017-03-13",
+    "title": "Amyema pendula subsp. pendula (s.s.)",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce6656ed2a89e54800007a.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.924412,
+     -38.065032
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce64e3ed2a89149d000125.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce64e3ed2a89149d000125.yaml",
+    "date": "2017-03-13",
+    "title": "Geranium spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce64e8ed2a89e548000076.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.921592,
+     -38.062738
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce648fed2a890dfa000029.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce648fed2a890dfa000029.yaml",
+    "date": "2017-03-13",
+    "title": "Malva preissiana s.l.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce6498ed2a891d6d000079.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.920125,
+     -38.059437
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce61a6ed2a89149d0000e7.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce61a6ed2a89149d0000e7.yaml",
+    "date": "2017-03-13",
+    "title": "Dichondra repens",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce61aeed2a891d6d000076.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.91979,
+     -38.059083
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce615ced2a89149d0000e2.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce615ced2a89149d0000e2.yaml",
+    "date": "2017-03-13",
+    "title": "Solanum laciniatum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce6163ed2a894410000077.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.91955,
+     -38.05882
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce610ded2a89149d0000e0.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce610ded2a89149d0000e0.yaml",
+    "date": "2017-03-13",
+    "title": "Lichen spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce6116ed2a89a81f00006b.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.919623,
+     -38.05854
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce60aaed2a89149d0000db.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce60aaed2a89149d0000db.yaml",
+    "date": "2017-03-13",
+    "title": "Amyema pendula",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce60c2ed2a89a81f00006a.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.919523,
+     -38.057975
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce6072ed2a890dfa000021.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce6072ed2a890dfa000021.yaml",
+    "date": "2017-03-13",
+    "title": "Lampropholis guichenoti",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce6076ed2a894410000076.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.91817,
+     -38.057237
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce6025ed2a89149d0000cb.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce6025ed2a89149d0000cb.yaml",
+    "date": "2017-03-13",
+    "title": "Oxalis perennans",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce602aed2a89a81f000069.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.918217,
+     -38.057133
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce5fc3ed2a89149d0000c4.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce5fc3ed2a89149d0000c4.yaml",
+    "date": "2017-03-13",
+    "title": "Laphangium luteoalbum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce5fcded2a894410000075.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.918283,
+     -38.057073
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce5f73ed2a89149d0000bf.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce5f73ed2a89149d0000bf.yaml",
+    "date": "2017-03-13",
+    "title": "Lathyrus spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce5f80ed2a89e548000074.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.919627,
+     -38.057107
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce5f27ed2a89149d0000ba.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce5f27ed2a89149d0000ba.yaml",
+    "date": "2017-03-13",
+    "title": "Exocarpos cupressiformis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce5f2ded2a89e548000073.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.920008,
+     -38.057098
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce5ec5ed2a89149d0000b5.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce5ec5ed2a89149d0000b5.yaml",
+    "date": "2017-03-13",
+    "title": "Centaurium erythraea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce5ecced2a891d6d000075.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.920193,
+     -38.057083
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce5e37ed2a89149d0000b3.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce5e37ed2a89149d0000b3.yaml",
+    "date": "2017-03-13",
+    "title": "Pelargonium australe",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce5e4ced2a891d6d000074.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.920292,
+     -38.057083
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce5ddeed2a89149d0000ae.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce5ddeed2a89149d0000ae.yaml",
+    "date": "2017-03-13",
+    "title": "Acaena novae-zelandiae",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce5de5ed2a89a81f000068.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.920768,
+     -38.05713
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce5d8eed2a89149d0000ac.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce5d8eed2a89149d0000ac.yaml",
+    "date": "2017-03-13",
+    "title": "Acacia melanoxylon",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce5d96ed2a891d6d000073.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.92091,
+     -38.057165
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce5d3aed2a89149d0000a2.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce5d3aed2a89149d0000a2.yaml",
+    "date": "2017-03-13",
+    "title": "Bursaria spinosa subsp. spinosa",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce5d40ed2a894410000074.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.921768,
+     -38.05714
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce5cb4ed2a89149d0000a0.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce5cb4ed2a89149d0000a0.yaml",
+    "date": "2017-03-13",
+    "title": "Eucalyptus viminalis subsp. viminalis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce5cd6ed2a89a81f000067.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.921858,
+     -38.057168
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce5c49ed2a89149d000090.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce5c49ed2a89149d000090.yaml",
+    "date": "2017-03-13",
+    "title": "Briza maxima",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce5c58ed2a894410000073.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.92191,
+     -38.057178
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce5bd8ed2a89149d00008b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce5bd8ed2a89149d00008b.yaml",
+    "date": "2017-03-13",
+    "title": "Solanum laciniatum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce5be2ed2a89a81f000066.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.92194,
+     -38.05718
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce5ab4ed2a89149d000083.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce5ab4ed2a89149d000083.yaml",
+    "date": "2017-03-13",
+    "title": "Cedronella canariensis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce5ad6ed2a891d6d000072.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.922117,
+     -38.0572
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce5946ed2a89149d000078.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce5946ed2a89149d000078.yaml",
+    "date": "2017-03-13",
+    "title": "Leontodon taraxacoides subsp. taraxacoides",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce5958ed2a89a81f000065.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.92227,
+     -38.057315
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce58f1ed2a89149d00006f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce58f1ed2a89149d00006f.yaml",
+    "date": "2017-03-13",
+    "title": "Lysimachia arvensis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce58f9ed2a894410000071.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.92273,
+     -38.057447
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce589fed2a89149d00006d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce589fed2a89149d00006d.yaml",
+    "date": "2017-03-13",
+    "title": "Pteridium esculentum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce58a6ed2a89a81f000064.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.922775,
+     -38.057487
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce5845ed2a890dfa00000d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce5845ed2a890dfa00000d.yaml",
+    "date": "2017-03-13",
+    "title": "Hypochaeris radicata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce584aed2a89a81f000063.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.923022,
+     -38.057578
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce57fbed2a890dfa00000b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce57fbed2a890dfa00000b.yaml",
+    "date": "2017-03-13",
+    "title": "Wahlenbergia gracilis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce57ffed2a89e548000072.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.923835,
+     -38.057697
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce57aeed2a89149d000062.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce57aeed2a89149d000062.yaml",
+    "date": "2017-03-13",
+    "title": "Microlaena stipoides var. stipoides",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce57b6ed2a894410000070.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.923177,
+     -38.05738
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce574eed2a89149d000060.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce574eed2a89149d000060.yaml",
+    "date": "2017-03-13",
+    "title": "Cirsium vulgare",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce575ced2a891d6d00006e.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.923223,
+     -38.05718
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce56bded2a890dfa000006.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce56bded2a890dfa000006.yaml",
+    "date": "2017-03-13",
+    "title": "Senecio quadridentatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce56caed2a89e548000071.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.923315,
+     -38.05714
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce55cced2a89149d000053.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce55cced2a89149d000053.yaml",
+    "date": "2017-03-13",
+    "title": "Senecio pinnatifolius var. pinnatifolius",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce55d3ed2a89441000006f.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.923113,
+     -38.05718
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/58ce5544ed2a89149d00004e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2F58ce5544ed2a89149d00004e.yaml",
+    "date": "2017-03-13",
+    "title": "Cassinia longifolia",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce5549ed2a89441000006e.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.815052,
+     -38.115471
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lorrainecphelan/items/ns/2016/56cfb40ced2a89b54c000064.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Florrainecphelan%2Fitems%2Fns%2F2016%2F56cfb40ced2a89b54c000064.yaml",
+    "date": "2005-09-14",
+    "title": "Pyrorchis nigricans",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56cfb413ed2a890be700007b.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.906692,
+     -38.100343
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2017/mt_eccles_np_plants_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2017%2Fmt_eccles_np_plants_species_list.yaml",
+    "date": "2017-03-20",
+    "title": "182 ids"
+   }
+  }
+ ]
+}

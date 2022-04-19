@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.286875,
+     -37.173263
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/items/ns/2016/580df16aed2a8974800007a3.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2016%2F580df16aed2a8974800007a3.yaml",
+    "date": "2016-10-24",
+    "title": "Euphrasia collina subsp. collina",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/580df179ed2a89b718000146.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.321814,
+     -37.142619
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/items/ns/2014/543fa175e35eb184d5000365.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2014%2F543fa175e35eb184d5000365.yaml",
+    "date": "2014-10-16",
+    "title": "Caladenia moschata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54405a05e35eb1314d0003a6.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.321814,
+     -37.142619
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/items/ns/2014/543f9e17e35eb1314d000342.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2014%2F543f9e17e35eb1314d000342.yaml",
+    "date": "2014-10-16",
+    "title": "Caladenia phaeoclavia",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/543f9e17e35eb1314d00033f.jpg"
+   }
+  }
+ ]
+}

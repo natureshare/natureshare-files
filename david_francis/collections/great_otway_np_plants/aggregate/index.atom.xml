@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Great otway np plants</title>
+  <id>https://files.natureshare.org/david_francis/collections/great_otway_np_plants/aggregate/index.xml</id>
+  <updated>2014-12-31T11:10:08.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/david_francis/collections/great_otway_np_plants/aggregate/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/david_francis/collections/great_otway_np_plants/aggregate/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fgreat_otway_np_plants%2Faggregate%2Findex.json"/>
+  <author>
+    <name>david_francis</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 david_francis</rights>
+  <entry>
+    <id>https://files.natureshare.org/david_francis/items/ns/2014/54a3d951e35eb106b8000048.yaml</id>
+    <title>Hymenophyllum flabellatum</title>
+    <updated>2014-12-31T11:10:08.000+00:00</updated>
+    <published>2014-12-31T11:09:05.000+00:00</published>
+    <author>
+      <name>david_francis</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2014%2F54a3d951e35eb106b8000048.yaml"/>
+    <category term="id~Hymenophyllum flabellatum"/>
+    <category term="tag~frond"/>
+    <category term="tag~indusium"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/david_francis/items/ns/2014/54a3d472e35eb1c61e00007f.yaml</id>
+    <title>Crepidomanes venosum</title>
+    <updated>2014-12-31T10:49:54.000+00:00</updated>
+    <published>2014-12-31T10:48:18.000+00:00</published>
+    <author>
+      <name>david_francis</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Note branched veins and conical indusium</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2014%2F54a3d472e35eb1c61e00007f.yaml"/>
+    <category term="id~Crepidomanes venosum"/>
+    <category term="tag~fronds"/>
+    <category term="tag~indusium"/>
+  </entry>
+</feed>

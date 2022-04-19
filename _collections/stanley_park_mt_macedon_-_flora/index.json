@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Stanley Park Mt Macedon Flora",
+ "description": "All users for [stanley_park_mt_macedon_-_flora]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fstanley_park_mt_macedon_-_flora%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/stanley_park_mt_macedon_-_flora/index.json",
+ "items": [
+  {
+   "title": "david_francis",
+   "content_text": "11 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58d06e60ed2a89e548000088.JPG",
+   "date_published": "2017-03-21T00:07:29.000+00:00",
+   "date_modified": "2017-03-21T00:07:29.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.58037,
+     -37.406254
+    ]
+   },
+   "_meta": {
+    "itemCount": 11,
+    "date": "2017-03-21",
+    "name": "stanley_park_mt_macedon_-_flora",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/david_francis/collections/stanley_park_mt_macedon_-_flora/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fstanley_park_mt_macedon_-_flora%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

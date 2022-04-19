@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Conos Court Donvale",
+ "description": "All users for [conos_court_donvale]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fconos_court_donvale%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/conos_court_donvale/index.json",
+ "items": [
+  {
+   "title": "guymer",
+   "content_text": "20 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54a7a8a7e35eb1b832000001.jpg",
+   "date_published": "2018-02-05T06:42:34.000+00:00",
+   "date_modified": "2018-02-05T06:42:34.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.197536,
+     -37.787136
+    ]
+   },
+   "_meta": {
+    "itemCount": 20,
+    "date": "2018-02-05",
+    "name": "conos_court_donvale",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/guymer/collections/conos_court_donvale/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fguymer%2Fcollections%2Fconos_court_donvale%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

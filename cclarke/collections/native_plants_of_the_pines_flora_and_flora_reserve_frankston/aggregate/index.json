@@ -1,0 +1,489 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Native Plants of The Pines Flora and Flora Reserve Frankston",
+ "description": "Open Collection based on a list from The Greater Pines Master Plan of plants growing in the reserve and from lists of plants within the TPFFR in the envirnmental assessment for the Frankston bypass. List of orchids from Rudie Kuiter - seeking more input from the Friends of The Pines or anyone interested. Feel free to add species to the collection and add photos & observations",
+ "author": {
+  "name": "cclarke",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fcollections%2Fnative_plants_of_the_pines_flora_and_flora_reserve_frankston%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/cclarke/collections/native_plants_of_the_pines_flora_and_flora_reserve_frankston/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/cclarke/items/ns/2011/53b39850e35eb1298400e906.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e906.yaml",
+   "title": "Eucalyptus ovata",
+   "content_text": "Large remnant old swamp gum next to a creek in The Pines flora and fauna reserve - coming in to full flower.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011d08.jpg",
+   "date_published": "2011-06-23T20:21:28.000+00:00",
+   "date_modified": "2011-06-23T20:27:46.000+00:00",
+   "tags": [
+    "id~Eucalyptus ovata"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.176663,
+     -38.117515
+    ]
+   },
+   "_meta": {
+    "date": "2011-06-22",
+    "imageCount": 3
+   },
+   "author": {
+    "name": "cclarke",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/cclarke/items/ns/2015/native_plants_of_the_pines_flora_and_flora_reserve_frankston_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2015%2Fnative_plants_of_the_pines_flora_and_flora_reserve_frankston_species_list.yaml",
+   "title": "159 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2011-06-19T12:34:14.000+00:00",
+   "date_modified": "2015-04-07T08:47:35.000+00:00",
+   "tags": [
+    "id~Acacia dealbata",
+    "id~Acacia mearnsii",
+    "id~Acacia melanoxylon",
+    "id~Acacia paradoxa",
+    "id~Acacia pycnantha",
+    "id~Acacia suaveolens",
+    "id~Acacia verticillata",
+    "id~Acaena novae-zelandiae",
+    "id~Acianthus caudatus",
+    "id~Acrotriche serrulata",
+    "id~Adiantum aethiopicum",
+    "id~Allocasuarina littoralis",
+    "id~Allocasuarina paludosa",
+    "id~Allocasuarina verticillata",
+    "id~Amperea xiphoclada var. xiphoclada",
+    "id~Amyema pendula",
+    "id~Aotus ericoides",
+    "id~Arthropodium strictum s.l.",
+    "id~Astroloma humifusum",
+    "id~Austrodanthonia caespitosa",
+    "id~Austrodanthonia geniculata",
+    "id~Austrodanthonia racemosa var. racemosa",
+    "id~Austrodanthonia setacea",
+    "id~Austrostipa mollis",
+    "id~Austrostipa rudis",
+    "id~Banksia integrifolia subsp. integrifolia",
+    "id~Banksia marginata",
+    "id~Baumea tetragona",
+    "id~Bossiaea cinerea",
+    "id~Burchardia umbellata",
+    "id~Bursaria spinosa",
+    "id~Caesia calliantha",
+    "id~Caladenia carnea sensu Entwisle (1994)",
+    "id~Caladenia fuscata",
+    "id~Caladenia gracilis",
+    "id~Caladenia phaeoclavia",
+    "id~Caladenia pusilla",
+    "id~Caladenia tentaculata",
+    "id~Caladenia transitoria",
+    "id~Carex breviculmis",
+    "id~Cassinia aculeata",
+    "id~Cassytha glabella",
+    "id~Cassytha melantha",
+    "id~Cassytha pubescens s.s.",
+    "id~Centella cordifolia",
+    "id~Chiloglottis valida",
+    "id~Clematis microphylla s.l.",
+    "id~Comesperma calymega",
+    "id~Comesperma volubile",
+    "id~Correa reflexa var. reflexa",
+    "id~Dianella brevicaulis",
+    "id~Dianella tasmanica",
+    "id~Dichondra repens",
+    "id~Dillwynia glaberrima",
+    "id~Diuris orientis",
+    "id~Diuris sulphurea",
+    "id~Drosera macrantha",
+    "id~Drosera pygmaea",
+    "id~Drosera whittakeri subsp. aberrans",
+    "id~Eleocharis acuta",
+    "id~Epacris impressa var. impressa",
+    "id~Eriochilus cucullatus",
+    "id~Eucalyptus cephalocarpa s.l.",
+    "id~Eucalyptus ovata",
+    "id~Eucalyptus radiata",
+    "id~Eucalyptus viminalis subsp. pryoriana",
+    "id~Exocarpos cupressiformis",
+    "id~Ficinia nodosa",
+    "id~Gahnia radula",
+    "id~Gahnia sieberiana",
+    "id~Gleichenia microphylla",
+    "id~Glossodia major",
+    "id~Gonocarpus tetragynus",
+    "id~Goodenia geniculata",
+    "id~Goodenia humilis",
+    "id~Goodenia ovata",
+    "id~Hakea nodosa",
+    "id~Hakea ulicina",
+    "id~Helichrysum scorpioides",
+    "id~Hibbertia acicularis",
+    "id~Hibbertia fasciculata var. prostrata",
+    "id~Hibbertia riparia",
+    "id~Hibbertia sericea s.l.",
+    "id~Hydrocotyle laxiflora",
+    "id~Hypericum gramineum",
+    "id~Hypolaena fastigiata",
+    "id~Indigofera australis",
+    "id~Isolepis inundata",
+    "id~Isolepis marginata",
+    "id~Juncus pallidus",
+    "id~Kennedia prostrata",
+    "id~Kunzea ericoides spp. agg.",
+    "id~Lagenophora gracilis",
+    "id~Lepidosperma concavum",
+    "id~Lepidosperma laterale",
+    "id~Leporella fimbriata",
+    "id~Leptospermum laevigatum",
+    "id~Leptospermum lanigerum",
+    "id~Leptospermum myrsinoides",
+    "id~Leucopogon ericoides",
+    "id~Leucopogon virgatus",
+    "id~Lindsaea linearis",
+    "id~Lobelia anceps",
+    "id~Lomandra filiformis",
+    "id~Lomandra longifolia subsp. longifolia",
+    "id~Luzula meridionalis var. densiflora",
+    "id~Lythrum hyssopifolia",
+    "id~Melaleuca ericifolia",
+    "id~Melaleuca squarrosa",
+    "id~Microlaena stipoides var. stipoides",
+    "id~Microtis parviflora",
+    "id~Microtis unifolia",
+    "id~Olearia ramulosa",
+    "id~Ozothamnus ferrugineus",
+    "id~Patersonia fragilis",
+    "id~Patersonia occidentalis",
+    "id~Pelargonium australe",
+    "id~Pelargonium inodorum",
+    "id~Persicaria decipiens",
+    "id~Persoonia juniperina",
+    "id~Phragmites australis",
+    "id~Pimelea humilis",
+    "id~Platylobium obtusangulum",
+    "id~Platysace heterophylla var. heterophylla",
+    "id~Poa labillardierei",
+    "id~Poa morrisii",
+    "id~Poa sieberiana var. sieberiana",
+    "id~Poranthera microphylla s.l.",
+    "id~Prasophyllum elatum",
+    "id~Pteridium esculentum",
+    "id~Pterostylis melagramma",
+    "id~Pterostylis nana",
+    "id~Pterostylis nutans",
+    "id~Pterostylis parviflora s.l.",
+    "id~Pterostylis pedunculata",
+    "id~Pterostylis sanguinea",
+    "id~Pultenaea stricta",
+    "id~Pyrorchis nigricans",
+    "id~Ricinocarpos pinifolius",
+    "id~Schoenus brevifolius",
+    "id~Solanum laciniatum",
+    "id~Stylidium graminifolium s.l.",
+    "id~Tetragonia implexicoma",
+    "id~Tetratheca ciliata",
+    "id~Thelionema caespitosum",
+    "id~Thelymitra antennifera",
+    "id~Thelymitra carnea",
+    "id~Thelymitra flexuosa",
+    "id~Thelymitra ixioides s.l.",
+    "id~Thelymitra pauciflora s.l.",
+    "id~Thelymitra rubra",
+    "id~Themeda triandra",
+    "id~Thysanotus tuberosus",
+    "id~Triglochin procera s.l.",
+    "id~Triglochin striata",
+    "id~Viminaria juncea",
+    "id~Viola hederacea sensu Willis (1972)",
+    "id~Wahlenbergia stricta subsp. stricta",
+    "id~Xanthorrhoea minor subsp. lutea",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "cclarke",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/cclarke/items/ns/2011/53b39850e35eb1298400e8eb.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e8eb.yaml",
+   "title": "Epacris impressa var. impressa",
+   "content_text": "1.4 metre tall plant growing in sandy heath. White flowered form in flower throughout The Pines flora reserve.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011ce5.jpg",
+   "date_published": "2011-06-18T00:30:28.000+00:00",
+   "date_modified": "2011-06-18T00:32:46.000+00:00",
+   "tags": [
+    "id~Epacris impressa var. impressa"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.165723,
+     -38.126913
+    ]
+   },
+   "_meta": {
+    "date": "2011-06-15",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "cclarke",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/cclarke/items/ns/2011/53b39850e35eb1298400e8ea.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e8ea.yaml",
+   "title": "Hypolaena fastigiata",
+   "content_text": "50cm tall Tassell Rope-rush - grey/green stems drooping ends - growing in sandy areas in full sun.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011ce4.jpg",
+   "date_published": "2011-06-18T00:26:03.000+00:00",
+   "date_modified": "2011-06-18T00:30:16.000+00:00",
+   "tags": [
+    "id~Hypolaena fastigiata"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.165152,
+     -38.126232
+    ]
+   },
+   "_meta": {
+    "date": "2011-06-16",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "cclarke",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/cclarke/items/ns/2011/53b39850e35eb1298400e8e9.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e8e9.yaml",
+   "title": "Leucopogon virgatus var. virgatus",
+   "content_text": "Early flowers on the Common Beard Heath - plant around 50cm tall.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011ce3.jpg",
+   "date_published": "2011-06-18T00:23:46.000+00:00",
+   "date_modified": "2014-10-24T06:23:16.000+00:00",
+   "tags": [
+    "id~Leucopogon virgatus var. virgatus",
+    "tag~flower"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.163056,
+     -38.126111
+    ]
+   },
+   "_meta": {
+    "date": "2011-06-15",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "cclarke",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/cclarke/items/ns/2011/53b39850e35eb1298400e8e8.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e8e8.yaml",
+   "title": "Exocarpos cupressiformis",
+   "content_text": "Group of Cherry Ballart - new green growth on these small/medium trees throughout the reserve after a good year of rain.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011ce2.jpg",
+   "date_published": "2011-06-18T00:20:41.000+00:00",
+   "date_modified": "2011-06-18T00:23:35.000+00:00",
+   "tags": [
+    "id~Exocarpos cupressiformis"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.165543,
+     -38.1245
+    ]
+   },
+   "_meta": {
+    "date": "2011-06-15",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "cclarke",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/cclarke/items/ns/2011/53b39850e35eb1298400e8e7.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e8e7.yaml",
+   "title": "Hibbertia fasciculata var. prostrata",
+   "content_text": "Single winter flower on small shrub 30cm tall",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011ce1.jpg",
+   "date_published": "2011-06-18T00:18:44.000+00:00",
+   "date_modified": "2015-02-09T08:02:56.000+00:00",
+   "tags": [
+    "id~Hibbertia fasciculata var. prostrata"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.164215,
+     -38.124813
+    ]
+   },
+   "_meta": {
+    "date": "2011-06-15",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "cclarke",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/cclarke/items/ns/2011/53b39850e35eb1298400e8e6.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e8e6.yaml",
+   "title": "Trachymene composita var. composita",
+   "content_text": "Early flowers and lots of buds on these native parsnips",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011cdf.jpg",
+   "date_published": "2011-06-18T00:15:29.000+00:00",
+   "date_modified": "2011-06-18T00:18:28.000+00:00",
+   "tags": [
+    "id~Trachymene composita var. composita",
+    "tag~flower"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.170407,
+     -38.129945
+    ]
+   },
+   "_meta": {
+    "date": "2011-06-15",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "cclarke",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/cclarke/items/ns/2011/53b39850e35eb1298400e8e5.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e8e5.yaml",
+   "title": "Dillwynia glaberrima",
+   "content_text": "Lone winter flower on several plants",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011cde.jpg",
+   "date_published": "2011-06-18T00:13:47.000+00:00",
+   "date_modified": "2011-06-18T00:15:14.000+00:00",
+   "tags": [
+    "id~Dillwynia glaberrima"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.16749,
+     -38.124472
+    ]
+   },
+   "_meta": {
+    "date": "2011-06-15",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "cclarke",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/cclarke/items/ns/2011/53b39850e35eb1298400e8e4.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e8e4.yaml",
+   "title": "Banksia marginata",
+   "content_text": "Most Banksia marginata shrubs in the park up to 1.5 metres tall and finishing flowering",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011cdd.jpg",
+   "date_published": "2011-06-18T00:09:32.000+00:00",
+   "date_modified": "2011-06-18T00:11:57.000+00:00",
+   "tags": [
+    "id~Banksia marginata"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.170083,
+     -38.128893
+    ]
+   },
+   "_meta": {
+    "date": "2011-06-15",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "cclarke",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/cclarke/items/ns/2011/53b39850e35eb1298400e8e3.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e8e3.yaml",
+   "title": "Acacia suaveolens",
+   "content_text": "Spreading shrubs up to 2m tall throughout the Pines Flora and Fauna reserve.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011cdc.jpg",
+   "date_published": "2011-06-18T00:05:45.000+00:00",
+   "date_modified": "2011-06-18T00:09:17.000+00:00",
+   "tags": [
+    "id~Acacia suaveolens"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.167632,
+     -38.124598
+    ]
+   },
+   "_meta": {
+    "date": "2011-06-15",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "cclarke",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/cclarke/items/ns/2011/53b39850e35eb1298400e8e2.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e8e2.yaml",
+   "title": "Correa reflexa var. reflexa",
+   "content_text": "2.5 metre tall Green flowered Correa reflexa growing out of dense bracken.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011cdb.jpg",
+   "date_published": "2011-06-18T00:00:20.000+00:00",
+   "date_modified": "2011-06-18T00:34:55.000+00:00",
+   "tags": [
+    "id~Correa reflexa var. reflexa"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.163957,
+     -38.12609
+    ]
+   },
+   "_meta": {
+    "date": "2011-06-15",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "cclarke",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 12,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": "<p>Open Collection based on a list from The Greater Pines Master Plan of plants growing in the reserve and from lists of plants within the TPFFR in the envirnmental assessment for the Frankston bypass. List of orchids from Rudie Kuiter - seeking more input from the Friends of The Pines or anyone interested. Feel free to add species to the collection and add photos &amp; observations</p>\n"
+ }
+}

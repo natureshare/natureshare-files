@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "monitor",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmonitor%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmonitor%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/monitor/collections/index.json",
+ "items": [
+  {
+   "title": "Brisbane ranges mammals",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55778d0fed2a8918dd000890.JPG",
+   "date_published": "2015-06-10T01:04:16.000+00:00",
+   "date_modified": "2015-06-10T01:04:16.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.276,
+     -37.764
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2015-06-10",
+    "name": "brisbane_ranges_mammals",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/monitor/collections/brisbane_ranges_mammals/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmonitor%2Fcollections%2Fbrisbane_ranges_mammals%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Brisbane Ranges surrounds - Mammals",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/554de1b7ed2a89c6e5000049.JPG",
+   "date_published": "2015-05-09T10:30:15.000+00:00",
+   "date_modified": "2015-05-09T10:30:15.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.218955,
+     -37.829294
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2015-05-09",
+    "name": "brisbane_ranges_surrounds_-_mammals",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/monitor/collections/brisbane_ranges_surrounds_-_mammals/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmonitor%2Fcollections%2Fbrisbane_ranges_surrounds_-_mammals%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

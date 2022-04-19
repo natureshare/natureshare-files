@@ -1,0 +1,40 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "cath",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcath%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcath%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/cath/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/cath/items/ns/2018/5c229cd63abbd6b7f0000245.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcath%2Fitems%2Fns%2F2018%2F5c229cd63abbd6b7f0000245.yaml",
+   "title": "Paracaudina bacillis",
+   "content_text": "2 were washed up on the sand. 1 was 18cm & 1 was 14. The large one was alive. Not sure if the smaller was alive.",
+   "date_published": "2018-12-25T21:10:46.000+00:00",
+   "date_modified": "2018-12-25T21:10:46.000+00:00",
+   "tags": [
+    "id~Paracaudina bacillis",
+    "tag~sea-cucumber"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.74776,
+     -38.341129
+    ]
+   },
+   "_meta": {
+    "date": "2018-12-25"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

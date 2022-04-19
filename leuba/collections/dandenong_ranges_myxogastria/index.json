@@ -1,0 +1,46 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Dandenong Ranges Myxogastria",
+ "description": "",
+ "author": {
+  "name": "leuba",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fcollections%2Fdandenong_ranges_myxogastria%2Findex.json",
+ "feed_url": "https://files.natureshare.org/leuba/collections/dandenong_ranges_myxogastria/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/leuba/items/ns/2015/54e17521ed2a89d990000202.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fitems%2Fns%2F2015%2F54e17521ed2a89d990000202.yaml",
+   "title": "Ceratiomyxa fruitculosa",
+   "content_text": "Highly branched clumps of fruiting bodies of slime mold. The sporocarps, about 2 mm high, appeared to have a powdery surface which is presumably a phase that this slime mold undergoes.\r\nSeen on the underside of fallen twigs in a damp area - nature reserve.\r\n\r\n",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e1751fed2a89d9900001fe.jpg",
+   "date_published": "2015-02-16T04:42:09.000+00:00",
+   "date_modified": "2015-02-16T05:39:46.000+00:00",
+   "tags": [
+    "id~Ceratiomyxa fruitculosa",
+    "tag~slime-mould"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.402389,
+     -37.943098
+    ]
+   },
+   "_meta": {
+    "date": "2014-07-23",
+    "imageCount": 4
+   },
+   "author": {
+    "name": "leuba",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

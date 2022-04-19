@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.402547,
+     -37.697795
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tmiller/collections/bacchus_marsh_race_course_reserve/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fcollections%2Fbacchus_marsh_race_course_reserve%2Faggregate%2Findex.json",
+    "date": "2017-07-11",
+    "title": "Bacchus Marsh Racecourse Reserve",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5964343aed2a893984000105.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.191929,
+     -37.607815
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tmiller/collections/ballan_mineral_springs_reserve/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fcollections%2Fballan_mineral_springs_reserve%2Faggregate%2Findex.json",
+    "date": "2017-02-17",
+    "title": "Ballan Mineral Springs Reserve",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a537bfed2a892daf0003c5.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.390885,
+     -37.726649
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tmiller/collections/bacchus_marsh_gun_club/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fcollections%2Fbacchus_marsh_gun_club%2Faggregate%2Findex.json",
+    "date": "2017-02-16",
+    "title": "Bacchus Marsh Gun Club",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a537eaed2a89d73e000388.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.139318,
+     -37.491768
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tmiller/collections/spargo_creek_mineral_spring_reserve/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fcollections%2Fspargo_creek_mineral_spring_reserve%2Faggregate%2Findex.json",
+    "date": "2017-02-16",
+    "title": "Spargo Creek Mineral Spring Reserve",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a537a7ed2a89d73e000386.JPG"
+   }
+  }
+ ]
+}

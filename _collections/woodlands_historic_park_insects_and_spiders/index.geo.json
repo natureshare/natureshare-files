@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.862584,
+     -37.649068
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/andrew_allen/collections/woodlands_historic_park_insects_and_spiders/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandrew_allen%2Fcollections%2Fwoodlands_historic_park_insects_and_spiders%2Faggregate%2Findex.json",
+    "date": "2019-09-16",
+    "title": "andrew_allen",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_595341e2ed2a89e53c000001/2019-09-16/20190913_0001_1st_c.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.863,
+     -37.643
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/triplett/collections/woodlands_historic_park_insects_and_spiders/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftriplett%2Fcollections%2Fwoodlands_historic_park_insects_and_spiders%2Faggregate%2Findex.json",
+    "date": "2019-09-16",
+    "title": "triplett",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_595341e2ed2a89e53c000001/2019-09-16/20190913_0001_1st_c.jpeg"
+   }
+  }
+ ]
+}

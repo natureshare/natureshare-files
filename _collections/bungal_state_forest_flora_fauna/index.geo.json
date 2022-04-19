@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.153063,
+     -37.620519
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/koolah/collections/bungal_state_forest_flora_fauna/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fcollections%2Fbungal_state_forest_flora_fauna%2Faggregate%2Findex.json",
+    "date": "2017-05-29",
+    "title": "koolah",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592c05d5ed2a894410000150.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.15,
+     -37.618
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/giorgiod/collections/bungal_state_forest_flora_fauna/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fcollections%2Fbungal_state_forest_flora_fauna%2Faggregate%2Findex.json",
+    "date": "2014-11-05",
+    "title": "giorgiod",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545a88fde35eb12c8f000273.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.673,
+     -34.763
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/murray_sunset_np_south_fauna_south_of_sturt_hwy/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmurray_sunset_np_south_fauna_south_of_sturt_hwy%2Faggregate%2Findex.json",
+    "date": "2015-02-22",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e97de3ed2a89ef27000537.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.595,
+     -34.862
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gtgoods/collections/murray_sunset_np_south_fauna_south_of_sturt_hwy/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fcollections%2Fmurray_sunset_np_south_fauna_south_of_sturt_hwy%2Faggregate%2Findex.json",
+    "date": "2015-02-22",
+    "title": "gtgoods",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e97de3ed2a89ef27000537.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.647,
+     -34.748
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lydia/collections/murray_sunset_np_south_fauna_south_of_sturt_hwy/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fcollections%2Fmurray_sunset_np_south_fauna_south_of_sturt_hwy%2Faggregate%2Findex.json",
+    "date": "2013-12-21",
+    "title": "lydia",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ae35eb12984014bc1.jpg"
+   }
+  }
+ ]
+}

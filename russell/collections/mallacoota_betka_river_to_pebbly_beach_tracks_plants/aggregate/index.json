@@ -1,0 +1,70 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Mallacoota, Betka River to Pebbly Beach Tracks - Plants",
+ "description": "New tracks (2010) including Davis Beach to Betka River, and tracks from Betka Beach to Pebbly Beach.",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmallacoota_betka_river_to_pebbly_beach_tracks_plants%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/mallacoota_betka_river_to_pebbly_beach_tracks_plants/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2015/mallacoota_betka_river_to_pebbly_beach_tracks_plants_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Fmallacoota_betka_river_to_pebbly_beach_tracks_plants_species_list.yaml",
+   "title": "Selliera radicans",
+   "content_text": "Species list for collection.",
+   "date_published": "2014-02-18T16:06:31.000+00:00",
+   "date_modified": "2015-04-07T08:47:42.000+00:00",
+   "tags": [
+    "id~Selliera radicans",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2014/53b3985ae35eb12984010bc7.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2F53b3985ae35eb12984010bc7.yaml",
+   "title": "Selliera radicans",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb12984014f0a.jpg",
+   "date_published": "2014-02-18T15:06:09.000+00:00",
+   "date_modified": "2014-07-02T12:26:15.000+00:00",
+   "tags": [
+    "id~Selliera radicans",
+    "tag~flower"
+   ],
+   "_geo": {
+    "coordinates": [
+     149.735761,
+     -37.585635
+    ]
+   },
+   "_meta": {
+    "date": "2014-01-17",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": "<p>New tracks (2010) including Davis Beach to Betka River, and tracks from Betka Beach to Pebbly Beach.</p>\n"
+ }
+}

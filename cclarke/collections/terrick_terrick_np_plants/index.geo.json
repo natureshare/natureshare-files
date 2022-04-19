@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.243879,
+     -36.167797
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/cclarke/items/ns/2012/53b39853e35eb1298400f40d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2012%2F53b39853e35eb1298400f40d.yaml",
+    "date": "2012-03-10",
+    "title": "Correa glabra var. glabra",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012aee.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.244244,
+     -36.167918
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/cclarke/items/ns/2012/53b39853e35eb1298400f408.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2012%2F53b39853e35eb1298400f408.yaml",
+    "date": "2012-03-10",
+    "title": "Isotoma axillaris",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012ae8.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.24433,
+     -36.168853
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/cclarke/items/ns/2012/53b39853e35eb1298400f406.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2012%2F53b39853e35eb1298400f406.yaml",
+    "date": "2012-03-10",
+    "title": "Acacia deanei subsp. paucijuga",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012ae5.jpg"
+   }
+  }
+ ]
+}

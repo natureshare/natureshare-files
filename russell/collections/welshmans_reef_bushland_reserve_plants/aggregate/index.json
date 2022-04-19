@@ -1,0 +1,59 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Welshmans Reef Bushland Reserve - Plants",
+ "description": "Initial species list (14 species) compiled by Ern Perkins and the Castlemaine Field Nats.",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fwelshmans_reef_bushland_reserve_plants%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/welshmans_reef_bushland_reserve_plants/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2015/welshmans_reef_bushland_reserve_plants_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Fwelshmans_reef_bushland_reserve_plants_species_list.yaml",
+   "title": "14 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2011-03-04T15:00:55.000+00:00",
+   "date_modified": "2015-04-07T08:47:32.000+00:00",
+   "tags": [
+    "id~Acacia acinacea s.s.",
+    "id~Acacia pycnantha",
+    "id~Amyema miquelii",
+    "id~Arthropodium strictum s.s.",
+    "id~Austrodanthonia carphoides",
+    "id~Caladenia carnea sensu Willis (1970)",
+    "id~Cassinia arcuata",
+    "id~Dianella admixta",
+    "id~Eucalyptus leucoxylon subsp. pruinosa",
+    "id~Eucalyptus microcarpa",
+    "id~Gonocarpus tetragynus",
+    "id~Hypericum gramineum",
+    "id~Joycea pallida",
+    "id~Pultenaea largiflorens",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.028015,
+     -37.064218
+    ]
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": "<p>Initial species list (14 species) compiled by Ern Perkins and the Castlemaine Field Nats.</p>\n"
+ }
+}

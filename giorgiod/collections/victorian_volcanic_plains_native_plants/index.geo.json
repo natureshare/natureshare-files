@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.715517,
+     -37.728015
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/giorgiod/items/ns/2014/543072fce35eb152f4000098.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Fns%2F2014%2F543072fce35eb152f4000098.yaml",
+    "date": "2010-03-08",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/543077b0e35eb1dec1000264.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.715828,
+     -37.727429
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/giorgiod/items/ns/2014/542ffc2ce35eb152f400007c.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Fns%2F2014%2F542ffc2ce35eb152f400007c.yaml",
+    "date": "2010-03-08",
+    "title": "Teucrium racemosum s.s.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/542ffc85e35eb152f400007f.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.664546,
+     -37.923971
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/giorgiod/items/ns/2012/53b39854e35eb1298400f4ef.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f4ef.yaml",
+    "date": "2007-10-22",
+    "title": "Eucalyptus baueriana subsp. thalassina",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012c21.jpg"
+   }
+  }
+ ]
+}

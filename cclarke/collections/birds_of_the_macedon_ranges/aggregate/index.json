@@ -1,0 +1,73 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Birds of the macedon ranges",
+ "description": "",
+ "author": {
+  "name": "cclarke",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fcollections%2Fbirds_of_the_macedon_ranges%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/cclarke/collections/birds_of_the_macedon_ranges/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/cclarke/items/ns/2012/53b39853e35eb1298400f410.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2012%2F53b39853e35eb1298400f410.yaml",
+   "title": "Petroica phoenicea",
+   "content_text": "Female or Juvenile Flame Robin at Mt Macedon",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012af1.jpg",
+   "date_published": "2012-03-11T21:19:14.000+00:00",
+   "date_modified": "2012-03-11T21:22:12.000+00:00",
+   "tags": [
+    "id~Petroica phoenicea"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.576563,
+     -37.38655
+    ]
+   },
+   "_meta": {
+    "date": "2012-03-11",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "cclarke",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/cclarke/items/ns/2011/53b39852e35eb1298400ef78.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400ef78.yaml",
+   "title": "Petroica phoenicea",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb1298401249b.jpg",
+   "date_published": "2011-11-14T21:12:53.000+00:00",
+   "date_modified": "2011-11-14T21:13:21.000+00:00",
+   "tags": [
+    "id~Petroica phoenicea"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.576823,
+     -37.38862
+    ]
+   },
+   "_meta": {
+    "date": "2011-11-12",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "cclarke",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

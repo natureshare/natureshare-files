@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.407285,
+     -37.326193
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lconole/collections/mammals_of_tylden_township/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fcollections%2Fmammals_of_tylden_township%2Faggregate%2Findex.json",
+    "date": "2015-06-29",
+    "title": "lconole",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f64522ed2a89ef11000019.JPG"
+   }
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Royal park parkville",
+ "description": "",
+ "author": {
+  "name": "abc123",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fcollections%2Froyal_park_parkville%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/abc123/collections/royal_park_parkville/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/abc123/items/ns/2015/55776f01ed2a8918dd000887.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Fns%2F2015%2F55776f01ed2a8918dd000887.yaml",
+   "title": "Acanthorhynchus tenuirostris",
+   "content_text": "Eastern Spinebill",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55783a8fed2a8918dd0008e4.JPG",
+   "date_published": "2015-06-09T22:56:01.000+00:00",
+   "date_modified": "2015-06-10T14:15:14.000+00:00",
+   "tags": [
+    "id~Acanthorhynchus tenuirostris"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.946102,
+     -37.783376
+    ]
+   },
+   "_meta": {
+    "date": "2015-06-07",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "abc123",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/abc123/items/ns/2015/5505fa2aed2a8974d30004dd.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Fns%2F2015%2F5505fa2aed2a8974d30004dd.yaml",
+   "title": "Platalea regia",
+   "content_text": "Spoonbill.  Is this a mating pair?",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5505fa2aed2a8974d30004da.JPG",
+   "date_published": "2015-03-15T21:31:22.000+00:00",
+   "date_modified": "2015-03-15T21:36:38.000+00:00",
+   "tags": [
+    "id~Platalea regia",
+    "tag~birds"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.943282,
+     -37.782385
+    ]
+   },
+   "_meta": {
+    "date": "2015-03-10",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "abc123",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/abc123/items/ns/2015/5502d80eed2a8994a9000246.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Fns%2F2015%2F5502d80eed2a8994a9000246.yaml",
+   "title": "Sturnus vulgaris",
+   "content_text": "Is this a Thrush?",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5502d80eed2a8994a9000245.PNG",
+   "date_published": "2015-03-13T12:29:02.000+00:00",
+   "date_modified": "2015-03-13T12:59:20.000+00:00",
+   "tags": [
+    "id~Sturnus vulgaris"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.942252,
+     -37.782107
+    ]
+   },
+   "_meta": {
+    "date": "2015-03-12",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "abc123",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/abc123/items/ns/2015/54f1acc7ed2a8945a1000209.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Fns%2F2015%2F54f1acc7ed2a8945a1000209.yaml",
+   "title": "Pelecanus conspicillatus",
+   "content_text": "spotted this Pelican.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f1acc6ed2a8945a1000207.JPG",
+   "date_published": "2015-02-28T11:55:51.000+00:00",
+   "date_modified": "2015-02-28T11:56:53.000+00:00",
+   "tags": [
+    "id~Pelecanus conspicillatus"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2015-01-29",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "abc123",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 4,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

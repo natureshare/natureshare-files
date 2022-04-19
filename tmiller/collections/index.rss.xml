@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/tmiller/collections/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Collections</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fcollections%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 tmiller</copyright>
+    <pubDate>Tue, 11 Jul 2017 02:16:02 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Bacchus Marsh Racecourse Reserve</title>
+      <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fcollections%2Fbacchus_marsh_race_course_reserve%2Faggregate%2Findex.json</link>
+      <dc:creator>tmiller</dc:creator>
+      <description>7 items</description>
+      <guid isPermaLink="false">https://files.natureshare.org/tmiller/collections/bacchus_marsh_race_course_reserve/aggregate/index.json</guid>
+      <pubDate>Tue, 11 Jul 2017 02:16:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ballan Mineral Springs Reserve</title>
+      <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fcollections%2Fballan_mineral_springs_reserve%2Faggregate%2Findex.json</link>
+      <dc:creator>tmiller</dc:creator>
+      <description>1 items</description>
+      <guid isPermaLink="false">https://files.natureshare.org/tmiller/collections/ballan_mineral_springs_reserve/aggregate/index.json</guid>
+      <pubDate>Fri, 17 Feb 2017 00:04:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bacchus Marsh Gun Club</title>
+      <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fcollections%2Fbacchus_marsh_gun_club%2Faggregate%2Findex.json</link>
+      <dc:creator>tmiller</dc:creator>
+      <description>5 items</description>
+      <guid isPermaLink="false">https://files.natureshare.org/tmiller/collections/bacchus_marsh_gun_club/aggregate/index.json</guid>
+      <pubDate>Thu, 16 Feb 2017 05:45:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spargo Creek Mineral Spring Reserve</title>
+      <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fcollections%2Fspargo_creek_mineral_spring_reserve%2Faggregate%2Findex.json</link>
+      <dc:creator>tmiller</dc:creator>
+      <description>8 items</description>
+      <guid isPermaLink="false">https://files.natureshare.org/tmiller/collections/spargo_creek_mineral_spring_reserve/aggregate/index.json</guid>
+      <pubDate>Thu, 16 Feb 2017 05:43:01 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

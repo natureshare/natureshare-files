@@ -1,0 +1,40 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "kylierobertson",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkylierobertson%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkylierobertson%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/kylierobertson/collections/index.json",
+ "items": [
+  {
+   "title": "Moorooduc Wildthings",
+   "content_text": "1 items",
+   "date_published": "2015-07-11T05:25:30.000+00:00",
+   "date_modified": "2015-07-11T05:25:30.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.096859,
+     -38.259555
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2015-07-11",
+    "name": "natureshare_org_au_collections_moorooduc_wildthings",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/kylierobertson/collections/natureshare_org_au_collections_moorooduc_wildthings/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkylierobertson%2Fcollections%2Fnatureshare_org_au_collections_moorooduc_wildthings%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

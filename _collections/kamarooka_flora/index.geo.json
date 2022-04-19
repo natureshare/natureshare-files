@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.375483,
+     -36.54728
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/andrewbrown/collections/kamarooka_flora/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandrewbrown%2Fcollections%2Fkamarooka_flora%2Faggregate%2Findex.json",
+    "date": "2017-10-29",
+    "title": "andrewbrown",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59f47588ed2a89398400054b.JPG"
+   }
+  }
+ ]
+}

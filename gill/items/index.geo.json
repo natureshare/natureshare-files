@@ -1,0 +1,949 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.683128,
+     -37.458545
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2018/5a78420eed2a89def7000201.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2018%2F5a78420eed2a89def7000201.yaml",
+    "date": "2018-02-05",
+    "title": "Austracantha minax",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a784216ed2a8966a0000030.png"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.664261,
+     -37.439683
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2017/58a950c6ed2a896c5c000b9a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2017%2F58a950c6ed2a896c5c000b9a.yaml",
+    "date": "2017-02-13",
+    "title": "Tachyglossus aculeatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a950d3ed2a89d73e00039e.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.655092,
+     -37.430714
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2017/58a43bdeed2a896c5c000015.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2017%2F58a43bdeed2a896c5c000015.yaml",
+    "date": "2017-02-15",
+    "title": "Abantiades labyrinthicus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a43c05ed2a89b3fe0003a9.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654751,
+     -37.430878
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2016/58305706ed2a8974800046f0.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2016%2F58305706ed2a8974800046f0.yaml",
+    "date": "2016-11-19",
+    "title": "Alisterus scapularis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58305719ed2a89d73e0001d9.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.664455,
+     -37.442226
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2016/582703e7ed2a897480003608.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2016%2F582703e7ed2a897480003608.yaml",
+    "date": "2016-11-11",
+    "title": "Arthropodium strictum s.s.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/582703ebed2a89b3fe0001c8.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.656312,
+     -37.437285
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2016/57aff57aed2a89450f0003c3.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2016%2F57aff57aed2a89450f0003c3.yaml",
+    "date": "2016-08-14",
+    "title": "Hardenbergia violacea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57aff57eed2a892daf000009.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654584,
+     -37.430972
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2016/57aff1b7ed2a89450f0003ba.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2016%2F57aff1b7ed2a89450f0003ba.yaml",
+    "date": "2016-08-13",
+    "title": "Cacatua sanguinea/tenuirostris",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57aff1c4ed2a89d73e000004.png"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.671988,
+     -37.464827
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2016/57a6960ced2a89450f0000ab.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2016%2F57a6960ced2a89450f0000ab.yaml",
+    "date": "2016-07-31",
+    "title": "Triglochin spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57a6961ced2a89b3fe000001.png"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654456,
+     -37.430878
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2016/577af9daed2a89e69f0002a9.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2016%2F577af9daed2a89e69f0002a9.yaml",
+    "date": "2016-07-05",
+    "title": "Chenonetta jubata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/577af9e6ed2a89211c00026c.png"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.653733,
+     -37.430341
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2016/57552700ed2a89e668001048.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2016%2F57552700ed2a89e668001048.yaml",
+    "date": "2016-06-06",
+    "title": "Wallabia bicolor",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57552704ed2a890be700021a.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654756,
+     -37.430808
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2016/572d1b17ed2a89e6680005a6.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2016%2F572d1b17ed2a89e6680005a6.yaml",
+    "date": "2016-05-06",
+    "title": "Macropus giganteus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/572d1b25ed2a89211c0001f9.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.61377,
+     -37.429088
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2016/5729f2d8ed2a89e66800045e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2016%2F5729f2d8ed2a89e66800045e.yaml",
+    "date": "2016-05-02",
+    "title": "Vombatus ursinus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/572bf7b3ed2a890be70001d8.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.70162,
+     -37.456483
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2016/57160d15ed2a89d57f000121.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2016%2F57160d15ed2a89d57f000121.yaml",
+    "date": "2016-04-19",
+    "title": "Galenia pubescens var. pubescens"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654572,
+     -37.430889
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2016/56db4bcaed2a8972fb0000fc.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2016%2F56db4bcaed2a8972fb0000fc.yaml",
+    "date": "2016-03-05",
+    "title": "Rhipidura albiscapa",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56db4be6ed2a890be70000ca.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654647,
+     -37.430917
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2016/56db434fed2a8972fb0000e6.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2016%2F56db434fed2a8972fb0000e6.yaml",
+    "date": "2016-03-05",
+    "title": "Rhipidura rufifrons",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56db4361ed2a890be70000c8.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.498978,
+     -37.469556
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2016/56c8dea4ed2a8986b100007f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2016%2F56c8dea4ed2a8986b100007f.yaml",
+    "date": "2016-02-20",
+    "title": "Blechnum spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56c8deb6ed2a89211c00006c.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.756408,
+     -37.554367
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2016/569f0f3ded2a8954e100003c.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2016%2F569f0f3ded2a8954e100003c.yaml",
+    "date": "2016-01-20",
+    "title": "Pelecanus conspicillatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/569f0f4ced2a897bc700001b.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.080261,
+     -37.965417
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2016/56a75bd7ed2a8975f5000056.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2016%2F56a75bd7ed2a8975f5000056.yaml",
+    "date": "2016-01-25",
+    "title": "Hemianax papuensis, Odonata spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a75be5ed2a89b31c000040.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.757264,
+     -37.554628
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2016/569c25c8ed2a89f5e1000018.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2016%2F569c25c8ed2a89f5e1000018.yaml",
+    "date": "2016-01-18",
+    "title": "Arctocephalus pusillus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/569c25dfed2a89e050000014.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654739,
+     -37.430961
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2016/56883ac0ed2a899837000178.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2016%2F56883ac0ed2a899837000178.yaml",
+    "date": "2016-01-02",
+    "title": "Sparassidae spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56883ad2ed2a8983280000c4.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.653733,
+     -37.430341
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/567e227fed2a89d6d6000568.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F567e227fed2a89d6d6000568.yaml",
+    "date": "2015-12-26",
+    "title": "Tachyglossus aculeatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/567e229eed2a898328000078.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.653733,
+     -37.430341
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/566d61f0ed2a89b5f500041f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F566d61f0ed2a89b5f500041f.yaml",
+    "date": "2015-12-13",
+    "title": "Chlorocoma dichloraria",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/566d61faed2a899c630002ac.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.653733,
+     -37.430341
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/56680d53ed2a89b5f50002bd.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F56680d53ed2a89b5f50002bd.yaml",
+    "date": "2015-12-07",
+    "title": "Wallabia bicolor",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56680d60ed2a899c63000292.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.674483,
+     -37.455411
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/564f1908ed2a89e56e000ce7.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F564f1908ed2a89e56e000ce7.yaml",
+    "date": "2015-11-20",
+    "title": "Chenonetta jubata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/564f191aed2a899c630001da.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.653733,
+     -37.430341
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/564d7162ed2a89e56e000c14.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F564d7162ed2a89e56e000c14.yaml",
+    "date": "2015-11-18",
+    "title": "Phascolarctos cinereus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/564d7174ed2a899c630001c8.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.653733,
+     -37.430341
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/562acdbded2a8904a2000191.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F562acdbded2a8904a2000191.yaml",
+    "date": "2015-10-24",
+    "title": "Cervus spp."
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.653733,
+     -37.430341
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/55fe7c8ced2a89b06c000cbb.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F55fe7c8ced2a89b06c000cbb.yaml",
+    "date": "2015-09-19",
+    "title": "Strepera graculina",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55fe7c9eed2a890d950001da.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.670805,
+     -37.446802
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/55fab3a5ed2a89b06c000b93.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F55fab3a5ed2a89b06c000b93.yaml",
+    "date": "2015-09-16",
+    "title": "Macropus giganteus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55fab3c2ed2a890d950001c7.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654796,
+     -37.43078
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/55f95c5ced2a89b06c0009ec.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F55f95c5ced2a89b06c0009ec.yaml",
+    "date": "2015-09-15",
+    "title": "Dacelo novaeguineae",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55f95c82ed2a890d950001b0.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654796,
+     -37.43078
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/55f4d57eed2a89b06c000690.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F55f4d57eed2a89b06c000690.yaml",
+    "date": "2015-09-13",
+    "title": "Alisterus scapularis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55f4eba9ed2a890d95000143.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.687744,
+     -37.464363
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/55dbb5f2ed2a897ee1000006.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F55dbb5f2ed2a897ee1000006.yaml",
+    "date": "2015-08-22",
+    "title": "Cymbonotus preissianus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55dbb609ed2a890d95000005.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.6581,
+     -37.432886
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/55b2e55eed2a89db81000117.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F55b2e55eed2a89db81000117.yaml",
+    "date": "2015-07-24",
+    "title": "Vombatus ursinus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55b2e55eed2a89db81000115.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.6581,
+     -37.432886
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/55a351caed2a89158b0003f0.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F55a351caed2a89158b0003f0.yaml",
+    "date": "2015-07-13",
+    "title": "Cervus dama",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55a351caed2a89158b0003ef.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.653733,
+     -37.430341
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/5546cae7ed2a89c9bd000213.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F5546cae7ed2a89c9bd000213.yaml",
+    "date": "2015-05-04",
+    "title": "Petroica boodang"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.650171,
+     -37.426763
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/55308bdaed2a8952830000a4.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F55308bdaed2a8952830000a4.yaml",
+    "date": "2015-04-15",
+    "title": "Vombatus ursinus"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654717,
+     -37.431078
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/54fbdb05ed2a8904e80000f7.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F54fbdb05ed2a8904e80000f7.yaml",
+    "date": "2015-03-08",
+    "title": "Tachyglossus aculeatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54fbdb05ed2a8904e80000f6.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.663207,
+     -37.436566
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/54cf49c6ed2a8980b7000491.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F54cf49c6ed2a8980b7000491.yaml",
+    "date": "2015-02-02",
+    "title": "Tachyglossus aculeatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54cf49c6ed2a8980b7000490.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.336951,
+     -36.841233
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/54ce073fed2a899aeb0003df.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F54ce073fed2a899aeb0003df.yaml",
+    "date": "2015-01-26",
+    "title": "Canis lupus dingo"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.281791,
+     -36.86326
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/54ce0567ed2a899aeb0003d4.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F54ce0567ed2a899aeb0003d4.yaml",
+    "date": "2015-01-26",
+    "title": "Eulamprus spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ce0567ed2a899aeb0003d3.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.653733,
+     -37.430341
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/54ce052ded2a899aeb0003d0.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F54ce052ded2a899aeb0003d0.yaml",
+    "date": "2015-02-01",
+    "title": "Tachyglossus aculeatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ce052ded2a899aeb0003ce.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.526314,
+     -37.354897
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/54ca03d1ed2a8971510001a9.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F54ca03d1ed2a8971510001a9.yaml",
+    "date": "2015-01-29",
+    "title": "Phalaenoides glycinae",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ca03d1ed2a8971510001a8.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.635047,
+     -37.421846
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2015/54bcf1a5ed2a894a480000db.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F54bcf1a5ed2a894a480000db.yaml",
+    "date": "2015-01-19",
+    "title": "Cervus dama",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54bcf1a5ed2a894a480000d8.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654607,
+     -37.430824
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2014/54240044e35eb16af90000ac.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2014%2F54240044e35eb16af90000ac.yaml",
+    "date": "2014-09-24",
+    "title": "Scioglyptis chionomera",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54240043e35eb16af90000ab.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.683249,
+     -37.458529
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2014/54224389e35eb17d190000e1.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2014%2F54224389e35eb17d190000e1.yaml",
+    "date": "2014-09-24",
+    "title": "Poecilometis spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54224388e35eb17d190000df.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654623,
+     -37.430852
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2014/541f80a7e35eb1d6e50000a1.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2014%2F541f80a7e35eb1d6e50000a1.yaml",
+    "date": "2014-09-22",
+    "title": "Tachyglossus aculeatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/541f80a6e35eb1d6e500009f.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.635708,
+     -37.422448
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2014/541ac264e35eb1d53d00002b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2014%2F541ac264e35eb1d53d00002b.yaml",
+    "date": "2014-09-18",
+    "title": "Vombatus ursinus"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654291,
+     -37.431184
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2014/541ac0fce35eb1d53d000029.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2014%2F541ac0fce35eb1d53d000029.yaml",
+    "date": "2014-09-11",
+    "title": "Vombatus ursinus"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.327133,
+     -34.139008
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2014/541985c5e35eb1bbf90000bb.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2014%2F541985c5e35eb1bbf90000bb.yaml",
+    "date": "2014-09-03",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/541985c5e35eb1bbf90000b9.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.322464,
+     -34.759525
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2014/54198241e35eb1bbf90000af.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2014%2F54198241e35eb1bbf90000af.yaml",
+    "date": "2014-09-03",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54198241e35eb1bbf90000ae.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.318039,
+     -34.760108
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2014/54197ea2e35eb109b700005d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2014%2F54197ea2e35eb109b700005d.yaml",
+    "date": "2014-09-03",
+    "title": "Prostanthera serpyllifolia subsp. microphylla",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54197ea2e35eb109b700005b.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.368667,
+     -34.243328
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2014/541978fbe35eb1bbf9000096.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2014%2F541978fbe35eb1bbf9000096.yaml",
+    "date": "2014-09-04",
+    "title": "Rhodanthe corymbiflora",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/541978fbe35eb1bbf9000093.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.369553,
+     -34.244342
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2014/541971fee35eb109b700002f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2014%2F541971fee35eb109b700002f.yaml",
+    "date": "2014-09-04",
+    "title": "Blaps polychresta",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/541971fee35eb109b700002c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.88025,
+     -34.709062
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2014/540d2bede35eb1758800005a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2014%2F540d2bede35eb1758800005a.yaml",
+    "date": "2014-09-08",
+    "title": "Tiliqua rugosa",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/540d2bece35eb17588000059.png"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.345445,
+     -37.330417
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2014/53f8343be35eb1ff420000b2.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2014%2F53f8343be35eb1ff420000b2.yaml",
+    "date": "2014-08-23",
+    "title": "Pterostylis melagramma",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53f8343ae35eb1ff420000b1.png"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.683212,
+     -37.458368
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2011/53b3984fe35eb1298400e586.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e586.yaml",
+    "date": "2011-03-28",
+    "title": "Caedicia simplex",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011879.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654609,
+     -37.43105
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2011/53b3984fe35eb1298400e403.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e403.yaml",
+    "date": "2011-02-12",
+    "title": "Papilio aegeus aegeus"
+   }
+  }
+ ]
+}

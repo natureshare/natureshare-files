@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Wildlife Of Heart Morass",
+ "description": "All users for [wildlife_of_heart_morass]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fwildlife_of_heart_morass%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/wildlife_of_heart_morass/index.json",
+ "items": [
+  {
+   "title": "suzanne",
+   "content_text": "24 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/540ab8b6e35eb17a7300000b.JPG",
+   "date_published": "2014-09-06T07:33:10.000+00:00",
+   "date_modified": "2014-09-06T07:33:10.000+00:00",
+   "_geo": {
+    "coordinates": [
+     147.211299,
+     -38.125137
+    ]
+   },
+   "_meta": {
+    "itemCount": 24,
+    "date": "2014-09-06",
+    "name": "wildlife_of_heart_morass",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/suzanne/collections/wildlife_of_heart_morass/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsuzanne%2Fcollections%2Fwildlife_of_heart_morass%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

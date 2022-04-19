@@ -1,0 +1,73 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Anglesea Heath Flora And Fauna",
+ "description": "",
+ "author": {
+  "name": "jylu",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fcollections%2Fanglesea_heath_flora_and_fauna%2Findex.json",
+ "feed_url": "https://files.natureshare.org/jylu/collections/anglesea_heath_flora_and_fauna/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/jylu/items/ns/2016/57f4c14aed2a89450f008aba.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fitems%2Fns%2F2016%2F57f4c14aed2a89450f008aba.yaml",
+   "title": "Drosera pygmaea",
+   "content_text": "Very tiny sundew.\r\nGrow just under Thelymitra flexuosa.\r\nNot in the current collection either.\r\nDidn't get a clear photo though.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f4c171ed2a89b3fe0000de.JPG",
+   "date_published": "2016-10-05T09:04:51.000+00:00",
+   "date_modified": "2016-10-12T09:44:40.000+00:00",
+   "tags": [
+    "id~Drosera pygmaea",
+    "tag~flower-buds"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.181895,
+     -38.401406
+    ]
+   },
+   "_meta": {
+    "date": "2016-10-02",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "jylu",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/jylu/items/ns/2016/57f4bf26ed2a89450f008ab5.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fitems%2Fns%2F2016%2F57f4bf26ed2a89450f008ab5.yaml",
+   "title": "Drosera glanduligera",
+   "content_text": "Not recorded in the current collection.\r\nThe most common sundew in the adjacent region.\r\nAlso, D. auriculata and D. pygmaea grow in the same area.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57f4bf53ed2a89d73e0000e3.JPG",
+   "date_published": "2016-10-05T08:59:22.000+00:00",
+   "date_modified": "2016-10-12T09:44:21.000+00:00",
+   "tags": [
+    "id~Drosera glanduligera",
+    "tag~flower"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.181882,
+     -38.401478
+    ]
+   },
+   "_meta": {
+    "date": "2016-10-02",
+    "imageCount": 3
+   },
+   "author": {
+    "name": "jylu",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

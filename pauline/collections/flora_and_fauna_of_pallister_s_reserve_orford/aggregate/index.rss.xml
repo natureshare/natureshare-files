@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/pauline/collections/flora_and_fauna_of_pallister_s_reserve_orford/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Flora and Fauna of Pallister's Reserve, Orford</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpauline%2Fcollections%2Fflora_and_fauna_of_pallister_s_reserve_orford%2Faggregate%2Findex.json</link>
+    <description>Pallister's Reserve is a Trust for Nature property in the south west of Victoria.</description>
+    <language>en-us</language>
+    <copyright>© 2022 pauline</copyright>
+    <pubDate>Mon, 02 Jan 2017 10:07:51 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Platycercus elegans elegans</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpauline%2Fitems%2Fns%2F2017%2F58689383ed2a89748000c0d6.yaml</link>
+      <dc:creator>pauline</dc:creator>
+      <description>Beautiful capture of this handsome rosella</description>
+      <category>id~Platycercus elegans elegans</category>
+      <category>tag~bird</category>
+      <guid isPermaLink="false">https://files.natureshare.org/pauline/items/ns/2017/58689383ed2a89748000c0d6.yaml</guid>
+      <pubDate>Sun, 01 Jan 2017 05:34:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Comesperma volubile</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpauline%2Fitems%2Fns%2F2016%2F57ea44f0ed2a89073d000003.yaml</link>
+      <dc:creator>pauline</dc:creator>
+      <description>-</description>
+      <category>id~Comesperma volubile</category>
+      <category>tag~plant</category>
+      <guid isPermaLink="false">https://files.natureshare.org/pauline/items/ns/2016/57ea44f0ed2a89073d000003.yaml</guid>
+      <pubDate>Tue, 27 Sep 2016 10:17:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthus novaeseelandiae</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpauline%2Fitems%2Fns%2F2016%2F57ea44afed2a89450f0078aa.yaml</link>
+      <dc:creator>pauline</dc:creator>
+      <description>-</description>
+      <category>id~Anthus novaeseelandiae</category>
+      <category>tag~bird</category>
+      <guid isPermaLink="false">https://files.natureshare.org/pauline/items/ns/2016/57ea44afed2a89450f0078aa.yaml</guid>
+      <pubDate>Tue, 27 Sep 2016 10:16:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Phaps chalcoptera</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpauline%2Fitems%2Fns%2F2016%2F57ea44b9ed2a89450f0078ac.yaml</link>
+      <dc:creator>pauline</dc:creator>
+      <description>Male and female common bronzewing</description>
+      <category>id~Phaps chalcoptera</category>
+      <category>tag~bird</category>
+      <guid isPermaLink="false">https://files.natureshare.org/pauline/items/ns/2016/57ea44b9ed2a89450f0078ac.yaml</guid>
+      <pubDate>Tue, 27 Sep 2016 10:15:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pardalotus punctatus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpauline%2Fitems%2Fns%2F2016%2F57ea44d3ed2a89450f0078ae.yaml</link>
+      <dc:creator>pauline</dc:creator>
+      <description>-</description>
+      <category>id~Pardalotus punctatus</category>
+      <category>tag~bird</category>
+      <guid isPermaLink="false">https://files.natureshare.org/pauline/items/ns/2016/57ea44d3ed2a89450f0078ae.yaml</guid>
+      <pubDate>Tue, 27 Sep 2016 10:13:42 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

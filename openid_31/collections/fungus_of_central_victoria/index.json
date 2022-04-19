@@ -1,0 +1,71 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Fungus Of Central Victoria",
+ "description": "",
+ "author": {
+  "name": "openid_31",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fcollections%2Ffungus_of_central_victoria%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_31/collections/fungus_of_central_victoria/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e7dc.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e7dc.yaml",
+   "title": "Fungi spp.",
+   "content_text": "Boletus species?",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b89.jpg",
+   "date_published": "2011-05-27T21:27:29.000+00:00",
+   "date_modified": "2011-05-27T21:33:13.000+00:00",
+   "tags": [
+    "id~Fungi spp."
+   ],
+   "_geo": {
+    "coordinates": [
+     144.596193,
+     -37.39106
+    ]
+   },
+   "_meta": {
+    "date": "2010-04-30",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_31",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e7da.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e7da.yaml",
+   "title": "Fungi spp.",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011b87.jpg",
+   "date_published": "2011-05-27T21:19:26.000+00:00",
+   "date_modified": "2011-05-27T21:23:43.000+00:00",
+   "tags": [
+    "id~Fungi spp."
+   ],
+   "_geo": {
+    "coordinates": [
+     144.406646,
+     -37.278359
+    ]
+   },
+   "_meta": {
+    "date": "2010-04-26",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_31",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

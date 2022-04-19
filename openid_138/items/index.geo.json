@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.708765,
+     -38.515769
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_138/items/ns/2012/53b39855e35eb1298400f9ff.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_138%2Fitems%2Fns%2F2012%2F53b39855e35eb1298400f9ff.yaml",
+    "date": "2012-09-20",
+    "title": "Peltoschema orphana",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb129840132fc.jpg"
+   }
+  }
+ ]
+}

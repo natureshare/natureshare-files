@@ -1,0 +1,37 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "nicb",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fnicb%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fnicb%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/nicb/collections/index.json",
+ "items": [
+  {
+   "title": "Frankston nature conservation reserve",
+   "content_text": "1 items",
+   "date_published": "2017-05-09T13:36:35.000+00:00",
+   "date_modified": "2017-05-09T13:36:35.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-05-09",
+    "name": "frankston_nature_conservation_reserve",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/nicb/collections/frankston_nature_conservation_reserve/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fnicb%2Fcollections%2Ffrankston_nature_conservation_reserve%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

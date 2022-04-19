@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Grey River",
+ "description": "All users for [grey_river]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fgrey_river%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/grey_river/index.json",
+ "items": [
+  {
+   "title": "tsnata",
+   "content_text": "222 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_53b39818e35eb12984000026/2019-02-22/1550832807/bird-GR.jpg",
+   "date_published": "2019-02-22T10:55:08.000+00:00",
+   "date_modified": "2019-02-22T10:55:08.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.839391,
+     -38.684204
+    ]
+   },
+   "_meta": {
+    "itemCount": 222,
+    "date": "2019-02-22",
+    "name": "grey_river",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/tsnata/collections/grey_river/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fgrey_river%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "openid_53",
+   "content_text": "13 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb12984013509.jpg",
+   "date_published": "2012-11-12T22:02:54.000+00:00",
+   "date_modified": "2012-11-12T22:02:54.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.839,
+     -38.684
+    ]
+   },
+   "_meta": {
+    "itemCount": 13,
+    "date": "2012-11-12",
+    "name": "grey_river",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_53/collections/grey_river/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_53%2Fcollections%2Fgrey_river%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

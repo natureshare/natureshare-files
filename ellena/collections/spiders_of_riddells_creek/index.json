@@ -1,0 +1,71 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Spiders Of Riddells Creek",
+ "description": "",
+ "author": {
+  "name": "ellena",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fellena%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fellena%2Fcollections%2Fspiders_of_riddells_creek%2Findex.json",
+ "feed_url": "https://files.natureshare.org/ellena/collections/spiders_of_riddells_creek/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/ellena/items/ns/2015/54e25ec7ed2a89d99000032a.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fellena%2Fitems%2Fns%2F2015%2F54e25ec7ed2a89d99000032a.yaml",
+   "title": "Isopeda montana",
+   "content_text": "I found it in the corner of the wall in front of my bedroom. It caught a moth at about 8:00am this morning.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e25ec6ed2a89d990000329.jpg",
+   "date_published": "2015-02-16T21:19:03.000+00:00",
+   "date_modified": "2015-02-17T10:47:44.000+00:00",
+   "tags": [
+    "id~Isopeda montana"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.654843,
+     -37.430878
+    ]
+   },
+   "_meta": {
+    "date": "2015-02-16",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "ellena",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fellena%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/ellena/items/ns/2013/53b39856e35eb1298400feba.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fellena%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400feba.yaml",
+   "title": "Philoponella congregabilis",
+   "content_text": "Very small spider wrapping up an insect - spotted on the outside of my bedroom window. Photos by Russell Best.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013a4f.jpg",
+   "date_published": "2013-02-21T19:14:51.000+00:00",
+   "date_modified": "2013-02-21T19:26:49.000+00:00",
+   "tags": [
+    "id~Philoponella congregabilis"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.654767,
+     -37.430893
+    ]
+   },
+   "_meta": {
+    "date": "2013-02-17",
+    "imageCount": 3
+   },
+   "author": {
+    "name": "ellena",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fellena%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

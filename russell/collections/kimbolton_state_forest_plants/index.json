@@ -1,0 +1,200 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Kimbolton State Forest Plants",
+ "description": "",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fkimbolton_state_forest_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/kimbolton_state_forest_plants/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2011/53b39851e35eb1298400ec19.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ec19.yaml",
+   "title": "8 ids",
+   "content_text": "Brief survey on APS Keilor Plains field trip.",
+   "date_published": "2011-09-19T13:28:57.000+00:00",
+   "date_modified": "2014-08-23T13:23:03.000+00:00",
+   "tags": [
+    "id~Acrotriche serrulata",
+    "id~Brachyloma daphnoides",
+    "id~Cassinia arcuata",
+    "id~Cheilanthes sieberi subsp. sieberi",
+    "id~Dianella admixta",
+    "id~Drosera whittakeri subsp. aberrans",
+    "id~Hydrocotyle laxiflora",
+    "id~Lomandra filiformis",
+    "tag~survey"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.479507,
+     -36.941116
+    ]
+   },
+   "_meta": {
+    "date": "2011-09-16"
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2011/53b39851e35eb1298400ec11.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ec11.yaml",
+   "title": "13 ids",
+   "content_text": "Brief survey as part of an APS Keilor Plains field trip. Three new species for the Kimbolton collection - Senecio quadridentatus, Thysanotus patersonii, Pimelea linifolia. Geranium had white flowers in pairs & long patent hairs on stem.",
+   "date_published": "2011-09-18T20:23:16.000+00:00",
+   "date_modified": "2011-09-19T13:39:25.000+00:00",
+   "tags": [
+    "id~Acacia paradoxa",
+    "id~Acacia pycnantha",
+    "id~Diuris chryseopsis",
+    "id~Geranium solanderi s.l.",
+    "id~Gonocarpus tetragynus",
+    "id~Hardenbergia violacea",
+    "id~Microseris walteri",
+    "id~Pimelea linifolia",
+    "id~Senecio quadridentatus",
+    "id~Tetratheca ciliata",
+    "id~Thysanotus patersonii",
+    "id~Wurmbea dioica",
+    "id~Xerochrysum viscosum",
+    "tag~flower",
+    "tag~survey"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.479507,
+     -36.941116
+    ]
+   },
+   "_meta": {
+    "date": "2011-09-16"
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2015/kimbolton_state_forest_plants_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Fkimbolton_state_forest_plants_species_list.yaml",
+   "title": "87 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2011-03-08T21:23:32.000+00:00",
+   "date_modified": "2015-04-07T08:47:35.000+00:00",
+   "tags": [
+    "id~Acacia acinacea s.s.",
+    "id~Acacia ausfeldii",
+    "id~Acacia baileyana",
+    "id~Acacia dealbata",
+    "id~Acacia genistifolia",
+    "id~Acacia implexa",
+    "id~Acacia paradoxa",
+    "id~Acacia provincialis",
+    "id~Acacia pycnantha",
+    "id~Acaena echinata",
+    "id~Acrotriche serrulata",
+    "id~Alternanthera denticulata s.l.",
+    "id~Amyema miquelii",
+    "id~Arthropodium strictum s.s.",
+    "id~Astroloma humifusum",
+    "id~Brachyloma daphnoides",
+    "id~Briza maxima",
+    "id~Brunonia australis",
+    "id~Burchardia umbellata",
+    "id~Caladenia carnea sensu Willis (1970)",
+    "id~Cassinia arcuata",
+    "id~Cheilanthes austrotenuifolia",
+    "id~Cheilanthes sieberi subsp. sieberi",
+    "id~Chrysocephalum semipapposum",
+    "id~Cicendia filiformis",
+    "id~Clematis microphylla s.l.",
+    "id~Craspedia variabilis",
+    "id~Cymbonotus preissianus",
+    "id~Cyperus eragrostis",
+    "id~Daucus glochidiatus",
+    "id~Daviesia leptophylla",
+    "id~Dianella admixta",
+    "id~Dillwynia sericea",
+    "id~Diuris chryseopsis",
+    "id~Drosera peltata subsp. auriculata",
+    "id~Drosera peltata subsp. peltata",
+    "id~Drosera whittakeri subsp. aberrans",
+    "id~Eleocharis pusilla",
+    "id~Eriochilus cucullatus",
+    "id~Eucalyptus camaldulensis",
+    "id~Eucalyptus goniocalyx s.l.",
+    "id~Eucalyptus leucoxylon subsp. pruinosa",
+    "id~Eucalyptus macrorhyncha",
+    "id~Eucalyptus melliodora",
+    "id~Eucalyptus microcarpa",
+    "id~Eucalyptus polyanthemos subsp. vestita",
+    "id~Eucalyptus tricarpa",
+    "id~Exocarpos cupressiformis",
+    "id~Geranium solanderi s.l.",
+    "id~Glossodia major",
+    "id~Gonocarpus tetragynus",
+    "id~Goodenia blackiana",
+    "id~Grevillea alpina",
+    "id~Hardenbergia violacea",
+    "id~Hibbertia exutiacies",
+    "id~Hydrocotyle callicarpa",
+    "id~Hydrocotyle foveolata",
+    "id~Hydrocotyle laxiflora",
+    "id~Hypericum gramineum",
+    "id~Hypochoeris glabra",
+    "id~Hypoxis vaginata var. vaginata",
+    "id~Isolepis marginata",
+    "id~Isotoma fluviatilis subsp. australis",
+    "id~Joycea pallida",
+    "id~Juncus amabilis",
+    "id~Juncus remotiflorus",
+    "id~Leptorhynchos squamatus",
+    "id~Lomandra filiformis",
+    "id~Luzula meridionalis var. densiflora",
+    "id~Melichrus urceolatus",
+    "id~Microseris sp. 3",
+    "id~Ozothamnus obcordatus",
+    "id~Pelargonium rodneyanum",
+    "id~Persicaria prostrata",
+    "id~Pimelea humilis",
+    "id~Pimelea linifolia",
+    "id~Plantago varia",
+    "id~Pultenaea largiflorens",
+    "id~Ranunculus lappaceus",
+    "id~Senecio quadridentatus",
+    "id~Siloxerus multiflorus",
+    "id~Tetratheca ciliata",
+    "id~Themeda triandra",
+    "id~Thysanotus patersonii",
+    "id~Tricoryne elatior",
+    "id~Wurmbea dioica",
+    "id~Xerochrysum viscosum",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.50592,
+     -36.915313
+    ]
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

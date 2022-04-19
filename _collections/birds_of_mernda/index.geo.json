@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.09475,
+     -37.587133
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/peterf/collections/birds_of_mernda/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpeterf%2Fcollections%2Fbirds_of_mernda%2Faggregate%2Findex.json",
+    "date": "2014-12-24",
+    "title": "peterf",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/549a9470e35eb14400000020.JPG"
+   }
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.15097,
+     -34.195901
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/murray_sunset_np_north_flora_north_of_sturt_hwy/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmurray_sunset_np_north_flora_north_of_sturt_hwy%2Faggregate%2Findex.json",
+    "date": "2013-11-21",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ae35eb12984014875.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.259,
+     -34.223
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/collections/murray_sunset_np_north_flora_north_of_sturt_hwy/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fcollections%2Fmurray_sunset_np_north_flora_north_of_sturt_hwy%2Faggregate%2Findex.json",
+    "date": "2013-07-18",
+    "title": "chrisl",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014137.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.208,
+     -34.179
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/collections/murray_sunset_np_north_flora_north_of_sturt_hwy/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fmurray_sunset_np_north_flora_north_of_sturt_hwy%2Faggregate%2Findex.json",
+    "date": "2012-04-13",
+    "title": "jamesbooth",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012c57.jpg"
+   }
+  }
+ ]
+}

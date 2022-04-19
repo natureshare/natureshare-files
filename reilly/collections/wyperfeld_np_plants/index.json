@@ -1,0 +1,72 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Wyperfeld Np Plants",
+ "description": "",
+ "author": {
+  "name": "reilly",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fcollections%2Fwyperfeld_np_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/reilly/collections/wyperfeld_np_plants/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/reilly/items/ns/2014/53c501e2e35eb1387b00002f.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2014%2F53c501e2e35eb1387b00002f.yaml",
+   "title": "Unidentified",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53c501e2e35eb1387b00002d.JPG",
+   "date_published": "2014-07-15T10:26:42.000+00:00",
+   "date_modified": "2014-11-09T23:52:53.000+00:00",
+   "tags": [
+    "id~Unidentified",
+    "tag~landscape"
+   ],
+   "_geo": {
+    "coordinates": [
+     142,
+     -35.5
+    ]
+   },
+   "_meta": {
+    "date": "2013-05-11",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "reilly",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/reilly/items/ns/2014/53c50128e35eb11bc6000036.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2014%2F53c50128e35eb11bc6000036.yaml",
+   "title": "Triodia spp.",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53c50127e35eb11bc6000035.jpg",
+   "date_published": "2014-07-15T10:23:36.000+00:00",
+   "date_modified": "2014-07-15T11:45:14.000+00:00",
+   "tags": [
+    "id~Triodia spp."
+   ],
+   "_geo": {
+    "coordinates": [
+     142,
+     -35.5
+    ]
+   },
+   "_meta": {
+    "date": "2013-05-11",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "reilly",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

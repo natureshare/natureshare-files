@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.494342,
+     -37.653525
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/items/ns/2014/54310581e35eb10cb3000006.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Fns%2F2014%2F54310581e35eb10cb3000006.yaml",
+    "date": "2014-09-29",
+    "title": "Asparagus asparagoides",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54310581e35eb10cb3000005.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.495456,
+     -37.651058
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/items/ns/2014/543104fde35eb1bbd000001e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Fns%2F2014%2F543104fde35eb1bbd000001e.yaml",
+    "date": "2014-09-29",
+    "title": "Eutaxia microphylla var. diffusa",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/543104fce35eb1bbd000001d.JPG"
+   }
+  }
+ ]
+}

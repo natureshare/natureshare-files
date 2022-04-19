@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Wcmnunburntsite 05",
+ "description": "All users for [wcmnunburntsite05]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fwcmnunburntsite05%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/wcmnunburntsite05/index.json",
+ "items": [
+  {
+   "title": "barrietaylor",
+   "content_text": "22 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545dabcfe35eb16b53000013.jpg",
+   "date_published": "2014-11-08T05:36:16.000+00:00",
+   "date_modified": "2014-11-08T05:36:16.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.633,
+     -36.392
+    ]
+   },
+   "_meta": {
+    "itemCount": 22,
+    "date": "2014-11-08",
+    "name": "wcmnunburntsite05",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/barrietaylor/collections/wcmnunburntsite05/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbarrietaylor%2Fcollections%2Fwcmnunburntsite05%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

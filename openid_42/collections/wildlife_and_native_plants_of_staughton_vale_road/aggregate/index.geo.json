@@ -1,0 +1,54 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.282138,
+     -37.841377
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_42/items/ns/2011/53b39851e35eb1298400eadc.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400eadc.yaml",
+    "date": "2011-08-24",
+    "title": "Chthonicola sagittata"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.282203,
+     -37.841479
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_42/items/ns/2011/53b39851e35eb1298400eadb.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400eadb.yaml",
+    "date": "2011-08-24",
+    "title": "Chthonicola sagittata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011f37.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.282428,
+     -37.843038
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_42/items/ns/2015/wildlife_and_native_plants_of_staughton_vale_road_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Fns%2F2015%2Fwildlife_and_native_plants_of_staughton_vale_road_species_list.yaml",
+    "date": "2015-04-07",
+    "title": "11 ids"
+   }
+  }
+ ]
+}

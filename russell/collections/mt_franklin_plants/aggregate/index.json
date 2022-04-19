@@ -1,0 +1,158 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Mt Franklin - Plants",
+ "description": "Initial species list (32 species) compiled by Ern Perkins and the Castlemaine Field Nats.",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmt_franklin_plants%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/mt_franklin_plants/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/jamesbooth/items/ns/2011/53b39851e35eb1298400e9d1.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e9d1.yaml",
+   "title": "Poa labillardierei",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011e07.jpg",
+   "date_published": "2011-07-30T22:50:16.000+00:00",
+   "date_modified": "2011-07-30T22:51:46.000+00:00",
+   "tags": [
+    "id~Poa labillardierei"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.151525,
+     -37.264149
+    ]
+   },
+   "_meta": {
+    "date": "2011-02-25",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "jamesbooth",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/jamesbooth/items/ns/2011/53b39851e35eb1298400e9d0.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e9d0.yaml",
+   "title": "Wahlenbergia communis s.s.",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011e06.jpg",
+   "date_published": "2011-07-30T22:47:02.000+00:00",
+   "date_modified": "2011-07-30T22:49:06.000+00:00",
+   "tags": [
+    "id~Wahlenbergia communis s.s.",
+    "tag~flower"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.150581,
+     -37.262783
+    ]
+   },
+   "_meta": {
+    "date": "2011-02-25",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "jamesbooth",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/jamesbooth/items/ns/2011/53b39851e35eb1298400e9cc.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e9cc.yaml",
+   "title": "Hydrocotyle laxiflora",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011e01.jpg",
+   "date_published": "2011-07-30T22:04:54.000+00:00",
+   "date_modified": "2011-07-30T22:07:46.000+00:00",
+   "tags": [
+    "id~Hydrocotyle laxiflora"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.151504,
+     -37.262936
+    ]
+   },
+   "_meta": {
+    "date": "2011-02-25",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "jamesbooth",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2015/mt_franklin_plants_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Fmt_franklin_plants_species_list.yaml",
+   "title": "34 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2011-03-08T21:47:38.000+00:00",
+   "date_modified": "2015-04-07T08:47:35.000+00:00",
+   "tags": [
+    "id~Acacia dealbata",
+    "id~Acacia decurrens",
+    "id~Acaena novae-zelandiae",
+    "id~Agrostis capillaris var. capillaris",
+    "id~Austrodanthonia fulva",
+    "id~Austrodanthonia racemosa var. racemosa",
+    "id~Briza maxima",
+    "id~Cassinia arcuata",
+    "id~Chamaecytisus palmensis",
+    "id~Cirsium vulgare",
+    "id~Dactylis glomerata",
+    "id~Dianella admixta",
+    "id~Dittrichia graveolens",
+    "id~Exocarpos cupressiformis",
+    "id~Geranium solanderi s.l.",
+    "id~Hydrocotyle laxiflora",
+    "id~Hypochoeris radicata",
+    "id~Juncus amabilis",
+    "id~Kennedia prostrata",
+    "id~Lactuca serriola",
+    "id~Mentha X piperita",
+    "id~Pelargonium rodneyanum",
+    "id~Poa labillardierei",
+    "id~Prunella vulgaris",
+    "id~Pteridium esculentum",
+    "id~Rubus fruticosus spp. agg.",
+    "id~Senecio phelleus",
+    "id~Soliva sessilis",
+    "id~Sonchus oleraceus",
+    "id~Stellaria pungens",
+    "id~Trifolium arvense var. arvense",
+    "id~Trifolium repens var. repens",
+    "id~Verbascum virgatum",
+    "id~Wahlenbergia communis s.l.",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.150496,
+     -37.267086
+    ]
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 4,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": "<p>Initial species list (32 species) compiled by Ern Perkins and the Castlemaine Field Nats.</p>\n"
+ }
+}

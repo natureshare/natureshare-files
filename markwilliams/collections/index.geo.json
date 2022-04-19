@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.086875,
+     -37.50753
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/collections/eucalypts_of_whittlesea_and_surrounds/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fcollections%2Feucalypts_of_whittlesea_and_surrounds%2Faggregate%2Findex.json",
+    "date": "2017-12-21",
+    "title": "Eucalypts of Whittlesea and surrounds",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a3c3488ed2a893fb7000057.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.111,
+     -37.537
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/collections/birds_of_whittlesea/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fcollections%2Fbirds_of_whittlesea%2Faggregate%2Findex.json",
+    "date": "2017-12-14",
+    "title": "Birds of whittlesea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a330286ed2a890e9e00001b.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.161,
+     -37.486
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/collections/wattles_of_whittlesea_and_surrounds/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fcollections%2Fwattles_of_whittlesea_and_surrounds%2Faggregate%2Findex.json",
+    "date": "2014-09-22",
+    "title": "Wattles of whittlesea and surrounds",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5420a844e35eb158b10000d4.jpg"
+   }
+  }
+ ]
+}

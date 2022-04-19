@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Mortlake Common",
+ "description": "All users for [mortlake_common]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fmortlake_common%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/mortlake_common/index.json",
+ "items": [
+  {
+   "title": "banksiaman",
+   "content_text": "12 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55fe9073ed2a890d950001e3.JPG",
+   "date_published": "2015-09-20T10:54:29.000+00:00",
+   "date_modified": "2015-09-20T10:54:29.000+00:00",
+   "_geo": {
+    "coordinates": [
+     142.771328,
+     -38.057291
+    ]
+   },
+   "_meta": {
+    "itemCount": 12,
+    "date": "2015-09-20",
+    "name": "mortlake_common",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/banksiaman/collections/mortlake_common/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fcollections%2Fmortlake_common%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

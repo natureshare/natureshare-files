@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Butterflies Of The Macedon Range",
+ "description": "All users for [butterflies_of_the_macedon_range]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fbutterflies_of_the_macedon_range%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/butterflies_of_the_macedon_range/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "32 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a8e974ded2a8966a0000072.jpg",
+   "date_published": "2018-02-22T10:13:05.000+00:00",
+   "date_modified": "2018-02-22T10:13:05.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.615664,
+     -37.393619
+    ]
+   },
+   "_meta": {
+    "itemCount": 32,
+    "date": "2018-02-22",
+    "name": "butterflies_of_the_macedon_range",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/butterflies_of_the_macedon_range/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fbutterflies_of_the_macedon_range%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "david_francis",
+   "content_text": "4 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a8e974ded2a8966a0000072.jpg",
+   "date_published": "2018-02-22T10:13:05.000+00:00",
+   "date_modified": "2018-02-22T10:13:05.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.595,
+     -37.392
+    ]
+   },
+   "_meta": {
+    "itemCount": 4,
+    "date": "2018-02-22",
+    "name": "butterflies_of_the_macedon_range",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/david_francis/collections/butterflies_of_the_macedon_range/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fbutterflies_of_the_macedon_range%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

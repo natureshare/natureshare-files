@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.821633,
+     -37.799162
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_80/items/ns/2011/53b39851e35eb1298400ec55.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_80%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ec55.yaml",
+    "date": "2010-03-11",
+    "title": "Accipiter fasciatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840120f5.jpg"
+   }
+  }
+ ]
+}

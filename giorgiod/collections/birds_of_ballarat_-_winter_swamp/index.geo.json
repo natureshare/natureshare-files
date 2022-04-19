@@ -1,0 +1,54 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.783378,
+     -37.538308
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/giorgiod/items/ns/2016/57eeac8aed2a89450f00805d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Fns%2F2016%2F57eeac8aed2a89450f00805d.yaml",
+    "date": "2016-09-30",
+    "title": "Todiramphus sanctus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57eeaca4ed2a89d73e0000b8.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.788085,
+     -37.536394
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/giorgiod/items/ns/2016/57eea22ded2a89450f00800b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Fns%2F2016%2F57eea22ded2a89450f00800b.yaml",
+    "date": "2016-07-09",
+    "title": "25 ids"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.78757,
+     -37.536938
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/giorgiod/items/ns/2016/birds_of_ballarat_-_winter_swamp_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Fns%2F2016%2Fbirds_of_ballarat_-_winter_swamp_species_list.yaml",
+    "date": "2016-09-30",
+    "title": "87 ids"
+   }
+  }
+ ]
+}

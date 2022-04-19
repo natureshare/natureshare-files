@@ -1,0 +1,47 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Wilsons prom np plants",
+ "description": "",
+ "author": {
+  "name": "cclarke",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fcollections%2Fwilsons_prom_np_plants%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/cclarke/collections/wilsons_prom_np_plants/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/cclarke/items/ns/2013/53b39859e35eb129840107d8.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2013%2F53b39859e35eb129840107d8.yaml",
+   "title": "Todea barbara",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ae35eb129840148f5.jpg",
+   "date_published": "2013-11-23T21:11:19.000+00:00",
+   "date_modified": "2014-07-02T18:42:03.000+00:00",
+   "tags": [
+    "id~Todea barbara"
+   ],
+   "_geo": {
+    "coordinates": [
+     146.294037,
+     -39.012103
+    ]
+   },
+   "_meta": {
+    "date": "2013-10-06",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "cclarke",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

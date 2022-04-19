@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "nativeplantlover",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fnativeplantlover%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fnativeplantlover%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/nativeplantlover/collections/index.json",
+ "items": [
+  {
+   "title": "Doherty Road Grasslands",
+   "content_text": "11 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56d4068aed2a890be7000090.JPG",
+   "date_published": "2016-02-29T08:56:38.000+00:00",
+   "date_modified": "2016-02-29T08:56:38.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.040226,
+     -37.731065
+    ]
+   },
+   "_meta": {
+    "itemCount": 11,
+    "date": "2016-02-29",
+    "name": "doherty_road_grasslands",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/nativeplantlover/collections/doherty_road_grasslands/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fnativeplantlover%2Fcollections%2Fdoherty_road_grasslands%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Collections</title>
+  <id>https://files.natureshare.org/zeke1944/collections/index.xml</id>
+  <updated>2019-11-20T06:32:46.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/zeke1944/collections/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/zeke1944/collections/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fzeke1944%2Fcollections%2Findex.json"/>
+  <author>
+    <name>zeke1944</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fzeke1944%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 zeke1944</rights>
+  <entry>
+    <id>https://files.natureshare.org/zeke1944/collections/hattah_kulkyne_np_plants/aggregate/index.json</id>
+    <title>Hattah kulkyne np plants</title>
+    <updated>2019-11-20T06:32:46.000+00:00</updated>
+    <published>2019-11-20T06:32:46.000+00:00</published>
+    <author>
+      <name>zeke1944</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fzeke1944%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">1 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fzeke1944%2Fcollections%2Fhattah_kulkyne_np_plants%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/zeke1944/collections/wombat_forest_-_fungi/aggregate/index.json</id>
+    <title>Wombat forest - fungi</title>
+    <updated>2019-09-08T12:04:00.000+00:00</updated>
+    <published>2019-09-08T12:04:00.000+00:00</published>
+    <author>
+      <name>zeke1944</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fzeke1944%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">31 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fzeke1944%2Fcollections%2Fwombat_forest_-_fungi%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/zeke1944/collections/dryland_fungi/aggregate/index.json</id>
+    <title>Dryland Fungi</title>
+    <updated>2019-07-31T05:11:07.000+00:00</updated>
+    <published>2019-07-31T05:11:07.000+00:00</published>
+    <author>
+      <name>zeke1944</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fzeke1944%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">25 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fzeke1944%2Fcollections%2Fdryland_fungi%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/zeke1944/collections/otway_ranges_-_fungi/aggregate/index.json</id>
+    <title>Otway ranges - fungi</title>
+    <updated>2019-07-01T07:39:58.000+00:00</updated>
+    <published>2019-07-01T07:39:58.000+00:00</published>
+    <author>
+      <name>zeke1944</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fzeke1944%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">80 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fzeke1944%2Fcollections%2Fotway_ranges_-_fungi%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/zeke1944/collections/macedon_ranges_-_fungi/aggregate/index.json</id>
+    <title>Macedon ranges - fungi</title>
+    <updated>2018-08-09T05:09:33.000+00:00</updated>
+    <published>2018-08-09T05:09:33.000+00:00</published>
+    <author>
+      <name>zeke1944</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fzeke1944%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">3 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fzeke1944%2Fcollections%2Fmacedon_ranges_-_fungi%2Faggregate%2Findex.json"/>
+  </entry>
+</feed>

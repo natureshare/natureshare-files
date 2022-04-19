@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/cath/items/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Observations</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcath%2Fitems%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 cath</copyright>
+    <pubDate>Tue, 25 Dec 2018 21:10:46 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Paracaudina bacillis</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcath%2Fitems%2Fns%2F2018%2F5c229cd63abbd6b7f0000245.yaml</link>
+      <dc:creator>cath</dc:creator>
+      <description>2 were washed up on the sand. 1 was 18cm &amp; 1 was 14. The large one was alive. Not sure if the smaller was alive.</description>
+      <category>id~Paracaudina bacillis</category>
+      <category>tag~sea-cucumber</category>
+      <guid isPermaLink="false">https://files.natureshare.org/cath/items/ns/2018/5c229cd63abbd6b7f0000245.yaml</guid>
+      <pubDate>Tue, 25 Dec 2018 21:10:46 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

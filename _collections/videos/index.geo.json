@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.376,
+     -39.032
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/reilly/collections/videos/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fcollections%2Fvideos%2Faggregate%2Findex.json",
+    "date": "2015-01-05",
+    "title": "reilly",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54a9f641e35eb14948000038.jpg"
+   }
+  }
+ ]
+}

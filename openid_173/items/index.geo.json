@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.029917,
+     -37.743232
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_173/items/ns/2013/53b39858e35eb1298401033e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_173%2Fitems%2Fns%2F2013%2F53b39858e35eb1298401033e.yaml",
+    "date": "2013-07-18",
+    "title": "Coprinus comatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014154.bmp"
+   }
+  }
+ ]
+}

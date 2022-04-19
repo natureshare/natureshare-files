@@ -1,0 +1,1382 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.116083,
+     -38.930612
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2019/5d1dd186c347d58cff0002a1.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2019%2F5d1dd186c347d58cff0002a1.yaml",
+    "date": "2019-06-16",
+    "title": "Thalassarche chrysostoma",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_542524cce35eb1aeb3000097/2019-07-04/d4_0708_2.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.234409,
+     -35.451375
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2019/5c4833173abbd6d2cd000159.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2019%2F5c4833173abbd6d2cd000159.yaml",
+    "date": "2019-01-21",
+    "title": "Endoxyla leucomochla",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_542524cce35eb1aeb3000097/2019-01-23/1548235557/MOth.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.780151,
+     -35.652378
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2018/5bdd04c7ed2a891806000c9c.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2018%2F5bdd04c7ed2a891806000c9c.yaml",
+    "date": "2018-11-02",
+    "title": "Numenius minutus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bdd04d0ed2a89280700013d.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.235408,
+     -35.464518
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2018/5bbb2837ed2a89893a00033f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2018%2F5bbb2837ed2a89893a00033f.yaml",
+    "date": "2018-10-07",
+    "title": "Leipoa ocellata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbb283ced2a89280700010a.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.300312,
+     -38.468204
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2018/5b41ef5eed2a8903a00026e8.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2018%2F5b41ef5eed2a8903a00026e8.yaml",
+    "date": "2018-07-08",
+    "title": "Dicrurus bracteatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b41ef65ed2a89402b000038.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.672711,
+     -36.624992
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2018/5b3700c2ed2a899bfc000060.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2018%2F5b3700c2ed2a899bfc000060.yaml",
+    "date": "2018-06-29",
+    "title": "Elanus scriptus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b3700cced2a89402b000021.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.233882,
+     -35.460059
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2018/5abf6d7eed2a896baf008ed0.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2018%2F5abf6d7eed2a896baf008ed0.yaml",
+    "date": "2018-03-30",
+    "title": "Leipoa ocellata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5abf6d84ed2a89abdd000062.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.753315,
+     -37.29053
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2018/5a6d125ded2a89d02a00150d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2018%2F5a6d125ded2a89d02a00150d.yaml",
+    "date": "2018-01-14",
+    "title": "Amphibolurus muricatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a6d1264ed2a8966a0000025.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.234998,
+     -35.459465
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2018/5a55e76ded2a89d22b00147f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2018%2F5a55e76ded2a89d22b00147f.yaml",
+    "date": "2017-12-29",
+    "title": "Grevillea pterosperma",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a55e77aed2a892d15000090.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.415782,
+     -38.470962
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2017/5a2a6610ed2a89bf6d001070.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2017%2F5a2a6610ed2a89bf6d001070.yaml",
+    "date": "2017-11-25",
+    "title": "Limosa haemastica",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a2a662ced2a89398400083a.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.115178,
+     -38.005158
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2017/5a1d4c49ed2a8962be004b32.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2017%2F5a1d4c49ed2a8962be004b32.yaml",
+    "date": "2017-11-05",
+    "title": "Ixobrychus dubius",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a1d4dcbed2a89398400077c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.670983,
+     -37.941439
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2017/597f04cced2a89aae5002885.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2017%2F597f04cced2a89aae5002885.yaml",
+    "date": "2017-07-29",
+    "title": "Pandion cristatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/597f04d0ed2a893984000159.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.5162,
+     -38.339384
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2017/59538faaed2a89f2b6000002.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2017%2F59538faaed2a89f2b6000002.yaml",
+    "date": "2017-06-28",
+    "title": "Calidris minuta",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59538fcaed2a8939840000b1.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.517745,
+     -38.340058
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2017/5950cb96ed2a897cef000df8.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2017%2F5950cb96ed2a897cef000df8.yaml",
+    "date": "2017-06-24",
+    "title": "Haematopus finschi",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5950cba2ed2a8939840000a9.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.350967,
+     -38.714645
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2017/59352baeed2a89eb04000ecb.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2017%2F59352baeed2a89eb04000ecb.yaml",
+    "date": "2017-06-04",
+    "title": "Sterna striata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59352bb4ed2a89398400002c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.350831,
+     -38.71448
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2017/593529b0ed2a89eb04000ec6.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2017%2F593529b0ed2a89eb04000ec6.yaml",
+    "date": "2017-06-04",
+    "title": "Pterodroma macroptera",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/593529ceed2a89398400002b.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.377548,
+     -38.691074
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2017/593527e6ed2a89fe2700002b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2017%2F593527e6ed2a89fe2700002b.yaml",
+    "date": "2017-06-04",
+    "title": "Stercorarius antarcticus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/593527f1ed2a893984000028.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.35083,
+     -38.714481
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2017/5935260ded2a89eb04000ea5.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2017%2F5935260ded2a89eb04000ea5.yaml",
+    "date": "2017-06-05",
+    "title": "Pachyptila desolata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59352610ed2a893984000026.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.461807,
+     -38.636959
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2017/593524f2ed2a89fe27000020.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2017%2F593524f2ed2a89fe27000020.yaml",
+    "date": "2017-06-05",
+    "title": "Macronectes halli",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/593524fbed2a893984000024.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.358429,
+     -38.720985
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2017/59352412ed2a89fe27000016.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2017%2F59352412ed2a89fe27000016.yaml",
+    "date": "2017-06-04",
+    "title": "Daption capense",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5935241fed2a893984000022.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.568252,
+     -38.065978
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2017/58a7b830ed2a896c5c000776.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2017%2F58a7b830ed2a896c5c000776.yaml",
+    "date": "2017-02-17",
+    "title": "Gelochelidon nilotica",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a7b857ed2a892daf0003d1.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.870667,
+     -38.188232
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2017/5882e6d6ed2a89f464003431.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2017%2F5882e6d6ed2a89f464003431.yaml",
+    "date": "2017-01-20",
+    "title": "Tryngites subruficollis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5882e6e4ed2a892daf000333.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.558587,
+     -38.037698
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2017/586b687aed2a89f4640002fb.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2017%2F586b687aed2a89f4640002fb.yaml",
+    "date": "2016-11-18",
+    "title": "Phalaropus lobatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/586b6881ed2a892daf0002c9.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.582242,
+     -37.480469
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/585624aced2a897480009a14.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F585624aced2a897480009a14.yaml",
+    "date": "2016-12-18",
+    "title": "Dendrocygna eytoni",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/585624bbed2a89b3fe000269.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.648547,
+     -38.393195
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/58526e5fed2a897480008fae.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F58526e5fed2a897480008fae.yaml",
+    "date": "2016-12-10",
+    "title": "Morus capensis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58526e6bed2a892daf000280.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.240907,
+     -38.384776
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/58526ac5ed2a897480008fa7.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F58526ac5ed2a897480008fa7.yaml",
+    "date": "2016-12-10",
+    "title": "Phalacrocorax fuscescens",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58526acced2a89b718000262.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.605665,
+     -37.993398
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/585267d4ed2a897480008f98.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F585267d4ed2a897480008f98.yaml",
+    "date": "2016-12-11",
+    "title": "Xenus cinereus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/585267dbed2a892daf00027c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.749046,
+     -38.063213
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/584dbf57ed2a897480008487.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F584dbf57ed2a897480008487.yaml",
+    "date": "2015-05-21",
+    "title": "Neophema chrysogaster",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584dbf8fed2a89b718000250.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.61133,
+     -36.125637
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/584dbda6ed2a897480008480.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F584dbda6ed2a897480008480.yaml",
+    "date": "2016-11-04",
+    "title": "Gerygone olivacea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584dbdabed2a89b71800024f.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.953025,
+     -38.7712
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/5729f129ed2a89e66800045a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F5729f129ed2a89e66800045a.yaml",
+    "date": "2016-03-20",
+    "title": "Puffinus huttoni",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5729f14aed2a89211c0001f6.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.959892,
+     -38.840226
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/5729f02eed2a89e668000455.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F5729f02eed2a89e668000455.yaml",
+    "date": "2016-03-20",
+    "title": "Garrodia nereis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5729f04ded2a89211c0001f3.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.076477,
+     -38.576591
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/56f3c11ded2a89edf00001ec.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F56f3c11ded2a89edf00001ec.yaml",
+    "date": "2016-03-20",
+    "title": "Thalassarche chlororhynchos",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56f3c153ed2a89211c000174.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.851562,
+     -38.80735
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/56f38845ed2a89edf00001e5.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F56f38845ed2a89edf00001e5.yaml",
+    "date": "2016-03-20",
+    "title": "Diomedea epomophora",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56f3885fed2a890be700014d.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.832077,
+     -38.789658
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/56f38510ed2a89edf00001db.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F56f38510ed2a89edf00001db.yaml",
+    "date": "2016-03-20",
+    "title": "Ardenna grisea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56f3851fed2a890be700014c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.781708,
+     -38.809031
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/56f260abed2a89edf0000182.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F56f260abed2a89edf0000182.yaml",
+    "date": "2016-03-20",
+    "title": "Thalassarche cauta",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56f260e6ed2a890be7000145.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.851562,
+     -38.807327
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/56f25ed4ed2a89edf000017d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F56f25ed4ed2a89edf000017d.yaml",
+    "date": "2016-03-20",
+    "title": "Procellaria aequinoctialis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56f25eeded2a890be700013f.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.024521,
+     -38.6768
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/56f258c9ed2a89615500000c.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F56f258c9ed2a89615500000c.yaml",
+    "date": "2016-03-20",
+    "title": "Sterna paradisaea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56f258d9ed2a89211c00016f.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.334351,
+     -38.358182
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/56f24626ed2a896155000009.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F56f24626ed2a896155000009.yaml",
+    "date": "2016-03-19",
+    "title": "Calidris alba",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56f2462eed2a890be700013d.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.306284,
+     -38.358215
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/56f23a50ed2a89edf0000160.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F56f23a50ed2a89edf0000160.yaml",
+    "date": "2016-03-19",
+    "title": "Larus dominicanus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56f23a5aed2a890be700013a.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.861755,
+     -38.780731
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/56efe660ed2a89edf00000b3.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F56efe660ed2a89edf00000b3.yaml",
+    "date": "2016-03-20",
+    "title": "Pelagodroma marina",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56efe694ed2a890be7000138.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.861755,
+     -38.780731
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/56efe576ed2a89edf00000ae.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F56efe576ed2a89edf00000ae.yaml",
+    "date": "2016-03-20",
+    "title": "Pachyptila turtur",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56efe594ed2a890be7000136.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.861755,
+     -38.780731
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/56efe434ed2a89edf00000a9.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F56efe434ed2a89edf00000a9.yaml",
+    "date": "2016-03-20",
+    "title": "Oceanites oceanicus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56efe44ced2a89211c000168.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.861755,
+     -38.780731
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/56efe300ed2a89edf00000a4.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F56efe300ed2a89edf00000a4.yaml",
+    "date": "2016-03-20",
+    "title": "Diomedea exulans",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56efe312ed2a89211c000163.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.304139,
+     -38.359225
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/56efde31ed2a89edf000009f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F56efde31ed2a89edf000009f.yaml",
+    "date": "2016-03-19",
+    "title": "Arenaria interpres",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56efde51ed2a890be7000133.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.861755,
+     -38.780731
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/56efdc0bed2a89edf000009a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F56efdc0bed2a89edf000009a.yaml",
+    "date": "2016-03-20",
+    "title": "Ardenna carneipes",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56efdc30ed2a89211c000162.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.592405,
+     -38.004803
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/56a71fd5ed2a89e31b00014e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F56a71fd5ed2a89e31b00014e.yaml",
+    "date": "2016-01-02",
+    "title": "Stercorarius parasiticus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a71fdced2a897bc700003a.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.511659,
+     -38.043309
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/56a71e74ed2a89e31b00014b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F56a71e74ed2a89e31b00014b.yaml",
+    "date": "2016-01-20",
+    "title": "Phalaropus lobatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a71e8bed2a89b31c00003d.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.563651,
+     -38.028437
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2016/5699f6eded2a897834000002.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2016%2F5699f6eded2a897834000002.yaml",
+    "date": "2016-01-15",
+    "title": "Sterna hirundo",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5699f6f5ed2a89e05000000d.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.563104,
+     -38.036161
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2015/566d2019ed2a89b5f50003fc.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2015%2F566d2019ed2a89b5f50003fc.yaml",
+    "date": "2015-12-12",
+    "title": "Stercorarius parasiticus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/566d2049ed2a899c630002a5.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.590881,
+     -38.005302
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2015/56637b2ded2a89b5f50001ac.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2015%2F56637b2ded2a89b5f50001ac.yaml",
+    "date": "2015-11-29",
+    "title": "Limicola falcinellus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56637b49ed2a899c63000287.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.592608,
+     -38.005268
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2015/566379beed2a89b5f50001a4.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2015%2F566379beed2a89b5f50001a4.yaml",
+    "date": "2015-11-29",
+    "title": "Calidris canutus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/566379c7ed2a899c63000284.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.56731,
+     -38.025808
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2015/566378cfed2a89b5f50001a2.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2015%2F566378cfed2a89b5f50001a2.yaml",
+    "date": "2015-11-28",
+    "title": "Calidris tenuirostris",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/566378e2ed2a899c63000283.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.617982,
+     -37.992561
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2015/5635d593ed2a89e56e000223.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2015%2F5635d593ed2a89e56e000223.yaml",
+    "date": "2015-11-01",
+    "title": "Philomachus pugnax",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5635d59bed2a899c6300009e.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.565665,
+     -38.023821
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2015/5619c86bed2a89401600a775.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2015%2F5619c86bed2a89401600a775.yaml",
+    "date": "2015-10-10",
+    "title": "Alauda arvensis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5619c8fbed2a890d95000497.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.398963,
+     -36.501111
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2015/5611b2b9ed2a8940160003bb.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2015%2F5611b2b9ed2a8940160003bb.yaml",
+    "date": "2015-10-03",
+    "title": "Lichenostomus ornatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5611b2c0ed2a890d95000412.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.837833,
+     -19.179833
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2015/560e3496ed2a8940160000d7.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2015%2F560e3496ed2a8940160000d7.yaml",
+    "date": "2010-11-20",
+    "title": "Burhinus grallarius",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560e34a6ed2a890d950003a7.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.509359,
+     -38.045548
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2015/560e2bf6ed2a8940160000d1.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2015%2F560e2bf6ed2a8940160000d1.yaml",
+    "date": "2014-02-13",
+    "title": "Tringa glareola",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560e2c07ed2a890d950003a6.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.577423,
+     -38.019858
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2015/560e2926ed2a8940160000cc.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2015%2F560e2926ed2a8940160000cc.yaml",
+    "date": "2015-10-02",
+    "title": "Sternula albifrons",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560e2990ed2a890d950003a5.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.798609,
+     -37.923779
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2015/560e2612ed2a8940160000c9.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2015%2F560e2612ed2a8940160000c9.yaml",
+    "date": "2014-03-09",
+    "title": "Pluvialis fulva",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560e2624ed2a890d950003a4.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.564202,
+     -38.026475
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2015/560e22c0ed2a8940160000c4.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2015%2F560e22c0ed2a8940160000c4.yaml",
+    "date": "2015-09-27",
+    "title": "Porzana tabuensis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560e22d0ed2a890d950003a3.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.982386,
+     -35.52314
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2015/560e200fed2a8940160000c1.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2015%2F560e200fed2a8940160000c1.yaml",
+    "date": "2014-06-27",
+    "title": "Polytelis swainsonii",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560e202ded2a890d950003a2.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.199219,
+     -38.404986
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2015/560e1b4fed2a8940160000be.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2015%2F560e1b4fed2a8940160000be.yaml",
+    "date": "2015-06-28",
+    "title": "Phylidonyris melanops",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560e1b73ed2a890d950003a0.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.982386,
+     -35.52314
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2015/560e194ced2a8940160000b0.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2015%2F560e194ced2a8940160000b0.yaml",
+    "date": "2014-06-28",
+    "title": "Pedionomus torquatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560e1984ed2a890d9500039e.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.571681,
+     -38.011211
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2015/560df1daed2a8940160000a6.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2015%2F560df1daed2a8940160000a6.yaml",
+    "date": "2015-09-26",
+    "title": "Pandion cristatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560df1f7ed2a890d9500039d.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.43521,
+     -38.085493
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2015/560d3e84ed2a894016000066.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2015%2F560d3e84ed2a894016000066.yaml",
+    "date": "2015-03-19",
+    "title": "Heteroscelus brevipes",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560d3e8ded2a890d9500039b.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.691886,
+     -37.944478
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2015/560d3c20ed2a894016000063.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2015%2F560d3c20ed2a894016000063.yaml",
+    "date": "2015-01-29",
+    "title": "Eurostopodus mystacalis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560d3c3aed2a890d9500039a.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.518346,
+     -38.04146
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2015/560d3a50ed2a89401600005e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2015%2F560d3a50ed2a89401600005e.yaml",
+    "date": "2014-01-08",
+    "title": "Coturnix pectoralis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560d3a6fed2a890d95000399.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.565993,
+     -38.025717
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2015/560d3869ed2a894016000059.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2015%2F560d3869ed2a894016000059.yaml",
+    "date": "2015-02-08",
+    "title": "Calidris subminuta",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560d3884ed2a890d95000398.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.565993,
+     -38.025717
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2015/560d36aced2a894016000054.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2015%2F560d36aced2a894016000054.yaml",
+    "date": "2015-01-23",
+    "title": "Calidris melanotos",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560d36bbed2a890d95000396.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.526511,
+     -38.042601
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2015/560d33e7ed2a89401600004a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2015%2F560d33e7ed2a89401600004a.yaml",
+    "date": "2015-07-01",
+    "title": "Botaurus poiciloptilus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/560d3411ed2a890d95000394.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.752972,
+     -37.290561
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2014/54464649e35eb11add00007d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2014%2F54464649e35eb11add00007d.yaml",
+    "date": "2014-09-21",
+    "title": "Millotia tenuifolia var. tenuifolia",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54464649e35eb11add00007c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.752972,
+     -37.290561
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2014/5446403ae35eb1c13c00009f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2014%2F5446403ae35eb1c13c00009f.yaml",
+    "date": "2014-09-21",
+    "title": "Glossodia major",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5446403ae35eb1c13c00009d.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.752972,
+     -37.290561
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2014/54463a17e35eb1c13c000094.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2014%2F54463a17e35eb1c13c000094.yaml",
+    "date": "2014-09-21",
+    "title": "Pterostylis nana",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54463a17e35eb1c13c000093.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.752972,
+     -37.290561
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2014/544639b9e35eb1c13c00008f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2014%2F544639b9e35eb1c13c00008f.yaml",
+    "date": "2014-09-21",
+    "title": "Falcunculus frontatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544639b9e35eb1c13c00008d.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.752972,
+     -37.290561
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2014/54463944e35eb1c13c000089.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2014%2F54463944e35eb1c13c000089.yaml",
+    "date": "2014-09-20",
+    "title": "Coracina novaehollandiae",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54463944e35eb1c13c000087.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.752972,
+     -37.290561
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2014/544638c8e35eb1c13c000081.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2014%2F544638c8e35eb1c13c000081.yaml",
+    "date": "2014-09-20",
+    "title": "Lophoictinia isura",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544638c8e35eb1c13c00007f.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.752972,
+     -37.290561
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2014/5446387ee35eb1c13c00007b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2014%2F5446387ee35eb1c13c00007b.yaml",
+    "date": "2014-09-20",
+    "title": "Melithreptus lunatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5446387ee35eb1c13c000079.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.752972,
+     -37.290561
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2014/5446382fe35eb1c13c000075.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2014%2F5446382fe35eb1c13c000075.yaml",
+    "date": "2014-09-20",
+    "title": "Climacteris picumnus victoriae",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5446382fe35eb1c13c000073.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.752972,
+     -37.290561
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2014/544637f7e35eb1c13c00006f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2014%2F544637f7e35eb1c13c00006f.yaml",
+    "date": "2014-09-19",
+    "title": "Artamus cyanopterus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544637f7e35eb1c13c00006d.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.752972,
+     -37.290561
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2014/544637b7e35eb1c13c000069.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2014%2F544637b7e35eb1c13c000069.yaml",
+    "date": "2014-09-19",
+    "title": "Platycercus eximius",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544637b7e35eb1c13c000067.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.752972,
+     -37.290561
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/items/ns/2014/544636e8e35eb1290400003c.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fitems%2Fns%2F2014%2F544636e8e35eb1290400003c.yaml",
+    "date": "2014-09-19",
+    "title": "Colluricincla harmonica",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/544636e8e35eb1290400003a.jpg"
+   }
+  }
+ ]
+}

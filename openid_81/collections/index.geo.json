@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.303,
+     -37.28
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_81/collections/plants_of_paringoura_denver/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_81%2Fcollections%2Fplants_of_paringoura_denver%2Faggregate%2Findex.json",
+    "date": "2011-09-20",
+    "title": "Plants of \"Paringoura\", Denver",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840120f7.jpg"
+   }
+  }
+ ]
+}

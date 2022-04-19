@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.180582,
+     -37.307775
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tanya/collections/frogs_and_reptiles_of_porcupine_ridge_and_daylesford_region/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftanya%2Fcollections%2Ffrogs_and_reptiles_of_porcupine_ridge_and_daylesford_region%2Faggregate%2Findex.json",
+    "date": "2015-08-01",
+    "title": "Frogs and Reptiles of Porcupine Ridge and Daylesford region",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55bc17c1ed2a89db8100078f.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.138,
+     -37.347
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tanya/collections/mammals_and_montremes_of_porcupine_ridge_and_daylesford/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftanya%2Fcollections%2Fmammals_and_montremes_of_porcupine_ridge_and_daylesford%2Faggregate%2Findex.json",
+    "date": "2015-04-05",
+    "title": "Mammals and montremes of Porcupine Ridge and Daylesford ",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55bc1ba2ed2a89db81000793.JPG"
+   }
+  }
+ ]
+}

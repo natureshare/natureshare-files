@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.587818,
+     -36.277708
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/items/ns/2015/55ff802ced2a89b06c000dc2.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2015%2F55ff802ced2a89b06c000dc2.yaml",
+    "date": "2015-09-18",
+    "title": "Glossopsitta porphyrocephala",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55ff8043ed2a890d950001fe.jpg"
+   }
+  }
+ ]
+}

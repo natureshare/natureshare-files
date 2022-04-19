@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lauriston Reserve</title>
+  <id>https://files.natureshare.org/_collections/lauriston_reserve/index.xml</id>
+  <updated>2014-07-15T05:49:54.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/_collections/lauriston_reserve/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/_collections/lauriston_reserve/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Flauriston_reserve%2Findex.json"/>
+  <author>
+    <name>All Collections</name>
+    <uri>https://natureshare.org/collections</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 All Collections</rights>
+  <subtitle>All users for [lauriston_reserve]</subtitle>
+  <entry>
+    <id>https://files.natureshare.org/russell/collections/lauriston_reserve/aggregate/index.json</id>
+    <title>russell</title>
+    <updated>2014-07-15T05:49:54.000+00:00</updated>
+    <published>2014-07-15T05:49:54.000+00:00</published>
+    <author>
+      <name>All Collections</name>
+      <uri>https://natureshare.org/collections</uri>
+    </author>
+    <content type="text">6 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Flauriston_reserve%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/david_francis/collections/lauriston_reserve/aggregate/index.json</id>
+    <title>david_francis</title>
+    <updated>2014-07-15T05:49:54.000+00:00</updated>
+    <published>2014-07-15T05:49:54.000+00:00</published>
+    <author>
+      <name>All Collections</name>
+      <uri>https://natureshare.org/collections</uri>
+    </author>
+    <content type="text">2 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Flauriston_reserve%2Faggregate%2Findex.json"/>
+  </entry>
+</feed>

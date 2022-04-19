@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/psoralea/collections/glistering_insects/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Glistering Insects</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fcollections%2Fglistering_insects%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 psoralea</copyright>
+    <pubDate>Mon, 01 Jan 2018 04:47:32 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Geometridae spp.</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2018%2F5a49bbf2ed2a893ede00006b.yaml</link>
+      <dc:creator>psoralea</dc:creator>
+      <description>Caterpillars on indigofera australis - very well camouflaged </description>
+      <category>id~Geometridae spp.</category>
+      <category>tag~caterpillar</category>
+      <category>tag~shrub</category>
+      <guid isPermaLink="false">https://files.natureshare.org/psoralea/items/ns/2018/5a49bbf2ed2a893ede00006b.yaml</guid>
+      <pubDate>Mon, 01 Jan 2018 04:46:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Siphanta spp.</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2015%2F54ec3e62ed2a8987b70006c0.yaml</link>
+      <dc:creator>psoralea</dc:creator>
+      <description>-</description>
+      <category>id~Siphanta spp.</category>
+      <guid isPermaLink="false">https://files.natureshare.org/psoralea/items/ns/2015/54ec3e62ed2a8987b70006c0.yaml</guid>
+      <pubDate>Tue, 24 Feb 2015 09:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chauliognathus lugubris</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2015%2F54ec3b80ed2a89d990000792.yaml</link>
+      <dc:creator>psoralea</dc:creator>
+      <description>-</description>
+      <category>id~Chauliognathus lugubris</category>
+      <guid isPermaLink="false">https://files.natureshare.org/psoralea/items/ns/2015/54ec3b80ed2a89d990000792.yaml</guid>
+      <pubDate>Tue, 24 Feb 2015 08:51:12 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

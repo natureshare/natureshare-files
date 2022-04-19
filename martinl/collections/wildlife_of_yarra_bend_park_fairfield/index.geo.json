@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.020743,
+     -37.788463
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/martinl/items/ns/2015/54f15865ed2a8945a10000e8.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmartinl%2Fitems%2Fns%2F2015%2F54f15865ed2a8945a10000e8.yaml",
+    "date": "2015-02-28",
+    "title": "Melobasis spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f1597ded2a8983c20000cf.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.009983,
+     -37.800561
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/martinl/items/ns/2012/53b39854e35eb1298400f6d1.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmartinl%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f6d1.yaml",
+    "date": "2010-12-31",
+    "title": "Paropsis atomaria",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012eab.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.009146,
+     -37.799985
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/martinl/items/ns/2012/53b39854e35eb1298400f6cf.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmartinl%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f6cf.yaml",
+    "date": "2010-12-31",
+    "title": "Pteropus poliocephalus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012ea9.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.02099,
+     -37.78937
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/martinl/items/ns/2012/53b39854e35eb1298400f6ce.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmartinl%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f6ce.yaml",
+    "date": "2011-02-18",
+    "title": "Scutiphora pedicellata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012ea8.jpg"
+   }
+  }
+ ]
+}

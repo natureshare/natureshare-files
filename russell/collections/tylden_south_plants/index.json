@@ -1,0 +1,80 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Tylden South Plants",
+ "description": "",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Ftylden_south_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/tylden_south_plants/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2014/tylden_south_plants_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2Ftylden_south_plants_species_list.yaml",
+   "title": "37 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2011-03-08T22:11:28.000+00:00",
+   "date_modified": "2014-08-23T09:25:15.000+00:00",
+   "tags": [
+    "id~Acacia dealbata",
+    "id~Acacia melanoxylon",
+    "id~Acacia verticillata",
+    "id~Acaena novae-zelandiae",
+    "id~Adiantum aethiopicum",
+    "id~Agrostis capillaris var. capillaris",
+    "id~Alternanthera denticulata s.l.",
+    "id~Clematis aristata",
+    "id~Cyperus exaltatus",
+    "id~Eucalyptus obliqua",
+    "id~Eucalyptus ovata",
+    "id~Eucalyptus radiata",
+    "id~Eucalyptus rubida",
+    "id~Glycine clandestina",
+    "id~Gonocarpus tetragynus",
+    "id~Goodenia ovata",
+    "id~Holcus lanatus",
+    "id~Hydrocotyle sibthorpioides",
+    "id~Juncus amabilis",
+    "id~Juncus articulatus",
+    "id~Juncus holoschoenus",
+    "id~Juncus homalocaulis",
+    "id~Juncus remotiflorus",
+    "id~Lomandra longifolia subsp. longifolia",
+    "id~Luzula meridionalis",
+    "id~Oxalis perennans",
+    "id~Poa labillardierei",
+    "id~Poa sieberiana var. sieberiana",
+    "id~Poranthera microphylla s.l.",
+    "id~Pteridium esculentum",
+    "id~Pterostylis melagramma",
+    "id~Rubus fruticosus spp. agg.",
+    "id~Tetrarrhena juncea",
+    "id~Ulex europaeus",
+    "id~Veronica notabilis",
+    "id~Viola betonicifolia",
+    "id~Viola hederacea sensu Thiele & Prober",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.350996,
+     -37.3385
+    ]
+   },
+   "_meta": {
+    "date": "2014-08-23"
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

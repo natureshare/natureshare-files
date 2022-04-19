@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.306667,
+     -36.7325
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/reilly/items/ns/2014/53c5ed05e35eb101dd000002.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2014%2F53c5ed05e35eb101dd000002.yaml",
+    "date": "2013-11-17",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53c5ed05e35eb101dd000001.JPG"
+   }
+  }
+ ]
+}

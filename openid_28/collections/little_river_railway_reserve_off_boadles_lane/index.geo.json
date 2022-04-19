@@ -1,0 +1,55 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.51386,
+     -37.956719
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_28/items/ns/2011/53b39852e35eb1298400ee4c.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400ee4c.yaml",
+    "date": "2009-10-24",
+    "title": "Chrysocephalum semipapposum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb12984012319.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.513173,
+     -37.956989
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_28/items/ns/2011/53b39852e35eb1298400ee4b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400ee4b.yaml",
+    "date": "2009-10-24",
+    "title": "Eryngium ovinum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb12984012318.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.516091,
+     -37.956549
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_28/items/ns/2014/little_river_railway_reserve_off_boadles_lane_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fitems%2Fns%2F2014%2Flittle_river_railway_reserve_off_boadles_lane_species_list.yaml",
+    "date": "2014-11-09",
+    "title": "8 ids"
+   }
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.673119,
+     -37.411346
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/mt_charlie_reserve_flora_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmt_charlie_reserve_flora_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2015-03-18",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/550974b4ed2a8994a9000521.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.67,
+     -37.401
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/collections/mt_charlie_reserve_flora_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fmt_charlie_reserve_flora_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2014-07-14",
+    "title": "david_francis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53c3cecae35eb1b9c4000003.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.671,
+     -37.404
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/collections/mt_charlie_reserve_flora_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fmt_charlie_reserve_flora_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2011-12-27",
+    "title": "jamesbooth",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb12984012780.jpg"
+   }
+  }
+ ]
+}

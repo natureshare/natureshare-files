@@ -1,0 +1,71 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.416393,
+     -37.327645
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lconole/items/ns/2015/5590cc48ed2a8918dd001586.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2F5590cc48ed2a8918dd001586.yaml",
+    "date": "2015-06-27",
+    "title": "Macropus giganteus"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.415686,
+     -37.32785
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lconole/items/ns/2015/54f64522ed2a89ef1100001a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2F54f64522ed2a89ef1100001a.yaml",
+    "date": "2014-05-26",
+    "title": "Vespadelus darlingtoni",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f64522ed2a89ef11000019.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.415838,
+     -37.327819
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lconole/items/ns/2015/54f64406ed2a89b7cf000019.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2F54f64406ed2a89b7cf000019.yaml",
+    "date": "2015-02-21",
+    "title": "Vespadelus vulturnus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f64406ed2a89b7cf000018.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.407285,
+     -37.326193
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lconole/items/ns/2017/mammals_of_tylden_township_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2017%2Fmammals_of_tylden_township_species_list.yaml",
+    "date": "2017-01-16",
+    "title": "15 ids"
+   }
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.60896,
+     -37.760266
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_7/items/ns/2010/53b3984fe35eb1298400e399.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Fns%2F2010%2F53b3984fe35eb1298400e399.yaml",
+    "date": "2008-10-26",
+    "title": "Convolvulus angustissimus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb1298401165b.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.605699,
+     -37.760876
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_7/items/ns/2015/flora_of_pinkerton_forest_and_mulla_mulla_grasslands_bush_s_paddock_melton_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Fns%2F2015%2Fflora_of_pinkerton_forest_and_mulla_mulla_grasslands_bush_s_paddock_melton_species_list.yaml",
+    "date": "2015-04-07",
+    "title": "93 ids"
+   }
+  }
+ ]
+}

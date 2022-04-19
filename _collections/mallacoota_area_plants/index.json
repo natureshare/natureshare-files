@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Mallacoota Area Plants",
+ "description": "All users for [mallacoota_area_plants]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fmallacoota_area_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/mallacoota_area_plants/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "326 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5490083de35eb173bf000024.JPG",
+   "date_published": "2014-12-16T10:23:57.000+00:00",
+   "date_modified": "2014-12-16T10:23:57.000+00:00",
+   "_geo": {
+    "coordinates": [
+     149.715,
+     -37.555
+    ]
+   },
+   "_meta": {
+    "itemCount": 326,
+    "date": "2014-12-16",
+    "name": "mallacoota_area_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/mallacoota_area_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmallacoota_area_plants%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "cclarke",
+   "content_text": "25 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb12984014d28.jpg",
+   "date_published": "2014-01-12T17:21:50.000+00:00",
+   "date_modified": "2014-01-12T17:21:50.000+00:00",
+   "_geo": {
+    "coordinates": [
+     149.627,
+     -37.506
+    ]
+   },
+   "_meta": {
+    "itemCount": 25,
+    "date": "2014-01-12",
+    "name": "mallacoota_area_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/cclarke/collections/mallacoota_area_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fcollections%2Fmallacoota_area_plants%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

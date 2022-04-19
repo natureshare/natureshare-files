@@ -1,0 +1,69 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.732462,
+     -35.362281
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_34/items/ns/2011/53b39850e35eb1298400e7ff.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_34%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e7ff.yaml",
+    "date": "2011-05-29",
+    "title": "Unidentified"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.887207,
+     -36.120128
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_34/items/ns/2011/53b39850e35eb1298400e7f2.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_34%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e7f2.yaml",
+    "date": "2011-05-29",
+    "title": "Unidentified"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.975513,
+     -35.131465
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_34/items/ns/2011/53b39850e35eb1298400e71a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_34%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e71a.yaml",
+    "date": "2011-05-03",
+    "title": "Unidentified"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.11549,
+     -37.707183
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_34/items/ns/2011/53b3984fe35eb1298400e598.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_34%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e598.yaml",
+    "date": "2011-04-05",
+    "title": "Unidentified"
+   }
+  }
+ ]
+}

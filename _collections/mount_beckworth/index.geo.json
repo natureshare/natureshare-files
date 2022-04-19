@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.717936,
+     -37.308543
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bf/collections/mount_beckworth/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbf%2Fcollections%2Fmount_beckworth%2Faggregate%2Findex.json",
+    "date": "2018-08-01",
+    "title": "bf",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b61b784ed2a892807000088.JPG"
+   }
+  }
+ ]
+}

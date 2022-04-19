@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.724,
+     -37.548
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/mallacoota_area_summer_flowers_fruit_nuts_seedpods_and_common_ferns/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmallacoota_area_summer_flowers_fruit_nuts_seedpods_and_common_ferns%2Faggregate%2Findex.json",
+    "date": "2017-03-19",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce9149ed2a89441000007b.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.714,
+     -37.541
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jylu/collections/mallacoota_area_summer_flowers_fruit_nuts_seedpods_and_common_ferns/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fcollections%2Fmallacoota_area_summer_flowers_fruit_nuts_seedpods_and_common_ferns%2Faggregate%2Findex.json",
+    "date": "2017-03-19",
+    "title": "jylu",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce9149ed2a89441000007b.JPG"
+   }
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/tsnata/collections/plants_and_animals_of_werribee/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Plants and animals of werribee</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fplants_and_animals_of_werribee%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 tsnata</copyright>
+    <pubDate>Mon, 10 Sep 2018 06:45:47 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Malurus cyaneus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2014%2F5471d80fe35eb1f43b000049.yaml</link>
+      <dc:creator>tsnata</dc:creator>
+      <description>-</description>
+      <category>id~Malurus cyaneus</category>
+      <category>tag~male-adult</category>
+      <guid isPermaLink="false">https://files.natureshare.org/tsnata/items/ns/2014/5471d80fe35eb1f43b000049.yaml</guid>
+      <pubDate>Sun, 23 Nov 2014 12:50:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ocyphaps lophotes</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2014%2F5471d6b5e35eb1f43b00003a.yaml</link>
+      <dc:creator>tsnata</dc:creator>
+      <description>-</description>
+      <category>id~Ocyphaps lophotes</category>
+      <category>tag~adult</category>
+      <guid isPermaLink="false">https://files.natureshare.org/tsnata/items/ns/2014/5471d6b5e35eb1f43b00003a.yaml</guid>
+      <pubDate>Sun, 23 Nov 2014 12:44:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rhipidura leucophrys</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2014%2F5471d3eee35eb1f43b000008.yaml</link>
+      <dc:creator>tsnata</dc:creator>
+      <description>willie wagtail with two chicks.</description>
+      <category>id~Rhipidura leucophrys</category>
+      <category>tag~adult</category>
+      <category>tag~chicks</category>
+      <guid isPermaLink="false">https://files.natureshare.org/tsnata/items/ns/2014/5471d3eee35eb1f43b000008.yaml</guid>
+      <pubDate>Sun, 23 Nov 2014 12:32:46 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

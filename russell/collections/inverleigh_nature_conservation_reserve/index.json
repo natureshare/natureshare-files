@@ -1,0 +1,100 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Inverleigh Nature Conservation Reserve",
+ "description": "",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Finverleigh_nature_conservation_reserve%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/inverleigh_nature_conservation_reserve/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2013/53b39858e35eb12984010483.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39858e35eb12984010483.yaml",
+   "title": "Convolvulus angustissimus subsp. angustissimus",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014381.jpg",
+   "date_published": "2013-09-06T10:10:55.000+00:00",
+   "date_modified": "2014-07-03T00:31:01.000+00:00",
+   "tags": [
+    "id~Convolvulus angustissimus subsp. angustissimus",
+    "tag~flower",
+    "tag~leaf"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.047287,
+     -38.083046
+    ]
+   },
+   "_meta": {
+    "date": "2012-10-21",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2013/53b39858e35eb12984010482.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39858e35eb12984010482.yaml",
+   "title": "Cheilanthes sieberi subsp. sieberi",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014380.jpg",
+   "date_published": "2013-09-06T09:50:57.000+00:00",
+   "date_modified": "2014-07-03T00:31:11.000+00:00",
+   "tags": [
+    "id~Cheilanthes sieberi subsp. sieberi"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.047201,
+     -38.083092
+    ]
+   },
+   "_meta": {
+    "date": "2012-10-21",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2013/53b39858e35eb12984010481.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39858e35eb12984010481.yaml",
+   "title": "Goodenia geniculata",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb1298401437e.jpg",
+   "date_published": "2013-09-06T09:35:54.000+00:00",
+   "date_modified": "2014-07-03T00:31:34.000+00:00",
+   "tags": [
+    "id~Goodenia geniculata",
+    "tag~flower"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.04674,
+     -38.083242
+    ]
+   },
+   "_meta": {
+    "date": "2012-10-21",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

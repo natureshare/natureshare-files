@@ -1,0 +1,123 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Brisbane Ranges Fungi",
+ "description": "",
+ "author": {
+  "name": "openid_28",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fcollections%2Fbrisbane_ranges_fungi%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_28/collections/brisbane_ranges_fungi/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_28/items/ns/2013/53b39859e35eb129840106fc.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fitems%2Fns%2F2013%2F53b39859e35eb129840106fc.yaml",
+   "title": "Pisolithus spp.",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb1298401478b.jpg",
+   "date_published": "2013-11-08T20:39:33.000+00:00",
+   "date_modified": "2015-07-19T05:19:23.000+00:00",
+   "tags": [
+    "id~Pisolithus spp.",
+    "tag~pores"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.169738,
+     -37.896903
+    ]
+   },
+   "_meta": {
+    "date": "2013-10-20",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_28",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_28/items/ns/2013/53b39859e35eb129840106fb.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fitems%2Fns%2F2013%2F53b39859e35eb129840106fb.yaml",
+   "title": "Polyporus arcularius",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb1298401478a.jpg",
+   "date_published": "2013-11-08T20:34:09.000+00:00",
+   "date_modified": "2015-06-03T09:03:30.000+00:00",
+   "tags": [
+    "id~Polyporus arcularius",
+    "tag~fungi",
+    "tag~pore"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.169979,
+     -37.896751
+    ]
+   },
+   "_meta": {
+    "date": "2013-10-20",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_28",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_28/items/ns/2015/brisbane_ranges_fungi_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fitems%2Fns%2F2015%2Fbrisbane_ranges_fungi_species_list.yaml",
+   "title": "Psathyrella pennata",
+   "content_text": "Species list for collection.",
+   "date_published": "2013-11-08T20:27:47.000+00:00",
+   "date_modified": "2015-04-13T10:23:33.000+00:00",
+   "tags": [
+    "id~Psathyrella pennata",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2015-04-13"
+   },
+   "author": {
+    "name": "openid_28",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_28/items/ns/2011/53b39852e35eb1298400ee21.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400ee21.yaml",
+   "title": "Fungi spp., Insecta spp.",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840122e8.jpg",
+   "date_published": "2011-10-16T17:55:02.000+00:00",
+   "date_modified": "2011-10-16T17:58:53.000+00:00",
+   "tags": [
+    "id~Fungi spp.",
+    "id~Insecta spp."
+   ],
+   "_geo": {
+    "coordinates": [
+     144.195642,
+     -37.836768
+    ]
+   },
+   "_meta": {
+    "date": "2011-10-09",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_28",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 4,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

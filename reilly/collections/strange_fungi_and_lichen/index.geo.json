@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     150.319752,
+     -33.649444
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/reilly/items/dropbox/2020/p3120985.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fdropbox%2F2020%2Fp3120985.yaml",
+    "date": "2020-03-12",
+    "title": "Fungi spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/thumbnails/reilly/items/dropbox/2020/p3120985.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.422439,
+     -39.021942
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/reilly/items/ns/2016/5695a16ded2a8932c9000070.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2016%2F5695a16ded2a8932c9000070.yaml",
+    "date": "2016-01-10",
+    "title": "Fungi spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5695a18aed2a890f7e000036.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.183333,
+     -36.866667
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/reilly/items/ns/2015/55da93bded2a89cd6b000033.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2015%2F55da93bded2a89cd6b000033.yaml",
+    "date": "2015-02-07",
+    "title": "Aseroe rubra",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55da93f7ed2a8973dd000012.jpg"
+   }
+  }
+ ]
+}

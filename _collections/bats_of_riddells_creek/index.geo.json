@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.660072,
+     -37.445562
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/bats_of_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fbats_of_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2010-11-12",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb129840115aa.jpg"
+   }
+  }
+ ]
+}

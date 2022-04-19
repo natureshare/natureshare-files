@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/tmiller/collections/bacchus_marsh_gun_club/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Bacchus Marsh Gun Club</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fcollections%2Fbacchus_marsh_gun_club%2Faggregate%2Findex.json</link>
+    <description>Species found at Bacchus Marsh Gun Club.</description>
+    <language>en-us</language>
+    <copyright>© 2022 tmiller</copyright>
+    <pubDate>Fri, 17 Feb 2017 03:03:08 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Nicotiana suaveolens</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fitems%2Fns%2F2017%2F58a53733ed2a89f8d700002a.yaml</link>
+      <dc:creator>tmiller</dc:creator>
+      <description>-</description>
+      <category>id~Nicotiana suaveolens</category>
+      <guid isPermaLink="false">https://files.natureshare.org/tmiller/items/ns/2017/58a53733ed2a89f8d700002a.yaml</guid>
+      <pubDate>Thu, 16 Feb 2017 05:45:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pseudonaja textilis</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fitems%2Fns%2F2017%2F58a53732ed2a89f8d7000028.yaml</link>
+      <dc:creator>tmiller</dc:creator>
+      <description>-</description>
+      <category>id~Pseudonaja textilis</category>
+      <guid isPermaLink="false">https://files.natureshare.org/tmiller/items/ns/2017/58a53732ed2a89f8d7000028.yaml</guid>
+      <pubDate>Thu, 16 Feb 2017 05:44:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tachyglossus aculeatus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fitems%2Fns%2F2015%2F566e47f8ed2a89b5f5000453.yaml</link>
+      <dc:creator>tmiller</dc:creator>
+      <description>-</description>
+      <category>id~Tachyglossus aculeatus</category>
+      <guid isPermaLink="false">https://files.natureshare.org/tmiller/items/ns/2015/566e47f8ed2a89b5f5000453.yaml</guid>
+      <pubDate>Mon, 14 Dec 2015 04:41:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ctenotus robustus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fitems%2Fns%2F2015%2F565667abed2a89e56e000f38.yaml</link>
+      <dc:creator>tmiller</dc:creator>
+      <description>-</description>
+      <category>id~Ctenotus robustus</category>
+      <guid isPermaLink="false">https://files.natureshare.org/tmiller/items/ns/2015/565667abed2a89e56e000f38.yaml</guid>
+      <pubDate>Thu, 26 Nov 2015 02:03:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Egernia cunninghami</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fitems%2Fns%2F2015%2F565665cced2a89e56e000f34.yaml</link>
+      <dc:creator>tmiller</dc:creator>
+      <description>-</description>
+      <category>id~Egernia cunninghami</category>
+      <guid isPermaLink="false">https://files.natureshare.org/tmiller/items/ns/2015/565665cced2a89e56e000f34.yaml</guid>
+      <pubDate>Thu, 26 Nov 2015 01:57:19 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

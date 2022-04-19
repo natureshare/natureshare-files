@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.231,
+     -37.866
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_28/collections/brisbane_ranges_fungi/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fcollections%2Fbrisbane_ranges_fungi%2Faggregate%2Findex.json",
+    "date": "2017-01-10",
+    "title": "openid_28",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5874b9e5ed2a89d73e0002be.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.237,
+     -37.863
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/collections/brisbane_ranges_fungi/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fcollections%2Fbrisbane_ranges_fungi%2Faggregate%2Findex.json",
+    "date": "2017-01-10",
+    "title": "chrisl",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5874b9e5ed2a89d73e0002be.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.251,
+     -37.864
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/collections/brisbane_ranges_fungi/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fbrisbane_ranges_fungi%2Faggregate%2Findex.json",
+    "date": "2015-05-21",
+    "title": "tsnata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/555dd78aed2a897a030001c4.jpg"
+   }
+  }
+ ]
+}

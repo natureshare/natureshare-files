@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.652863,
+     -37.446243
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/collections/reptiles_snakes_lizards_of_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Freptiles_snakes_lizards_of_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2017-04-04",
+    "title": "jamesbooth",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e33e26ed2a89a81f0000ae.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.652863,
+     -37.446243
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/reptiles_snakes_lizards_of_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Freptiles_snakes_lizards_of_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2017-04-04",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e33e26ed2a89a81f0000ae.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.659,
+     -37.434
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_11/collections/reptiles_snakes_lizards_of_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_11%2Fcollections%2Freptiles_snakes_lizards_of_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2010-10-15",
+    "title": "openid_11",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb1298401147b.jpg"
+   }
+  }
+ ]
+}

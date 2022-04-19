@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Poulters Lane Kilmore",
+ "description": "All users for [poulters_lane_kilmore]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fpoulters_lane_kilmore%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/poulters_lane_kilmore/index.json",
+ "items": [
+  {
+   "title": "anni75",
+   "content_text": "9 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54645989e35eb1e8b80000c4.JPG",
+   "date_published": "2014-11-13T07:11:07.000+00:00",
+   "date_modified": "2014-11-13T07:11:07.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.962612,
+     -37.372943
+    ]
+   },
+   "_meta": {
+    "itemCount": 9,
+    "date": "2014-11-13",
+    "name": "poulters_lane_kilmore",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/anni75/collections/poulters_lane_kilmore/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fanni75%2Fcollections%2Fpoulters_lane_kilmore%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

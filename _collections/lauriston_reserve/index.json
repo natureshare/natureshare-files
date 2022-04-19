@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Lauriston Reserve",
+ "description": "All users for [lauriston_reserve]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Flauriston_reserve%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/lauriston_reserve/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "6 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53c4c102e35eb1387b00000c.JPG",
+   "date_published": "2014-07-15T05:49:54.000+00:00",
+   "date_modified": "2014-07-15T05:49:54.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.36018,
+     -37.238939
+    ]
+   },
+   "_meta": {
+    "itemCount": 6,
+    "date": "2014-07-15",
+    "name": "lauriston_reserve",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/lauriston_reserve/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Flauriston_reserve%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "david_francis",
+   "content_text": "2 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53c4c102e35eb1387b00000c.JPG",
+   "date_published": "2014-07-15T05:49:54.000+00:00",
+   "date_modified": "2014-07-15T05:49:54.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.36,
+     -37.236
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2014-07-15",
+    "name": "lauriston_reserve",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/david_francis/collections/lauriston_reserve/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Flauriston_reserve%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

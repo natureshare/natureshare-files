@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Birds Of Pinkerton Forest 1",
+ "description": "All users for [birds_of_pinkerton_forest_1]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fbirds_of_pinkerton_forest_1%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/birds_of_pinkerton_forest_1/index.json",
+ "items": [
+  {
+   "title": "westernplainsgardener",
+   "content_text": "4 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5b960d3ded2a89cce30032a4/2018-12-27/1545868036/IMG_2808.JPG",
+   "date_published": "2018-12-26T23:48:04.000+00:00",
+   "date_modified": "2018-12-26T23:48:04.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.609426,
+     -37.767944
+    ]
+   },
+   "_meta": {
+    "itemCount": 4,
+    "date": "2018-12-26",
+    "name": "birds_of_pinkerton_forest_1",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/westernplainsgardener/collections/birds_of_pinkerton_forest_1/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fcollections%2Fbirds_of_pinkerton_forest_1%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

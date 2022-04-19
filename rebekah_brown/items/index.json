@@ -1,0 +1,86 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "rebekah_brown",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frebekah_brown%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frebekah_brown%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/rebekah_brown/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/rebekah_brown/items/ns/2013/53b39859e35eb12984010703.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frebekah_brown%2Fitems%2Fns%2F2013%2F53b39859e35eb12984010703.yaml",
+   "title": "Epacris impressa var. impressa",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ae35eb1298401484f.jpg",
+   "date_published": "2013-11-09T15:01:23.000+00:00",
+   "date_modified": "2013-11-20T06:03:57.000+00:00",
+   "tags": [
+    "id~Epacris impressa var. impressa"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2013-11-08",
+    "imageCount": 1
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/rebekah_brown/items/ns/2013/53b39859e35eb129840106de.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frebekah_brown%2Fitems%2Fns%2F2013%2F53b39859e35eb129840106de.yaml",
+   "title": "Dacelo novaeguineae",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb12984014764.jpg",
+   "date_published": "2013-11-06T06:27:26.000+00:00",
+   "date_modified": "2014-07-02T20:24:15.000+00:00",
+   "tags": [
+    "id~Dacelo novaeguineae",
+    "tag~bird",
+    "tag~kookaburra"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.460401,
+     -37.766949
+    ]
+   },
+   "_meta": {
+    "date": "2013-11-04",
+    "imageCount": 1
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/rebekah_brown/items/ns/2013/53b39858e35eb12984010313.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frebekah_brown%2Fitems%2Fns%2F2013%2F53b39858e35eb12984010313.yaml",
+   "title": "Iris spp.",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb1298401411c.jpg",
+   "date_published": "2013-07-17T10:54:33.000+00:00",
+   "date_modified": "2014-07-03T02:53:00.000+00:00",
+   "tags": [
+    "id~Iris spp.",
+    "tag~flower",
+    "tag~purple_flower"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.085167,
+     -37.802333
+    ]
+   },
+   "_meta": {
+    "date": "2013-07-17",
+    "imageCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

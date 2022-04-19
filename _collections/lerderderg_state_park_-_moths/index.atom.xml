@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lerderderg State Park Moths</title>
+  <id>https://files.natureshare.org/_collections/lerderderg_state_park_-_moths/index.xml</id>
+  <updated>2018-03-04T09:52:31.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/_collections/lerderderg_state_park_-_moths/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/_collections/lerderderg_state_park_-_moths/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Flerderderg_state_park_-_moths%2Findex.json"/>
+  <author>
+    <name>All Collections</name>
+    <uri>https://natureshare.org/collections</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 All Collections</rights>
+  <subtitle>All users for [lerderderg_state_park_-_moths]</subtitle>
+  <entry>
+    <id>https://files.natureshare.org/koolah/collections/lerderderg_state_park_-_moths/aggregate/index.json</id>
+    <title>koolah</title>
+    <updated>2018-03-04T09:52:31.000+00:00</updated>
+    <published>2018-03-04T09:52:31.000+00:00</published>
+    <author>
+      <name>All Collections</name>
+      <uri>https://natureshare.org/collections</uri>
+    </author>
+    <content type="text">105 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fcollections%2Flerderderg_state_park_-_moths%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/peterm/collections/lerderderg_state_park_-_moths/aggregate/index.json</id>
+    <title>peterm</title>
+    <updated>2018-03-04T09:52:31.000+00:00</updated>
+    <published>2018-03-04T09:52:31.000+00:00</published>
+    <author>
+      <name>All Collections</name>
+      <uri>https://natureshare.org/collections</uri>
+    </author>
+    <content type="text">17 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpeterm%2Fcollections%2Flerderderg_state_park_-_moths%2Faggregate%2Findex.json"/>
+  </entry>
+</feed>

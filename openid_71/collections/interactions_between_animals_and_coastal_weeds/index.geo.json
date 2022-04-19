@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     159.087524,
+     -31.543431
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_71/items/ns/2011/53b39853e35eb1298400f14e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_71%2Fitems%2Fns%2F2011%2F53b39853e35eb1298400f14e.yaml",
+    "date": "2011-11-19",
+    "title": "Anous stolidus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb1298401274d.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     159.075851,
+     -31.520313
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_71/items/ns/2011/53b39853e35eb1298400f14b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_71%2Fitems%2Fns%2F2011%2F53b39853e35eb1298400f14b.yaml",
+    "date": "2011-11-19",
+    "title": "Onychoprion fuscata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb1298401274a.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.512832,
+     -38.584514
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_71/items/ns/2011/53b39852e35eb1298400efb1.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_71%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400efb1.yaml",
+    "date": "2011-11-05",
+    "title": "Cakile maritima subsp. maritima, Eutrichopidia latinus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840124ed.jpg"
+   }
+  }
+ ]
+}

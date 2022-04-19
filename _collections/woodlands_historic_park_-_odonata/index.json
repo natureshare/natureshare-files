@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Woodlands Historic Park Odonata",
+ "description": "All users for [woodlands_historic_park_-_odonata]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fwoodlands_historic_park_-_odonata%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/woodlands_historic_park_-_odonata/index.json",
+ "items": [
+  {
+   "title": "andrew_allen",
+   "content_text": "17 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_583ba1bbed2a897480005b25/2019-01-12/1547271334/damselfly-2019-01-12-woodlands-3.jpg",
+   "date_published": "2019-01-12T05:36:40.000+00:00",
+   "date_modified": "2019-01-12T05:36:40.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.86363,
+     -37.64818
+    ]
+   },
+   "_meta": {
+    "itemCount": 17,
+    "date": "2019-01-12",
+    "name": "woodlands_historic_park_-_odonata",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/andrew_allen/collections/woodlands_historic_park_-_odonata/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandrew_allen%2Fcollections%2Fwoodlands_historic_park_-_odonata%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "triplett",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a4adfa2ed2a893fb7000080.jpg",
+   "date_published": "2018-01-02T01:30:26.000+00:00",
+   "date_modified": "2018-01-02T01:30:26.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.872,
+     -37.652
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2018-01-02",
+    "name": "woodlands_historic_park_-_odonata",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/triplett/collections/woodlands_historic_park_-_odonata/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftriplett%2Fcollections%2Fwoodlands_historic_park_-_odonata%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

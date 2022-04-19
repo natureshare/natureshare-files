@@ -1,0 +1,96 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Birds Of The Werribee River Cobbledicks Reserve To The Coast",
+ "description": "",
+ "author": {
+  "name": "openid_7",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fcollections%2Fbirds_of_the_werribee_river_cobbledicks_reserve_to_the_coast%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_7/collections/birds_of_the_werribee_river_cobbledicks_reserve_to_the_coast/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_7/items/ns/2015/birds_of_the_werribee_river_cobbledicks_reserve_to_the_coast_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Fns%2F2015%2Fbirds_of_the_werribee_river_cobbledicks_reserve_to_the_coast_species_list.yaml",
+   "title": "4 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2011-09-19T11:26:50.000+00:00",
+   "date_modified": "2015-04-07T08:47:35.000+00:00",
+   "tags": [
+    "id~Elanus axillaris",
+    "id~Haliaeetus leucogaster",
+    "id~Ninox novaeseelandiae",
+    "id~Podargus strigoides",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "openid_7",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_7/items/ns/2011/53b39851e35eb1298400ebea.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ebea.yaml",
+   "title": "Ninox novaeseelandiae",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb1298401207c.jpg",
+   "date_published": "2011-09-13T21:23:07.000+00:00",
+   "date_modified": "2011-09-13T21:25:19.000+00:00",
+   "tags": [
+    "id~Ninox novaeseelandiae"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.650149,
+     -37.906778
+    ]
+   },
+   "_meta": {
+    "date": "2011-09-12",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_7",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_7/items/ns/2011/53b39851e35eb1298400ebe6.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ebe6.yaml",
+   "title": "Anhinga novaehollandiae",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984012078.jpg",
+   "date_published": "2011-09-13T20:33:04.000+00:00",
+   "date_modified": "2011-09-13T20:37:44.000+00:00",
+   "tags": [
+    "id~Anhinga novaehollandiae"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.648654,
+     -37.891992
+    ]
+   },
+   "_meta": {
+    "date": "2006-11-02",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_7",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

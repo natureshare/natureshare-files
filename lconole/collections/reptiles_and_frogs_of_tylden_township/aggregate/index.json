@@ -1,0 +1,138 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Reptiles and frogs of Tylden township",
+ "description": "Species recorded within 2km of the Tylden General Store - essentially the township boundaries.",
+ "author": {
+  "name": "lconole",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fcollections%2Freptiles_and_frogs_of_tylden_township%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/lconole/collections/reptiles_and_frogs_of_tylden_township/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/lconole/items/ns/2017/587ca349ed2a89f4640029cc.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2017%2F587ca349ed2a89f4640029cc.yaml",
+   "title": "Litoria peronii",
+   "content_text": "Two Peron's Tree-frogs calling at last light. I've not heard them here before over the last ~5 years.",
+   "date_published": "2017-01-16T10:41:13.000+00:00",
+   "date_modified": "2017-01-16T10:41:13.000+00:00",
+   "tags": [
+    "id~Litoria peronii",
+    "tag~calling"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.417275,
+     -37.325047
+    ]
+   },
+   "_meta": {
+    "date": "2017-01-16"
+   },
+   "author": {
+    "name": "lconole",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/lconole/items/ns/2015/5590cb20ed2a8918dd001577.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2F5590cb20ed2a8918dd001577.yaml",
+   "title": "3 ids",
+   "content_text": "Frogs heard calling from dam on private property (Litoria ewingii, Crinia signifera) and roadside swale (Pseudophryne bibronii, Litoria ewingii, Crinia signifera).",
+   "date_published": "2015-06-29T04:35:44.000+00:00",
+   "date_modified": "2015-06-29T04:35:44.000+00:00",
+   "tags": [
+    "id~Crinia signifera",
+    "id~Litoria ewingii",
+    "id~Pseudophryne bibronii",
+    "tag~calling",
+    "tag~male"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.417144,
+     -37.322304
+    ]
+   },
+   "_meta": {
+    "date": "2015-06-28"
+   },
+   "author": {
+    "name": "lconole",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/lconole/items/ns/2015/55090abfed2a8974d30006e2.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2F55090abfed2a8974d30006e2.yaml",
+   "title": "3 ids",
+   "content_text": "Calling from patch of Ranunculus in waterway tributary of Little Coliban River.",
+   "date_published": "2015-03-18T05:18:55.000+00:00",
+   "date_modified": "2015-03-18T05:20:21.000+00:00",
+   "tags": [
+    "id~Crinia parinsignifera",
+    "id~Crinia signifera",
+    "id~Litoria ewingii",
+    "tag~calling"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.413928,
+     -37.326823
+    ]
+   },
+   "_meta": {
+    "date": "2015-03-18"
+   },
+   "author": {
+    "name": "lconole",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/lconole/items/ns/2015/reptiles_and_frogs_of_tylden_township_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2Freptiles_and_frogs_of_tylden_township_species_list.yaml",
+   "title": "13 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2015-03-01T07:04:33.000+00:00",
+   "date_modified": "2015-10-05T03:43:14.000+00:00",
+   "tags": [
+    "id~Austrelaps superbus",
+    "id~Crinia parinsignifera",
+    "id~Crinia signifera",
+    "id~Lampropholis guichenoti",
+    "id~Limnodynastes dumerilii",
+    "id~Limnodynastes peronii",
+    "id~Limnodynastes tasmaniensis",
+    "id~Litoria ewingii",
+    "id~Litoria verreauxii verreauxii",
+    "id~Pseudemoia pagenstecheri",
+    "id~Pseudonaja textilis",
+    "id~Pseudophryne bibronii",
+    "id~Tiliqua nigrolutea",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.407285,
+     -37.326193
+    ]
+   },
+   "_meta": {
+    "date": "2015-10-05"
+   },
+   "author": {
+    "name": "lconole",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 4,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": "<p>Species recorded within 2km of the Tylden General Store - essentially the township boundaries.</p>\n"
+ }
+}

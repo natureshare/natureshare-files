@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/lconole/collections/mammals_of_tylden_township/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Mammals Of Tylden Township</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fcollections%2Fmammals_of_tylden_township%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 lconole</copyright>
+    <pubDate>Mon, 16 Jan 2017 10:44:46 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Macropus giganteus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2F5590cc48ed2a8918dd001586.yaml</link>
+      <dc:creator>lconole</dc:creator>
+      <description>Recent site works at the quarry, the kangaroos spending more time in our yard! 7 individuals, various ages including with young in pouch.</description>
+      <category>id~Macropus giganteus</category>
+      <category>tag~breeding</category>
+      <guid isPermaLink="false">https://files.natureshare.org/lconole/items/ns/2015/5590cc48ed2a8918dd001586.yaml</guid>
+      <pubDate>Mon, 29 Jun 2015 04:40:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vespadelus darlingtoni</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2F54f64522ed2a89ef1100001a.yaml</link>
+      <dc:creator>lconole</dc:creator>
+      <description>Entered house through gap in ceiling.</description>
+      <category>id~Vespadelus darlingtoni</category>
+      <category>tag~adult-female</category>
+      <guid isPermaLink="false">https://files.natureshare.org/lconole/items/ns/2015/54f64522ed2a89ef1100001a.yaml</guid>
+      <pubDate>Tue, 03 Mar 2015 23:34:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vespadelus vulturnus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2F54f64406ed2a89b7cf000019.yaml</link>
+      <dc:creator>lconole</dc:creator>
+      <description>Came in through the bathroom window (but it's not a member of The Beatles).</description>
+      <category>id~Vespadelus vulturnus</category>
+      <category>tag~male-adult</category>
+      <guid isPermaLink="false">https://files.natureshare.org/lconole/items/ns/2015/54f64406ed2a89b7cf000019.yaml</guid>
+      <pubDate>Tue, 03 Mar 2015 23:30:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>15 ids</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2017%2Fmammals_of_tylden_township_species_list.yaml</link>
+      <dc:creator>lconole</dc:creator>
+      <description>Species list for collection.</description>
+      <category>id~Chalinolobus gouldii</category>
+      <category>id~Chalinolobus morio</category>
+      <category>id~Lepus europeaus</category>
+      <category>id~Macropus giganteus</category>
+      <category>id~Mus musculus</category>
+      <category>id~Nyctophilus geoffroyi</category>
+      <category>id~Oryctolagus cuniculus</category>
+      <category>id~Pseudocheirus peregrinus</category>
+      <category>id~Tachyglossus aculeatus</category>
+      <category>id~Tadarida australis</category>
+      <category>id~Vespadelus darlingtoni</category>
+      <category>id~Vespadelus regulus</category>
+      <category>id~Vespadelus vulturnus</category>
+      <category>id~Vulpes vulpes</category>
+      <category>id~Wallabia bicolor</category>
+      <category>tag~species-list</category>
+      <guid isPermaLink="false">https://files.natureshare.org/lconole/items/ns/2017/mammals_of_tylden_township_species_list.yaml</guid>
+      <pubDate>Sun, 01 Mar 2015 07:09:27 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

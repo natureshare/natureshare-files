@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.741,
+     -37.565
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/mallacoota_area_insects_spiders_and_other_invertebrates/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmallacoota_area_insects_spiders_and_other_invertebrates%2Faggregate%2Findex.json",
+    "date": "2013-06-02",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39867e35eb12984013e88.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.681,
+     -37.662
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lydia/collections/mallacoota_area_insects_spiders_and_other_invertebrates/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fcollections%2Fmallacoota_area_insects_spiders_and_other_invertebrates%2Faggregate%2Findex.json",
+    "date": "2013-02-02",
+    "title": "lydia",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb1298401397d.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Flora And Fauna Of Eynesbury",
+ "description": "All users for [flora_and_fauna_of_eynesbury]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fflora_and_fauna_of_eynesbury%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/flora_and_fauna_of_eynesbury/index.json",
+ "items": [
+  {
+   "title": "westernplainsgardener",
+   "content_text": "3 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bc020f5ed2a89c6aa0000fb.JPG",
+   "date_published": "2018-10-12T04:31:59.000+00:00",
+   "date_modified": "2018-10-12T04:31:59.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.561441,
+     -37.791777
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2018-10-12",
+    "name": "flora_and_fauna_of_eynesbury",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/westernplainsgardener/collections/flora_and_fauna_of_eynesbury/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fcollections%2Fflora_and_fauna_of_eynesbury%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

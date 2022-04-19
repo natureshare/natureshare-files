@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.270919,
+     -38.130025
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_77/items/ns/2011/53b39851e35eb1298400ebdb.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_77%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ebdb.yaml",
+    "date": "2011-09-11",
+    "title": "Apis mellifera",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb1298401207e.jpg"
+   }
+  }
+ ]
+}

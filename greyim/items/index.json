@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "greyim",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgreyim%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgreyim%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/greyim/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/greyim/items/ns/2018/5a4fe0d1ed2a89da710000db.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgreyim%2Fitems%2Fns%2F2018%2F5a4fe0d1ed2a89da710000db.yaml",
+   "title": "Pseudocheirus peregrinus",
+   "content_text": "Ringtail after green walnuts",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a4fe0d4ed2a890e9e000068.jpg",
+   "date_published": "2018-01-05T20:36:04.000+00:00",
+   "date_modified": "2018-01-05T21:32:57.000+00:00",
+   "tags": [
+    "id~Pseudocheirus peregrinus"
+   ],
+   "_geo": {
+    "coordinates": [
+     146.326028,
+     -41.184046
+    ]
+   },
+   "_meta": {
+    "date": "2018-01-05",
+    "imageCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

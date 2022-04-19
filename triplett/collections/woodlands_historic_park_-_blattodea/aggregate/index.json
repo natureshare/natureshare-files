@@ -1,0 +1,49 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Woodlands historic park - blattodea",
+ "description": "",
+ "author": {
+  "name": "triplett",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftriplett%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftriplett%2Fcollections%2Fwoodlands_historic_park_-_blattodea%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/triplett/collections/woodlands_historic_park_-_blattodea/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/triplett/items/ns/2018/5bbc1226ed2a89c10e002478.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftriplett%2Fitems%2Fns%2F2018%2F5bbc1226ed2a89c10e002478.yaml",
+   "title": "Ellipsidion australe, Xerochrysum viscosum",
+   "content_text": "Very young Australian Cockroach nymph getting between the outer bracts of the unopened flower head. Ants do the same thing so there must be some food down there, although I don't know why there would be.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbc1228ed2a89280700010c.jpg",
+   "date_published": "2018-10-09T02:31:52.000+00:00",
+   "date_modified": "2018-10-09T02:32:28.000+00:00",
+   "tags": [
+    "id~Ellipsidion australe",
+    "id~Xerochrysum viscosum",
+    "tag~nymph"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.863719,
+     -37.644504
+    ]
+   },
+   "_meta": {
+    "date": "2018-10-09",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "triplett",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftriplett%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

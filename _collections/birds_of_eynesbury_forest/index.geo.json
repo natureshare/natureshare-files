@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.564,
+     -37.787
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/giorgiod/collections/birds_of_eynesbury_forest/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fcollections%2Fbirds_of_eynesbury_forest%2Faggregate%2Findex.json",
+    "date": "2018-10-11",
+    "title": "giorgiod",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbef813ed2a89c6aa0000f3.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.567,
+     -37.788
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/westernplainsgardener/collections/birds_of_eynesbury_forest/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fcollections%2Fbirds_of_eynesbury_forest%2Faggregate%2Findex.json",
+    "date": "2018-10-11",
+    "title": "westernplainsgardener",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbef813ed2a89c6aa0000f3.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.565,
+     -37.786
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_28/collections/birds_of_eynesbury_forest/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fcollections%2Fbirds_of_eynesbury_forest%2Faggregate%2Findex.json",
+    "date": "2011-06-03",
+    "title": "openid_28",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011bb2.jpg"
+   }
+  }
+ ]
+}

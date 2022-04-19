@@ -1,0 +1,101 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.667873,
+     -37.439807
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/psoralea/items/ns/2014/54028867e35eb198520000fd.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2014%2F54028867e35eb198520000fd.yaml",
+    "date": "2014-08-31",
+    "title": "Tachyglossus aculeatus"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.665336,
+     -37.438627
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/psoralea/items/ns/2014/540287d4e35eb198520000f2.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2014%2F540287d4e35eb198520000f2.yaml",
+    "date": "2014-08-24",
+    "title": "Antechinus agilis"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.668034,
+     -37.440459
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/psoralea/items/ns/2014/54028713e35eb198520000eb.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2014%2F54028713e35eb198520000eb.yaml",
+    "date": "2014-08-31",
+    "title": "Macropus giganteus"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.667809,
+     -37.439551
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/psoralea/items/ns/2014/54028325e35eb19d94000157.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2014%2F54028325e35eb19d94000157.yaml",
+    "date": "2014-08-30",
+    "title": "Phascolarctos cinereus"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.667583,
+     -37.440042
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/psoralea/items/ns/2013/53b39856e35eb1298400ff1c.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400ff1c.yaml",
+    "date": "2013-03-06",
+    "title": "Trichosurus vulpecula"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.66769,
+     -37.439991
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/psoralea/items/ns/2013/53b39856e35eb1298400ff1b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400ff1b.yaml",
+    "date": "2013-03-06",
+    "title": "Macropus giganteus"
+   }
+  }
+ ]
+}

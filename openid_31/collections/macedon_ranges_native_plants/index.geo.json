@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.598081,
+     -37.391717
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e6ff.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e6ff.yaml",
+    "date": "2010-04-09",
+    "title": "Dipodium roseum s.s.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011a41.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.584198,
+     -37.395866
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e6f8.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e6f8.yaml",
+    "date": "2008-09-21",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011a37.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.591322,
+     -37.401842
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/items/ns/2011/53b39850e35eb1298400e6f6.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e6f6.yaml",
+    "date": "2008-11-14",
+    "title": "Clematis aristata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011a35.jpg"
+   }
+  }
+ ]
+}

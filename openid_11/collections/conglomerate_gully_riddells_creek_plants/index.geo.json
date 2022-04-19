@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.652348,
+     -37.450877
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_11/items/ns/2010/53b3984fe35eb1298400e38d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_11%2Fitems%2Fns%2F2010%2F53b3984fe35eb1298400e38d.yaml",
+    "date": "2010-11-22",
+    "title": "Arthropodium milleflorum s.s.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb12984011650.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.653206,
+     -37.44672
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_11/items/ns/2010/53b3984fe35eb1298400e38c.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_11%2Fitems%2Fns%2F2010%2F53b3984fe35eb1298400e38c.yaml",
+    "date": "2010-11-22",
+    "title": "Leucochrysum albicans var. albicans",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb1298401164e.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.652133,
+     -37.457571
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_11/items/ns/2010/53b3984fe35eb1298400e38b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_11%2Fitems%2Fns%2F2010%2F53b3984fe35eb1298400e38b.yaml",
+    "date": "2010-11-21",
+    "title": "Brunonia australis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb1298401164d.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.652541,
+     -37.456192
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_11/items/ns/2010/53b3984fe35eb1298400e38a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_11%2Fitems%2Fns%2F2010%2F53b3984fe35eb1298400e38a.yaml",
+    "date": "2010-11-22",
+    "title": "Dawsonia longiseta",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb1298401164c.jpg"
+   }
+  }
+ ]
+}

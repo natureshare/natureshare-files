@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Craigieburn Grassland Ncr Flora",
+ "description": "All users for [craigieburn_grassland_ncr_flora]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fcraigieburn_grassland_ncr_flora%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/craigieburn_grassland_ncr_flora/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "3 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011d5a.jpg",
+   "date_published": "2012-02-23T11:44:30.000+00:00",
+   "date_modified": "2012-02-23T11:44:30.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.9669,
+     -37.611775
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2012-02-23",
+    "name": "craigieburn_grassland_ncr_flora",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/craigieburn_grassland_ncr_flora/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fcraigieburn_grassland_ncr_flora%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

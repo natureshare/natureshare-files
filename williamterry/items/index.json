@@ -1,0 +1,85 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "williamterry",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwilliamterry%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwilliamterry%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/williamterry/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/williamterry/items/ns/2014/54223d6be35eb1cc74000050.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fwilliamterry%2Fitems%2Fns%2F2014%2F54223d6be35eb1cc74000050.yaml",
+   "title": "Vicia hirsuta",
+   "content_text": "A difficult plant to identify. Very small white pea flowers.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54223d6be35eb1cc7400004f.JPG",
+   "date_published": "2014-09-24T03:41:31.000+00:00",
+   "date_modified": "2014-09-24T03:52:01.000+00:00",
+   "tags": [
+    "id~Vicia hirsuta"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.518638,
+     -37.352061
+    ]
+   },
+   "_meta": {
+    "date": "2014-09-23",
+    "imageCount": 2
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/williamterry/items/ns/2014/53f2f7abe35eb15e3c000006.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fwilliamterry%2Fitems%2Fns%2F2014%2F53f2f7abe35eb15e3c000006.yaml",
+   "title": "Climacteris erythrops",
+   "content_text": "Would have assumed it was a White-throated Tree Creeper, however, I could easily see the red-brow above the eye. The image is blurry, but the brow is clearly visible.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53f2f7abe35eb15e3c000004.jpg",
+   "date_published": "2014-08-19T07:07:23.000+00:00",
+   "date_modified": "2014-08-19T07:08:20.000+00:00",
+   "tags": [
+    "id~Climacteris erythrops"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.596964,
+     -37.328263
+    ]
+   },
+   "_meta": {
+    "date": "2014-08-19",
+    "imageCount": 1
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/williamterry/items/ns/2014/53e94787e35eb175d700000b.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fwilliamterry%2Fitems%2Fns%2F2014%2F53e94787e35eb175d700000b.yaml",
+   "title": "Sambucus gaudichaudiana",
+   "content_text": "Unusual looking plan near Hanging Rock",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53e94787e35eb175d700000a.JPG",
+   "date_published": "2014-08-11T22:45:27.000+00:00",
+   "date_modified": "2014-08-18T03:52:00.000+00:00",
+   "tags": [
+    "id~Sambucus gaudichaudiana"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.596696,
+     -37.330038
+    ]
+   },
+   "_meta": {
+    "date": "2014-08-11",
+    "imageCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

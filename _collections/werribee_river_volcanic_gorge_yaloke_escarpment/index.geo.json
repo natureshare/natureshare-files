@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.58,
+     -37.764
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_130/collections/werribee_river_volcanic_gorge_yaloke_escarpment/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fcollections%2Fwerribee_river_volcanic_gorge_yaloke_escarpment%2Faggregate%2Findex.json",
+    "date": "2012-07-11",
+    "title": "openid_130",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011bbc.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.58,
+     -37.764
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/werribee_river_volcanic_gorge_yaloke_escarpment/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fwerribee_river_volcanic_gorge_yaloke_escarpment%2Faggregate%2Findex.json",
+    "date": "2011-06-06",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011bbc.jpg"
+   }
+  }
+ ]
+}

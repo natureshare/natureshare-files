@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/lydia/collections/neds_corner_reptiles/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Neds corner reptiles</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fcollections%2Fneds_corner_reptiles%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 lydia</copyright>
+    <pubDate>Fri, 18 Sep 2015 21:27:32 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Pogona vitticeps</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2015%2F55d6caafed2a89db810012ff.yaml</link>
+      <dc:creator>lydia</dc:creator>
+      <description>Sitting on a fence post by the road as we drove by.</description>
+      <category>id~Pogona vitticeps</category>
+      <guid isPermaLink="false">https://files.natureshare.org/lydia/items/ns/2015/55d6caafed2a89db810012ff.yaml</guid>
+      <pubDate>Fri, 21 Aug 2015 06:52:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gehyra variegata</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2013%2F53b39859e35eb129840108ca.yaml</link>
+      <dc:creator>lydia</dc:creator>
+      <description>-</description>
+      <category>id~Gehyra variegata</category>
+      <guid isPermaLink="false">https://files.natureshare.org/lydia/items/ns/2013/53b39859e35eb129840108ca.yaml</guid>
+      <pubDate>Tue, 03 Dec 2013 19:16:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nephrurus milii</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2013%2F53b39858e35eb129840103de.yaml</link>
+      <dc:creator>lydia</dc:creator>
+      <description>-</description>
+      <category>id~Nephrurus milii</category>
+      <guid isPermaLink="false">https://files.natureshare.org/lydia/items/ns/2013/53b39858e35eb129840103de.yaml</guid>
+      <pubDate>Fri, 16 Aug 2013 13:32:51 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

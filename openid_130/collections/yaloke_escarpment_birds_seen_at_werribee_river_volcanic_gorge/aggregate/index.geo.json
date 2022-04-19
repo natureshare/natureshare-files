@@ -1,0 +1,37 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.576902,
+     -37.753344
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_130/items/ns/2012/53b39854e35eb1298400f688.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f688.yaml",
+    "date": "2014-06-04",
+    "title": "21 ids"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.592609,
+     -37.763726
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_130/items/ns/2015/yaloke_escarpment_birds_seen_at_werribee_river_volcanic_gorge_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Fns%2F2015%2Fyaloke_escarpment_birds_seen_at_werribee_river_volcanic_gorge_species_list.yaml",
+    "date": "2015-04-07",
+    "title": "21 ids"
+   }
+  }
+ ]
+}

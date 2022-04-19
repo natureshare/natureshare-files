@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/psoralea/collections/glittering_plants/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Glittering Plants</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fcollections%2Fglittering_plants%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 psoralea</copyright>
+    <pubDate>Mon, 01 Jan 2018 07:37:20 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Eucalyptus ovata</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2018%2F5a49e4a0ed2a89e23c003da6.yaml</link>
+      <dc:creator>psoralea</dc:creator>
+      <description>Large swamp gum</description>
+      <category>id~Eucalyptus ovata</category>
+      <category>tag~trunk</category>
+      <guid isPermaLink="false">https://files.natureshare.org/psoralea/items/ns/2018/5a49e4a0ed2a89e23c003da6.yaml</guid>
+      <pubDate>Mon, 01 Jan 2018 07:36:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Acacia mearnsii</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2018%2F5a49cf85ed2a893ede000082.yaml</link>
+      <dc:creator>psoralea</dc:creator>
+      <description>Black wattle</description>
+      <category>id~Acacia mearnsii</category>
+      <category>tag~phyllode</category>
+      <category>tag~seed-pod</category>
+      <category>tag~tree</category>
+      <guid isPermaLink="false">https://files.natureshare.org/psoralea/items/ns/2018/5a49cf85ed2a893ede000082.yaml</guid>
+      <pubDate>Mon, 01 Jan 2018 06:08:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rytidosperma spp.</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2018%2F5a49cd21ed2a89e23c003d46.yaml</link>
+      <dc:creator>psoralea</dc:creator>
+      <description>Dantonia spp</description>
+      <category>id~Rytidosperma spp.</category>
+      <category>tag~grass</category>
+      <category>tag~tussock</category>
+      <guid isPermaLink="false">https://files.natureshare.org/psoralea/items/ns/2018/5a49cd21ed2a89e23c003d46.yaml</guid>
+      <pubDate>Mon, 01 Jan 2018 05:58:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dipodium roseum s.s.</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2015%2F54f94a81ed2a89097e0004bd.yaml</link>
+      <dc:creator>psoralea</dc:creator>
+      <description>Growing in disturbed soil on the Sandy Creek road roadsie</description>
+      <category>id~Dipodium roseum s.s.</category>
+      <category>tag~flowering</category>
+      <guid isPermaLink="false">https://files.natureshare.org/psoralea/items/ns/2015/54f94a81ed2a89097e0004bd.yaml</guid>
+      <pubDate>Fri, 06 Mar 2015 06:34:41 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

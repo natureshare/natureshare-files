@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.278083,
+     -36.629931
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/andrewbrown/collections/whipstick_flora/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandrewbrown%2Fcollections%2Fwhipstick_flora%2Faggregate%2Findex.json",
+    "date": "2017-10-12",
+    "title": "andrewbrown",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59df4e6eed2a893984000494.JPG"
+   }
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.353809,
+     -37.881611
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/argybee/collections/dandenong_ranges_coleoptera/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fargybee%2Fcollections%2Fdandenong_ranges_coleoptera%2Faggregate%2Findex.json",
+    "date": "2018-01-25",
+    "title": "argybee",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a69c833ed2a89f453000023.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.311,
+     -37.899
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/leuba/collections/dandenong_ranges_coleoptera/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fcollections%2Fdandenong_ranges_coleoptera%2Faggregate%2Findex.json",
+    "date": "2018-01-25",
+    "title": "leuba",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a69c833ed2a89f453000023.jpg"
+   }
+  }
+ ]
+}

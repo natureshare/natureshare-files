@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/openid_169/collections/birds_at_13_limonite_road_boolarra/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Birds at 13 Limonite Road, Boolarra</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_169%2Fcollections%2Fbirds_at_13_limonite_road_boolarra%2Faggregate%2Findex.json</link>
+    <description>Wattlebird</description>
+    <language>en-us</language>
+    <copyright>© 2022 openid_169</copyright>
+    <pubDate>Tue, 07 Apr 2015 08:47:40 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>4 ids</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_169%2Fitems%2Fns%2F2013%2F53b39858e35eb12984010348.yaml</link>
+      <dc:creator>openid_169</dc:creator>
+      <description>-</description>
+      <category>id~Acanthorhynchus tenuirostris</category>
+      <category>id~Alisterus scapularis</category>
+      <category>id~Anthochaera chrysoptera</category>
+      <category>id~Strepera graculina</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_169/items/ns/2013/53b39858e35eb12984010348.yaml</guid>
+      <pubDate>Fri, 19 Jul 2013 15:10:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthochaera chrysoptera</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_169%2Fitems%2Fns%2F2015%2Fbirds_at_13_limonite_road_boolarra_species_list.yaml</link>
+      <dc:creator>openid_169</dc:creator>
+      <description>Species list for collection.</description>
+      <category>id~Anthochaera chrysoptera</category>
+      <category>tag~species-list</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_169/items/ns/2015/birds_at_13_limonite_road_boolarra_species_list.yaml</guid>
+      <pubDate>Fri, 19 Jul 2013 14:50:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pteridium esculentum</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_169%2Fitems%2Fns%2F2013%2F53b39858e35eb1298401032f.yaml</link>
+      <dc:creator>openid_169</dc:creator>
+      <description>Found in the Boolarra Bush.</description>
+      <category>id~Pteridium esculentum</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_169/items/ns/2013/53b39858e35eb1298401032f.yaml</guid>
+      <pubDate>Fri, 19 Jul 2013 14:25:09 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

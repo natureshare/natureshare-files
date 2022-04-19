@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/openid_130/collections/birds_of_werribee_river_volcanic_gorge_pinkerton_flat/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Birds of Werribee River Volcanic Gorge - Pinkerton Flat</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fcollections%2Fbirds_of_werribee_river_volcanic_gorge_pinkerton_flat%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 openid_130</copyright>
+    <pubDate>Tue, 12 Aug 2014 03:59:20 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>17 ids</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Fns%2F2014%2F53e98ebde35eb175d700001f.yaml</link>
+      <dc:creator>openid_130</dc:creator>
+      <description>Pinkerton Flat		&#xD;
+Pacific Black Duck	 Anas superciliosa	2&#xD;
+Wedge-tailed Eagle	 Aquila audax	2&#xD;
+Swamp Harrier	 Circus approximans	1&#xD;
+Galah	 Eolophus roseicapilla	1&#xD;
+Eastern Rosella	 Platycercus eximius	3&#xD;
+Red-rumped Parrot	 Psephotus haematonotus	20&#xD;
+Superb Fairywren	 Malurus cyaneus	30&#xD;
+White-plumed Honeyeater	 Lichenostomus penicillatus	3&#xD;
+Spiny-cheeked Honeyeater	 Acanthagenys rufogularis	2&#xD;
+Brown Thornbill	 Acanthiza pusilla	2&#xD;
+Australian Magpie	 Gymnorhina tibicen	1&#xD;
+Black-faced Cuckooshrike	 Coracina novaehollandiae	1&#xD;
+Little Raven	 Corvus mellori	1&#xD;
+Silvereye	 Zosterops lateralis	10&#xD;
+Common Blackbird	 Turdus merula	1&#xD;
+European Goldfinch	 Carduelis carduelis	25&#xD;
+Red-browed Finch	 Neochmia temporalis	30&#xD;
+</description>
+      <category>id~Acanthagenys rufogularis</category>
+      <category>id~Acanthiza pusilla</category>
+      <category>id~Anas superciliosa</category>
+      <category>id~Aquila audax</category>
+      <category>id~Carduelis carduelis</category>
+      <category>id~Circus approximans</category>
+      <category>id~Coracina novaehollandiae</category>
+      <category>id~Corvus mellori</category>
+      <category>id~Eolophus roseicapilla</category>
+      <category>id~Gymnorhina tibicen</category>
+      <category>id~Lichenostomus penicillatus</category>
+      <category>id~Malurus cyaneus</category>
+      <category>id~Neochmia temporalis</category>
+      <category>id~Platycercus eximius</category>
+      <category>id~Psephotus haematonotus</category>
+      <category>id~Turdus merula</category>
+      <category>id~Zosterops lateralis</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_130/items/ns/2014/53e98ebde35eb175d700001f.yaml</guid>
+      <pubDate>Tue, 12 Aug 2014 03:49:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>17 ids</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Fns%2F2014%2Fbirds_of_werribee_river_volcanic_gorge_pinkerton_flat_species_list.yaml</link>
+      <dc:creator>openid_130</dc:creator>
+      <description>Species list for collection.</description>
+      <category>id~Acanthagenys rufogularis</category>
+      <category>id~Acanthiza pusilla</category>
+      <category>id~Anas superciliosa</category>
+      <category>id~Aquila audax</category>
+      <category>id~Carduelis carduelis</category>
+      <category>id~Circus approximans</category>
+      <category>id~Coracina novaehollandiae</category>
+      <category>id~Corvus mellori</category>
+      <category>id~Cracticus tibicen</category>
+      <category>id~Eolophus roseicapillus</category>
+      <category>id~Malurus cyaneus</category>
+      <category>id~Neochmia temporalis</category>
+      <category>id~Platycercus eximius</category>
+      <category>id~Psephotus haematonotus</category>
+      <category>id~Ptilotula penicillata</category>
+      <category>id~Turdus merula</category>
+      <category>id~Zosterops lateralis</category>
+      <category>tag~species-list</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_130/items/ns/2014/birds_of_werribee_river_volcanic_gorge_pinkerton_flat_species_list.yaml</guid>
+      <pubDate>Tue, 12 Aug 2014 03:41:25 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

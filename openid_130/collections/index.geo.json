@@ -1,0 +1,86 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.58,
+     -37.762
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_130/collections/pinkerton_link_bird_list/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fcollections%2Fpinkerton_link_bird_list%2Faggregate%2Findex.json",
+    "date": "2014-08-13",
+    "title": "Pinkerton Link Bird List"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.579587,
+     -37.76081
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_130/collections/birds_of_werribee_river_volcanic_gorge_blue_box_flat/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fcollections%2Fbirds_of_werribee_river_volcanic_gorge_blue_box_flat%2Faggregate%2Findex.json",
+    "date": "2014-08-12",
+    "title": "Birds of Werribee River Volcanic Gorge - Blue Box Flat"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.579679,
+     -37.756988
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_130/collections/birds_of_werribee_river_volcanic_gorge_pinkerton_flat/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fcollections%2Fbirds_of_werribee_river_volcanic_gorge_pinkerton_flat%2Faggregate%2Findex.json",
+    "date": "2014-08-12",
+    "title": "Birds of Werribee River Volcanic Gorge - Pinkerton Flat"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.592609,
+     -37.763726
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_130/collections/yaloke_escarpment_birds_seen_at_werribee_river_volcanic_gorge/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fcollections%2Fyaloke_escarpment_birds_seen_at_werribee_river_volcanic_gorge%2Faggregate%2Findex.json",
+    "date": "2012-07-11",
+    "title": "Yaloke Escarpment - Birds seen at Werribee River Volcanic Gorge "
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.58,
+     -37.764
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_130/collections/werribee_river_volcanic_gorge_yaloke_escarpment/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fcollections%2Fwerribee_river_volcanic_gorge_yaloke_escarpment%2Faggregate%2Findex.json",
+    "date": "2012-07-11",
+    "title": "Werribee River Volcanic Gorge -  Yaloke Escarpment ",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011bbc.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/david_francis/collections/little_desert_np_plants/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Little Desert Np Plants</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Flittle_desert_np_plants%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 david_francis</copyright>
+    <pubDate>Sat, 04 Oct 2014 08:01:20 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Unidentified</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2014%2F542fa941e35eb1dec10001ff.yaml</link>
+      <dc:creator>david_francis</dc:creator>
+      <description>Little Desert view from Ponponderoo Hill looking west.</description>
+      <category>id~Unidentified</category>
+      <category>tag~landscape</category>
+      <guid isPermaLink="false">https://files.natureshare.org/david_francis/items/ns/2014/542fa941e35eb1dec10001ff.yaml</guid>
+      <pubDate>Sat, 04 Oct 2014 08:01:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Banksia ornata</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2014%2F542fa7b2e35eb152f4000037.yaml</link>
+      <dc:creator>david_francis</dc:creator>
+      <description>-</description>
+      <category>id~Banksia ornata</category>
+      <category>tag~habit</category>
+      <guid isPermaLink="false">https://files.natureshare.org/david_francis/items/ns/2014/542fa7b2e35eb152f4000037.yaml</guid>
+      <pubDate>Sat, 04 Oct 2014 07:54:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isopogon ceratophyllus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2014%2F542fa5c5e35eb1dec10001fc.yaml</link>
+      <dc:creator>david_francis</dc:creator>
+      <description>-</description>
+      <category>id~Isopogon ceratophyllus</category>
+      <category>tag~habit</category>
+      <guid isPermaLink="false">https://files.natureshare.org/david_francis/items/ns/2014/542fa5c5e35eb1dec10001fc.yaml</guid>
+      <pubDate>Sat, 04 Oct 2014 07:46:13 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

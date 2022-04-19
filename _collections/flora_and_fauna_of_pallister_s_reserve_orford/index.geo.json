@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.029023,
+     -38.197876
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/pauline/collections/flora_and_fauna_of_pallister_s_reserve_orford/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpauline%2Fcollections%2Fflora_and_fauna_of_pallister_s_reserve_orford%2Faggregate%2Findex.json",
+    "date": "2017-01-01",
+    "title": "pauline",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58689394ed2a89d73e000287.JPG"
+   }
+  }
+ ]
+}

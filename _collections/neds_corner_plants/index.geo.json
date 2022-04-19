@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.416917,
+     -34.168274
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/collections/neds_corner_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fcollections%2Fneds_corner_plants%2Faggregate%2Findex.json",
+    "date": "2020-02-29",
+    "title": "chrisl",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ca5432ed2a89a81f000052.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.416917,
+     -34.168274
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/neds_corner_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fneds_corner_plants%2Faggregate%2Findex.json",
+    "date": "2020-02-29",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ca5432ed2a89a81f000052.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.324,
+     -34.163
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/collections/neds_corner_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fneds_corner_plants%2Faggregate%2Findex.json",
+    "date": "2017-03-16",
+    "title": "jamesbooth",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ca5432ed2a89a81f000052.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.348,
+     -34.191
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/collections/neds_corner_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fcollections%2Fneds_corner_plants%2Faggregate%2Findex.json",
+    "date": "2014-09-17",
+    "title": "gill",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/541985c5e35eb1bbf90000b9.jpg"
+   }
+  }
+ ]
+}

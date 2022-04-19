@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.730911,
+     -35.624187
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/wyperfeld_np_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fwyperfeld_np_plants%2Faggregate%2Findex.json",
+    "date": "2014-07-15",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53c501e2e35eb1387b00002d.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142,
+     -35.5
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/reilly/collections/wyperfeld_np_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fcollections%2Fwyperfeld_np_plants%2Faggregate%2Findex.json",
+    "date": "2014-07-15",
+    "title": "reilly",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53c501e2e35eb1387b00002d.JPG"
+   }
+  }
+ ]
+}

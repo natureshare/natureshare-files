@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/15/items/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Observations</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F15%2Fitems%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 15</copyright>
+    <pubDate>Tue, 14 May 2019 06:38:50 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Papilio anactus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2F15%2Fitems%2Fns%2F2019%2F5ca9df643abbd6c61d00016e.yaml</link>
+      <dc:creator>15</dc:creator>
+      <description>Newly hatched. Wings still drying. </description>
+      <category>id~Papilio anactus</category>
+      <guid isPermaLink="false">https://files.natureshare.org/15/items/ns/2019/5ca9df643abbd6c61d00016e.yaml</guid>
+      <pubDate>Sun, 07 Apr 2019 11:30:44 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

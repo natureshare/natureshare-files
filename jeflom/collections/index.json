@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "jeflom",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjeflom%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjeflom%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/jeflom/collections/index.json",
+ "items": [
+  {
+   "title": "Great otway np plants",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59d4a8b1ed2a8939840003e3.JPG",
+   "date_published": "2017-10-04T09:59:30.000+00:00",
+   "date_modified": "2017-10-04T09:59:30.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.37,
+     -38.694
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-10-04",
+    "name": "great_otway_np_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/jeflom/collections/great_otway_np_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjeflom%2Fcollections%2Fgreat_otway_np_plants%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Reptiles And Frogs Of Tylden Township</title>
+  <id>https://files.natureshare.org/lconole/collections/reptiles_and_frogs_of_tylden_township/index.xml</id>
+  <updated>2017-01-16T10:41:13.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/lconole/collections/reptiles_and_frogs_of_tylden_township/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/lconole/collections/reptiles_and_frogs_of_tylden_township/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fcollections%2Freptiles_and_frogs_of_tylden_township%2Findex.json"/>
+  <author>
+    <name>lconole</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 lconole</rights>
+  <entry>
+    <id>https://files.natureshare.org/lconole/items/ns/2017/587ca349ed2a89f4640029cc.yaml</id>
+    <title>Litoria peronii</title>
+    <updated>2017-01-16T10:41:13.000+00:00</updated>
+    <published>2017-01-16T10:41:13.000+00:00</published>
+    <author>
+      <name>lconole</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Two Peron's Tree-frogs calling at last light. I've not heard them here before over the last ~5 years.</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2017%2F587ca349ed2a89f4640029cc.yaml"/>
+    <category term="id~Litoria peronii"/>
+    <category term="tag~calling"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/lconole/items/ns/2015/5590cb20ed2a8918dd001577.yaml</id>
+    <title>3 ids</title>
+    <updated>2015-06-29T04:35:44.000+00:00</updated>
+    <published>2015-06-29T04:35:44.000+00:00</published>
+    <author>
+      <name>lconole</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Frogs heard calling from dam on private property (Litoria ewingii, Crinia signifera) and roadside swale (Pseudophryne bibronii, Litoria ewingii, Crinia signifera).</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2F5590cb20ed2a8918dd001577.yaml"/>
+    <category term="id~Crinia signifera"/>
+    <category term="id~Litoria ewingii"/>
+    <category term="id~Pseudophryne bibronii"/>
+    <category term="tag~calling"/>
+    <category term="tag~male"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/lconole/items/ns/2015/55090abfed2a8974d30006e2.yaml</id>
+    <title>3 ids</title>
+    <updated>2015-03-18T05:20:21.000+00:00</updated>
+    <published>2015-03-18T05:18:55.000+00:00</published>
+    <author>
+      <name>lconole</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Calling from patch of Ranunculus in waterway tributary of Little Coliban River.</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2F55090abfed2a8974d30006e2.yaml"/>
+    <category term="id~Crinia parinsignifera"/>
+    <category term="id~Crinia signifera"/>
+    <category term="id~Litoria ewingii"/>
+    <category term="tag~calling"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/lconole/items/ns/2015/reptiles_and_frogs_of_tylden_township_species_list.yaml</id>
+    <title>13 ids</title>
+    <updated>2015-10-05T03:43:14.000+00:00</updated>
+    <published>2015-03-01T07:04:33.000+00:00</published>
+    <author>
+      <name>lconole</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Species list for collection.</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2Freptiles_and_frogs_of_tylden_township_species_list.yaml"/>
+    <category term="id~Austrelaps superbus"/>
+    <category term="id~Crinia parinsignifera"/>
+    <category term="id~Crinia signifera"/>
+    <category term="id~Lampropholis guichenoti"/>
+    <category term="id~Limnodynastes dumerilii"/>
+    <category term="id~Limnodynastes peronii"/>
+    <category term="id~Limnodynastes tasmaniensis"/>
+    <category term="id~Litoria ewingii"/>
+    <category term="id~Litoria verreauxii verreauxii"/>
+    <category term="id~Pseudemoia pagenstecheri"/>
+    <category term="id~Pseudonaja textilis"/>
+    <category term="id~Pseudophryne bibronii"/>
+    <category term="id~Tiliqua nigrolutea"/>
+    <category term="tag~species-list"/>
+  </entry>
+</feed>

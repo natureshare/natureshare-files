@@ -1,0 +1,74 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Neds corner frogs",
+ "description": "",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fneds_corner_frogs%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/neds_corner_frogs/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2012/53b39854e35eb1298400f4aa.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f4aa.yaml",
+   "title": "Limnodynastes tasmaniensis",
+   "content_text": "Recorded audio. Deafening in Murray flood waters.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012bbf.jpg",
+   "date_published": "2012-04-03T15:36:02.000+00:00",
+   "date_modified": "2012-04-03T15:39:51.000+00:00",
+   "tags": [
+    "id~Limnodynastes tasmaniensis",
+    "tag~northern-call-race"
+   ],
+   "_geo": {
+    "coordinates": [
+     141.321917,
+     -34.141046
+    ]
+   },
+   "_meta": {
+    "date": "2012-03-30",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2012/53b39854e35eb1298400f4a9.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f4a9.yaml",
+   "title": "Litoria peronii",
+   "content_text": "Peron's Tap Frog?",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012bbc.jpg",
+   "date_published": "2012-04-03T14:44:14.000+00:00",
+   "date_modified": "2012-04-03T15:10:56.000+00:00",
+   "tags": [
+    "id~Litoria peronii"
+   ],
+   "_geo": {
+    "coordinates": [
+     141.326553,
+     -34.141061
+    ]
+   },
+   "_meta": {
+    "date": "2012-03-30",
+    "imageCount": 3
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

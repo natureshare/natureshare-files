@@ -1,0 +1,90 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.392162,
+     -37.727196
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tmiller/items/ns/2017/58a53733ed2a89f8d700002a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fitems%2Fns%2F2017%2F58a53733ed2a89f8d700002a.yaml",
+    "date": "2015-10-14",
+    "title": "Nicotiana suaveolens",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a537eaed2a89d73e000388.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.392076,
+     -37.72704
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tmiller/items/ns/2017/58a53732ed2a89f8d7000028.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fitems%2Fns%2F2017%2F58a53732ed2a89f8d7000028.yaml",
+    "date": "2015-10-14",
+    "title": "Pseudonaja textilis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a537b6ed2a89d73e000387.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.393106,
+     -37.728078
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tmiller/items/ns/2015/566e47f8ed2a89b5f5000453.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fitems%2Fns%2F2015%2F566e47f8ed2a89b5f5000453.yaml",
+    "date": "2015-12-11",
+    "title": "Tachyglossus aculeatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/566e480ded2a899c630002ae.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.393513,
+     -37.727527
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tmiller/items/ns/2015/565667abed2a89e56e000f38.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fitems%2Fns%2F2015%2F565667abed2a89e56e000f38.yaml",
+    "date": "2015-11-19",
+    "title": "Ctenotus robustus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/565667ceed2a899c6300022b.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.393653,
+     -37.727238
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tmiller/items/ns/2015/565665cced2a89e56e000f34.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fitems%2Fns%2F2015%2F565665cced2a89e56e000f34.yaml",
+    "date": "2015-11-19",
+    "title": "Egernia cunninghami",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/565665f3ed2a899c6300022a.JPG"
+   }
+  }
+ ]
+}

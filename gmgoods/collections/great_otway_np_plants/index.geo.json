@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.637109,
+     -38.65145
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gmgoods/items/ns/2014/548fe787e35eb1775b00000a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgmgoods%2Fitems%2Fns%2F2014%2F548fe787e35eb1775b00000a.yaml",
+    "date": "2014-12-09",
+    "title": "Hypericum androsaemum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/548fe787e35eb1775b000009.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.582607,
+     -38.828325
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gmgoods/items/ns/2014/548eb75ae35eb18a5800000c.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgmgoods%2Fitems%2Fns%2F2014%2F548eb75ae35eb18a5800000c.yaml",
+    "date": "2014-12-11",
+    "title": "Lobelia anceps",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/548eb75ae35eb18a5800000b.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.572135,
+     -38.740143
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gmgoods/items/ns/2014/548c20eee35eb1eb8200000a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgmgoods%2Fitems%2Fns%2F2014%2F548c20eee35eb1eb8200000a.yaml",
+    "date": "2014-12-11",
+    "title": "Geranium robertianum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/548c20ede35eb1eb82000009.jpg"
+   }
+  }
+ ]
+}

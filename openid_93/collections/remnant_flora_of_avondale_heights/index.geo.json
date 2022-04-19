@@ -1,0 +1,55 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.854414,
+     -37.748593
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_93/items/ns/2011/53b39853e35eb1298400f12e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_93%2Fitems%2Fns%2F2011%2F53b39853e35eb1298400f12e.yaml",
+    "date": "2010-11-16",
+    "title": "Eryngium ovinum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb12984012715.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.854608,
+     -37.749086
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_93/items/ns/2011/53b39853e35eb1298400f12c.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_93%2Fitems%2Fns%2F2011%2F53b39853e35eb1298400f12c.yaml",
+    "date": "2006-12-31",
+    "title": "Leptorhynchos squamatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb12984012713.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.854715,
+     -37.751206
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_93/items/ns/2015/remnant_flora_of_avondale_heights_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_93%2Fitems%2Fns%2F2015%2Fremnant_flora_of_avondale_heights_species_list.yaml",
+    "date": "2015-04-07",
+    "title": "29 ids"
+   }
+  }
+ ]
+}

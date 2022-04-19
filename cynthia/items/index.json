@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "cynthia",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcynthia%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcynthia%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/cynthia/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/cynthia/items/ns/2018/5b0bd62aed2a8949fd000115.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcynthia%2Fitems%2Fns%2F2018%2F5b0bd62aed2a8949fd000115.yaml",
+   "title": "Unidentified",
+   "content_text": "bee on fireweed",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b0bd6a9ed2a89d0e7000018.jpg",
+   "date_published": "2018-05-28T10:15:01.000+00:00",
+   "date_modified": "2018-05-31T04:04:33.000+00:00",
+   "tags": [
+    "id~Unidentified"
+   ],
+   "_geo": {
+    "coordinates": [
+     151.662006,
+     -32.966529
+    ]
+   },
+   "_meta": {
+    "date": "2018-05-28",
+    "imageCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

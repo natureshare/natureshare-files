@@ -1,0 +1,42 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Brimbank Park Insects And Spiders",
+ "description": "All users for [brimbank_park_insects_and_spiders]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fbrimbank_park_insects_and_spiders%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/brimbank_park_insects_and_spiders/index.json",
+ "items": [
+  {
+   "title": "andrew_allen",
+   "content_text": "53 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a447022ed2a892d15000054.jpg",
+   "date_published": "2017-12-28T04:19:44.000+00:00",
+   "date_modified": "2017-12-28T04:19:44.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.834458,
+     -37.728518
+    ]
+   },
+   "_meta": {
+    "itemCount": 53,
+    "date": "2017-12-28",
+    "name": "brimbank_park_insects_and_spiders",
+    "featured": true,
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/andrew_allen/collections/brimbank_park_insects_and_spiders/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandrew_allen%2Fcollections%2Fbrimbank_park_insects_and_spiders%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

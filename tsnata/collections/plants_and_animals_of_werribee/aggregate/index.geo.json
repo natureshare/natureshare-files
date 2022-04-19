@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.673199,
+     -37.927693
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/items/ns/2014/5471d80fe35eb1f43b000049.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2014%2F5471d80fe35eb1f43b000049.yaml",
+    "date": "2014-11-19",
+    "title": "Malurus cyaneus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5471d80fe35eb1f43b000048.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.673693,
+     -37.929284
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/items/ns/2014/5471d6b5e35eb1f43b00003a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2014%2F5471d6b5e35eb1f43b00003a.yaml",
+    "date": "2014-11-19",
+    "title": "Ocyphaps lophotes",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5471d6b4e35eb1f43b000039.jpg"
+   }
+  }
+ ]
+}

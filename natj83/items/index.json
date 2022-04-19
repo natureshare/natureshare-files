@@ -1,0 +1,42 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "natj83",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fnatj83%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fnatj83%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/natj83/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/natj83/items/ns/2016/56f3f246ed2a89edf0000204.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fnatj83%2Fitems%2Fns%2F2016%2F56f3f246ed2a89edf0000204.yaml",
+   "title": "Petauroides volans",
+   "content_text": "Beautiful healthy Greater Glider, happily feeding in our campsite for the entire weekend.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56f3f25ded2a890be700014f.jpg",
+   "date_published": "2016-03-24T14:08:50.000+00:00",
+   "date_modified": "2016-03-25T06:23:25.000+00:00",
+   "tags": [
+    "id~Petauroides volans",
+    "tag~adult"
+   ],
+   "_geo": {
+    "coordinates": [
+     146.513896,
+     -37.529519
+    ]
+   },
+   "_meta": {
+    "date": "2016-03-12",
+    "imageCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

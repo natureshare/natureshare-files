@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.594742,
+     -36.426072
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/brucenjo/items/ns/2018/5bcd8672ed2a891abb0004ba.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbrucenjo%2Fitems%2Fns%2F2018%2F5bcd8672ed2a891abb0004ba.yaml",
+    "date": "2018-10-21",
+    "title": "Ambicodamus crinitus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bcd87b5ed2a891efe000113.jpeg"
+   }
+  }
+ ]
+}

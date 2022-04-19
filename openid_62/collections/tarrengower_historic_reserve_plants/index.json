@@ -1,0 +1,42 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Tarrengower Historic Reserve Plants",
+ "description": "",
+ "author": {
+  "name": "openid_62",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_62%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_62%2Fcollections%2Ftarrengower_historic_reserve_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_62/collections/tarrengower_historic_reserve_plants/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_62/items/ns/2013/53b39858e35eb129840103c3.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_62%2Fitems%2Fns%2F2013%2F53b39858e35eb129840103c3.yaml",
+   "title": "Levenhookia dubia",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014254.jpg",
+   "date_published": "2013-08-08T18:05:21.000+00:00",
+   "date_modified": "2014-07-03T01:31:19.000+00:00",
+   "tags": [
+    "id~Levenhookia dubia"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2010-09-02",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_62",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_62%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

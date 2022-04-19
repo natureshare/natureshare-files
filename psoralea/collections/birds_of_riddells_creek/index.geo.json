@@ -1,0 +1,53 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.667454,
+     -37.440144
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/psoralea/items/ns/2013/53b39856e35eb1298400ff19.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400ff19.yaml",
+    "date": "2013-03-06",
+    "title": "Hirundapus caudacutus"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.669085,
+     -37.439906
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/psoralea/items/ns/2011/53b39852e35eb1298400efcc.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400efcc.yaml",
+    "date": "2011-11-17",
+    "title": "Ardea pacifica"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.66784,
+     -37.439633
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/psoralea/items/ns/2011/53b39850e35eb1298400e811.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e811.yaml",
+    "date": "2011-06-05",
+    "title": "Lepidoptera spp., Ninox novaeseelandiae"
+   }
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.594817,
+     -37.408444
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/items/ns/2015/54f45d53ed2a8983c20003fb.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2015%2F54f45d53ed2a8983c20003fb.yaml",
+    "date": "2015-02-03",
+    "title": "Castiarina flavopicta",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54f45d52ed2a8983c20003fa.jpg"
+   }
+  }
+ ]
+}

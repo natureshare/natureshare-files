@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Adobe Mudbrick Flats Mallacoota",
+ "description": "All users for [adobe_mudbrick_flats_mallacoota]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fadobe_mudbrick_flats_mallacoota%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/adobe_mudbrick_flats_mallacoota/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "24 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012e7f.jpg",
+   "date_published": "2012-07-23T15:47:32.000+00:00",
+   "date_modified": "2012-07-23T15:47:32.000+00:00",
+   "_geo": {
+    "coordinates": [
+     149.742309,
+     -37.538223
+    ]
+   },
+   "_meta": {
+    "itemCount": 24,
+    "date": "2012-07-23",
+    "name": "adobe_mudbrick_flats_mallacoota",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/adobe_mudbrick_flats_mallacoota/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fadobe_mudbrick_flats_mallacoota%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.766189,
+     -37.666642
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/organ_pipes_np_flora/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Forgan_pipes_np_flora%2Faggregate%2Findex.json",
+    "date": "2013-05-12",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39867e35eb12984013dab.jpg"
+   }
+  }
+ ]
+}

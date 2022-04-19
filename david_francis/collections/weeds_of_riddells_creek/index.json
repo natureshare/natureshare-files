@@ -1,0 +1,49 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Weeds Of Riddells Creek",
+ "description": "",
+ "author": {
+  "name": "david_francis",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fweeds_of_riddells_creek%2Findex.json",
+ "feed_url": "https://files.natureshare.org/david_francis/collections/weeds_of_riddells_creek/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/david_francis/items/ns/2014/546093ece35eb19dbb000015.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2014%2F546093ece35eb19dbb000015.yaml",
+   "title": "Chrysolina quadrigemina, Hypericum perforatum subsp. veronense",
+   "content_text": "Chrysolina beetles on St John's Wort.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5460945de35eb19dbb000019.jpg",
+   "date_published": "2014-11-10T10:31:08.000+00:00",
+   "date_modified": "2014-11-10T11:01:04.000+00:00",
+   "tags": [
+    "id~Chrysolina quadrigemina",
+    "id~Hypericum perforatum subsp. veronense",
+    "tag~biological-control",
+    "tag~flower",
+    "tag~weed"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.687352,
+     -37.46443
+    ]
+   },
+   "_meta": {
+    "date": "2009-11-16",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "david_francis",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

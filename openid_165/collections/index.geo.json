@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.004,
+     -38.282
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_165/collections/mt_worth_state_park/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_165%2Fcollections%2Fmt_worth_state_park%2Faggregate%2Findex.json",
+    "date": "2013-07-19",
+    "title": "Mt. Worth State Park",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb1298401415a.jpg"
+   }
+  }
+ ]
+}

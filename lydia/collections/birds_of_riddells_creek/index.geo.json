@@ -1,0 +1,71 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654746,
+     -37.43081
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lydia/items/ns/2016/5805e5b3ed2a89450f00a72e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2016%2F5805e5b3ed2a89450f00a72e.yaml",
+    "date": "2016-10-05",
+    "title": "Dacelo novaeguineae",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5805e5b7ed2a89b3fe000135.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.650402,
+     -37.42688
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lydia/items/ns/2016/57a68cefed2a89450f0000a5.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2016%2F57a68cefed2a89450f0000a5.yaml",
+    "date": "2016-08-04",
+    "title": "Calyptorhynchus funereus"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654417,
+     -37.430976
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lydia/items/ns/2012/53b39854e35eb1298400f5d9.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f5d9.yaml",
+    "date": "2012-05-14",
+    "title": "Podargus strigoides",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012d48.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.655925,
+     -37.430824
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lydia/items/ns/2011/53b39851e35eb1298400ebaf.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ebaf.yaml",
+    "date": "2011-09-10",
+    "title": "Callocephalon fimbriatum"
+   }
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.433049,
+     -37.614353
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/clairer/items/ns/2018/5bcd5f5eed2a891abb00038c.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fclairer%2Fitems%2Fns%2F2018%2F5bcd5f5eed2a891abb00038c.yaml",
+    "date": "2018-10-21",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bcd6bb4ed2a89c6aa00010b.jpg"
+   }
+  }
+ ]
+}

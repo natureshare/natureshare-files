@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.411976,
+     -38.222943
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_73/collections/animals_and_flora_in_the_golden_beach_area/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_73%2Fcollections%2Fanimals_and_flora_in_the_golden_beach_area%2Faggregate%2Findex.json",
+    "date": "2011-10-10",
+    "title": "openid_73",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840122a6.jpg"
+   }
+  }
+ ]
+}

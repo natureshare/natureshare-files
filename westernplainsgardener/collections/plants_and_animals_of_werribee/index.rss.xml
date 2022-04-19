@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/westernplainsgardener/collections/plants_and_animals_of_werribee/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Plants And Animals Of Werribee</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fcollections%2Fplants_and_animals_of_werribee%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 westernplainsgardener</copyright>
+    <pubDate>Wed, 13 Feb 2019 07:38:19 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Platycercus eximius</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fitems%2Fns%2F2019%2F5c63c8b63abbd6316f00043f.yaml</link>
+      <dc:creator>westernplainsgardener</dc:creator>
+      <description>First time I've seen this species in Hoppers Crossing.</description>
+      <category>id~Platycercus eximius</category>
+      <category>tag~bird</category>
+      <category>tag~bird-medium</category>
+      <category>tag~bird-parrot</category>
+      <guid isPermaLink="false">https://files.natureshare.org/westernplainsgardener/items/ns/2019/5c63c8b63abbd6316f00043f.yaml</guid>
+      <pubDate>Wed, 13 Feb 2019 07:35:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Phylidonyris novaehollandiae</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fitems%2Fns%2F2018%2F5c272c1d3abbd606720003e5.yaml</link>
+      <dc:creator>westernplainsgardener</dc:creator>
+      <description>-</description>
+      <category>id~Phylidonyris novaehollandiae</category>
+      <category>tag~bird</category>
+      <category>tag~bird-feeding</category>
+      <category>tag~bird-honeyeater</category>
+      <category>tag~bird-small</category>
+      <guid isPermaLink="false">https://files.natureshare.org/westernplainsgardener/items/ns/2018/5c272c1d3abbd606720003e5.yaml</guid>
+      <pubDate>Sat, 29 Dec 2018 08:11:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trichoglossus haematodus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fitems%2Fns%2F2018%2F5c272af53abbd61ed4000397.yaml</link>
+      <dc:creator>westernplainsgardener</dc:creator>
+      <description>Very tame Lorikeet it let me stand 1 metre away from it.</description>
+      <category>id~Trichoglossus haematodus</category>
+      <category>tag~bird</category>
+      <category>tag~bird-colourful</category>
+      <category>tag~bird-feeding</category>
+      <category>tag~bird-medium</category>
+      <guid isPermaLink="false">https://files.natureshare.org/westernplainsgardener/items/ns/2018/5c272af53abbd61ed4000397.yaml</guid>
+      <pubDate>Sat, 29 Dec 2018 08:06:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unidentified</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fitems%2Fns%2F2018%2F5c18874d2a53d74c540000d2.yaml</link>
+      <dc:creator>westernplainsgardener</dc:creator>
+      <description>Caterpillar about 5 cm long on Grevillea laurifolia x G. ‘Gaudi Chaudi’</description>
+      <category>id~Unidentified</category>
+      <category>tag~caterpillar-patterned</category>
+      <guid isPermaLink="false">https://files.natureshare.org/westernplainsgardener/items/ns/2018/5c18874d2a53d74c540000d2.yaml</guid>
+      <pubDate>Tue, 18 Dec 2018 05:36:13 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

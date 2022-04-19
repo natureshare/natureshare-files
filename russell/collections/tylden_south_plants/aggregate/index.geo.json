@@ -1,0 +1,38 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.345445,
+     -37.330417
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/items/ns/2014/53f8343be35eb1ff420000b2.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2014%2F53f8343be35eb1ff420000b2.yaml",
+    "date": "2014-08-23",
+    "title": "Pterostylis melagramma",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53f8343ae35eb1ff420000b1.png"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.350996,
+     -37.3385
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2014/tylden_south_plants_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2Ftylden_south_plants_species_list.yaml",
+    "date": "2014-08-23",
+    "title": "37 ids"
+   }
+  }
+ ]
+}

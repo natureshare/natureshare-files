@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.59865,
+     -37.766856
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_28/items/ns/2012/53b39856e35eb1298400fc57.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fitems%2Fns%2F2012%2F53b39856e35eb1298400fc57.yaml",
+    "date": "2012-12-09",
+    "title": "Chauliognathus lugubris",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb12984013694.jpg"
+   }
+  }
+ ]
+}

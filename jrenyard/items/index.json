@@ -1,0 +1,40 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "jrenyard",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjrenyard%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjrenyard%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/jrenyard/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/jrenyard/items/ns/2018/5a8f3b3ded2a8945cc000154.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjrenyard%2Fitems%2Fns%2F2018%2F5a8f3b3ded2a8945cc000154.yaml",
+   "title": "Notelaea ligustrina",
+   "content_text": "Plants appearing as if burnt as you pass. Burnt by sun or chemical. Looking to the underside of the leaves though they are shiny as if wet or lacquered but with tufts as if black insects stuck on while sticky.  The leaves aren’t sticky however. \r\n\r\nI thought some spray from roadside spraying may have burnt leaves, but some along the Wark Creek have the whole tree with dry leaves",
+   "date_published": "2018-02-22T22:07:40.000+00:00",
+   "date_modified": "2018-02-22T22:08:07.000+00:00",
+   "tags": [
+    "id~Notelaea ligustrina",
+    "tag~leaf-burn"
+   ],
+   "_geo": {
+    "coordinates": [
+     142.962489,
+     -38.493797
+    ]
+   },
+   "_meta": {
+    "date": "2018-02-22"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

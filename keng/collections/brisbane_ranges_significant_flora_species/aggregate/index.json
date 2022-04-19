@@ -1,0 +1,47 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Brisbane ranges significant flora species",
+ "description": "",
+ "author": {
+  "name": "keng",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkeng%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkeng%2Fcollections%2Fbrisbane_ranges_significant_flora_species%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/keng/collections/brisbane_ranges_significant_flora_species/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/keng/items/ns/2015/5624f456ed2a89401600ad48.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fkeng%2Fitems%2Fns%2F2015%2F5624f456ed2a89401600ad48.yaml",
+   "title": "Grevillea chrysophaea",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5624f466ed2a890d95000564.jpg",
+   "date_published": "2015-10-19T13:47:02.000+00:00",
+   "date_modified": "2015-10-20T04:55:25.000+00:00",
+   "tags": [
+    "id~Grevillea chrysophaea"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.210783,
+     -37.870617
+    ]
+   },
+   "_meta": {
+    "date": "2015-10-15",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "keng",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkeng%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.686508,
+     -37.446516
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/caterpillars_of_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fcaterpillars_of_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2015-11-08",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/563ee82ced2a899c63000133.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.694,
+     -37.464
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/collections/caterpillars_of_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fcaterpillars_of_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2015-11-08",
+    "title": "david_francis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/563ee82ced2a899c63000133.jpg"
+   }
+  }
+ ]
+}

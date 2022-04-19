@@ -1,0 +1,64 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "guymer",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fguymer%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fguymer%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/guymer/collections/index.json",
+ "items": [
+  {
+   "title": "Eastern Melbourne Plants",
+   "content_text": "263 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/549d2f97e35eb1155a00002c.jpg",
+   "date_published": "2014-12-26T09:51:19.000+00:00",
+   "date_modified": "2014-12-26T09:51:19.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.209,
+     -37.781
+    ]
+   },
+   "_meta": {
+    "itemCount": 263,
+    "date": "2014-12-26",
+    "name": "eastern_melbourne_plants",
+    "featured": true,
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/guymer/collections/eastern_melbourne_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fguymer%2Fcollections%2Feastern_melbourne_plants%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Conos Court Donvale",
+   "content_text": "20 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54a7a8a7e35eb1b832000001.jpg",
+   "date_published": "2018-02-05T06:42:34.000+00:00",
+   "date_modified": "2018-02-05T06:42:34.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.197536,
+     -37.787136
+    ]
+   },
+   "_meta": {
+    "itemCount": 20,
+    "date": "2018-02-05",
+    "name": "conos_court_donvale",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/guymer/collections/conos_court_donvale/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fguymer%2Fcollections%2Fconos_court_donvale%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

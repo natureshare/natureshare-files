@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.552891,
+     -37.418436
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_186/items/ns/2013/53b39859e35eb1298401076d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_186%2Fitems%2Fns%2F2013%2F53b39859e35eb1298401076d.yaml",
+    "date": "2013-11-18",
+    "title": "Thelymitra aristata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ae35eb12984014840.jpg"
+   }
+  }
+ ]
+}

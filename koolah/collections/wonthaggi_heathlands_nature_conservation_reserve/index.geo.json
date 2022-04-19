@@ -1,0 +1,55 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.569134,
+     -38.63142
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/koolah/items/ns/2015/55d2ecb1ed2a89db81001209.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fitems%2Fns%2F2015%2F55d2ecb1ed2a89db81001209.yaml",
+    "date": "2005-09-23",
+    "title": "Prasophyllum elatum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55d2ecafed2a89db81001207.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.568619,
+     -38.633029
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/koolah/items/ns/2015/wonthaggi_heathlands_nature_conservation_reserve_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fitems%2Fns%2F2015%2Fwonthaggi_heathlands_nature_conservation_reserve_species_list.yaml",
+    "date": "2015-08-18",
+    "title": "Prasophyllum elatum, Thelymitra X irregularis"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.56581,
+     -38.630081
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/koolah/items/ns/2015/55d2e751ed2a89db810011fc.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fitems%2Fns%2F2015%2F55d2e751ed2a89db810011fc.yaml",
+    "date": "2005-10-18",
+    "title": "Thelymitra X irregularis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55d2e750ed2a89db810011fa.JPG"
+   }
+  }
+ ]
+}

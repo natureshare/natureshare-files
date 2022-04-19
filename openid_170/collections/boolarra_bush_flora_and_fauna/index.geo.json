@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.270106,
+     -38.387116
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_170/items/ns/2013/53b39858e35eb12984010332.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_170%2Fitems%2Fns%2F2013%2F53b39858e35eb12984010332.yaml",
+    "date": "2013-07-16",
+    "title": "Hakea decurrens",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb1298401414f.jpg"
+   }
+  }
+ ]
+}

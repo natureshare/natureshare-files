@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/mitchell_shire_council_environment_team/collections/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Collections</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fcollections%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 mitchell_shire_council_environment_team</copyright>
+    <pubDate>Wed, 11 Mar 2015 00:53:24 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Monument Hill Reserve, Kilmore</title>
+      <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fcollections%2Fmonument_hill_reserve_kilmore%2Faggregate%2Findex.json</link>
+      <dc:creator>mitchell_shire_council_environment_team</dc:creator>
+      <description>6 items</description>
+      <guid isPermaLink="false">https://files.natureshare.org/mitchell_shire_council_environment_team/collections/monument_hill_reserve_kilmore/aggregate/index.json</guid>
+      <pubDate>Wed, 11 Mar 2015 00:53:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Highcamp Flora Reserve, Highcamp</title>
+      <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fcollections%2Fhighcamp_flora_reserve_highcamp%2Faggregate%2Findex.json</link>
+      <dc:creator>mitchell_shire_council_environment_team</dc:creator>
+      <description>2 items</description>
+      <guid isPermaLink="false">https://files.natureshare.org/mitchell_shire_council_environment_team/collections/highcamp_flora_reserve_highcamp/aggregate/index.json</guid>
+      <pubDate>Tue, 10 Mar 2015 22:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boulton Flora Reserve, Tallarook</title>
+      <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fcollections%2Fboulton_flora_reserve_tallarook%2Faggregate%2Findex.json</link>
+      <dc:creator>mitchell_shire_council_environment_team</dc:creator>
+      <description>2 items</description>
+      <guid isPermaLink="false">https://files.natureshare.org/mitchell_shire_council_environment_team/collections/boulton_flora_reserve_tallarook/aggregate/index.json</guid>
+      <pubDate>Tue, 10 Mar 2015 09:06:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

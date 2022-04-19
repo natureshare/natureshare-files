@@ -1,0 +1,48 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Toolangi state forest",
+ "description": "",
+ "author": {
+  "name": "reilly",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fcollections%2Ftoolangi_state_forest%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/reilly/collections/toolangi_state_forest/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/reilly/items/dropbox/2020/img_3340.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fdropbox%2F2020%2Fimg_3340.yaml",
+   "title": "Eucalyptus regnans",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org/user_generated_content/thumbnails/reilly/items/dropbox/2020/img_3340.jpg",
+   "date_published": "2016-10-31T16:04:52.000+00:00",
+   "date_modified": "2020-08-29T05:13:59.000+00:00",
+   "tags": [
+    "id~Eucalyptus regnans",
+    "tag~dropbox"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.527817,
+     -37.522087
+    ]
+   },
+   "_meta": {
+    "date": "2016-10-31",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "reilly",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

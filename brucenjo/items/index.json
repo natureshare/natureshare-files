@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "brucenjo",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbrucenjo%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbrucenjo%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/brucenjo/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/brucenjo/items/ns/2018/5bcd8672ed2a891abb0004ba.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbrucenjo%2Fitems%2Fns%2F2018%2F5bcd8672ed2a891abb0004ba.yaml",
+   "title": "Ambicodamus crinitus",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bcd87b5ed2a891efe000113.jpeg",
+   "date_published": "2018-10-22T08:15:16.000+00:00",
+   "date_modified": "2018-10-22T08:18:33.000+00:00",
+   "tags": [
+    "id~Ambicodamus crinitus"
+   ],
+   "_geo": {
+    "coordinates": [
+     143.594742,
+     -36.426072
+    ]
+   },
+   "_meta": {
+    "date": "2018-10-21",
+    "imageCount": 2
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

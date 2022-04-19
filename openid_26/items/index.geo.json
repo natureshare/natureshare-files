@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.991816,
+     -37.928016
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_26/items/ns/2011/53b3984fe35eb1298400e550.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_26%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e550.yaml",
+    "date": "2011-03-27",
+    "title": "Nephila edulis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb1298401182f.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.991239,
+     -37.930457
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_26/items/ns/2011/53b3984fe35eb1298400e429.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_26%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e429.yaml",
+    "date": "2011-02-25",
+    "title": "Austroscolia soror",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb12984011705.jpg"
+   }
+  }
+ ]
+}

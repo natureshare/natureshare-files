@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.488,
+     -37.453
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/andill/collections/dipodium_pardalinum_distribution/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandill%2Fcollections%2Fdipodium_pardalinum_distribution%2Faggregate%2Findex.json",
+    "date": "2017-02-27",
+    "title": "Dipodium pardalinum distribution",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58b373dced2a894410000017.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.588,
+     -37.493
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/andill/collections/daly_nature_reserve_indigenous_flora_and_fauna_gisborne/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandill%2Fcollections%2Fdaly_nature_reserve_indigenous_flora_and_fauna_gisborne%2Faggregate%2Findex.json",
+    "date": "2017-02-26",
+    "title": "Daly nature reserve indigenous flora and fauna gisborne",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58b2a5feed2a89e548000012.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Flora Of Spring Hill Tylden South",
+ "description": "All users for [flora_of_spring_hill_-_tylden_south]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fflora_of_spring_hill_-_tylden_south%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/flora_of_spring_hill_-_tylden_south/index.json",
+ "items": [
+  {
+   "title": "lconole",
+   "content_text": "17 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/588fd685ed2a892daf00037f.JPG",
+   "date_published": "2017-01-31T00:14:25.000+00:00",
+   "date_modified": "2017-01-31T00:14:25.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.353045,
+     -37.328239
+    ]
+   },
+   "_meta": {
+    "itemCount": 17,
+    "date": "2017-01-31",
+    "name": "flora_of_spring_hill_-_tylden_south",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/lconole/collections/flora_of_spring_hill_-_tylden_south/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fcollections%2Fflora_of_spring_hill_-_tylden_south%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

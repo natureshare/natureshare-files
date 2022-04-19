@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/openid_7/collections/flora_of_maidstone_st_community_buffer/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Flora of Maidstone St Community Buffer</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fcollections%2Fflora_of_maidstone_st_community_buffer%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 openid_7</copyright>
+    <pubDate>Tue, 07 Apr 2015 08:47:40 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>32 ids</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Fns%2F2015%2Fflora_of_maidstone_st_community_buffer_species_list.yaml</link>
+      <dc:creator>openid_7</dc:creator>
+      <description>Species list for collection.</description>
+      <category>id~Allocasuarina verticillata</category>
+      <category>id~Arthropodium strictum s.s.</category>
+      <category>id~Austrodanthonia spp.</category>
+      <category>id~Austrostipa scabra subsp. falcata</category>
+      <category>id~Austrostipa spp.</category>
+      <category>id~Brachyscome basaltica var. gracilis</category>
+      <category>id~Brachyscome dentata</category>
+      <category>id~Calocephalus citreus</category>
+      <category>id~Calocephalus lacteus</category>
+      <category>id~Calotis scapigera</category>
+      <category>id~Cassinia arcuata</category>
+      <category>id~Cheilanthes austrotenuifolia</category>
+      <category>id~Chloris truncata</category>
+      <category>id~Chrysocephalum apiculatum s.s.</category>
+      <category>id~Dianella admixta</category>
+      <category>id~Dichelachne crinita</category>
+      <category>id~Elymus scaber var. scaber</category>
+      <category>id~Isolepis inundata</category>
+      <category>id~Lachnagrostis aemula s.s.</category>
+      <category>id~Lomandra filiformis subsp. filiformis</category>
+      <category>id~Microlaena stipoides var. stipoides</category>
+      <category>id~Minuria leptophylla</category>
+      <category>id~Pimelea glauca</category>
+      <category>id~Poa sieberiana var. sieberiana</category>
+      <category>id~Podolepis jaceoides s.s.</category>
+      <category>id~Pseudognaphalium luteoalbum</category>
+      <category>id~Themeda triandra</category>
+      <category>id~Veronica gracilis</category>
+      <category>id~Vittadinia cuneata var. cuneata</category>
+      <category>id~Wahlenbergia communis s.l.</category>
+      <category>id~Wahlenbergia gracilenta s.s.</category>
+      <category>id~Wahlenbergia stricta subsp. stricta</category>
+      <category>tag~species-list</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_7/items/ns/2015/flora_of_maidstone_st_community_buffer_species_list.yaml</guid>
+      <pubDate>Thu, 11 Oct 2012 18:55:54 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

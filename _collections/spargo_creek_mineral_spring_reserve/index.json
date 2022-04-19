@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Spargo Creek Mineral Spring Reserve",
+ "description": "All users for [spargo_creek_mineral_spring_reserve]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fspargo_creek_mineral_spring_reserve%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/spargo_creek_mineral_spring_reserve/index.json",
+ "items": [
+  {
+   "title": "tmiller",
+   "content_text": "8 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a537a7ed2a89d73e000386.JPG",
+   "date_published": "2017-02-16T05:43:01.000+00:00",
+   "date_modified": "2017-02-16T05:43:01.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.139318,
+     -37.491768
+    ]
+   },
+   "_meta": {
+    "itemCount": 8,
+    "date": "2017-02-16",
+    "name": "spargo_creek_mineral_spring_reserve",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/tmiller/collections/spargo_creek_mineral_spring_reserve/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fcollections%2Fspargo_creek_mineral_spring_reserve%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

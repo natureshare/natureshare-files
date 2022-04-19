@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.28688,
+     -37.245088
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/drummond_state_forest_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fdrummond_state_forest_plants%2Faggregate%2Findex.json",
+    "date": "2015-09-11",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55f220a1ed2a890d95000120.jpeg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Strathbogie Ranges Nature Atlas Project",
+ "description": "All users for [strathbogie_ranges_nature_atlas_project]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fstrathbogie_ranges_nature_atlas_project%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/strathbogie_ranges_nature_atlas_project/index.json",
+ "items": [
+  {
+   "title": "openid_52",
+   "content_text": "4 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984012075.jpg",
+   "date_published": "2011-07-27T01:52:14.000+00:00",
+   "date_modified": "2011-07-27T01:52:14.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.756989,
+     -36.853252
+    ]
+   },
+   "_meta": {
+    "itemCount": 4,
+    "date": "2011-07-27",
+    "name": "strathbogie_ranges_nature_atlas_project",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_52/collections/strathbogie_ranges_nature_atlas_project/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fcollections%2Fstrathbogie_ranges_nature_atlas_project%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

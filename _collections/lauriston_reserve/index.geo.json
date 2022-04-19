@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.36018,
+     -37.238939
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/lauriston_reserve/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Flauriston_reserve%2Faggregate%2Findex.json",
+    "date": "2014-07-15",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53c4c102e35eb1387b00000c.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.36,
+     -37.236
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/collections/lauriston_reserve/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Flauriston_reserve%2Faggregate%2Findex.json",
+    "date": "2014-07-15",
+    "title": "david_francis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53c4c102e35eb1387b00000c.JPG"
+   }
+  }
+ ]
+}

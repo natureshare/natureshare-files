@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.733109,
+     -36.868079
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/steve/items/ns/2017/59182a5bed2a893e6b0007d7.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fsteve%2Fitems%2Fns%2F2017%2F59182a5bed2a893e6b0007d7.yaml",
+    "date": "2017-05-14",
+    "title": "Apina callisto",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59182a63ed2a891d6d000146.PNG"
+   }
+  }
+ ]
+}

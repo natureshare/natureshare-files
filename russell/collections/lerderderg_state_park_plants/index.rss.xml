@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/russell/collections/lerderderg_state_park_plants/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Lerderderg State Park Plants</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Flerderderg_state_park_plants%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 russell</copyright>
+    <pubDate>Thu, 12 Oct 2017 10:02:54 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>417 ids</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2017%2Flerderderg_state_park_plants_species_list.yaml</link>
+      <dc:creator>russell</dc:creator>
+      <description>Species list for collection.</description>
+      <category>id~Acacia acinacea s.s.</category>
+      <category>id~Acacia aculeatissima</category>
+      <category>id~Acacia aspera</category>
+      <category>id~Acacia baileyana</category>
+      <category>id~Acacia dealbata subsp. dealbata</category>
+      <category>id~Acacia gunnii</category>
+      <category>id~Acacia howittii</category>
+      <category>id~Acacia implexa</category>
+      <category>id~Acacia mearnsii</category>
+      <category>id~Acacia melanoxylon</category>
+      <category>id~Acacia mucronata subsp. longifolia</category>
+      <category>id~Acacia myrtifolia</category>
+      <category>id~Acacia oxycedrus</category>
+      <category>id~Acacia paradoxa</category>
+      <category>id~Acacia pycnantha</category>
+      <category>id~Acacia stricta</category>
+      <category>id~Acacia verniciflua (Bacchus Marsh variant)</category>
+      <category>id~Acacia verticillata</category>
+      <category>id~Acaena novae-zelandiae</category>
+      <category>id~Acrotriche prostrata</category>
+      <category>id~Acrotriche serrulata</category>
+      <category>id~Adiantum aethiopicum</category>
+      <category>id~Agrostis capillaris var. aristata</category>
+      <category>id~Agrostis capillaris var. capillaris</category>
+      <category>id~Agrostis venusta</category>
+      <category>id~Aira caryophyllea</category>
+      <category>id~Ajuga australis</category>
+      <category>id~Allocasuarina luehmannii</category>
+      <category>id~Alternanthera denticulata s.s.</category>
+      <category>id~Amphibromus neesii</category>
+      <category>id~Amyema miquelii</category>
+      <category>id~Amyema pendula subsp. pendula (s.s.)</category>
+      <category>id~Anagallis arvensis var. arvensis</category>
+      <category>id~Anogramma leptophylla</category>
+      <category>id~Anthoxanthum odoratum</category>
+      <category>id~Arctotheca calendula</category>
+      <category>id~Arthropodium milleflorum s.s.</category>
+      <category>id~Asparagus asparagoides</category>
+      <category>id~Asperula scoparia</category>
+      <category>id~Astroloma humifusum</category>
+      <category>id~Atriplex semibaccata</category>
+      <category>id~Australina pusilla subsp. muelleri</category>
+      <category>id~Austrodanthonia penicillata</category>
+      <category>id~Austrodanthonia pilosa</category>
+      <category>id~Austrodanthonia setacea</category>
+      <category>id~Austrostipa breviglumis</category>
+      <category>id~Austrostipa scabra</category>
+      <category>id~Avena fatua</category>
+      <category>id~Banksia marginata</category>
+      <category>id~Bedfordia arborescens</category>
+      <category>id~Beyeria viscosa</category>
+      <category>id~Billardiera cymosa s.l.</category>
+      <category>id~Billardiera scandens s.l.</category>
+      <category>id~Blechnum nudum</category>
+      <category>id~Blechnum wattsii</category>
+      <category>id~Boronia nana</category>
+      <category>id~Boronia pilosa subsp. pilosa</category>
+      <category>id~Bossiaea cordigera</category>
+      <category>id~Bossiaea obcordata</category>
+      <category>id~Bossiaea prostrata</category>
+      <category>id~Brachyloma daphnoides</category>
+      <category>id~Brachyscome multifida</category>
+      <category>id~Briza maxima</category>
+      <category>id~Briza minor</category>
+      <category>id~Bromus lanceolatus</category>
+      <category>id~Bromus rubens</category>
+      <category>id~Brunonia australis</category>
+      <category>id~Burchardia umbellata</category>
+      <category>id~Bursaria spinosa subsp. spinosa</category>
+      <category>id~Caladenia carnea s.s.</category>
+      <category>id~Caladenia gracilis</category>
+      <category>id~Calandrinia calyptrata</category>
+      <category>id~Caleana major</category>
+      <category>id~Callistemon sieberi</category>
+      <category>id~Callitris glaucophylla</category>
+      <category>id~Calochlaena dubia</category>
+      <category>id~Carex appressa</category>
+      <category>id~Carex breviculmis</category>
+      <category>id~Carex polyantha</category>
+      <category>id~Carpobrotus modestus</category>
+      <category>id~Cassinia aculeata</category>
+      <category>id~Cassinia arcuata</category>
+      <category>id~Cassinia longifolia</category>
+      <category>id~Cassytha glabella</category>
+      <category>id~Cassytha melantha</category>
+      <category>id~Cassytha pubescens s.s.</category>
+      <category>id~Caustis flexuosa</category>
+      <category>id~Centaurium erythraea</category>
+      <category>id~Centaurium tenuiflorum</category>
+      <category>id~Cerastium fontanum subsp. vulgare</category>
+      <category>id~Cerastium glomeratum s.s.</category>
+      <category>id~Cheilanthes austrotenuifolia</category>
+      <category>id~Chiloglottis valida</category>
+      <category>id~Chrysocephalum semipapposum</category>
+      <category>id~Cirsium vulgare</category>
+      <category>id~Clematis aristata</category>
+      <category>id~Clematis microphylla s.l.</category>
+      <category>id~Comesperma ericinum</category>
+      <category>id~Comesperma volubile</category>
+      <category>id~Conyza sumatrensis</category>
+      <category>id~Coprosma quadrifida</category>
+      <category>id~Correa glabra var. glabra</category>
+      <category>id~Correa lawrenceana var. latrobeana</category>
+      <category>id~Correa reflexa var. reflexa</category>
+      <category>id~Cortaderia selloana</category>
+      <category>id~Corunastylis morrisii</category>
+      <category>id~Cotoneaster glaucophyllus var. serotinus</category>
+      <category>id~Cotula australis</category>
+      <category>id~Craspedia variabilis</category>
+      <category>id~Crassula helmsii</category>
+      <category>id~Crassula sieberiana s.s.</category>
+      <category>id~Crataegus monogyna subsp. nordica</category>
+      <category>id~Crepis capillaris</category>
+      <category>id~Cryptostylis subulata</category>
+      <category>id~Cupressus macrocarpa</category>
+      <category>id~Cyathea australis</category>
+      <category>id~Cynodon dactylon</category>
+      <category>id~Cyperus eragrostis</category>
+      <category>id~Cyperus lucidus</category>
+      <category>id~Cytisus scoparius</category>
+      <category>id~Dactylis glomerata</category>
+      <category>id~Dampiera stricta</category>
+      <category>id~Daviesia leptophylla</category>
+      <category>id~Daviesia ulicifolia</category>
+      <category>id~Daviesia ulicifolia subsp. ruscifolia</category>
+      <category>id~Dennstaedtia davallioides</category>
+      <category>id~Derwentia derwentiana subsp. derwentiana</category>
+      <category>id~Deyeuxia minor</category>
+      <category>id~Deyeuxia monticola var. monticola</category>
+      <category>id~Deyeuxia quadriseta</category>
+      <category>id~Deyeuxia rodwayi</category>
+      <category>id~Dianella admixta</category>
+      <category>id~Dianella tasmanica</category>
+      <category>id~Dichelachne crinita</category>
+      <category>id~Dichelachne rara</category>
+      <category>id~Dichelachne sieberiana</category>
+      <category>id~Dichondra repens</category>
+      <category>id~Dicksonia antarctica</category>
+      <category>id~Dillwynia cinerascens s.s.</category>
+      <category>id~Dillwynia glaberrima</category>
+      <category>id~Dillwynia ramosissima</category>
+      <category>id~Dillwynia sericea</category>
+      <category>id~Diplazium australe</category>
+      <category>id~Diplotaxis tenuifolia</category>
+      <category>id~Dipodium pardalinum</category>
+      <category>id~Diuris sulphurea</category>
+      <category>id~Dodonaea viscosa subsp. cuneata</category>
+      <category>id~Drosera peltata subsp. auriculata</category>
+      <category>id~Drosera peltata subsp. peltata</category>
+      <category>id~Drosera whittakeri subsp. aberrans</category>
+      <category>id~Drymophila cyanocarpa</category>
+      <category>id~Echinopogon ovatus</category>
+      <category>id~Ehrharta longiflora</category>
+      <category>id~Einadia hastata</category>
+      <category>id~Empodisma minus</category>
+      <category>id~Epacris impressa var. impressa</category>
+      <category>id~Epilobium billardierianum subsp. billardierianum</category>
+      <category>id~Epilobium billardierianum subsp. cinereum</category>
+      <category>id~Epilobium gunnianum</category>
+      <category>id~Epilobium hirtigerum</category>
+      <category>id~Eremophila deserti</category>
+      <category>id~Erica lusitanica</category>
+      <category>id~Eucalyptus aromaphloia</category>
+      <category>id~Eucalyptus baxteri s.l.</category>
+      <category>id~Eucalyptus cladocalyx</category>
+      <category>id~Eucalyptus cypellocarpa</category>
+      <category>id~Eucalyptus dives</category>
+      <category>id~Eucalyptus globulus subsp. pseudoglobulus</category>
+      <category>id~Eucalyptus goniocalyx s.s.</category>
+      <category>id~Eucalyptus goniocalyx subsp. fallax</category>
+      <category>id~Eucalyptus leucoxylon</category>
+      <category>id~Eucalyptus macrorhyncha</category>
+      <category>id~Eucalyptus melliodora</category>
+      <category>id~Eucalyptus microcarpa</category>
+      <category>id~Eucalyptus obliqua</category>
+      <category>id~Eucalyptus ovata var. ovata</category>
+      <category>id~Eucalyptus polyanthemos</category>
+      <category>id~Eucalyptus radiata subsp. radiata</category>
+      <category>id~Eucalyptus rubida</category>
+      <category>id~Eucalyptus sieberi</category>
+      <category>id~Eucalyptus tricarpa subsp. tricarpa</category>
+      <category>id~Eucalyptus viminalis subsp. viminalis</category>
+      <category>id~Euchiton collinus s.s.</category>
+      <category>id~Euchiton involucratus s.s.</category>
+      <category>id~Euryomyrtus ramosissima</category>
+      <category>id~Euryomyrtus ramosissima subsp. ramosissima</category>
+      <category>id~Eutaxia microphylla var. microphylla</category>
+      <category>id~Exocarpos cupressiformis</category>
+      <category>id~Exocarpos strictus</category>
+      <category>id~Festuca asperula</category>
+      <category>id~Ficinia nodosa</category>
+      <category>id~Foeniculum vulgare</category>
+      <category>id~Gahnia microstachya</category>
+      <category>id~Gahnia radula</category>
+      <category>id~Gahnia sieberiana</category>
+      <category>id~Galium australe s.l.</category>
+      <category>id~Galium binifolium</category>
+      <category>id~Galium gaudichaudii</category>
+      <category>id~Galium propinquum</category>
+      <category>id~Gastrodia sesamoides s.s.</category>
+      <category>id~Genista monspessulana</category>
+      <category>id~Geranium potentilloides</category>
+      <category>id~Geranium solanderi s.l.</category>
+      <category>id~Gleichenia microphylla</category>
+      <category>id~Glossodia major</category>
+      <category>id~Glyceria australis</category>
+      <category>id~Glycine clandestina</category>
+      <category>id~Gonocarpus humilis</category>
+      <category>id~Gonocarpus tetragynus</category>
+      <category>id~Goodenia lanata</category>
+      <category>id~Goodenia ovata</category>
+      <category>id~Goodia lotifolia</category>
+      <category>id~Gratiola peruviana</category>
+      <category>id~Grevillea alpina</category>
+      <category>id~Grevillea repens</category>
+      <category>id~Hakea decurrens subsp. physocarpa</category>
+      <category>id~Hardenbergia violacea</category>
+      <category>id~Hedycarya angustifolia</category>
+      <category>id~Helichrysum scorpioides</category>
+      <category>id~Hibbertia fasciculata var. prostrata</category>
+      <category>id~Histiopteris incisa</category>
+      <category>id~Holcus lanatus</category>
+      <category>id~Hordeum murinum s.l.</category>
+      <category>id~Hovea heterophylla</category>
+      <category>id~Hydrocotyle foveolata</category>
+      <category>id~Hydrocotyle hirta</category>
+      <category>id~Hydrocotyle sibthorpioides</category>
+      <category>id~Hypericum gramineum</category>
+      <category>id~Hypericum japonicum</category>
+      <category>id~Hypochoeris radicata</category>
+      <category>id~Hypolepis rugosula</category>
+      <category>id~Ilex aquifolium</category>
+      <category>id~Indigofera australis</category>
+      <category>id~Isolepis cernua var. platycarpa</category>
+      <category>id~Isolepis inundata</category>
+      <category>id~Joycea pallida</category>
+      <category>id~Juncus acutus subsp. acutus</category>
+      <category>id~Juncus amabilis</category>
+      <category>id~Juncus articulatus</category>
+      <category>id~Juncus australis</category>
+      <category>id~Juncus bulbosus</category>
+      <category>id~Juncus gregiflorus</category>
+      <category>id~Juncus holoschoenus</category>
+      <category>id~Juncus pallidus</category>
+      <category>id~Juncus pauciflorus</category>
+      <category>id~Juncus procerus</category>
+      <category>id~Juncus subsecundus</category>
+      <category>id~Lachnagrostis aemula s.l.</category>
+      <category>id~Lachnagrostis filiformis</category>
+      <category>id~Lagenophora gracilis</category>
+      <category>id~Lagenophora stipitata</category>
+      <category>id~Leontodon taraxacoides subsp. taraxacoides</category>
+      <category>id~Lepidosperma elatius</category>
+      <category>id~Lepidosperma filiforme</category>
+      <category>id~Lepidosperma laterale</category>
+      <category>id~Leptinella filicula</category>
+      <category>id~Leptinella reptans s.l.</category>
+      <category>id~Leptospermum continentale</category>
+      <category>id~Leptospermum lanigerum</category>
+      <category>id~Leptospermum myrsinoides</category>
+      <category>id~Leucopogon microphyllus var. pilibundus</category>
+      <category>id~Leucopogon virgatus var. virgatus</category>
+      <category>id~Libertia pulchella</category>
+      <category>id~Lindsaea linearis</category>
+      <category>id~Lissanthe strigosa subsp. subulata</category>
+      <category>id~Lobelia anceps</category>
+      <category>id~Lobelia pedunculata s.s.</category>
+      <category>id~Lomandra filiformis subsp. coriacea</category>
+      <category>id~Lomandra longifolia subsp. longifolia</category>
+      <category>id~Lomandra micrantha subsp. tuberculata</category>
+      <category>id~Lotus uliginosus</category>
+      <category>id~Luzula meridionalis var. flaccida</category>
+      <category>id~Luzula meridionalis var. meridionalis</category>
+      <category>id~Lycium ferocissimum</category>
+      <category>id~Lycopodium deuterodensum</category>
+      <category>id~Malus pumila</category>
+      <category>id~Melicytus dentatus s.s.</category>
+      <category>id~Mentha australis</category>
+      <category>id~Mentha diemenica</category>
+      <category>id~Mentha laxiflora</category>
+      <category>id~Microlaena stipoides var. stipoides</category>
+      <category>id~Microseris sp. 3</category>
+      <category>id~Mimulus moschatus</category>
+      <category>id~Mitrasacme pilosa var. pilosa</category>
+      <category>id~Monotoca scoparia</category>
+      <category>id~Myriophyllum crispatum</category>
+      <category>id~Nassella trichotoma</category>
+      <category>id~Notodanthonia longifolia</category>
+      <category>id~Notodanthonia semiannularis</category>
+      <category>id~Olearia argophylla</category>
+      <category>id~Olearia erubescens</category>
+      <category>id~Olearia glandulosa</category>
+      <category>id~Olearia lirata</category>
+      <category>id~Opercularia ovata</category>
+      <category>id~Opercularia varia</category>
+      <category>id~Oxalis corniculata s.s.</category>
+      <category>id~Oxalis exilis</category>
+      <category>id~Oxalis perennans</category>
+      <category>id~Oxalis pes-caprae</category>
+      <category>id~Ozothamnus ferrugineus</category>
+      <category>id~Ozothamnus obcordatus</category>
+      <category>id~Ozothamnus rosmarinifolius</category>
+      <category>id~Paspalum distichum</category>
+      <category>id~Pelargonium inodorum</category>
+      <category>id~Pentapogon quadrifidus var. quadrifidus</category>
+      <category>id~Persoonia chamaepeuce</category>
+      <category>id~Phalaris aquatica</category>
+      <category>id~Physalis viscosa</category>
+      <category>id~Pimelea axiflora subsp. axiflora</category>
+      <category>id~Pimelea curviflora s.l.</category>
+      <category>id~Pimelea humilis</category>
+      <category>id~Pimelea linifolia subsp. linifolia</category>
+      <category>id~Pinus radiata</category>
+      <category>id~Plantago coronopus</category>
+      <category>id~Plantago lanceolata</category>
+      <category>id~Plantago varia</category>
+      <category>id~Platylobium alternifolium</category>
+      <category>id~Platylobium montanum</category>
+      <category>id~Platylobium montanum subsp. montanum</category>
+      <category>id~Platylobium obtusangulum</category>
+      <category>id~Platysace lanceolata</category>
+      <category>id~Poa clelandii</category>
+      <category>id~Poa ensiformis</category>
+      <category>id~Poa labillardierei</category>
+      <category>id~Poa morrisii</category>
+      <category>id~Poa sieberiana</category>
+      <category>id~Poa tenera</category>
+      <category>id~Podolepis jaceoides s.s.</category>
+      <category>id~Podolobium procumbens</category>
+      <category>id~Polyscias sambucifolia</category>
+      <category>id~Polystichum proliferum</category>
+      <category>id~Pomaderris aspera</category>
+      <category>id~Pomaderris elachophylla</category>
+      <category>id~Pomaderris ferruginea</category>
+      <category>id~Pomaderris prunifolia var. prunifolia</category>
+      <category>id~Pomaderris racemosa</category>
+      <category>id~Poranthera microphylla s.s.</category>
+      <category>id~Prasophyllum odoratum s.l.</category>
+      <category>id~Prostanthera decussata</category>
+      <category>id~Prostanthera lasianthos var. lasianthos</category>
+      <category>id~Prostanthera nivea var. nivea</category>
+      <category>id~Prostanthera rotundifolia</category>
+      <category>id~Prunella vulgaris</category>
+      <category>id~Pseudanthus orbicularis</category>
+      <category>id~Pteridium esculentum</category>
+      <category>id~Pterostylis melagramma</category>
+      <category>id~Pterostylis pusilla</category>
+      <category>id~Pultenaea daphnoides</category>
+      <category>id~Pultenaea gunnii</category>
+      <category>id~Pultenaea gunnii subsp. gunnii</category>
+      <category>id~Pultenaea humilis</category>
+      <category>id~Pultenaea mollis</category>
+      <category>id~Pultenaea reflexifolia</category>
+      <category>id~Pultenaea scabra</category>
+      <category>id~Pultenaea weindorferi</category>
+      <category>id~Ranunculus lappaceus</category>
+      <category>id~Ranunculus plebeius s.l.</category>
+      <category>id~Ranunculus robertsonii</category>
+      <category>id~Rhagodia parabolica</category>
+      <category>id~Rhytidosporum procumbens</category>
+      <category>id~Romulea rosea</category>
+      <category>id~Rosa rubiginosa</category>
+      <category>id~Rubus fruticosus spp. agg.</category>
+      <category>id~Rubus parvifolius</category>
+      <category>id~Rumex brownii</category>
+      <category>id~Rumex crispus</category>
+      <category>id~Rumex dumosus</category>
+      <category>id~Sambucus gaudichaudiana</category>
+      <category>id~Schinus molle</category>
+      <category>id~Schoenus maschalinus</category>
+      <category>id~Sebaea ovata</category>
+      <category>id~Senecio biserratus</category>
+      <category>id~Senecio linearifolius var. linearifolius</category>
+      <category>id~Senecio minimus</category>
+      <category>id~Senecio pinnatifolius var. lanceolatus</category>
+      <category>id~Senecio quadridentatus</category>
+      <category>id~Senecio tenuiflorus spp. agg.</category>
+      <category>id~Solanum laciniatum</category>
+      <category>id~Sonchus asper s.s.</category>
+      <category>id~Sonchus oleraceus</category>
+      <category>id~Sporobolus africanus</category>
+      <category>id~Stackhousia monogyna</category>
+      <category>id~Stackhousia viminea</category>
+      <category>id~Stellaria media</category>
+      <category>id~Stellaria pungens</category>
+      <category>id~Stuartina muelleri</category>
+      <category>id~Stylidium armeria subsp. armeria</category>
+      <category>id~Taraxacum Sect. Hamata</category>
+      <category>id~Taraxacum Sect. Ruderalia</category>
+      <category>id~Tetrarrhena distichophylla</category>
+      <category>id~Tetrarrhena juncea</category>
+      <category>id~Tetratheca ciliata</category>
+      <category>id~Teucrium racemosum s.s.</category>
+      <category>id~Thelymitra aristata</category>
+      <category>id~Themeda triandra</category>
+      <category>id~Thynninorchis huntianus</category>
+      <category>id~Thysanotus patersonii</category>
+      <category>id~Thysanotus tuberosus subsp. tuberosus</category>
+      <category>id~Todea barbara</category>
+      <category>id~Tragopogon porrifolius</category>
+      <category>id~Trifolium campestre var. campestre</category>
+      <category>id~Triglochin procera s.l.</category>
+      <category>id~Ulex europaeus</category>
+      <category>id~Urtica urens</category>
+      <category>id~Veronica calycina</category>
+      <category>id~Vicia hirsuta</category>
+      <category>id~Vinca major</category>
+      <category>id~Viola betonicifolia subsp. betonicifolia</category>
+      <category>id~Viola hederacea sensu Thiele &amp; Prober</category>
+      <category>id~Wahlenbergia communis s.s.</category>
+      <category>id~Wahlenbergia gracilenta s.s.</category>
+      <category>id~Wahlenbergia gracilis</category>
+      <category>id~Wahlenbergia multicaulis</category>
+      <category>id~Wahlenbergia stricta subsp. stricta</category>
+      <category>id~Westringia glabra</category>
+      <category>id~Xanthorrhoea australis</category>
+      <category>id~Xanthosia dissecta s.l.</category>
+      <category>tag~species-list</category>
+      <guid isPermaLink="false">https://files.natureshare.org/russell/items/ns/2017/lerderderg_state_park_plants_species_list.yaml</guid>
+      <pubDate>Sun, 13 Apr 2014 19:01:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rhagodia parabolica</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2F53b3985ae35eb12984010cb9.yaml</link>
+      <dc:creator>russell</dc:creator>
+      <description>-</description>
+      <category>id~Rhagodia parabolica</category>
+      <category>tag~fruit</category>
+      <guid isPermaLink="false">https://files.natureshare.org/russell/items/ns/2014/53b3985ae35eb12984010cb9.yaml</guid>
+      <pubDate>Tue, 25 Mar 2014 21:07:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Acacia rostriformis</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2F53b3985ae35eb12984010c96.yaml</link>
+      <dc:creator>russell</dc:creator>
+      <description>Just one plant spotted on a part of the walk from Mackenzies Flat Picnic Area. One of the best specimens I've seen at 6m+.</description>
+      <category>id~Acacia rostriformis</category>
+      <guid isPermaLink="false">https://files.natureshare.org/russell/items/ns/2014/53b3985ae35eb12984010c96.yaml</guid>
+      <pubDate>Tue, 25 Mar 2014 20:56:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Westringia glabra</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2012%2F53b39855e35eb1298400face.yaml</link>
+      <dc:creator>russell</dc:creator>
+      <description>-</description>
+      <category>id~Westringia glabra</category>
+      <category>tag~flower</category>
+      <guid isPermaLink="false">https://files.natureshare.org/russell/items/ns/2012/53b39855e35eb1298400face.yaml</guid>
+      <pubDate>Sun, 14 Oct 2012 22:28:42 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

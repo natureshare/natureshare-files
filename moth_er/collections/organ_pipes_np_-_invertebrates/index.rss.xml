@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/moth_er/collections/organ_pipes_np_-_invertebrates/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Organ Pipes Np Invertebrates</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmoth_er%2Fcollections%2Forgan_pipes_np_-_invertebrates%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 moth_er</copyright>
+    <pubDate>Mon, 03 Dec 2018 07:28:47 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Cryptophasa ochroleuca</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmoth_er%2Fitems%2Fns%2F2018%2F5c04d9956187125feb000037.yaml</link>
+      <dc:creator>moth_er</dc:creator>
+      <description>-</description>
+      <category>id~Cryptophasa ochroleuca</category>
+      <category>tag~moth</category>
+      <category>tag~white-head</category>
+      <guid isPermaLink="false">https://files.natureshare.org/moth_er/items/ns/2018/5c04d9956187125feb000037.yaml</guid>
+      <pubDate>Mon, 03 Dec 2018 07:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cryptophasa irrorata</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmoth_er%2Fitems%2Fns%2F2018%2F5c04d8a2618712711900002b.yaml</link>
+      <dc:creator>moth_er</dc:creator>
+      <description>-</description>
+      <category>id~Cryptophasa irrorata</category>
+      <category>tag~grey</category>
+      <category>tag~moth</category>
+      <guid isPermaLink="false">https://files.natureshare.org/moth_er/items/ns/2018/5c04d8a2618712711900002b.yaml</guid>
+      <pubDate>Mon, 03 Dec 2018 07:17:54 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

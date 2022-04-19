@@ -1,0 +1,45 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Wcmnburnedsite 02",
+ "description": "",
+ "author": {
+  "name": "openid_147",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_147%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_147%2Fcollections%2Fwcmnburnedsite02%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_147/collections/wcmnburnedsite02/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_147/items/ns/2013/53b39856e35eb1298400fe76.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_147%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400fe76.yaml",
+   "title": "Unidentified",
+   "content_text": "No change to burn site quadrat. No rain for 2 months. Epicormic shoots are visible on nearby mallee.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb129840139ce.jpg",
+   "date_published": "2013-02-10T15:41:21.000+00:00",
+   "date_modified": "2013-02-10T15:56:32.000+00:00",
+   "tags": [
+    "id~Unidentified"
+   ],
+   "_geo": {
+    "coordinates": [
+     143.62822,
+     -36.393997
+    ]
+   },
+   "_meta": {
+    "date": "2013-02-03",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_147",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_147%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

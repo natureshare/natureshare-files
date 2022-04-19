@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.615664,
+     -37.393619
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/butterflies_of_the_macedon_range/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fbutterflies_of_the_macedon_range%2Faggregate%2Findex.json",
+    "date": "2018-02-22",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a8e974ded2a8966a0000072.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.595,
+     -37.392
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/collections/butterflies_of_the_macedon_range/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fbutterflies_of_the_macedon_range%2Faggregate%2Findex.json",
+    "date": "2018-02-22",
+    "title": "david_francis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a8e974ded2a8966a0000072.jpg"
+   }
+  }
+ ]
+}

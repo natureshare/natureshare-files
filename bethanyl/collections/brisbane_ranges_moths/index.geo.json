@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.222896,
+     -37.902205
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bethanyl/items/ns/2017/58ec8ed9ed2a894865001b6c.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbethanyl%2Fitems%2Fns%2F2017%2F58ec8ed9ed2a894865001b6c.yaml",
+    "date": "2017-04-11",
+    "title": "Anthela varia",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ec8edced2a89e5480000ca.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.223467,
+     -37.901984
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/bethanyl/items/ns/2017/586ed4f1ed2a89f4640009fe.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbethanyl%2Fitems%2Fns%2F2017%2F586ed4f1ed2a89f4640009fe.yaml",
+    "date": "2017-01-05",
+    "title": "Epicoma contristis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/586ed506ed2a892daf0002d5.JPG"
+   }
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.27,
+     -37.825
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_42/collections/brisbane_ranges_reptiles_and_amphibians/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fcollections%2Fbrisbane_ranges_reptiles_and_amphibians%2Faggregate%2Findex.json",
+    "date": "2018-09-17",
+    "title": "Brisbane Ranges - Reptiles and Amphibians",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ac88fc1ed2a8929e700007d.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.28,
+     -37.815
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_42/collections/brisbane_ranges_mammals/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fcollections%2Fbrisbane_ranges_mammals%2Faggregate%2Findex.json",
+    "date": "2018-03-31",
+    "title": "Brisbane Ranges - Mammals",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5abf167eed2a89cf90000055.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.282428,
+     -37.843038
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_42/collections/wildlife_and_native_plants_of_staughton_vale_road/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fcollections%2Fwildlife_and_native_plants_of_staughton_vale_road%2Faggregate%2Findex.json",
+    "date": "2011-10-14",
+    "title": "Wildlife and native plants of Staughton Vale Road",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840122cc.jpg"
+   }
+  }
+ ]
+}

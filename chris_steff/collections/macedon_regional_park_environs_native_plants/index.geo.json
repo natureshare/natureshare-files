@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.587984,
+     -37.423838
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chris_steff/items/ns/2017/592a9c88ed2a8910ca0000ae.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchris_steff%2Fitems%2Fns%2F2017%2F592a9c88ed2a8910ca0000ae.yaml",
+    "date": "2017-05-28",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592a9c90ed2a89441000014e.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.571774,
+     -37.398136
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chris_steff/items/ns/2017/592a4880ed2a8910ca00004b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchris_steff%2Fitems%2Fns%2F2017%2F592a4880ed2a8910ca00004b.yaml",
+    "date": "2017-03-24",
+    "title": "Epacris impressa",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592a4889ed2a89e54800016c.jpg"
+   }
+  }
+ ]
+}

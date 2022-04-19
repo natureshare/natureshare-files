@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Wcmnburnedsites",
+ "description": "All users for [wcmnburnedsites]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fwcmnburnedsites%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/wcmnburnedsites/index.json",
+ "items": [
+  {
+   "title": "openid_147",
+   "content_text": "9 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb129840139bc.jpg",
+   "date_published": "2013-02-08T16:59:35.000+00:00",
+   "date_modified": "2013-02-08T16:59:35.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.625,
+     -36.397
+    ]
+   },
+   "_meta": {
+    "itemCount": 9,
+    "date": "2013-02-08",
+    "name": "wcmnburnedsites",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_147/collections/wcmnburnedsites/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_147%2Fcollections%2Fwcmnburnedsites%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

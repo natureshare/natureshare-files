@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.033,
+     -37.829
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/koolah/collections/moths_of_metropolitan_melbourne/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fcollections%2Fmoths_of_metropolitan_melbourne%2Faggregate%2Findex.json",
+    "date": "2019-03-24",
+    "title": "koolah",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c1ed10e3abbd6b7f00000e2/2019-03-24/1553427484/DSCN4703.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.226,
+     -37.894
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/d_kurek/collections/moths_of_metropolitan_melbourne/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fd_kurek%2Fcollections%2Fmoths_of_metropolitan_melbourne%2Faggregate%2Findex.json",
+    "date": "2019-03-24",
+    "title": "d_kurek",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c1ed10e3abbd6b7f00000e2/2019-03-24/1553427484/DSCN4703.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.823,
+     -37.735
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/andrew_allen/collections/moths_of_metropolitan_melbourne/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandrew_allen%2Fcollections%2Fmoths_of_metropolitan_melbourne%2Faggregate%2Findex.json",
+    "date": "2018-12-02",
+    "title": "andrew_allen",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_583ba1bbed2a897480005b25/2018-12-02/1543741055/moth-2018-12-01-kealba.jpg"
+   }
+  }
+ ]
+}

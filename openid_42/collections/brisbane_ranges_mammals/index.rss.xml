@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/openid_42/collections/brisbane_ranges_mammals/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Brisbane Ranges Mammals</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fcollections%2Fbrisbane_ranges_mammals%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 openid_42</copyright>
+    <pubDate>Thu, 30 Jan 2020 11:43:30 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Petaurus breviceps</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Fns%2F2012%2F53b39853e35eb1298400f3b4.yaml</link>
+      <dc:creator>openid_42</dc:creator>
+      <description>Sugar Glider photographed by Trevor Pescott while monitoring with Geelong Field Naturalists cameras in the Brisbane Ranges near Little River picnic ground .. up a hill with a fine stand of Yellow Gums
+
+Thank you Trevor</description>
+      <category>id~Petaurus breviceps</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_42/items/ns/2012/53b39853e35eb1298400f3b4.yaml</guid>
+      <pubDate>Fri, 24 Feb 2012 15:11:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tachyglossus aculeatus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400ee0c.yaml</link>
+      <dc:creator>openid_42</dc:creator>
+      <description>-</description>
+      <category>id~Tachyglossus aculeatus</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_42/items/ns/2011/53b39852e35eb1298400ee0c.yaml</guid>
+      <pubDate>Fri, 14 Oct 2011 16:04:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wallabia bicolor</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400ee0b.yaml</link>
+      <dc:creator>openid_42</dc:creator>
+      <description>-</description>
+      <category>id~Wallabia bicolor</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_42/items/ns/2011/53b39852e35eb1298400ee0b.yaml</guid>
+      <pubDate>Fri, 14 Oct 2011 15:29:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>11 ids</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_42%2Fitems%2Fns%2F2020%2Fbrisbane_ranges_mammals_species_list.yaml</link>
+      <dc:creator>openid_42</dc:creator>
+      <description>Species list for collection.</description>
+      <category>id~Macropus giganteus</category>
+      <category>id~Petaurus breviceps</category>
+      <category>id~Phascogale tapoatafa</category>
+      <category>id~Phascolarctos cinereus</category>
+      <category>id~Pseudocheirus peregrinus</category>
+      <category>id~Tachyglossus aculeatus</category>
+      <category>id~Trichosurus vulpecula</category>
+      <category>id~Vespadelus vulturnus</category>
+      <category>id~Vombatus ursinus</category>
+      <category>id~Vulpes vulpes</category>
+      <category>id~Wallabia bicolor</category>
+      <category>tag~species-list</category>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_42/items/ns/2020/brisbane_ranges_mammals_species_list.yaml</guid>
+      <pubDate>Wed, 04 May 2011 00:55:18 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

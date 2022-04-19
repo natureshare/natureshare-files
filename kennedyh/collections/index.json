@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "kennedyh",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkennedyh%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkennedyh%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/kennedyh/collections/index.json",
+ "items": [
+  {
+   "title": "Otways Bioscan – Lepidoptera",
+   "content_text": "370 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000024/2019-07-19/p1330060_otb_2018_204_mar_23_19_ns.jpeg",
+   "date_published": "2019-07-19T12:03:53.000+00:00",
+   "date_modified": "2019-07-19T12:03:53.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.884002,
+     -38.639853
+    ]
+   },
+   "_meta": {
+    "itemCount": 370,
+    "date": "2019-07-19",
+    "name": "otways_bioscan_lepidoptera",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/kennedyh/collections/otways_bioscan_lepidoptera/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkennedyh%2Fcollections%2Fotways_bioscan_lepidoptera%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Otway ranges - moths",
+   "content_text": "34 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_558768e9ed2a8918dd0010b2/2019-06-26/furcatrox_furneauxi_04_img_6857_21mar19_sheoakpicnicarea_kh_ns.jpeg",
+   "date_published": "2019-06-26T00:44:08.000+00:00",
+   "date_modified": "2019-06-26T00:44:08.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.687,
+     -38.619
+    ]
+   },
+   "_meta": {
+    "itemCount": 34,
+    "date": "2019-06-26",
+    "name": "otway_ranges_-_moths",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/kennedyh/collections/otway_ranges_-_moths/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkennedyh%2Fcollections%2Fotway_ranges_-_moths%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

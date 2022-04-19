@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Natureshare Org Au Collections Snowyriver",
+ "description": "All users for [natureshare_org_au_collections_snowyriver]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fnatureshare_org_au_collections_snowyriver%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/natureshare_org_au_collections_snowyriver/index.json",
+ "items": [
+  {
+   "title": "snowyriverman",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56ed4d87ed2a89211c00015f.jpg",
+   "date_published": "2016-03-19T13:08:18.000+00:00",
+   "date_modified": "2016-03-19T13:08:18.000+00:00",
+   "_geo": {
+    "coordinates": [
+     148.561775,
+     -37.025461
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2016-03-19",
+    "name": "natureshare_org_au_collections_snowyriver",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/snowyriverman/collections/natureshare_org_au_collections_snowyriver/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsnowyriverman%2Fcollections%2Fnatureshare_org_au_collections_snowyriver%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

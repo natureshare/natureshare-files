@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.710134,
+     -37.536143
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jylu/items/ns/2017/58ce9119ed2a896341000072.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fitems%2Fns%2F2017%2F58ce9119ed2a896341000072.yaml",
+    "date": "2016-12-07",
+    "title": "Caleana major",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce9149ed2a89441000007b.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     149.717376,
+     -37.544958
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jylu/items/ns/2017/58ce8efded2a896341000069.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fitems%2Fns%2F2017%2F58ce8efded2a896341000069.yaml",
+    "date": "2016-12-06",
+    "title": "Caleana major",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ce8f25ed2a89e54800007d.JPG"
+   }
+  }
+ ]
+}

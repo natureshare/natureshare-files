@@ -1,0 +1,74 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Plants of jollys road anakie",
+ "description": "",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fplants_of_jollys_road_anakie%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/plants_of_jollys_road_anakie/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2014/5478663ee35eb1b5c2000056.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2F5478663ee35eb1b5c2000056.yaml",
+   "title": "Clematis decipiens",
+   "content_text": "Flammuliform leaf is the key feature for C. decipiens. C. microphylla s.s. is trifoliolate, having 3 sets of usually 3 leaflets with a total of 9-11 leaflets per leaf. ID confirmed by Neville Walsh.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5478663ee35eb1b5c2000055.jpg",
+   "date_published": "2014-11-28T12:10:38.000+00:00",
+   "date_modified": "2016-09-28T07:25:57.000+00:00",
+   "tags": [
+    "id~Clematis decipiens",
+    "tag~leaf"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.222942,
+     -37.901909
+    ]
+   },
+   "_meta": {
+    "date": "2014-11-25",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2014/5476ffdbe35eb1f33d000004.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2F5476ffdbe35eb1f33d000004.yaml",
+   "title": "Isolepis spp.",
+   "content_text": "Maybe Isolepis cernua subsp. platycarpus. ID by Neville Walsh.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5476ffdbe35eb1f33d000003.jpg",
+   "date_published": "2014-11-27T10:41:31.000+00:00",
+   "date_modified": "2014-11-29T21:23:39.000+00:00",
+   "tags": [
+    "id~Isolepis spp."
+   ],
+   "_geo": {
+    "coordinates": [
+     144.225509,
+     -37.902167
+    ]
+   },
+   "_meta": {
+    "date": "2014-11-25",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

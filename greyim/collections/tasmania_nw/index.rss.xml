@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/greyim/collections/tasmania_nw/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Tasmania Nw</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgreyim%2Fcollections%2Ftasmania_nw%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 greyim</copyright>
+    <pubDate>Fri, 05 Jan 2018 21:32:57 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Pseudocheirus peregrinus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgreyim%2Fitems%2Fns%2F2018%2F5a4fe0d1ed2a89da710000db.yaml</link>
+      <dc:creator>greyim</dc:creator>
+      <description>Ringtail after green walnuts</description>
+      <category>id~Pseudocheirus peregrinus</category>
+      <guid isPermaLink="false">https://files.natureshare.org/greyim/items/ns/2018/5a4fe0d1ed2a89da710000db.yaml</guid>
+      <pubDate>Fri, 05 Jan 2018 20:36:04 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

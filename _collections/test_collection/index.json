@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Test Collection",
+ "description": "All users for [test_collection]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Ftest_collection%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/test_collection/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "2 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/552b5b65ed2a8961ed00000f.jpg",
+   "date_published": "2015-04-13T06:00:05.000+00:00",
+   "date_modified": "2015-04-13T06:00:05.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.685303,
+     -37.455965
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2015-04-13",
+    "name": "test_collection",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/test_collection/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Ftest_collection%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,60 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Stanley State Forest",
+ "description": "All users for [stanley_state_forest]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fstanley_state_forest%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/stanley_state_forest/index.json",
+ "items": [
+  {
+   "title": "openid_28",
+   "content_text": "36 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012b29.jpg",
+   "date_published": "2012-03-14T11:49:14.000+00:00",
+   "date_modified": "2012-03-14T11:49:14.000+00:00",
+   "_geo": {
+    "coordinates": [
+     146.665,
+     -36.495
+    ]
+   },
+   "_meta": {
+    "itemCount": 36,
+    "date": "2012-03-14",
+    "name": "stanley_state_forest",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_28/collections/stanley_state_forest/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fcollections%2Fstanley_state_forest%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "openid_27",
+   "content_text": "4 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985de35eb12984011772.jpg",
+   "date_published": "2011-03-10T18:23:45.000+00:00",
+   "date_modified": "2011-03-10T18:23:45.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 4,
+    "date": "2011-03-10",
+    "name": "stanley_state_forest",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_27/collections/stanley_state_forest/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_27%2Fcollections%2Fstanley_state_forest%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,38 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.329827,
+     -34.140696
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/colleenb/items/ns/2016/569c52aeed2a8939fa000001.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcolleenb%2Fitems%2Fns%2F2016%2F569c52aeed2a8939fa000001.yaml",
+    "date": "2015-06-17",
+    "title": "Pomatostomus ruficeps"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.329827,
+     -34.140696
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/colleenb/items/ns/2016/569c5199ed2a89eef6000004.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcolleenb%2Fitems%2Fns%2F2016%2F569c5199ed2a89eef6000004.yaml",
+    "date": "2015-12-25",
+    "title": "Pomatostomus ruficeps",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/569c51a3ed2a89b31c000012.jpg"
+   }
+  }
+ ]
+}

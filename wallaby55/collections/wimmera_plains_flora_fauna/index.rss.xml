@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/wallaby55/collections/wimmera_plains_flora_fauna/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Wimmera Plains Flora Fauna</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwallaby55%2Fcollections%2Fwimmera_plains_flora_fauna%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 wallaby55</copyright>
+    <pubDate>Thu, 27 Aug 2015 00:29:35 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Acacia acinacea s.s.</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fwallaby55%2Fitems%2Fns%2F2015%2F55de5974ed2a89eafd000056.yaml</link>
+      <dc:creator>wallaby55</dc:creator>
+      <description>-</description>
+      <category>id~Acacia acinacea s.s.</category>
+      <category>tag~flowers-yellow</category>
+      <category>tag~plant</category>
+      <guid isPermaLink="false">https://files.natureshare.org/wallaby55/items/ns/2015/55de5974ed2a89eafd000056.yaml</guid>
+      <pubDate>Thu, 27 Aug 2015 00:27:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Acacia acinacea s.s.</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fwallaby55%2Fitems%2Fns%2F2015%2F55de57f8ed2a89eafd000051.yaml</link>
+      <dc:creator>wallaby55</dc:creator>
+      <description>-</description>
+      <category>id~Acacia acinacea s.s.</category>
+      <category>tag~flowers-yellow</category>
+      <guid isPermaLink="false">https://files.natureshare.org/wallaby55/items/ns/2015/55de57f8ed2a89eafd000051.yaml</guid>
+      <pubDate>Thu, 27 Aug 2015 00:21:12 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

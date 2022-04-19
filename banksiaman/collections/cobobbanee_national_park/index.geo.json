@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.435294,
+     -38.217599
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2019/5e056a6064be484dd100002a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2019%2F5e056a6064be484dd100002a.yaml",
+    "date": "2019-12-14",
+    "title": "Olearia speciosa",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39819e35eb129840000b2/2019-12-27/olearia_speciosa3.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.436153,
+     -38.215981
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2019/5e05697564be484dd1000024.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2019%2F5e05697564be484dd1000024.yaml",
+    "date": "2019-12-14",
+    "title": "Thysanotus spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39819e35eb129840000b2/2019-12-27/thysanotus_racemoides.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.495633,
+     -38.180248
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/items/ns/2019/5dfddae664be484dd100001b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2019%2F5dfddae664be484dd100001b.yaml",
+    "date": "2019-12-14",
+    "title": "Cullen microcephalum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39819e35eb129840000b2/2019-12-21/cullen_microcephalum.jpeg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "openid_76",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_76%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_76%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_76/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_76/items/ns/2015/birds_of_6_shearer_close_sydenham_vic_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_76%2Fitems%2Fns%2F2015%2Fbirds_of_6_shearer_close_sydenham_vic_species_list.yaml",
+   "title": "Lichenostomus penicillatus, Phylidonyris novaehollandiae",
+   "content_text": "Species list for collection.",
+   "date_published": "2011-10-17T21:20:40.000+00:00",
+   "date_modified": "2015-04-07T08:47:35.000+00:00",
+   "tags": [
+    "id~Lichenostomus penicillatus",
+    "id~Phylidonyris novaehollandiae",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.767578,
+     -37.706661
+    ]
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

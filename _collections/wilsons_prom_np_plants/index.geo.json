@@ -1,0 +1,107 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.364876,
+     -38.923484
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/wilsons_prom_np_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fwilsons_prom_np_plants%2Faggregate%2Findex.json",
+    "date": "2016-01-17",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5698f6b8ed2a89b31c000005.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.389,
+     -38.953
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/reilly/collections/wilsons_prom_np_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fcollections%2Fwilsons_prom_np_plants%2Faggregate%2Findex.json",
+    "date": "2016-01-17",
+    "title": "reilly",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5698f6b8ed2a89b31c000005.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.293,
+     -38.972
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/collections/wilsons_prom_np_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fcollections%2Fwilsons_prom_np_plants%2Faggregate%2Findex.json",
+    "date": "2014-09-27",
+    "title": "banksiaman",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5426aa9ee35eb16af900017b.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.314,
+     -39.025
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jcanaway/collections/wilsons_prom_np_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjcanaway%2Fcollections%2Fwilsons_prom_np_plants%2Faggregate%2Findex.json",
+    "date": "2013-12-20",
+    "title": "jcanaway",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ae35eb12984014b9b.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.294,
+     -39.012
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/cclarke/collections/wilsons_prom_np_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fcollections%2Fwilsons_prom_np_plants%2Faggregate%2Findex.json",
+    "date": "2013-11-23",
+    "title": "cclarke",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ae35eb129840148f5.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.3,
+     -38.981
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/cclarke1/collections/wilsons_prom_np_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke1%2Fcollections%2Fwilsons_prom_np_plants%2Faggregate%2Findex.json",
+    "date": "2013-10-21",
+    "title": "cclarke1",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb129840145e2.jpg"
+   }
+  }
+ ]
+}

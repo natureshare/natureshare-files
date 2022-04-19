@@ -1,0 +1,37 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.579679,
+     -37.756988
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_130/items/ns/2014/53e98ebde35eb175d700001f.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Fns%2F2014%2F53e98ebde35eb175d700001f.yaml",
+    "date": "2014-07-22",
+    "title": "17 ids"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.579679,
+     -37.756988
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_130/items/ns/2014/birds_of_werribee_river_volcanic_gorge_pinkerton_flat_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Fns%2F2014%2Fbirds_of_werribee_river_volcanic_gorge_pinkerton_flat_species_list.yaml",
+    "date": "2014-08-12",
+    "title": "17 ids"
+   }
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.099,
+     -37.566
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/collections/birds_of_whittlesea/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fbirds_of_whittlesea%2Faggregate%2Findex.json",
+    "date": "2018-03-01",
+    "title": "jamesbooth",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a976c74ed2a8929e7000019.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.038,
+     -37.484
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/suzid/collections/birds_of_whittlesea/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsuzid%2Fcollections%2Fbirds_of_whittlesea%2Faggregate%2Findex.json",
+    "date": "2018-03-01",
+    "title": "suzid",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a976c74ed2a8929e7000019.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.111,
+     -37.537
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/collections/birds_of_whittlesea/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fcollections%2Fbirds_of_whittlesea%2Faggregate%2Findex.json",
+    "date": "2017-12-14",
+    "title": "markwilliams",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a330286ed2a890e9e00001b.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.062,
+     -37.586
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/anni75/collections/birds_of_whittlesea/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fanni75%2Fcollections%2Fbirds_of_whittlesea%2Faggregate%2Findex.json",
+    "date": "2015-02-02",
+    "title": "anni75",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54cf589ded2a897151000500.JPG"
+   }
+  }
+ ]
+}

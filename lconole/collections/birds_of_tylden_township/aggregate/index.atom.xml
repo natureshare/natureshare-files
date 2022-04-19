@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Birds of Tylden township</title>
+  <id>https://files.natureshare.org/lconole/collections/birds_of_tylden_township/aggregate/index.xml</id>
+  <updated>2015-12-20T21:53:58.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/lconole/collections/birds_of_tylden_township/aggregate/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/lconole/collections/birds_of_tylden_township/aggregate/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fcollections%2Fbirds_of_tylden_township%2Faggregate%2Findex.json"/>
+  <author>
+    <name>lconole</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 lconole</rights>
+  <subtitle>Birds recorded within 2km of the Tylden General Store - essentially the township boundaries.</subtitle>
+  <entry>
+    <id>https://files.natureshare.org/lconole/items/ns/2015/54f65eb8ed2a89b7cf00004b.yaml</id>
+    <title>Gymnorhina tibicen</title>
+    <updated>2015-03-04T02:16:24.000+00:00</updated>
+    <published>2015-03-04T01:24:08.000+00:00</published>
+    <author>
+      <name>lconole</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2F54f65eb8ed2a89b7cf00004b.yaml"/>
+    <category term="id~Gymnorhina tibicen"/>
+    <category term="tag~female-juvenile"/>
+    <category term="tag~male-adult"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/lconole/items/ns/2015/birds_of_tylden_township_species_list.yaml</id>
+    <title>115 ids</title>
+    <updated>2015-12-20T21:53:58.000+00:00</updated>
+    <published>2015-03-01T06:37:15.000+00:00</published>
+    <author>
+      <name>lconole</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Species list for collection.</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2Fbirds_of_tylden_township_species_list.yaml"/>
+    <category term="id~Acanthagenys rufogularis"/>
+    <category term="id~Acanthiza chrysorrhoa"/>
+    <category term="id~Acanthiza lineata"/>
+    <category term="id~Acanthiza nana"/>
+    <category term="id~Acanthiza pusilla"/>
+    <category term="id~Acanthorhynchus tenuirostris"/>
+    <category term="id~Accipiter cirrhocephalus"/>
+    <category term="id~Accipiter fasciatus"/>
+    <category term="id~Acridotheres tristis"/>
+    <category term="id~Alauda arvensis"/>
+    <category term="id~Anas gracilis"/>
+    <category term="id~Anas superciliosa"/>
+    <category term="id~Anhinga novaehollandiae"/>
+    <category term="id~Anthochaera carunculata"/>
+    <category term="id~Anthus novaeseelandiae"/>
+    <category term="id~Apus pacificus"/>
+    <category term="id~Aquila audax"/>
+    <category term="id~Ardea ibis"/>
+    <category term="id~Ardea modesta"/>
+    <category term="id~Ardea pacifica"/>
+    <category term="id~Artamus cyanopterus"/>
+    <category term="id~Artamus personatus"/>
+    <category term="id~Artamus superciliosus"/>
+    <category term="id~Cacatua galerita"/>
+    <category term="id~Cacatua tenuirostris"/>
+    <category term="id~Cacomantis flabelliformis"/>
+    <category term="id~Calamanthus fuliginosus"/>
+    <category term="id~Callocephalon fimbriatum"/>
+    <category term="id~Calyptorhynchus funereus"/>
+    <category term="id~Carduelis carduelis"/>
+    <category term="id~Carduelis chloris"/>
+    <category term="id~Chenonetta jubata"/>
+    <category term="id~Chrysococcyx basalis"/>
+    <category term="id~Chrysococcyx lucidus"/>
+    <category term="id~Circus approximans"/>
+    <category term="id~Circus assimilis"/>
+    <category term="id~Cisticola exilis"/>
+    <category term="id~Colluricincla harmonica"/>
+    <category term="id~Columba livia"/>
+    <category term="id~Coracina novaehollandiae"/>
+    <category term="id~Corcorax melanorhamphos"/>
+    <category term="id~Cormobates leucophaeus"/>
+    <category term="id~Corvus mellori"/>
+    <category term="id~Coturnix pectoralis"/>
+    <category term="id~Coturnix ypsilophora"/>
+    <category term="id~Cuculus pallidus"/>
+    <category term="id~Daphoenositta chrysoptera"/>
+    <category term="id~Dicaeum hirundinaceum"/>
+    <category term="id~Egretta novaehollandiae"/>
+    <category term="id~Elanus axillaris"/>
+    <category term="id~Eolophus roseicapilla"/>
+    <category term="id~Eopsaltria australis"/>
+    <category term="id~Falco berigora"/>
+    <category term="id~Falco cenchroides"/>
+    <category term="id~Falco longipennis"/>
+    <category term="id~Falco peregrinus"/>
+    <category term="id~Falco subniger"/>
+    <category term="id~Fulica atra"/>
+    <category term="id~Glossopsitta concinna"/>
+    <category term="id~Glossopsitta porphyrocephala"/>
+    <category term="id~Grallina cyanoleuca"/>
+    <category term="id~Gymnorhina tibicen"/>
+    <category term="id~Haliaeetus leucogaster"/>
+    <category term="id~Haliastur sphenurus"/>
+    <category term="id~Hieraaetus morphnoides"/>
+    <category term="id~Hirundapus caudacutus"/>
+    <category term="id~Hirundo neoxena"/>
+    <category term="id~Hirundo nigricans"/>
+    <category term="id~Lalage sueurii"/>
+    <category term="id~Lichenostomus chrysops"/>
+    <category term="id~Lichenostomus leucotis"/>
+    <category term="id~Lophoictinia isura"/>
+    <category term="id~Malurus cyaneus"/>
+    <category term="id~Melithreptus brevirostris"/>
+    <category term="id~Melithreptus lunatus"/>
+    <category term="id~Microcarbo melanoleucos"/>
+    <category term="id~Milvus migrans"/>
+    <category term="id~Myiagra cyanoleuca"/>
+    <category term="id~Myiagra rubecula"/>
+    <category term="id~Neochmia temporalis"/>
+    <category term="id~Neophema chrysostoma"/>
+    <category term="id~Ninox novaeseelandiae"/>
+    <category term="id~Ninox strenua"/>
+    <category term="id~Ocyphaps lophotes"/>
+    <category term="id~Pachycephala pectoralis"/>
+    <category term="id~Pachycephala rufiventris"/>
+    <category term="id~Pardalotus punctatus"/>
+    <category term="id~Pardalotus striatus"/>
+    <category term="id~Passer domesticus"/>
+    <category term="id~Pelecanus conspicillatus"/>
+    <category term="id~Petroica boodang"/>
+    <category term="id~Petroica phoenicea"/>
+    <category term="id~Phalacrocorax carbo"/>
+    <category term="id~Phaps chalcoptera"/>
+    <category term="id~Phaps elegans"/>
+    <category term="id~Philemon corniculatus"/>
+    <category term="id~Phylidonyris novaehollandiae"/>
+    <category term="id~Platalea flavipes"/>
+    <category term="id~Platycercus elegans elegans"/>
+    <category term="id~Platycercus eximius"/>
+    <category term="id~Podargus strigoides"/>
+    <category term="id~Poliocephalus poliocephalus"/>
+    <category term="id~Rhipidura albiscarpa"/>
+    <category term="id~Rhipidura leucophrys"/>
+    <category term="id~Sericornis frontalis"/>
+    <category term="id~Strepera graculina"/>
+    <category term="id~Strepera versicolor"/>
+    <category term="id~Sturnus vulgaris"/>
+    <category term="id~Tadorna tadornoides"/>
+    <category term="id~Threskiornis molucca"/>
+    <category term="id~Threskiornis spinicollis"/>
+    <category term="id~Turdus merula"/>
+    <category term="id~Tyto javanica"/>
+    <category term="id~Vanellus miles"/>
+    <category term="id~Zosterops lateralis"/>
+    <category term="tag~species-list"/>
+  </entry>
+</feed>

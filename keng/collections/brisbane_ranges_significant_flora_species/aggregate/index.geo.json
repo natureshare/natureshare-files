@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.210783,
+     -37.870617
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/keng/items/ns/2015/5624f456ed2a89401600ad48.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fkeng%2Fitems%2Fns%2F2015%2F5624f456ed2a89401600ad48.yaml",
+    "date": "2015-10-15",
+    "title": "Grevillea chrysophaea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5624f466ed2a890d95000564.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "jamesmmcardle",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesmmcardle%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesmmcardle%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/jamesmmcardle/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/jamesmmcardle/items/ns/2017/59a9edf8ed2a89daa00011cb.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesmmcardle%2Fitems%2Fns%2F2017%2F59a9edf8ed2a89daa00011cb.yaml",
+   "title": "Hakea decurrens subsp. physocarpa",
+   "content_text": "Hakea decurrens subsp. physocarpa in flower",
+   "date_published": "2017-09-01T23:32:08.000+00:00",
+   "date_modified": "2017-09-01T23:32:08.000+00:00",
+   "tags": [
+    "id~Hakea decurrens subsp. physocarpa"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.234684,
+     -37.055143
+    ]
+   },
+   "_meta": {
+    "date": "2017-08-22"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

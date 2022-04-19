@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Barfold Gorge - Plants</title>
+  <id>https://files.natureshare.org/russell/collections/barfold_gorge_plants/aggregate/index.xml</id>
+  <updated>2015-04-07T08:47:34.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/russell/collections/barfold_gorge_plants/aggregate/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/russell/collections/barfold_gorge_plants/aggregate/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fbarfold_gorge_plants%2Faggregate%2Findex.json"/>
+  <author>
+    <name>russell</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 russell</rights>
+  <subtitle>Initial species list (139 species) compiled by Ern Perkins and the Castlemaine Field Nats.</subtitle>
+  <entry>
+    <id>https://files.natureshare.org/russell/items/ns/2015/barfold_gorge_plants_species_list.yaml</id>
+    <title>139 ids</title>
+    <updated>2015-04-07T08:47:34.000+00:00</updated>
+    <published>2011-03-04T13:33:53.000+00:00</published>
+    <author>
+      <name>russell</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Species list for collection.</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Fbarfold_gorge_plants_species_list.yaml"/>
+    <category term="id~Acacia dealbata"/>
+    <category term="id~Acacia implexa"/>
+    <category term="id~Acacia melanoxylon"/>
+    <category term="id~Acacia provincialis"/>
+    <category term="id~Acacia pycnantha"/>
+    <category term="id~Acaena echinata"/>
+    <category term="id~Acaena novae-zelandiae"/>
+    <category term="id~Allocasuarina verticillata"/>
+    <category term="id~Alternanthera denticulata s.l."/>
+    <category term="id~Amyema miquelii"/>
+    <category term="id~Anagallis arvensis"/>
+    <category term="id~Arctotheca calendula"/>
+    <category term="id~Asplenium flabellifolium"/>
+    <category term="id~Austrodanthonia caespitosa"/>
+    <category term="id~Banksia marginata"/>
+    <category term="id~Blechnum minus"/>
+    <category term="id~Bromus catharticus"/>
+    <category term="id~Bromus diandrus"/>
+    <category term="id~Bursaria spinosa subsp. spinosa"/>
+    <category term="id~Callistemon sieberi"/>
+    <category term="id~Calotis anthemoides"/>
+    <category term="id~Cardamine hirsuta s.l."/>
+    <category term="id~Carduus pycnocephalus"/>
+    <category term="id~Carex appressa"/>
+    <category term="id~Carex chlorantha"/>
+    <category term="id~Carex gaudichaudiana"/>
+    <category term="id~Carex incomitata"/>
+    <category term="id~Carex tereticaulis"/>
+    <category term="id~Carthamus lanatus"/>
+    <category term="id~Centipeda cunninghamii"/>
+    <category term="id~Cheilanthes austrotenuifolia"/>
+    <category term="id~Cheilanthes sieberi subsp. sieberi"/>
+    <category term="id~Chenopodium pumilio"/>
+    <category term="id~Chrysocephalum semipapposum"/>
+    <category term="id~Cirsium vulgare"/>
+    <category term="id~Clematis microphylla s.l."/>
+    <category term="id~Conium maculatum"/>
+    <category term="id~Correa glabra var. glabra"/>
+    <category term="id~Crassula helmsii"/>
+    <category term="id~Crataegus monogyna"/>
+    <category term="id~Crepis foetida subsp. foetida"/>
+    <category term="id~Crepis vesicaria subsp. taraxacifolia"/>
+    <category term="id~Cynara cardunculus"/>
+    <category term="id~Cynodon dactylon"/>
+    <category term="id~Cyperus eragrostis"/>
+    <category term="id~Cyperus lhotskyanus"/>
+    <category term="id~Cyperus sanguinolentus"/>
+    <category term="id~Dactylis glomerata"/>
+    <category term="id~Dianella admixta"/>
+    <category term="id~Dichondra repens"/>
+    <category term="id~Discaria pubescens"/>
+    <category term="id~Dittrichia graveolens"/>
+    <category term="id~Dodonaea viscosa subsp. angustissima"/>
+    <category term="id~Dodonaea viscosa subsp. cuneata"/>
+    <category term="id~Echium plantagineum"/>
+    <category term="id~Einadia nutans subsp. nutans"/>
+    <category term="id~Epilobium billardierianum subsp. cinereum"/>
+    <category term="id~Eucalyptus camaldulensis"/>
+    <category term="id~Eucalyptus melliodora"/>
+    <category term="id~Eucalyptus microcarpa"/>
+    <category term="id~Eucalyptus viminalis"/>
+    <category term="id~Exocarpos cupressiformis"/>
+    <category term="id~Exocarpos strictus"/>
+    <category term="id~Fumaria capreolata"/>
+    <category term="id~Galium aparine"/>
+    <category term="id~Geranium dissectum"/>
+    <category term="id~Geranium solanderi s.l."/>
+    <category term="id~Hydrocotyle sibthorpioides"/>
+    <category term="id~Hypericum gramineum"/>
+    <category term="id~Hypericum perforatum subsp. veronense"/>
+    <category term="id~Hypochoeris radicata"/>
+    <category term="id~Isotoma axillaris"/>
+    <category term="id~Juncus acutus subsp. acutus"/>
+    <category term="id~Juncus vaginatus"/>
+    <category term="id~Lachnagrostis filiformis"/>
+    <category term="id~Lactuca saligna"/>
+    <category term="id~Lactuca serriola"/>
+    <category term="id~Landoltia punctata"/>
+    <category term="id~Leptospermum lanigerum"/>
+    <category term="id~Limosella australis"/>
+    <category term="id~Lotus uliginosus"/>
+    <category term="id~Lythrum hyssopifolia"/>
+    <category term="id~Lythrum salicaria"/>
+    <category term="id~Malva dendromorpha"/>
+    <category term="id~Marrubium vulgare"/>
+    <category term="id~Melicytus dentatus s.l."/>
+    <category term="id~Mentha australis"/>
+    <category term="id~Mentha pulegium"/>
+    <category term="id~Muellerina eucalyptoides"/>
+    <category term="id~Nassella leucotricha"/>
+    <category term="id~Nasturtium officinale"/>
+    <category term="id~Oxalis perennans"/>
+    <category term="id~Pelargonium australe"/>
+    <category term="id~Pelargonium rodneyanum"/>
+    <category term="id~Pellaea falcata s.l."/>
+    <category term="id~Persicaria hydropiper"/>
+    <category term="id~Phalaris minor"/>
+    <category term="id~Phragmites australis"/>
+    <category term="id~Plantago lanceolata"/>
+    <category term="id~Plantago major"/>
+    <category term="id~Pleurosorus rutifolius s.l."/>
+    <category term="id~Poa bulbosa"/>
+    <category term="id~Poa labillardierei"/>
+    <category term="id~Polygonum aviculare s.l."/>
+    <category term="id~Polypogon monspeliensis"/>
+    <category term="id~Pteridium esculentum"/>
+    <category term="id~Pteris tremula"/>
+    <category term="id~Rhodanthe anthemoides"/>
+    <category term="id~Romulea rosea var. australis s.s."/>
+    <category term="id~Rosa rubiginosa"/>
+    <category term="id~Rumex brownii"/>
+    <category term="id~Rumex conglomeratus"/>
+    <category term="id~Rumex crispus"/>
+    <category term="id~Salix spp."/>
+    <category term="id~Schoenoplectus tabernaemontani"/>
+    <category term="id~Senecio cunninghamii var. cunninghamii"/>
+    <category term="id~Senecio pinnatifolius"/>
+    <category term="id~Senecio quadridentatus"/>
+    <category term="id~Silybum marianum"/>
+    <category term="id~Solanum nigrum s.s."/>
+    <category term="id~Sonchus asper s.l."/>
+    <category term="id~Sonchus oleraceus"/>
+    <category term="id~Stellaria pungens"/>
+    <category term="id~Tragopogon porrifolius"/>
+    <category term="id~Trifolium angustifolium var. angustifolium"/>
+    <category term="id~Trifolium arvense var. arvense"/>
+    <category term="id~Trifolium campestre var. campestre"/>
+    <category term="id~Trifolium subterraneum"/>
+    <category term="id~Triglochin procera s.l."/>
+    <category term="id~Typha spp."/>
+    <category term="id~Ulex europaeus"/>
+    <category term="id~Urtica incisa"/>
+    <category term="id~Valerianella locusta"/>
+    <category term="id~Verbascum thapsus subsp. thapsus"/>
+    <category term="id~Verbascum virgatum"/>
+    <category term="id~Vinca major"/>
+    <category term="id~Wahlenbergia luteola"/>
+    <category term="id~Wahlenbergia spp."/>
+    <category term="id~Xanthium spinosum"/>
+    <category term="tag~species-list"/>
+  </entry>
+</feed>

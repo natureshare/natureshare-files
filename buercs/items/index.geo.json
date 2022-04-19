@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.494217,
+     -37.022706
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/buercs/items/ns/2018/5b932ce7ed2a89cce30026c5.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbuercs%2Fitems%2Fns%2F2018%2F5b932ce7ed2a89cce30026c5.yaml",
+    "date": "2018-09-08",
+    "title": "Caladenia grampiana",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b932ceded2a8928070000d3.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.50795,
+     -37.05243
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/buercs/items/ns/2018/5b920d35ed2a89cce3002243.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbuercs%2Fitems%2Fns%2F2018%2F5b920d35ed2a89cce3002243.yaml",
+    "date": "2018-09-07",
+    "title": "Leporella fimbriata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b920d3bed2a89c6aa0000b5.jpeg"
+   }
+  }
+ ]
+}

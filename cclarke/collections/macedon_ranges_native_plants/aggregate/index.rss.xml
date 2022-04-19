@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/cclarke/collections/macedon_ranges_native_plants/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Macedon ranges native plants</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fcollections%2Fmacedon_ranges_native_plants%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 cclarke</copyright>
+    <pubDate>Sun, 19 Jul 2015 10:33:09 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Ranunculus lappaceus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2015%2F55ab7ca5ed2a89158b0007e9.yaml</link>
+      <dc:creator>cclarke</dc:creator>
+      <description>-</description>
+      <category>id~Ranunculus lappaceus</category>
+      <guid isPermaLink="false">https://files.natureshare.org/cclarke/items/ns/2015/55ab7ca5ed2a89158b0007e9.yaml</guid>
+      <pubDate>Sun, 19 Jul 2015 10:32:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pimelea axiflora subsp. axiflora</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400ef60.yaml</link>
+      <dc:creator>cclarke</dc:creator>
+      <description>1-1.5m shrubs with small sparse flowers</description>
+      <category>id~Pimelea axiflora subsp. axiflora</category>
+      <category>tag~flower</category>
+      <guid isPermaLink="false">https://files.natureshare.org/cclarke/items/ns/2011/53b39852e35eb1298400ef60.yaml</guid>
+      <pubDate>Mon, 14 Nov 2011 01:00:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Galerina spp.</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e919.yaml</link>
+      <dc:creator>cclarke</dc:creator>
+      <description>lovely small fungi growing on mossy dead tree stump by the side of mt charlie road</description>
+      <category>id~Galerina spp.</category>
+      <guid isPermaLink="false">https://files.natureshare.org/cclarke/items/ns/2011/53b39850e35eb1298400e919.yaml</guid>
+      <pubDate>Mon, 27 Jun 2011 18:10:38 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

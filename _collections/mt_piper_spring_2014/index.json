@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Mt Piper Spring 2014",
+ "description": "All users for [mt_piper_spring_2014]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fmt_piper_spring_2014%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/mt_piper_spring_2014/index.json",
+ "items": [
+  {
+   "title": "anni75",
+   "content_text": "17 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54295425e35eb1dec100007a.JPG",
+   "date_published": "2014-09-29T12:44:21.000+00:00",
+   "date_modified": "2014-09-29T12:44:21.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.005508,
+     -37.205705
+    ]
+   },
+   "_meta": {
+    "itemCount": 17,
+    "date": "2014-09-29",
+    "name": "mt_piper_spring_2014",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/anni75/collections/mt_piper_spring_2014/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fanni75%2Fcollections%2Fmt_piper_spring_2014%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

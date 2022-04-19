@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "openid_165",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_165%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_165%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_165/collections/index.json",
+ "items": [
+  {
+   "title": "Mt. Worth State Park",
+   "content_text": "3 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb1298401415a.jpg",
+   "date_published": "2013-07-19T15:01:09.000+00:00",
+   "date_modified": "2013-07-19T15:01:09.000+00:00",
+   "_geo": {
+    "coordinates": [
+     146.004,
+     -38.282
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2013-07-19",
+    "name": "mt_worth_state_park",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_165/collections/mt_worth_state_park/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_165%2Fcollections%2Fmt_worth_state_park%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

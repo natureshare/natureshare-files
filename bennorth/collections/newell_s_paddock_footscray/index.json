@@ -1,0 +1,70 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Newell S Paddock Footscray",
+ "description": "",
+ "author": {
+  "name": "bennorth",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbennorth%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbennorth%2Fcollections%2Fnewell_s_paddock_footscray%2Findex.json",
+ "feed_url": "https://files.natureshare.org/bennorth/collections/newell_s_paddock_footscray/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/bennorth/items/ns/2014/542e3af2e35eb1dec10001ad.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbennorth%2Fitems%2Fns%2F2014%2F542e3af2e35eb1dec10001ad.yaml",
+   "title": "Bulbine bulbosa",
+   "content_text": "Healty patch of planted Bulbine Lilies at Newells Paddock in Footscray",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/542e3af1e35eb1dec10001a9.JPG",
+   "date_published": "2014-10-03T05:58:10.000+00:00",
+   "date_modified": "2014-10-03T06:04:10.000+00:00",
+   "tags": [
+    "id~Bulbine bulbosa",
+    "tag~flowers"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.910756,
+     -37.796927
+    ]
+   },
+   "_meta": {
+    "date": "2014-10-03",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "bennorth",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbennorth%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/bennorth/items/ns/2014/542a529be35eb1feb000013f.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbennorth%2Fitems%2Fns%2F2014%2F542a529be35eb1feb000013f.yaml",
+   "title": "Notechis scutatus",
+   "content_text": "Adult Tiger snake observed at Newells Paddock during a community hand weeding day.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/542a529ae35eb1feb000013c.JPG",
+   "date_published": "2014-09-30T06:50:03.000+00:00",
+   "date_modified": "2014-09-30T06:51:15.000+00:00",
+   "tags": [
+    "id~Notechis scutatus",
+    "tag~unknown-adults"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2014-09-28",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "bennorth",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbennorth%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

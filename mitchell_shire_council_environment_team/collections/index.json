@@ -1,0 +1,85 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "mitchell_shire_council_environment_team",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/mitchell_shire_council_environment_team/collections/index.json",
+ "items": [
+  {
+   "title": "Monument Hill Reserve, Kilmore",
+   "content_text": "6 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ff9204ed2a8994a90000e6.JPG",
+   "date_published": "2015-03-11T00:53:24.000+00:00",
+   "date_modified": "2015-03-11T00:53:24.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.970626,
+     -37.301773
+    ]
+   },
+   "_meta": {
+    "itemCount": 6,
+    "date": "2015-03-11",
+    "name": "monument_hill_reserve_kilmore",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/mitchell_shire_council_environment_team/collections/monument_hill_reserve_kilmore/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fcollections%2Fmonument_hill_reserve_kilmore%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Highcamp Flora Reserve, Highcamp",
+   "content_text": "2 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ff763bed2a8994a90000b7.JPG",
+   "date_published": "2015-03-10T22:54:51.000+00:00",
+   "date_modified": "2015-03-10T22:54:51.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.889483,
+     -37.181296
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2015-03-10",
+    "name": "highcamp_flora_reserve_highcamp",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/mitchell_shire_council_environment_team/collections/highcamp_flora_reserve_highcamp/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fcollections%2Fhighcamp_flora_reserve_highcamp%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Boulton Flora Reserve, Tallarook",
+   "content_text": "2 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54feb3fded2a8974d30000bc.JPG",
+   "date_published": "2015-03-10T09:06:06.000+00:00",
+   "date_modified": "2015-03-10T09:06:06.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.09618,
+     -37.09529
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2015-03-10",
+    "name": "boulton_flora_reserve_tallarook",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/mitchell_shire_council_environment_team/collections/boulton_flora_reserve_tallarook/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmitchell_shire_council_environment_team%2Fcollections%2Fboulton_flora_reserve_tallarook%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

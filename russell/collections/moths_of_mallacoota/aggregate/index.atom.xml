@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Moths of Mallacoota</title>
+  <id>https://files.natureshare.org/russell/collections/moths_of_mallacoota/aggregate/index.xml</id>
+  <updated>2015-04-07T08:47:35.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/russell/collections/moths_of_mallacoota/aggregate/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/russell/collections/moths_of_mallacoota/aggregate/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmoths_of_mallacoota%2Faggregate%2Findex.json"/>
+  <author>
+    <name>russell</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 russell</rights>
+  <subtitle>For moths of the general Mallacoota area, east and west of the lake and north to Genoa.</subtitle>
+  <entry>
+    <id>https://files.natureshare.org/russell/items/ns/2014/53b3985ae35eb12984010ab7.yaml</id>
+    <title>Circopetes obtusata</title>
+    <updated>2014-07-02T14:10:04.000+00:00</updated>
+    <published>2014-01-18T11:47:08.000+00:00</published>
+    <author>
+      <name>russell</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Spotted on Ellena's bike.</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2F53b3985ae35eb12984010ab7.yaml"/>
+    <category term="id~Circopetes obtusata"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/cclarke/items/ns/2011/53b39852e35eb1298400eee3.yaml</id>
+    <title>Lepidoptera spp.</title>
+    <updated>2011-11-01T22:54:56.000+00:00</updated>
+    <published>2011-11-01T22:52:57.000+00:00</published>
+    <author>
+      <name>cclarke</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">About 5cm wingspan</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400eee3.yaml"/>
+    <category term="id~Lepidoptera spp."/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/russell/items/ns/2015/moths_of_mallacoota_species_list.yaml</id>
+    <title>Amata sp. (1), Circopetes obtusata</title>
+    <updated>2015-04-07T08:47:35.000+00:00</updated>
+    <published>2011-06-23T17:00:22.000+00:00</published>
+    <author>
+      <name>russell</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Species list for collection.</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Fmoths_of_mallacoota_species_list.yaml"/>
+    <category term="id~Amata sp. (1)"/>
+    <category term="id~Circopetes obtusata"/>
+    <category term="tag~species-list"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/russell/items/ns/2011/53b39850e35eb1298400e8fb.yaml</id>
+    <title>Amata sp. (1)</title>
+    <updated>2011-06-23T17:09:39.000+00:00</updated>
+    <published>2011-06-23T16:58:07.000+00:00</published>
+    <author>
+      <name>russell</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Male? On Elaeocarpus reticulatus (fruit not ripe).</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e8fb.yaml"/>
+    <category term="id~Amata sp. (1)"/>
+  </entry>
+</feed>

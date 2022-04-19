@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654408,
+     -37.441473
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/spiders_of_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fspiders_of_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2017-03-27",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58d65585ed2a89a81f000086.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.672,
+     -37.459
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/collections/spiders_of_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fspiders_of_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2017-03-27",
+    "title": "jamesbooth",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58d65585ed2a89a81f000086.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.655,
+     -37.431
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/ellena/collections/spiders_of_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fellena%2Fcollections%2Fspiders_of_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2015-02-16",
+    "title": "ellena",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e25ec6ed2a89d990000329.jpg"
+   }
+  }
+ ]
+}

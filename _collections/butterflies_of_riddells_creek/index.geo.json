@@ -1,0 +1,55 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.668827,
+     -37.431796
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/butterflies_of_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fbutterflies_of_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2015-03-23",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/550fc04ced2a8974d300097e.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.695,
+     -37.458
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/julie/collections/butterflies_of_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjulie%2Fcollections%2Fbutterflies_of_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2011-04-18",
+    "title": "julie",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011983.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.655,
+     -37.431
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gill/collections/butterflies_of_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fcollections%2Fbutterflies_of_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2011-02-19",
+    "title": "gill"
+   }
+  }
+ ]
+}

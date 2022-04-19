@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     148.108,
+     -35.068
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/reilly/collections/nsw/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fcollections%2Fnsw%2Faggregate%2Findex.json",
+    "date": "2020-03-13",
+    "title": "reilly",
+    "image": "https://photos.natureshare.org.au/user_generated_content/thumbnails/reilly/items/dropbox/2020/img_4853.jpg"
+   }
+  }
+ ]
+}

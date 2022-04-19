@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.156,
+     -37.517
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jedwards/collections/flora_fauna_of_whittlesea/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fcollections%2Fflora_fauna_of_whittlesea%2Faggregate%2Findex.json",
+    "date": "2013-09-11",
+    "title": "jedwards",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143db.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.163,
+     -37.521
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/flora_fauna_of_whittlesea/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fflora_fauna_of_whittlesea%2Faggregate%2Findex.json",
+    "date": "2013-09-11",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143db.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.795,
+     -37.854722
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_7/items/ns/2010/53b3984ee35eb1298400e0d4.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Fns%2F2010%2F53b3984ee35eb1298400e0d4.yaml",
+    "date": "2009-09-30",
+    "title": "Stackhousia subterranea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ce35eb12984011301.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.795,
+     -37.854722
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_7/items/ns/2010/53b3984ee35eb1298400e0cb.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Fns%2F2010%2F53b3984ee35eb1298400e0cb.yaml",
+    "date": "2009-10-05",
+    "title": "Cheilanthes sieberi subsp. sieberi",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ce35eb129840112f9.jpg"
+   }
+  }
+ ]
+}

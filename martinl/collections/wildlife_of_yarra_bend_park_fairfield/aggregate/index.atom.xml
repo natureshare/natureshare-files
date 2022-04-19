@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Wildlife of Yarra Bend Park, Fairfield.</title>
+  <id>https://files.natureshare.org/martinl/collections/wildlife_of_yarra_bend_park_fairfield/aggregate/index.xml</id>
+  <updated>2016-12-11T11:15:50.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/martinl/collections/wildlife_of_yarra_bend_park_fairfield/aggregate/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/martinl/collections/wildlife_of_yarra_bend_park_fairfield/aggregate/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmartinl%2Fcollections%2Fwildlife_of_yarra_bend_park_fairfield%2Faggregate%2Findex.json"/>
+  <author>
+    <name>martinl</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmartinl%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 martinl</rights>
+  <subtitle>Famous for its massive colony of flying foxes, this remnant native habitat is a useful refuge for many native species in the heart of Melbourne.</subtitle>
+  <entry>
+    <id>https://files.natureshare.org/martinl/items/ns/2015/54f159e9ed2a8983c20000d1.yaml</id>
+    <title>Micropezidae spp., Sparassidae spp.</title>
+    <updated>2015-03-10T08:50:07.000+00:00</updated>
+    <published>2015-02-28T06:02:17.000+00:00</published>
+    <author>
+      <name>martinl</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmartinl%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">A small huntsman spider feasting on a stilt legged fly.  </content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmartinl%2Fitems%2Fns%2F2015%2F54f159e9ed2a8983c20000d1.yaml"/>
+    <category term="id~Micropezidae spp."/>
+    <category term="id~Sparassidae spp."/>
+    <category term="tag~baby"/>
+    <category term="tag~fly"/>
+    <category term="tag~provisional-name"/>
+    <category term="tag~spider"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/martinl/items/ns/2015/54f15865ed2a8945a10000e8.yaml</id>
+    <title>Melobasis spp.</title>
+    <updated>2016-12-11T11:15:50.000+00:00</updated>
+    <published>2015-02-28T05:55:49.000+00:00</published>
+    <author>
+      <name>martinl</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmartinl%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">This is Melobasis sp.  A small green Jewel beetle found on foliage of eucalyptus.</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmartinl%2Fitems%2Fns%2F2015%2F54f15865ed2a8945a10000e8.yaml"/>
+    <category term="id~Melobasis spp."/>
+    <category term="tag~adult"/>
+    <category term="tag~beetle"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/martinl/items/ns/2012/53b39854e35eb1298400f6d1.yaml</id>
+    <title>Paropsis atomaria</title>
+    <updated>2012-08-07T15:27:01.000+00:00</updated>
+    <published>2012-08-07T12:43:59.000+00:00</published>
+    <author>
+      <name>martinl</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmartinl%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">This common Tortoise Leaf Beetle (Paropsis atomaria)gets its name from a reptile that can also completely withdraw its feet into (under) its shell.  Antennae too.</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmartinl%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f6d1.yaml"/>
+    <category term="id~Paropsis atomaria"/>
+    <category term="tag~beetle"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/martinl/items/ns/2012/53b39854e35eb1298400f6cf.yaml</id>
+    <title>Pteropus poliocephalus</title>
+    <updated>2012-08-07T12:27:20.000+00:00</updated>
+    <published>2012-08-07T12:23:33.000+00:00</published>
+    <author>
+      <name>martinl</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmartinl%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">This colony represents 50 000 bats that roost daily in the tall eucalyptus trees.  There are 100 000 grey headed flying fox bats in Melbourne.</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmartinl%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f6cf.yaml"/>
+    <category term="id~Pteropus poliocephalus"/>
+    <category term="tag~adult"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/martinl/items/ns/2012/53b39854e35eb1298400f6ce.yaml</id>
+    <title>Scutiphora pedicellata</title>
+    <updated>2015-02-27T03:07:57.000+00:00</updated>
+    <published>2012-08-07T11:54:38.000+00:00</published>
+    <author>
+      <name>martinl</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmartinl%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">This half grown bug is a shield backed bug, it will look like Scutiphora pedicellata but the species is undetermined.</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmartinl%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f6ce.yaml"/>
+    <category term="id~Scutiphora pedicellata"/>
+    <category term="tag~nymph"/>
+  </entry>
+</feed>

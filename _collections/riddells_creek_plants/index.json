@@ -1,0 +1,85 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Riddells Creek Plants",
+ "description": "All users for [riddells_creek_plants]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Friddells_creek_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/riddells_creek_plants/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "259 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57bc33b0ed2a892daf00000e.jpg",
+   "date_published": "2016-08-23T11:46:52.000+00:00",
+   "date_modified": "2016-08-23T11:46:52.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.662647,
+     -37.432804
+    ]
+   },
+   "_meta": {
+    "itemCount": 259,
+    "date": "2016-08-23",
+    "name": "riddells_creek_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/riddells_creek_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Friddells_creek_plants%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "lydia",
+   "content_text": "1 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57bc33b0ed2a892daf00000e.jpg",
+   "date_published": "2016-08-23T11:46:52.000+00:00",
+   "date_modified": "2016-08-23T11:46:52.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.652,
+     -37.431
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2016-08-23",
+    "name": "riddells_creek_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/lydia/collections/riddells_creek_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fcollections%2Friddells_creek_plants%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "jamesbooth",
+   "content_text": "6 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb12984012148.jpg",
+   "date_published": "2011-09-21T20:25:58.000+00:00",
+   "date_modified": "2011-09-21T20:25:58.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.663,
+     -37.446
+    ]
+   },
+   "_meta": {
+    "itemCount": 6,
+    "date": "2011-09-21",
+    "name": "riddells_creek_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/jamesbooth/collections/riddells_creek_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Friddells_creek_plants%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

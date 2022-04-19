@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.839391,
+     -38.684204
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/collections/grey_river/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fgrey_river%2Faggregate%2Findex.json",
+    "date": "2019-02-22",
+    "title": "tsnata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_53b39818e35eb12984000026/2019-02-22/1550832807/bird-GR.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.839,
+     -38.684
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_53/collections/grey_river/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_53%2Fcollections%2Fgrey_river%2Faggregate%2Findex.json",
+    "date": "2012-11-12",
+    "title": "openid_53",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb12984013509.jpg"
+   }
+  }
+ ]
+}

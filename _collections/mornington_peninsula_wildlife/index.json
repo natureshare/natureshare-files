@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Mornington Peninsula Wildlife",
+ "description": "All users for [mornington_peninsula_wildlife]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fmornington_peninsula_wildlife%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/mornington_peninsula_wildlife/index.json",
+ "items": [
+  {
+   "title": "andrewbrown",
+   "content_text": "10 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ae85e8aed2a89abdd0000b4.JPG",
+   "date_published": "2018-05-01T12:37:21.000+00:00",
+   "date_modified": "2018-05-01T12:37:21.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.996,
+     -38.392
+    ]
+   },
+   "_meta": {
+    "itemCount": 10,
+    "date": "2018-05-01",
+    "name": "mornington_peninsula_wildlife",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/andrewbrown/collections/mornington_peninsula_wildlife/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandrewbrown%2Fcollections%2Fmornington_peninsula_wildlife%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

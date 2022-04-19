@@ -1,0 +1,72 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Moths Of Riddells Creek",
+ "description": "",
+ "author": {
+  "name": "julie",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjulie%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjulie%2Fcollections%2Fmoths_of_riddells_creek%2Findex.json",
+ "feed_url": "https://files.natureshare.org/julie/collections/moths_of_riddells_creek/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/julie/items/ns/2012/53b39855e35eb1298400f9fb.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjulie%2Fitems%2Fns%2F2012%2F53b39855e35eb1298400f9fb.yaml",
+   "title": "Pinara obliqua",
+   "content_text": "female moth copper and brown dots on wings distinct brown diagonal line on wings strips on legs",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb129840132f8.jpg",
+   "date_published": "2012-09-29T09:48:45.000+00:00",
+   "date_modified": "2012-09-29T10:43:00.000+00:00",
+   "tags": [
+    "id~Pinara obliqua",
+    "tag~female"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.694871,
+     -37.457461
+    ]
+   },
+   "_meta": {
+    "date": "2012-09-28",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "julie",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjulie%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/julie/items/ns/2011/53b39850e35eb1298400e5f3.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjulie%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e5f3.yaml",
+   "title": "Hippotion scrofa",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011984.jpg",
+   "date_published": "2011-04-12T16:46:03.000+00:00",
+   "date_modified": "2014-12-10T06:20:02.000+00:00",
+   "tags": [
+    "id~Hippotion scrofa"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.694882,
+     -37.457512
+    ]
+   },
+   "_meta": {
+    "date": "2011-04-09",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "julie",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjulie%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.940828,
+     -35.969041
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/scotia/items/ns/2016/57543f71ed2a89e668000ffe.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fscotia%2Fitems%2Fns%2F2016%2F57543f71ed2a89e668000ffe.yaml",
+    "date": "2013-06-05",
+    "title": "Scutigera coleoptrata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57543f84ed2a890be7000219.jpg"
+   }
+  }
+ ]
+}

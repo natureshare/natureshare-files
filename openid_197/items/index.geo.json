@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.22656,
+     -37.77531
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_197/items/ns/2014/53b3985be35eb12984010dbc.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_197%2Fitems%2Fns%2F2014%2F53b3985be35eb12984010dbc.yaml",
+    "date": "2013-12-10",
+    "title": "Eucalyptus rubida",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb12984015296.jpg"
+   }
+  }
+ ]
+}

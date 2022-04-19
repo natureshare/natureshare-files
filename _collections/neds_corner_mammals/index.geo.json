@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.364,
+     -34.172
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/collections/neds_corner_mammals/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fcollections%2Fneds_corner_mammals%2Faggregate%2Findex.json",
+    "date": "2017-03-16",
+    "title": "chrisl",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ca2ce0ed2a89a81f000050.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.347,
+     -34.154
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/collections/neds_corner_mammals/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fneds_corner_mammals%2Faggregate%2Findex.json",
+    "date": "2017-03-16",
+    "title": "jamesbooth",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ca2ce0ed2a89a81f000050.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.327,
+     -34.14
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/neds_corner_mammals/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fneds_corner_mammals%2Faggregate%2Findex.json",
+    "date": "2013-11-19",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ae35eb12984014842.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.324,
+     -34.173
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_182/collections/neds_corner_mammals/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_182%2Fcollections%2Fneds_corner_mammals%2Faggregate%2Findex.json",
+    "date": "2013-09-29",
+    "title": "openid_182",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb12984014435.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.353882,
+     -37.909767
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/honeyeater/items/ns/2016/56a2208ced2a899a9a000051.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fhoneyeater%2Fitems%2Fns%2F2016%2F56a2208ced2a899a9a000051.yaml",
+    "date": "2014-10-01",
+    "title": "Cyclochila australasiae",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56a22096ed2a89b31c000033.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.359389,
+     -37.905972
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/honeyeater/items/ns/2016/5689cb03ed2a890461000001.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fhoneyeater%2Fitems%2Fns%2F2016%2F5689cb03ed2a890461000001.yaml",
+    "date": "2016-01-02",
+    "title": "Endoxyla spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/568c7ac1ed2a89038f00000d.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.086,
+     -38.082
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/suzanne/items/ns/2014/53b3985ae35eb12984010d0e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fsuzanne%2Fitems%2Fns%2F2014%2F53b3985ae35eb12984010d0e.yaml",
+    "date": "2014-03-02",
+    "title": "Oniscidea spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb1298401517e.jpg"
+   }
+  }
+ ]
+}

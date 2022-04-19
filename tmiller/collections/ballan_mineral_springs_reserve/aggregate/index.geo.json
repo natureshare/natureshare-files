@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.192099,
+     -37.607542
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tmiller/items/ns/2017/58a53731ed2a89f8d7000022.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fitems%2Fns%2F2017%2F58a53731ed2a89f8d7000022.yaml",
+    "date": "2016-01-04",
+    "title": "Malurus cyaneus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a537bfed2a892daf0003c5.JPG"
+   }
+  }
+ ]
+}

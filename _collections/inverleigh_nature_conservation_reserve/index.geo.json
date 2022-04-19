@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.048958,
+     -38.076474
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_28/collections/inverleigh_nature_conservation_reserve/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fcollections%2Finverleigh_nature_conservation_reserve%2Faggregate%2Findex.json",
+    "date": "2017-10-03",
+    "title": "openid_28",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59d2e718ed2a8939840003c7.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.041,
+     -38.07
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lorrainecphelan/collections/inverleigh_nature_conservation_reserve/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Florrainecphelan%2Fcollections%2Finverleigh_nature_conservation_reserve%2Faggregate%2Findex.json",
+    "date": "2017-10-03",
+    "title": "lorrainecphelan",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59d2e718ed2a8939840003c7.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.04,
+     -38.057
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/collections/inverleigh_nature_conservation_reserve/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fcollections%2Finverleigh_nature_conservation_reserve%2Faggregate%2Findex.json",
+    "date": "2016-08-21",
+    "title": "banksiaman",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57b99368ed2a89b718000007.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.047,
+     -38.083
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/inverleigh_nature_conservation_reserve/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Finverleigh_nature_conservation_reserve%2Faggregate%2Findex.json",
+    "date": "2013-09-06",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014381.jpg"
+   }
+  }
+ ]
+}

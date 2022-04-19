@@ -1,0 +1,152 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Birds Of Ballarat Lake Wendouree",
+ "description": "",
+ "author": {
+  "name": "giorgiod",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fcollections%2Fbirds_of_ballarat_-_lake_wendouree%2Findex.json",
+ "feed_url": "https://files.natureshare.org/giorgiod/collections/birds_of_ballarat_-_lake_wendouree/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/giorgiod/items/ns/2016/57ee99a9ed2a89450f007f9d.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Fns%2F2016%2F57ee99a9ed2a89450f007f9d.yaml",
+   "title": "Cygnus atratus",
+   "content_text": "-",
+   "date_published": "2016-09-30T16:58:17.000+00:00",
+   "date_modified": "2016-09-30T16:58:17.000+00:00",
+   "tags": [
+    "id~Cygnus atratus"
+   ],
+   "_geo": {
+    "coordinates": [
+     143.831687,
+     -37.548916
+    ]
+   },
+   "_meta": {
+    "date": "2016-09-10"
+   },
+   "author": {
+    "name": "giorgiod",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/giorgiod/items/ns/2016/birds_of_ballarat_-_lake_wendouree_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Fns%2F2016%2Fbirds_of_ballarat_-_lake_wendouree_species_list.yaml",
+   "title": "85 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2016-09-30T16:56:09.000+00:00",
+   "date_modified": "2016-09-30T17:18:40.000+00:00",
+   "tags": [
+    "id~Acanthiza chrysorrhoa",
+    "id~Acanthiza lineata",
+    "id~Acanthiza pusilla",
+    "id~Acridotheres tristis",
+    "id~Alisterus scapularis",
+    "id~Anas castanea",
+    "id~Anas gracilis",
+    "id~Anas superciliosa",
+    "id~Anhinga novaehollandiae",
+    "id~Anthochaera carunculata",
+    "id~Ardea modesta",
+    "id~Ardea pacifica",
+    "id~Aythya australis",
+    "id~Biziura lobata",
+    "id~Cacatua galerita",
+    "id~Cacatua sanguinea",
+    "id~Cacatua tenuirostris",
+    "id~Calyptorhynchus funereus",
+    "id~Carduelis carduelis",
+    "id~Chenonetta jubata",
+    "id~Chlidonias hybrida",
+    "id~Chroicocephalus novaehollandiae",
+    "id~Circus approximans",
+    "id~Columba livia",
+    "id~Coracina novaehollandiae",
+    "id~Corvus coronoides",
+    "id~Corvus mellori",
+    "id~Cracticus tibicen",
+    "id~Cygnus atratus",
+    "id~Dacelo novaeguineae",
+    "id~Dicaeum hirundinaceum",
+    "id~Egretta novaehollandiae",
+    "id~Eolophus roseicapillus",
+    "id~Eopsaltria australis",
+    "id~Falco cenchroides",
+    "id~Falco longipennis",
+    "id~Fulica atra",
+    "id~Gallinago hardwickii",
+    "id~Gallinula tenebrosa",
+    "id~Glossopsitta concinna",
+    "id~Grallina cyanoleuca",
+    "id~Haliaeetus leucogaster",
+    "id~Hirundo neoxena",
+    "id~Malurus cyaneus",
+    "id~Megalurus gramineus",
+    "id~Melithreptus brevirostris",
+    "id~Microcarbo melanoleucos",
+    "id~Nycticorax caledonicus",
+    "id~Ocyphaps lophotes",
+    "id~Oriolus sagittatus",
+    "id~Oxyura australis",
+    "id~Pachycephala pectoralis",
+    "id~Passer domesticus",
+    "id~Pelecanus conspicillatus",
+    "id~Petrochelidon nigricans",
+    "id~Phalacrocorax carbo",
+    "id~Phalacrocorax sulcirostris",
+    "id~Phalacrocorax varius",
+    "id~Phaps chalcoptera",
+    "id~Phylidonyris novaehollandiae",
+    "id~Platycercus elegans elegans",
+    "id~Platycercus eximius",
+    "id~Podiceps cristatus",
+    "id~Poliocephalus poliocephalus",
+    "id~Porzana fluminea",
+    "id~Porzana pusilla",
+    "id~Ptilotula penicillata",
+    "id~Rhipidura albiscapa",
+    "id~Rhipidura leucophrys",
+    "id~Sericornis frontalis",
+    "id~Stictonetta naevosa",
+    "id~Strepera graculina",
+    "id~Strepera versicolor",
+    "id~Streptopelia chinensis",
+    "id~Sturnus vulgaris",
+    "id~Tachybaptus novaehollandiae",
+    "id~Tadorna tadornoides",
+    "id~Threskiornis molucca",
+    "id~Threskiornis spinicollis",
+    "id~Todiramphus sanctus",
+    "id~Tribonyx ventralis",
+    "id~Trichoglossus haematodus",
+    "id~Turdus merula",
+    "id~Vanellus miles",
+    "id~Zosterops lateralis",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     143.833404,
+     -37.550549
+    ]
+   },
+   "_meta": {
+    "date": "2016-09-30"
+   },
+   "author": {
+    "name": "giorgiod",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

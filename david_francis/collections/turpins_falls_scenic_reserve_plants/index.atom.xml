@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Turpins Falls Scenic Reserve Plants</title>
+  <id>https://files.natureshare.org/david_francis/collections/turpins_falls_scenic_reserve_plants/index.xml</id>
+  <updated>2014-07-22T13:00:25.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/david_francis/collections/turpins_falls_scenic_reserve_plants/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/david_francis/collections/turpins_falls_scenic_reserve_plants/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fturpins_falls_scenic_reserve_plants%2Findex.json"/>
+  <author>
+    <name>david_francis</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 david_francis</rights>
+  <entry>
+    <id>https://files.natureshare.org/david_francis/items/ns/2014/53ce5c72e35eb1da75000006.yaml</id>
+    <title>Pleurosorus rutifolius s.s.</title>
+    <updated>2014-07-22T13:00:25.000+00:00</updated>
+    <published>2014-07-22T12:43:30.000+00:00</published>
+    <author>
+      <name>david_francis</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2014%2F53ce5c72e35eb1da75000006.yaml"/>
+    <category term="id~Pleurosorus rutifolius s.s."/>
+    <category term="tag~frond"/>
+    <category term="tag~sori"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/david_francis/items/ns/2014/53ce5aa4e35eb1bdb1000007.yaml</id>
+    <title>Callistemon sieberi</title>
+    <updated>2014-07-22T12:36:15.000+00:00</updated>
+    <published>2014-07-22T12:35:48.000+00:00</published>
+    <author>
+      <name>david_francis</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2014%2F53ce5aa4e35eb1bdb1000007.yaml"/>
+    <category term="id~Callistemon sieberi"/>
+    <category term="tag~adult-leaf"/>
+    <category term="tag~fruit"/>
+  </entry>
+</feed>

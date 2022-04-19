@@ -1,0 +1,46 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Flora Of The You Yangs",
+ "description": "",
+ "author": {
+  "name": "chrisl",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fcollections%2Fflora_of_the_you_yangs%2Findex.json",
+ "feed_url": "https://files.natureshare.org/chrisl/collections/flora_of_the_you_yangs/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/chrisl/items/ns/2016/56f5ef1fed2a89edf00002fd.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2016%2F56f5ef1fed2a89edf00002fd.yaml",
+   "title": "Cyrtostylis robusta",
+   "content_text": "Approximate location and date.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56f5ef28ed2a890be700015c.jpg",
+   "date_published": "2016-03-26T02:12:41.000+00:00",
+   "date_modified": "2016-03-26T02:12:41.000+00:00",
+   "tags": [
+    "id~Cyrtostylis robusta",
+    "tag~flower"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.443935,
+     -37.955909
+    ]
+   },
+   "_meta": {
+    "date": "1993-08-01",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "chrisl",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

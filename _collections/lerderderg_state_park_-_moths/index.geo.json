@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.40023,
+     -37.498815
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/koolah/collections/lerderderg_state_park_-_moths/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fcollections%2Flerderderg_state_park_-_moths%2Faggregate%2Findex.json",
+    "date": "2018-03-04",
+    "title": "koolah",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a9bbf89ed2a89cf9000002c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.42,
+     -37.559
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/peterm/collections/lerderderg_state_park_-_moths/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpeterm%2Fcollections%2Flerderderg_state_park_-_moths%2Faggregate%2Findex.json",
+    "date": "2018-03-04",
+    "title": "peterm",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a9bbf89ed2a89cf9000002c.jpg"
+   }
+  }
+ ]
+}

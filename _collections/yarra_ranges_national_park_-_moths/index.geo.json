@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.708976,
+     -37.70771
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/koolah/collections/yarra_ranges_national_park_-_moths/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkoolah%2Fcollections%2Fyarra_ranges_national_park_-_moths%2Faggregate%2Findex.json",
+    "date": "2018-01-24",
+    "title": "koolah",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a680403ed2a895fa2000006.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.712,
+     -37.71
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/moth_er/collections/yarra_ranges_national_park_-_moths/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmoth_er%2Fcollections%2Fyarra_ranges_national_park_-_moths%2Faggregate%2Findex.json",
+    "date": "2018-01-24",
+    "title": "moth_er",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a680403ed2a895fa2000006.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.711,
+     -37.71
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/peterm/collections/yarra_ranges_national_park_-_moths/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpeterm%2Fcollections%2Fyarra_ranges_national_park_-_moths%2Faggregate%2Findex.json",
+    "date": "2018-01-17",
+    "title": "peterm",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a5fddabed2a8914b1000006.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Mallacoota Genoa Creek",
+ "description": "All users for [mallacoota_genoa_creek]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fmallacoota_genoa_creek%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/mallacoota_genoa_creek/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "2 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb12984014df3.jpg",
+   "date_published": "2014-01-30T20:15:54.000+00:00",
+   "date_modified": "2014-01-30T20:15:54.000+00:00",
+   "_geo": {
+    "coordinates": [
+     149.555,
+     -37.48
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2014-01-30",
+    "name": "mallacoota_genoa_creek",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/mallacoota_genoa_creek/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmallacoota_genoa_creek%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

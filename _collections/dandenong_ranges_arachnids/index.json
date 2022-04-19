@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Dandenong Ranges Arachnids",
+ "description": "All users for [dandenong_ranges_arachnids]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fdandenong_ranges_arachnids%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/dandenong_ranges_arachnids/index.json",
+ "items": [
+  {
+   "title": "argybee",
+   "content_text": "23 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a1ce2c7ed2a89398400074b.jpg",
+   "date_published": "2017-11-28T04:17:04.000+00:00",
+   "date_modified": "2017-11-28T04:17:04.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.37252,
+     -37.855322
+    ]
+   },
+   "_meta": {
+    "itemCount": 23,
+    "date": "2017-11-28",
+    "name": "dandenong_ranges_arachnids",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/argybee/collections/dandenong_ranges_arachnids/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fargybee%2Fcollections%2Fdandenong_ranges_arachnids%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

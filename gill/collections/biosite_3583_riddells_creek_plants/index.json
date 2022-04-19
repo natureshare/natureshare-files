@@ -1,0 +1,46 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Biosite 3583 Riddells Creek Plants",
+ "description": "",
+ "author": {
+  "name": "gill",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fcollections%2Fbiosite_3583_riddells_creek_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/gill/collections/biosite_3583_riddells_creek_plants/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/gill/items/ns/2015/55dbb5f2ed2a897ee1000006.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F55dbb5f2ed2a897ee1000006.yaml",
+   "title": "Cymbonotus preissianus",
+   "content_text": "New species record for this collection. Found in the area burnt in last year's January wildfire.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55dbb609ed2a890d95000005.jpeg",
+   "date_published": "2015-08-25T00:25:22.000+00:00",
+   "date_modified": "2016-02-14T21:13:54.000+00:00",
+   "tags": [
+    "id~Cymbonotus preissianus",
+    "tag~flower"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.687744,
+     -37.464363
+    ]
+   },
+   "_meta": {
+    "date": "2015-08-22",
+    "imageCount": 4
+   },
+   "author": {
+    "name": "gill",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

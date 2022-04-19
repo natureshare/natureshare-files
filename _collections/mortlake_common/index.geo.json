@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.771328,
+     -38.057291
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/banksiaman/collections/mortlake_common/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fcollections%2Fmortlake_common%2Faggregate%2Findex.json",
+    "date": "2015-09-20",
+    "title": "banksiaman",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55fe9073ed2a890d950001e3.JPG"
+   }
+  }
+ ]
+}

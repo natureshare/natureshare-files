@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/openid_199/collections/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Collections</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_199%2Fcollections%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 openid_199</copyright>
+    <pubDate>Sun, 25 May 2014 14:42:06 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Flora and Fauna of Mt Leura and Mt Sugarloaf Reserves</title>
+      <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_199%2Fcollections%2Fflora_and_fauna_of_mt_leura_and_mt_sugarloaf_reserves%2Faggregate%2Findex.json</link>
+      <dc:creator>openid_199</dc:creator>
+      <description>1 items</description>
+      <guid isPermaLink="false">https://files.natureshare.org/openid_199/collections/flora_and_fauna_of_mt_leura_and_mt_sugarloaf_reserves/aggregate/index.json</guid>
+      <pubDate>Sun, 25 May 2014 14:42:06 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

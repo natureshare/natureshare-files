@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/ellena/collections/birds_of_riddells_creek/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Birds of riddells creek</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fellena%2Fcollections%2Fbirds_of_riddells_creek%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 ellena</copyright>
+    <pubDate>Tue, 28 Feb 2017 10:57:11 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Eopsaltria australis</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fellena%2Fitems%2Fns%2F2017%2F58b53ce9ed2a8938900017d1.yaml</link>
+      <dc:creator>ellena</dc:creator>
+      <description>On Tuesday night I got bored so I decided to record a video of some birds and see what I would get from that. So I used my iPod to record a short ish video and it came up with this! I'm so happy. There were about 7 types of bird species.</description>
+      <category>id~Eopsaltria australis</category>
+      <guid isPermaLink="false">https://files.natureshare.org/ellena/items/ns/2017/58b53ce9ed2a8938900017d1.yaml</guid>
+      <pubDate>Tue, 28 Feb 2017 09:06:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alisterus scapularis</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fellena%2Fitems%2Fns%2F2016%2F58300e7fed2a89748000465d.yaml</link>
+      <dc:creator>ellena</dc:creator>
+      <description>Two King Parrots spent a lot of time round the house this morning. They seemed to be eating Olearia seeds. They seemed used to people. </description>
+      <category>id~Alisterus scapularis</category>
+      <category>tag~adult-male</category>
+      <guid isPermaLink="false">https://files.natureshare.org/ellena/items/ns/2016/58300e7fed2a89748000465d.yaml</guid>
+      <pubDate>Sat, 19 Nov 2016 08:37:29 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

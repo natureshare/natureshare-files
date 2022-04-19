@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "fatkiwi",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ffatkiwi%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ffatkiwi%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/fatkiwi/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/fatkiwi/items/ns/2019/5ccf73b83abbd6554900001a.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ffatkiwi%2Fitems%2Fns%2F2019%2F5ccf73b83abbd6554900001a.yaml",
+   "title": "Thalaina clara",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5ccf71ed3abbd6e8c0000013/2019-05-06/1557099387/fullsizeoutput_5b9.jpeg",
+   "date_published": "2019-05-05T23:37:28.000+00:00",
+   "date_modified": "2019-05-20T03:16:34.000+00:00",
+   "tags": [
+    "id~Thalaina clara"
+   ],
+   "_geo": {
+    "coordinates": [
+     138.883325,
+     -34.662555
+    ]
+   },
+   "_meta": {
+    "date": "2019-04-28",
+    "imageCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

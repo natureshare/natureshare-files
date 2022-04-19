@@ -1,0 +1,40 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Bells Swamp Nature Conservation Reserve Plants",
+ "description": "All users for [bells_swamp_nature_conservation_reserve_plants]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fbells_swamp_nature_conservation_reserve_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/bells_swamp_nature_conservation_reserve_plants/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "1 items",
+   "date_published": "2011-03-04T14:00:49.000+00:00",
+   "date_modified": "2011-03-04T14:00:49.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.952656,
+     -36.90272
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2011-03-04",
+    "name": "bells_swamp_nature_conservation_reserve_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/bells_swamp_nature_conservation_reserve_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fbells_swamp_nature_conservation_reserve_plants%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

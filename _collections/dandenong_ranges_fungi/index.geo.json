@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.353637,
+     -37.881882
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/argybee/collections/dandenong_ranges_fungi/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fargybee%2Fcollections%2Fdandenong_ranges_fungi%2Faggregate%2Findex.json",
+    "date": "2018-06-13",
+    "title": "argybee",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b212426ed2a897570000020.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.353637,
+     -37.881882
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/leuba/collections/dandenong_ranges_fungi/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fcollections%2Fdandenong_ranges_fungi%2Faggregate%2Findex.json",
+    "date": "2018-06-13",
+    "title": "leuba",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b212426ed2a897570000020.jpg"
+   }
+  }
+ ]
+}

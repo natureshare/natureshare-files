@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/jedwards/collections/birds_of_25_ferres_blvd_south_morang/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Birds of 25 ferres blvd south morang</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fcollections%2Fbirds_of_25_ferres_blvd_south_morang%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 jedwards</copyright>
+    <pubDate>Wed, 27 Apr 2016 07:01:54 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Ardea modesta</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fitems%2Fns%2F2016%2F572063e2ed2a89e66800016b.yaml</link>
+      <dc:creator>jedwards</dc:creator>
+      <description>-</description>
+      <category>id~Ardea modesta</category>
+      <guid isPermaLink="false">https://files.natureshare.org/jedwards/items/ns/2016/572063e2ed2a89e66800016b.yaml</guid>
+      <pubDate>Wed, 27 Apr 2016 07:01:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pardalotus punctatus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fitems%2Fns%2F2016%2F572034b0ed2a89e66800015a.yaml</link>
+      <dc:creator>jedwards</dc:creator>
+      <description>No photo available unfortunately; the bird hit the eastern window of the City of Whittlesea Civic Centre and died.  </description>
+      <category>id~Pardalotus punctatus</category>
+      <guid isPermaLink="false">https://files.natureshare.org/jedwards/items/ns/2016/572034b0ed2a89e66800015a.yaml</guid>
+      <pubDate>Wed, 27 Apr 2016 03:40:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Acanthorhynchus tenuirostris</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fitems%2Fns%2F2015%2F55b83e66ed2a89db81000348.yaml</link>
+      <dc:creator>jedwards</dc:creator>
+      <description>-</description>
+      <category>id~Acanthorhynchus tenuirostris</category>
+      <guid isPermaLink="false">https://files.natureshare.org/jedwards/items/ns/2015/55b83e66ed2a89db81000348.yaml</guid>
+      <pubDate>Wed, 29 Jul 2015 02:45:58 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

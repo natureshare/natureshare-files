@@ -1,0 +1,73 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Merri creek",
+ "description": "",
+ "author": {
+  "name": "jamesbooth",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fmerri_creek%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/jamesbooth/collections/merri_creek/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/jamesbooth/items/ns/2011/53b39851e35eb1298400eaf4.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400eaf4.yaml",
+   "title": "Austrelaps superbus",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011f51.jpg",
+   "date_published": "2011-08-28T18:04:23.000+00:00",
+   "date_modified": "2011-08-28T18:08:04.000+00:00",
+   "tags": [
+    "id~Austrelaps superbus"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.972453,
+     -37.64601
+    ]
+   },
+   "_meta": {
+    "date": "2009-11-10",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "jamesbooth",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/jamesbooth/items/ns/2011/53b39851e35eb1298400ea30.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ea30.yaml",
+   "title": "Falcunculus frontatus",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011e83.jpg",
+   "date_published": "2011-08-13T06:33:43.000+00:00",
+   "date_modified": "2011-08-13T06:35:53.000+00:00",
+   "tags": [
+    "id~Falcunculus frontatus"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.984791,
+     -37.769477
+    ]
+   },
+   "_meta": {
+    "date": "2007-05-16",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "jamesbooth",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

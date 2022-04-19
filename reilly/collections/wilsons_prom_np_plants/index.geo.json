@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.364914,
+     -38.910408
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/reilly/items/ns/2016/5698f6dded2a89b77800000c.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2016%2F5698f6dded2a89b77800000c.yaml",
+    "date": "2015-10-31",
+    "title": "Patersonia fragilis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5698f6b8ed2a89b31c000005.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.40825,
+     -39.026244
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/reilly/items/ns/2016/56986917ed2a8958af000001.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2016%2F56986917ed2a8958af000001.yaml",
+    "date": "2016-01-09",
+    "title": "Olearia argophylla",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56986927ed2a89e050000002.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.395186,
+     -38.921483
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/reilly/items/ns/2016/56959e33ed2a8932c9000065.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Freilly%2Fitems%2Fns%2F2016%2F56959e33ed2a8932c9000065.yaml",
+    "date": "2015-11-01",
+    "title": "Diplarrena moraea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5695a065ed2a890f7e000034.jpg"
+   }
+  }
+ ]
+}

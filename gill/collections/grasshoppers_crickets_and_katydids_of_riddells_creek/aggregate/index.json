@@ -1,0 +1,48 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Grasshoppers crickets and katydids of riddells creek",
+ "description": "",
+ "author": {
+  "name": "gill",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fcollections%2Fgrasshoppers_crickets_and_katydids_of_riddells_creek%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/gill/collections/grasshoppers_crickets_and_katydids_of_riddells_creek/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/gill/items/ns/2011/53b3984fe35eb1298400e586.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e586.yaml",
+   "title": "Caedicia simplex",
+   "content_text": "Found with two others in a Grevillea georgiana.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011879.jpg",
+   "date_published": "2011-04-05T14:58:12.000+00:00",
+   "date_modified": "2011-04-05T15:16:11.000+00:00",
+   "tags": [
+    "id~Caedicia simplex",
+    "tag~nymph"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.683212,
+     -37.458368
+    ]
+   },
+   "_meta": {
+    "date": "2011-03-28",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "gill",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

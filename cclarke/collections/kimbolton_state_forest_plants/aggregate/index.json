@@ -1,0 +1,49 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Kimbolton state forest plants",
+ "description": "",
+ "author": {
+  "name": "cclarke",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fcollections%2Fkimbolton_state_forest_plants%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/cclarke/collections/kimbolton_state_forest_plants/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/cclarke/items/ns/2011/53b39851e35eb1298400ec62.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ec62.yaml",
+   "title": "Caladenia parva",
+   "content_text": "Spider Orchid around 25cm tall growing in dry Box Ironbark forest",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840120ff.jpg",
+   "date_published": "2011-09-20T18:22:05.000+00:00",
+   "date_modified": "2011-09-20T18:33:01.000+00:00",
+   "tags": [
+    "id~Caladenia parva",
+    "tag~flower",
+    "tag~leaf"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.491882,
+     -36.919257
+    ]
+   },
+   "_meta": {
+    "date": "2011-09-15",
+    "imageCount": 3
+   },
+   "author": {
+    "name": "cclarke",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

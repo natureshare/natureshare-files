@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.169738,
+     -37.896903
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_28/items/ns/2013/53b39859e35eb129840106fc.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fitems%2Fns%2F2013%2F53b39859e35eb129840106fc.yaml",
+    "date": "2013-10-20",
+    "title": "Pisolithus spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb1298401478b.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.169979,
+     -37.896751
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_28/items/ns/2013/53b39859e35eb129840106fb.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fitems%2Fns%2F2013%2F53b39859e35eb129840106fb.yaml",
+    "date": "2013-10-20",
+    "title": "Polyporus arcularius",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39869e35eb1298401478a.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.195642,
+     -37.836768
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_28/items/ns/2011/53b39852e35eb1298400ee21.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fitems%2Fns%2F2011%2F53b39852e35eb1298400ee21.yaml",
+    "date": "2011-10-09",
+    "title": "Fungi spp., Insecta spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840122e8.jpg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Moths Of Central Victoria",
+ "description": "All users for [moths_of_central_victoria]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fmoths_of_central_victoria%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/moths_of_central_victoria/index.json",
+ "items": [
+  {
+   "title": "andrewbrown",
+   "content_text": "191 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b1e6d2eed2a897570000018.JPG",
+   "date_published": "2018-06-11T12:40:41.000+00:00",
+   "date_modified": "2018-06-11T12:40:41.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.279391,
+     -36.757016
+    ]
+   },
+   "_meta": {
+    "itemCount": 191,
+    "date": "2018-06-11",
+    "name": "moths_of_central_victoria",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/andrewbrown/collections/moths_of_central_victoria/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandrewbrown%2Fcollections%2Fmoths_of_central_victoria%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

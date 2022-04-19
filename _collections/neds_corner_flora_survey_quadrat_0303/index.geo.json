@@ -1,0 +1,21 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.2835,
+     -34.135597
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/collections/neds_corner_flora_survey_quadrat_0303/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fcollections%2Fneds_corner_flora_survey_quadrat_0303%2Faggregate%2Findex.json",
+    "date": "2015-10-06",
+    "title": "chrisl"
+   }
+  }
+ ]
+}

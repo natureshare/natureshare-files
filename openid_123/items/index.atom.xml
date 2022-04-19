@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Observations</title>
+  <id>https://files.natureshare.org/openid_123/items/index.xml</id>
+  <updated>2012-05-15T23:00:22.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/openid_123/items/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/openid_123/items/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_123%2Fitems%2Findex.json"/>
+  <author>
+    <name>openid_123</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_123%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 openid_123</rights>
+  <entry>
+    <id>https://files.natureshare.org/openid_123/items/ns/2012/53b39854e35eb1298400f5d2.yaml</id>
+    <title>Diptera spp.</title>
+    <updated>2012-05-15T23:00:22.000+00:00</updated>
+    <published>2012-05-15T22:44:50.000+00:00</published>
+    <author>
+      <name>openid_123</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_123%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Unknown fly.   </content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_123%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f5d2.yaml"/>
+    <category term="id~Diptera spp."/>
+  </entry>
+</feed>

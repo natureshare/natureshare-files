@@ -1,0 +1,61 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "openid_68",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_68%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_68%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_68/collections/index.json",
+ "items": [
+  {
+   "title": "Plants of Towaninny Road, Towaninny",
+   "content_text": "1 items",
+   "date_published": "2012-02-26T13:28:52.000+00:00",
+   "date_modified": "2012-02-26T13:28:52.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.428552,
+     -35.881001
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2012-02-26",
+    "name": "plants_of_towaninny_road_towaninny",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_68/collections/plants_of_towaninny_road_towaninny/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_68%2Fcollections%2Fplants_of_towaninny_road_towaninny%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Plants of Sailor's Falls Daylesford",
+   "content_text": "1 items",
+   "date_published": "2011-08-25T19:54:29.000+00:00",
+   "date_modified": "2011-08-25T19:54:29.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.119347,
+     -37.390486
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2011-08-25",
+    "name": "plants_of_sailor_s_falls_daylesford",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_68/collections/plants_of_sailor_s_falls_daylesford/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_68%2Fcollections%2Fplants_of_sailor_s_falls_daylesford%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

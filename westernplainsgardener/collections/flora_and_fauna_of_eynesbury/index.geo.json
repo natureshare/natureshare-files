@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.567092,
+     -37.788708
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/westernplainsgardener/items/ns/2018/5bc020eeed2a894bc000017a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fitems%2Fns%2F2018%2F5bc020eeed2a894bc000017a.yaml",
+    "date": "2018-10-09",
+    "title": "Stictonetta naevosa",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bc020f5ed2a89c6aa0000fb.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.568342,
+     -37.784196
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/westernplainsgardener/items/ns/2018/5bbef7ebed2a89c10e0031ee.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fitems%2Fns%2F2018%2F5bbef7ebed2a89c10e0031ee.yaml",
+    "date": "2018-10-10",
+    "title": "Climacteris picumnus victoriae",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbef813ed2a89c6aa0000f3.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.565659,
+     -37.791337
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/westernplainsgardener/items/ns/2018/5bbef6e4ed2a894bc000009e.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fitems%2Fns%2F2018%2F5bbef6e4ed2a894bc000009e.yaml",
+    "date": "2018-10-10",
+    "title": "Stagonopleura guttata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbef731ed2a89402b0000f2.JPG"
+   }
+  }
+ ]
+}

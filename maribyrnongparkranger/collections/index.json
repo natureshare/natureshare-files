@@ -1,0 +1,64 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "maribyrnongparkranger",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmaribyrnongparkranger%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmaribyrnongparkranger%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/maribyrnongparkranger/collections/index.json",
+ "items": [
+  {
+   "title": "Newell's Paddock, Footscray",
+   "content_text": "215 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000026/2019-08-07/p1100861_ed.jpeg",
+   "date_published": "2019-08-07T02:11:52.000+00:00",
+   "date_modified": "2019-08-07T02:11:52.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.912467,
+     -37.797153
+    ]
+   },
+   "_meta": {
+    "itemCount": 215,
+    "date": "2019-08-07",
+    "name": "newell_s_paddock_footscray",
+    "featured": true,
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/maribyrnongparkranger/collections/newell_s_paddock_footscray/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmaribyrnongparkranger%2Fcollections%2Fnewell_s_paddock_footscray%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "Flora & Fauna of the City of Maribyrnong",
+   "content_text": "248 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_53b39818e35eb12984000026/2019-08-30/p1110217_ed.jpeg",
+   "date_published": "2019-08-30T12:22:02.000+00:00",
+   "date_modified": "2019-08-30T12:22:02.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.872487,
+     -37.793342
+    ]
+   },
+   "_meta": {
+    "itemCount": 248,
+    "date": "2019-08-30",
+    "name": "flora_fauna_of_the_city_of_maribyrnong",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/maribyrnongparkranger/collections/flora_fauna_of_the_city_of_maribyrnong/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmaribyrnongparkranger%2Fcollections%2Fflora_fauna_of_the_city_of_maribyrnong%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

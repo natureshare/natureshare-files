@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.635696,
+     -37.766372
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_28/collections/mount_cottrell_flora_and_fauna/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fcollections%2Fmount_cottrell_flora_and_fauna%2Faggregate%2Findex.json",
+    "date": "2013-05-24",
+    "title": "openid_28",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39867e35eb12984013e30.jpg"
+   }
+  }
+ ]
+}

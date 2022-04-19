@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Brisbane Ranges Mammals</title>
+  <id>https://files.natureshare.org/monitor/collections/brisbane_ranges_mammals/index.xml</id>
+  <updated>2015-06-10T01:06:54.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/monitor/collections/brisbane_ranges_mammals/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/monitor/collections/brisbane_ranges_mammals/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmonitor%2Fcollections%2Fbrisbane_ranges_mammals%2Findex.json"/>
+  <author>
+    <name>monitor</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmonitor%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 monitor</rights>
+  <entry>
+    <id>https://files.natureshare.org/monitor/items/ns/2015/55778d10ed2a8918dd000891.yaml</id>
+    <title>Phascolarctos cinereus</title>
+    <updated>2015-06-10T01:06:54.000+00:00</updated>
+    <published>2015-06-10T01:04:16.000+00:00</published>
+    <author>
+      <name>monitor</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmonitor%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmonitor%2Fitems%2Fns%2F2015%2F55778d10ed2a8918dd000891.yaml"/>
+    <category term="id~Phascolarctos cinereus"/>
+    <category term="tag~female"/>
+  </entry>
+</feed>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/westernplainsgardener/collections/birds_of_eynesbury_forest/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Birds Of Eynesbury Forest</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fcollections%2Fbirds_of_eynesbury_forest%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 westernplainsgardener</copyright>
+    <pubDate>Thu, 11 Oct 2018 08:27:00 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Climacteris picumnus victoriae</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fitems%2Fns%2F2018%2F5bbef7ebed2a89c10e0031ee.yaml</link>
+      <dc:creator>westernplainsgardener</dc:creator>
+      <description>-</description>
+      <category>id~Climacteris picumnus victoriae</category>
+      <category>tag~bird-adult</category>
+      <category>tag~bird-brown</category>
+      <guid isPermaLink="false">https://files.natureshare.org/westernplainsgardener/items/ns/2018/5bbef7ebed2a89c10e0031ee.yaml</guid>
+      <pubDate>Thu, 11 Oct 2018 07:15:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stagonopleura guttata</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fitems%2Fns%2F2018%2F5bbef6e4ed2a894bc000009e.yaml</link>
+      <dc:creator>westernplainsgardener</dc:creator>
+      <description>-</description>
+      <category>id~Stagonopleura guttata</category>
+      <category>tag~bird-adult</category>
+      <category>tag~bird-colourful</category>
+      <category>tag~bird-feeding</category>
+      <category>tag~bird-small</category>
+      <guid isPermaLink="false">https://files.natureshare.org/westernplainsgardener/items/ns/2018/5bbef6e4ed2a894bc000009e.yaml</guid>
+      <pubDate>Thu, 11 Oct 2018 07:11:53 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

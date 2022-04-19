@@ -1,0 +1,123 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Strathbogie Ranges Nature Atlas Project",
+ "description": "",
+ "author": {
+  "name": "openid_52",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fcollections%2Fstrathbogie_ranges_nature_atlas_project%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_52/collections/strathbogie_ranges_nature_atlas_project/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_52/items/ns/2011/53b39851e35eb1298400e9a6.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e9a6.yaml",
+   "title": "Leptospermum continentale, Nesoptilotis leucotis",
+   "content_text": "Nest constructed in Common Baekea in Perched Boggy Shrubland EVC 185",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984012075.jpg",
+   "date_published": "2011-07-27T01:52:14.000+00:00",
+   "date_modified": "2011-09-13T00:21:40.000+00:00",
+   "tags": [
+    "id~Leptospermum continentale",
+    "id~Nesoptilotis leucotis"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.820932,
+     -36.819077
+    ]
+   },
+   "_meta": {
+    "date": "2010-11-09",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_52",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_52/items/ns/2011/53b39851e35eb1298400e9a5.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e9a5.yaml",
+   "title": "Tiliqua nigrolutea",
+   "content_text": "A likely gravid female in wetland habitat, adjacent to a stream.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984012074.jpg",
+   "date_published": "2011-07-27T01:48:34.000+00:00",
+   "date_modified": "2011-09-13T00:16:28.000+00:00",
+   "tags": [
+    "id~Tiliqua nigrolutea",
+    "tag~lizard",
+    "tag~skink"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.819988,
+     -36.819317
+    ]
+   },
+   "_meta": {
+    "date": "2010-11-09",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "openid_52",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_52/items/ns/2011/53b39851e35eb1298400e9a4.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400e9a4.yaml",
+   "title": "Pseudonaja textilis",
+   "content_text": "-",
+   "date_published": "2011-07-27T01:38:11.000+00:00",
+   "date_modified": "2011-09-13T00:01:16.000+00:00",
+   "tags": [
+    "id~Pseudonaja textilis"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.652618,
+     -36.881268
+    ]
+   },
+   "_meta": {
+    "date": "2010-11-06"
+   },
+   "author": {
+    "name": "openid_52",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_52/items/ns/2015/strathbogie_ranges_nature_atlas_project_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fitems%2Fns%2F2015%2Fstrathbogie_ranges_nature_atlas_project_species_list.yaml",
+   "title": "Pseudonaja textilis",
+   "content_text": "Species list for collection.",
+   "date_published": "2011-07-27T01:10:14.000+00:00",
+   "date_modified": "2015-04-07T08:47:35.000+00:00",
+   "tags": [
+    "id~Pseudonaja textilis",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.756989,
+     -36.853252
+    ]
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "openid_52",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_52%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 4,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

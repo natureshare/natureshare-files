@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Lerderderg State Park Plants",
+ "description": "All users for [lerderderg_state_park_plants]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Flerderderg_state_park_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/lerderderg_state_park_plants/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "29 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a51feabed2a892d1500008a.jpg",
+   "date_published": "2018-01-07T11:04:50.000+00:00",
+   "date_modified": "2018-01-07T11:04:50.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.412589,
+     -37.527681
+    ]
+   },
+   "_meta": {
+    "itemCount": 29,
+    "date": "2018-01-07",
+    "name": "lerderderg_state_park_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/lerderderg_state_park_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Flerderderg_state_park_plants%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "david_francis",
+   "content_text": "24 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a51feabed2a892d1500008a.jpg",
+   "date_published": "2018-01-07T11:04:50.000+00:00",
+   "date_modified": "2018-01-07T11:04:50.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.416,
+     -37.498
+    ]
+   },
+   "_meta": {
+    "itemCount": 24,
+    "date": "2018-01-07",
+    "name": "lerderderg_state_park_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/david_francis/collections/lerderderg_state_park_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Flerderderg_state_park_plants%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

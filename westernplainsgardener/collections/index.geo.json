@@ -1,0 +1,90 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.668,
+     -37.873
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/westernplainsgardener/collections/plants_and_animals_of_werribee/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fcollections%2Fplants_and_animals_of_werribee%2Faggregate%2Findex.json",
+    "date": "2019-02-13",
+    "title": "Plants and animals of werribee",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5b960d3ded2a89cce30032a4/2019-02-13/1550043274/IMG_3461.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.609426,
+     -37.767944
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/westernplainsgardener/collections/birds_of_pinkerton_forest_1/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fcollections%2Fbirds_of_pinkerton_forest_1%2Faggregate%2Findex.json",
+    "date": "2018-12-26",
+    "title": "Birds of Pinkerton Forest and Mulla Mulla Grasslands (Bush's Paddock)",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5b960d3ded2a89cce30032a4/2018-12-27/1545868036/IMG_2808.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.561441,
+     -37.791777
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/westernplainsgardener/collections/flora_and_fauna_of_eynesbury/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fcollections%2Fflora_and_fauna_of_eynesbury%2Faggregate%2Findex.json",
+    "date": "2018-10-12",
+    "title": "Flora and Fauna of Eynesbury",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bc020f5ed2a89c6aa0000fb.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.567,
+     -37.788
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/westernplainsgardener/collections/birds_of_eynesbury_forest/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fcollections%2Fbirds_of_eynesbury_forest%2Faggregate%2Findex.json",
+    "date": "2018-10-11",
+    "title": "Birds of eynesbury forest",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbef813ed2a89c6aa0000f3.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.415,
+     -37.955
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/westernplainsgardener/collections/flora_of_the_you_yangs/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwesternplainsgardener%2Fcollections%2Fflora_of_the_you_yangs%2Faggregate%2Findex.json",
+    "date": "2018-10-11",
+    "title": "Flora of the you yangs",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5bbef546ed2a891efe0000f8.JPG"
+   }
+  }
+ ]
+}

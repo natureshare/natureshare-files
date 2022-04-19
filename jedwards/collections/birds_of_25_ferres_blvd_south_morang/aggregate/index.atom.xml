@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Birds of 25 ferres blvd south morang</title>
+  <id>https://files.natureshare.org/jedwards/collections/birds_of_25_ferres_blvd_south_morang/aggregate/index.xml</id>
+  <updated>2016-04-27T07:01:54.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/jedwards/collections/birds_of_25_ferres_blvd_south_morang/aggregate/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/jedwards/collections/birds_of_25_ferres_blvd_south_morang/aggregate/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fcollections%2Fbirds_of_25_ferres_blvd_south_morang%2Faggregate%2Findex.json"/>
+  <author>
+    <name>jedwards</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 jedwards</rights>
+  <entry>
+    <id>https://files.natureshare.org/jedwards/items/ns/2016/572063e2ed2a89e66800016b.yaml</id>
+    <title>Ardea modesta</title>
+    <updated>2016-04-27T07:01:54.000+00:00</updated>
+    <published>2016-04-27T07:01:54.000+00:00</published>
+    <author>
+      <name>jedwards</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fitems%2Fns%2F2016%2F572063e2ed2a89e66800016b.yaml"/>
+    <category term="id~Ardea modesta"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jedwards/items/ns/2016/572034b0ed2a89e66800015a.yaml</id>
+    <title>Pardalotus punctatus</title>
+    <updated>2016-04-27T03:40:32.000+00:00</updated>
+    <published>2016-04-27T03:40:32.000+00:00</published>
+    <author>
+      <name>jedwards</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">No photo available unfortunately; the bird hit the eastern window of the City of Whittlesea Civic Centre and died.  </content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fitems%2Fns%2F2016%2F572034b0ed2a89e66800015a.yaml"/>
+    <category term="id~Pardalotus punctatus"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jedwards/items/ns/2015/55b83e66ed2a89db81000348.yaml</id>
+    <title>Acanthorhynchus tenuirostris</title>
+    <updated>2015-07-29T02:47:39.000+00:00</updated>
+    <published>2015-07-29T02:45:58.000+00:00</published>
+    <author>
+      <name>jedwards</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjedwards%2Fitems%2Fns%2F2015%2F55b83e66ed2a89db81000348.yaml"/>
+    <category term="id~Acanthorhynchus tenuirostris"/>
+  </entry>
+</feed>

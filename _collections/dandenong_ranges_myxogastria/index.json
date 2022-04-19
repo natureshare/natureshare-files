@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Dandenong Ranges Myxogastria",
+ "description": "All users for [dandenong_ranges_myxogastria]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fdandenong_ranges_myxogastria%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/dandenong_ranges_myxogastria/index.json",
+ "items": [
+  {
+   "title": "leuba",
+   "content_text": "6 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e179d4ed2a8987b70001ae.jpg",
+   "date_published": "2015-02-16T05:02:13.000+00:00",
+   "date_modified": "2015-02-16T05:02:13.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.35913,
+     -37.885947
+    ]
+   },
+   "_meta": {
+    "itemCount": 6,
+    "date": "2015-02-16",
+    "name": "dandenong_ranges_myxogastria",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/leuba/collections/dandenong_ranges_myxogastria/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fcollections%2Fdandenong_ranges_myxogastria%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "argybee",
+   "content_text": "5 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e179d4ed2a8987b70001ae.jpg",
+   "date_published": "2015-02-16T05:02:13.000+00:00",
+   "date_modified": "2015-02-16T05:02:13.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.334,
+     -37.866
+    ]
+   },
+   "_meta": {
+    "itemCount": 5,
+    "date": "2015-02-16",
+    "name": "dandenong_ranges_myxogastria",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/argybee/collections/dandenong_ranges_myxogastria/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fargybee%2Fcollections%2Fdandenong_ranges_myxogastria%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

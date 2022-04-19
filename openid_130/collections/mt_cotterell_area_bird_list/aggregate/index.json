@@ -1,0 +1,64 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Mt Cotterell area Bird List",
+ "description": "",
+ "author": {
+  "name": "openid_130",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fcollections%2Fmt_cotterell_area_bird_list%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_130/collections/mt_cotterell_area_bird_list/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_130/items/ns/2015/mt_cotterell_area_bird_list_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Fns%2F2015%2Fmt_cotterell_area_bird_list_species_list.yaml",
+   "title": "22 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2013-03-21T21:07:20.000+00:00",
+   "date_modified": "2015-04-07T08:47:40.000+00:00",
+   "tags": [
+    "id~Accipiter fasciatus",
+    "id~Acridotheres tristis",
+    "id~Alauda arvensis",
+    "id~Anthochaera carunculata",
+    "id~Anthus novaeseelandiae",
+    "id~Aquila audax",
+    "id~Coracina novaehollandiae",
+    "id~Corvus mellori",
+    "id~Epthianura albifrons",
+    "id~Falco berigora",
+    "id~Grallina cyanoleuca",
+    "id~Gymnorhina tibicen",
+    "id~Haliastur sphenurus",
+    "id~Hirundo neoxena",
+    "id~Lalage sueurii",
+    "id~Lichenostomus penicillatus",
+    "id~Passer domesticus",
+    "id~Phaps chalcoptera",
+    "id~Rhipidura albiscarpa",
+    "id~Rhipidura leucophrys",
+    "id~Streptopelia chinensis",
+    "id~Threskiornis spinicollis",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "openid_130",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

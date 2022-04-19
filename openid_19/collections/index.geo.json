@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.841046,
+     -37.724191
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_19/collections/birds_of_horseshoe_bend_rd_keilor/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_19%2Fcollections%2Fbirds_of_horseshoe_bend_rd_keilor%2Faggregate%2Findex.json",
+    "date": "2011-08-27",
+    "title": "Birds of Horseshoe Bend Rd Keilor",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011f41.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.23,
+     -37.867
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_19/collections/brisbane_ranges_national_park_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_19%2Fcollections%2Fbrisbane_ranges_national_park_plants%2Faggregate%2Findex.json",
+    "date": "2011-07-07",
+    "title": "Brisbane ranges national park plants",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011d62.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.263,
+     -37.42
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_19/collections/fungus_of_central_victoria/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_19%2Fcollections%2Ffungus_of_central_victoria%2Faggregate%2Findex.json",
+    "date": "2011-07-06",
+    "title": "Fungus of central victoria",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011d5e.jpg"
+   }
+  }
+ ]
+}

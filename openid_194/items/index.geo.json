@@ -1,0 +1,38 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.25105,
+     -38.718792
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_194/items/ns/2014/53b3985be35eb12984010da4.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_194%2Fitems%2Fns%2F2014%2F53b3985be35eb12984010da4.yaml",
+    "date": "2014-04-21",
+    "title": "Gleichenia microphylla"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.25112,
+     -38.719045
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_194/items/ns/2014/53b3985be35eb12984010da2.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_194%2Fitems%2Fns%2F2014%2F53b3985be35eb12984010da2.yaml",
+    "date": "2014-04-21",
+    "title": "Goodenia ovata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb12984015273.jpg"
+   }
+  }
+ ]
+}

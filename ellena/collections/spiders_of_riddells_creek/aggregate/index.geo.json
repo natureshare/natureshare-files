@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654843,
+     -37.430878
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/ellena/items/ns/2015/54e25ec7ed2a89d99000032a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fellena%2Fitems%2Fns%2F2015%2F54e25ec7ed2a89d99000032a.yaml",
+    "date": "2015-02-16",
+    "title": "Isopeda montana",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e25ec6ed2a89d990000329.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.654767,
+     -37.430893
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/ellena/items/ns/2013/53b39856e35eb1298400feba.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fellena%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400feba.yaml",
+    "date": "2013-02-17",
+    "title": "Philoponella congregabilis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013a4f.jpg"
+   }
+  }
+ ]
+}

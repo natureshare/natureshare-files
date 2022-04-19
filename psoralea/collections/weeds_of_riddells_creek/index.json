@@ -1,0 +1,46 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Weeds Of Riddells Creek",
+ "description": "",
+ "author": {
+  "name": "psoralea",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fcollections%2Fweeds_of_riddells_creek%2Findex.json",
+ "feed_url": "https://files.natureshare.org/psoralea/collections/weeds_of_riddells_creek/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/psoralea/items/ns/2011/53b39850e35eb1298400e764.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e764.yaml",
+   "title": "Asparagus asparagoides",
+   "content_text": "Isolated Aparagus asparagoides (Bridal Creeper Clump) on the Kilmore Gisborne Road - Looks like a job for VicRoads.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011adc.jpg",
+   "date_published": "2011-05-16T22:10:35.000+00:00",
+   "date_modified": "2011-05-16T22:18:51.000+00:00",
+   "tags": [
+    "id~Asparagus asparagoides",
+    "tag~leaf"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.698667,
+     -37.4455
+    ]
+   },
+   "_meta": {
+    "date": "2011-05-16",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "psoralea",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

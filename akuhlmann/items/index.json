@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "akuhlmann",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fakuhlmann%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fakuhlmann%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/akuhlmann/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/akuhlmann/items/ns/2018/5a9f6048ed2a896400000001.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fakuhlmann%2Fitems%2Fns%2F2018%2F5a9f6048ed2a896400000001.yaml",
+   "title": "Hydrocotyle laxiflora",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a9f6054ed2a89abdd000032.JPG",
+   "date_published": "2018-03-07T03:46:22.000+00:00",
+   "date_modified": "2018-03-15T11:00:17.000+00:00",
+   "tags": [
+    "id~Hydrocotyle laxiflora"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.661365,
+     -37.41132
+    ]
+   },
+   "_meta": {
+    "date": "2018-02-25",
+    "imageCount": 1
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/akuhlmann/items/ns/2018/5a9f5b57ed2a896baf001a5a.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fakuhlmann%2Fitems%2Fns%2F2018%2F5a9f5b57ed2a896baf001a5a.yaml",
+   "title": "Cassytha glabella",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a9f5b5eed2a8929e700002e.JPG",
+   "date_published": "2018-03-07T03:24:07.000+00:00",
+   "date_modified": "2018-03-08T01:35:45.000+00:00",
+   "tags": [
+    "id~Cassytha glabella"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.66459,
+     -37.411372
+    ]
+   },
+   "_meta": {
+    "date": "2018-02-25",
+    "imageCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

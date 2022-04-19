@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.337707,
+     -30.39664
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gderrin/items/ns/2018/5af8da2eed2a89fa06000fe1.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgderrin%2Fitems%2Fns%2F2018%2F5af8da2eed2a89fa06000fe1.yaml",
+    "date": "2017-04-25",
+    "title": "Corybas hispidus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5af8da35ed2a89b047000004.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     152.267938,
+     -30.391588
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gderrin/items/ns/2017/593a7ad8ed2a89c9db00000c.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgderrin%2Fitems%2Fns%2F2017%2F593a7ad8ed2a89c9db00000c.yaml",
+    "date": "2017-05-03",
+    "title": "Pterostylis fischii",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/593a7ae5ed2a893984000054.JPG"
+   }
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     147.211299,
+     -38.125137
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/suzanne/collections/wildlife_of_heart_morass/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsuzanne%2Fcollections%2Fwildlife_of_heart_morass%2Faggregate%2Findex.json",
+    "date": "2014-09-06",
+    "title": "suzanne",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/540ab8b6e35eb17a7300000b.JPG"
+   }
+  }
+ ]
+}

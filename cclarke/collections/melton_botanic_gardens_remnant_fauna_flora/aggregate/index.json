@@ -1,0 +1,74 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Melton botanic gardens remnant fauna flora",
+ "description": "",
+ "author": {
+  "name": "cclarke",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fcollections%2Fmelton_botanic_gardens_remnant_fauna_flora%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/cclarke/collections/melton_botanic_gardens_remnant_fauna_flora/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/cclarke/items/ns/2013/53b39856e35eb1298400ff4b.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400ff4b.yaml",
+   "title": "Elseyornis melanops",
+   "content_text": "Single Bird by the lake at Melton Botanic Gardens",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013b2a.jpg",
+   "date_published": "2013-03-10T21:53:00.000+00:00",
+   "date_modified": "2013-03-10T21:54:59.000+00:00",
+   "tags": [
+    "id~Elseyornis melanops"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.588972,
+     -37.692489
+    ]
+   },
+   "_meta": {
+    "date": "2013-03-09",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "cclarke",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/cclarke/items/ns/2013/53b39856e35eb1298400ff4a.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400ff4a.yaml",
+   "title": "Eucalyptus microcarpa",
+   "content_text": "Remnant Grey Box in full flower Melton Botanic Gardens",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39866e35eb12984013b29.jpg",
+   "date_published": "2013-03-10T21:43:01.000+00:00",
+   "date_modified": "2013-03-10T21:47:21.000+00:00",
+   "tags": [
+    "id~Eucalyptus microcarpa",
+    "tag~flowering"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.5938,
+     -37.689382
+    ]
+   },
+   "_meta": {
+    "date": "2013-03-09",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "cclarke",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

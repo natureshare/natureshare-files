@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.185482,
+     -38.176901
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/items/ns/2016/57ce97c9ed2a89450f001009.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2016%2F57ce97c9ed2a89450f001009.yaml",
+    "date": "2016-09-02",
+    "title": "Colluricincla harmonica",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57ce97e5ed2a89b71800001d.JPG"
+   }
+  }
+ ]
+}

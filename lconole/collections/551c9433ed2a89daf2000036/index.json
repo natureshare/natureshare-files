@@ -1,0 +1,57 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "551 C 9433 Ed 2 A 89 Daf 2000036",
+ "description": "",
+ "author": {
+  "name": "lconole",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fcollections%2F551c9433ed2a89daf2000036%2Findex.json",
+ "feed_url": "https://files.natureshare.org/lconole/collections/551c9433ed2a89daf2000036/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/lconole/items/ns/2015/551c9433ed2a89daf2000036_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Fns%2F2015%2F551c9433ed2a89daf2000036_species_list.yaml",
+   "title": "14 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2015-04-02T00:58:27.000+00:00",
+   "date_modified": "2015-04-02T01:24:41.000+00:00",
+   "tags": [
+    "id~Amegilla spp.",
+    "id~Apis mellifera",
+    "id~Belenois java teutonia",
+    "id~Delias aganippe",
+    "id~Delias harpalyce",
+    "id~Heteronympha merope merope",
+    "id~Iridomyrmex purpureus",
+    "id~Junonia villida calybe",
+    "id~Lucia limbaria",
+    "id~Pieris rapae rapae",
+    "id~Vanessa itea",
+    "id~Vanessa kershawi",
+    "id~Vespula germanica",
+    "id~Zizina labradus labradus",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.407285,
+     -37.326193
+    ]
+   },
+   "_meta": {
+    "date": "2015-04-02"
+   },
+   "author": {
+    "name": "lconole",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flconole%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

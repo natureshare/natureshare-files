@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     151.58186,
+     -33.05694
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/iandsmith/items/ns/2018/5a51a705ed2a89d22b000526.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fiandsmith%2Fitems%2Fns%2F2018%2F5a51a705ed2a89d22b000526.yaml",
+    "date": "2017-09-05",
+    "title": "Acanthorhynchus tenuirostris",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a51a75bed2a893fb7000096.JPG"
+   }
+  }
+ ]
+}

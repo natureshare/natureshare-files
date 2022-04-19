@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.550856,
+     -34.502101
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/mallanbool_fauna_and_fauna_reserve/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmallanbool_fauna_and_fauna_reserve%2Faggregate%2Findex.json",
+    "date": "2014-09-16",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5417c288e35eb173a60000c1.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.544,
+     -34.509
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lydia/collections/mallanbool_fauna_and_fauna_reserve/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fcollections%2Fmallanbool_fauna_and_fauna_reserve%2Faggregate%2Findex.json",
+    "date": "2013-12-03",
+    "title": "lydia",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ae35eb12984014a9e.jpg"
+   }
+  }
+ ]
+}

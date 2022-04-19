@@ -1,0 +1,47 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Ballan Mineral Springs Reserve",
+ "description": "Ballan Mineral Springs Reserve - Shaws Rd, Ballan",
+ "author": {
+  "name": "tmiller",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fcollections%2Fballan_mineral_springs_reserve%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/tmiller/collections/ballan_mineral_springs_reserve/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/tmiller/items/ns/2017/58a53731ed2a89f8d7000022.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fitems%2Fns%2F2017%2F58a53731ed2a89f8d7000022.yaml",
+   "title": "Malurus cyaneus",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58a537bfed2a892daf0003c5.JPG",
+   "date_published": "2017-02-17T00:04:27.000+00:00",
+   "date_modified": "2017-02-17T00:04:27.000+00:00",
+   "tags": [
+    "id~Malurus cyaneus"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.192099,
+     -37.607542
+    ]
+   },
+   "_meta": {
+    "date": "2016-01-04",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "tmiller",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftmiller%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": "<p>Ballan Mineral Springs Reserve - Shaws Rd, Ballan</p>\n"
+ }
+}

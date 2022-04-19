@@ -1,0 +1,55 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.038056,
+     -37.015278
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_62/items/ns/2013/53b39858e35eb129840103c2.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_62%2Fitems%2Fns%2F2013%2F53b39858e35eb129840103c2.yaml",
+    "date": "2012-10-14",
+    "title": "Levenhookia dubia",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014253.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.6825,
+     -35.630833
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_62/items/ns/2012/53b39856e35eb1298400fc61.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_62%2Fitems%2Fns%2F2012%2F53b39856e35eb1298400fc61.yaml",
+    "date": "2012-12-12",
+    "title": "Unidentified"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.037778,
+     -37.015556
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_62/items/ns/2012/53b39855e35eb1298400fad8.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_62%2Fitems%2Fns%2F2012%2F53b39855e35eb1298400fad8.yaml",
+    "date": "2012-10-14",
+    "title": "Pleurosorus rutifolius s.l.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb1298401344d.jpg"
+   }
+  }
+ ]
+}

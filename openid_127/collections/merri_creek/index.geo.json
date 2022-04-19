@@ -1,0 +1,55 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.979561,
+     -37.755295
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_127/items/ns/2012/53b39854e35eb1298400f605.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_127%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f605.yaml",
+    "date": "2009-01-19",
+    "title": "Notechis scutatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012d94.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.988546,
+     -37.776074
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_127/items/ns/2012/53b39854e35eb1298400f603.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_127%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f603.yaml",
+    "date": "2009-01-05",
+    "title": "Anas castanea, Potamogeton ochreatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39863e35eb12984012d91.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.028458,
+     -37.583766
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_127/items/ns/2015/merri_creek_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_127%2Fitems%2Fns%2F2015%2Fmerri_creek_species_list.yaml",
+    "date": "2015-04-07",
+    "title": "5 ids"
+   }
+  }
+ ]
+}

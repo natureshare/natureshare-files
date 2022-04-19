@@ -1,0 +1,75 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Lauriston reserve",
+ "description": "",
+ "author": {
+  "name": "david_francis",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Flauriston_reserve%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/david_francis/collections/lauriston_reserve/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/david_francis/items/ns/2014/53c4c102e35eb1387b00000f.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2014%2F53c4c102e35eb1387b00000f.yaml",
+   "title": "Pultenaea humilis",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53c4c102e35eb1387b00000c.JPG",
+   "date_published": "2014-07-15T05:49:54.000+00:00",
+   "date_modified": "2014-07-15T05:50:40.000+00:00",
+   "tags": [
+    "id~Pultenaea humilis",
+    "tag~flower",
+    "tag~leaf"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.360123,
+     -37.235794
+    ]
+   },
+   "_meta": {
+    "date": "2010-10-29",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "david_francis",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/david_francis/items/ns/2011/53b39850e35eb1298400e62a.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e62a.yaml",
+   "title": "Caladenia transitoria",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011942.jpg",
+   "date_published": "2011-04-14T22:16:30.000+00:00",
+   "date_modified": "2011-04-14T22:17:21.000+00:00",
+   "tags": [
+    "id~Caladenia transitoria"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.359085,
+     -37.236725
+    ]
+   },
+   "_meta": {
+    "date": "2009-10-23",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "david_francis",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

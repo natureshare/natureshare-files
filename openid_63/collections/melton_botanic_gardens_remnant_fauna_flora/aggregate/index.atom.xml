@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Melton botanic gardens remnant fauna flora</title>
+  <id>https://files.natureshare.org/openid_63/collections/melton_botanic_gardens_remnant_fauna_flora/aggregate/index.xml</id>
+  <updated>2013-03-11T17:50:13.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/openid_63/collections/melton_botanic_gardens_remnant_fauna_flora/aggregate/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/openid_63/collections/melton_botanic_gardens_remnant_fauna_flora/aggregate/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fcollections%2Fmelton_botanic_gardens_remnant_fauna_flora%2Faggregate%2Findex.json"/>
+  <author>
+    <name>openid_63</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 openid_63</rights>
+  <entry>
+    <id>https://files.natureshare.org/openid_63/items/ns/2013/53b39856e35eb1298400ff52.yaml</id>
+    <title>4 ids</title>
+    <updated>2013-03-11T17:50:13.000+00:00</updated>
+    <published>2013-03-11T17:50:13.000+00:00</published>
+    <author>
+      <name>openid_63</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400ff52.yaml"/>
+    <category term="id~Anhinga novaehollandiae"/>
+    <category term="id~Phalacrocorax carbo"/>
+    <category term="id~Phalacrocorax varius"/>
+    <category term="id~Poliocephalus poliocephalus"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/openid_63/items/ns/2013/53b39856e35eb1298400ff51.yaml</id>
+    <title>4 ids</title>
+    <updated>2013-03-11T17:30:24.000+00:00</updated>
+    <published>2013-03-11T17:30:24.000+00:00</published>
+    <author>
+      <name>openid_63</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400ff51.yaml"/>
+    <category term="id~Anhinga novaehollandiae"/>
+    <category term="id~Phalacrocorax carbo"/>
+    <category term="id~Phalacrocorax varius"/>
+    <category term="id~Poliocephalus poliocephalus"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/openid_63/items/ns/2013/53b39856e35eb1298400ff50.yaml</id>
+    <title>17 ids</title>
+    <updated>2013-03-11T08:57:33.000+00:00</updated>
+    <published>2013-03-11T08:57:33.000+00:00</published>
+    <author>
+      <name>openid_63</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400ff50.yaml"/>
+    <category term="id~Anas castanea"/>
+    <category term="id~Anas platyrhynchos"/>
+    <category term="id~Anas superciliosa"/>
+    <category term="id~Anhinga novaehollandiae"/>
+    <category term="id~Anser anser (domestic)"/>
+    <category term="id~Ardea pacifica"/>
+    <category term="id~Chenonetta jubata"/>
+    <category term="id~Cygnus atratus"/>
+    <category term="id~Egretta novaehollandiae"/>
+    <category term="id~Falco longipennis"/>
+    <category term="id~Phalacrocorax carbo"/>
+    <category term="id~Phalacrocorax varius"/>
+    <category term="id~Platalea flavipes"/>
+    <category term="id~Platalea regia"/>
+    <category term="id~Poliocephalus poliocephalus"/>
+    <category term="id~Porphyrio porphyrio"/>
+    <category term="id~Threskiornis spinicollis"/>
+  </entry>
+</feed>

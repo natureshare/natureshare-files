@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.327517,
+     -34.140811
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lydia/items/ns/2015/55d6caafed2a89db810012ff.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2015%2F55d6caafed2a89db810012ff.yaml",
+    "date": "2015-08-16",
+    "title": "Pogona vitticeps",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55d6caafed2a89db810012fe.png"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.326416,
+     -34.140839
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lydia/items/ns/2013/53b39859e35eb129840108ca.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2013%2F53b39859e35eb129840108ca.yaml",
+    "date": "2013-09-29",
+    "title": "Gehyra variegata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ae35eb12984014a9c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.326309,
+     -34.140694
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/lydia/items/ns/2013/53b39858e35eb129840103de.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2013%2F53b39858e35eb129840103de.yaml",
+    "date": "2013-07-01",
+    "title": "Nephrurus milii",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014275.jpg"
+   }
+  }
+ ]
+}

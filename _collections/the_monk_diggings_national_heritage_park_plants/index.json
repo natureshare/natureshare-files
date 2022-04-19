@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "The Monk Diggings National Heritage Park Plants",
+ "description": "All users for [the_monk_diggings_national_heritage_park_plants]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fthe_monk_diggings_national_heritage_park_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/the_monk_diggings_national_heritage_park_plants/index.json",
+ "items": [
+  {
+   "title": "openid_23",
+   "content_text": "3 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb12984012190.jpg",
+   "date_published": "2011-09-22T23:16:42.000+00:00",
+   "date_modified": "2011-09-22T23:16:42.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.234695,
+     -37.098592
+    ]
+   },
+   "_meta": {
+    "itemCount": 3,
+    "date": "2011-09-22",
+    "name": "the_monk_diggings_national_heritage_park_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_23/collections/the_monk_diggings_national_heritage_park_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_23%2Fcollections%2Fthe_monk_diggings_national_heritage_park_plants%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "russell",
+   "content_text": "2 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb12984012190.jpg",
+   "date_published": "2011-09-22T23:16:42.000+00:00",
+   "date_modified": "2011-09-22T23:16:42.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.253,
+     -37.116
+    ]
+   },
+   "_meta": {
+    "itemCount": 2,
+    "date": "2011-09-22",
+    "name": "the_monk_diggings_national_heritage_park_plants",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/the_monk_diggings_national_heritage_park_plants/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fthe_monk_diggings_national_heritage_park_plants%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

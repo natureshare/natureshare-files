@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.342155,
+     -36.870969
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/sedgwick_state_forest_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fsedgwick_state_forest_plants%2Faggregate%2Findex.json",
+    "date": "2011-09-20",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840120f4.jpg"
+   }
+  }
+ ]
+}

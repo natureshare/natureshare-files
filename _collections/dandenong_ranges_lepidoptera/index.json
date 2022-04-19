@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Dandenong Ranges Lepidoptera",
+ "description": "All users for [dandenong_ranges_lepidoptera]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fdandenong_ranges_lepidoptera%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/dandenong_ranges_lepidoptera/index.json",
+ "items": [
+  {
+   "title": "argybee",
+   "content_text": "197 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_54e155eeed2a8987b7000185/2019-10-09/darkspotmoth.jpeg",
+   "date_published": "2019-10-08T13:15:46.000+00:00",
+   "date_modified": "2019-10-08T13:15:46.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.364967,
+     -37.86508
+    ]
+   },
+   "_meta": {
+    "itemCount": 197,
+    "date": "2019-10-08",
+    "name": "dandenong_ranges_lepidoptera",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/argybee/collections/dandenong_ranges_lepidoptera/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fargybee%2Fcollections%2Fdandenong_ranges_lepidoptera%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "leuba",
+   "content_text": "42 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_54e155eeed2a8987b7000185/2019-10-09/darkspotmoth.jpeg",
+   "date_published": "2019-10-08T13:15:46.000+00:00",
+   "date_modified": "2019-10-08T13:15:46.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.313,
+     -37.895
+    ]
+   },
+   "_meta": {
+    "itemCount": 42,
+    "date": "2019-10-08",
+    "name": "dandenong_ranges_lepidoptera",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/leuba/collections/dandenong_ranges_lepidoptera/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fcollections%2Fdandenong_ranges_lepidoptera%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

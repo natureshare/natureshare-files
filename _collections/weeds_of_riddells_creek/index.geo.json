@@ -1,0 +1,90 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.662,
+     -37.446
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/weeds_of_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fweeds_of_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2015-12-21",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5677fb54ed2a898328000043.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.653,
+     -37.432
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chrisl/collections/weeds_of_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fcollections%2Fweeds_of_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2015-12-21",
+    "title": "chrisl",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5677fb54ed2a898328000043.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.687,
+     -37.464
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/collections/weeds_of_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fweeds_of_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2014-11-10",
+    "title": "david_francis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5460945de35eb19dbb000019.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.667,
+     -37.431
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/collections/weeds_of_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fweeds_of_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2011-12-27",
+    "title": "jamesbooth",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb1298401277c.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.699,
+     -37.445
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/psoralea/collections/weeds_of_riddells_creek/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fcollections%2Fweeds_of_riddells_creek%2Faggregate%2Findex.json",
+    "date": "2011-05-16",
+    "title": "psoralea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985ee35eb12984011adc.jpg"
+   }
+  }
+ ]
+}

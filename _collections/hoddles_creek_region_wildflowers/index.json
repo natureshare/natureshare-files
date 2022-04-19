@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Hoddles Creek Region Wildflowers",
+ "description": "All users for [hoddles_creek_region_wildflowers]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fhoddles_creek_region_wildflowers%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/hoddles_creek_region_wildflowers/index.json",
+ "items": [
+  {
+   "title": "abcmaps",
+   "content_text": "13 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a126c22ed2a8939840006de.JPG",
+   "date_published": "2017-11-20T05:49:03.000+00:00",
+   "date_modified": "2017-11-20T05:49:03.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.583,
+     -37.833
+    ]
+   },
+   "_meta": {
+    "itemCount": 13,
+    "date": "2017-11-20",
+    "name": "hoddles_creek_region_wildflowers",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/abcmaps/collections/hoddles_creek_region_wildflowers/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fabcmaps%2Fcollections%2Fhoddles_creek_region_wildflowers%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

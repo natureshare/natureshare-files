@@ -1,0 +1,88 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "bertbohosouth",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbertbohosouth%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbertbohosouth%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/bertbohosouth/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/bertbohosouth/items/ns/2017/58fc10deed2a8972fd00000d.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbertbohosouth%2Fitems%2Fns%2F2017%2F58fc10deed2a8972fd00000d.yaml",
+   "title": "Christinus marmoratus",
+   "content_text": "Found in a pot plant.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58fc10e5ed2a89a81f0000fd.jpg",
+   "date_published": "2017-04-23T02:36:20.000+00:00",
+   "date_modified": "2017-04-24T04:16:24.000+00:00",
+   "tags": [
+    "id~Christinus marmoratus",
+    "tag~animal",
+    "tag~dorsal"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.261863,
+     -37.855169
+    ]
+   },
+   "_meta": {
+    "date": "2017-04-23",
+    "imageCount": 1
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/bertbohosouth/items/ns/2017/589697a0ed2a89d10f002c9a.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbertbohosouth%2Fitems%2Fns%2F2017%2F589697a0ed2a89d10f002c9a.yaml",
+   "title": "Notechis scutatus",
+   "content_text": "A Tiger Snake was observed by Peter Kelly in the home garden on his Creek Junction property -photo. The animal was about 1.4 m long and had distinctive banding. A second, smaller Tiger Snake was observed later the same day closer to the house and , the following day, in the wood pile.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/589697aced2a892daf000397.jpg",
+   "date_published": "2017-02-05T03:16:13.000+00:00",
+   "date_modified": "2017-02-14T11:41:41.000+00:00",
+   "tags": [
+    "id~Notechis scutatus"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.793262,
+     -36.821911
+    ]
+   },
+   "_meta": {
+    "date": "2017-01-31",
+    "imageCount": 1
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/bertbohosouth/items/ns/2017/5790cb07ed2a89e69f0009c8.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbertbohosouth%2Fitems%2Fns%2F2017%2F5790cb07ed2a89e69f0009c8.yaml",
+   "title": "Suta spp.",
+   "content_text": "Initial ID was Suta spectabilis based on location, but body colouration and pattern suggests Suta flagellum. Mid-body scale rows were not counted.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5790cb5aed2a89211c00027b.JPG",
+   "date_published": "2017-02-05T03:01:11.000+00:00",
+   "date_modified": "2017-02-05T03:09:20.000+00:00",
+   "tags": [
+    "id~Suta spp.",
+    "tag~snake"
+   ],
+   "_geo": {
+    "coordinates": [
+     141.33597,
+     -34.204214
+    ]
+   },
+   "_meta": {
+    "date": "2016-07-11",
+    "imageCount": 2
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

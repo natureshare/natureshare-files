@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.596171,
+     -37.766746
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/francesovermars/items/ns/2013/53b39858e35eb129840103f9.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ffrancesovermars%2Fitems%2Fns%2F2013%2F53b39858e35eb129840103f9.yaml",
+    "date": "2013-08-11",
+    "title": "Enchylaena tomentosa var. tomentosa",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014299.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.596729,
+     -37.768137
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/francesovermars/items/ns/2013/53b39858e35eb129840103f5.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ffrancesovermars%2Fitems%2Fns%2F2013%2F53b39858e35eb129840103f5.yaml",
+    "date": "2013-08-11",
+    "title": "Eremophila deserti",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014295.jpg"
+   }
+  }
+ ]
+}

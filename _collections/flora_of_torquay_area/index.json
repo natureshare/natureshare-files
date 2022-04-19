@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Flora Of Torquay Area",
+ "description": "All users for [flora_of_torquay_area]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fflora_of_torquay_area%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/flora_of_torquay_area/index.json",
+ "items": [
+  {
+   "title": "therebel2015",
+   "content_text": "12 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb1298401318e.jpg",
+   "date_published": "2012-09-20T20:48:38.000+00:00",
+   "date_modified": "2012-09-20T20:48:38.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.312,
+     -38.345
+    ]
+   },
+   "_meta": {
+    "itemCount": 12,
+    "date": "2012-09-20",
+    "name": "flora_of_torquay_area",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/therebel2015/collections/flora_of_torquay_area/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fcollections%2Fflora_of_torquay_area%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

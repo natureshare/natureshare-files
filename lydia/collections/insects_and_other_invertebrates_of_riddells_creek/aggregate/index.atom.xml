@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Insects and other invertebrates of riddells creek</title>
+  <id>https://files.natureshare.org/lydia/collections/insects_and_other_invertebrates_of_riddells_creek/aggregate/index.xml</id>
+  <updated>2015-02-09T06:26:42.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/lydia/collections/insects_and_other_invertebrates_of_riddells_creek/aggregate/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/lydia/collections/insects_and_other_invertebrates_of_riddells_creek/aggregate/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fcollections%2Finsects_and_other_invertebrates_of_riddells_creek%2Faggregate%2Findex.json"/>
+  <author>
+    <name>lydia</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 lydia</rights>
+  <entry>
+    <id>https://files.natureshare.org/lydia/items/ns/2015/54d84df7ed2a892e78000072.yaml</id>
+    <title>Phasmatidae spp.</title>
+    <updated>2015-02-09T06:26:42.000+00:00</updated>
+    <published>2015-02-09T06:04:39.000+00:00</published>
+    <author>
+      <name>lydia</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">In the toilet behind the fly wire on the window</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2015%2F54d84df7ed2a892e78000072.yaml"/>
+    <category term="id~Phasmatidae spp."/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/lydia/items/ns/2013/53b39856e35eb1298400fe4a.yaml</id>
+    <title>Echthromorpha intricatoria</title>
+    <updated>2013-02-02T17:39:04.000+00:00</updated>
+    <published>2013-02-02T17:32:00.000+00:00</published>
+    <author>
+      <name>lydia</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Photo by Russell Best.</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400fe4a.yaml"/>
+    <category term="id~Echthromorpha intricatoria"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/lydia/items/ns/2012/53b39853e35eb1298400f1b4.yaml</id>
+    <title>Oligochaeta spp.</title>
+    <updated>2012-01-01T16:13:28.000+00:00</updated>
+    <published>2012-01-01T16:07:23.000+00:00</published>
+    <author>
+      <name>lydia</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Large worm found in garden, compared to size of 9 year old hand. Photo by Russell Best.</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2012%2F53b39853e35eb1298400f1b4.yaml"/>
+    <category term="id~Oligochaeta spp."/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/lydia/items/ns/2011/53b39850e35eb1298400e7b2.yaml</id>
+    <title>Notonectidae spp.</title>
+    <updated>2011-05-22T11:30:26.000+00:00</updated>
+    <published>2011-05-22T11:24:56.000+00:00</published>
+    <author>
+      <name>lydia</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">Looking for bugs in Sandy Creek at the back of our house.</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e7b2.yaml"/>
+    <category term="id~Notonectidae spp."/>
+  </entry>
+</feed>

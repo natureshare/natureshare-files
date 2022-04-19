@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.552612,
+     -37.123096
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_31/collections/insects_and_invertebrates_of_macedon_ranges/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_31%2Fcollections%2Finsects_and_invertebrates_of_macedon_ranges%2Faggregate%2Findex.json",
+    "date": "2016-03-11",
+    "title": "openid_31",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56e2bb8eed2a890be70000fa.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.38,
+     -37.365
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/therebel2015/collections/insects_and_invertebrates_of_macedon_ranges/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fcollections%2Finsects_and_invertebrates_of_macedon_ranges%2Faggregate%2Findex.json",
+    "date": "2016-03-11",
+    "title": "therebel2015",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56e2bb8eed2a890be70000fa.JPG"
+   }
+  }
+ ]
+}

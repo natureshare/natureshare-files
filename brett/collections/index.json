@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "brett",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbrett%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbrett%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/brett/collections/index.json",
+ "items": [
+  {
+   "title": "Eumemmerring Creek Parklands",
+   "content_text": "11 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57e91552ed2a89b7180000a0.JPG",
+   "date_published": "2016-09-26T12:33:37.000+00:00",
+   "date_modified": "2016-09-26T12:33:37.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.238281,
+     -37.998649
+    ]
+   },
+   "_meta": {
+    "itemCount": 11,
+    "date": "2016-09-26",
+    "name": "eumemmerring_creek_parklands",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/brett/collections/eumemmerring_creek_parklands/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbrett%2Fcollections%2Feumemmerring_creek_parklands%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

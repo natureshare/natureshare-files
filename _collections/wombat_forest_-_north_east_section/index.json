@@ -1,0 +1,42 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Wombat Forest North East Section",
+ "description": "All users for [wombat_forest_-_north_east_section]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fwombat_forest_-_north_east_section%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/wombat_forest_-_north_east_section/index.json",
+ "items": [
+  {
+   "title": "david_francis",
+   "content_text": "13 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ef09f0ed2a8944100000d5.jpg",
+   "date_published": "2017-04-13T05:19:13.000+00:00",
+   "date_modified": "2017-04-13T05:19:13.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.445277,
+     -37.432057
+    ]
+   },
+   "_meta": {
+    "itemCount": 13,
+    "date": "2017-04-13",
+    "name": "wombat_forest_-_north_east_section",
+    "featured": true,
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/david_francis/collections/wombat_forest_-_north_east_section/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fwombat_forest_-_north_east_section%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

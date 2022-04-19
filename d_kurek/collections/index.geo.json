@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.226,
+     -37.894
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/d_kurek/collections/moths_of_metropolitan_melbourne/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fd_kurek%2Fcollections%2Fmoths_of_metropolitan_melbourne%2Faggregate%2Findex.json",
+    "date": "2019-03-24",
+    "title": "Moths of metropolitan melbourne",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c1ed10e3abbd6b7f00000e2/2019-03-24/1553427484/DSCN4703.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.056,
+     -37.911
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/d_kurek/collections/bentleigh_east_-_invertebrates/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fd_kurek%2Fcollections%2Fbentleigh_east_-_invertebrates%2Faggregate%2Findex.json",
+    "date": "2019-03-24",
+    "title": "Bentleigh East - Invertebrates",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c1ed10e3abbd6b7f00000e2/2019-03-24/1553427484/DSCN4703.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.766,
+     -37.667
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/d_kurek/collections/organ_pipes_np_-_invertebrates/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fd_kurek%2Fcollections%2Forgan_pipes_np_-_invertebrates%2Faggregate%2Findex.json",
+    "date": "2018-12-23",
+    "title": "Organ pipes np - invertebrates",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c1ed10e3abbd6b7f00000e2/2018-12-23/1545545116/DSCN0657.JPG"
+   }
+  }
+ ]
+}

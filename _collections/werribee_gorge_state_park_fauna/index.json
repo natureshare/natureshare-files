@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Werribee Gorge State Park Fauna",
+ "description": "All users for [werribee_gorge_state_park_fauna]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fwerribee_gorge_state_park_fauna%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/werribee_gorge_state_park_fauna/index.json",
+ "items": [
+  {
+   "title": "russell",
+   "content_text": "7 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ce35eb12984015221.jpg",
+   "date_published": "2014-04-12T20:31:14.000+00:00",
+   "date_modified": "2014-04-12T20:31:14.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.345,
+     -37.664
+    ]
+   },
+   "_meta": {
+    "itemCount": 7,
+    "date": "2014-04-12",
+    "name": "werribee_gorge_state_park_fauna",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/russell/collections/werribee_gorge_state_park_fauna/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fwerribee_gorge_state_park_fauna%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

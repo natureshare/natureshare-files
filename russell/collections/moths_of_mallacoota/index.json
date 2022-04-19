@@ -1,0 +1,94 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Moths Of Mallacoota",
+ "description": "",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmoths_of_mallacoota%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/moths_of_mallacoota/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2014/53b3985ae35eb12984010ab7.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2014%2F53b3985ae35eb12984010ab7.yaml",
+   "title": "Circopetes obtusata",
+   "content_text": "Spotted on Ellena's bike.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986be35eb12984014d71.jpg",
+   "date_published": "2014-01-18T11:47:08.000+00:00",
+   "date_modified": "2014-07-02T14:10:04.000+00:00",
+   "tags": [
+    "id~Circopetes obtusata"
+   ],
+   "_geo": {
+    "coordinates": [
+     149.758591,
+     -37.556232
+    ]
+   },
+   "_meta": {
+    "date": "2014-01-18",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2015/moths_of_mallacoota_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Fmoths_of_mallacoota_species_list.yaml",
+   "title": "Amata sp. (1), Circopetes obtusata",
+   "content_text": "Species list for collection.",
+   "date_published": "2011-06-23T17:00:22.000+00:00",
+   "date_modified": "2015-04-07T08:47:35.000+00:00",
+   "tags": [
+    "id~Amata sp. (1)",
+    "id~Circopetes obtusata",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2011/53b39850e35eb1298400e8fb.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e8fb.yaml",
+   "title": "Amata sp. (1)",
+   "content_text": "Male? On Elaeocarpus reticulatus (fruit not ripe).",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011cfc.jpg",
+   "date_published": "2011-06-23T16:58:07.000+00:00",
+   "date_modified": "2011-06-23T17:09:39.000+00:00",
+   "tags": [
+    "id~Amata sp. (1)"
+   ],
+   "_geo": {
+    "coordinates": [
+     149.724641,
+     -37.525452
+    ]
+   },
+   "_meta": {
+    "date": "2011-01-29",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

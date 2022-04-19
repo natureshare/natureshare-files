@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Wcmnburnedsite 04",
+ "description": "All users for [wcmnburnedsite04]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fwcmnburnedsite04%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/wcmnburnedsite04/index.json",
+ "items": [
+  {
+   "title": "openid_147",
+   "content_text": "26 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545d910ee35eb19e04000016.jpg",
+   "date_published": "2014-11-08T03:42:06.000+00:00",
+   "date_modified": "2014-11-08T03:42:06.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.627,
+     -36.402
+    ]
+   },
+   "_meta": {
+    "itemCount": 26,
+    "date": "2014-11-08",
+    "name": "wcmnburnedsite04",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_147/collections/wcmnburnedsite04/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_147%2Fcollections%2Fwcmnburnedsite04%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "barrietaylor",
+   "content_text": "25 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545d910ee35eb19e04000016.jpg",
+   "date_published": "2014-11-08T03:42:06.000+00:00",
+   "date_modified": "2014-11-08T03:42:06.000+00:00",
+   "_geo": {
+    "coordinates": [
+     143.627,
+     -36.402
+    ]
+   },
+   "_meta": {
+    "itemCount": 25,
+    "date": "2014-11-08",
+    "name": "wcmnburnedsite04",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/barrietaylor/collections/wcmnburnedsite04/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbarrietaylor%2Fcollections%2Fwcmnburnedsite04%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,69 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Bogong High Plains",
+ "description": "",
+ "author": {
+  "name": "gill",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fcollections%2Fbogong_high_plains%2Findex.json",
+ "feed_url": "https://files.natureshare.org/gill/collections/bogong_high_plains/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/gill/items/ns/2015/54ce073fed2a899aeb0003df.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F54ce073fed2a899aeb0003df.yaml",
+   "title": "Canis lupus dingo",
+   "content_text": "Down in the gully north east of Mount Nelse we heard howling noises that we think were dingoes.",
+   "date_published": "2015-02-01T11:00:15.000+00:00",
+   "date_modified": "2015-02-01T11:59:34.000+00:00",
+   "tags": [
+    "id~Canis lupus dingo"
+   ],
+   "_geo": {
+    "coordinates": [
+     147.336951,
+     -36.841233
+    ]
+   },
+   "_meta": {
+    "date": "2015-01-26"
+   },
+   "author": {
+    "name": "gill",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/gill/items/ns/2015/54ce0567ed2a899aeb0003d4.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2015%2F54ce0567ed2a899aeb0003d4.yaml",
+   "title": "Eulamprus spp.",
+   "content_text": "Ellena Best (age 10) found and photographed these two water skinks between two rocks by the Watchbed creek.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54ce0567ed2a899aeb0003d3.jpg",
+   "date_published": "2015-02-01T10:52:23.000+00:00",
+   "date_modified": "2015-02-01T11:48:37.000+00:00",
+   "tags": [
+    "id~Eulamprus spp."
+   ],
+   "_geo": {
+    "coordinates": [
+     147.281791,
+     -36.86326
+    ]
+   },
+   "_meta": {
+    "date": "2015-01-26",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "gill",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

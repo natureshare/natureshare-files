@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/therebel2015/collections/weeds/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Weeds</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fcollections%2Fweeds%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 therebel2015</copyright>
+    <pubDate>Wed, 26 Jun 2019 10:11:57 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Hypericum spp.</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2019%2F5d134454c347d5969c0002d1.yaml</link>
+      <dc:creator>therebel2015</dc:creator>
+      <description>Introduced medical herb.</description>
+      <category>id~Hypericum spp.</category>
+      <category>tag~flower-and-leaves</category>
+      <guid isPermaLink="false">https://files.natureshare.org/therebel2015/items/ns/2019/5d134454c347d5969c0002d1.yaml</guid>
+      <pubDate>Wed, 26 Jun 2019 10:09:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rubus rugosus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2015%2F55b8dc3ced2a895db800007b.yaml</link>
+      <dc:creator>therebel2015</dc:creator>
+      <description>Introduced Blackberry. </description>
+      <category>id~Rubus rugosus</category>
+      <category>tag~immature-fruit</category>
+      <guid isPermaLink="false">https://files.natureshare.org/therebel2015/items/ns/2015/55b8dc3ced2a895db800007b.yaml</guid>
+      <pubDate>Wed, 29 Jul 2015 13:59:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rubus fruticosus spp. agg.</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2012%2F53b39856e35eb1298400fd1d.yaml</link>
+      <dc:creator>therebel2015</dc:creator>
+      <description>Blackberry- Found a pink flowered form at the cherry farm at Musk. </description>
+      <category>id~Rubus fruticosus spp. agg.</category>
+      <category>tag~flower</category>
+      <guid isPermaLink="false">https://files.natureshare.org/therebel2015/items/ns/2012/53b39856e35eb1298400fd1d.yaml</guid>
+      <pubDate>Wed, 26 Dec 2012 21:40:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cirsium vulgare</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f5be.yaml</link>
+      <dc:creator>therebel2015</dc:creator>
+      <description>Spear Thistle. Introduced weed.</description>
+      <category>id~Cirsium vulgare</category>
+      <category>tag~flower</category>
+      <guid isPermaLink="false">https://files.natureshare.org/therebel2015/items/ns/2012/53b39854e35eb1298400f5be.yaml</guid>
+      <pubDate>Sat, 12 May 2012 19:51:13 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

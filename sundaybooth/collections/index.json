@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "sundaybooth",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsundaybooth%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsundaybooth%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/sundaybooth/collections/index.json",
+ "items": [
+  {
+   "title": "Gunbower National Park Fauna",
+   "content_text": "22 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5434e984e35eb18edd00000b.JPG",
+   "date_published": "2014-10-08T07:36:36.000+00:00",
+   "date_modified": "2014-10-08T07:36:36.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.40055,
+     -35.88823
+    ]
+   },
+   "_meta": {
+    "itemCount": 22,
+    "date": "2014-10-08",
+    "name": "gunbower_national_park_fauna",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/sundaybooth/collections/gunbower_national_park_fauna/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fsundaybooth%2Fcollections%2Fgunbower_national_park_fauna%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,75 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Brisbane Ranges Moths",
+ "description": "",
+ "author": {
+  "name": "bethanyl",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbethanyl%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbethanyl%2Fcollections%2Fbrisbane_ranges_moths%2Findex.json",
+ "feed_url": "https://files.natureshare.org/bethanyl/collections/brisbane_ranges_moths/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/bethanyl/items/ns/2017/58ec8ed9ed2a894865001b6c.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbethanyl%2Fitems%2Fns%2F2017%2F58ec8ed9ed2a894865001b6c.yaml",
+   "title": "Anthela varia",
+   "content_text": "Found on the ground.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58ec8edced2a89e5480000ca.jpeg",
+   "date_published": "2017-04-11T08:10:35.000+00:00",
+   "date_modified": "2017-04-11T10:39:40.000+00:00",
+   "tags": [
+    "id~Anthela varia",
+    "tag~caterpillar",
+    "tag~larvae"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.222896,
+     -37.902205
+    ]
+   },
+   "_meta": {
+    "date": "2017-04-11",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "bethanyl",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbethanyl%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/bethanyl/items/ns/2017/586ed4f1ed2a89f4640009fe.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbethanyl%2Fitems%2Fns%2F2017%2F586ed4f1ed2a89f4640009fe.yaml",
+   "title": "Epicoma contristis",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/586ed506ed2a892daf0002d5.JPG",
+   "date_published": "2017-01-05T23:24:49.000+00:00",
+   "date_modified": "2017-01-05T23:24:49.000+00:00",
+   "tags": [
+    "id~Epicoma contristis",
+    "tag~adult",
+    "tag~male"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.223467,
+     -37.901984
+    ]
+   },
+   "_meta": {
+    "date": "2017-01-05",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "bethanyl",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbethanyl%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

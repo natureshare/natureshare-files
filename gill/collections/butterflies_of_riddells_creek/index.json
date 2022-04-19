@@ -1,0 +1,43 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Butterflies Of Riddells Creek",
+ "description": "",
+ "author": {
+  "name": "gill",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fcollections%2Fbutterflies_of_riddells_creek%2Findex.json",
+ "feed_url": "https://files.natureshare.org/gill/collections/butterflies_of_riddells_creek/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/gill/items/ns/2011/53b3984fe35eb1298400e403.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Fns%2F2011%2F53b3984fe35eb1298400e403.yaml",
+   "title": "Papilio aegeus aegeus",
+   "content_text": "Orchard swallowtail seen flying quickly around a variety of trees and plants. Never settled to be able to take a photograph.",
+   "date_published": "2011-02-19T14:49:28.000+00:00",
+   "date_modified": "2011-02-19T15:18:09.000+00:00",
+   "tags": [
+    "id~Papilio aegeus aegeus"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.654609,
+     -37.43105
+    ]
+   },
+   "_meta": {
+    "date": "2011-02-12"
+   },
+   "author": {
+    "name": "gill",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgill%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

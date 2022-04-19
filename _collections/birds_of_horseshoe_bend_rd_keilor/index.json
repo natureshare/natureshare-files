@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Birds Of Horseshoe Bend Rd Keilor",
+ "description": "All users for [birds_of_horseshoe_bend_rd_keilor]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fbirds_of_horseshoe_bend_rd_keilor%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/birds_of_horseshoe_bend_rd_keilor/index.json",
+ "items": [
+  {
+   "title": "openid_19",
+   "content_text": "5 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011f41.jpg",
+   "date_published": "2011-08-27T22:22:06.000+00:00",
+   "date_modified": "2011-08-27T22:22:06.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.841046,
+     -37.724191
+    ]
+   },
+   "_meta": {
+    "itemCount": 5,
+    "date": "2011-08-27",
+    "name": "birds_of_horseshoe_bend_rd_keilor",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_19/collections/birds_of_horseshoe_bend_rd_keilor/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_19%2Fcollections%2Fbirds_of_horseshoe_bend_rd_keilor%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

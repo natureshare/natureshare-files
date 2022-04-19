@@ -1,0 +1,59 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "openid_107",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_107%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_107%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_107/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_107/items/ns/2012/53b39854e35eb1298400f454.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_107%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f454.yaml",
+   "title": "Papilio aegeus aegeus",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39862e35eb12984012b4c.jpg",
+   "date_published": "2012-03-19T14:37:55.000+00:00",
+   "date_modified": "2012-03-19T15:00:35.000+00:00",
+   "tags": [
+    "id~Papilio aegeus aegeus",
+    "tag~female"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.577031,
+     -37.432137
+    ]
+   },
+   "_meta": {
+    "date": "2012-03-17",
+    "imageCount": 1
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_107/items/ns/2012/53b39854e35eb1298400f453.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_107%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f453.yaml",
+   "title": "Unidentified",
+   "content_text": "-",
+   "date_published": "2012-03-19T08:25:31.000+00:00",
+   "date_modified": "2012-03-19T08:25:31.000+00:00",
+   "tags": [
+    "id~Unidentified"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2012-03-18"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

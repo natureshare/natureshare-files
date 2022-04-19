@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.272269,
+     -37.920351
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/leuba/items/ns/2016/568d0b35ed2a895c190000a8.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fitems%2Fns%2F2016%2F568d0b35ed2a895c190000a8.yaml",
+    "date": "2016-01-05",
+    "title": "Turneromyia spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/568d0b4aed2a890f7e000001.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.327513,
+     -37.918625
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/leuba/items/ns/2015/5649292aed2a89e56e000a5c.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fitems%2Fns%2F2015%2F5649292aed2a89e56e000a5c.yaml",
+    "date": "2015-11-12",
+    "title": "Labium spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56492930ed2a899c630001af.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.327513,
+     -37.918354
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/leuba/items/ns/2015/5518a17eed2a899004000164.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fitems%2Fns%2F2015%2F5518a17eed2a899004000164.yaml",
+    "date": "2015-03-28",
+    "title": "Hyposoter spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5518a17ded2a899004000160.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.354753,
+     -37.860743
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/leuba/items/ns/2015/550ab56ced2a8994a9000573.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fleuba%2Fitems%2Fns%2F2015%2F550ab56ced2a8994a9000573.yaml",
+    "date": "2015-02-09",
+    "title": "Sericopimpla australis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/550ab56bed2a8994a9000571.jpg"
+   }
+  }
+ ]
+}

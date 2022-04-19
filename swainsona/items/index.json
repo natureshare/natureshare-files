@@ -1,0 +1,66 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "swainsona",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fswainsona%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fswainsona%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/swainsona/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/swainsona/items/ns/2018/5c0a663a1779a4a004000212.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fswainsona%2Fitems%2Fns%2F2018%2F5c0a663a1779a4a004000212.yaml",
+   "title": "Swainsona plagiotropis",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c0a5f601779a4009f0001b6/2018-12-07/1544185336/20160904_110736.jpg",
+   "date_published": "2018-12-07T12:23:22.000+00:00",
+   "date_modified": "2018-12-07T22:23:14.000+00:00",
+   "tags": [
+    "id~Swainsona plagiotropis",
+    "tag~flower-deep-pink"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.407914,
+     -36.25254
+    ]
+   },
+   "_meta": {
+    "date": "2016-09-04",
+    "imageCount": 2
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/swainsona/items/ns/2018/5c0a629a1779a4009f0001b8.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fswainsona%2Fitems%2Fns%2F2018%2F5c0a629a1779a4009f0001b8.yaml",
+   "title": "Eucalyptus camaldulensis",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5c0a5f601779a4009f0001b6/2018-12-07/1544184362/20181128_161829%20-%20Copy.jpg",
+   "date_published": "2018-12-07T12:07:54.000+00:00",
+   "date_modified": "2018-12-09T12:52:53.000+00:00",
+   "tags": [
+    "id~Eucalyptus camaldulensis",
+    "tag~flowers-pale-yellow",
+    "tag~tree"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.410241,
+     -36.258927
+    ]
+   },
+   "_meta": {
+    "date": "2018-11-28",
+    "imageCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

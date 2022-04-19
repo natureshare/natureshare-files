@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Wcmnburnedsite 09</title>
+  <id>https://files.natureshare.org/openid_147/collections/wcmnburnedsite09/index.xml</id>
+  <updated>2013-02-10T17:50:57.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/openid_147/collections/wcmnburnedsite09/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/openid_147/collections/wcmnburnedsite09/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_147%2Fcollections%2Fwcmnburnedsite09%2Findex.json"/>
+  <author>
+    <name>openid_147</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_147%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 openid_147</rights>
+  <entry>
+    <id>https://files.natureshare.org/openid_147/items/ns/2013/53b39856e35eb1298400fe7f.yaml</id>
+    <title>Unidentified</title>
+    <updated>2013-02-10T17:50:57.000+00:00</updated>
+    <published>2013-02-10T17:38:49.000+00:00</published>
+    <author>
+      <name>openid_147</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_147%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">No change since first observation after the burn. No rain for 2 months</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_147%2Fitems%2Fns%2F2013%2F53b39856e35eb1298400fe7f.yaml"/>
+    <category term="id~Unidentified"/>
+  </entry>
+</feed>

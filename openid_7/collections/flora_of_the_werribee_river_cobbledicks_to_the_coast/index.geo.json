@@ -1,0 +1,72 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.65076,
+     -37.894854
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_7/items/ns/2011/53b39851e35eb1298400ebe9.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ebe9.yaml",
+    "date": "2007-10-18",
+    "title": "Acacia provincialis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb1298401207b.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.641111,
+     -37.88
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_7/items/ns/2011/53b39851e35eb1298400ebe8.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ebe8.yaml",
+    "date": "2008-08-29",
+    "title": "Acacia rostriformis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb1298401207a.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.670734,
+     -37.941575
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_7/items/ns/2011/53b39851e35eb1298400ebe7.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Fns%2F2011%2F53b39851e35eb1298400ebe7.yaml",
+    "date": "2006-10-17",
+    "title": "Wilsonia rotundifolia",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984012079.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.653549,
+     -37.911159
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_7/items/ns/2015/flora_of_the_werribee_river_cobbledicks_to_the_coast_species_list.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_7%2Fitems%2Fns%2F2015%2Fflora_of_the_werribee_river_cobbledicks_to_the_coast_species_list.yaml",
+    "date": "2015-04-07",
+    "title": "42 ids"
+   }
+  }
+ ]
+}

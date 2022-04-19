@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.348181,
+     -37.939982
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jylu/items/ns/2017/59225013ed2a893e6b001e92.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fitems%2Fns%2F2017%2F59225013ed2a893e6b001e92.yaml",
+    "date": "2017-05-20",
+    "title": "Cryptostylis leptochila",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5922501eed2a89a81f000146.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.345655,
+     -37.941535
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jylu/items/ns/2017/59224ee1ed2a893e6b001e8b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fitems%2Fns%2F2017%2F59224ee1ed2a893e6b001e8b.yaml",
+    "date": "2017-05-20",
+    "title": "Pterostylis grandiflora",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59224eeded2a89e548000159.jpg"
+   }
+  }
+ ]
+}

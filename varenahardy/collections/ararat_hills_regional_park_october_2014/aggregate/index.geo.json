@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.910224,
+     -37.255366
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/varenahardy/items/ns/2014/545de225e35eb16716000050.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fvarenahardy%2Fitems%2Fns%2F2014%2F545de225e35eb16716000050.yaml",
+    "date": "2014-10-15",
+    "title": "Leptotarsus (Leptotarsus) imperatorius",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545de224e35eb1671600004b.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.900332,
+     -37.246963
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/varenahardy/items/ns/2014/545ddf75e35eb11974000059.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fvarenahardy%2Fitems%2Fns%2F2014%2F545ddf75e35eb11974000059.yaml",
+    "date": "2014-10-15",
+    "title": "Diuris pardina",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545ddf75e35eb11974000055.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.901662,
+     -37.249167
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/varenahardy/items/ns/2014/545dda9de35eb16716000046.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fvarenahardy%2Fitems%2Fns%2F2014%2F545dda9de35eb16716000046.yaml",
+    "date": "2014-10-15",
+    "title": "Caladenia gracilis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545dda9ce35eb16716000041.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.901894,
+     -37.248338
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/varenahardy/items/ns/2014/545dd5cfe35eb1671600003d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fvarenahardy%2Fitems%2Fns%2F2014%2F545dd5cfe35eb1671600003d.yaml",
+    "date": "2014-10-15",
+    "title": "Caladenia spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545dd5cfe35eb1671600003c.JPG"
+   }
+  }
+ ]
+}

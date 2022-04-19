@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/jamesbooth/collections/long_forest_conservation_reserve_plants/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Long forest conservation reserve plants</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Flong_forest_conservation_reserve_plants%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 jamesbooth</copyright>
+    <pubDate>Sun, 05 Oct 2014 08:50:55 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Asparagus asparagoides</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Fns%2F2014%2F54310581e35eb10cb3000006.yaml</link>
+      <dc:creator>jamesbooth</dc:creator>
+      <description>-</description>
+      <category>id~Asparagus asparagoides</category>
+      <guid isPermaLink="false">https://files.natureshare.org/jamesbooth/items/ns/2014/54310581e35eb10cb3000006.yaml</guid>
+      <pubDate>Sun, 05 Oct 2014 08:46:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eutaxia microphylla var. diffusa</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Fns%2F2014%2F543104fde35eb1bbd000001e.yaml</link>
+      <dc:creator>jamesbooth</dc:creator>
+      <description>-</description>
+      <category>id~Eutaxia microphylla var. diffusa</category>
+      <category>tag~flower</category>
+      <guid isPermaLink="false">https://files.natureshare.org/jamesbooth/items/ns/2014/543104fde35eb1bbd000001e.yaml</guid>
+      <pubDate>Sun, 05 Oct 2014 08:44:45 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

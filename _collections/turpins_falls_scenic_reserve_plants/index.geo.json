@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.483004,
+     -37.134661
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/collections/turpins_falls_scenic_reserve_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fturpins_falls_scenic_reserve_plants%2Faggregate%2Findex.json",
+    "date": "2014-07-28",
+    "title": "david_francis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53d5efbde35eb1883d000006.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.483004,
+     -37.134661
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/turpins_falls_scenic_reserve_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fturpins_falls_scenic_reserve_plants%2Faggregate%2Findex.json",
+    "date": "2014-07-28",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53d5efbde35eb1883d000006.jpg"
+   }
+  }
+ ]
+}

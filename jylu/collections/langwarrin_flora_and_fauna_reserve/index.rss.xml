@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/jylu/collections/langwarrin_flora_and_fauna_reserve/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Langwarrin Flora And Fauna Reserve</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fcollections%2Flangwarrin_flora_and_fauna_reserve%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 jylu</copyright>
+    <pubDate>Mon, 12 Jun 2017 09:54:06 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Corybas fimbriatus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fitems%2Fns%2F2017%2F5937eee8ed2a891929000001.yaml</link>
+      <dc:creator>jylu</dc:creator>
+      <description>The same population that Linda recorded in 2015.&#xD;
+Around 10 individuals (leaves), 2 in flowers and 2 in buds.</description>
+      <category>id~Corybas fimbriatus</category>
+      <category>tag~flowers-red</category>
+      <guid isPermaLink="false">https://files.natureshare.org/jylu/items/ns/2017/5937eee8ed2a891929000001.yaml</guid>
+      <pubDate>Wed, 07 Jun 2017 12:22:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stylidium graminifolium s.s.</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fjylu%2Fitems%2Fns%2F2016%2F57d21473ed2a89450f00124e.yaml</link>
+      <dc:creator>jylu</dc:creator>
+      <description>Few individuals in grassy land.</description>
+      <category>id~Stylidium graminifolium s.s.</category>
+      <category>tag~inflorescence</category>
+      <guid isPermaLink="false">https://files.natureshare.org/jylu/items/ns/2016/57d21473ed2a89450f00124e.yaml</guid>
+      <pubDate>Fri, 09 Sep 2016 01:52:38 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

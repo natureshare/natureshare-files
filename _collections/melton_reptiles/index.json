@@ -1,0 +1,37 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Melton Reptiles",
+ "description": "All users for [melton_reptiles]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fmelton_reptiles%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/melton_reptiles/index.json",
+ "items": [
+  {
+   "title": "openid_63",
+   "content_text": "1 items",
+   "date_published": "2011-08-26T22:10:05.000+00:00",
+   "date_modified": "2011-08-26T22:10:05.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2011-08-26",
+    "name": "melton_reptiles",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_63/collections/melton_reptiles/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_63%2Fcollections%2Fmelton_reptiles%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

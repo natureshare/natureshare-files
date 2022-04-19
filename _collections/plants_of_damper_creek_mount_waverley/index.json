@@ -1,0 +1,40 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Plants Of Damper Creek Mount Waverley",
+ "description": "All users for [plants_of_damper_creek_mount_waverley]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fplants_of_damper_creek_mount_waverley%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/plants_of_damper_creek_mount_waverley/index.json",
+ "items": [
+  {
+   "title": "openid_58",
+   "content_text": "1 items",
+   "date_published": "2011-08-17T23:39:48.000+00:00",
+   "date_modified": "2011-08-17T23:39:48.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.12815,
+     -37.863369
+    ]
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2011-08-17",
+    "name": "plants_of_damper_creek_mount_waverley",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_58/collections/plants_of_damper_creek_mount_waverley/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_58%2Fcollections%2Fplants_of_damper_creek_mount_waverley%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

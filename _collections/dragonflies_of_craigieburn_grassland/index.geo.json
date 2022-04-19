@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.963,
+     -37.625
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_60/collections/dragonflies_of_craigieburn_grassland/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_60%2Fcollections%2Fdragonflies_of_craigieburn_grassland%2Faggregate%2Findex.json",
+    "date": "2011-08-15",
+    "title": "openid_60",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3985fe35eb12984011eb4.jpg"
+   }
+  }
+ ]
+}

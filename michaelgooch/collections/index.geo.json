@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     143.752972,
+     -37.290561
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/collections/clunes_finchesgully_flora_and_fauna/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fcollections%2Fclunes_finchesgully_flora_and_fauna%2Faggregate%2Findex.json",
+    "date": "2018-01-28",
+    "title": "Clunes  - Finches Gully private property - Flora and Fauna",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a6d1264ed2a8966a0000025.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.56,
+     -38.025
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/michaelgooch/collections/birds_of_the_western_treatment_plant_werribee/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fmichaelgooch%2Fcollections%2Fbirds_of_the_western_treatment_plant_werribee%2Faggregate%2Findex.json",
+    "date": "2017-01-03",
+    "title": "Birds of the western treatment plant werribee",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/586b6881ed2a892daf0002c9.jpg"
+   }
+  }
+ ]
+}

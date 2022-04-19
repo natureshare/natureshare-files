@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.766573,
+     -37.6675
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/moth_er/items/ns/2018/5c04d9956187125feb000037.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmoth_er%2Fitems%2Fns%2F2018%2F5c04d9956187125feb000037.yaml",
+    "date": "2018-12-01",
+    "title": "Cryptophasa ochroleuca",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5a66f216ed2a8939830000a8/2018-12-03/1543821694/Cryptophasa%20ochroleuca%20OrganPipes%201Dec2018%207227.jpeg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.766541,
+     -37.667521
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/moth_er/items/ns/2018/5c04d8a2618712711900002b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmoth_er%2Fitems%2Fns%2F2018%2F5c04d8a2618712711900002b.yaml",
+    "date": "2018-12-01",
+    "title": "Cryptophasa irrorata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5a66f216ed2a8939830000a8/2018-12-03/1543821442/Cryptophasa%20irrorata%20OrganPipes%201Dec2018%207208.jpeg"
+   }
+  }
+ ]
+}

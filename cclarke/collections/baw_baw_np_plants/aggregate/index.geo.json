@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.253055,
+     -37.837512
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/cclarke/items/ns/2015/561a3942ed2a89401600a7b6.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2015%2F561a3942ed2a89401600a7b6.yaml",
+    "date": "2015-10-11",
+    "title": "Blechnum wattsii",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/561a3956ed2a890d950004a1.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.268424,
+     -37.84246
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/cclarke/items/ns/2015/561a3642ed2a89401600a7b1.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2015%2F561a3642ed2a89401600a7b1.yaml",
+    "date": "2015-10-11",
+    "title": "Epacris paludosa",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/561a3695ed2a890d950004a0.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.268821,
+     -37.842875
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/cclarke/items/ns/2015/561a34c6ed2a89401600a7ac.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2015%2F561a34c6ed2a89401600a7ac.yaml",
+    "date": "2015-10-11",
+    "title": "Leucopogon gelidus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/561a3502ed2a890d9500049f.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.268757,
+     -37.842722
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/cclarke/items/ns/2015/561a2fa5ed2a89401600a7a0.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fitems%2Fns%2F2015%2F561a2fa5ed2a89401600a7a0.yaml",
+    "date": "2015-10-11",
+    "title": "Acrothamnus maccraei",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/561a2fc4ed2a890d9500049c.jpg"
+   }
+  }
+ ]
+}

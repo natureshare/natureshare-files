@@ -1,0 +1,37 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.480806,
+     -37.797696
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/buffy/items/ns/2016/57f9da0ded2a89450f0092d3.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbuffy%2Fitems%2Fns%2F2016%2F57f9da0ded2a89450f0092d3.yaml",
+    "date": "2016-10-09",
+    "title": "Glossodia major"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.276371,
+     -37.837632
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/buffy/items/ns/2016/57f9d764ed2a89450f0092bc.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbuffy%2Fitems%2Fns%2F2016%2F57f9d764ed2a89450f0092bc.yaml",
+    "date": "2016-10-08",
+    "title": "Diuris chryseopsis"
+   }
+  }
+ ]
+}

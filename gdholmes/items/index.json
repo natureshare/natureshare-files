@@ -1,0 +1,42 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "gdholmes",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgdholmes%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgdholmes%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/gdholmes/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/gdholmes/items/ns/2016/5771ec60ed2a89e69f0000df.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fgdholmes%2Fitems%2Fns%2F2016%2F5771ec60ed2a89e69f0000df.yaml",
+   "title": "Grevillea repens",
+   "content_text": "Typical flower colour and leaf shape of G. repens plants from the Lerderderg State Park area. ",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5771ef7ded2a89211c00026b.JPG",
+   "date_published": "2016-06-28T03:30:58.000+00:00",
+   "date_modified": "2016-06-28T03:35:13.000+00:00",
+   "tags": [
+    "id~Grevillea repens",
+    "tag~conflorescences"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.363621,
+     -37.482849
+    ]
+   },
+   "_meta": {
+    "date": "2004-11-02",
+    "imageCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

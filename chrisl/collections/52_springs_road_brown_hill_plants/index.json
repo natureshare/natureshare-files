@@ -1,0 +1,146 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "52 Springs Road Brown Hill Plants",
+ "description": "",
+ "author": {
+  "name": "chrisl",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fcollections%2F52_springs_road_brown_hill_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/chrisl/collections/52_springs_road_brown_hill_plants/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/chrisl/items/ns/2015/54faf103ed2a890393000034.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2015%2F54faf103ed2a890393000034.yaml",
+   "title": "Rytidosperma racemosum var. racemosum",
+   "content_text": "This species is commonly encountered and easy to identify. The inflorescence appear raceme-like (hence the name), as floral spikelets are spaced along the flowering stem. The floret has an obvious naked patch on the lemma body, with hairs only on the margins. The lemma lobes are long, tapering abruptly to produce filiform points.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54faf102ed2a890393000032.jpg",
+   "date_published": "2015-03-07T12:37:23.000+00:00",
+   "date_modified": "2015-03-09T07:09:50.000+00:00",
+   "tags": [
+    "id~Rytidosperma racemosum var. racemosum"
+   ],
+   "_geo": {
+    "coordinates": [
+     143.913732,
+     -37.541791
+    ]
+   },
+   "_meta": {
+    "date": "2015-03-04",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "chrisl",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/chrisl/items/ns/2015/54faed9aed2a89039300002e.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2015%2F54faed9aed2a89039300002e.yaml",
+   "title": "Rytidosperma geniculatum",
+   "content_text": "Some key features worth remembering for this species, include the often widely spreading lobes of the lemma (especially when mature), the rather even length of hairs over the lemma body that are not in obvious transverse lines, the sub-equal length of the lemma awn to the lemma lobes (often much longer in other species), and the geniculate (bent) flowering stem at a node near the base (see 3rd photo). The leaves are fine, hairy and tightly in-rolled. ",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54faed9aed2a89039300002b.jpg",
+   "date_published": "2015-03-07T12:30:29.000+00:00",
+   "date_modified": "2015-03-09T07:09:29.000+00:00",
+   "tags": [
+    "id~Rytidosperma geniculatum",
+    "tag~floret"
+   ],
+   "_geo": {
+    "coordinates": [
+     143.913732,
+     -37.541791
+    ]
+   },
+   "_meta": {
+    "date": "2015-03-04",
+    "imageCount": 3
+   },
+   "author": {
+    "name": "chrisl",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/chrisl/items/ns/2015/52_springs_road_brown_hill_plants_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Fns%2F2015%2F52_springs_road_brown_hill_plants_species_list.yaml",
+   "title": "53 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2015-03-05T04:21:42.000+00:00",
+   "date_modified": "2015-03-05T04:49:31.000+00:00",
+   "tags": [
+    "id~Acacia baileyana",
+    "id~Acacia dealbata subsp. dealbata",
+    "id~Acacia floribunda",
+    "id~Acacia melanoxylon",
+    "id~Acacia pravissima",
+    "id~Acacia pycnantha",
+    "id~Acetosella vulgaris",
+    "id~Acrotriche serrulata",
+    "id~Agapanthus praecox subsp. orientalis",
+    "id~Agrostis capillaris",
+    "id~Anthoxanthum odoratum",
+    "id~Arthropodium strictum s.l.",
+    "id~Billardiera heterophylla",
+    "id~Briza maxima",
+    "id~Bromus spp.",
+    "id~Cassinia aculeata",
+    "id~Cassinia longifolia",
+    "id~Cirsium vulgare",
+    "id~Coronidium scorpioides s.s.",
+    "id~Cytisus scoparius",
+    "id~Dactylis glomerata",
+    "id~Daviesia latifolia",
+    "id~Dianella admixta",
+    "id~Dillwynia cinerascens s.s.",
+    "id~Ehrharta erecta var. erecta",
+    "id~Eucalyptus dives",
+    "id~Eucalyptus viminalis subsp. viminalis",
+    "id~Exocarpos cupressiformis",
+    "id~Genista monspessulana",
+    "id~Gonocarpus tetragynus",
+    "id~Goodenia lanata",
+    "id~Hedera helix",
+    "id~Hypochaeris radicata",
+    "id~Juncus spp.",
+    "id~Lomandra filiformis",
+    "id~Microlaena stipoides var. stipoides",
+    "id~Opercularia ovata",
+    "id~Pimelea humilis",
+    "id~Plantago lanceolata",
+    "id~Poa labillardierei var. labillardierei",
+    "id~Poa sieberiana",
+    "id~Pteridium esculentum",
+    "id~Rubus fruticosus spp. agg.",
+    "id~Rytidosperma geniculatum",
+    "id~Rytidosperma racemosum var. racemosum",
+    "id~Senecio quadridentatus/tenuiflorus spp. agg.",
+    "id~Senecio spp.",
+    "id~Sonchus asper s.s.",
+    "id~Sonchus oleraceus",
+    "id~Tetratheca ciliata",
+    "id~Themeda triandra",
+    "id~Ulex europaeus",
+    "id~Wurmbea dioica",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "date": "2015-03-05"
+   },
+   "author": {
+    "name": "chrisl",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchrisl%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

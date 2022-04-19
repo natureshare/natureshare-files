@@ -1,0 +1,63 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Maribyrnong River Valley Fauna",
+ "description": "All users for [maribyrnong_river_valley_fauna]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fmaribyrnong_river_valley_fauna%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/maribyrnong_river_valley_fauna/index.json",
+ "items": [
+  {
+   "title": "jcanaway",
+   "content_text": "32 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_53b39818e35eb12984000026/2019-03-25/1553510053/toadfish.jpg",
+   "date_published": "2019-03-25T10:34:44.000+00:00",
+   "date_modified": "2019-03-25T10:34:44.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.849157,
+     -37.756058
+    ]
+   },
+   "_meta": {
+    "itemCount": 32,
+    "date": "2019-03-25",
+    "name": "maribyrnong_river_valley_fauna",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/jcanaway/collections/maribyrnong_river_valley_fauna/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjcanaway%2Fcollections%2Fmaribyrnong_river_valley_fauna%2Faggregate%2Findex.json"
+  },
+  {
+   "title": "tsnata",
+   "content_text": "29 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_53b39818e35eb12984000026/2019-03-25/1553510053/toadfish.jpg",
+   "date_published": "2019-03-25T10:34:44.000+00:00",
+   "date_modified": "2019-03-25T10:34:44.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.909,
+     -37.792
+    ]
+   },
+   "_meta": {
+    "itemCount": 29,
+    "date": "2019-03-25",
+    "name": "maribyrnong_river_valley_fauna",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/tsnata/collections/maribyrnong_river_valley_fauna/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fmaribyrnong_river_valley_fauna%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

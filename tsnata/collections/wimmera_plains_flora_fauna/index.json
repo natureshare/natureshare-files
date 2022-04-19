@@ -1,0 +1,45 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Wimmera Plains Flora Fauna",
+ "description": "",
+ "author": {
+  "name": "tsnata",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fwimmera_plains_flora_fauna%2Findex.json",
+ "feed_url": "https://files.natureshare.org/tsnata/collections/wimmera_plains_flora_fauna/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/tsnata/items/ns/2015/55ff802ced2a89b06c000dc2.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Fns%2F2015%2F55ff802ced2a89b06c000dc2.yaml",
+   "title": "Glossopsitta porphyrocephala",
+   "content_text": "Purple-crowned lorikeets on a fork of a eucalypt tree, in Boschen's Eremophila garden, Bangerang, near Minyip.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55ff8043ed2a890d950001fe.jpg",
+   "date_published": "2015-09-21T03:57:32.000+00:00",
+   "date_modified": "2015-09-21T04:07:35.000+00:00",
+   "tags": [
+    "id~Glossopsitta porphyrocephala"
+   ],
+   "_geo": {
+    "coordinates": [
+     142.587818,
+     -36.277708
+    ]
+   },
+   "_meta": {
+    "date": "2015-09-18",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "tsnata",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

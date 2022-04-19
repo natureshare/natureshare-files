@@ -1,0 +1,37 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "City Of Whittlesea Flora",
+ "description": "All users for [city_of_whittlesea_flora]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fcity_of_whittlesea_flora%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/city_of_whittlesea_flora/index.json",
+ "items": [
+  {
+   "title": "jamesbooth",
+   "content_text": "1 items",
+   "date_published": "2017-01-05T04:59:50.000+00:00",
+   "date_modified": "2017-01-05T04:59:50.000+00:00",
+   "_geo": {
+    "coordinates": null
+   },
+   "_meta": {
+    "itemCount": 1,
+    "date": "2017-01-05",
+    "name": "city_of_whittlesea_flora",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/jamesbooth/collections/city_of_whittlesea_flora/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fcity_of_whittlesea_flora%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.939636,
+     -36.615665
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_28/collections/reef_hills_state_park_flora_and_fauna/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_28%2Fcollections%2Freef_hills_state_park_flora_and_fauna%2Faggregate%2Findex.json",
+    "date": "2011-11-18",
+    "title": "openid_28",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39861e35eb1298401250e.jpg"
+   }
+  }
+ ]
+}

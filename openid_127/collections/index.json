@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Collections",
+ "description": "",
+ "author": {
+  "name": "openid_127",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_127%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_127%2Fcollections%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_127/collections/index.json",
+ "items": [
+  {
+   "title": "Merri Creek",
+   "content_text": "47 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/user_5c639c983abbd6ed0f00003c/2019-10-13/dec14_10_cburngl_z_cic_imgp1489_cropns.jpeg",
+   "date_published": "2019-10-12T13:16:49.000+00:00",
+   "date_modified": "2019-10-12T13:16:49.000+00:00",
+   "_geo": {
+    "coordinates": [
+     145.028458,
+     -37.583766
+    ]
+   },
+   "_meta": {
+    "itemCount": 47,
+    "date": "2019-10-12",
+    "name": "merri_creek",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/openid_127/collections/merri_creek/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_127%2Fcollections%2Fmerri_creek%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

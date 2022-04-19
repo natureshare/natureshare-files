@@ -1,0 +1,42 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Breamlea Flora And Fauna Reserve",
+ "description": "All users for [breamlea_flora_and_fauna_reserve]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fbreamlea_flora_and_fauna_reserve%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/breamlea_flora_and_fauna_reserve/index.json",
+ "items": [
+  {
+   "title": "lorrainecphelan",
+   "content_text": "42 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_56b45e90ed2a89d4ab000026/2019-01-19/1547889601/P1180027.jpg",
+   "date_published": "2019-01-19T09:20:38.000+00:00",
+   "date_modified": "2019-01-19T09:20:38.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.383922,
+     -38.297734
+    ]
+   },
+   "_meta": {
+    "itemCount": 42,
+    "date": "2019-01-19",
+    "name": "breamlea_flora_and_fauna_reserve",
+    "featured": true,
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/lorrainecphelan/collections/breamlea_flora_and_fauna_reserve/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Florrainecphelan%2Fcollections%2Fbreamlea_flora_and_fauna_reserve%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.307814,
+     -37.470984
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/saskia/items/ns/2018/5ac29cbced2a899466000846.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fsaskia%2Fitems%2Fns%2F2018%2F5ac29cbced2a899466000846.yaml",
+    "date": "2018-04-02",
+    "title": "Pergidae spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5ac29cc8ed2a8929e700006d.jpg"
+   }
+  }
+ ]
+}

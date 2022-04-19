@@ -1,0 +1,45 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Moorooduc Wildthings",
+ "description": "A collection of indigenous plants and animals in my ara",
+ "author": {
+  "name": "kylierobertson",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkylierobertson%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkylierobertson%2Fcollections%2Fnatureshare_org_au_collections_moorooduc_wildthings%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/kylierobertson/collections/natureshare_org_au_collections_moorooduc_wildthings/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/kylierobertson/items/ns/2015/55a0a8caed2a89158b000273.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fkylierobertson%2Fitems%2Fns%2F2015%2F55a0a8caed2a89158b000273.yaml",
+   "title": "Pardalotus punctatus",
+   "content_text": "-",
+   "date_published": "2015-07-11T05:25:30.000+00:00",
+   "date_modified": "2015-07-11T05:25:30.000+00:00",
+   "tags": [
+    "id~Pardalotus punctatus"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.096859,
+     -38.259555
+    ]
+   },
+   "_meta": {
+    "date": "2015-07-11"
+   },
+   "author": {
+    "name": "kylierobertson",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fkylierobertson%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": "<p>A collection of indigenous plants and animals in my ara</p>\n"
+ }
+}

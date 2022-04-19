@@ -1,0 +1,72 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.114,
+     -37.515
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/jamesbooth/collections/fireblight_2012/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Ffireblight_2012%2Faggregate%2Findex.json",
+    "date": "2012-11-16",
+    "title": "jamesbooth",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb12984013540.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.66,
+     -37.45
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/fireblight_2012/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Ffireblight_2012%2Faggregate%2Findex.json",
+    "date": "2012-11-16",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb12984013540.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     146.709,
+     -38.516
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_138/collections/fireblight_2012/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_138%2Fcollections%2Ffireblight_2012%2Faggregate%2Findex.json",
+    "date": "2012-09-29",
+    "title": "openid_138",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb129840132fc.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.159,
+     -37.518
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_136/collections/fireblight_2012/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_136%2Fcollections%2Ffireblight_2012%2Faggregate%2Findex.json",
+    "date": "2012-09-20",
+    "title": "openid_136"
+   }
+  }
+ ]
+}

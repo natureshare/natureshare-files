@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/abc123/collections/royal_park_parkville/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Royal Park Parkville</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fcollections%2Froyal_park_parkville%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 abc123</copyright>
+    <pubDate>Wed, 10 Jun 2015 14:15:14 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Acanthorhynchus tenuirostris</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Fns%2F2015%2F55776f01ed2a8918dd000887.yaml</link>
+      <dc:creator>abc123</dc:creator>
+      <description>Eastern Spinebill</description>
+      <category>id~Acanthorhynchus tenuirostris</category>
+      <guid isPermaLink="false">https://files.natureshare.org/abc123/items/ns/2015/55776f01ed2a8918dd000887.yaml</guid>
+      <pubDate>Tue, 09 Jun 2015 22:56:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Platalea regia</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Fns%2F2015%2F5505fa2aed2a8974d30004dd.yaml</link>
+      <dc:creator>abc123</dc:creator>
+      <description>Spoonbill.  Is this a mating pair?</description>
+      <category>id~Platalea regia</category>
+      <category>tag~birds</category>
+      <guid isPermaLink="false">https://files.natureshare.org/abc123/items/ns/2015/5505fa2aed2a8974d30004dd.yaml</guid>
+      <pubDate>Sun, 15 Mar 2015 21:31:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sturnus vulgaris</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Fns%2F2015%2F5502d80eed2a8994a9000246.yaml</link>
+      <dc:creator>abc123</dc:creator>
+      <description>Is this a Thrush?</description>
+      <category>id~Sturnus vulgaris</category>
+      <guid isPermaLink="false">https://files.natureshare.org/abc123/items/ns/2015/5502d80eed2a8994a9000246.yaml</guid>
+      <pubDate>Fri, 13 Mar 2015 12:29:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pelecanus conspicillatus</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fabc123%2Fitems%2Fns%2F2015%2F54f1acc7ed2a8945a1000209.yaml</link>
+      <dc:creator>abc123</dc:creator>
+      <description>spotted this Pelican.</description>
+      <category>id~Pelecanus conspicillatus</category>
+      <guid isPermaLink="false">https://files.natureshare.org/abc123/items/ns/2015/54f1acc7ed2a8945a1000209.yaml</guid>
+      <pubDate>Sat, 28 Feb 2015 11:55:51 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

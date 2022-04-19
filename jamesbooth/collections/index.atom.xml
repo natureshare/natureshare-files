@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Collections</title>
+  <id>https://files.natureshare.org/jamesbooth/collections/index.xml</id>
+  <updated>2018-03-04T09:45:18.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/jamesbooth/collections/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/jamesbooth/collections/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Findex.json"/>
+  <author>
+    <name>jamesbooth</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 jamesbooth</rights>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/neds_corner_reptiles/aggregate/index.json</id>
+    <title>Neds Corner - Reptiles</title>
+    <updated>2017-11-10T09:02:55.000+00:00</updated>
+    <published>2017-11-10T09:02:55.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">88 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fneds_corner_reptiles%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/orchids_of_whittlesea/aggregate/index.json</id>
+    <title>Orchids of Whittlesea</title>
+    <updated>2017-10-08T20:14:22.000+00:00</updated>
+    <published>2017-10-08T20:14:22.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">51 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Forchids_of_whittlesea%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/birds_of_25_ferres_blvd_south_morang/aggregate/index.json</id>
+    <title>Birds of 25 Ferres Blvd, South Morang</title>
+    <updated>2017-09-06T23:08:29.000+00:00</updated>
+    <published>2017-09-06T23:08:29.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">57 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fbirds_of_25_ferres_blvd_south_morang%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/reptiles_snakes_lizards_of_riddells_creek/aggregate/index.json</id>
+    <title>Reptiles (snakes &amp; lizards) of Riddells Creek</title>
+    <updated>2017-04-04T06:34:20.000+00:00</updated>
+    <published>2017-04-04T06:34:20.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">25 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Freptiles_snakes_lizards_of_riddells_creek%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/wattles_of_whittlesea_and_surrounds/aggregate/index.json</id>
+    <title>Wattles of Whittlesea and surrounds</title>
+    <updated>2014-09-22T22:52:52.000+00:00</updated>
+    <published>2014-09-22T22:52:52.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">81 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fwattles_of_whittlesea_and_surrounds%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/montana/aggregate/index.json</id>
+    <title>Montana</title>
+    <updated>2018-03-04T09:45:18.000+00:00</updated>
+    <published>2018-03-04T09:45:18.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">97 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fmontana%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/birds_of_whittlesea/aggregate/index.json</id>
+    <title>Birds of Whittlesea</title>
+    <updated>2018-03-01T03:02:13.000+00:00</updated>
+    <published>2018-03-01T03:02:13.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">124 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fbirds_of_whittlesea%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/korong_ridge_conservation_estate_-_flora/aggregate/index.json</id>
+    <title>Korong Ridge Conservation Estate - Flora</title>
+    <updated>2017-10-31T20:22:26.000+00:00</updated>
+    <published>2017-10-31T20:22:26.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">50 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fkorong_ridge_conservation_estate_-_flora%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/neds_corner_insects_spiders_and_other_invertebrates/aggregate/index.json</id>
+    <title>Neds corner insects spiders and other invertebrates</title>
+    <updated>2017-04-24T23:05:08.000+00:00</updated>
+    <published>2017-04-24T23:05:08.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">27 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fneds_corner_insects_spiders_and_other_invertebrates%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/birds_of_riddells_creek/aggregate/index.json</id>
+    <title>Birds of riddells creek</title>
+    <updated>2017-04-10T11:18:03.000+00:00</updated>
+    <published>2017-04-10T11:18:03.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">18 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fbirds_of_riddells_creek%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/spiders_of_riddells_creek/aggregate/index.json</id>
+    <title>Spiders of riddells creek</title>
+    <updated>2017-03-27T09:53:08.000+00:00</updated>
+    <published>2017-03-27T09:53:08.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">12 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fspiders_of_riddells_creek%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/frogs_of_riddells_creek/aggregate/index.json</id>
+    <title>Frogs of riddells creek</title>
+    <updated>2017-03-25T11:38:45.000+00:00</updated>
+    <published>2017-03-25T11:38:45.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">10 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Ffrogs_of_riddells_creek%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/neds_corner_frogs/aggregate/index.json</id>
+    <title>Neds corner frogs</title>
+    <updated>2017-03-18T08:51:35.000+00:00</updated>
+    <published>2017-03-18T08:51:35.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">9 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fneds_corner_frogs%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/neds_corner_plants/aggregate/index.json</id>
+    <title>Neds corner plants</title>
+    <updated>2017-03-16T09:10:26.000+00:00</updated>
+    <published>2017-03-16T09:10:26.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">12 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fneds_corner_plants%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/neds_corner_birds/aggregate/index.json</id>
+    <title>Neds corner birds</title>
+    <updated>2017-03-16T08:49:00.000+00:00</updated>
+    <published>2017-03-16T08:49:00.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">34 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fneds_corner_birds%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/neds_corner_mammals/aggregate/index.json</id>
+    <title>Neds corner mammals</title>
+    <updated>2017-03-16T06:20:38.000+00:00</updated>
+    <published>2017-03-16T06:20:38.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">14 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fneds_corner_mammals%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/soaks_project/aggregate/index.json</id>
+    <title>Intermittent Soaks of the North Western Goldfields</title>
+    <updated>2017-03-04T21:49:06.000+00:00</updated>
+    <published>2017-03-04T21:49:06.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">1 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fsoaks_project%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/city_of_whittlesea_flora/aggregate/index.json</id>
+    <title>City of Whittlesea - Dry Forest</title>
+    <updated>2017-01-05T04:59:50.000+00:00</updated>
+    <published>2017-01-05T04:59:50.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">1 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fcity_of_whittlesea_flora%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/mammals_of_riddells_creek/aggregate/index.json</id>
+    <title>Mammals of riddells creek</title>
+    <updated>2016-12-26T21:43:16.000+00:00</updated>
+    <published>2016-12-26T21:43:16.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">10 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fmammals_of_riddells_creek%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/birds_of_kinglake_west/aggregate/index.json</id>
+    <title>Birds of Kinglake West</title>
+    <updated>2016-11-25T21:42:14.000+00:00</updated>
+    <published>2016-11-25T21:42:14.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">11 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fbirds_of_kinglake_west%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/conglomerate_gully_riddells_creek_plants/aggregate/index.json</id>
+    <title>Conglomerate gully riddells creek plants</title>
+    <updated>2015-05-30T10:28:21.000+00:00</updated>
+    <published>2015-05-30T10:28:21.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">9 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fconglomerate_gully_riddells_creek_plants%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/mcg_life_at_the_mcg/aggregate/index.json</id>
+    <title>Mcg life at the mcg</title>
+    <updated>2015-05-11T08:06:28.000+00:00</updated>
+    <published>2015-05-11T08:06:28.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">1 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fmcg_life_at_the_mcg%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/hughes_gorge_flora_and_fauna/aggregate/index.json</id>
+    <title>Hughes Gorge Flora and Fauna</title>
+    <updated>2015-02-07T10:52:47.000+00:00</updated>
+    <published>2015-02-07T10:52:47.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">3 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fhughes_gorge_flora_and_fauna%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/peas_of_whittlesea_and_surrounds/aggregate/index.json</id>
+    <title>Peas of Whittlesea and surrounds</title>
+    <updated>2014-10-16T11:18:02.000+00:00</updated>
+    <published>2014-10-16T11:18:02.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">11 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fpeas_of_whittlesea_and_surrounds%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/gunbower_national_park_fauna/aggregate/index.json</id>
+    <title>Gunbower national park fauna</title>
+    <updated>2014-10-05T09:00:40.000+00:00</updated>
+    <published>2014-10-05T09:00:40.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">14 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fgunbower_national_park_fauna%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/long_forest_conservation_reserve_fauna/aggregate/index.json</id>
+    <title>Long forest conservation reserve fauna</title>
+    <updated>2014-10-05T08:51:32.000+00:00</updated>
+    <published>2014-10-05T08:51:32.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">5 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Flong_forest_conservation_reserve_fauna%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/long_forest_conservation_reserve_plants/aggregate/index.json</id>
+    <title>Long forest conservation reserve plants</title>
+    <updated>2014-10-05T08:46:57.000+00:00</updated>
+    <published>2014-10-05T08:46:57.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">2 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Flong_forest_conservation_reserve_plants%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/insects_and_other_invertebrates_of_riddells_creek/aggregate/index.json</id>
+    <title>Insects and other invertebrates of riddells creek</title>
+    <updated>2014-08-30T09:36:57.000+00:00</updated>
+    <published>2014-08-30T09:36:57.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">16 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Finsects_and_other_invertebrates_of_riddells_creek%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/murray_sunset_np_south_flora_south_of_sturt_hwy/aggregate/index.json</id>
+    <title>Murray sunset np south flora south of sturt hwy</title>
+    <updated>2013-09-21T21:11:48.000+00:00</updated>
+    <published>2013-09-21T21:11:48.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">21 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fmurray_sunset_np_south_flora_south_of_sturt_hwy%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/fireblight_2012/aggregate/index.json</id>
+    <title>Fireblight 2012</title>
+    <updated>2012-11-16T10:37:17.000+00:00</updated>
+    <published>2012-11-16T10:37:17.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">21 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Ffireblight_2012%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/black_saturday_regeneration/aggregate/index.json</id>
+    <title>Black Saturday Regeneration</title>
+    <updated>2012-08-12T18:33:43.000+00:00</updated>
+    <published>2012-08-12T18:33:43.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">213 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fblack_saturday_regeneration%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/murray_sunset_np_north_fauna_north_of_sturt_hwy/aggregate/index.json</id>
+    <title>Murray sunset np north fauna north of sturt hwy</title>
+    <updated>2012-04-19T21:43:22.000+00:00</updated>
+    <published>2012-04-19T21:43:22.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">6 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fmurray_sunset_np_north_fauna_north_of_sturt_hwy%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/murray_sunset_np_north_flora_north_of_sturt_hwy/aggregate/index.json</id>
+    <title>Murray sunset np north flora north of sturt hwy</title>
+    <updated>2012-04-13T21:47:03.000+00:00</updated>
+    <published>2012-04-13T21:47:03.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">1 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fmurray_sunset_np_north_flora_north_of_sturt_hwy%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/mt_charlie_reserve_flora_riddells_creek/aggregate/index.json</id>
+    <title>Mt charlie reserve flora riddells creek</title>
+    <updated>2011-12-27T17:53:21.000+00:00</updated>
+    <published>2011-12-27T17:53:21.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">7 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fmt_charlie_reserve_flora_riddells_creek%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/weeds_of_riddells_creek/aggregate/index.json</id>
+    <title>Weeds of riddells creek</title>
+    <updated>2011-12-27T10:39:52.000+00:00</updated>
+    <published>2011-12-27T10:39:52.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">3 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fweeds_of_riddells_creek%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/riddells_creek_plants/aggregate/index.json</id>
+    <title>Riddells creek plants</title>
+    <updated>2011-09-21T20:25:58.000+00:00</updated>
+    <published>2011-09-21T20:25:58.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">6 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Friddells_creek_plants%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/merri_creek/aggregate/index.json</id>
+    <title>Merri creek</title>
+    <updated>2011-08-28T18:04:23.000+00:00</updated>
+    <published>2011-08-28T18:04:23.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">2 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fmerri_creek%2Faggregate%2Findex.json"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/jamesbooth/collections/mt_franklin_plants/aggregate/index.json</id>
+    <title>Mt franklin plants</title>
+    <updated>2011-07-30T22:50:16.000+00:00</updated>
+    <published>2011-07-30T22:50:16.000+00:00</published>
+    <author>
+      <name>jamesbooth</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">3 items</content>
+    <link rel="alternate" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fjamesbooth%2Fcollections%2Fmt_franklin_plants%2Faggregate%2Findex.json"/>
+  </entry>
+</feed>

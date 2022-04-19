@@ -1,0 +1,99 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Neds corner reptiles",
+ "description": "",
+ "author": {
+  "name": "lydia",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fcollections%2Fneds_corner_reptiles%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/lydia/collections/neds_corner_reptiles/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/lydia/items/ns/2015/55d6caafed2a89db810012ff.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2015%2F55d6caafed2a89db810012ff.yaml",
+   "title": "Pogona vitticeps",
+   "content_text": "Sitting on a fence post by the road as we drove by.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55d6caafed2a89db810012fe.png",
+   "date_published": "2015-08-21T06:52:31.000+00:00",
+   "date_modified": "2015-09-18T21:27:32.000+00:00",
+   "tags": [
+    "id~Pogona vitticeps"
+   ],
+   "_geo": {
+    "coordinates": [
+     141.327517,
+     -34.140811
+    ]
+   },
+   "_meta": {
+    "date": "2015-08-16",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "lydia",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/lydia/items/ns/2013/53b39859e35eb129840108ca.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2013%2F53b39859e35eb129840108ca.yaml",
+   "title": "Gehyra variegata",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b3986ae35eb12984014a9c.jpg",
+   "date_published": "2013-12-03T19:16:46.000+00:00",
+   "date_modified": "2014-07-02T16:51:37.000+00:00",
+   "tags": [
+    "id~Gehyra variegata"
+   ],
+   "_geo": {
+    "coordinates": [
+     141.326416,
+     -34.140839
+    ]
+   },
+   "_meta": {
+    "date": "2013-09-29",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "lydia",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/lydia/items/ns/2013/53b39858e35eb129840103de.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Fns%2F2013%2F53b39858e35eb129840103de.yaml",
+   "title": "Nephrurus milii",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014275.jpg",
+   "date_published": "2013-08-16T13:32:51.000+00:00",
+   "date_modified": "2014-07-03T01:23:48.000+00:00",
+   "tags": [
+    "id~Nephrurus milii"
+   ],
+   "_geo": {
+    "coordinates": [
+     141.326309,
+     -34.140694
+    ]
+   },
+   "_meta": {
+    "date": "2013-07-01",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "lydia",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flydia%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 3,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

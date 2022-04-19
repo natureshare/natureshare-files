@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     141.145889,
+     -35.652312
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/big_desert_wilderness_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fbig_desert_wilderness_plants%2Faggregate%2Findex.json",
+    "date": "2015-06-24",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/558ad4deed2a89faa0000102.jpg"
+   }
+  }
+ ]
+}

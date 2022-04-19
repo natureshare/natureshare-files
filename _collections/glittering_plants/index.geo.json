@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.667701,
+     -37.439743
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/psoralea/collections/glittering_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpsoralea%2Fcollections%2Fglittering_plants%2Faggregate%2Findex.json",
+    "date": "2018-01-01",
+    "title": "psoralea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a49e4b6ed2a890e9e000054.jpeg"
+   }
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Observations</title>
+  <id>https://files.natureshare.org/laura_prentice/items/index.xml</id>
+  <updated>2016-09-02T13:08:42.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/laura_prentice/items/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/laura_prentice/items/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flaura_prentice%2Fitems%2Findex.json"/>
+  <author>
+    <name>laura_prentice</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flaura_prentice%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 laura_prentice</rights>
+  <entry>
+    <id>https://files.natureshare.org/laura_prentice/items/ns/2016/57b63cd3ed2a89450f000624.yaml</id>
+    <title>Phascolarctos cinereus</title>
+    <updated>2016-09-02T13:08:42.000+00:00</updated>
+    <published>2016-09-01T23:27:56.000+00:00</published>
+    <author>
+      <name>laura_prentice</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Flaura_prentice%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">We found this Koala during our community bird survey!</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Flaura_prentice%2Fitems%2Fns%2F2016%2F57b63cd3ed2a89450f000624.yaml"/>
+    <category term="id~Phascolarctos cinereus"/>
+  </entry>
+</feed>

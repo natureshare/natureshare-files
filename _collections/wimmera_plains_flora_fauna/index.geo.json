@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.587829,
+     -36.460209
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gmgoods/collections/wimmera_plains_flora_fauna/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgmgoods%2Fcollections%2Fwimmera_plains_flora_fauna%2Faggregate%2Findex.json",
+    "date": "2015-09-21",
+    "title": "gmgoods",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55ff8043ed2a890d950001fe.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.587829,
+     -36.460209
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/wallaby55/collections/wimmera_plains_flora_fauna/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fwallaby55%2Fcollections%2Fwimmera_plains_flora_fauna%2Faggregate%2Findex.json",
+    "date": "2015-09-21",
+    "title": "wallaby55",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55ff8043ed2a890d950001fe.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.588,
+     -36.278
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/tsnata/collections/wimmera_plains_flora_fauna/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftsnata%2Fcollections%2Fwimmera_plains_flora_fauna%2Faggregate%2Findex.json",
+    "date": "2015-09-21",
+    "title": "tsnata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55ff8043ed2a890d950001fe.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.168,
+     -36.5
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/gtgoods/collections/wimmera_plains_flora_fauna/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgtgoods%2Fcollections%2Fwimmera_plains_flora_fauna%2Faggregate%2Findex.json",
+    "date": "2015-04-15",
+    "title": "gtgoods",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/552e4ae5ed2a893e78000030.jpg"
+   }
+  }
+ ]
+}

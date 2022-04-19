@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/triplett/collections/woodlands_historic_park_-_diptera/aggregate/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Woodlands historic park - diptera</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftriplett%2Fcollections%2Fwoodlands_historic_park_-_diptera%2Faggregate%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 triplett</copyright>
+    <pubDate>Mon, 25 May 2020 07:41:13 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Diptera spp.</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftriplett%2Fitems%2Fns%2F2018%2F5b77acf4ed2a89a7f1005a7e.yaml</link>
+      <dc:creator>triplett</dc:creator>
+      <description>More bud galls on Black Wattle. I have only seen this sort once. I think they might be caused by Asphondylia glabrigerminis. Species is described in P Kolesik, RJ Adair, G Eick (2010) "Six new species of Asphondylia (Diptera:Cecidomyiidae) damaging flower buds and fruit of Australian Acacia (Mimosaceae", Systematic Entomology 35:250–267.&#xD;
+There are some poorly reproduced photos in Adair, R.J., Burgess, T., Serdani, M. and Barber, P. (2009) Fungal associations in Asphondylia (Diptera: Cecidomyiidae) galls from Australia and South Africa: implications for biological control of invasive acacias. Fungal Ecology, 2 (3). pp. 121-134. </description>
+      <category>id~Diptera spp.</category>
+      <category>tag~gall</category>
+      <guid isPermaLink="false">https://files.natureshare.org/triplett/items/ns/2018/5b77acf4ed2a89a7f1005a7e.yaml</guid>
+      <pubDate>Sat, 18 Aug 2018 05:28:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lauxaniidae spp.</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Ftriplett%2Fitems%2Fns%2F2018%2F5a810444ed2a89def7002090.yaml</link>
+      <dc:creator>triplett</dc:creator>
+      <description>-</description>
+      <category>id~Lauxaniidae spp.</category>
+      <guid isPermaLink="false">https://files.natureshare.org/triplett/items/ns/2018/5a810444ed2a89def7002090.yaml</guid>
+      <pubDate>Mon, 12 Feb 2018 03:06:16 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

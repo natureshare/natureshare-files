@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.86363,
+     -37.64818
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/andrew_allen/collections/woodlands_historic_park_-_diptera/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fandrew_allen%2Fcollections%2Fwoodlands_historic_park_-_diptera%2Faggregate%2Findex.json",
+    "date": "2019-01-27",
+    "title": "andrew_allen",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_583ba1bbed2a897480005b25/2019-01-28/1548630362/robber-fly-2019-01-09-woodlands-1.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.86,
+     -37.642
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/triplett/collections/woodlands_historic_park_-_diptera/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftriplett%2Fcollections%2Fwoodlands_historic_park_-_diptera%2Faggregate%2Findex.json",
+    "date": "2018-08-18",
+    "title": "triplett",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5b77acf5ed2a8928070000a0.jpg"
+   }
+  }
+ ]
+}

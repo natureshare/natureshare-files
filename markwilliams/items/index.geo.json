@@ -1,0 +1,803 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.179315,
+     -37.490166
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2018/5c1865642a53d77f690000f5.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2018%2F5c1865642a53d77f690000f5.yaml",
+    "date": "2018-12-17",
+    "title": "Dipodium roseum s.l.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_53b39819e35eb129840000b1/2018-12-18/1545102608/IMG_5116.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.203495,
+     -37.513256
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/5a3c3473ed2a89e23c000e01.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F5a3c3473ed2a89e23c000e01.yaml",
+    "date": "2017-12-20",
+    "title": "Eucalyptus cypellocarpa",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a3c3488ed2a893fb7000057.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.150975,
+     -37.479183
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/5a330270ed2a896262001758.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F5a330270ed2a896262001758.yaml",
+    "date": "2017-12-14",
+    "title": "Alisterus scapularis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a330286ed2a890e9e00001b.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.187488,
+     -37.488351
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/5a32fa22ed2a896e760001d3.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F5a32fa22ed2a896e760001d3.yaml",
+    "date": "2017-12-14",
+    "title": "Callocephalon fimbriatum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a330167ed2a890e9e00001a.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.226404,
+     -37.500577
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/5a27602ced2a89e67a00049d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F5a27602ced2a89e67a00049d.yaml",
+    "date": "2017-12-05",
+    "title": "Xanthorrhoea minor subsp. lutea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5a276056ed2a893984000823.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.681339,
+     -37.706487
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/59bef3e4ed2a8957de0008e3.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F59bef3e4ed2a8957de0008e3.yaml",
+    "date": "2017-09-16",
+    "title": "Acacia obliquinervia",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59bef3ebed2a893984000260.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.212567,
+     -37.582233
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/5949c5b5ed2a89f578000ae0.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F5949c5b5ed2a89f578000ae0.yaml",
+    "date": "2017-06-14",
+    "title": "Eucalyptus yarraensis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5949c57aed2a893984000079.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.156387,
+     -37.514798
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/59090658ed2a893d8c0018f2.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F59090658ed2a893d8c0018f2.yaml",
+    "date": "2017-05-02",
+    "title": "Omphalotus nidiformis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/59090663ed2a89e548000120.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.484443,
+     -37.977272
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/58f9851bed2a89f3bf0008be.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F58f9851bed2a89f3bf0008be.yaml",
+    "date": "2017-04-15",
+    "title": "Solanum prinophyllum",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58f98524ed2a891d6d000106.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.090772,
+     -37.669981
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/58e41c1fed2a894865000779.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F58e41c1fed2a894865000779.yaml",
+    "date": "2017-04-04",
+    "title": "Eucalyptus leucoxylon subsp. connata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e41c26ed2a89a81f0000b1.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.090897,
+     -37.669914
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/58e41a49ed2a89486500076b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F58e41a49ed2a89486500076b.yaml",
+    "date": "2017-04-04",
+    "title": "Eucalyptus leucoxylon subsp. pruinosa"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.098553,
+     -37.669053
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/58e419b6ed2a894865000767.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F58e419b6ed2a894865000767.yaml",
+    "date": "2017-04-04",
+    "title": "Eucalyptus leucoxylon subsp. connata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58e419d4ed2a891d6d0000ba.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.483928,
+     -37.976663
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/58c0bfdbed2a893890003670.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F58c0bfdbed2a893890003670.yaml",
+    "date": "2016-06-12",
+    "title": "Heterotextus peziziformis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c0bfe6ed2a89e548000045.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.483756,
+     -37.977069
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/58c0bfdbed2a893890003672.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F58c0bfdbed2a893890003672.yaml",
+    "date": "2016-06-12",
+    "title": "Cortinarius sinapicolor",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c0bfe6ed2a89441000004c.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.483585,
+     -37.977137
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/58c0bfdbed2a890694000008.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F58c0bfdbed2a890694000008.yaml",
+    "date": "2016-06-12",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c0bfe8ed2a89a81f00003d.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.48367,
+     -37.977002
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/58c0bfdbed2a89069400000a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F58c0bfdbed2a89069400000a.yaml",
+    "date": "2016-06-12",
+    "title": "Ramaria spp.",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c0bfefed2a891d6d000042.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.483971,
+     -37.977306
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/58c0bdc7ed2a890694000001.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F58c0bdc7ed2a890694000001.yaml",
+    "date": "2016-06-12",
+    "title": "Macrolepiota procera",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c0bdd2ed2a89e548000044.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.483756,
+     -37.977306
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/58c0bdc7ed2a893890003641.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F58c0bdc7ed2a893890003641.yaml",
+    "date": "2016-06-12",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c0bdd0ed2a891d6d000040.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.483499,
+     -37.977069
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/58c0bdc7ed2a893890003645.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F58c0bdc7ed2a893890003645.yaml",
+    "date": "2016-06-12",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c0bdd2ed2a89a81f00003b.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.484443,
+     -37.975581
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/58c0bdc7ed2a893890003649.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F58c0bdc7ed2a893890003649.yaml",
+    "date": "2016-06-12",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c0bddbed2a891d6d000041.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.484786,
+     -37.97504
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/58c0bdc7ed2a893890003643.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F58c0bdc7ed2a893890003643.yaml",
+    "date": "2016-06-12",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c0bdcfed2a89441000004a.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.484786,
+     -37.975851
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/58c0bdc7ed2a893890003647.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F58c0bdc7ed2a893890003647.yaml",
+    "date": "2016-06-12",
+    "title": "Stereum ostrea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c0bde9ed2a89441000004b.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.484443,
+     -37.974769
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/58c0bdc7ed2a890694000003.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F58c0bdc7ed2a890694000003.yaml",
+    "date": "2016-06-12",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c0bdd9ed2a89a81f00003c.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.484443,
+     -37.976934
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/58c0bd5eed2a89389000363a.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F58c0bd5eed2a89389000363a.yaml",
+    "date": "2016-06-12",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58c0bd69ed2a89a81f00003a.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.484443,
+     -37.976122
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/58bf37f2ed2a890f80000001.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F58bf37f2ed2a890f80000001.yaml",
+    "date": "2016-06-12",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58bf380ded2a89a81f000031.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.484443,
+     -37.977069
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/58bf37f2ed2a890f80000003.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F58bf37f2ed2a890f80000003.yaml",
+    "date": "2016-06-12",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58bf381ced2a891d6d000038.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.483928,
+     -37.976934
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2017/58bf3654ed2a8938900031df.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2017%2F58bf3654ed2a8938900031df.yaml",
+    "date": "2016-06-12",
+    "title": "Unidentified",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/58bf3661ed2a89e548000038.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.055083,
+     -37.595719
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2016/584e150aed2a8974800085b0.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2016%2F584e150aed2a8974800085b0.yaml",
+    "date": "2016-12-12",
+    "title": "Synemon plana",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/584e153aed2a89b3fe00024d.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.073383,
+     -37.613219
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2015/55aed736ed2a89158b000944.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2015%2F55aed736ed2a89158b000944.yaml",
+    "date": "2015-06-30",
+    "title": "Petroica phoenicea",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55aed736ed2a89158b000942.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.071948,
+     -37.612722
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2015/55aed672ed2a89158b00093d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2015%2F55aed672ed2a89158b00093d.yaml",
+    "date": "2015-06-30",
+    "title": "Melanodryas cucullata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55aed672ed2a89158b00093b.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.096922,
+     -37.500754
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2015/55a88e12ed2a89158b0005b5.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2015%2F55a88e12ed2a89158b0005b5.yaml",
+    "date": "2015-07-17",
+    "title": "Cacatua tenuirostris",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55a88e12ed2a89158b0005b3.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.064891,
+     -37.506261
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2015/55a88d1fed2a89158b0005b1.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2015%2F55a88d1fed2a89158b0005b1.yaml",
+    "date": "2015-07-17",
+    "title": "Vulpes vulpes",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/55a88d1fed2a89158b0005af.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.221382,
+     -37.489509
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2014/5420a844e35eb158b10000d7.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2014%2F5420a844e35eb158b10000d7.yaml",
+    "date": "2014-09-10",
+    "title": "Acacia verticillata subsp. verticillata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5420a844e35eb158b10000d4.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.098981,
+     -37.469247
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2014/541fc265e35eb12d36000015.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2014%2F541fc265e35eb12d36000015.yaml",
+    "date": "2014-09-19",
+    "title": "Eucalyptus rubida",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/541fc265e35eb12d36000013.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.035425,
+     -37.498791
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2014/541fbfc8e35eb158b10000ab.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2014%2F541fbfc8e35eb158b10000ab.yaml",
+    "date": "2013-06-03",
+    "title": "Eucalyptus pauciflora subsp. pauciflora",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/541fbfc7e35eb158b10000a6.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.04714,
+     -37.467835
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2014/541b5704e35eb1df01000010.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2014%2F541b5704e35eb1df01000010.yaml",
+    "date": "2014-09-17",
+    "title": "Eucalyptus melliodora",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/541fc3aae35eb12d3600001a.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.044961,
+     -37.467536
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2014/541b5633e35eb1df01000008.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2014%2F541b5633e35eb1df01000008.yaml",
+    "date": "2014-09-17",
+    "title": "Acacia paradoxa",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/541b5632e35eb1df01000005.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.219119,
+     -37.517236
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2014/541a1238e35eb1bbf90000c9.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2014%2F541a1238e35eb1bbf90000c9.yaml",
+    "date": "2014-09-15",
+    "title": "Acacia verticillata subsp. verticillata",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/541a1238e35eb1bbf90000c6.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.046344,
+     -37.467025
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2014/541a110ce35eb109b700007b.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2014%2F541a110ce35eb109b700007b.yaml",
+    "date": "2014-09-17",
+    "title": "Acacia paradoxa, Eucalyptus melliodora",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/541a110ce35eb109b7000078.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.224907,
+     -37.507089
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2014/5410eb83e35eb10c61000003.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2014%2F5410eb83e35eb10c61000003.yaml",
+    "date": "2014-09-10",
+    "title": "Platycercus elegans elegans",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5410eb83e35eb10c61000001.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.190252,
+     -37.518195
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2014/5410eab2e35eb12a350002eb.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2014%2F5410eab2e35eb12a350002eb.yaml",
+    "date": "2014-09-10",
+    "title": "Acacia melanoxylon",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5410eab2e35eb12a350002e9.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.226844,
+     -37.501203
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2014/5410ea2ee35eb144350000d8.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2014%2F5410ea2ee35eb144350000d8.yaml",
+    "date": "2014-09-10",
+    "title": "Acacia mucronata subsp. longifolia",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5410ea2ee35eb144350000d5.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.230204,
+     -37.480292
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2014/5410e9ace35eb144350000d1.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2014%2F5410e9ace35eb144350000d1.yaml",
+    "date": "2014-09-11",
+    "title": "Acacia obliquinervia",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5410e9abe35eb144350000cc.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.061889,
+     -37.470692
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2014/54050ea2e35eb1831b000017.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2014%2F54050ea2e35eb1831b000017.yaml",
+    "date": "2012-09-11",
+    "title": "Acacia lanigera var. whanii",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54050ea2e35eb1831b000014.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.061889,
+     -37.470692
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2014/54050df0e35eb1831b000012.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2014%2F54050df0e35eb1831b000012.yaml",
+    "date": "2014-09-02",
+    "title": "Acacia aculeatissima",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54050defe35eb1831b00000f.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.088024,
+     -37.525476
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2014/53f2b019e35eb1b4b0000007.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2014%2F53f2b019e35eb1b4b0000007.yaml",
+    "date": "2014-08-18",
+    "title": "Falco cenchroides",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53f2b018e35eb1b4b0000005.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     145.1124,
+     -37.447153
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/markwilliams/items/ns/2013/53b39858e35eb129840103f0.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fmarkwilliams%2Fitems%2Fns%2F2013%2F53b39858e35eb129840103f0.yaml",
+    "date": "2013-08-16",
+    "title": "Acacia gunnii",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb1298401428e.jpg"
+   }
+  }
+ ]
+}

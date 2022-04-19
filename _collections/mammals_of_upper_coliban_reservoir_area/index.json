@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Mammals Of Upper Coliban Reservoir Area",
+ "description": "All users for [mammals_of_upper_coliban_reservoir_area]",
+ "author": {
+  "name": "All Collections",
+  "url": "https://natureshare.org/collections"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F_collections%2Fmammals_of_upper_coliban_reservoir_area%2Findex.json",
+ "feed_url": "https://files.natureshare.org/_collections/mammals_of_upper_coliban_reservoir_area/index.json",
+ "items": [
+  {
+   "title": "therebel2015",
+   "content_text": "8 items",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/56e2b4e7ed2a89211c00011b.JPG",
+   "date_published": "2016-03-11T12:18:03.000+00:00",
+   "date_modified": "2016-03-11T12:18:03.000+00:00",
+   "_geo": {
+    "coordinates": [
+     144.406,
+     -37.278
+    ]
+   },
+   "_meta": {
+    "itemCount": 8,
+    "date": "2016-03-11",
+    "name": "mammals_of_upper_coliban_reservoir_area",
+    "idCount": 0,
+    "tagCount": 0
+   },
+   "id": "https://files.natureshare.org/therebel2015/collections/mammals_of_upper_coliban_reservoir_area/aggregate/index.json",
+   "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ftherebel2015%2Fcollections%2Fmammals_of_upper_coliban_reservoir_area%2Faggregate%2Findex.json"
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

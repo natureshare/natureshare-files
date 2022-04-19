@@ -1,0 +1,56 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.755344,
+     -37.681924
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_135/items/ns/2012/53b39855e35eb1298400f8fd.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_135%2Fitems%2Fns%2F2012%2F53b39855e35eb1298400f8fd.yaml",
+    "date": "2003-10-25",
+    "title": "Ptilotus spathulatus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb12984013182.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.7544,
+     -37.682098
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_135/items/ns/2012/53b39855e35eb1298400f8fc.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_135%2Fitems%2Fns%2F2012%2F53b39855e35eb1298400f8fc.yaml",
+    "date": "2003-10-25",
+    "title": "Goodenia pinnatifida",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb12984013180.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.754572,
+     -37.682087
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/openid_135/items/ns/2012/53b39855e35eb1298400f8fb.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_135%2Fitems%2Fns%2F2012%2F53b39855e35eb1298400f8fb.yaml",
+    "date": "2006-06-23",
+    "title": "Pimelea spinescens subsp. spinescens",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39864e35eb1298401317f.jpg"
+   }
+  }
+ ]
+}

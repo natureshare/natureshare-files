@@ -1,0 +1,73 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.594839,
+     -37.398432
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/david_francis/collections/macedon_regional_park_environs_native_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Fmacedon_regional_park_environs_native_plants%2Faggregate%2Findex.json",
+    "date": "2018-04-23",
+    "title": "david_francis",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/5addb858ed2a897fc8000091.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.58,
+     -37.411
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/chris_steff/collections/macedon_regional_park_environs_native_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fchris_steff%2Fcollections%2Fmacedon_regional_park_environs_native_plants%2Faggregate%2Findex.json",
+    "date": "2017-05-28",
+    "title": "chris_steff",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/592a9c90ed2a89441000014e.JPG"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.614,
+     -37.376
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/macedon_regional_park_environs_native_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmacedon_regional_park_environs_native_plants%2Faggregate%2Findex.json",
+    "date": "2012-12-19",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39865e35eb12984013762.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.576,
+     -37.386
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/cclarke/collections/macedon_regional_park_environs_native_plants/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fcclarke%2Fcollections%2Fmacedon_regional_park_environs_native_plants%2Faggregate%2Findex.json",
+    "date": "2011-11-14",
+    "title": "cclarke",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39860e35eb129840124b2.jpg"
+   }
+  }
+ ]
+}

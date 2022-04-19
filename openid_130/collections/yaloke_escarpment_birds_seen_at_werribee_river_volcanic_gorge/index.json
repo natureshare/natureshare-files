@@ -1,0 +1,108 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Yaloke Escarpment Birds Seen At Werribee River Volcanic Gorge",
+ "description": "",
+ "author": {
+  "name": "openid_130",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fcollections%2Fyaloke_escarpment_birds_seen_at_werribee_river_volcanic_gorge%2Findex.json",
+ "feed_url": "https://files.natureshare.org/openid_130/collections/yaloke_escarpment_birds_seen_at_werribee_river_volcanic_gorge/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/openid_130/items/ns/2012/53b39854e35eb1298400f688.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Fns%2F2012%2F53b39854e35eb1298400f688.yaml",
+   "title": "21 ids",
+   "content_text": "Birds seen at Werribee River Volcanic Gorge - Yaloke Escarpment Sunday 5th June 2011\r\nObserver: Iian Denham (BOCA & PLEG)\r\n",
+   "date_published": "2012-07-11T22:35:54.000+00:00",
+   "date_modified": "2014-08-13T10:57:30.000+00:00",
+   "tags": [
+    "id~Accipiter fasciatus",
+    "id~Anhinga novaehollandiae",
+    "id~Cacatua tenuirostris",
+    "id~Cacomantis flabelliformis",
+    "id~Carduelis carduelis",
+    "id~Corvus mellori",
+    "id~Egretta novaehollandiae",
+    "id~Elanus axillaris",
+    "id~Falco berigora",
+    "id~Falco peregrinus",
+    "id~Grallina cyanoleuca",
+    "id~Gymnorhina tibicen",
+    "id~Haliastur sphenurus",
+    "id~Hirundo neoxena",
+    "id~Hirundo nigricans",
+    "id~Lichenostomus penicillatus",
+    "id~Malurus cyaneus",
+    "id~Neochmia temporalis",
+    "id~Phylidonyris novaehollandiae",
+    "id~Rhipidura leucophrys",
+    "id~Sturnus vulgaris"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.576902,
+     -37.753344
+    ]
+   },
+   "_meta": {
+    "date": "2014-06-04"
+   },
+   "author": {
+    "name": "openid_130",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Findex.json"
+   }
+  },
+  {
+   "id": "https://files.natureshare.org/openid_130/items/ns/2015/yaloke_escarpment_birds_seen_at_werribee_river_volcanic_gorge_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Fns%2F2015%2Fyaloke_escarpment_birds_seen_at_werribee_river_volcanic_gorge_species_list.yaml",
+   "title": "21 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2012-07-11T22:18:20.000+00:00",
+   "date_modified": "2015-04-07T08:47:37.000+00:00",
+   "tags": [
+    "id~Accipiter fasciatus",
+    "id~Anhinga novaehollandiae",
+    "id~Cacatua tenuirostris",
+    "id~Cacomantis flabelliformis",
+    "id~Carduelis carduelis",
+    "id~Corvus mellori",
+    "id~Egretta novaehollandiae",
+    "id~Elanus axillaris",
+    "id~Falco berigora",
+    "id~Falco peregrinus",
+    "id~Grallina cyanoleuca",
+    "id~Gymnorhina tibicen",
+    "id~Haliastur sphenurus",
+    "id~Hirundo neoxena",
+    "id~Hirundo nigricans",
+    "id~Lichenostomus penicillatus",
+    "id~Malurus cyaneus",
+    "id~Neochmia temporalis",
+    "id~Phylidonyris novaehollandiae",
+    "id~Rhipidura leucophrys",
+    "id~Sturnus vulgaris",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.592609,
+     -37.763726
+    ]
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "openid_130",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fopenid_130%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 2,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

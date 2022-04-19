@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.619629,
+     -37.420628
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2015/54e2e725ed2a89ef270002e4.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2F54e2e725ed2a89ef270002e4.yaml",
+    "date": "2015-02-17",
+    "title": "Ozothamnus ferrugineus",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e2e724ed2a89ef270002e3.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.620117,
+     -37.42107
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/items/ns/2015/54e2e0dfed2a89d990000370.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2F54e2e0dfed2a89d990000370.yaml",
+    "date": "2015-02-17",
+    "title": "Galenia pubescens var. pubescens",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54e2e0deed2a89d99000036e.jpg"
+   }
+  }
+ ]
+}

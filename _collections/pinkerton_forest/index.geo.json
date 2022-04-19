@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.596,
+     -37.767
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/francesovermars/collections/pinkerton_forest/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Ffrancesovermars%2Fcollections%2Fpinkerton_forest%2Faggregate%2Findex.json",
+    "date": "2013-08-23",
+    "title": "francesovermars",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb12984014299.jpg"
+   }
+  }
+ ]
+}

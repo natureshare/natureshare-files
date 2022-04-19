@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     142.924986,
+     -38.607647
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/pauline/items/ns/2016/5710995aed2a89671d00003d.yaml",
+    "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpauline%2Fitems%2Fns%2F2016%2F5710995aed2a89671d00003d.yaml",
+    "date": "2016-04-14",
+    "title": "Rattus fuscipes",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57109967ed2a89211c0001c7.JPG"
+   }
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://files.natureshare.org/patrickkavanagh/items/index.rss.xml" rel="self" type="application/rss+xml"/>
+    <title>Observations</title>
+    <link>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fpatrickkavanagh%2Fitems%2Findex.json</link>
+    <language>en-us</language>
+    <copyright>© 2022 patrickkavanagh</copyright>
+    <pubDate>Mon, 03 Dec 2018 00:19:02 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.3 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <item>
+      <title>Camponotus spp.</title>
+      <link>https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fpatrickkavanagh%2Fitems%2Fns%2F2018%2F5c03b6dea96633e3bb000138.yaml</link>
+      <dc:creator>patrickkavanagh</dc:creator>
+      <description>I often see these ants at night, sucking on nectar from the glands at the base of Golden Wattle leaves</description>
+      <category>id~Camponotus spp.</category>
+      <category>tag~ants</category>
+      <guid isPermaLink="false">https://files.natureshare.org/patrickkavanagh/items/ns/2018/5c03b6dea96633e3bb000138.yaml</guid>
+      <pubDate>Sun, 02 Dec 2018 10:41:34 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

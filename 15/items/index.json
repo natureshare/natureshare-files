@@ -1,0 +1,41 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Observations",
+ "description": "",
+ "author": {
+  "name": "15",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F15%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2F15%2Fitems%2Findex.json",
+ "feed_url": "https://files.natureshare.org/15/items/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/15/items/ns/2019/5ca9df643abbd6c61d00016e.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2F15%2Fitems%2Fns%2F2019%2F5ca9df643abbd6c61d00016e.yaml",
+   "title": "Papilio anactus",
+   "content_text": "Newly hatched. Wings still drying. ",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/user_5ca9de6a3abbd6a33e0000c6/2019-04-07/1554636419/F4CC4E58-508C-4CE9-AECE-8D27D4F95B91.jpeg",
+   "date_published": "2019-04-07T11:30:44.000+00:00",
+   "date_modified": "2019-05-14T06:38:50.000+00:00",
+   "tags": [
+    "id~Papilio anactus"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.691894,
+     -37.458354
+    ]
+   },
+   "_meta": {
+    "date": "2019-03-31",
+    "imageCount": 1
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

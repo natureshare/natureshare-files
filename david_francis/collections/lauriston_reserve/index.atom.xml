@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lauriston Reserve</title>
+  <id>https://files.natureshare.org/david_francis/collections/lauriston_reserve/index.xml</id>
+  <updated>2014-07-15T05:50:40.000+00:00</updated>
+  <link rel="self" type="application/atom+xml" href="https://files.natureshare.org/david_francis/collections/lauriston_reserve/index.xml"/>
+  <link rel="alternate" type="application/json" href="https://files.natureshare.org/david_francis/collections/lauriston_reserve/index.json"/>
+  <link rel="alternate" type="text/html" href="https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fcollections%2Flauriston_reserve%2Findex.json"/>
+  <author>
+    <name>david_francis</name>
+    <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json</uri>
+  </author>
+  <generator uri="https://github.com/bcomnes/jsonfeed-to-atom#readme" version="1.1.3">jsonfeed-to-atom</generator>
+  <rights>© 2022 david_francis</rights>
+  <entry>
+    <id>https://files.natureshare.org/david_francis/items/ns/2014/53c4c102e35eb1387b00000f.yaml</id>
+    <title>Pultenaea humilis</title>
+    <updated>2014-07-15T05:50:40.000+00:00</updated>
+    <published>2014-07-15T05:49:54.000+00:00</published>
+    <author>
+      <name>david_francis</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2014%2F53c4c102e35eb1387b00000f.yaml"/>
+    <category term="id~Pultenaea humilis"/>
+    <category term="tag~flower"/>
+    <category term="tag~leaf"/>
+  </entry>
+  <entry>
+    <id>https://files.natureshare.org/david_francis/items/ns/2011/53b39850e35eb1298400e62a.yaml</id>
+    <title>Caladenia transitoria</title>
+    <updated>2011-04-14T22:17:21.000+00:00</updated>
+    <published>2011-04-14T22:16:30.000+00:00</published>
+    <author>
+      <name>david_francis</name>
+      <uri>https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Findex.json</uri>
+    </author>
+    <content type="text">-</content>
+    <link rel="alternate" href="https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fdavid_francis%2Fitems%2Fns%2F2011%2F53b39850e35eb1298400e62a.yaml"/>
+    <category term="id~Caladenia transitoria"/>
+  </entry>
+</feed>

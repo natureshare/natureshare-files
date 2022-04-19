@@ -1,0 +1,46 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Inverleigh Nature Conservation Reserve",
+ "description": "",
+ "author": {
+  "name": "banksiaman",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fcollections%2Finverleigh_nature_conservation_reserve%2Findex.json",
+ "feed_url": "https://files.natureshare.org/banksiaman/collections/inverleigh_nature_conservation_reserve/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/banksiaman/items/ns/2016/57b99361ed2a89450f000882.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Fns%2F2016%2F57b99361ed2a89450f000882.yaml",
+   "title": "Pterostylis nana",
+   "content_text": "-",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/57b99368ed2a89b718000007.JPG",
+   "date_published": "2016-08-21T11:42:43.000+00:00",
+   "date_modified": "2016-08-23T11:28:04.000+00:00",
+   "tags": [
+    "id~Pterostylis nana",
+    "tag~orchid"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.03983,
+     -38.057385
+    ]
+   },
+   "_meta": {
+    "date": "2016-08-21",
+    "imageCount": 1
+   },
+   "author": {
+    "name": "banksiaman",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fbanksiaman%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

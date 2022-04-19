@@ -1,0 +1,77 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Mt Franklin Plants",
+ "description": "",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fmt_franklin_plants%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/mt_franklin_plants/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2015/mt_franklin_plants_species_list.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2015%2Fmt_franklin_plants_species_list.yaml",
+   "title": "34 ids",
+   "content_text": "Species list for collection.",
+   "date_published": "2011-03-08T21:47:38.000+00:00",
+   "date_modified": "2015-04-07T08:47:35.000+00:00",
+   "tags": [
+    "id~Acacia dealbata",
+    "id~Acacia decurrens",
+    "id~Acaena novae-zelandiae",
+    "id~Agrostis capillaris var. capillaris",
+    "id~Austrodanthonia fulva",
+    "id~Austrodanthonia racemosa var. racemosa",
+    "id~Briza maxima",
+    "id~Cassinia arcuata",
+    "id~Chamaecytisus palmensis",
+    "id~Cirsium vulgare",
+    "id~Dactylis glomerata",
+    "id~Dianella admixta",
+    "id~Dittrichia graveolens",
+    "id~Exocarpos cupressiformis",
+    "id~Geranium solanderi s.l.",
+    "id~Hydrocotyle laxiflora",
+    "id~Hypochoeris radicata",
+    "id~Juncus amabilis",
+    "id~Kennedia prostrata",
+    "id~Lactuca serriola",
+    "id~Mentha X piperita",
+    "id~Pelargonium rodneyanum",
+    "id~Poa labillardierei",
+    "id~Prunella vulgaris",
+    "id~Pteridium esculentum",
+    "id~Rubus fruticosus spp. agg.",
+    "id~Senecio phelleus",
+    "id~Soliva sessilis",
+    "id~Sonchus oleraceus",
+    "id~Stellaria pungens",
+    "id~Trifolium arvense var. arvense",
+    "id~Trifolium repens var. repens",
+    "id~Verbascum virgatum",
+    "id~Wahlenbergia communis s.l.",
+    "tag~species-list"
+   ],
+   "_geo": {
+    "coordinates": [
+     144.150496,
+     -37.267086
+    ]
+   },
+   "_meta": {
+    "date": "2015-04-07"
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {}
+}

@@ -1,0 +1,48 @@
+{
+ "version": "https://jsonfeed.org/version/1",
+ "title": "Wattles of whittlesea and surrounds",
+ "description": "",
+ "author": {
+  "name": "russell",
+  "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+ },
+ "home_page_url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fwattles_of_whittlesea_and_surrounds%2Faggregate%2Findex.json",
+ "feed_url": "https://files.natureshare.org/russell/collections/wattles_of_whittlesea_and_surrounds/aggregate/index.json",
+ "items": [
+  {
+   "id": "https://files.natureshare.org/russell/items/ns/2013/53b39858e35eb129840104ad.yaml",
+   "url": "https://natureshare.org/item?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Fns%2F2013%2F53b39858e35eb129840104ad.yaml",
+   "title": "Acacia floribunda",
+   "content_text": "Large, 6m specimen.",
+   "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/53b39868e35eb129840143c3.jpg",
+   "date_published": "2013-09-09T22:06:09.000+00:00",
+   "date_modified": "2014-07-03T00:11:15.000+00:00",
+   "tags": [
+    "id~Acacia floribunda",
+    "tag~flower"
+   ],
+   "_geo": {
+    "coordinates": [
+     145.17868,
+     -37.528343
+    ]
+   },
+   "_meta": {
+    "date": "2013-09-08",
+    "imageCount": 2
+   },
+   "author": {
+    "name": "russell",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fitems%2Findex.json"
+   }
+  }
+ ],
+ "_meta": {
+  "itemCount": 1,
+  "pageNumber": 1,
+  "pageCount": 1
+ },
+ "_display": {
+  "description_html": ""
+ }
+}

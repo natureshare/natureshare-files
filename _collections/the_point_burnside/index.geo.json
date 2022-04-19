@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.759838,
+     -37.739953
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/giorgiod/collections/the_point_burnside/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Fgiorgiod%2Fcollections%2Fthe_point_burnside%2Faggregate%2Findex.json",
+    "date": "2014-11-05",
+    "title": "giorgiod",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/545a9566e35eb12c8f000291.jpg"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     144.759,
+     -37.743
+    ]
+   },
+   "properties": {
+    "id": "https://files.natureshare.org/russell/collections/the_point_burnside/aggregate/index.json",
+    "url": "https://natureshare.org/items?i=https%3A%2F%2Ffiles.natureshare.org%2Frussell%2Fcollections%2Fthe_point_burnside%2Faggregate%2Findex.json",
+    "date": "2014-10-04",
+    "title": "russell",
+    "image": "https://photos.natureshare.org.au/user_generated_content/resized/h=640&w=640/observations/photos/original/54306c53e35eb147cd00005f.jpg"
+   }
+  }
+ ]
+}
