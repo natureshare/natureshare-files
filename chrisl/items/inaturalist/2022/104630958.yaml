@@ -1,0 +1,48 @@
+id:
+  - name: Arthropodium minus
+    by:
+      - chrislindorff
+      - benfish
+    ref:
+      inaturalist: 557457
+datetime: '2020-09-29T12:51:00+10:00'
+latitude: -36.85502
+longitude: 142.482597
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '175363678'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175363678/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175363678/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175363678'
+  - source: iNaturalist
+    id: '175363699'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175363699/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175363699/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175363699'
+  - source: iNaturalist
+    id: '175363726'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175363726/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175363726/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175363726'
+license: CC BY-NC
+created_at: '2022-01-09T20:24:28+11:00'
+updated_at: '2022-01-09T21:19:46+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104630958'

@@ -3,6 +3,7 @@ id:
     common: wattle mat-rush
     by:
       - chrislindorff
+      - arthur_chapman
     ref:
       inaturalist: 353962
 datetime: '2012-09-25T11:14:00+10:00'
@@ -17,8 +18,8 @@ photos:
     id: '91372989'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/91372989/medium.jpeg?1598149815'
-    original_url: 'https://static.inaturalist.org/photos/91372989/original.jpeg?1598149815'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/91372989/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/91372989/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/91372989'
@@ -26,14 +27,14 @@ photos:
     id: '91372715'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/91372715/medium.jpeg?1598149688'
-    original_url: 'https://static.inaturalist.org/photos/91372715/original.jpeg?1598149688'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/91372715/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/91372715/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/91372715'
 license: CC BY-NC
 created_at: '2020-08-23T12:30:22+10:00'
-updated_at: '2020-08-23T12:32:24+10:00'
+updated_at: '2020-09-19T09:18:10+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/57293038'

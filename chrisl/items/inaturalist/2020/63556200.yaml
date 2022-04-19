@@ -1,0 +1,31 @@
+id:
+  - name: Hydrocotyle laxiflora
+    common: Stinking Pennywort
+    by:
+      - chrislindorff
+      - pennywort_man
+    ref:
+      inaturalist: 210152
+datetime: '2020-10-26T19:54:11+11:00'
+latitude: -37.902644
+longitude: 144.213367
+location_name: 'Anakie VIC 3213, Australia'
+accuracy: 4
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '102019498'
+    width: 2048
+    height: 921
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102019498/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102019498/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/102019498'
+license: CC BY-NC
+created_at: '2020-10-26T19:56:05+11:00'
+updated_at: '2020-10-26T22:27:48+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63556200'

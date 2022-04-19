@@ -1,0 +1,49 @@
+id:
+  - name: Levenhookia dubia
+    common: Hairy Stylewort
+    by:
+      - chrislindorff
+      - iancastle
+    ref:
+      inaturalist: 123191
+datetime: '2020-09-28T14:13:00+10:00'
+latitude: -36.854581
+longitude: 142.468369
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '175865033'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175865033/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175865033/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175865033'
+  - source: iNaturalist
+    id: '175865064'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175865064/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175865064/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175865064'
+  - source: iNaturalist
+    id: '175865122'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175865122/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175865122/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175865122'
+license: CC BY-NC
+created_at: '2022-01-14T12:09:34+11:00'
+updated_at: '2022-01-30T13:05:12+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104893440'

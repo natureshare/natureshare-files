@@ -1,0 +1,31 @@
+id:
+  - name: Barnardius zonarius barnardi
+    common: Mallee Ringneck
+    by:
+      - chrislindorff
+      - t-weichselbaum
+    ref:
+      inaturalist: 417713
+datetime: '2014-03-08T12:26:00+11:00'
+latitude: -35.92143
+longitude: 141.861921
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 100
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176976937'
+    width: 2048
+    height: 1357
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176976937/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176976937/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176976937'
+license: CC BY-NC
+created_at: '2022-01-24T12:50:44+11:00'
+updated_at: '2022-01-24T13:28:34+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105473589'

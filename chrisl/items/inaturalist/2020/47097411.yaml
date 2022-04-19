@@ -7,10 +7,10 @@ id:
     ref:
       inaturalist: 526859
 datetime: '2014-09-30T12:39:00+10:00'
-latitude: -33.728516
-longitude: 143.174778
-location_name: 'Mungo NSW 2715, Australia'
-accuracy: 10
+latitude: -33.689784
+longitude: 143.102831
+location_name: 'Balranald, AU-NS, AU'
+accuracy: 28930
 tags:
   - inaturalist
 photos:
@@ -18,8 +18,8 @@ photos:
     id: '74694524'
     width: 2048
     height: 1356
-    thumbnail_url: 'https://static.inaturalist.org/photos/74694524/medium.jpg?1590320461'
-    original_url: 'https://static.inaturalist.org/photos/74694524/original.jpg?1590320461'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74694524/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74694524/original.jpg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/74694524'
@@ -27,8 +27,8 @@ photos:
     id: '74694562'
     width: 2048
     height: 1356
-    thumbnail_url: 'https://static.inaturalist.org/photos/74694562/medium.jpg?1590320483'
-    original_url: 'https://static.inaturalist.org/photos/74694562/original.jpg?1590320483'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74694562/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74694562/original.jpg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/74694562'

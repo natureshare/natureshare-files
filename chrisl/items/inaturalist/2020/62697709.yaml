@@ -1,0 +1,50 @@
+id:
+  - name: Calochilus imberbis
+    common: naked beard-orchid
+    by:
+      - reiner
+      - chrislindorff
+    ref:
+      inaturalist: 1143390
+datetime: '2020-10-16T16:01:12+11:00'
+latitude: -38.265841
+longitude: 144.382024
+location_name: 'Victoria, AU'
+accuracy: 28270
+description: 'A polymeric form of Calochilus robertsonii, having no labellum calli (beard). Name still used by Flora of Victoria for this rare form.'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '100500583'
+    width: 720
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/100500583/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/100500583/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/100500583'
+  - source: iNaturalist
+    id: '100500605'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/100500605/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/100500605/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/100500605'
+  - source: iNaturalist
+    id: '100500613'
+    width: 720
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/100500613/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/100500613/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/100500613'
+license: CC BY-NC
+created_at: '2020-10-16T20:22:08+11:00'
+updated_at: '2020-10-17T11:28:32+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/62697709'

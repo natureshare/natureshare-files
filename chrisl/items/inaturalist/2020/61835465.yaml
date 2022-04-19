@@ -1,0 +1,40 @@
+id:
+  - name: Luzula meridionalis
+    common: Common Wood-rush
+    by:
+      - chrislindorff
+      - chrisclarke25
+    ref:
+      inaturalist: 323425
+datetime: '2020-10-06T13:57:30+11:00'
+latitude: -37.825293
+longitude: 143.752087
+location_name: 'Dereel VIC 3352, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '98997557'
+    width: 1200
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98997557/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98997557/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98997557'
+  - source: iNaturalist
+    id: '98997569'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98997569/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98997569/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98997569'
+license: CC BY-NC
+created_at: '2020-10-06T13:59:11+11:00'
+updated_at: '2020-10-06T22:27:20+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61835465'

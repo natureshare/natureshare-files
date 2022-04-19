@@ -1,0 +1,39 @@
+id:
+  - name: Porifera
+    common: Sponges
+    by:
+      - ben_travaglini
+    ref:
+      inaturalist: 48824
+datetime: '2021-05-17T12:24:00+10:00'
+latitude: -38.453689
+longitude: 145.197727
+location_name: 'Cowes VIC, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '133099174'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133099174/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133099174/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133099174'
+  - source: iNaturalist
+    id: '133321121'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133321121/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133321121/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133321121'
+license: CC BY-NC
+created_at: '2021-06-01T22:20:04+10:00'
+updated_at: '2021-07-16T19:09:22+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/81164191'

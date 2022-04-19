@@ -1,0 +1,31 @@
+id:
+  - name: Passiflora tarminiana
+    common: Banana passionfruit
+    by:
+      - chrislindorff
+      - martinwettges
+    ref:
+      inaturalist: 78358
+datetime: '2021-03-25T17:40:26+11:00'
+latitude: -38.73791
+longitude: 143.669178
+location_name: 'Apollo Bay VIC 3233, Australia'
+accuracy: 13
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '118182116'
+    width: 2048
+    height: 1152
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/118182116/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/118182116/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/118182116'
+license: CC BY-NC
+created_at: '2021-03-31T09:27:49+11:00'
+updated_at: '2021-03-31T20:56:29+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/72482387'

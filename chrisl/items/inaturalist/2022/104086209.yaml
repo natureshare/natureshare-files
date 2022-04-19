@@ -1,0 +1,38 @@
+id:
+  - name: Acacia caroleae
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 775167
+datetime: '2012-09-29T12:20:00+10:00'
+latitude: -32.778259
+longitude: 148.344487
+location_name: 'Baldry NSW 2867, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '174362754'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174362754/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174362754/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174362754'
+  - source: iNaturalist
+    id: '174362768'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174362768/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174362768/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174362768'
+license: CC BY-NC
+created_at: '2022-01-01T17:07:23+11:00'
+updated_at: '2022-01-01T17:07:23+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104086209'

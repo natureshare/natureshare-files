@@ -1,0 +1,39 @@
+id:
+  - name: Leptorhynchos squamatus squamatus
+    by:
+      - chrislindorff
+      - oneanttofew
+    ref:
+      inaturalist: 972679
+datetime: '2020-11-03T16:56:00+11:00'
+latitude: -37.859678
+longitude: 144.232333
+location_name: 'Steiglitz VIC 3331, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '123150353'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/123150353/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/123150353/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/123150353'
+  - source: iNaturalist
+    id: '123150384'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/123150384/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/123150384/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/123150384'
+license: CC BY-NC
+created_at: '2021-04-26T16:38:49+10:00'
+updated_at: '2021-04-26T16:57:12+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/75287666'

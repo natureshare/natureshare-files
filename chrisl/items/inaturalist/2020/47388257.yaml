@@ -3,6 +3,7 @@ id:
     common: Twining Fringe-lily
     by:
       - chrislindorff
+      - ninakerr01
     ref:
       inaturalist: 323937
 datetime: '2020-05-26T11:57:00+10:00'
@@ -17,14 +18,14 @@ photos:
     id: '75156830'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/75156830/medium.jpeg?1590492386'
-    original_url: 'https://static.inaturalist.org/photos/75156830/original.jpeg?1590492386'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75156830/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75156830/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/75156830'
 license: CC BY-NC
 created_at: '2020-05-26T21:51:31+10:00'
-updated_at: '2020-05-26T21:51:31+10:00'
+updated_at: '2021-02-07T11:51:59+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/47388257'

@@ -1,0 +1,31 @@
+id:
+  - name: Geranium
+    common: geraniums and cranesbills
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 47701
+datetime: '2012-09-18T06:56:00+10:00'
+latitude: -36.342576
+longitude: 146.203775
+location_name: 'Wangandary VIC 3678, Australia'
+accuracy: 10
+description: Geranium sp. 2
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '177520655'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177520655/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177520655/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/177520655'
+license: CC BY-NC
+created_at: '2022-01-29T18:05:32+11:00'
+updated_at: '2022-01-29T18:07:35+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105758267'

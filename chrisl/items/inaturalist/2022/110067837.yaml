@@ -1,0 +1,31 @@
+id:
+  - name: Megalorhipida leucodactylus
+    common: Spiderling Plume Moth
+    by:
+      - chrislindorff
+      - dhobern
+    ref:
+      inaturalist: 311374
+datetime: '2013-09-25T19:45:00+10:00'
+latitude: -32.839924
+longitude: 138.038177
+location_name: 'Wilmington SA 5485, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '185618071'
+    width: 1545
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185618071/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185618071/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185618071'
+license: CC BY-NC
+created_at: '2022-04-01T15:48:14+11:00'
+updated_at: '2022-04-01T17:03:08+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/110067837'

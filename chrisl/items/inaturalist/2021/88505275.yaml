@@ -1,0 +1,59 @@
+id:
+  - name: Pittosporum angustifolium
+    common: Native apricot
+    by:
+      - chrislindorff
+      - pennywort_man
+      - nicklambert
+    ref:
+      inaturalist: 349255
+datetime: '2011-11-05T15:24:00+11:00'
+latitude: -34.224218
+longitude: 141.20857
+location_name: 'Neds Corner VIC 3496, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '146037367'
+    width: 2048
+    height: 1362
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/146037367/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/146037367/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/146037367'
+  - source: iNaturalist
+    id: '146037552'
+    width: 2048
+    height: 1362
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/146037552/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/146037552/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/146037552'
+  - source: iNaturalist
+    id: '146037441'
+    width: 2048
+    height: 1362
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/146037441/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/146037441/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/146037441'
+  - source: iNaturalist
+    id: '146037503'
+    width: 2048
+    height: 1362
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/146037503/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/146037503/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/146037503'
+license: CC BY-NC
+created_at: '2021-07-25T17:06:11+10:00'
+updated_at: '2021-08-26T23:07:33+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/88505275'

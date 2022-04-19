@@ -1,8 +1,10 @@
 id:
   - name: Lichenomphalia chromacea
+    common: Yellow Navel
     by:
       - chrislindorff
       - reiner
+      - konan_farrelly
     ref:
       inaturalist: 355906
 datetime: '2020-05-26T11:59:00+10:00'
@@ -17,14 +19,14 @@ photos:
     id: '75157852'
     width: 2048
     height: 1356
-    thumbnail_url: 'https://static.inaturalist.org/photos/75157852/medium.jpeg?1590493092'
-    original_url: 'https://static.inaturalist.org/photos/75157852/original.jpeg?1590493092'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75157852/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75157852/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/75157852'
 license: CC BY-NC
 created_at: '2020-05-26T21:51:36+10:00'
-updated_at: '2020-05-26T21:53:16+10:00'
+updated_at: '2020-09-15T16:52:51+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/47388266'

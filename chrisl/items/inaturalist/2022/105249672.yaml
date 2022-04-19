@@ -1,0 +1,40 @@
+id:
+  - name: Acacia mitchellii
+    common: Mitchell's wattle
+    by:
+      - chrislindorff
+      - iancastle
+    ref:
+      inaturalist: 139846
+datetime: '2015-10-15T09:39:00+11:00'
+latitude: -37.864293
+longitude: 144.232832
+location_name: 'Steiglitz VIC 3331, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176550684'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176550684/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176550684/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176550684'
+  - source: iNaturalist
+    id: '176550745'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176550745/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176550745/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176550745'
+license: CC BY-NC
+created_at: '2022-01-20T16:45:28+11:00'
+updated_at: '2022-01-21T07:50:54+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105249672'

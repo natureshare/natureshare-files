@@ -1,0 +1,39 @@
+id:
+  - name: Centella cordifolia
+    by:
+      - chrislindorff
+      - pennywort_man
+    ref:
+      inaturalist: 353944
+datetime: '2022-03-24T12:22:00+11:00'
+latitude: -37.827508
+longitude: 144.191767
+location_name: 'Brisbane Ranges, Golden Plains - South-East, Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '185135406'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185135406/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185135406/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185135406'
+  - source: iNaturalist
+    id: '185135458'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185135458/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185135458/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185135458'
+license: CC BY-NC
+created_at: '2022-03-29T14:00:02+11:00'
+updated_at: '2022-03-29T22:59:15+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/109807334'

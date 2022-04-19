@@ -1,7 +1,9 @@
 id:
   - name: Pterostylis hamata
+    common: southern hooked rustyhood
     by:
       - chrislindorff
+      - david_l_james
     ref:
       inaturalist: 1121140
 datetime: '2012-09-24T10:25:00+10:00'
@@ -16,8 +18,8 @@ photos:
     id: '90202295'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/90202295/medium.jpeg?1597552618'
-    original_url: 'https://static.inaturalist.org/photos/90202295/original.jpeg?1597552618'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90202295/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90202295/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/90202295'
@@ -25,8 +27,8 @@ photos:
     id: '90202395'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/90202395/medium.jpeg?1597552693'
-    original_url: 'https://static.inaturalist.org/photos/90202395/original.jpeg?1597552693'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90202395/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90202395/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/90202395'
@@ -34,8 +36,8 @@ photos:
     id: '90202477'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/90202477/medium.jpeg?1597552773'
-    original_url: 'https://static.inaturalist.org/photos/90202477/original.jpeg?1597552773'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90202477/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90202477/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/90202477'
@@ -43,14 +45,14 @@ photos:
     id: '90202569'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/90202569/medium.jpeg?1597552855'
-    original_url: 'https://static.inaturalist.org/photos/90202569/original.jpeg?1597552855'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90202569/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90202569/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/90202569'
 license: CC BY-NC
 created_at: '2020-08-16T14:40:59+10:00'
-updated_at: '2020-08-16T14:40:59+10:00'
+updated_at: '2020-11-15T19:18:05+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/56595927'

@@ -3,7 +3,7 @@ id:
     common: Mosquitoes
     by:
       - chrislindorff
-      - stephen169
+      - saltmarshsteve
     ref:
       inaturalist: 52134
 datetime: '2020-06-29T11:43:00+10:00'
@@ -19,8 +19,8 @@ photos:
     id: '82449523'
     width: 2048
     height: 1356
-    thumbnail_url: 'https://static.inaturalist.org/photos/82449523/medium.jpeg?1593846577'
-    original_url: 'https://static.inaturalist.org/photos/82449523/original.jpeg?1593846577'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/82449523/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/82449523/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/82449523'
@@ -28,8 +28,8 @@ photos:
     id: '82449691'
     width: 2048
     height: 1356
-    thumbnail_url: 'https://static.inaturalist.org/photos/82449691/medium.jpeg?1593846742'
-    original_url: 'https://static.inaturalist.org/photos/82449691/original.jpeg?1593846742'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/82449691/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/82449691/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/82449691'

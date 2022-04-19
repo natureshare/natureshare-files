@@ -1,0 +1,57 @@
+id:
+  - name: Rytidosperma geniculatum
+    by:
+      - chrislindorff
+      - abedggood
+    ref:
+      inaturalist: 405779
+datetime: '2022-03-24T11:42:00+11:00'
+latitude: -37.831445
+longitude: 144.197247
+location_name: 'Brisbane Ranges, Golden Plains - South-East, Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '185138685'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138685/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138685/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185138685'
+  - source: iNaturalist
+    id: '185138715'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138715/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138715/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185138715'
+  - source: iNaturalist
+    id: '185138744'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138744/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138744/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185138744'
+  - source: iNaturalist
+    id: '185138793'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138793/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138793/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185138793'
+license: CC BY-NC
+created_at: '2022-03-29T14:00:13+11:00'
+updated_at: '2022-04-08T21:16:44+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/109807367'

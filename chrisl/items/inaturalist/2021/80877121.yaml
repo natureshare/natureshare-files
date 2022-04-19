@@ -1,0 +1,40 @@
+id:
+  - name: Tecticornia arbuscula
+    common: Shrubby Glasswort
+    by:
+      - nomennudum
+      - chrislindorff
+    ref:
+      inaturalist: 465836
+datetime: '2021-05-16T13:37:00+10:00'
+latitude: -38.458519
+longitude: 145.288617
+location_name: 'Rhyll VIC 3923, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '132598457'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132598457/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132598457/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/132598457'
+  - source: iNaturalist
+    id: '132598583'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132598583/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132598583/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/132598583'
+license: CC BY-NC
+created_at: '2021-05-30T23:56:41+10:00'
+updated_at: '2021-06-01T11:47:44+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/80877121'

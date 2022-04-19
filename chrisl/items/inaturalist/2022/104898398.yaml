@@ -1,0 +1,31 @@
+id:
+  - name: Soliva sessilis
+    common: common soliva
+    by:
+      - chrislindorff
+      - michael1922
+    ref:
+      inaturalist: 60150
+datetime: '2016-11-17T09:34:00+11:00'
+latitude: -36.853947
+longitude: 142.469567
+location_name: 'Horsham Bal, Victoria, Australia'
+accuracy: 100
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '175875217'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175875217/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175875217/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175875217'
+license: CC BY-NC
+created_at: '2022-01-14T13:57:01+11:00'
+updated_at: '2022-01-15T21:52:57+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104898398'

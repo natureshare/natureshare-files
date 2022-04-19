@@ -1,0 +1,31 @@
+id:
+  - name: Lomandra multiflora multiflora
+    by:
+      - chrislindorff
+      - reiner
+      - arthur_chapman
+    ref:
+      inaturalist: 863792
+datetime: '2020-10-18T19:00:15+11:00'
+latitude: -37.893812
+longitude: 144.22582
+location_name: 'Anakie VIC 3213, Australia'
+accuracy: 8
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '100813470'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/100813470/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/100813470/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/100813470'
+license: CC BY-NC
+created_at: '2020-10-18T19:01:48+11:00'
+updated_at: '2020-10-19T10:54:50+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/62873784'

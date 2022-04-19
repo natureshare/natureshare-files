@@ -1,0 +1,41 @@
+id:
+  - name: Lagurus ovatus
+    common: Hare's Tail Grass
+    by:
+      - chrislindorff
+      - abedggood
+      - beth393
+    ref:
+      inaturalist: 61068
+datetime: '2020-10-21T13:34:28+11:00'
+latitude: -38.411646
+longitude: 144.191198
+location_name: 'Anglesea VIC 3230, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '101311875'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101311875/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101311875/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101311875'
+  - source: iNaturalist
+    id: '101311883'
+    width: 720
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101311883/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101311883/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101311883'
+license: CC BY-NC
+created_at: '2020-10-21T20:51:19+11:00'
+updated_at: '2020-10-22T07:22:43+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63153969'

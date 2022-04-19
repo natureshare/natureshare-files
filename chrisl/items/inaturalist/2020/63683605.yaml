@@ -1,0 +1,39 @@
+id:
+  - name: Alchemilla arvensis
+    common: Field Parsley Piert
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 866483
+datetime: '2020-10-28T04:30:11+11:00'
+latitude: -37.711697
+longitude: 143.594733
+location_name: 'Happy Valley VIC 3360, Australia'
+accuracy: 12
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '102253201'
+    width: 2048
+    height: 921
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102253201/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102253201/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/102253201'
+  - source: iNaturalist
+    id: '102253205'
+    width: 720
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102253205/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102253205/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/102253205'
+license: CC BY-NC
+created_at: '2020-10-28T16:02:01+11:00'
+updated_at: '2022-03-23T11:57:48+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63683605'

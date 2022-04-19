@@ -1,0 +1,48 @@
+id:
+  - name: Gamochaeta calviceps
+    common: Narrowleaf Purple Everlasting
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 77219
+datetime: '2020-10-17T12:43:03+11:00'
+latitude: -37.902035
+longitude: 144.223598
+location_name: 'Anakie VIC 3213, Australia'
+accuracy: 12
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '100600489'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/100600489/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/100600489/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/100600489'
+  - source: iNaturalist
+    id: '100600575'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/100600575/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/100600575/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/100600575'
+  - source: iNaturalist
+    id: '100603745'
+    width: 2048
+    height: 921
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/100603745/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/100603745/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/100603745'
+license: CC BY-NC
+created_at: '2020-10-17T12:45:37+11:00'
+updated_at: '2020-10-17T20:47:47+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/62754046'

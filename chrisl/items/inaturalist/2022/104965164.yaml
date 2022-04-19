@@ -1,0 +1,40 @@
+id:
+  - name: Chamaescilla corymbosa
+    common: Blue Stars
+    by:
+      - chrislindorff
+      - ninakerr01
+    ref:
+      inaturalist: 194766
+datetime: '2016-10-31T12:02:00+11:00'
+latitude: -36.854108
+longitude: 142.473983
+location_name: 'Horsham Bal, Victoria, Australia'
+accuracy: 500
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176002426'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002426/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002426/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176002426'
+  - source: iNaturalist
+    id: '176002430'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002430/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002430/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176002430'
+license: CC BY-NC
+created_at: '2022-01-15T22:13:13+11:00'
+updated_at: '2022-01-15T23:22:07+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104965164'

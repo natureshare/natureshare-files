@@ -3,6 +3,7 @@ id:
     common: Wallowa
     by:
       - chrislindorff
+      - iancastle
     ref:
       inaturalist: 784380
 datetime: '2020-06-28T10:33:00+10:00'
@@ -17,8 +18,8 @@ photos:
     id: '81768912'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/81768912/medium.jpeg?1593521811'
-    original_url: 'https://static.inaturalist.org/photos/81768912/original.jpeg?1593521811'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/81768912/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/81768912/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/81768912'
@@ -26,14 +27,14 @@ photos:
     id: '81769100'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/81769100/medium.jpeg?1593521898'
-    original_url: 'https://static.inaturalist.org/photos/81769100/original.jpeg?1593521898'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/81769100/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/81769100/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/81769100'
 license: CC BY-NC
 created_at: '2020-06-30T23:18:09+10:00'
-updated_at: '2020-06-30T23:18:09+10:00'
+updated_at: '2022-01-13T07:16:44+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/51465646'

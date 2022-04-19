@@ -1,0 +1,40 @@
+id:
+  - name: Belenois java teutonia
+    by:
+      - chrislindorff
+      - jameskdouch
+      - louisb
+    ref:
+      inaturalist: 201917
+datetime: '2016-10-31T12:15:00+11:00'
+latitude: -36.854108
+longitude: 142.473983
+location_name: 'Horsham Bal, Victoria, Australia'
+accuracy: 500
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176002361'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002361/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002361/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176002361'
+  - source: iNaturalist
+    id: '176002363'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002363/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002363/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176002363'
+license: CC BY-NC
+created_at: '2022-01-15T22:13:09+11:00'
+updated_at: '2022-01-25T19:20:58+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104965155'

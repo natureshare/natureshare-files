@@ -1,0 +1,40 @@
+id:
+  - name: Genista monspessulana
+    common: French broom
+    by:
+      - chrislindorff
+      - reiner
+    ref:
+      inaturalist: 53403
+datetime: '2020-09-25T15:34:00+10:00'
+latitude: -37.812143
+longitude: 143.885739
+location_name: 'Golden Plains - South-East, Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '98687573'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98687573/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98687573/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98687573'
+  - source: iNaturalist
+    id: '98687671'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98687671/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98687671/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98687671'
+license: CC BY-NC
+created_at: '2020-10-04T22:32:27+11:00'
+updated_at: '2020-10-04T22:35:21+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61658685'

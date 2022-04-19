@@ -3,6 +3,7 @@ id:
     common: Headache Vine
     by:
       - chrislindorff
+      - chrisclarke25
     ref:
       inaturalist: 353824
 datetime: '2012-09-24T13:13:00+10:00'
@@ -17,8 +18,8 @@ photos:
     id: '90590560'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/90590560/medium.jpeg?1597748562'
-    original_url: 'https://static.inaturalist.org/photos/90590560/original.jpeg?1597748562'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90590560/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90590560/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/90590560'
@@ -26,8 +27,8 @@ photos:
     id: '90590676'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/90590676/medium.jpeg?1597748663'
-    original_url: 'https://static.inaturalist.org/photos/90590676/original.jpeg?1597748663'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90590676/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90590676/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/90590676'
@@ -35,8 +36,8 @@ photos:
     id: '90590798'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/90590798/medium.jpeg?1597748743'
-    original_url: 'https://static.inaturalist.org/photos/90590798/original.jpeg?1597748743'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90590798/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90590798/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/90590798'
@@ -44,14 +45,14 @@ photos:
     id: '90590963'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/90590963/medium.jpeg?1597748832'
-    original_url: 'https://static.inaturalist.org/photos/90590963/original.jpeg?1597748832'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90590963/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90590963/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/90590963'
 license: CC BY-NC
 created_at: '2020-08-18T21:08:53+10:00'
-updated_at: '2020-08-18T21:08:53+10:00'
+updated_at: '2021-05-29T01:31:49+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/56828401'

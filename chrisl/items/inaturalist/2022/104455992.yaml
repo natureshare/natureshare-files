@@ -1,0 +1,47 @@
+id:
+  - name: Hakea rugosa
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 502255
+datetime: '2020-09-28T14:29:00+10:00'
+latitude: -36.854581
+longitude: 142.468369
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '175031151'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175031151/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175031151/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175031151'
+  - source: iNaturalist
+    id: '175031131'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175031131/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175031131/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175031131'
+  - source: iNaturalist
+    id: '175031140'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175031140/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175031140/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175031140'
+license: CC BY-NC
+created_at: '2022-01-06T21:34:56+11:00'
+updated_at: '2022-01-06T21:34:56+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104455992'

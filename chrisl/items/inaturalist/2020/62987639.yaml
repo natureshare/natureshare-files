@@ -1,0 +1,49 @@
+id:
+  - name: Alyxia buxifolia
+    common: Sea Box
+    by:
+      - chrislindorff
+      - beth393
+    ref:
+      inaturalist: 353914
+datetime: '2020-10-16T17:00:00+11:00'
+latitude: -38.383805
+longitude: 144.238911
+location_name: 'Bells Beach VIC 3228, Australia'
+accuracy: 15
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '101015612'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101015612/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101015612/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101015612'
+  - source: iNaturalist
+    id: '101015663'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101015663/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101015663/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101015663'
+  - source: iNaturalist
+    id: '101015641'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101015641/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101015641/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101015641'
+license: CC BY-NC
+created_at: '2020-10-19T17:38:00+11:00'
+updated_at: '2020-10-19T17:53:08+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/62987639'

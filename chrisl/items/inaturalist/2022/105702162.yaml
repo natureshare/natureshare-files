@@ -1,0 +1,34 @@
+id:
+  - name: Petroica goodenovii
+    common: Red-capped Robin
+    by:
+      - chrislindorff
+      - george_seagull
+      - pamday4
+      - r2d2robot
+      - deborod
+    ref:
+      inaturalist: 14169
+datetime: '2012-09-17T12:47:00+10:00'
+latitude: -36.284774
+longitude: 146.148857
+location_name: 'Boweya VIC 3675, Australia'
+accuracy: 200
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '177412083'
+    width: 730
+    height: 484
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177412083/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177412083/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/177412083'
+license: CC BY-NC
+created_at: '2022-01-28T16:50:49+11:00'
+updated_at: '2022-02-27T23:17:27+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105702162'

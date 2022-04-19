@@ -1,0 +1,31 @@
+id:
+  - name: Argentipallium obtusifolium
+    common: Blunt everlasting
+    by:
+      - chrislindorff
+      - ninakerr01
+    ref:
+      inaturalist: 353953
+datetime: '2015-10-15T09:27:00+11:00'
+latitude: -37.862007
+longitude: 144.232588
+location_name: 'Staughton Vale VIC 3340, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176550804'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176550804/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176550804/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176550804'
+license: CC BY-NC
+created_at: '2022-01-20T16:45:28+11:00'
+updated_at: '2022-01-24T21:47:26+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105249673'

@@ -1,0 +1,40 @@
+id:
+  - name: Triodia scariosa
+    common: Porcupine Grass
+    by:
+      - chrislindorff
+      - indrabone
+    ref:
+      inaturalist: 733330
+datetime: '2020-09-28T13:02:49+10:00'
+latitude: -36.854042
+longitude: 142.469826
+location_name: 'Horsham Bal, AU-VI, AU'
+accuracy: 7
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97680341'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97680341/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97680341/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/97680341'
+  - source: iNaturalist
+    id: '97680486'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97680486/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97680486/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/97680486'
+license: CC BY-NC
+created_at: '2020-09-28T13:05:39+10:00'
+updated_at: '2020-09-28T13:19:18+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61063627'

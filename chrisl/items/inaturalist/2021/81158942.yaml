@@ -1,0 +1,39 @@
+id:
+  - name: Pimelea serpyllifolia serpyllifolia
+    by:
+      - chrislindorff
+      - beth393
+    ref:
+      inaturalist: 1038973
+datetime: '2021-05-17T12:30:00+10:00'
+latitude: -38.453338
+longitude: 145.198184
+location_name: 'Bass Coast  - Phillip Is., Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '133091994'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133091994/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133091994/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133091994'
+  - source: iNaturalist
+    id: '133092064'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133092064/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133092064/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133092064'
+license: CC BY-NC
+created_at: '2021-06-01T20:57:09+10:00'
+updated_at: '2021-06-02T20:10:31+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/81158942'

@@ -1,0 +1,31 @@
+id:
+  - name: Calochilus campestris
+    common: copper beard orchid
+    by:
+      - chrislindorff
+      - bushbandit
+    ref:
+      inaturalist: 417787
+datetime: '2020-10-26T19:35:01+11:00'
+latitude: -37.898193
+longitude: 144.221585
+location_name: 'Anakie VIC 3213, Australia'
+accuracy: 8
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '102018688'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102018688/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102018688/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/102018688'
+license: CC BY-NC
+created_at: '2020-10-26T19:37:58+11:00'
+updated_at: '2020-10-26T19:40:30+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63555758'

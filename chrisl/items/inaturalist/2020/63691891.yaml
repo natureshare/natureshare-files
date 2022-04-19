@@ -1,0 +1,31 @@
+id:
+  - name: Romulea rosea
+    common: Rosy sandcrocus
+    by:
+      - chrislindorff
+      - bushbandit
+    ref:
+      inaturalist: 68896
+datetime: '2020-09-28T14:17:00+10:00'
+latitude: -36.854581
+longitude: 142.468369
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 50
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '102263992'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102263992/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102263992/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/102263992'
+license: CC BY-NC
+created_at: '2020-10-28T22:08:08+11:00'
+updated_at: '2020-10-28T22:12:25+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63691891'

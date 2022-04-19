@@ -1,10 +1,10 @@
 id:
-  - name: Olearia elliptica
-    common: Sticky daisy bush
+  - name: Olearia fulgens
     by:
+      - craig-r
       - chrislindorff
     ref:
-      inaturalist: 993925
+      inaturalist: 1375158
 datetime: '2012-09-24T12:18:00+10:00'
 latitude: -31.302654
 longitude: 148.98555
@@ -17,14 +17,14 @@ photos:
     id: '90428668'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/90428668/medium.jpeg?1597665491'
-    original_url: 'https://static.inaturalist.org/photos/90428668/original.jpeg?1597665491'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90428668/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90428668/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/90428668'
 license: CC BY-NC
 created_at: '2020-08-17T21:59:05+10:00'
-updated_at: '2020-08-17T21:59:05+10:00'
+updated_at: '2022-04-13T22:23:47+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/56732047'

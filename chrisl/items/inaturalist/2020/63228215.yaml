@@ -1,0 +1,29 @@
+id:
+  - name: Hibbertia australis
+    by:
+      - chrislindorff
+      - arthur_chapman
+    ref:
+      inaturalist: 856072
+datetime: '2020-10-22T15:40:32+11:00'
+latitude: -38.385734
+longitude: 144.237727
+location_name: 'Bells Beach VIC 3228, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '101441787'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101441787/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101441787/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101441787'
+license: CC BY-NC
+created_at: '2020-10-22T20:13:28+11:00'
+updated_at: '2020-11-17T09:55:32+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63228215'

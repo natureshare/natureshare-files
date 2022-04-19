@@ -1,0 +1,30 @@
+id:
+  - name: Eutaxia microphylla
+    common: common eutaxia
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 520478
+datetime: '2015-09-29T12:56:00+10:00'
+latitude: -36.852248
+longitude: 142.474179
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176438898'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176438898/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176438898/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176438898'
+license: CC BY-NC
+created_at: '2022-01-19T14:14:15+11:00'
+updated_at: '2022-01-19T14:14:15+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105190950'

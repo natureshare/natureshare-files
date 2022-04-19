@@ -1,0 +1,31 @@
+id:
+  - name: Calytrix tetragona
+    common: Fringe Myrtle
+    by:
+      - chrislindorff
+      - bushbandit
+    ref:
+      inaturalist: 83626
+datetime: '2012-09-18T07:24:00+10:00'
+latitude: -36.342888
+longitude: 146.202282
+location_name: 'Taminick VIC 3675, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '178768041'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178768041/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178768041/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178768041'
+license: CC BY-NC
+created_at: '2022-02-09T16:52:07+11:00'
+updated_at: '2022-02-09T17:30:02+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106420394'

@@ -1,0 +1,39 @@
+id:
+  - name: Drosera gunniana
+    by:
+      - chrislindorff
+      - oneanttofew
+    ref:
+      inaturalist: 823782
+datetime: '2020-10-03T10:27:00+10:00'
+latitude: -37.88742
+longitude: 144.188285
+location_name: Steiglitz Cemetery.
+accuracy: 8
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '98471551'
+    width: 1200
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98471551/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98471551/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98471551'
+  - source: iNaturalist
+    id: '98471568'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98471568/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98471568/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98471568'
+license: CC BY-NC
+created_at: '2020-10-03T11:35:17+10:00'
+updated_at: '2020-10-03T12:01:09+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61527308'

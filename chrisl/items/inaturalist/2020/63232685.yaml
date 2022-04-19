@@ -1,0 +1,48 @@
+id:
+  - name: Stylidium armeria armeria
+    by:
+      - chrislindorff
+      - arthur_chapman
+    ref:
+      inaturalist: 1040003
+datetime: '2020-10-22T14:47:00+11:00'
+latitude: -38.382063
+longitude: 144.236921
+location_name: 'Bells Beach VIC 3228, Australia'
+accuracy: 11
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '101450129'
+    width: 2048
+    height: 921
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101450129/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101450129/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101450129'
+  - source: iNaturalist
+    id: '101450176'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101450176/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101450176/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101450176'
+  - source: iNaturalist
+    id: '101450239'
+    width: 2048
+    height: 921
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101450239/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101450239/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101450239'
+license: CC BY-NC
+created_at: '2020-10-22T22:25:37+11:00'
+updated_at: '2020-11-17T09:54:11+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63232685'

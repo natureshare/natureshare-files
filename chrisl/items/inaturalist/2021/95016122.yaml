@@ -1,0 +1,39 @@
+id:
+  - name: Olearia minor
+    by:
+      - chrislindorff
+      - michael1922
+    ref:
+      inaturalist: 1084239
+datetime: '2021-09-15T14:10:29+10:00'
+latitude: -37.911806
+longitude: 144.207053
+location_name: 'Anakie VIC 3213, Australia'
+accuracy: 19
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '157688889'
+    width: 1152
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/157688889/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/157688889/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/157688889'
+  - source: iNaturalist
+    id: '157688920'
+    width: 1152
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/157688920/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/157688920/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/157688920'
+license: CC BY-NC
+created_at: '2021-09-16T19:06:59+10:00'
+updated_at: '2021-09-16T21:05:45+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/95016122'

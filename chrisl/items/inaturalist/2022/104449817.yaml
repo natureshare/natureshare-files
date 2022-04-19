@@ -1,0 +1,40 @@
+id:
+  - name: Ficinia marginata
+    common: Common Annual Clubrush
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 1185689
+datetime: '2020-10-10T11:28:00+11:00'
+latitude: -35.913566
+longitude: 141.825861
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 100
+description: As Isolepis marginata in FoV (2022)
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '175019282'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175019282/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175019282/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175019282'
+  - source: iNaturalist
+    id: '175019330'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175019330/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175019330/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175019330'
+license: CC BY-NC
+created_at: '2022-01-06T17:33:32+11:00'
+updated_at: '2022-01-06T17:33:32+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104449817'

@@ -1,0 +1,66 @@
+id:
+  - name: Eucalyptus falciformis
+    by:
+      - chrislindorff
+      - dnicolle
+    ref:
+      inaturalist: 1089544
+datetime: '2020-10-16T17:36:00+11:00'
+latitude: -38.217752
+longitude: 144.298208
+location_name: 'Victoria, AU'
+accuracy: 28270
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '101015900'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101015900/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101015900/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101015900'
+  - source: iNaturalist
+    id: '101016005'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101016005/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101016005/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101016005'
+  - source: iNaturalist
+    id: '101015978'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101015978/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101015978/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101015978'
+  - source: iNaturalist
+    id: '101015965'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101015965/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101015965/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101015965'
+  - source: iNaturalist
+    id: '101015939'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101015939/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101015939/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101015939'
+license: CC BY-NC
+created_at: '2020-10-19T17:38:01+11:00'
+updated_at: '2020-10-19T19:12:59+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/62987645'

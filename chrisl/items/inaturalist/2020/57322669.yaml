@@ -16,14 +16,14 @@ photos:
     id: '91423707'
     width: 2048
     height: 1356
-    thumbnail_url: 'https://static.inaturalist.org/photos/91423707/medium.jpeg?1598186334'
-    original_url: 'https://static.inaturalist.org/photos/91423707/original.jpeg?1598186334'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/91423707/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/91423707/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/91423707'
 license: CC BY-NC
 created_at: '2020-08-23T22:39:00+10:00'
-updated_at: '2020-08-25T19:49:43+10:00'
+updated_at: '2020-08-25T20:14:51+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/57322669'

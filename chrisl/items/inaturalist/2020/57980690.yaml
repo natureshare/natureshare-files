@@ -2,6 +2,7 @@ id:
   - name: Lomandra multiflora multiflora
     by:
       - chrislindorff
+      - arthur_chapman
     ref:
       inaturalist: 863792
 datetime: '2012-09-25T12:49:00+10:00'
@@ -16,8 +17,8 @@ photos:
     id: '92529000'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/92529000/medium.jpeg?1598745757'
-    original_url: 'https://static.inaturalist.org/photos/92529000/original.jpeg?1598745757'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92529000/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92529000/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/92529000'
@@ -25,14 +26,14 @@ photos:
     id: '92529236'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/92529236/medium.jpeg?1598745850'
-    original_url: 'https://static.inaturalist.org/photos/92529236/original.jpeg?1598745850'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92529236/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92529236/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/92529236'
 license: CC BY-NC
 created_at: '2020-08-30T10:04:14+10:00'
-updated_at: '2020-08-30T10:04:15+10:00'
+updated_at: '2020-09-19T09:10:37+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/57980690'

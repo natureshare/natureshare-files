@@ -1,0 +1,29 @@
+id:
+  - name: Idaea
+    by:
+      - kallies
+    ref:
+      inaturalist: 52091
+datetime: '2013-09-25T19:42:00+10:00'
+latitude: -32.839924
+longitude: 138.038177
+location_name: 'Wilmington SA 5485, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '185617629'
+    width: 1545
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185617629/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185617629/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185617629'
+license: CC BY-NC
+created_at: '2022-04-01T15:48:11+11:00'
+updated_at: '2022-04-02T11:31:18+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/110067827'

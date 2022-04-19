@@ -3,6 +3,7 @@ id:
     common: wattle mat-rush
     by:
       - chrislindorff
+      - arthur_chapman
     ref:
       inaturalist: 570545
 datetime: '2012-09-25T13:02:00+10:00'
@@ -17,8 +18,8 @@ photos:
     id: '92548920'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/92548920/medium.jpeg?1598754472'
-    original_url: 'https://static.inaturalist.org/photos/92548920/original.jpeg?1598754472'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92548920/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92548920/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/92548920'
@@ -26,8 +27,8 @@ photos:
     id: '92549016'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/92549016/medium.jpeg?1598754540'
-    original_url: 'https://static.inaturalist.org/photos/92549016/original.jpeg?1598754540'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92549016/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92549016/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/92549016'
@@ -35,14 +36,14 @@ photos:
     id: '92549210'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/92549210/medium.jpeg?1598754646'
-    original_url: 'https://static.inaturalist.org/photos/92549210/original.jpeg?1598754646'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92549210/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92549210/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/92549210'
 license: CC BY-NC
 created_at: '2020-08-30T12:30:52+10:00'
-updated_at: '2020-08-30T12:30:52+10:00'
+updated_at: '2020-09-19T09:09:55+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/57992206'

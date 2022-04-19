@@ -1,0 +1,40 @@
+id:
+  - name: Acacia tetragonophylla
+    common: Dead Finish
+    by:
+      - chrislindorff
+      - margl
+    ref:
+      inaturalist: 519206
+datetime: '2018-07-26T14:38:00+10:00'
+latitude: -24.265512
+longitude: 124.347624
+location_name: 'Little Sandy Desert WA 6646, Australia'
+accuracy: 50
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '177410682'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177410682/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177410682/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/177410682'
+  - source: iNaturalist
+    id: '177410716'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177410716/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177410716/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/177410716'
+license: CC BY-NC
+created_at: '2022-01-28T16:27:41+11:00'
+updated_at: '2022-01-28T20:01:50+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105701631'

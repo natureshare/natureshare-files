@@ -1,0 +1,47 @@
+id:
+  - name: Luzula meridionalis meridionalis
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 1059572
+datetime: '2012-09-18T07:29:00+10:00'
+latitude: -36.343038
+longitude: 146.202366
+location_name: 'Taminick VIC 3675, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '178768578'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178768578/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178768578/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178768578'
+  - source: iNaturalist
+    id: '178768593'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178768593/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178768593/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178768593'
+  - source: iNaturalist
+    id: '178768687'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178768687/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178768687/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178768687'
+license: CC BY-NC
+created_at: '2022-02-09T17:05:54+11:00'
+updated_at: '2022-02-09T17:05:54+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106420724'

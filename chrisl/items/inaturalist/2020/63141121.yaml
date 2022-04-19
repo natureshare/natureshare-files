@@ -1,0 +1,40 @@
+id:
+  - name: Comesperma ericinum
+    common: Pink Matchheads
+    by:
+      - chrislindorff
+      - bushbandit
+    ref:
+      inaturalist: 210344
+datetime: '2020-10-21T12:06:39+11:00'
+latitude: -38.363282
+longitude: 144.103568
+location_name: 'Wensleydale VIC 3241, Australia'
+accuracy: 4
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '101286810'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101286810/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101286810/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101286810'
+  - source: iNaturalist
+    id: '101286826'
+    width: 720
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101286826/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101286826/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101286826'
+license: CC BY-NC
+created_at: '2020-10-21T13:47:22+11:00'
+updated_at: '2020-10-21T17:02:08+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63141121'

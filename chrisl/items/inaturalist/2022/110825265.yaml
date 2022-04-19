@@ -1,0 +1,66 @@
+id:
+  - name: Glycine
+    common: Soybeans
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 122903
+datetime: '2012-09-27T12:14:00+10:00'
+latitude: -31.280306
+longitude: 148.97967
+location_name: 'Tonderburine NSW 2828, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '187018105'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/187018105/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/187018105/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/187018105'
+  - source: iNaturalist
+    id: '187018196'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/187018196/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/187018196/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/187018196'
+  - source: iNaturalist
+    id: '187018281'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/187018281/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/187018281/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/187018281'
+  - source: iNaturalist
+    id: '187018346'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/187018346/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/187018346/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/187018346'
+  - source: iNaturalist
+    id: '187018414'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/187018414/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/187018414/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/187018414'
+license: CC BY-NC
+created_at: '2022-04-09T17:42:51+10:00'
+updated_at: '2022-04-09T17:42:51+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/110825265'

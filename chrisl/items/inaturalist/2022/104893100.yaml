@@ -1,0 +1,40 @@
+id:
+  - name: Hyalosperma demissum
+    common: Moss Sunray
+    by:
+      - chrislindorff
+      - iancastle
+    ref:
+      inaturalist: 791896
+datetime: '2020-09-28T14:02:00+10:00'
+latitude: -36.854581
+longitude: 142.468369
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '175864342'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175864342/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175864342/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175864342'
+  - source: iNaturalist
+    id: '175864369'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175864369/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175864369/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175864369'
+license: CC BY-NC
+created_at: '2022-01-14T11:58:13+11:00'
+updated_at: '2022-01-30T13:07:05+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104893100'

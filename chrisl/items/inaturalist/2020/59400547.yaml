@@ -1,0 +1,32 @@
+id:
+  - name: Fletchamia sugdeni
+    common: Canary Worm
+    by:
+      - gposs
+      - chrislindorff
+      - leigh_winsor
+    ref:
+      inaturalist: 136474
+datetime: '2020-08-20T13:46:00+10:00'
+latitude: -38.288453
+longitude: 143.270967
+location_name: 'Pomborneit VIC 3260, Australia'
+accuracy: 400
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '94909531'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/94909531/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/94909531/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/94909531'
+license: CC BY-NC
+created_at: '2020-09-13T12:00:04+10:00'
+updated_at: '2020-09-13T17:15:15+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/59400547'

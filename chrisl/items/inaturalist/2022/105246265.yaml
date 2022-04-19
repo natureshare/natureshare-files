@@ -1,0 +1,49 @@
+id:
+  - name: Caladenia tentaculata
+    common: eastern mantis orchid
+    by:
+      - chrislindorff
+      - gary325
+    ref:
+      inaturalist: 474399
+datetime: '2015-10-13T09:49:00+11:00'
+latitude: -37.86017
+longitude: 144.191702
+location_name: 'Brisbane Ranges, Golden Plains - South-East, Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176545230'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545230/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545230/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176545230'
+  - source: iNaturalist
+    id: '176545237'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545237/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545237/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176545237'
+  - source: iNaturalist
+    id: '176545246'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545246/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545246/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176545246'
+license: CC BY-NC
+created_at: '2022-01-20T15:03:04+11:00'
+updated_at: '2022-01-20T15:56:53+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105246265'

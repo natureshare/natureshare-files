@@ -1,0 +1,31 @@
+id:
+  - name: Brachyloma daphnoides
+    common: Daphne heath
+    by:
+      - chrislindorff
+      - iancastle
+    ref:
+      inaturalist: 210147
+datetime: '2012-09-18T08:32:00+10:00'
+latitude: -36.346045
+longitude: 146.20559
+location_name: 'Warby Range, Warby-Ovens, Wangaratta - North, Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '178771136'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178771136/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178771136/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178771136'
+license: CC BY-NC
+created_at: '2022-02-09T17:50:25+11:00'
+updated_at: '2022-02-10T07:18:40+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106421986'

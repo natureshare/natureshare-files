@@ -1,0 +1,31 @@
+id:
+  - name: Crassula decumbens decumbens
+    common: Spreading Crassula
+    by:
+      - chrislindorff
+      - beth393
+    ref:
+      inaturalist: 336121
+datetime: '2020-09-25T15:50:00+10:00'
+latitude: -37.808296
+longitude: 143.918471
+location_name: 'Mount Mercer VIC 3352, Australia'
+accuracy: 50
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176988185'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176988185/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176988185/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176988185'
+license: CC BY-NC
+created_at: '2022-01-24T14:21:27+11:00'
+updated_at: '2022-01-24T20:12:42+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105479136'

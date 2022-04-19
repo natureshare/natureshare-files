@@ -1,0 +1,31 @@
+id:
+  - name: Choerocoris paganus
+    common: Red Jewel Bug
+    by:
+      - chrislindorff
+      - matthew_connors
+    ref:
+      inaturalist: 430209
+datetime: '2021-12-08T10:04:39+11:00'
+latitude: -35.920307
+longitude: 141.855986
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 5
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '171708084'
+    width: 900
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/171708084/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/171708084/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/171708084'
+license: CC BY-NC
+created_at: '2021-12-08T10:09:38+11:00'
+updated_at: '2021-12-08T22:03:40+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/102684191'

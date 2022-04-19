@@ -1,0 +1,49 @@
+id:
+  - name: Pterostylis curta
+    common: blunt greenhood
+    by:
+      - chrislindorff
+      - bushbandit
+    ref:
+      inaturalist: 83400
+datetime: '2012-09-18T06:55:00+10:00'
+latitude: -36.342438
+longitude: 146.203893
+location_name: 'Wangandary VIC 3678, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '96421464'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/96421464/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/96421464/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/96421464'
+  - source: iNaturalist
+    id: '96421709'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/96421709/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/96421709/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/96421709'
+  - source: iNaturalist
+    id: '96421615'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/96421615/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/96421615/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/96421615'
+license: CC BY-NC
+created_at: '2020-09-21T22:08:23+10:00'
+updated_at: '2020-09-21T22:55:32+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60308179'

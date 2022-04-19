@@ -1,0 +1,31 @@
+id:
+  - name: Chrysolarentia cryeropa
+    by:
+      - kallies
+      - chrislindorff
+      - loki_limestone
+    ref:
+      inaturalist: 852258
+datetime: '2013-09-14T20:03:00+10:00'
+latitude: -35.920708
+longitude: 141.860199
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176646026'
+    width: 1546
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176646026/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176646026/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176646026'
+license: CC BY-NC
+created_at: '2022-01-21T15:39:02+11:00'
+updated_at: '2022-01-21T22:00:54+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105297825'

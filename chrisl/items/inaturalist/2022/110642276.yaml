@@ -1,0 +1,30 @@
+id:
+  - name: Gonocarpus elatus
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 526704
+datetime: '2012-09-27T12:14:00+10:00'
+latitude: -31.280348
+longitude: 148.979716
+location_name: 'Tonderburine NSW 2828, Australia'
+accuracy: 10
+description: 'Relatively young growth, whereby leaves becoming more obviously alternate with age.'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '186680144'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/186680144/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/186680144/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/186680144'
+license: CC BY-NC
+created_at: '2022-04-07T16:09:38+10:00'
+updated_at: '2022-04-07T16:09:38+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/110642276'

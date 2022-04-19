@@ -1,0 +1,39 @@
+id:
+  - name: Persicoptera pulchrinalis
+    by:
+      - vicfazio3
+      - chrislindorff
+    ref:
+      inaturalist: 892978
+datetime: '2013-09-14T22:48:00+10:00'
+latitude: -35.920708
+longitude: 141.860199
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176563057'
+    width: 1546
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176563057/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176563057/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176563057'
+  - source: iNaturalist
+    id: '176563042'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176563042/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176563042/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176563042'
+license: CC BY-NC
+created_at: '2022-01-20T20:32:36+11:00'
+updated_at: '2022-01-20T23:50:18+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105255207'

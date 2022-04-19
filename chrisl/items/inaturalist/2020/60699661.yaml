@@ -1,0 +1,48 @@
+id:
+  - name: Pimelea spinescens spinescens
+    by:
+      - chrislindorff
+      - koolah
+    ref:
+      inaturalist: 1084245
+datetime: '2020-09-25T13:00:00+10:00'
+latitude: -37.906769
+longitude: 143.51673
+location_name: 'Golden Plains - North-West, Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97079188'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97079188/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97079188/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/97079188'
+  - source: iNaturalist
+    id: '97079300'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97079300/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97079300/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/97079300'
+  - source: iNaturalist
+    id: '97079241'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97079241/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97079241/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/97079241'
+license: CC BY-NC
+created_at: '2020-09-25T20:54:30+10:00'
+updated_at: '2020-09-26T07:56:31+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60699661'

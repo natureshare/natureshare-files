@@ -1,0 +1,32 @@
+id:
+  - name: Pittosporum angustifolium
+    common: Native apricot
+    by:
+      - chrislindorff
+      - pennywort_man
+    ref:
+      inaturalist: 349255
+datetime: '2011-11-05T15:28:00+11:00'
+latitude: -34.224184
+longitude: 141.209289
+location_name: 'Neds Corner VIC 3496, Australia'
+accuracy: 20
+description: Seedling
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '146039028'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/146039028/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/146039028/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/146039028'
+license: CC BY-NC
+created_at: '2021-07-25T17:22:12+10:00'
+updated_at: '2021-07-26T09:59:17+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/88506149'

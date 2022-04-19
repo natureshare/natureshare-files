@@ -1,0 +1,38 @@
+id:
+  - name: Pauridia glabella glabella
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 849727
+datetime: '2013-08-27T13:10:00+10:00'
+latitude: -35.918976
+longitude: 141.860428
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 15
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '175478126'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175478126/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175478126/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175478126'
+  - source: iNaturalist
+    id: '175478172'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175478172/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175478172/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175478172'
+license: CC BY-NC
+created_at: '2022-01-10T16:32:21+11:00'
+updated_at: '2022-01-10T16:32:21+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104691359'

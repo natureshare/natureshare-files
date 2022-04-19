@@ -1,0 +1,49 @@
+id:
+  - name: Drosera hookeri
+    common: Grassland Sundew
+    by:
+      - chrislindorff
+      - mftasp
+    ref:
+      inaturalist: 154709
+datetime: '2020-09-25T15:57:00+10:00'
+latitude: -37.808296
+longitude: 143.918471
+location_name: 'Mount Mercer VIC 3352, Australia'
+accuracy: 50
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176989684'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176989684/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176989684/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176989684'
+  - source: iNaturalist
+    id: '176989766'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176989766/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176989766/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176989766'
+  - source: iNaturalist
+    id: '176989827'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176989827/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176989827/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176989827'
+license: CC BY-NC
+created_at: '2022-01-24T14:37:24+11:00'
+updated_at: '2022-01-24T19:04:25+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105480164'

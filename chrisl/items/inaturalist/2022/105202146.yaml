@@ -1,0 +1,57 @@
+id:
+  - name: Rhagodia spinescens
+    common: Hedge Salt-bush
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 627162
+datetime: '2014-01-25T16:32:00+11:00'
+latitude: -35.82457
+longitude: 142.118667
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176461096'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176461096/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176461096/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176461096'
+  - source: iNaturalist
+    id: '176461114'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176461114/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176461114/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176461114'
+  - source: iNaturalist
+    id: '176461159'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176461159/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176461159/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176461159'
+  - source: iNaturalist
+    id: '176461181'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176461181/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176461181/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176461181'
+license: CC BY-NC
+created_at: '2022-01-19T20:40:40+11:00'
+updated_at: '2022-01-19T20:40:40+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105202146'

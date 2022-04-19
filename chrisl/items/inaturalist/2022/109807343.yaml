@@ -1,0 +1,40 @@
+id:
+  - name: Gratiola pubescens
+    common: hairy brooklime
+    by:
+      - chrislindorff
+      - michael1922
+    ref:
+      inaturalist: 629126
+datetime: '2022-03-24T13:16:00+11:00'
+latitude: -37.823738
+longitude: 144.188247
+location_name: 'Brisbane Ranges, Golden Plains - South-East, Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '185136609'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185136609/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185136609/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185136609'
+  - source: iNaturalist
+    id: '185136644'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185136644/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185136644/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185136644'
+license: CC BY-NC
+created_at: '2022-03-29T14:00:05+11:00'
+updated_at: '2022-04-03T23:06:03+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/109807343'

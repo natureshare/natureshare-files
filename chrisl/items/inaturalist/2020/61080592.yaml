@@ -1,0 +1,48 @@
+id:
+  - name: Brachyloma daphnoides
+    common: Daphne heath
+    by:
+      - chrislindorff
+      - iancastle
+    ref:
+      inaturalist: 210147
+datetime: '2020-09-28T13:54:47+10:00'
+latitude: -36.854141
+longitude: 142.46924
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97708648'
+    width: 1200
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97708648/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97708648/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/97708648'
+  - source: iNaturalist
+    id: '97708666'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97708666/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97708666/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/97708666'
+  - source: iNaturalist
+    id: '97708685'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97708685/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97708685/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/97708685'
+license: CC BY-NC
+created_at: '2020-09-28T18:59:04+10:00'
+updated_at: '2021-11-26T22:33:10+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61080592'

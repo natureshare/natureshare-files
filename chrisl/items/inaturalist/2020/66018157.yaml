@@ -1,0 +1,49 @@
+id:
+  - name: Todea barbara
+    common: king fern
+    by:
+      - chrislindorff
+      - ninakerr01
+    ref:
+      inaturalist: 323949
+datetime: '2020-12-02T20:52:32+11:00'
+latitude: -38.818053
+longitude: 143.508451
+location_name: 'Hordern Vale VIC 3238, Australia'
+accuracy: 25
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '106337357'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106337357/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106337357/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106337357'
+  - source: iNaturalist
+    id: '106337370'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106337370/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106337370/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106337370'
+  - source: iNaturalist
+    id: '106337380'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106337380/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106337380/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106337380'
+license: CC BY-NC
+created_at: '2020-12-03T08:35:42+11:00'
+updated_at: '2021-07-06T04:33:28+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/66018157'

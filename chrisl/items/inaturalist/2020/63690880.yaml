@@ -1,0 +1,39 @@
+id:
+  - name: Leucopogon virgatus brevifolius
+    by:
+      - chrislindorff
+      - arthur_chapman
+    ref:
+      inaturalist: 790965
+datetime: '2020-09-28T13:49:00+10:00'
+latitude: -36.854581
+longitude: 142.468369
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '102262300'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102262300/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102262300/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/102262300'
+  - source: iNaturalist
+    id: '102262318'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102262318/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102262318/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/102262318'
+license: CC BY-NC
+created_at: '2020-10-28T21:30:46+11:00'
+updated_at: '2020-11-17T09:49:20+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63690880'

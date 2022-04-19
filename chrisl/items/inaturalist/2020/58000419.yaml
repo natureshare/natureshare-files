@@ -1,8 +1,9 @@
 id:
   - name: Acaena agnipila
-    common: Australian Sheep's Bur
+    common: Australian sheep's bur
     by:
       - chrislindorff
+      - arthur_chapman
     ref:
       inaturalist: 323297
 datetime: '2012-09-25T15:00:00+10:00'
@@ -17,8 +18,8 @@ photos:
     id: '92563897'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/92563897/medium.jpeg?1598763937'
-    original_url: 'https://static.inaturalist.org/photos/92563897/original.jpeg?1598763937'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92563897/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92563897/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/92563897'
@@ -26,8 +27,8 @@ photos:
     id: '92563991'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/92563991/medium.jpeg?1598764020'
-    original_url: 'https://static.inaturalist.org/photos/92563991/original.jpeg?1598764020'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92563991/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92563991/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/92563991'
@@ -35,8 +36,8 @@ photos:
     id: '92564104'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/92564104/medium.jpeg?1598764110'
-    original_url: 'https://static.inaturalist.org/photos/92564104/original.jpeg?1598764110'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92564104/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92564104/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/92564104'
@@ -44,14 +45,14 @@ photos:
     id: '92564226'
     width: 2048
     height: 1356
-    thumbnail_url: 'https://static.inaturalist.org/photos/92564226/medium.jpeg?1598764212'
-    original_url: 'https://static.inaturalist.org/photos/92564226/original.jpeg?1598764212'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92564226/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92564226/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/92564226'
 license: CC BY-NC
 created_at: '2020-08-30T15:10:17+10:00'
-updated_at: '2020-08-30T15:10:18+10:00'
+updated_at: '2020-09-19T08:59:50+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/58000419'

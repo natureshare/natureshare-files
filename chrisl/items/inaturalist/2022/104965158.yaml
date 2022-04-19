@@ -1,0 +1,40 @@
+id:
+  - name: Brunonia australis
+    common: blue pincushion
+    by:
+      - chrislindorff
+      - george_seagull
+    ref:
+      inaturalist: 421601
+datetime: '2016-10-31T10:48:00+11:00'
+latitude: -36.854108
+longitude: 142.473983
+location_name: 'Horsham Bal, Victoria, Australia'
+accuracy: 500
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176002391'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002391/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002391/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176002391'
+  - source: iNaturalist
+    id: '176002400'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002400/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002400/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176002400'
+license: CC BY-NC
+created_at: '2022-01-15T22:13:11+11:00'
+updated_at: '2022-01-15T22:16:20+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104965158'

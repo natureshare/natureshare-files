@@ -1,0 +1,57 @@
+id:
+  - name: Maireana rohrlachii
+    common: Rohrlach's Bluebush
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 734550
+datetime: '2014-01-25T11:41:00+11:00'
+latitude: -35.920653
+longitude: 141.856865
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 100
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176460598'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176460598/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176460598/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176460598'
+  - source: iNaturalist
+    id: '176460627'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176460627/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176460627/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176460627'
+  - source: iNaturalist
+    id: '176460679'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176460679/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176460679/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176460679'
+  - source: iNaturalist
+    id: '176460728'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176460728/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176460728/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176460728'
+license: CC BY-NC
+created_at: '2022-01-19T20:31:08+11:00'
+updated_at: '2022-01-19T20:31:08+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105201909'

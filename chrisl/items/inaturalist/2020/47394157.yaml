@@ -3,6 +3,7 @@ id:
     common: Brown-top Stringybark
     by:
       - chrislindorff
+      - chrisclarke25
     ref:
       inaturalist: 323286
 datetime: '2020-05-26T12:45:00+10:00'
@@ -17,8 +18,8 @@ photos:
     id: '75166971'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/75166971/medium.jpeg?1590498512'
-    original_url: 'https://static.inaturalist.org/photos/75166971/original.jpeg?1590498512'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75166971/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75166971/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/75166971'
@@ -26,8 +27,8 @@ photos:
     id: '75167128'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/75167128/medium.jpeg?1590498613'
-    original_url: 'https://static.inaturalist.org/photos/75167128/original.jpeg?1590498613'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75167128/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75167128/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/75167128'
@@ -35,14 +36,14 @@ photos:
     id: '75167293'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/75167293/medium.jpeg?1590498702'
-    original_url: 'https://static.inaturalist.org/photos/75167293/original.jpeg?1590498702'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75167293/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75167293/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/75167293'
 license: CC BY-NC
 created_at: '2020-05-26T23:16:47+10:00'
-updated_at: '2020-05-26T23:16:47+10:00'
+updated_at: '2021-05-23T00:03:30+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/47394157'

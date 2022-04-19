@@ -1,0 +1,49 @@
+id:
+  - name: Senecio prenanthoides
+    common: Beaked Fireweed
+    by:
+      - chrislindorff
+      - michael1922
+    ref:
+      inaturalist: 1126609
+datetime: '2012-09-18T08:10:00+10:00'
+latitude: -36.345205
+longitude: 146.203943
+location_name: 'Wangandary VIC 3678, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '178875788'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178875788/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178875788/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178875788'
+  - source: iNaturalist
+    id: '178875859'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178875859/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178875859/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178875859'
+  - source: iNaturalist
+    id: '178875980'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178875980/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178875980/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178875980'
+license: CC BY-NC
+created_at: '2022-02-10T17:22:41+11:00'
+updated_at: '2022-02-12T23:47:20+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106478325'

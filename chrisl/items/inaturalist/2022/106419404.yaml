@@ -1,0 +1,39 @@
+id:
+  - name: Wurmbea dioica dioica
+    by:
+      - chrislindorff
+      - elizabethhatfield
+    ref:
+      inaturalist: 786503
+datetime: '2012-09-18T07:02:00+10:00'
+latitude: -36.342549
+longitude: 146.203081
+location_name: 'Wangandary VIC 3678, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '178765809'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178765809/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178765809/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178765809'
+  - source: iNaturalist
+    id: '178765867'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178765867/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178765867/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178765867'
+license: CC BY-NC
+created_at: '2022-02-09T16:17:42+11:00'
+updated_at: '2022-02-09T16:21:33+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106419404'

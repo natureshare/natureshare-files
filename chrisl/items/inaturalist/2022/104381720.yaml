@@ -1,0 +1,38 @@
+id:
+  - name: Limnaecia
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 177432
+datetime: '2020-10-10T11:28:00+11:00'
+latitude: -35.913007
+longitude: 141.825725
+location_name: 'Birdcage Flora & Fauna Reserve, Rainbow'
+accuracy: 214
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '174889279'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174889279/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174889279/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174889279'
+  - source: iNaturalist
+    id: '174889289'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174889289/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174889289/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174889289'
+license: CC BY-NC
+created_at: '2022-01-05T13:22:11+11:00'
+updated_at: '2022-01-06T17:02:40+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104381720'

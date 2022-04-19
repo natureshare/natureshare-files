@@ -1,0 +1,41 @@
+id:
+  - name: Acacia aculeatissima
+    common: Thin-leaf Wattle
+    by:
+      - chrislindorff
+      - michael1922
+    ref:
+      inaturalist: 560601
+datetime: '2021-09-13T13:22:04+10:00'
+latitude: -37.898439
+longitude: 144.218734
+location_name: 'Anakie VIC 3213, Australia'
+accuracy: 4
+description: Hairy leaved variety.
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '157688950'
+    width: 1152
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/157688950/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/157688950/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/157688950'
+  - source: iNaturalist
+    id: '157688969'
+    width: 1152
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/157688969/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/157688969/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/157688969'
+license: CC BY-NC
+created_at: '2021-09-16T19:08:10+10:00'
+updated_at: '2021-09-17T09:34:03+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/95016162'

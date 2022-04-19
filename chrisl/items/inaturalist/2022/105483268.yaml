@@ -1,0 +1,40 @@
+id:
+  - name: Thelymitra pauciflora
+    common: slender sun-orchid
+    by:
+      - chrislindorff
+      - catullus
+    ref:
+      inaturalist: 406514
+datetime: '2013-11-01T10:38:00+11:00'
+latitude: -37.872851
+longitude: 143.902007
+location_name: 'Mount Mercer VIC 3352, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176995724'
+    width: 679
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176995724/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176995724/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176995724'
+  - source: iNaturalist
+    id: '176995698'
+    width: 679
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176995698/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176995698/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176995698'
+license: CC BY-NC
+created_at: '2022-01-24T15:52:09+11:00'
+updated_at: '2022-01-25T13:38:13+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105483268'

@@ -1,0 +1,41 @@
+id:
+  - name: Lamprima aurata
+    common: Golden Stag Beetle
+    by:
+      - chrislindorff
+      - matthew_connors
+      - jmmaes
+    ref:
+      inaturalist: 124223
+datetime: '2021-11-30T12:37:00+11:00'
+latitude: -37.858957
+longitude: 144.252177
+location_name: 'Staughton Vale VIC 3340, Australia'
+accuracy: 90
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '170822033'
+    width: 1280
+    height: 960
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/170822033/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/170822033/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/170822033'
+  - source: iNaturalist
+    id: '170822040'
+    width: 1280
+    height: 960
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/170822040/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/170822040/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/170822040'
+license: CC BY-NC
+created_at: '2021-11-30T14:40:06+11:00'
+updated_at: '2022-01-16T08:12:56+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/102218228'

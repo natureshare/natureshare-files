@@ -1,0 +1,31 @@
+id:
+  - name: Acacia decora
+    common: Golden Wattle
+    by:
+      - chrislindorff
+      - porcoespinho15
+    ref:
+      inaturalist: 369462
+datetime: '2012-09-24T10:33:00+10:00'
+latitude: -31.298068
+longitude: 148.987647
+location_name: 'Tonderburine NSW 2828, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '187013190'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/187013190/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/187013190/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/187013190'
+license: CC BY-NC
+created_at: '2022-04-09T16:21:51+10:00'
+updated_at: '2022-04-09T17:47:23+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/110822395'

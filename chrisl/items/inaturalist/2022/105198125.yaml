@@ -1,0 +1,40 @@
+id:
+  - name: Pseudapines geminata
+    common: Pittosporum Bug
+    by:
+      - lehelind
+      - chrislindorff
+    ref:
+      inaturalist: 520553
+datetime: '2015-01-24T15:42:00+11:00'
+latitude: -35.924924
+longitude: 141.863951
+location_name: 'Hindmarsh, Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176453373'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176453373/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176453373/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176453373'
+  - source: iNaturalist
+    id: '176453377'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176453377/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176453377/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176453377'
+license: CC BY-NC
+created_at: '2022-01-19T17:35:11+11:00'
+updated_at: '2022-04-11T08:20:55+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105198125'

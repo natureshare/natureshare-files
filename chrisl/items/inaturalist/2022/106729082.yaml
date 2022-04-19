@@ -1,0 +1,39 @@
+id:
+  - name: Dampiera rosmarinifolia
+    common: Native Rosemary
+    by:
+      - chrislindorff
+      - alan_dandie
+    ref:
+      inaturalist: 768916
+latitude: -35.928848
+longitude: 140.340393
+location_name: 'Ngarkat SA 5302, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '179354881'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179354881/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179354881/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/179354881'
+  - source: iNaturalist
+    id: '179354930'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179354930/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179354930/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/179354930'
+license: CC BY-NC
+created_at: '2022-02-14T16:29:31+11:00'
+updated_at: '2022-02-14T17:24:02+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106729082'

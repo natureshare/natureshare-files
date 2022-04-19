@@ -1,0 +1,48 @@
+id:
+  - name: Caladenia colorata
+    common: Colourful Spider-orchid
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 950220
+datetime: '2009-09-07T10:56:00+10:00'
+latitude: -35.885611
+longitude: 140.774669
+location_name: 'South Australia, AU'
+accuracy: 28620
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '179342954'
+    width: 2048
+    height: 1362
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179342954/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179342954/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/179342954'
+  - source: iNaturalist
+    id: '179343007'
+    width: 2048
+    height: 1362
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179343007/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179343007/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/179343007'
+  - source: iNaturalist
+    id: '179343057'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179343057/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179343057/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/179343057'
+license: CC BY-NC
+created_at: '2022-02-14T14:12:31+11:00'
+updated_at: '2022-02-14T14:12:31+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106723116'

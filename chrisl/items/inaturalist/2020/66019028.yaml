@@ -1,0 +1,57 @@
+id:
+  - name: Nematolepis squamea squamea
+    by:
+      - chrislindorff
+      - marcoduretto
+    ref:
+      inaturalist: 353807
+datetime: '2020-12-03T08:52:32+11:00'
+latitude: -38.820556
+longitude: 143.509084
+location_name: 'Hordern Vale VIC 3238, Australia'
+accuracy: 21
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '106339199'
+    width: 2048
+    height: 921
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106339199/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106339199/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106339199'
+  - source: iNaturalist
+    id: '106339212'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106339212/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106339212/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106339212'
+  - source: iNaturalist
+    id: '106339223'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106339223/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106339223/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106339223'
+  - source: iNaturalist
+    id: '106339238'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106339238/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106339238/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106339238'
+license: CC BY-NC
+created_at: '2020-12-03T08:56:11+11:00'
+updated_at: '2021-01-07T08:01:13+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/66019028'

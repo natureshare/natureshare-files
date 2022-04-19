@@ -1,0 +1,40 @@
+id:
+  - name: Lythrum hyssopifolia
+    common: Hyssop Loosestrife
+    by:
+      - chrislindorff
+      - beth393
+    ref:
+      inaturalist: 58934
+datetime: '2022-02-04T13:39:00+11:00'
+latitude: -38.326169
+longitude: 144.281898
+location_name: 'Torquay VIC 3228, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '178193159'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178193159/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178193159/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178193159'
+  - source: iNaturalist
+    id: '178193200'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178193200/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178193200/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178193200'
+license: CC BY-NC
+created_at: '2022-02-04T19:21:51+11:00'
+updated_at: '2022-02-05T21:43:43+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106111676'

@@ -1,0 +1,38 @@
+id:
+  - name: Aotus subspinescens
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 1084468
+datetime: '2015-01-24T15:58:00+11:00'
+latitude: -35.924372
+longitude: 141.863307
+location_name: 'Hindmarsh, Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176453303'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176453303/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176453303/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176453303'
+  - source: iNaturalist
+    id: '176453312'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176453312/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176453312/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176453312'
+license: CC BY-NC
+created_at: '2022-01-19T17:35:10+11:00'
+updated_at: '2022-01-19T17:35:10+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105198122'

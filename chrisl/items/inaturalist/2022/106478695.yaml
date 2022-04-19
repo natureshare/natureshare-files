@@ -1,0 +1,58 @@
+id:
+  - name: Acacia triptera
+    common: Spurwing Wattle
+    by:
+      - chrislindorff
+      - iancastle
+    ref:
+      inaturalist: 893166
+datetime: '2012-09-18T08:40:00+10:00'
+latitude: -36.344067
+longitude: 146.204158
+location_name: 'Wangandary VIC 3678, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '178876540'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178876540/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178876540/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178876540'
+  - source: iNaturalist
+    id: '178876600'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178876600/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178876600/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178876600'
+  - source: iNaturalist
+    id: '178876661'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178876661/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178876661/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178876661'
+  - source: iNaturalist
+    id: '178876725'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178876725/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178876725/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178876725'
+license: CC BY-NC
+created_at: '2022-02-10T17:36:03+11:00'
+updated_at: '2022-02-11T07:51:11+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106478695'

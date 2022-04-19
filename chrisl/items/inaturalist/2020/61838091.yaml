@@ -1,0 +1,48 @@
+id:
+  - name: Drosera auriculata
+    common: Tall sundew
+    by:
+      - chrislindorff
+      - bushbandit
+    ref:
+      inaturalist: 424565
+datetime: '2020-10-06T14:45:27+11:00'
+latitude: -37.825185
+longitude: 143.752267
+location_name: 'Dereel VIC 3352, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '99002359'
+    width: 1200
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99002359/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99002359/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/99002359'
+  - source: iNaturalist
+    id: '99002366'
+    width: 1200
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99002366/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99002366/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/99002366'
+  - source: iNaturalist
+    id: '99002374'
+    width: 1200
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99002374/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99002374/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/99002374'
+license: CC BY-NC
+created_at: '2020-10-06T14:51:26+11:00'
+updated_at: '2020-10-06T15:00:03+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61838091'

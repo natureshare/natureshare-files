@@ -1,0 +1,48 @@
+id:
+  - name: Melaleuca ericifolia
+    common: Swamp Paperbark
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 323834
+datetime: '2021-05-16T13:42:00+10:00'
+latitude: -38.460055
+longitude: 145.287945
+location_name: 'Bass Coast  - Phillip Is., Victoria, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '132596279'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132596279/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132596279/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/132596279'
+  - source: iNaturalist
+    id: '132596476'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132596476/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132596476/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/132596476'
+  - source: iNaturalist
+    id: '132596385'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132596385/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132596385/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/132596385'
+license: CC BY-NC
+created_at: '2021-05-30T23:53:27+10:00'
+updated_at: '2021-05-30T23:53:27+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/80876749'

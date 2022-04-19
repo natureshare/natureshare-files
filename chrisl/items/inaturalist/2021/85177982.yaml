@@ -1,0 +1,48 @@
+id:
+  - name: Oxalis purpurea
+    common: Purple woodsorrel
+    by:
+      - chrislindorff
+      - bushbandit
+    ref:
+      inaturalist: 78301
+datetime: '2021-07-01T15:30:48+10:00'
+latitude: -38.257232
+longitude: 144.613392
+location_name: 'Point Lonsdale VIC 3225, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '140107685'
+    width: 2048
+    height: 1152
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/140107685/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/140107685/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/140107685'
+  - source: iNaturalist
+    id: '140107690'
+    width: 2048
+    height: 1152
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/140107690/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/140107690/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/140107690'
+  - source: iNaturalist
+    id: '140107705'
+    width: 2048
+    height: 1152
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/140107705/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/140107705/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/140107705'
+license: CC BY-NC
+created_at: '2021-07-01T15:46:18+10:00'
+updated_at: '2021-07-01T17:36:13+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/85177982'

@@ -1,0 +1,57 @@
+id:
+  - name: Olearia ciliata ciliata
+    by:
+      - chrislindorff
+      - arthur_chapman
+    ref:
+      inaturalist: 1090320
+datetime: '2020-11-03T16:24:00+11:00'
+latitude: -37.865596
+longitude: 144.21907
+location_name: 'Steiglitz VIC 3331, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '125699999'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125699999/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125699999/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/125699999'
+  - source: iNaturalist
+    id: '125700090'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125700090/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125700090/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/125700090'
+  - source: iNaturalist
+    id: '125700151'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125700151/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125700151/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/125700151'
+  - source: iNaturalist
+    id: '125700223'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125700223/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125700223/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/125700223'
+license: CC BY-NC
+created_at: '2021-05-03T16:13:10+10:00'
+updated_at: '2021-05-03T16:34:20+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/76856205'

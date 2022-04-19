@@ -1,5 +1,6 @@
 id:
   - name: Cortinarius archeri
+    common: Emperor Cortinar
     by:
       - chrislindorff
       - reiner
@@ -18,8 +19,8 @@ photos:
     id: '75155887'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/75155887/medium.jpeg?1590491809'
-    original_url: 'https://static.inaturalist.org/photos/75155887/original.jpeg?1590491809'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75155887/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75155887/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/75155887'
@@ -27,8 +28,8 @@ photos:
     id: '75156138'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/75156138/medium.jpeg?1590491943'
-    original_url: 'https://static.inaturalist.org/photos/75156138/original.jpeg?1590491943'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75156138/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75156138/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/75156138'

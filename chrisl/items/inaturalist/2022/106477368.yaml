@@ -1,0 +1,38 @@
+id:
+  - name: Senecio bathurstianus
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 353932
+datetime: '2012-09-18T07:44:00+10:00'
+latitude: -36.343327
+longitude: 146.202226
+location_name: 'Taminick VIC 3675, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '178873996'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178873996/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178873996/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178873996'
+  - source: iNaturalist
+    id: '178874058'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178874058/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178874058/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178874058'
+license: CC BY-NC
+created_at: '2022-02-10T16:48:47+11:00'
+updated_at: '2022-02-10T16:48:47+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106477368'

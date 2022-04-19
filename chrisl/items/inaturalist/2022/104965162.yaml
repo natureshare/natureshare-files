@@ -1,0 +1,31 @@
+id:
+  - name: Calytrix tetragona
+    common: Fringe Myrtle
+    by:
+      - chrislindorff
+      - rikef
+    ref:
+      inaturalist: 83626
+datetime: '2016-10-31T11:42:00+11:00'
+latitude: -36.854108
+longitude: 142.473983
+location_name: 'Horsham Bal, Victoria, Australia'
+accuracy: 500
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176002422'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002422/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002422/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176002422'
+license: CC BY-NC
+created_at: '2022-01-15T22:13:12+11:00'
+updated_at: '2022-01-15T23:25:04+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104965162'

@@ -1,0 +1,41 @@
+id:
+  - name: Oxalis purpurea
+    common: Purple woodsorrel
+    by:
+      - chrislindorff
+      - reiner
+      - indrabone
+    ref:
+      inaturalist: 78301
+datetime: '2020-09-25T14:49:00+10:00'
+latitude: -37.832847
+longitude: 143.664708
+location_name: 'Rokewood Junction VIC 3351, Australia'
+accuracy: 100
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '98672831'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98672831/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98672831/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98672831'
+  - source: iNaturalist
+    id: '98672877'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98672877/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98672877/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98672877'
+license: CC BY-NC
+created_at: '2020-10-04T18:29:07+11:00'
+updated_at: '2020-10-04T21:13:19+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61649543'

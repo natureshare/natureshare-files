@@ -1,0 +1,39 @@
+id:
+  - name: Ptilotus macrocephalus
+    common: green mulla mulla
+    by:
+      - chrislindorff
+      - koolah
+    ref:
+      inaturalist: 551686
+datetime: '2020-11-30T10:22:42+11:00'
+latitude: -36.850732
+longitude: 142.469272
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '106059587'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106059587/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106059587/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106059587'
+  - source: iNaturalist
+    id: '106063588'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106063588/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106063588/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106063588'
+license: CC BY-NC
+created_at: '2020-11-30T10:58:32+11:00'
+updated_at: '2020-11-30T16:40:36+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65851475'

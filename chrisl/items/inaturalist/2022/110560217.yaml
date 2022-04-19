@@ -1,0 +1,39 @@
+id:
+  - name: Vittadinia cuneata cuneata
+    common: Fuzzy New Holland Daisy
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 1118572
+datetime: '2012-09-25T14:50:00+10:00'
+latitude: -31.278243
+longitude: 148.974331
+location_name: 'Warrumbungle NSW 2828, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '186526071'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/186526071/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/186526071/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/186526071'
+  - source: iNaturalist
+    id: '186526132'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/186526132/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/186526132/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/186526132'
+license: CC BY-NC
+created_at: '2022-04-06T18:54:31+10:00'
+updated_at: '2022-04-06T18:54:31+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/110560217'

@@ -1,0 +1,31 @@
+id:
+  - name: Dama dama
+    common: European Fallow Deer
+    by:
+      - chrislindorff
+      - bushbandit
+    ref:
+      inaturalist: 42161
+datetime: '2021-03-26T15:31:01+11:00'
+latitude: -38.345549
+longitude: 143.392469
+location_name: 'Pirron Yallock VIC 3249, Australia'
+accuracy: 4
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '118181374'
+    width: 2048
+    height: 1152
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/118181374/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/118181374/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/118181374'
+license: CC BY-NC
+created_at: '2021-03-31T09:18:39+11:00'
+updated_at: '2021-04-01T18:53:20+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/72481602'

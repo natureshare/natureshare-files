@@ -1,0 +1,49 @@
+id:
+  - name: Cymbonotus preissianus
+    common: Austral bear’s-ears
+    by:
+      - chrislindorff
+      - ninakerr01
+    ref:
+      inaturalist: 353940
+datetime: '2016-10-29T15:23:00+11:00'
+latitude: -36.855304
+longitude: 142.474304
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 200
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176427673'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176427673/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176427673/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176427673'
+  - source: iNaturalist
+    id: '176427684'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176427684/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176427684/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176427684'
+  - source: iNaturalist
+    id: '176427679'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176427679/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176427679/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176427679'
+license: CC BY-NC
+created_at: '2022-01-19T12:07:11+11:00'
+updated_at: '2022-01-24T21:59:49+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105185175'

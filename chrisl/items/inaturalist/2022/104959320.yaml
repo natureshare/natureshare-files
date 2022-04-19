@@ -1,0 +1,39 @@
+id:
+  - name: Coryphistes ruricola
+    common: Bark-mimicking Grasshopper
+    by:
+      - chrislindorff
+      - rover-rod
+    ref:
+      inaturalist: 543672
+datetime: '2022-01-15T18:07:53+11:00'
+latitude: -37.902065
+longitude: 144.223394
+location_name: 'Anakie VIC 3213, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '175991716'
+    width: 2048
+    height: 1152
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175991716/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175991716/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175991716'
+  - source: iNaturalist
+    id: '175991747'
+    width: 2048
+    height: 1152
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175991747/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175991747/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175991747'
+license: CC BY-NC
+created_at: '2022-01-15T18:09:23+11:00'
+updated_at: '2022-01-15T19:18:52+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104959320'

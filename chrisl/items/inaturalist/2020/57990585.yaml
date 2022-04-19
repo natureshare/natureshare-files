@@ -3,6 +3,7 @@ id:
     common: Variable Daisy
     by:
       - chrislindorff
+      - arthur_chapman
     ref:
       inaturalist: 553373
 datetime: '2012-09-25T12:07:00+10:00'
@@ -17,8 +18,8 @@ photos:
     id: '92546332'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/92546332/medium.jpeg?1598753037'
-    original_url: 'https://static.inaturalist.org/photos/92546332/original.jpeg?1598753037'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92546332/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92546332/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/92546332'
@@ -26,8 +27,8 @@ photos:
     id: '92546476'
     width: 2048
     height: 1356
-    thumbnail_url: 'https://static.inaturalist.org/photos/92546476/medium.jpeg?1598753110'
-    original_url: 'https://static.inaturalist.org/photos/92546476/original.jpeg?1598753110'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92546476/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92546476/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/92546476'
@@ -35,14 +36,14 @@ photos:
     id: '92546615'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/92546615/medium.jpeg?1598753189'
-    original_url: 'https://static.inaturalist.org/photos/92546615/original.jpeg?1598753189'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92546615/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92546615/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/92546615'
 license: CC BY-NC
 created_at: '2020-08-30T12:06:33+10:00'
-updated_at: '2020-08-30T12:06:33+10:00'
+updated_at: '2020-11-17T10:11:30+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/57990585'

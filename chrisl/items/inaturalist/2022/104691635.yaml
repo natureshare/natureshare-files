@@ -1,0 +1,49 @@
+id:
+  - name: Ajuga australis
+    common: Austral Bugle
+    by:
+      - chrislindorff
+      - elizabethhatfield
+    ref:
+      inaturalist: 210141
+datetime: '2013-09-14T16:41:00+10:00'
+latitude: -35.695503
+longitude: 141.946014
+location_name: 'Albacutya VIC 3424, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '175478527'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175478527/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175478527/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175478527'
+  - source: iNaturalist
+    id: '175478551'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175478551/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175478551/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175478551'
+  - source: iNaturalist
+    id: '175478575'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175478575/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175478575/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175478575'
+license: CC BY-NC
+created_at: '2022-01-10T16:40:03+11:00'
+updated_at: '2022-01-10T17:54:30+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104691635'

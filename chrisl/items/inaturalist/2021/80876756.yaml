@@ -1,0 +1,30 @@
+id:
+  - name: Tetragonia implexicoma
+    common: Kokihi
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 407885
+datetime: '2021-05-16T12:48:00+10:00'
+latitude: -38.458838
+longitude: 145.29436
+location_name: 'Bass Coast  - Phillip Is., Victoria, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '132597308'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132597308/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132597308/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/132597308'
+license: CC BY-NC
+created_at: '2021-05-30T23:53:29+10:00'
+updated_at: '2021-05-30T23:53:29+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/80876756'

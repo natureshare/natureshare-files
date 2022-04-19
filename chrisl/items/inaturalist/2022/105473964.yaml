@@ -1,0 +1,49 @@
+id:
+  - name: Ptilotula penicillata
+    common: White-plumed Honeyeater
+    by:
+      - chrislindorff
+      - elizathomp
+    ref:
+      inaturalist: 508976
+datetime: '2014-03-10T08:54:00+11:00'
+latitude: -35.92143
+longitude: 141.861921
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 100
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176977820'
+    width: 1085
+    height: 1638
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176977820/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176977820/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176977820'
+  - source: iNaturalist
+    id: '176977825'
+    width: 947
+    height: 1430
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176977825/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176977825/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176977825'
+  - source: iNaturalist
+    id: '176977835'
+    width: 1039
+    height: 1569
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176977835/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176977835/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176977835'
+license: CC BY-NC
+created_at: '2022-01-24T12:56:57+11:00'
+updated_at: '2022-01-24T13:12:51+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105473964'

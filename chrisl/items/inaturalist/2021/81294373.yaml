@@ -1,0 +1,40 @@
+id:
+  - name: Lepidosperma gladiatum
+    common: Coast Sword-sedge
+    by:
+      - chrislindorff
+      - chrisclarke25
+    ref:
+      inaturalist: 323919
+datetime: '2021-05-17T13:23:00+10:00'
+latitude: -38.516905
+longitude: 145.306799
+location_name: 'Newhaven VIC 3925, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '133329053'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133329053/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133329053/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133329053'
+  - source: iNaturalist
+    id: '133329120'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133329120/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133329120/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133329120'
+license: CC BY-NC
+created_at: '2021-06-02T22:41:28+10:00'
+updated_at: '2021-06-02T23:30:35+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/81294373'

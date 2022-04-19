@@ -1,0 +1,39 @@
+id:
+  - name: Indigofera australis
+    common: Australian Indigo
+    by:
+      - chrislindorff
+      - iancastle
+    ref:
+      inaturalist: 83364
+datetime: '2006-09-12T17:39:00+10:00'
+latitude: -38.455598
+longitude: 143.87814
+location_name: 'Pennyroyal VIC 3235, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '177530278'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177530278/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177530278/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/177530278'
+  - source: iNaturalist
+    id: '177530325'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177530325/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177530325/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/177530325'
+license: CC BY-NC
+created_at: '2022-01-29T21:24:25+11:00'
+updated_at: '2022-01-30T12:50:38+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105762965'

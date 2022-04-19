@@ -1,0 +1,49 @@
+id:
+  - name: Acacia euthycarpa euthycarpa
+    common: Wallowa
+    by:
+      - chrislindorff
+      - iancastle
+    ref:
+      inaturalist: 784380
+datetime: '2020-10-10T11:31:00+11:00'
+latitude: -35.913881
+longitude: 141.825606
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 100
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '175019846'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175019846/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175019846/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175019846'
+  - source: iNaturalist
+    id: '175019893'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175019893/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175019893/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175019893'
+  - source: iNaturalist
+    id: '175019871'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175019871/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175019871/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175019871'
+license: CC BY-NC
+created_at: '2022-01-06T17:44:50+11:00'
+updated_at: '2022-01-07T08:27:53+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104450065'

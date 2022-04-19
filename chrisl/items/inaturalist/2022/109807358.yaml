@@ -1,0 +1,40 @@
+id:
+  - name: Opercularia ovata
+    common: Broad-leaved stinkweed
+    by:
+      - chrislindorff
+      - michael1922
+    ref:
+      inaturalist: 906234
+datetime: '2022-03-24T11:00:00+11:00'
+latitude: -37.830303
+longitude: 144.197785
+location_name: 'Steiglitz VIC 3331, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '185138229'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138229/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138229/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185138229'
+  - source: iNaturalist
+    id: '185138265'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138265/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138265/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185138265'
+license: CC BY-NC
+created_at: '2022-03-29T14:00:10+11:00'
+updated_at: '2022-04-03T23:05:14+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/109807358'

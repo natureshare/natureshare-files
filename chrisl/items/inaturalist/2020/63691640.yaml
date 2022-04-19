@@ -1,0 +1,48 @@
+id:
+  - name: Microseris walteri
+    by:
+      - chrislindorff
+      - arthur_chapman
+    ref:
+      inaturalist: 1132139
+datetime: '2020-09-28T14:06:00+10:00'
+latitude: -36.854581
+longitude: 142.468369
+location_name: 'Horsham Bal, Victoria, Australia'
+accuracy: 50
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '102263296'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102263296/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102263296/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/102263296'
+  - source: iNaturalist
+    id: '102263386'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102263386/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102263386/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/102263386'
+  - source: iNaturalist
+    id: '102263335'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102263335/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102263335/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/102263335'
+license: CC BY-NC
+created_at: '2020-10-28T21:59:19+11:00'
+updated_at: '2020-11-17T09:36:51+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63691640'

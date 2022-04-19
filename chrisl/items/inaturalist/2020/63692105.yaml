@@ -1,0 +1,40 @@
+id:
+  - name: Aira cupaniana
+    by:
+      - chrislindorff
+      - abedggood
+    ref:
+      inaturalist: 399449
+datetime: '2020-09-28T14:25:00+10:00'
+latitude: -36.854581
+longitude: 142.468369
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 50
+description: Extended point on glumes visible. Only 1 of the floret pairs with an awn.
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '102264465'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102264465/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102264465/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/102264465'
+  - source: iNaturalist
+    id: '102264528'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102264528/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102264528/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/102264528'
+license: CC BY-NC
+created_at: '2020-10-28T22:16:28+11:00'
+updated_at: '2020-10-29T07:01:04+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63692105'

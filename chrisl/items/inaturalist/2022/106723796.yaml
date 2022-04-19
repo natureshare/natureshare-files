@@ -1,0 +1,30 @@
+id:
+  - name: Caladenia prolata
+    common: white fingers
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 474473
+datetime: '2009-09-07T10:19:00+10:00'
+latitude: -35.924782
+longitude: 140.602814
+location_name: 'Ngarkat SA 5302, Australia'
+accuracy: 50
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '179344465'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179344465/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179344465/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/179344465'
+license: CC BY-NC
+created_at: '2022-02-14T14:28:41+11:00'
+updated_at: '2022-02-14T14:28:41+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106723796'

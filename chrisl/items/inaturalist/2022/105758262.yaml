@@ -1,0 +1,31 @@
+id:
+  - name: Bulbine bulbosa
+    common: Bulbine Lily
+    by:
+      - chrislindorff
+      - ninakerr01
+    ref:
+      inaturalist: 516738
+datetime: '2012-09-18T06:50:00+10:00'
+latitude: -36.342354
+longitude: 146.20391
+location_name: 'Wangandary VIC 3678, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '177520436'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177520436/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177520436/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/177520436'
+license: CC BY-NC
+created_at: '2022-01-29T18:05:30+11:00'
+updated_at: '2022-01-29T18:31:11+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105758262'

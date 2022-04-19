@@ -1,0 +1,40 @@
+id:
+  - name: Oxalis incarnata
+    common: Pale pink-sorrel
+    by:
+      - chrislindorff
+      - w_martin
+    ref:
+      inaturalist: 61776
+datetime: '2020-11-03T18:20:20+11:00'
+latitude: -38.131023
+longitude: 144.343829
+location_name: 'North Geelong VIC 3215, Australia'
+accuracy: 4
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '102988642'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102988642/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102988642/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/102988642'
+  - source: iNaturalist
+    id: '102988654'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102988654/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102988654/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/102988654'
+license: CC BY-NC
+created_at: '2020-11-03T18:21:29+11:00'
+updated_at: '2020-11-03T19:17:10+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/64094921'

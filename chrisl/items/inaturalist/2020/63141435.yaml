@@ -1,0 +1,67 @@
+id:
+  - name: Acaena novae-zelandiae
+    common: Biddy-biddy
+    by:
+      - chrislindorff
+      - wren_fraser
+    ref:
+      inaturalist: 75256
+datetime: '2020-10-21T13:49:27+11:00'
+latitude: -38.409048
+longitude: 144.188112
+location_name: 'B100, Anglesea VIC 3230, Australia'
+accuracy: 8
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '101287415'
+    width: 2048
+    height: 921
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101287415/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101287415/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101287415'
+  - source: iNaturalist
+    id: '101287422'
+    width: 923
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101287422/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101287422/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101287422'
+  - source: iNaturalist
+    id: '101287438'
+    width: 720
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101287438/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101287438/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101287438'
+  - source: iNaturalist
+    id: '101287447'
+    width: 720
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101287447/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101287447/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101287447'
+  - source: iNaturalist
+    id: '101287458'
+    width: 720
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101287458/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101287458/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101287458'
+license: CC BY-NC
+created_at: '2020-10-21T13:52:16+11:00'
+updated_at: '2020-10-21T15:41:25+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63141435'

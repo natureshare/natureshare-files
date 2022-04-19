@@ -1,5 +1,6 @@
 id:
   - name: Eucalyptus yarraensis
+    common: Yarra Gum
     by:
       - chrislindorff
       - dnicolle
@@ -17,8 +18,8 @@ photos:
     id: '78658149'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/78658149/medium.jpeg?1592117917'
-    original_url: 'https://static.inaturalist.org/photos/78658149/original.jpeg?1592117917'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78658149/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78658149/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/78658149'
@@ -26,8 +27,8 @@ photos:
     id: '78658202'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/78658202/medium.jpeg?1592117990'
-    original_url: 'https://static.inaturalist.org/photos/78658202/original.jpeg?1592117990'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78658202/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78658202/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/78658202'
@@ -35,8 +36,8 @@ photos:
     id: '78658319'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/78658319/medium.jpeg?1592118093'
-    original_url: 'https://static.inaturalist.org/photos/78658319/original.jpeg?1592118093'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78658319/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78658319/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/78658319'
@@ -44,8 +45,8 @@ photos:
     id: '78658474'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/78658474/medium.jpeg?1592118262'
-    original_url: 'https://static.inaturalist.org/photos/78658474/original.jpeg?1592118262'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78658474/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78658474/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/78658474'
@@ -53,14 +54,14 @@ photos:
     id: '78658592'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/78658592/medium.jpeg?1592118384'
-    original_url: 'https://static.inaturalist.org/photos/78658592/original.jpeg?1592118384'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78658592/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78658592/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/78658592'
 license: CC BY-NC
 created_at: '2020-06-14T18:15:48+10:00'
-updated_at: '2020-06-14T22:49:36+10:00'
+updated_at: '2021-05-12T18:37:39+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/49549981'

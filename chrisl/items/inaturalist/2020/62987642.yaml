@@ -1,0 +1,40 @@
+id:
+  - name: Caladenia transitoria
+    common: Eastern Bronzehood Orchid
+    by:
+      - chrislindorff
+      - bushbandit
+    ref:
+      inaturalist: 515710
+datetime: '2020-10-16T17:38:00+11:00'
+latitude: -38.382973
+longitude: 144.238147
+location_name: 'Surf Coast - West, Victoria, Australia'
+accuracy: 15
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '101015745'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101015745/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101015745/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101015745'
+  - source: iNaturalist
+    id: '101015760'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101015760/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101015760/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101015760'
+license: CC BY-NC
+created_at: '2020-10-19T17:38:00+11:00'
+updated_at: '2020-10-19T17:49:32+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/62987642'

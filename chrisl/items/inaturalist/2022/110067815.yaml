@@ -1,0 +1,31 @@
+id:
+  - name: Urnisa guttulosa
+    common: Common Urnisa
+    by:
+      - ellurasanctuary
+      - robert_read
+    ref:
+      inaturalist: 739524
+datetime: '2013-09-26T11:27:00+10:00'
+latitude: -32.461646
+longitude: 137.745035
+location_name: 'Port Augusta SA, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '185617148'
+    width: 2010
+    height: 1331
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185617148/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185617148/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185617148'
+license: CC BY-NC
+created_at: '2022-04-01T15:48:06+11:00'
+updated_at: '2022-04-17T20:57:18+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/110067815'

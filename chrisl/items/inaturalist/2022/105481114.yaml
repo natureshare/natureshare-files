@@ -1,0 +1,49 @@
+id:
+  - name: Chamaecytisus prolifer palmensis
+    common: Tree lucerne
+    by:
+      - chrislindorff
+      - beth393
+    ref:
+      inaturalist: 598141
+datetime: '2020-09-25T14:57:00+10:00'
+latitude: -37.823528
+longitude: 143.685034
+location_name: 'Illabarook VIC 3351, Australia'
+accuracy: 10000
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176991352'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176991352/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176991352/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176991352'
+  - source: iNaturalist
+    id: '176991396'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176991396/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176991396/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176991396'
+  - source: iNaturalist
+    id: '176991445'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176991445/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176991445/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176991445'
+license: CC BY-NC
+created_at: '2022-01-24T14:59:08+11:00'
+updated_at: '2022-01-26T21:00:55+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105481114'

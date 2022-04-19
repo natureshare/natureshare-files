@@ -1,9 +1,11 @@
 id:
-  - name: Dichopogon
+  - name: Arthropodium strictum
+    common: chocolate lily
     by:
+      - reiner
       - chrislindorff
     ref:
-      inaturalist: 481917
+      inaturalist: 1138706
 datetime: '2009-09-12T11:08:00+10:00'
 latitude: -32.832001
 longitude: 138.056
@@ -16,8 +18,8 @@ photos:
     id: '74938620'
     width: 1362
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/74938620/medium.jpeg?1590404795'
-    original_url: 'https://static.inaturalist.org/photos/74938620/original.jpeg?1590404795'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74938620/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74938620/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/74938620'
@@ -25,14 +27,14 @@ photos:
     id: '74938664'
     width: 1362
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/74938664/medium.jpeg?1590404828'
-    original_url: 'https://static.inaturalist.org/photos/74938664/original.jpeg?1590404828'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74938664/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74938664/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/74938664'
 license: CC BY-NC
 created_at: '2020-05-25T21:37:57+10:00'
-updated_at: '2020-05-25T21:37:57+10:00'
+updated_at: '2020-10-20T22:12:34+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/47252437'

@@ -1,0 +1,41 @@
+id:
+  - name: Eupoecila australasiae
+    common: Fiddler Beetle
+    by:
+      - chrislindorff
+      - periplaneta
+      - catenatus
+    ref:
+      inaturalist: 201859
+datetime: '2020-12-30T14:55:33+11:00'
+latitude: -37.93968
+longitude: 144.409988
+location_name: 'Little River VIC 3211, Australia'
+accuracy: 16
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '108674821'
+    width: 1152
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108674821/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108674821/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/108674821'
+  - source: iNaturalist
+    id: '108674839'
+    width: 1152
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108674839/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108674839/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/108674839'
+license: CC BY-NC
+created_at: '2020-12-30T15:05:29+11:00'
+updated_at: '2020-12-30T15:19:06+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/67286056'

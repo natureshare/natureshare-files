@@ -1,0 +1,40 @@
+id:
+  - name: Bursaria spinosa
+    common: Australian Blackthorn
+    by:
+      - chrislindorff
+      - benfish
+      - pennywort_man
+    ref:
+      inaturalist: 83571
+datetime: '2020-11-30T10:04:04+11:00'
+latitude: -36.851993
+longitude: 142.468286
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '106206794'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106206794/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106206794/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106206794'
+  - source: iNaturalist
+    id: '106206810'
+    width: 2048
+    height: 921
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106206810/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106206810/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106206810'
+license: CC BY-NC
+created_at: '2020-12-01T22:20:43+11:00'
+updated_at: '2020-12-31T01:27:16+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65935249'

@@ -1,0 +1,31 @@
+id:
+  - name: Caladenia tentaculata
+    common: eastern mantis orchid
+    by:
+      - chrislindorff
+      - bushbandit
+    ref:
+      inaturalist: 474399
+datetime: '2020-10-21T12:06:13+11:00'
+latitude: -38.363156
+longitude: 144.103511
+location_name: 'Wensleydale VIC 3241, Australia'
+accuracy: 4
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '101285713'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101285713/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101285713/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101285713'
+license: CC BY-NC
+created_at: '2020-10-21T13:36:10+11:00'
+updated_at: '2020-10-21T17:02:26+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63140501'

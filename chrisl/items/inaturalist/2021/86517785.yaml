@@ -1,0 +1,29 @@
+id:
+  - name: Acacia dealbata
+    common: Silver wattle
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 53343
+datetime: '2021-07-11T15:21:24+10:00'
+latitude: -37.431783
+longitude: 143.913324
+location_name: 'Creswick VIC 3363, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '142542234'
+    width: 1152
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/142542234/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/142542234/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/142542234'
+license: CC BY-NC
+created_at: '2021-07-11T15:22:13+10:00'
+updated_at: '2021-07-11T15:22:20+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/86517785'

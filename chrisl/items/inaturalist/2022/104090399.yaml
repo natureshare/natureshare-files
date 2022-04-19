@@ -1,0 +1,38 @@
+id:
+  - name: Acacia penninervis
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 578930
+datetime: '2012-09-29T12:49:00+10:00'
+latitude: -32.775787
+longitude: 148.336502
+location_name: 'Baldry NSW 2867, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '174370408'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174370408/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174370408/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174370408'
+  - source: iNaturalist
+    id: '174370419'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174370419/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174370419/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174370419'
+license: CC BY-NC
+created_at: '2022-01-01T19:09:04+11:00'
+updated_at: '2022-01-21T16:08:36+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104090399'

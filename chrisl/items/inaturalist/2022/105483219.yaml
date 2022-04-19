@@ -1,0 +1,39 @@
+id:
+  - name: Cullen parvum
+    by:
+      - chrislindorff
+      - michael1922
+    ref:
+      inaturalist: 1092391
+datetime: '2013-11-01T11:05:00+11:00'
+latitude: -37.891233
+longitude: 143.929246
+location_name: 'Shelford VIC 3329, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176995444'
+    width: 1024
+    height: 1545
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176995444/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176995444/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176995444'
+  - source: iNaturalist
+    id: '176995480'
+    width: 1024
+    height: 1545
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176995480/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176995480/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176995480'
+license: CC BY-NC
+created_at: '2022-01-24T15:50:36+11:00'
+updated_at: '2022-01-28T13:21:57+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105483219'

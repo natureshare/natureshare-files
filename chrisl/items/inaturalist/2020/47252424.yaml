@@ -1,10 +1,11 @@
 id:
-  - name: Acacia
-    common: wattles
+  - name: Acacia gracilifolia
+    common: Graceful Wattle
     by:
+      - chrisclarke25
       - chrislindorff
     ref:
-      inaturalist: 47452
+      inaturalist: 1243754
 datetime: '2009-09-13T15:31:00+10:00'
 latitude: -32.746361
 longitude: 138.074127
@@ -17,14 +18,14 @@ photos:
     id: '74937521'
     width: 2048
     height: 1362
-    thumbnail_url: 'https://static.inaturalist.org/photos/74937521/medium.jpeg?1590404232'
-    original_url: 'https://static.inaturalist.org/photos/74937521/original.jpeg?1590404232'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74937521/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74937521/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/74937521'
 license: CC BY-NC
 created_at: '2020-05-25T21:37:51+10:00'
-updated_at: '2020-05-25T21:37:51+10:00'
+updated_at: '2021-05-29T10:14:09+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/47252424'

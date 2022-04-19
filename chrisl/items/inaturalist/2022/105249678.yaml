@@ -1,0 +1,49 @@
+id:
+  - name: Drosera glanduligera
+    common: Pimpernel sundew
+    by:
+      - chrislindorff
+      - felix-insects
+    ref:
+      inaturalist: 143360
+datetime: '2015-10-15T09:57:00+11:00'
+latitude: -37.86431
+longitude: 144.232873
+location_name: 'Brisbane Ranges, Golden Plains - South-East, Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176551071'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176551071/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176551071/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176551071'
+  - source: iNaturalist
+    id: '176551126'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176551126/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176551126/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176551126'
+  - source: iNaturalist
+    id: '176551097'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176551097/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176551097/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176551097'
+license: CC BY-NC
+created_at: '2022-01-20T16:45:30+11:00'
+updated_at: '2022-01-20T17:41:04+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105249678'

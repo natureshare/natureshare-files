@@ -1,0 +1,31 @@
+id:
+  - name: Calytrix tetragona
+    common: Fringe Myrtle
+    by:
+      - chrislindorff
+      - elizabethhatfield
+    ref:
+      inaturalist: 83626
+datetime: '2020-10-10T10:41:00+11:00'
+latitude: -35.912756
+longitude: 141.830601
+location_name: 'Birdcage Flora & Fauna Reserve, Rainbow'
+accuracy: 100
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '174888178'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174888178/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174888178/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174888178'
+license: CC BY-NC
+created_at: '2022-01-05T13:06:48+11:00'
+updated_at: '2022-01-05T14:16:07+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104380840'

@@ -2,6 +2,7 @@ id:
   - name: Persoonia cuspidifera
     by:
       - chrislindorff
+      - isidoreajar
     ref:
       inaturalist: 1032838
 datetime: '2012-09-27T09:49:00+10:00'
@@ -16,8 +17,8 @@ photos:
     id: '91428374'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/91428374/medium.jpeg?1598188474'
-    original_url: 'https://static.inaturalist.org/photos/91428374/original.jpeg?1598188474'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/91428374/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/91428374/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/91428374'
@@ -25,14 +26,14 @@ photos:
     id: '91428730'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/91428730/medium.jpeg?1598188602'
-    original_url: 'https://static.inaturalist.org/photos/91428730/original.jpeg?1598188602'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/91428730/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/91428730/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/91428730'
 license: CC BY-NC
 created_at: '2020-08-23T23:16:47+10:00'
-updated_at: '2020-08-23T23:16:48+10:00'
+updated_at: '2021-01-12T13:48:52+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/57325671'

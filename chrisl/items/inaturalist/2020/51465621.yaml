@@ -2,6 +2,7 @@ id:
   - name: Dodonaea viscosa spatulata
     by:
       - chrislindorff
+      - chrisclarke25
     ref:
       inaturalist: 971064
 datetime: '2020-06-28T10:42:00+10:00'
@@ -16,8 +17,8 @@ photos:
     id: '81760228'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/81760228/medium.jpeg?1593517281'
-    original_url: 'https://static.inaturalist.org/photos/81760228/original.jpeg?1593517281'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/81760228/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/81760228/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/81760228'
@@ -25,8 +26,8 @@ photos:
     id: '81760504'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/81760504/medium.jpeg?1593517437'
-    original_url: 'https://static.inaturalist.org/photos/81760504/original.jpeg?1593517437'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/81760504/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/81760504/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/81760504'
@@ -34,14 +35,14 @@ photos:
     id: '81760669'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/81760669/medium.jpeg?1593517540'
-    original_url: 'https://static.inaturalist.org/photos/81760669/original.jpeg?1593517540'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/81760669/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/81760669/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/81760669'
 license: CC BY-NC
 created_at: '2020-06-30T23:17:49+10:00'
-updated_at: '2020-06-30T23:17:49+10:00'
+updated_at: '2021-05-23T00:02:16+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/51465621'

@@ -1,0 +1,31 @@
+id:
+  - name: Pterostylis mutica
+    common: midget greenhood
+    by:
+      - chrislindorff
+      - izakschoon
+    ref:
+      inaturalist: 140380
+datetime: '2012-09-17T12:42:00+10:00'
+latitude: -36.284774
+longitude: 146.148857
+location_name: 'Boweya VIC 3675, Australia'
+accuracy: 50
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '96123540'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/96123540/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/96123540/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/96123540'
+license: CC BY-NC
+created_at: '2020-09-20T09:19:02+10:00'
+updated_at: '2020-09-20T09:30:49+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60129943'

@@ -1,0 +1,30 @@
+id:
+  - name: Amyema miraculosa boormanii
+    by:
+      - chrislindorff
+      - rfoster
+    ref:
+      inaturalist: 1084315
+datetime: '2013-02-02T13:02:00+11:00'
+latitude: -35.920753
+longitude: 141.860931
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '185475326'
+    width: 1545
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185475326/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185475326/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185475326'
+license: CC BY-NC
+created_at: '2022-03-31T18:18:57+11:00'
+updated_at: '2022-04-01T02:14:37+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/109989666'

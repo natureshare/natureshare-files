@@ -1,0 +1,49 @@
+id:
+  - name: Brunonia australis
+    common: blue pincushion
+    by:
+      - chrislindorff
+      - george_seagull
+    ref:
+      inaturalist: 421601
+datetime: '2016-10-31T11:43:00+11:00'
+latitude: -36.854108
+longitude: 142.473983
+location_name: 'Horsham Bal, Victoria, Australia'
+accuracy: 500
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176002377'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002377/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002377/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176002377'
+  - source: iNaturalist
+    id: '176002385'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002385/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002385/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176002385'
+  - source: iNaturalist
+    id: '176002383'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002383/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002383/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176002383'
+license: CC BY-NC
+created_at: '2022-01-15T22:13:10+11:00'
+updated_at: '2022-01-15T22:16:22+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104965157'

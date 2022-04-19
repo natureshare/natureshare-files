@@ -3,6 +3,7 @@ id:
     common: Wrinkle-nut Lignum
     by:
       - chrislindorff
+      - karenwilsonau
     ref:
       inaturalist: 369914
 datetime: '2012-09-22T08:14:00+10:00'
@@ -17,14 +18,14 @@ photos:
     id: '74473162'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/74473162/medium.jpeg?1590237994'
-    original_url: 'https://static.inaturalist.org/photos/74473162/original.jpeg?1590237994'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74473162/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74473162/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/74473162'
 license: CC BY-NC
 created_at: '2020-05-23T22:46:39+10:00'
-updated_at: '2020-05-23T22:46:39+10:00'
+updated_at: '2021-01-26T13:49:56+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/46958371'

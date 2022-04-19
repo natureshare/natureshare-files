@@ -1,0 +1,31 @@
+id:
+  - name: Sugomel nigrum
+    common: Black Honeyeater
+    by:
+      - chrislindorff
+      - george_seagull
+    ref:
+      inaturalist: 367631
+datetime: '2018-07-26T14:45:00+10:00'
+latitude: -24.265512
+longitude: 124.347624
+location_name: 'Little Sandy Desert WA 6646, Australia'
+accuracy: 50
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176748730'
+    width: 1366
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176748730/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176748730/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176748730'
+license: CC BY-NC
+created_at: '2022-01-22T19:11:23+11:00'
+updated_at: '2022-01-22T19:19:57+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105352131'

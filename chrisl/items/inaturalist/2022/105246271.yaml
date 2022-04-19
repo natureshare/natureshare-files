@@ -1,0 +1,48 @@
+id:
+  - name: Plantago hispida
+    common: coastal plaintain
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 920894
+datetime: '2015-10-13T09:48:00+11:00'
+latitude: -37.860163
+longitude: 144.19171
+location_name: 'Brisbane Ranges, Golden Plains - South-East, Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176545361'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545361/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545361/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176545361'
+  - source: iNaturalist
+    id: '176545370'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545370/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545370/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176545370'
+  - source: iNaturalist
+    id: '176545375'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545375/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545375/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176545375'
+license: CC BY-NC
+created_at: '2022-01-20T15:03:06+11:00'
+updated_at: '2022-01-20T15:03:06+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105246271'

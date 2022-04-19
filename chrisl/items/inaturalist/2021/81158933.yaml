@@ -1,0 +1,30 @@
+id:
+  - name: Sonchus megalocarpus
+    by:
+      - chrislindorff
+      - beth393
+    ref:
+      inaturalist: 903022
+datetime: '2021-05-17T12:10:00+10:00'
+latitude: -38.456779
+longitude: 145.19413
+location_name: 'Ventnor VIC 3922, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '133091119'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133091119/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133091119/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133091119'
+license: CC BY-NC
+created_at: '2021-06-01T20:57:06+10:00'
+updated_at: '2021-06-02T20:11:32+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/81158933'

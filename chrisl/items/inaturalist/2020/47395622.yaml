@@ -16,8 +16,8 @@ photos:
     id: '75168995'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/75168995/medium.jpeg?1590499459'
-    original_url: 'https://static.inaturalist.org/photos/75168995/original.jpeg?1590499459'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75168995/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75168995/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/75168995'
@@ -25,14 +25,14 @@ photos:
     id: '75169180'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/75169180/medium.jpeg?1590499547'
-    original_url: 'https://static.inaturalist.org/photos/75169180/original.jpeg?1590499547'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75169180/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75169180/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/75169180'
 license: CC BY-NC
 created_at: '2020-05-26T23:35:10+10:00'
-updated_at: '2020-05-26T23:35:10+10:00'
+updated_at: '2021-10-14T23:41:43+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/47395622'

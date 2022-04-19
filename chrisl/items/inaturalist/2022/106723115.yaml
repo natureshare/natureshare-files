@@ -1,0 +1,39 @@
+id:
+  - name: Caladenia colorata
+    common: Colourful Spider-orchid
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 950220
+datetime: '2009-09-07T10:55:00+10:00'
+latitude: -35.805315
+longitude: 140.741398
+location_name: 'South Australia, AU'
+accuracy: 28620
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '179342871'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179342871/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179342871/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/179342871'
+  - source: iNaturalist
+    id: '179342913'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179342913/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179342913/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/179342913'
+license: CC BY-NC
+created_at: '2022-02-14T14:12:30+11:00'
+updated_at: '2022-02-14T14:12:31+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106723115'

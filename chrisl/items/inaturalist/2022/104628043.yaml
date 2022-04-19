@@ -1,0 +1,48 @@
+id:
+  - name: Chorizandra enodis
+    by:
+      - karenwilsonau
+      - chrislindorff
+    ref:
+      inaturalist: 836494
+datetime: '2020-09-29T12:02:00+10:00'
+latitude: -36.851237
+longitude: 142.480135
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '175358256'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175358256/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175358256/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175358256'
+  - source: iNaturalist
+    id: '175358283'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175358283/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175358283/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175358283'
+  - source: iNaturalist
+    id: '175358313'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175358313/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175358313/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175358313'
+license: CC BY-NC
+created_at: '2022-01-09T18:32:04+11:00'
+updated_at: '2022-01-09T23:44:41+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104628043'

@@ -1,0 +1,38 @@
+id:
+  - name: Allocasuarina diminuta diminuta
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 1235063
+datetime: '2012-09-29T12:22:00+10:00'
+latitude: -32.778191
+longitude: 148.344104
+location_name: 'Baldry NSW 2867, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '174365378'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174365378/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174365378/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174365378'
+  - source: iNaturalist
+    id: '174365403'
+    width: 1546
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174365403/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174365403/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174365403'
+license: CC BY-NC
+created_at: '2022-01-01T17:44:59+11:00'
+updated_at: '2022-01-01T17:44:59+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104087674'

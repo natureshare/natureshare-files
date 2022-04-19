@@ -1,9 +1,10 @@
 id:
-  - name: Phebalium squamulosum squamulosum
+  - name: Phebalium squamulosum coriaceum
     by:
+      - sdema
       - chrislindorff
     ref:
-      inaturalist: 787354
+      inaturalist: 787349
 datetime: '2012-09-25T11:45:00+10:00'
 latitude: -31.286858
 longitude: 148.970377
@@ -16,8 +17,8 @@ photos:
     id: '91410812'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/91410812/medium.jpeg?1598177737'
-    original_url: 'https://static.inaturalist.org/photos/91410812/original.jpeg?1598177737'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/91410812/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/91410812/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/91410812'
@@ -25,14 +26,14 @@ photos:
     id: '91410948'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/91410948/medium.jpeg?1598177851'
-    original_url: 'https://static.inaturalist.org/photos/91410948/original.jpeg?1598177851'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/91410948/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/91410948/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/91410948'
 license: CC BY-NC
 created_at: '2020-08-23T20:19:28+10:00'
-updated_at: '2020-08-23T20:19:28+10:00'
+updated_at: '2020-12-04T09:00:29+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/57314576'

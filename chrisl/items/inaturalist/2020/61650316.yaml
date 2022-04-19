@@ -1,0 +1,48 @@
+id:
+  - name: Leptorhynchos squamatus squamatus
+    by:
+      - chrislindorff
+      - ninakerr01
+    ref:
+      inaturalist: 972679
+datetime: '2020-09-25T14:17:00+10:00'
+latitude: -37.794299
+longitude: 143.62279
+location_name: 'Cape Clear VIC 3351, Australia'
+accuracy: 50
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '98674083'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98674083/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98674083/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98674083'
+  - source: iNaturalist
+    id: '98674314'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98674314/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98674314/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98674314'
+  - source: iNaturalist
+    id: '98674356'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98674356/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98674356/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98674356'
+license: CC BY-NC
+created_at: '2020-10-04T18:51:23+11:00'
+updated_at: '2021-02-14T07:55:25+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61650316'

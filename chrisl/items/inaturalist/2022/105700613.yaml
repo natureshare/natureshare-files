@@ -1,0 +1,49 @@
+id:
+  - name: Ptilotus obovatus
+    common: cotton bush
+    by:
+      - chrislindorff
+      - margl
+    ref:
+      inaturalist: 606320
+datetime: '2018-07-24T13:47:00+10:00'
+latitude: -24.21132
+longitude: 124.36157
+location_name: 'Little Sandy Desert WA 6646, Australia'
+accuracy: 200
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '177408456'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177408456/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177408456/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/177408456'
+  - source: iNaturalist
+    id: '177408494'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177408494/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177408494/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/177408494'
+  - source: iNaturalist
+    id: '177408533'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177408533/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177408533/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/177408533'
+license: CC BY-NC
+created_at: '2022-01-28T15:57:55+11:00'
+updated_at: '2022-01-28T20:11:58+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105700613'

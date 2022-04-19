@@ -1,0 +1,50 @@
+id:
+  - name: Calytrix alpestris
+    common: snow myrtle
+    by:
+      - chrislindorff
+      - michael1922
+    ref:
+      inaturalist: 958748
+datetime: '2021-11-03T10:13:32+11:00'
+latitude: -35.92584
+longitude: 141.857064
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 7
+description: Atop sand dune. Small plants to 60cm tall.
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '167071061'
+    width: 1152
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/167071061/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/167071061/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/167071061'
+  - source: iNaturalist
+    id: '167071088'
+    width: 1152
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/167071088/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/167071088/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/167071088'
+  - source: iNaturalist
+    id: '167071105'
+    width: 900
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/167071105/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/167071105/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/167071105'
+license: CC BY-NC
+created_at: '2021-11-03T17:02:43+11:00'
+updated_at: '2021-11-03T22:27:33+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/100125868'

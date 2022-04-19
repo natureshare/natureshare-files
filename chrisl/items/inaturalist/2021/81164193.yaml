@@ -1,0 +1,50 @@
+id:
+  - name: Amphibolis antarctica
+    common: Sea Nymph
+    by:
+      - ben_travaglini
+      - chrislindorff
+      - w_martin
+    ref:
+      inaturalist: 435632
+datetime: '2021-05-17T12:25:00+10:00'
+latitude: -38.453695
+longitude: 145.197726
+location_name: 'Bass Coast  - Phillip Is., Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '133099418'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133099418/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133099418/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133099418'
+  - source: iNaturalist
+    id: '133099490'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133099490/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133099490/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133099490'
+  - source: iNaturalist
+    id: '133099560'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133099560/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133099560/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133099560'
+license: CC BY-NC
+created_at: '2021-06-01T22:20:04+10:00'
+updated_at: '2021-09-02T23:05:18+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/81164193'

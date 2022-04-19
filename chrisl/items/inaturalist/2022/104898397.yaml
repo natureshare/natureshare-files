@@ -1,0 +1,31 @@
+id:
+  - name: Dillwynia sericea
+    common: showy parrot-pea
+    by:
+      - chrislindorff
+      - michael1922
+    ref:
+      inaturalist: 323816
+datetime: '2016-11-17T08:08:00+11:00'
+latitude: -36.853947
+longitude: 142.469567
+location_name: 'Horsham Bal, Victoria, Australia'
+accuracy: 100
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '175875210'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175875210/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175875210/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175875210'
+license: CC BY-NC
+created_at: '2022-01-14T13:57:00+11:00'
+updated_at: '2022-01-15T21:53:11+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104898397'

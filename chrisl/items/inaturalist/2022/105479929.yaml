@@ -1,0 +1,57 @@
+id:
+  - name: Goodenia lanata
+    common: trailing Goodenia
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 323879
+datetime: '2020-09-25T15:54:00+10:00'
+latitude: -37.808296
+longitude: 143.918471
+location_name: 'Mount Mercer VIC 3352, Australia'
+accuracy: 50
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176989223'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176989223/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176989223/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176989223'
+  - source: iNaturalist
+    id: '176989300'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176989300/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176989300/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176989300'
+  - source: iNaturalist
+    id: '176989370'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176989370/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176989370/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176989370'
+  - source: iNaturalist
+    id: '176989459'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176989459/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176989459/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176989459'
+license: CC BY-NC
+created_at: '2022-01-24T14:33:47+11:00'
+updated_at: '2022-01-24T14:33:47+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105479929'

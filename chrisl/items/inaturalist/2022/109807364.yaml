@@ -1,0 +1,40 @@
+id:
+  - name: Ozothamnus obcordatus
+    common: Grey Everlasting
+    by:
+      - chrislindorff
+      - beth393
+    ref:
+      inaturalist: 353933
+datetime: '2022-03-24T12:04:00+11:00'
+latitude: -37.828752
+longitude: 144.197032
+location_name: 'Brisbane Ranges, Golden Plains - South-East, Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '185138457'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138457/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138457/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185138457'
+  - source: iNaturalist
+    id: '185138494'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138494/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138494/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185138494'
+license: CC BY-NC
+created_at: '2022-03-29T14:00:12+11:00'
+updated_at: '2022-03-29T19:37:35+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/109807364'

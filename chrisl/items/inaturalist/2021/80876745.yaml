@@ -1,0 +1,30 @@
+id:
+  - name: Leptospermum laevigatum
+    common: Australian Tea Tree
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 77704
+datetime: '2021-05-16T12:44:00+10:00'
+latitude: -38.458975
+longitude: 145.293911
+location_name: 'Rhyll VIC 3923, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '132595923'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132595923/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132595923/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/132595923'
+license: CC BY-NC
+created_at: '2021-05-30T23:53:25+10:00'
+updated_at: '2021-05-30T23:53:25+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/80876745'

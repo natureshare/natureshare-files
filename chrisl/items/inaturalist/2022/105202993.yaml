@@ -1,0 +1,57 @@
+id:
+  - name: Acacia sclerophylla sclerophylla
+    common: Hard-leaf Wattle
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 783192
+datetime: '2014-01-25T17:11:00+11:00'
+latitude: -35.824452
+longitude: 142.07674
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176462797'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176462797/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176462797/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176462797'
+  - source: iNaturalist
+    id: '176462835'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176462835/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176462835/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176462835'
+  - source: iNaturalist
+    id: '176462861'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176462861/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176462861/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176462861'
+  - source: iNaturalist
+    id: '176462884'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176462884/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176462884/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176462884'
+license: CC BY-NC
+created_at: '2022-01-19T21:18:18+11:00'
+updated_at: '2022-01-19T21:18:18+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105202993'

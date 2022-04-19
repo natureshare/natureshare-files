@@ -5,10 +5,10 @@ id:
     ref:
       inaturalist: 208167
 datetime: '2020-05-26T12:49:00+10:00'
-latitude: -37.687905
-longitude: 143.542136
-location_name: 'Linton VIC 3360, Australia'
-accuracy: 200
+latitude: -37.725389
+longitude: 143.512045
+location_name: 'Victoria, AU'
+accuracy: 28359
 tags:
   - inaturalist
 photos:
@@ -16,8 +16,8 @@ photos:
     id: '75164233'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/75164233/medium.jpeg?1590497135'
-    original_url: 'https://static.inaturalist.org/photos/75164233/original.jpeg?1590497135'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75164233/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75164233/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/75164233'
@@ -25,8 +25,8 @@ photos:
     id: '75165294'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/75165294/medium.jpeg?1590497688'
-    original_url: 'https://static.inaturalist.org/photos/75165294/original.jpeg?1590497688'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75165294/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75165294/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/75165294'
@@ -34,8 +34,8 @@ photos:
     id: '75165489'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/75165489/medium.jpeg?1590497783'
-    original_url: 'https://static.inaturalist.org/photos/75165489/original.jpeg?1590497783'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75165489/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75165489/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/75165489'
@@ -43,8 +43,8 @@ photos:
     id: '75165938'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/75165938/medium.jpeg?1590498011'
-    original_url: 'https://static.inaturalist.org/photos/75165938/original.jpeg?1590498011'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75165938/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75165938/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/75165938'
@@ -52,8 +52,8 @@ photos:
     id: '75165788'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/75165788/medium.jpeg?1590497938'
-    original_url: 'https://static.inaturalist.org/photos/75165788/original.jpeg?1590497938'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75165788/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75165788/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/75165788'
@@ -61,8 +61,8 @@ photos:
     id: '75165652'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/75165652/medium.jpeg?1590497861'
-    original_url: 'https://static.inaturalist.org/photos/75165652/original.jpeg?1590497861'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75165652/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75165652/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/75165652'

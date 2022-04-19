@@ -1,0 +1,48 @@
+id:
+  - name: Pittosporum angustifolium
+    common: Native apricot
+    by:
+      - chrislindorff
+      - bernie-l
+    ref:
+      inaturalist: 349255
+datetime: '2020-10-11T16:22:36+11:00'
+latitude: -35.7691
+longitude: 141.950068
+location_name: 'Albacutya VIC 3424, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '99951039'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99951039/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99951039/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/99951039'
+  - source: iNaturalist
+    id: '99951068'
+    width: 1200
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99951068/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99951068/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/99951068'
+  - source: iNaturalist
+    id: '99951095'
+    width: 1200
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99951095/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99951095/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/99951095'
+license: CC BY-NC
+created_at: '2020-10-12T21:29:41+11:00'
+updated_at: '2020-10-13T21:29:59+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/62387203'

@@ -1,0 +1,32 @@
+id:
+  - name: Plebs bradleyi
+    common: Enamelled Spider
+    by:
+      - suzieandjim
+      - cesdamess
+      - chrislindorff
+    ref:
+      inaturalist: 552232
+datetime: '2022-03-24T12:57:00+11:00'
+latitude: -37.824793
+longitude: 144.186617
+location_name: 'Steiglitz VIC 3331, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '185138527'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138527/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138527/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185138527'
+license: CC BY-NC
+created_at: '2022-03-29T14:00:12+11:00'
+updated_at: '2022-03-30T13:48:21+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/109807363'

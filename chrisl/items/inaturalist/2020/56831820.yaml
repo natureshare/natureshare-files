@@ -3,6 +3,7 @@ id:
     common: Bur Daisy
     by:
       - chrislindorff
+      - lizardview
     ref:
       inaturalist: 400329
 datetime: '2012-09-25T11:03:00+10:00'
@@ -17,8 +18,8 @@ photos:
     id: '90596525'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/90596525/medium.jpeg?1597752997'
-    original_url: 'https://static.inaturalist.org/photos/90596525/original.jpeg?1597752997'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90596525/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90596525/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/90596525'
@@ -26,14 +27,14 @@ photos:
     id: '90596740'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/90596740/medium.jpeg?1597753124'
-    original_url: 'https://static.inaturalist.org/photos/90596740/original.jpeg?1597753124'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90596740/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90596740/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/90596740'
 license: CC BY-NC
 created_at: '2020-08-18T22:18:51+10:00'
-updated_at: '2020-08-18T22:18:51+10:00'
+updated_at: '2022-01-06T06:59:05+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/56831820'

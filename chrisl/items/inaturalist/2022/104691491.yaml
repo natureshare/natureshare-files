@@ -1,0 +1,41 @@
+id:
+  - name: Thynnidae
+    common: Thynnid Flower Wasps
+    by:
+      - seins
+      - headsoup
+      - r2d2robot
+    ref:
+      inaturalist: 605157
+datetime: '2013-08-27T10:31:00+10:00'
+latitude: -35.923907
+longitude: 141.86998
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 15
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '175478263'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175478263/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175478263/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175478263'
+  - source: iNaturalist
+    id: '175478279'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175478279/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175478279/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175478279'
+license: CC BY-NC
+created_at: '2022-01-10T16:34:30+11:00'
+updated_at: '2022-01-13T16:08:12+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104691491'

@@ -1,0 +1,31 @@
+id:
+  - name: Acacia paradoxa
+    common: Kangaroo thorn
+    by:
+      - chrislindorff
+      - iancastle
+    ref:
+      inaturalist: 75251
+datetime: '2020-09-25T14:32:00+10:00'
+latitude: -37.821573
+longitude: 143.655942
+location_name: 'Golden Plains - North-West, Victoria, Australia'
+accuracy: 15
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176983490'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176983490/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176983490/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176983490'
+license: CC BY-NC
+created_at: '2022-01-24T13:45:42+11:00'
+updated_at: '2022-01-24T17:09:42+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105476793'

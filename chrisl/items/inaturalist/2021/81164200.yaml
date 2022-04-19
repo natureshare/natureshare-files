@@ -1,0 +1,44 @@
+id:
+  - name: Austrolittorina unifasciata
+    common: Little Blue Periwinkle
+    by:
+      - bushbandit
+      - ben_travaglini
+      - extraneus
+      - w_martin
+      - nicklambert
+      - glycymeris
+    ref:
+      inaturalist: 546433
+datetime: '2021-05-17T12:40:00+10:00'
+latitude: -38.452707
+longitude: 145.198207
+location_name: 'Bass Coast  - Phillip Is., Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '133100225'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133100225/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133100225/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133100225'
+  - source: iNaturalist
+    id: '133100299'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133100299/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133100299/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133100299'
+license: CC BY-NC
+created_at: '2021-06-01T22:20:07+10:00'
+updated_at: '2022-01-05T08:32:41+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/81164200'

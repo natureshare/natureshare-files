@@ -1,5 +1,6 @@
 id:
   - name: Opercularia varia
+    common: variable stinkweed
     by:
       - chrislindorff
     ref:
@@ -16,8 +17,8 @@ photos:
     id: '75158265'
     width: 2048
     height: 1356
-    thumbnail_url: 'https://static.inaturalist.org/photos/75158265/medium.jpeg?1590493448'
-    original_url: 'https://static.inaturalist.org/photos/75158265/original.jpeg?1590493448'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75158265/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75158265/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/75158265'

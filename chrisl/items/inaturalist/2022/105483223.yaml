@@ -1,0 +1,40 @@
+id:
+  - name: Disa bracteata
+    common: Bract Disa
+    by:
+      - chrislindorff
+      - beth393
+    ref:
+      inaturalist: 475002
+datetime: '2013-11-01T10:46:00+11:00'
+latitude: -37.872948
+longitude: 143.901993
+location_name: 'Mount Mercer VIC 3352, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176995558'
+    width: 679
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176995558/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176995558/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176995558'
+  - source: iNaturalist
+    id: '176995580'
+    width: 679
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176995580/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176995580/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176995580'
+license: CC BY-NC
+created_at: '2022-01-24T15:50:37+11:00'
+updated_at: '2022-01-24T19:55:24+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105483223'

@@ -1,0 +1,49 @@
+id:
+  - name: Melilotus indicus
+    common: small melilot
+    by:
+      - chrislindorff
+      - helenschofield
+    ref:
+      inaturalist: 57065
+datetime: '2020-10-30T08:57:04+11:00'
+latitude: -37.882023
+longitude: 144.459288
+location_name: 'Little River VIC 3211, Australia'
+accuracy: 13
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '102434649'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102434649/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102434649/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/102434649'
+  - source: iNaturalist
+    id: '102434662'
+    width: 720
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102434662/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102434662/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/102434662'
+  - source: iNaturalist
+    id: '102434667'
+    width: 720
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102434667/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102434667/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/102434667'
+license: CC BY-NC
+created_at: '2020-10-30T09:02:06+11:00'
+updated_at: '2020-10-31T14:20:40+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63787990'

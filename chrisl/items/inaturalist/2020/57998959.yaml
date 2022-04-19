@@ -3,6 +3,7 @@ id:
     common: Common Sunray
     by:
       - chrislindorff
+      - reiner
     ref:
       inaturalist: 210155
 datetime: '2012-09-25T14:54:00+10:00'
@@ -17,8 +18,8 @@ photos:
     id: '92561341'
     width: 2048
     height: 1356
-    thumbnail_url: 'https://static.inaturalist.org/photos/92561341/medium.jpeg?1598761855'
-    original_url: 'https://static.inaturalist.org/photos/92561341/original.jpeg?1598761855'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92561341/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92561341/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/92561341'
@@ -26,14 +27,14 @@ photos:
     id: '92561457'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/92561457/medium.jpeg?1598761944'
-    original_url: 'https://static.inaturalist.org/photos/92561457/original.jpeg?1598761944'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92561457/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92561457/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/92561457'
 license: CC BY-NC
 created_at: '2020-08-30T14:32:29+10:00'
-updated_at: '2020-08-30T14:32:30+10:00'
+updated_at: '2021-11-23T22:46:05+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/57998959'

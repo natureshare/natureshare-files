@@ -1,0 +1,31 @@
+id:
+  - name: Tetragonia moorei
+    by:
+      - chrislindorff
+      - darren_fielder
+    ref:
+      inaturalist: 1153603
+datetime: '2021-09-25T12:36:00+10:00'
+latitude: -34.238497
+longitude: 141.522763
+location_name: 'Mildura - Pt B, AU-VI, AU'
+accuracy: 20
+description: Annual plant in fruit
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '159524404'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/159524404/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/159524404/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/159524404'
+license: CC BY-NC
+created_at: '2021-09-25T15:46:32+10:00'
+updated_at: '2022-03-04T19:29:15+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/96049122'

@@ -1,10 +1,11 @@
 id:
-  - name: Senna artemisioides
-    common: silver senna
+  - name: Senna artemisioides zygophylla
+    common: Twin-leaf Desert Senna
     by:
+      - jeanphilippeb
       - chrislindorff
     ref:
-      inaturalist: 79058
+      inaturalist: 920824
 datetime: '2012-09-24T10:24:00+10:00'
 latitude: -31.297042
 longitude: 148.989049
@@ -17,8 +18,8 @@ photos:
     id: '90197241'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/90197241/medium.jpeg?1597549119'
-    original_url: 'https://static.inaturalist.org/photos/90197241/original.jpeg?1597549119'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90197241/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90197241/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/90197241'
@@ -26,14 +27,14 @@ photos:
     id: '90197457'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/90197457/medium.jpeg?1597549240'
-    original_url: 'https://static.inaturalist.org/photos/90197457/original.jpeg?1597549240'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90197457/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90197457/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/90197457'
 license: CC BY-NC
 created_at: '2020-08-16T13:40:45+10:00'
-updated_at: '2020-09-10T23:12:12+10:00'
+updated_at: '2020-09-12T17:34:36+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/56592862'

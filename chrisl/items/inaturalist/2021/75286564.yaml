@@ -1,0 +1,40 @@
+id:
+  - name: Gamochaeta americana
+    common: American Everlasting
+    by:
+      - chrislindorff
+      - arthur_chapman
+    ref:
+      inaturalist: 153366
+datetime: '2020-11-03T16:55:00+11:00'
+latitude: -37.859798
+longitude: 144.232319
+location_name: 'Steiglitz VIC 3331, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '123148281'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/123148281/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/123148281/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/123148281'
+  - source: iNaturalist
+    id: '123148322'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/123148322/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/123148322/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/123148322'
+license: CC BY-NC
+created_at: '2021-04-26T16:12:51+10:00'
+updated_at: '2021-05-04T09:32:41+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/75286564'

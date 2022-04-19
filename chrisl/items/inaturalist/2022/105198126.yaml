@@ -1,0 +1,39 @@
+id:
+  - name: Kunzea pomifera
+    common: Muntries
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 194545
+datetime: '2015-01-24T16:01:00+11:00'
+latitude: -35.92453
+longitude: 141.863664
+location_name: 'Hindmarsh, Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176453383'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176453383/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176453383/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176453383'
+  - source: iNaturalist
+    id: '176453387'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176453387/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176453387/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176453387'
+license: CC BY-NC
+created_at: '2022-01-19T17:35:11+11:00'
+updated_at: '2022-01-19T17:35:12+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105198126'

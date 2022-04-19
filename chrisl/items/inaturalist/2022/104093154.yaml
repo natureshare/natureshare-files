@@ -1,0 +1,67 @@
+id:
+  - name: Eucalyptus
+    common: eucalyptus
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 51815
+datetime: '2012-09-29T13:11:00+10:00'
+latitude: -32.775553
+longitude: 148.33511
+location_name: 'Peak Hill NSW 2869, Australia'
+accuracy: 15
+description: 'At the very end of the Burrabadine Walking Track, Goobang National Park.'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '174375578'
+    width: 1546
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174375578/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174375578/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174375578'
+  - source: iNaturalist
+    id: '174375610'
+    width: 1546
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174375610/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174375610/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174375610'
+  - source: iNaturalist
+    id: '174375644'
+    width: 1546
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174375644/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174375644/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174375644'
+  - source: iNaturalist
+    id: '174375662'
+    width: 1546
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174375662/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174375662/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174375662'
+  - source: iNaturalist
+    id: '174375690'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174375690/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174375690/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174375690'
+license: CC BY-NC
+created_at: '2022-01-01T20:42:29+11:00'
+updated_at: '2022-01-01T20:42:29+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104093154'

@@ -1,0 +1,38 @@
+id:
+  - name: Philobota
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 355120
+datetime: '2015-10-15T09:51:00+11:00'
+latitude: -37.865229
+longitude: 144.233242
+location_name: 'Brisbane Ranges, Golden Plains - South-East, Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176551505'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176551505/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176551505/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176551505'
+  - source: iNaturalist
+    id: '176551803'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176551803/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176551803/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176551803'
+license: CC BY-NC
+created_at: '2022-01-20T16:45:31+11:00'
+updated_at: '2022-01-20T16:45:31+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105249682'

@@ -3,6 +3,7 @@ id:
     common: Creeping Myoporum
     by:
       - chrislindorff
+      - george_seagull
     ref:
       inaturalist: 349227
 datetime: '2020-08-02T15:27:00+10:00'
@@ -17,8 +18,8 @@ photos:
     id: '89211286'
     width: 2048
     height: 1356
-    thumbnail_url: 'https://static.inaturalist.org/photos/89211286/medium.jpeg?1597037975'
-    original_url: 'https://static.inaturalist.org/photos/89211286/original.jpeg?1597037975'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89211286/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89211286/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/89211286'
@@ -26,8 +27,8 @@ photos:
     id: '89211440'
     width: 2048
     height: 1356
-    thumbnail_url: 'https://static.inaturalist.org/photos/89211440/medium.jpeg?1597038111'
-    original_url: 'https://static.inaturalist.org/photos/89211440/original.jpeg?1597038111'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89211440/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89211440/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/89211440'
@@ -35,8 +36,8 @@ photos:
     id: '89211633'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/89211633/medium.jpeg?1597038290'
-    original_url: 'https://static.inaturalist.org/photos/89211633/original.jpeg?1597038290'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89211633/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89211633/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/89211633'
@@ -44,14 +45,14 @@ photos:
     id: '89211697'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/89211697/medium.jpeg?1597038348'
-    original_url: 'https://static.inaturalist.org/photos/89211697/original.jpeg?1597038348'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89211697/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89211697/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/89211697'
 license: CC BY-NC
 created_at: '2020-08-10T15:45:52+10:00'
-updated_at: '2020-08-10T15:45:52+10:00'
+updated_at: '2021-06-24T00:35:25+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/56002079'

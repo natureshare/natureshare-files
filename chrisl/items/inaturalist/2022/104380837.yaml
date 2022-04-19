@@ -1,0 +1,39 @@
+id:
+  - name: Rinzia orientalis
+    common: Desert Baeckea
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 911077
+datetime: '2020-10-10T10:37:00+11:00'
+latitude: -35.913147
+longitude: 141.838112
+location_name: 'Birdcage Flora & Fauna Reserve, Rainbow'
+accuracy: 100
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '174888070'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174888070/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174888070/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174888070'
+  - source: iNaturalist
+    id: '174888078'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174888078/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174888078/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174888078'
+license: CC BY-NC
+created_at: '2022-01-05T13:06:47+11:00'
+updated_at: '2022-01-05T13:06:47+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104380837'

@@ -1,0 +1,49 @@
+id:
+  - name: Dichondra repens
+    common: kidney weed
+    by:
+      - chrislindorff
+      - yatesy
+    ref:
+      inaturalist: 161824
+datetime: '2015-10-13T09:17:00+11:00'
+latitude: -37.862374
+longitude: 144.191623
+location_name: 'Brisbane Ranges, Golden Plains - South-East, Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176545259'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545259/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545259/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176545259'
+  - source: iNaturalist
+    id: '176545273'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545273/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545273/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176545273'
+  - source: iNaturalist
+    id: '176545283'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545283/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545283/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176545283'
+license: CC BY-NC
+created_at: '2022-01-20T15:03:04+11:00'
+updated_at: '2022-01-20T16:14:03+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105246266'

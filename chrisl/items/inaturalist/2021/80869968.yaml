@@ -1,0 +1,30 @@
+id:
+  - name: Banksia integrifolia integrifolia
+    by:
+      - chrislindorff
+      - chrisclarke25
+    ref:
+      inaturalist: 700972
+datetime: '2021-05-16T12:21:00+10:00'
+latitude: -38.460505
+longitude: 145.287671
+location_name: 'Rhyll VIC 3923, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '132585434'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132585434/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132585434/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/132585434'
+license: CC BY-NC
+created_at: '2021-05-30T22:54:56+10:00'
+updated_at: '2021-05-31T01:09:16+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/80869968'

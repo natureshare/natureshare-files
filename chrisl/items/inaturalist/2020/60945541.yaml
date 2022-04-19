@@ -1,0 +1,38 @@
+id:
+  - name: Asterella drummondii
+    by:
+      - johnwalter
+      - chrislindorff
+    ref:
+      inaturalist: 625511
+datetime: '2020-09-27T16:40:24+10:00'
+latitude: -36.892859
+longitude: 142.475362
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97481933'
+    width: 1600
+    height: 1200
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97481933/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97481933/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/97481933'
+  - source: iNaturalist
+    id: '97481961'
+    width: 1600
+    height: 1200
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97481961/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97481961/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/97481961'
+license: CC BY-NC
+created_at: '2020-09-27T21:16:47+10:00'
+updated_at: '2020-09-28T18:50:33+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60945541'

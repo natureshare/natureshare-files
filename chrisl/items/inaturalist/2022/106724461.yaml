@@ -1,0 +1,39 @@
+id:
+  - name: Diuris pardina
+    common: Leopard Orchid
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 516646
+datetime: '2009-09-07T10:17:00+10:00'
+latitude: -35.924782
+longitude: 140.602814
+location_name: 'Ngarkat SA 5302, Australia'
+accuracy: 50
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '179345969'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179345969/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179345969/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/179345969'
+  - source: iNaturalist
+    id: '179346005'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179346005/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179346005/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/179346005'
+license: CC BY-NC
+created_at: '2022-02-14T14:43:49+11:00'
+updated_at: '2022-02-14T14:43:49+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106724461'

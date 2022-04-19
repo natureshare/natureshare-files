@@ -1,0 +1,48 @@
+id:
+  - name: Myriophyllum simulans
+    by:
+      - chrislindorff
+      - michael1922
+    ref:
+      inaturalist: 407592
+datetime: '2022-03-24T13:25:00+11:00'
+latitude: -37.823872
+longitude: 144.188356
+location_name: 'Brisbane Ranges, Golden Plains - South-East, Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '185138058'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138058/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138058/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185138058'
+  - source: iNaturalist
+    id: '185138089'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138089/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138089/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185138089'
+  - source: iNaturalist
+    id: '185138122'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138122/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138122/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185138122'
+license: CC BY-NC
+created_at: '2022-03-29T14:00:09+11:00'
+updated_at: '2022-04-03T23:05:20+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/109807356'

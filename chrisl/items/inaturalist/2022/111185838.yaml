@@ -1,0 +1,31 @@
+id:
+  - name: Lambertia formosa
+    common: Mountain Devil
+    by:
+      - chrislindorff
+      - george_seagull
+    ref:
+      inaturalist: 83616
+datetime: '2012-01-02T12:46:00+11:00'
+latitude: -35.08966
+longitude: 150.690939
+location_name: 'Vincentia NSW 2540, Australia'
+accuracy: 200
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '187668095'
+    width: 1545
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/187668095/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/187668095/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/187668095'
+license: CC BY-NC
+created_at: '2022-04-12T21:14:12+10:00'
+updated_at: '2022-04-12T21:20:30+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/111185838'

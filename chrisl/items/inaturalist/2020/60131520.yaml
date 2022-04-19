@@ -1,0 +1,31 @@
+id:
+  - name: Stypandra glauca
+    common: nodding blue lily
+    by:
+      - chrislindorff
+      - jennyghct
+    ref:
+      inaturalist: 353957
+datetime: '2012-09-17T12:59:00+10:00'
+latitude: -36.285245
+longitude: 146.151839
+location_name: 'Boweya VIC 3675, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '96126102'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/96126102/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/96126102/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/96126102'
+license: CC BY-NC
+created_at: '2020-09-20T09:33:49+10:00'
+updated_at: '2020-09-20T09:42:34+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60131520'

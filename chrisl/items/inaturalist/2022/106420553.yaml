@@ -1,0 +1,47 @@
+id:
+  - name: Galium australe
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 323313
+datetime: '2012-09-18T07:27:00+10:00'
+latitude: -36.343025
+longitude: 146.202328
+location_name: 'Taminick VIC 3675, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '178768173'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178768173/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178768173/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178768173'
+  - source: iNaturalist
+    id: '178768229'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178768229/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178768229/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178768229'
+  - source: iNaturalist
+    id: '178768306'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178768306/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178768306/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178768306'
+license: CC BY-NC
+created_at: '2022-02-09T16:57:58+11:00'
+updated_at: '2022-02-09T16:57:58+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106420553'

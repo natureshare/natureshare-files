@@ -1,0 +1,39 @@
+id:
+  - name: Aira elegans
+    common: elegant hair grass
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 75321
+datetime: '2020-09-28T14:25:00+10:00'
+latitude: -36.854581
+longitude: 142.468369
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '175870957'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175870957/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175870957/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175870957'
+  - source: iNaturalist
+    id: '175871002'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175871002/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175871002/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175871002'
+license: CC BY-NC
+created_at: '2022-01-14T13:11:05+11:00'
+updated_at: '2022-01-14T13:11:06+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104896285'

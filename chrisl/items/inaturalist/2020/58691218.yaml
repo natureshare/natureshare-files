@@ -4,6 +4,7 @@ id:
     by:
       - chrislindorff
       - tattibom
+      - anon135
     ref:
       inaturalist: 123258
 datetime: '2020-09-06T17:05:25+10:00'
@@ -18,8 +19,8 @@ photos:
     id: '93722523'
     width: 2048
     height: 1152
-    thumbnail_url: 'https://static.inaturalist.org/photos/93722523/medium.jpeg?1599378156'
-    original_url: 'https://static.inaturalist.org/photos/93722523/original.jpeg?1599378156'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/93722523/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/93722523/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/93722523'
@@ -27,14 +28,14 @@ photos:
     id: '93722557'
     width: 2048
     height: 1152
-    thumbnail_url: 'https://static.inaturalist.org/photos/93722557/medium.jpeg?1599378189'
-    original_url: 'https://static.inaturalist.org/photos/93722557/original.jpeg?1599378189'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/93722557/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/93722557/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/93722557'
 license: CC BY-NC
 created_at: '2020-09-06T17:42:13+10:00'
-updated_at: '2020-09-06T17:50:49+10:00'
+updated_at: '2022-03-29T17:16:18+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/58691218'

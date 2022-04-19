@@ -1,0 +1,49 @@
+id:
+  - name: Melaleuca decussata
+    common: Totem-poles
+    by:
+      - chrislindorff
+      - chrisclarke25
+    ref:
+      inaturalist: 431304
+datetime: '2020-09-29T12:14:18+10:00'
+latitude: -36.849535
+longitude: 142.481089
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 2
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97869151'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97869151/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97869151/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/97869151'
+  - source: iNaturalist
+    id: '97869205'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97869205/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97869205/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/97869205'
+  - source: iNaturalist
+    id: '97869320'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97869320/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97869320/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/97869320'
+license: CC BY-NC
+created_at: '2020-09-29T12:17:21+10:00'
+updated_at: '2021-05-21T22:49:57+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61174216'

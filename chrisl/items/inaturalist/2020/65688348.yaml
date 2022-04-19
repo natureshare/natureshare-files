@@ -1,0 +1,47 @@
+id:
+  - name: Xerochrysum palustre
+    by:
+      - chrislindorff
+      - chrisclarke25
+    ref:
+      inaturalist: 634811
+datetime: '2020-11-27T05:25:15+11:00'
+latitude: -38.345886
+longitude: 143.389288
+location_name: 'Pirron Yallock VIC 3249, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '105767157'
+    width: 720
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105767157/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105767157/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/105767157'
+  - source: iNaturalist
+    id: '105767167'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105767167/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105767167/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/105767167'
+  - source: iNaturalist
+    id: '105767190'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105767190/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105767190/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/105767190'
+license: CC BY-NC
+created_at: '2020-11-27T23:13:09+11:00'
+updated_at: '2021-05-29T02:24:31+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65688348'

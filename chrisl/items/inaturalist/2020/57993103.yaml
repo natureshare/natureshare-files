@@ -1,7 +1,9 @@
 id:
   - name: Fumaria capreolata capreolata
+    common: White Ramping-Fumitory
     by:
       - chrislindorff
+      - arthur_chapman
     ref:
       inaturalist: 59257
 datetime: '2012-09-25T14:40:00+10:00'
@@ -16,14 +18,14 @@ photos:
     id: '92550740'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/92550740/medium.jpeg?1598755506'
-    original_url: 'https://static.inaturalist.org/photos/92550740/original.jpeg?1598755506'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92550740/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92550740/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/92550740'
 license: CC BY-NC
 created_at: '2020-08-30T12:45:11+10:00'
-updated_at: '2020-08-30T12:45:11+10:00'
+updated_at: '2020-09-19T09:03:50+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/57993103'

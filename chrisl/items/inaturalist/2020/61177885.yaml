@@ -1,0 +1,40 @@
+id:
+  - name: Stackhousia monogyna
+    common: Creamy Candles
+    by:
+      - chrislindorff
+      - bushbandit
+    ref:
+      inaturalist: 323868
+datetime: '2020-09-29T12:59:13+10:00'
+latitude: -36.855276
+longitude: 142.481875
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 3
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97870525'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97870525/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97870525/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/97870525'
+  - source: iNaturalist
+    id: '97871005'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97871005/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97871005/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/97871005'
+license: CC BY-NC
+created_at: '2020-09-29T13:01:29+10:00'
+updated_at: '2020-09-29T18:13:55+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61177885'

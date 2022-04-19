@@ -1,0 +1,31 @@
+id:
+  - name: Allocasuarina luehmannii
+    common: Buloke
+    by:
+      - chrislindorff
+      - oneanttofew
+    ref:
+      inaturalist: 527445
+datetime: '2020-09-27T17:31:52+10:00'
+latitude: -36.855565
+longitude: 142.473805
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 8
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97462652'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97462652/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97462652/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/97462652'
+license: CC BY-NC
+created_at: '2020-09-27T17:32:55+10:00'
+updated_at: '2020-09-27T17:45:34+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60933880'

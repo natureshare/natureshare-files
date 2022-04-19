@@ -1,0 +1,38 @@
+id:
+  - name: Thynnus
+    by:
+      - headsoup
+    ref:
+      inaturalist: 848694
+datetime: '2014-01-25T19:29:00+11:00'
+latitude: -35.919827
+longitude: 141.85684
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176463652'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176463652/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176463652/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176463652'
+  - source: iNaturalist
+    id: '176463698'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176463698/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176463698/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176463698'
+license: CC BY-NC
+created_at: '2022-01-19T21:38:35+11:00'
+updated_at: '2022-01-20T10:41:11+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105203470'

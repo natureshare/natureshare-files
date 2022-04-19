@@ -1,0 +1,58 @@
+id:
+  - name: Billardiera mutabilis
+    common: Common Apple-berry
+    by:
+      - chrislindorff
+      - chrisclarke25
+    ref:
+      inaturalist: 424084
+datetime: '2006-08-16T16:09:00+10:00'
+latitude: -37.940788
+longitude: 145.344979
+location_name: 'Melbourne VIC, Australia'
+accuracy: 50
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '130217332'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130217332/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130217332/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/130217332'
+  - source: iNaturalist
+    id: '130217476'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130217476/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130217476/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/130217476'
+  - source: iNaturalist
+    id: '130217360'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130217360/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130217360/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/130217360'
+  - source: iNaturalist
+    id: '130217412'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130217412/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130217412/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/130217412'
+license: CC BY-NC
+created_at: '2021-05-20T19:03:53+10:00'
+updated_at: '2021-05-20T19:05:28+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/79498596'

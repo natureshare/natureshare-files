@@ -1,0 +1,39 @@
+id:
+  - name: Olearia lanuginosa
+    by:
+      - chrislindorff
+      - iancastle
+    ref:
+      inaturalist: 553374
+datetime: '2015-10-14T10:20:00+11:00'
+latitude: -37.866228
+longitude: 144.23292
+location_name: 'Brisbane Ranges, Golden Plains - South-East, Victoria, Australia'
+accuracy: 50
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176559352'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176559352/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176559352/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176559352'
+  - source: iNaturalist
+    id: '176559359'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176559359/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176559359/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176559359'
+license: CC BY-NC
+created_at: '2022-01-20T19:11:40+11:00'
+updated_at: '2022-01-21T07:58:27+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105253394'

@@ -1,0 +1,31 @@
+id:
+  - name: Senecio elegans
+    common: Red-purple Ragwort
+    by:
+      - chrislindorff
+      - beth393
+    ref:
+      inaturalist: 79044
+datetime: '2020-10-21T13:25:16+11:00'
+latitude: -38.413098
+longitude: 144.192395
+location_name: 'Unnamed Road, Anglesea VIC 3230, Australia'
+accuracy: 4
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '101316327'
+    width: 2048
+    height: 921
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101316327/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101316327/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101316327'
+license: CC BY-NC
+created_at: '2020-10-21T22:42:44+11:00'
+updated_at: '2020-10-22T07:22:18+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63157321'

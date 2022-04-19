@@ -1,0 +1,57 @@
+id:
+  - name: Solanum nigrum
+    common: black nightshade
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 79141
+datetime: '2021-05-17T11:57:00+10:00'
+latitude: -38.458063
+longitude: 145.191475
+location_name: 'Bass Coast  - Phillip Is., Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '133086374'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133086374/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133086374/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133086374'
+  - source: iNaturalist
+    id: '133086546'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133086546/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133086546/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133086546'
+  - source: iNaturalist
+    id: '133086443'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133086443/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133086443/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133086443'
+  - source: iNaturalist
+    id: '133086488'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133086488/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133086488/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133086488'
+license: CC BY-NC
+created_at: '2021-06-01T20:00:25+10:00'
+updated_at: '2021-06-01T20:00:25+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/81155381'

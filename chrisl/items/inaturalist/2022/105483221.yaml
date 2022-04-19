@@ -1,0 +1,39 @@
+id:
+  - name: Dillwynia cinerascens
+    common: grey parrot pea
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 782186
+datetime: '2013-11-01T10:45:00+11:00'
+latitude: -37.872915
+longitude: 143.90207
+location_name: 'Mount Mercer VIC 3352, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176995494'
+    width: 679
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176995494/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176995494/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176995494'
+  - source: iNaturalist
+    id: '176995513'
+    width: 679
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176995513/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176995513/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176995513'
+license: CC BY-NC
+created_at: '2022-01-24T15:50:36+11:00'
+updated_at: '2022-01-24T15:50:36+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105483221'

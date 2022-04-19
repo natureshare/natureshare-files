@@ -1,0 +1,49 @@
+id:
+  - name: Acacia longifolia longifolia
+    common: Golden Rods
+    by:
+      - chrislindorff
+      - chrisclarke25
+    ref:
+      inaturalist: 740956
+datetime: '2006-08-16T15:57:00+10:00'
+latitude: -37.940788
+longitude: 145.344979
+location_name: 'Melbourne VIC, Australia'
+accuracy: 50
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '130031466'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130031466/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130031466/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/130031466'
+  - source: iNaturalist
+    id: '130031587'
+    width: 2048
+    height: 1362
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130031587/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130031587/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/130031587'
+  - source: iNaturalist
+    id: '130031527'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130031527/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130031527/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/130031527'
+license: CC BY-NC
+created_at: '2021-05-19T22:42:35+10:00'
+updated_at: '2021-05-19T23:36:56+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/79387207'

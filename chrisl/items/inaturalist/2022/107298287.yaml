@@ -1,0 +1,50 @@
+id:
+  - name: Rhagodia spinescens
+    common: Hedge Salt-bush
+    by:
+      - chrislindorff
+      - chrisclarke25
+    ref:
+      inaturalist: 627162
+datetime: '2022-02-23T15:52:24+11:00'
+latitude: -35.725502
+longitude: 142.369854
+location_name: 'Hopetoun VIC 3396, Australia'
+accuracy: 14
+description: Beside Lake Lascelles beneath River Red Gum.
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '180435525'
+    width: 2048
+    height: 1152
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/180435525/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/180435525/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/180435525'
+  - source: iNaturalist
+    id: '180435532'
+    width: 1152
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/180435532/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/180435532/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/180435532'
+  - source: iNaturalist
+    id: '180435541'
+    width: 1152
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/180435541/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/180435541/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/180435541'
+license: CC BY-NC
+created_at: '2022-02-23T15:55:13+11:00'
+updated_at: '2022-03-14T12:40:15+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/107298287'

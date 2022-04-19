@@ -1,0 +1,40 @@
+id:
+  - name: Comocrus behri
+    common: Mistletoe Moth
+    by:
+      - chrislindorff
+      - thebeachcomber
+    ref:
+      inaturalist: 208585
+datetime: '2013-02-02T13:07:00+11:00'
+latitude: -35.920753
+longitude: 141.860931
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '185475436'
+    width: 1545
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185475436/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185475436/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185475436'
+  - source: iNaturalist
+    id: '185475461'
+    width: 1545
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185475461/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185475461/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185475461'
+license: CC BY-NC
+created_at: '2022-03-31T18:18:58+11:00'
+updated_at: '2022-03-31T18:21:38+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/109989668'

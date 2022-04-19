@@ -1,0 +1,47 @@
+id:
+  - name: Pimelea serpyllifolia
+    by:
+      - chrislindorff
+      - helenschofield
+    ref:
+      inaturalist: 526712
+datetime: '2020-10-22T17:04:29+11:00'
+latitude: -38.387327
+longitude: 144.239682
+location_name: 'Bells Beach VIC 3228, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '101447562'
+    width: 720
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101447562/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101447562/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101447562'
+  - source: iNaturalist
+    id: '101447607'
+    width: 720
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101447607/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101447607/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101447607'
+  - source: iNaturalist
+    id: '101447683'
+    width: 2048
+    height: 921
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101447683/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101447683/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101447683'
+license: CC BY-NC
+created_at: '2020-10-22T21:51:49+11:00'
+updated_at: '2020-10-24T19:04:49+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63231377'

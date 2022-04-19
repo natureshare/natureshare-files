@@ -1,0 +1,30 @@
+id:
+  - name: Eucalyptus rubida
+    common: Candlebark Gum
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 208130
+datetime: '2020-10-20T17:17:32+11:00'
+latitude: -37.973226
+longitude: 143.697401
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '101167961'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101167961/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101167961/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101167961'
+license: CC BY-NC
+created_at: '2020-10-20T17:27:40+11:00'
+updated_at: '2020-10-20T17:32:52+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63074012'

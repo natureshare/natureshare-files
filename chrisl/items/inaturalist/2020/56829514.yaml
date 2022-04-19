@@ -5,7 +5,7 @@ id:
       - chrislindorff
       - thebeachcomber
       - chrisvankalken
-      - zizou
+      - zdunek_herp
       - pamday4
     ref:
       inaturalist: 39469
@@ -21,8 +21,8 @@ photos:
     id: '90592682'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/90592682/medium.jpeg?1597750083'
-    original_url: 'https://static.inaturalist.org/photos/90592682/original.jpeg?1597750083'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90592682/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90592682/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/90592682'
@@ -30,8 +30,8 @@ photos:
     id: '90592872'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/90592872/medium.jpeg?1597750257'
-    original_url: 'https://static.inaturalist.org/photos/90592872/original.jpeg?1597750257'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90592872/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90592872/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/90592872'

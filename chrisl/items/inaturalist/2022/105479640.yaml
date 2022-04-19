@@ -1,0 +1,57 @@
+id:
+  - name: Eucalyptus ovata
+    common: Swamp Gum
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 323789
+datetime: '2020-09-25T15:52:00+10:00'
+latitude: -37.808296
+longitude: 143.918471
+location_name: 'Mount Mercer VIC 3352, Australia'
+accuracy: 50
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176988432'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176988432/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176988432/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176988432'
+  - source: iNaturalist
+    id: '176988514'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176988514/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176988514/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176988514'
+  - source: iNaturalist
+    id: '176988460'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176988460/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176988460/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176988460'
+  - source: iNaturalist
+    id: '176988541'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176988541/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176988541/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176988541'
+license: CC BY-NC
+created_at: '2022-01-24T14:27:59+11:00'
+updated_at: '2022-01-24T14:27:59+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105479640'

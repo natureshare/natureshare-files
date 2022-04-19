@@ -1,0 +1,67 @@
+id:
+  - name: Cassinia longifolia
+    common: Shiny Cassinia
+    by:
+      - chrislindorff
+      - michael1922
+    ref:
+      inaturalist: 212104
+datetime: '2022-03-24T12:27:00+11:00'
+latitude: -37.829109
+longitude: 144.192463
+location_name: 'Steiglitz VIC 3331, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '185135023'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185135023/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185135023/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185135023'
+  - source: iNaturalist
+    id: '185135065'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185135065/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185135065/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185135065'
+  - source: iNaturalist
+    id: '185135100'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185135100/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185135100/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185135100'
+  - source: iNaturalist
+    id: '185135184'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185135184/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185135184/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185135184'
+  - source: iNaturalist
+    id: '185135141'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185135141/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185135141/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185135141'
+license: CC BY-NC
+created_at: '2022-03-29T14:00:01+11:00'
+updated_at: '2022-04-03T23:06:11+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/109807332'

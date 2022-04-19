@@ -1,5 +1,6 @@
 id:
   - name: Diuris platichila
+    common: Blue Mountains doubletail
     by:
       - chrislindorff
     ref:
@@ -17,8 +18,8 @@ photos:
     id: '74465115'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/74465115/medium.jpeg?1590234098'
-    original_url: 'https://static.inaturalist.org/photos/74465115/original.jpeg?1590234098'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74465115/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74465115/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/74465115'
@@ -26,14 +27,14 @@ photos:
     id: '74465230'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/74465230/medium.jpeg?1590234154'
-    original_url: 'https://static.inaturalist.org/photos/74465230/original.jpeg?1590234154'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74465230/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74465230/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/74465230'
 license: CC BY-NC
 created_at: '2020-05-23T22:00:46+10:00'
-updated_at: '2020-05-23T22:00:46+10:00'
+updated_at: '2022-02-25T08:53:39+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/46954722'

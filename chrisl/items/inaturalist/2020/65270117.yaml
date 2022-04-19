@@ -1,0 +1,48 @@
+id:
+  - name: Cassinia aculeata
+    common: Australian Tauhinu
+    by:
+      - chrislindorff
+      - koolah
+    ref:
+      inaturalist: 323103
+datetime: '2020-11-20T12:48:43+11:00'
+latitude: -38.357896
+longitude: 144.028544
+location_name: 'Wensleydale VIC 3241, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '105022033'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105022033/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105022033/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/105022033'
+  - source: iNaturalist
+    id: '105022053'
+    width: 2048
+    height: 921
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105022053/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105022053/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/105022053'
+  - source: iNaturalist
+    id: '105022090'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105022090/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105022090/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/105022090'
+license: CC BY-NC
+created_at: '2020-11-20T22:18:42+11:00'
+updated_at: '2020-11-21T07:15:29+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65270117'

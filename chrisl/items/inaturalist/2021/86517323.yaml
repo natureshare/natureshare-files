@@ -1,0 +1,29 @@
+id:
+  - name: Eucalyptus aromaphloia
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 208167
+datetime: '2021-07-11T15:13:21+10:00'
+latitude: -37.402455
+longitude: 143.9254
+location_name: 'Victoria, AU'
+accuracy: 28388
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '142541566'
+    width: 1152
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/142541566/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/142541566/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/142541566'
+license: CC BY-NC
+created_at: '2021-07-11T15:15:04+10:00'
+updated_at: '2021-07-11T15:23:25+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/86517323'

@@ -1,5 +1,6 @@
 id:
   - name: Drosera aberrans
+    common: Scented Sundew
     by:
       - chrislindorff
       - reiner
@@ -17,8 +18,8 @@ photos:
     id: '75154041'
     width: 2048
     height: 1356
-    thumbnail_url: 'https://static.inaturalist.org/photos/75154041/medium.jpeg?1590490287'
-    original_url: 'https://static.inaturalist.org/photos/75154041/original.jpeg?1590490287'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75154041/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75154041/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/75154041'

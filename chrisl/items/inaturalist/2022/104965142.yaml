@@ -1,0 +1,31 @@
+id:
+  - name: Riccia
+    common: Crystalworts
+    by:
+      - em_lamond
+      - mattamrenner
+    ref:
+      inaturalist: 53014
+datetime: '2016-10-31T11:06:00+11:00'
+latitude: -36.854108
+longitude: 142.473983
+location_name: 'Horsham Bal, Victoria, Australia'
+accuracy: 500
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176002296'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002296/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002296/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176002296'
+license: CC BY-NC
+created_at: '2022-01-15T22:13:05+11:00'
+updated_at: '2022-01-31T21:20:16+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104965142'

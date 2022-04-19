@@ -1,0 +1,30 @@
+id:
+  - name: Pterostylis pedunculata
+    common: maroonhood
+    by:
+      - chrislindorff
+      - bushbandit
+    ref:
+      inaturalist: 323437
+datetime: '2020-10-06T14:40:23+11:00'
+latitude: -37.825292
+longitude: 143.752391
+location_name: 'Dereel VIC 3352, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '99001534'
+    width: 1200
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99001534/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99001534/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/99001534'
+license: CC BY-NC
+created_at: '2020-10-06T14:41:15+11:00'
+updated_at: '2020-10-06T14:59:04+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61837597'

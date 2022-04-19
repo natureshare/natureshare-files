@@ -1,0 +1,48 @@
+id:
+  - name: Prostanthera howelliae
+    by:
+      - chrislindorff
+      - gtaseski
+    ref:
+      inaturalist: 786488
+datetime: '2012-09-29T12:40:00+10:00'
+latitude: -32.777418
+longitude: 148.340208
+location_name: 'Baldry NSW 2867, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '174366252'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174366252/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174366252/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174366252'
+  - source: iNaturalist
+    id: '174366271'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174366271/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174366271/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174366271'
+  - source: iNaturalist
+    id: '174366262'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174366262/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174366262/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174366262'
+license: CC BY-NC
+created_at: '2022-01-01T17:58:55+11:00'
+updated_at: '2022-01-01T22:28:50+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104088125'

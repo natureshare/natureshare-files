@@ -1,0 +1,48 @@
+id:
+  - name: Pimelea linifolia
+    common: Queen of the Bush
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 321037
+datetime: '2012-09-25T13:17:00+10:00'
+latitude: -31.28153
+longitude: 148.978655
+location_name: 'Tonderburine NSW 2828, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '186519480'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/186519480/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/186519480/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/186519480'
+  - source: iNaturalist
+    id: '186519568'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/186519568/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/186519568/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/186519568'
+  - source: iNaturalist
+    id: '186519633'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/186519633/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/186519633/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/186519633'
+license: CC BY-NC
+created_at: '2022-04-06T17:08:29+10:00'
+updated_at: '2022-04-06T17:08:29+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/110556744'

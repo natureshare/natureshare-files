@@ -1,0 +1,67 @@
+id:
+  - name: Acacia euthycarpa euthycarpa
+    common: Wallowa
+    by:
+      - chrislindorff
+      - iancastle
+    ref:
+      inaturalist: 784380
+datetime: '2015-01-24T15:52:00+11:00'
+latitude: -35.924731
+longitude: 141.863273
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176453195'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176453195/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176453195/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176453195'
+  - source: iNaturalist
+    id: '176453205'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176453205/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176453205/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176453205'
+  - source: iNaturalist
+    id: '176453211'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176453211/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176453211/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176453211'
+  - source: iNaturalist
+    id: '176453215'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176453215/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176453215/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176453215'
+  - source: iNaturalist
+    id: '176453222'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176453222/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176453222/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176453222'
+license: CC BY-NC
+created_at: '2022-01-19T17:35:09+11:00'
+updated_at: '2022-01-19T20:18:02+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105198120'

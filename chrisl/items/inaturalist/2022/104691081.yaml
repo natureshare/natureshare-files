@@ -1,0 +1,31 @@
+id:
+  - name: Clematis microphylla
+    common: Small-leaved Clematis
+    by:
+      - chrislindorff
+      - iancastle
+    ref:
+      inaturalist: 323815
+datetime: '2013-08-27T10:28:00+10:00'
+latitude: -35.923853
+longitude: 141.869959
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 15
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '175477829'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175477829/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175477829/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175477829'
+license: CC BY-NC
+created_at: '2022-01-10T16:25:32+11:00'
+updated_at: '2022-01-10T17:47:57+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104691081'

@@ -1,0 +1,31 @@
+id:
+  - name: Tinzeda sororoides
+    common: Southern Tinzeda
+    by:
+      - chrislindorff
+      - ellurasanctuary
+    ref:
+      inaturalist: 851659
+datetime: '2013-09-25T20:31:00+10:00'
+latitude: -32.839924
+longitude: 138.038177
+location_name: 'Wilmington SA 5485, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '185618540'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185618540/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185618540/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185618540'
+license: CC BY-NC
+created_at: '2022-04-01T15:48:17+11:00'
+updated_at: '2022-04-01T20:32:29+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/110067846'

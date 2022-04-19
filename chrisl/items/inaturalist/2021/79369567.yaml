@@ -1,0 +1,40 @@
+id:
+  - name: Roepera billardierei
+    common: Coast Twinleaf
+    by:
+      - chrislindorff
+      - beth393
+    ref:
+      inaturalist: 778950
+datetime: '2021-01-14T13:10:30+11:00'
+latitude: -38.318263
+longitude: 144.695795
+location_name: 'Portsea VIC 3944, Australia'
+accuracy: 157
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '130001833'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130001833/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130001833/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/130001833'
+  - source: iNaturalist
+    id: '130001847'
+    width: 1152
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130001847/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130001847/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/130001847'
+license: CC BY-NC
+created_at: '2021-05-19T18:20:47+11:00'
+updated_at: '2021-05-19T20:17:31+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/79369567'

@@ -2,6 +2,7 @@ id:
   - name: Senecio pinnatifolius pinnatifolius
     by:
       - chrislindorff
+      - darren_fielder
     ref:
       inaturalist: 1084391
 datetime: '2020-08-02T15:30:00+10:00'
@@ -16,8 +17,8 @@ photos:
     id: '89212011'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/89212011/medium.jpeg?1597038591'
-    original_url: 'https://static.inaturalist.org/photos/89212011/original.jpeg?1597038591'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89212011/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89212011/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/89212011'
@@ -25,8 +26,8 @@ photos:
     id: '89212109'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/89212109/medium.jpeg?1597038704'
-    original_url: 'https://static.inaturalist.org/photos/89212109/original.jpeg?1597038704'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89212109/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89212109/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/89212109'
@@ -34,8 +35,8 @@ photos:
     id: '89212150'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/89212150/medium.jpeg?1597038758'
-    original_url: 'https://static.inaturalist.org/photos/89212150/original.jpeg?1597038758'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89212150/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89212150/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/89212150'
@@ -43,8 +44,8 @@ photos:
     id: '89212061'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/89212061/medium.jpeg?1597038650'
-    original_url: 'https://static.inaturalist.org/photos/89212061/original.jpeg?1597038650'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89212061/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89212061/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/89212061'
@@ -52,14 +53,14 @@ photos:
     id: '89212197'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/89212197/medium.jpeg?1597038817'
-    original_url: 'https://static.inaturalist.org/photos/89212197/original.jpeg?1597038817'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89212197/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89212197/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/89212197'
 license: CC BY-NC
 created_at: '2020-08-10T15:59:48+10:00'
-updated_at: '2020-08-10T15:59:48+10:00'
+updated_at: '2022-03-12T22:54:18+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/56002657'

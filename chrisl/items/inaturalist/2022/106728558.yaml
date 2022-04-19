@@ -1,0 +1,31 @@
+id:
+  - name: Millotia tenuifolia
+    common: Soft Millotia
+    by:
+      - chrislindorff
+      - alan_dandie
+    ref:
+      inaturalist: 874298
+datetime: '2009-09-08T11:20:00+10:00'
+latitude: -35.638325
+longitude: 140.779755
+location_name: 'Ngarkat SA 5302, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '179354237'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179354237/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179354237/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/179354237'
+license: CC BY-NC
+created_at: '2022-02-14T16:18:56+11:00'
+updated_at: '2022-02-14T17:23:43+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106728558'

@@ -3,13 +3,14 @@ id:
     common: Blakely's red gum
     by:
       - chrislindorff
+      - darren_fielder
     ref:
       inaturalist: 135384
 datetime: '2020-06-28T12:58:00+10:00'
-latitude: -36.610218
-longitude: 143.693729
-location_name: Kooyoora State Park
-accuracy: 10
+latitude: -36.666335
+longitude: 143.765819
+location_name: 'Loddon - South, AU-VI, AU'
+accuracy: 28505
 tags:
   - inaturalist
 photos:
@@ -17,8 +18,8 @@ photos:
     id: '81761764'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/81761764/medium.jpeg?1593518089'
-    original_url: 'https://static.inaturalist.org/photos/81761764/original.jpeg?1593518089'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/81761764/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/81761764/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/81761764'
@@ -26,8 +27,8 @@ photos:
     id: '81762104'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/81762104/medium.jpeg?1593518260'
-    original_url: 'https://static.inaturalist.org/photos/81762104/original.jpeg?1593518260'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/81762104/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/81762104/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/81762104'
@@ -35,8 +36,8 @@ photos:
     id: '81762310'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/81762310/medium.jpeg?1593518391'
-    original_url: 'https://static.inaturalist.org/photos/81762310/original.jpeg?1593518391'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/81762310/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/81762310/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/81762310'
@@ -44,8 +45,8 @@ photos:
     id: '81762525'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/81762525/medium.jpeg?1593518526'
-    original_url: 'https://static.inaturalist.org/photos/81762525/original.jpeg?1593518526'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/81762525/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/81762525/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/81762525'
@@ -53,14 +54,14 @@ photos:
     id: '81762733'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/81762733/medium.jpeg?1593518647'
-    original_url: 'https://static.inaturalist.org/photos/81762733/original.jpeg?1593518647'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/81762733/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/81762733/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/81762733'
 license: CC BY-NC
 created_at: '2020-06-30T23:17:52+10:00'
-updated_at: '2020-06-30T23:17:52+10:00'
+updated_at: '2022-03-13T22:04:42+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/51465624'

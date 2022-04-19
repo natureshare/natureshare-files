@@ -1,0 +1,49 @@
+id:
+  - name: Stylidium graminifolium
+    common: Grass Triggerplant
+    by:
+      - chrislindorff
+      - baronsamedi
+    ref:
+      inaturalist: 145703
+datetime: '2015-10-15T09:30:00+11:00'
+latitude: -37.862027
+longitude: 144.232532
+location_name: 'Golden Plains - South-East, Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176551999'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176551999/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176551999/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176551999'
+  - source: iNaturalist
+    id: '176552003'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176552003/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176552003/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176552003'
+  - source: iNaturalist
+    id: '176552012'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176552012/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176552012/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176552012'
+license: CC BY-NC
+created_at: '2022-01-20T16:45:33+11:00'
+updated_at: '2022-01-20T17:00:55+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105249686'

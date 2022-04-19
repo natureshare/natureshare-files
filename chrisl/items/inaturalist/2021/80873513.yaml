@@ -1,0 +1,31 @@
+id:
+  - name: Acacia longifolia sophorae
+    common: coastal wattle
+    by:
+      - chrislindorff
+      - reiner
+    ref:
+      inaturalist: 244653
+datetime: '2021-05-16T12:23:00+10:00'
+latitude: -38.460153
+longitude: 145.287842
+location_name: 'Rhyll VIC 3923, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '132590934'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132590934/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132590934/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/132590934'
+license: CC BY-NC
+created_at: '2021-05-30T23:24:24+10:00'
+updated_at: '2021-05-30T23:26:35+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/80873513'

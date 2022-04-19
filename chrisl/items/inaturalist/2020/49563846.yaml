@@ -1,5 +1,6 @@
 id:
   - name: Hakea mitchellii
+    common: desert Hakea
     by:
       - chrislindorff
       - chrisclarke25
@@ -17,8 +18,8 @@ photos:
     id: '78680825'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/78680825/medium.jpeg?1592133765'
-    original_url: 'https://static.inaturalist.org/photos/78680825/original.jpeg?1592133765'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78680825/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78680825/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/78680825'
@@ -26,8 +27,8 @@ photos:
     id: '78683932'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/78683932/medium.jpeg?1592135317'
-    original_url: 'https://static.inaturalist.org/photos/78683932/original.jpeg?1592135317'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78683932/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78683932/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/78683932'
@@ -35,8 +36,8 @@ photos:
     id: '78684228'
     width: 2048
     height: 1356
-    thumbnail_url: 'https://static.inaturalist.org/photos/78684228/medium.jpeg?1592135512'
-    original_url: 'https://static.inaturalist.org/photos/78684228/original.jpeg?1592135512'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78684228/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78684228/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/78684228'

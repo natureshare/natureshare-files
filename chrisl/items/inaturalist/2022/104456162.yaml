@@ -1,0 +1,48 @@
+id:
+  - name: Oxalis exilis
+    common: least yellow-sorrel
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 57865
+datetime: '2020-09-28T14:38:00+10:00'
+latitude: -36.854581
+longitude: 142.468369
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '175031230'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175031230/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175031230/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175031230'
+  - source: iNaturalist
+    id: '175031276'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175031276/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175031276/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175031276'
+  - source: iNaturalist
+    id: '175031254'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175031254/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175031254/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175031254'
+license: CC BY-NC
+created_at: '2022-01-06T21:37:58+11:00'
+updated_at: '2022-01-06T21:37:58+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104456162'

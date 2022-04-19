@@ -1,0 +1,40 @@
+id:
+  - name: Brachyscome multifida
+    common: cut-leaved daisy
+    by:
+      - chrislindorff
+      - george_seagull
+    ref:
+      inaturalist: 560869
+datetime: '2015-10-13T09:46:00+11:00'
+latitude: -37.860111
+longitude: 144.191525
+location_name: 'Steiglitz VIC 3331, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176545191'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545191/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545191/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176545191'
+  - source: iNaturalist
+    id: '176545200'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545200/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545200/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176545200'
+license: CC BY-NC
+created_at: '2022-01-20T15:03:03+11:00'
+updated_at: '2022-01-20T17:15:46+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105246262'

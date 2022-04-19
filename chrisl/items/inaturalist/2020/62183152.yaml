@@ -1,0 +1,30 @@
+id:
+  - name: Podotheca angustifolia
+    common: Sticky Long-heads
+    by:
+      - chrislindorff
+      - ninakerr01
+    ref:
+      inaturalist: 511254
+datetime: '2020-10-10T10:35:18+11:00'
+latitude: -35.915569
+longitude: 141.825523
+location_name: 'Hindmarsh, AU-VI, AU'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '99600346'
+    width: 1200
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99600346/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99600346/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/99600346'
+license: CC BY-NC
+created_at: '2020-10-10T21:39:32+11:00'
+updated_at: '2020-10-11T00:09:14+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/62183152'

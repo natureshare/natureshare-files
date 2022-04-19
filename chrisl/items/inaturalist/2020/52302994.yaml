@@ -1,8 +1,10 @@
 id:
   - name: Hydrocotyle laxiflora
+    common: Stinking Pennywort
     by:
-      - kenharris
       - chrislindorff
+      - kenharris
+      - pennywort_man
     ref:
       inaturalist: 210152
 datetime: '2015-09-29T12:06:00+10:00'
@@ -17,8 +19,8 @@ photos:
     id: '83135580'
     width: 1024
     height: 678
-    thumbnail_url: 'https://static.inaturalist.org/photos/83135580/medium.jpeg?1594157133'
-    original_url: 'https://static.inaturalist.org/photos/83135580/original.jpeg?1594157133'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/83135580/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/83135580/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/83135580'
@@ -26,8 +28,8 @@ photos:
     id: '83135559'
     width: 1024
     height: 678
-    thumbnail_url: 'https://static.inaturalist.org/photos/83135559/medium.jpeg?1594157128'
-    original_url: 'https://static.inaturalist.org/photos/83135559/original.jpeg?1594157128'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/83135559/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/83135559/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/83135559'
@@ -35,8 +37,8 @@ photos:
     id: '83135589'
     width: 678
     height: 1024
-    thumbnail_url: 'https://static.inaturalist.org/photos/83135589/medium.jpeg?1594157139'
-    original_url: 'https://static.inaturalist.org/photos/83135589/original.jpeg?1594157139'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/83135589/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/83135589/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/83135589'
@@ -44,14 +46,14 @@ photos:
     id: '83135546'
     width: 1024
     height: 678
-    thumbnail_url: 'https://static.inaturalist.org/photos/83135546/medium.jpeg?1594157122'
-    original_url: 'https://static.inaturalist.org/photos/83135546/original.jpeg?1594157122'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/83135546/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/83135546/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/83135546'
 license: CC BY-NC
 created_at: '2020-07-08T07:25:42+10:00'
-updated_at: '2020-07-08T10:18:06+10:00'
+updated_at: '2020-12-06T14:40:24+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/52302994'

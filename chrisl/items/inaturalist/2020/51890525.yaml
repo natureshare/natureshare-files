@@ -1,5 +1,6 @@
 id:
   - name: Eutaxia microphylla
+    common: common eutaxia
     by:
       - chrislindorff
       - chrisclarke25
@@ -18,8 +19,8 @@ photos:
     id: '82467964'
     width: 678
     height: 1024
-    thumbnail_url: 'https://static.inaturalist.org/photos/82467964/medium.jpeg?1593861998'
-    original_url: 'https://static.inaturalist.org/photos/82467964/original.jpeg?1593861998'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/82467964/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/82467964/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/82467964'
@@ -27,8 +28,8 @@ photos:
     id: '82467982'
     width: 678
     height: 1024
-    thumbnail_url: 'https://static.inaturalist.org/photos/82467982/medium.jpeg?1593862008'
-    original_url: 'https://static.inaturalist.org/photos/82467982/original.jpeg?1593862008'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/82467982/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/82467982/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/82467982'

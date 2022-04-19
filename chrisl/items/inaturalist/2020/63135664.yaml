@@ -1,0 +1,38 @@
+id:
+  - name: Brachyloma ciliatum
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 323814
+datetime: '2020-10-21T11:47:59+11:00'
+latitude: -38.364713
+longitude: 144.116207
+location_name: 'Anglesea VIC 3230, Australia'
+accuracy: 4
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '101276841'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101276841/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101276841/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101276841'
+  - source: iNaturalist
+    id: '101276848'
+    width: 720
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101276848/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101276848/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101276848'
+license: CC BY-NC
+created_at: '2020-10-21T11:59:52+11:00'
+updated_at: '2020-10-21T12:00:08+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63135664'

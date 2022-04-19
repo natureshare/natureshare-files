@@ -1,0 +1,39 @@
+id:
+  - name: Daviesia brevifolia
+    common: Leafless Bitter-pea
+    by:
+      - chrislindorff
+      - colinandwendycook
+    ref:
+      inaturalist: 551506
+datetime: '2020-11-30T10:28:21+11:00'
+latitude: -36.850687
+longitude: 142.470021
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '106160406'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106160406/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106160406/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106160406'
+  - source: iNaturalist
+    id: '106160443'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106160443/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106160443/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106160443'
+license: CC BY-NC
+created_at: '2020-12-01T09:16:29+11:00'
+updated_at: '2021-03-15T23:53:00+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65909541'

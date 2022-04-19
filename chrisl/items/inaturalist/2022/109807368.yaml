@@ -1,0 +1,32 @@
+id:
+  - name: Astroloma humifusum
+    common: Cranberry Heath
+    by:
+      - chrislindorff
+      - elizabethhatfield
+      - beth393
+    ref:
+      inaturalist: 321077
+datetime: '2022-03-24T11:40:00+11:00'
+latitude: -37.831428
+longitude: 144.197272
+location_name: 'Steiglitz VIC 3331, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '185138827'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138827/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185138827/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185138827'
+license: CC BY-NC
+created_at: '2022-03-29T14:00:13+11:00'
+updated_at: '2022-03-29T19:36:09+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/109807368'

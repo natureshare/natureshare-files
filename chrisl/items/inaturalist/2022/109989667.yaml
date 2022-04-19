@@ -1,0 +1,49 @@
+id:
+  - name: Orthetrum caledonicum
+    common: Blue Skimmer
+    by:
+      - chrislindorff
+      - christopherburwell
+    ref:
+      inaturalist: 155504
+datetime: '2013-02-02T16:58:00+11:00'
+latitude: -35.920567
+longitude: 141.860703
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '185475353'
+    width: 1545
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185475353/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185475353/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185475353'
+  - source: iNaturalist
+    id: '185475414'
+    width: 1545
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185475414/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185475414/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185475414'
+  - source: iNaturalist
+    id: '185475391'
+    width: 1545
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185475391/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185475391/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185475391'
+license: CC BY-NC
+created_at: '2022-03-31T18:18:57+11:00'
+updated_at: '2022-03-31T18:58:00+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/109989667'

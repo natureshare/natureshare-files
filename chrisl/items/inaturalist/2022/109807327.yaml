@@ -1,0 +1,40 @@
+id:
+  - name: Banksia marginata
+    common: Silver Banksia
+    by:
+      - chrislindorff
+      - elizabethhatfield
+    ref:
+      inaturalist: 133274
+datetime: '2022-03-24T14:17:00+11:00'
+latitude: -37.82693
+longitude: 144.195507
+location_name: 'Durdidwarrah VIC 3342, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '185134491'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185134491/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185134491/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185134491'
+  - source: iNaturalist
+    id: '185134533'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185134533/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185134533/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185134533'
+license: CC BY-NC
+created_at: '2022-03-29T14:00:00+11:00'
+updated_at: '2022-03-29T14:29:48+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/109807327'

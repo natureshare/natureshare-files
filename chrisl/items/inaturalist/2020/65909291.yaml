@@ -1,0 +1,30 @@
+id:
+  - name: Prostanthera hirtula
+    by:
+      - gtaseski
+      - chrislindorff
+      - rpodonnell
+    ref:
+      inaturalist: 577852
+datetime: '2020-11-30T03:10:44+11:00'
+latitude: -36.974004
+longitude: 142.451898
+location_name: 'Roses Gap VIC 3385, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '106159847'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106159847/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106159847/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106159847'
+license: CC BY-NC
+created_at: '2020-12-01T09:09:41+11:00'
+updated_at: '2021-09-04T11:59:16+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65909291'

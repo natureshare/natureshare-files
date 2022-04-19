@@ -1,8 +1,8 @@
 id:
   - name: Prostanthera behriana
     by:
-      - gtaseski
       - chrislindorff
+      - gtaseski
     ref:
       inaturalist: 569295
 datetime: '2009-09-13T14:35:00+10:00'
@@ -17,8 +17,8 @@ photos:
     id: '74702586'
     width: 1362
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/74702586/medium.jpeg?1590323815'
-    original_url: 'https://static.inaturalist.org/photos/74702586/original.jpeg?1590323815'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74702586/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74702586/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/74702586'
@@ -26,8 +26,8 @@ photos:
     id: '74702675'
     width: 1362
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/74702675/medium.jpeg?1590323852'
-    original_url: 'https://static.inaturalist.org/photos/74702675/original.jpeg?1590323852'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74702675/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74702675/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/74702675'

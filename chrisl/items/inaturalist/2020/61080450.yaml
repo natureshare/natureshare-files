@@ -1,0 +1,38 @@
+id:
+  - name: Astroloma humifusum
+    common: Cranberry Heath
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 321077
+datetime: '2020-09-28T14:12:40+10:00'
+latitude: -36.85424
+longitude: 142.468485
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97708370'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97708370/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97708370/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/97708370'
+  - source: iNaturalist
+    id: '97708390'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97708390/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97708390/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/97708390'
+license: CC BY-NC
+created_at: '2020-09-28T18:54:09+10:00'
+updated_at: '2020-11-12T09:08:09+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61080450'

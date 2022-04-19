@@ -1,0 +1,48 @@
+id:
+  - name: Utricularia beaugleholei
+    by:
+      - chrislindorff
+      - ninakerr01
+    ref:
+      inaturalist: 508359
+datetime: '2016-10-29T15:47:00+11:00'
+latitude: -36.854108
+longitude: 142.473983
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 500
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176002334'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002334/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002334/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176002334'
+  - source: iNaturalist
+    id: '176002469'
+    width: 672
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002469/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002469/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176002469'
+  - source: iNaturalist
+    id: '176002341'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002341/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176002341/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176002341'
+license: CC BY-NC
+created_at: '2022-01-15T22:13:08+11:00'
+updated_at: '2022-01-15T23:22:53+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104965150'

@@ -1,0 +1,31 @@
+id:
+  - name: Cheilanthes austrotenuifolia
+    common: Rock Fern
+    by:
+      - chrislindorff
+      - rgvhf
+    ref:
+      inaturalist: 323950
+datetime: '2012-09-17T13:02:00+10:00'
+latitude: -36.285975
+longitude: 146.152977
+location_name: 'Boweya VIC 3675, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '96114633'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/96114633/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/96114633/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/96114633'
+license: CC BY-NC
+created_at: '2020-09-20T08:56:24+10:00'
+updated_at: '2021-11-26T11:12:21+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60127662'

@@ -1,0 +1,39 @@
+id:
+  - name: Eucalyptus largiflorens
+    common: Black Box
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 502254
+datetime: '2022-02-23T15:56:53+11:00'
+latitude: -35.765341
+longitude: 142.235734
+location_name: 'Yarriambiack - North, AU-VI, AU'
+accuracy: 28649
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '180435834'
+    width: 1152
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/180435834/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/180435834/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/180435834'
+  - source: iNaturalist
+    id: '180435840'
+    width: 1152
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/180435840/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/180435840/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/180435840'
+license: CC BY-NC
+created_at: '2022-02-23T16:00:12+11:00'
+updated_at: '2022-02-23T16:00:27+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/107298406'

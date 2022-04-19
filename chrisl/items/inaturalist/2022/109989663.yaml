@@ -1,0 +1,60 @@
+id:
+  - name: Nesoptilotis leucotis
+    common: White-eared Honeyeater
+    by:
+      - chrislindorff
+      - george_seagull
+      - dj_maple
+    ref:
+      inaturalist: 508981
+datetime: '2013-02-02T08:17:00+11:00'
+latitude: -35.920586
+longitude: 141.860931
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 10
+description: Juvenile
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '185475240'
+    width: 1545
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185475240/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185475240/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185475240'
+  - source: iNaturalist
+    id: '185475960'
+    width: 1545
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185475960/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185475960/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185475960'
+  - source: iNaturalist
+    id: '185475897'
+    width: 1545
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185475897/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185475897/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185475897'
+  - source: iNaturalist
+    id: '185475932'
+    width: 1545
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185475932/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185475932/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185475932'
+license: CC BY-NC
+created_at: '2022-03-31T18:18:55+11:00'
+updated_at: '2022-03-31T19:10:27+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/109989663'

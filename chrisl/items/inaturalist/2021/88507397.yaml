@@ -1,0 +1,29 @@
+id:
+  - name: Ludwigia peploides montevidensis
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 61049
+datetime: '2011-11-05T21:35:00+11:00'
+latitude: -34.136831
+longitude: 141.333081
+location_name: 'Neds Corner VIC 3496, Australia'
+accuracy: 25
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '146041057'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/146041057/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/146041057/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/146041057'
+license: CC BY-NC
+created_at: '2021-07-25T17:43:53+10:00'
+updated_at: '2021-07-25T17:43:53+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/88507397'

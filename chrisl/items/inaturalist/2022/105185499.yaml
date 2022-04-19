@@ -1,0 +1,39 @@
+id:
+  - name: Aphididae
+    common: Aphids
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 52381
+datetime: '2015-09-29T13:06:00+10:00'
+latitude: -36.852608
+longitude: 142.472935
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176428270'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176428270/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176428270/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176428270'
+  - source: iNaturalist
+    id: '176428276'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176428276/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176428276/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176428276'
+license: CC BY-NC
+created_at: '2022-01-19T12:13:58+11:00'
+updated_at: '2022-01-19T12:13:58+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105185499'

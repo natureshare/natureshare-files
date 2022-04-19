@@ -1,0 +1,40 @@
+id:
+  - name: Dipodium variegatum
+    common: Slender Hyacinth-Orchid
+    by:
+      - chrislindorff
+      - izakschoon
+    ref:
+      inaturalist: 321105
+datetime: '2012-01-02T13:53:00+11:00'
+latitude: -35.08966
+longitude: 150.690939
+location_name: 'Vincentia NSW 2540, Australia'
+accuracy: 200
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '187460006'
+    width: 1638
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/187460006/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/187460006/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/187460006'
+  - source: iNaturalist
+    id: '187460019'
+    width: 679
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/187460019/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/187460019/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/187460019'
+license: CC BY-NC
+created_at: '2022-04-11T17:46:48+10:00'
+updated_at: '2022-04-18T18:52:52+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/111072433'

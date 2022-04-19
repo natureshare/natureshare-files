@@ -1,0 +1,40 @@
+id:
+  - name: Siloxerus multiflorus
+    common: small wrinklewort
+    by:
+      - chrislindorff
+      - ninakerr01
+    ref:
+      inaturalist: 243556
+datetime: '2015-09-29T12:30:00+10:00'
+latitude: -36.852291
+longitude: 142.470542
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176432781'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176432781/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176432781/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176432781'
+  - source: iNaturalist
+    id: '176432790'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176432790/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176432790/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176432790'
+license: CC BY-NC
+created_at: '2022-01-19T13:06:23+11:00'
+updated_at: '2022-01-24T21:59:40+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105187691'

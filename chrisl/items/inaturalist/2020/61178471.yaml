@@ -1,0 +1,32 @@
+id:
+  - name: Arctotheca calendula
+    common: Capeweed
+    by:
+      - chrislindorff
+      - bushbandit
+      - pamday4
+    ref:
+      inaturalist: 56024
+datetime: '2020-09-29T13:08:30+10:00'
+latitude: -36.855667
+longitude: 142.481377
+location_name: 'Horsham Bal, AU-VI, AU'
+accuracy: 2
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97871168'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97871168/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97871168/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/97871168'
+license: CC BY-NC
+created_at: '2020-09-29T13:10:15+10:00'
+updated_at: '2020-10-03T11:24:55+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61178471'

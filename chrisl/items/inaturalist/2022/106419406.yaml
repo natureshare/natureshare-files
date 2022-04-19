@@ -1,0 +1,48 @@
+id:
+  - name: Wurmbea dioica dioica
+    by:
+      - chrislindorff
+      - elizabethhatfield
+    ref:
+      inaturalist: 786503
+datetime: '2012-09-18T07:03:00+10:00'
+latitude: -36.34255
+longitude: 146.202868
+location_name: 'Taminick VIC 3675, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '178765943'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178765943/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178765943/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178765943'
+  - source: iNaturalist
+    id: '178766062'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178766062/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178766062/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178766062'
+  - source: iNaturalist
+    id: '178766153'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178766153/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178766153/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178766153'
+license: CC BY-NC
+created_at: '2022-02-09T16:17:43+11:00'
+updated_at: '2022-02-09T16:21:16+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106419406'

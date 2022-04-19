@@ -3,6 +3,7 @@ id:
     common: Scrub Nettle
     by:
       - chrislindorff
+      - arthur_chapman
     ref:
       inaturalist: 323366
 datetime: '2012-09-25T14:37:00+10:00'
@@ -17,8 +18,8 @@ photos:
     id: '92549865'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/92549865/medium.jpeg?1598754986'
-    original_url: 'https://static.inaturalist.org/photos/92549865/original.jpeg?1598754986'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92549865/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92549865/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/92549865'
@@ -26,8 +27,8 @@ photos:
     id: '92550033'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/92550033/medium.jpeg?1598755072'
-    original_url: 'https://static.inaturalist.org/photos/92550033/original.jpeg?1598755072'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92550033/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92550033/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/92550033'
@@ -35,14 +36,14 @@ photos:
     id: '92550152'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/92550152/medium.jpeg?1598755141'
-    original_url: 'https://static.inaturalist.org/photos/92550152/original.jpeg?1598755141'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92550152/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92550152/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/92550152'
 license: CC BY-NC
 created_at: '2020-08-30T12:39:06+10:00'
-updated_at: '2020-08-30T12:39:06+10:00'
+updated_at: '2020-09-19T09:22:34+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/57992757'

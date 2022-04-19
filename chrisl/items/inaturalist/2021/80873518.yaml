@@ -1,0 +1,40 @@
+id:
+  - name: Allocasuarina verticillata
+    common: Drooping She-oak
+    by:
+      - chrislindorff
+      - chrisclarke25
+    ref:
+      inaturalist: 122323
+datetime: '2021-05-16T12:35:00+10:00'
+latitude: -38.458349
+longitude: 145.291114
+location_name: 'Rhyll VIC 3923, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '132591089'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132591089/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132591089/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/132591089'
+  - source: iNaturalist
+    id: '132591212'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132591212/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132591212/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/132591212'
+license: CC BY-NC
+created_at: '2021-05-30T23:24:25+10:00'
+updated_at: '2021-05-31T01:08:32+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/80873518'

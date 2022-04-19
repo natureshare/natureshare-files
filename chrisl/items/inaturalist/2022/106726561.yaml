@@ -1,0 +1,49 @@
+id:
+  - name: Pterostylis plumosa
+    common: bearded greenhood
+    by:
+      - chrislindorff
+      - gary325
+    ref:
+      inaturalist: 323926
+datetime: '2009-09-07T13:11:00+10:00'
+latitude: -35.928848
+longitude: 140.340393
+location_name: 'Ngarkat SA 5302, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '179350347'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179350347/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179350347/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/179350347'
+  - source: iNaturalist
+    id: '179350368'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179350368/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179350368/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/179350368'
+  - source: iNaturalist
+    id: '179350386'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179350386/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179350386/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/179350386'
+license: CC BY-NC
+created_at: '2022-02-14T15:28:25+11:00'
+updated_at: '2022-02-14T15:37:08+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106726561'

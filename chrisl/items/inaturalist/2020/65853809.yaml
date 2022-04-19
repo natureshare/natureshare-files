@@ -1,0 +1,38 @@
+id:
+  - name: Ptilotus erubescens
+    by:
+      - chrislindorff
+      - thammer
+    ref:
+      inaturalist: 973208
+datetime: '2020-11-30T10:34:40+11:00'
+latitude: -36.849678
+longitude: 142.470659
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '106063669'
+    width: 720
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106063669/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106063669/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106063669'
+  - source: iNaturalist
+    id: '106063769'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106063769/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106063769/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106063769'
+license: CC BY-NC
+created_at: '2020-11-30T11:35:43+11:00'
+updated_at: '2020-12-19T18:35:23+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65853809'

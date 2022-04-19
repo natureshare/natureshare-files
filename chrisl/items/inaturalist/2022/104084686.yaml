@@ -1,0 +1,39 @@
+id:
+  - name: Grevillea floribunda
+    by:
+      - chrislindorff
+      - tracee01
+    ref:
+      inaturalist: 889262
+datetime: '2012-09-29T12:15:00+10:00'
+latitude: -32.778324
+longitude: 148.345978
+location_name: 'Baldry NSW 2867, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '174360306'
+    width: 1546
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174360306/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174360306/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174360306'
+  - source: iNaturalist
+    id: '174360320'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174360320/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174360320/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174360320'
+license: CC BY-NC
+created_at: '2022-01-01T16:36:17+11:00'
+updated_at: '2022-02-24T22:24:17+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104084686'

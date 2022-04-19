@@ -1,0 +1,58 @@
+id:
+  - name: Centaurium tenuiflorum
+    common: Slender Centaury
+    by:
+      - chrislindorff
+      - mhewish
+    ref:
+      inaturalist: 61027
+datetime: '2022-02-04T13:32:00+11:00'
+latitude: -38.326283
+longitude: 144.2822
+location_name: 'Torquay VIC 3228, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '178193628'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178193628/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178193628/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178193628'
+  - source: iNaturalist
+    id: '178193651'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178193651/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178193651/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178193651'
+  - source: iNaturalist
+    id: '178193671'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178193671/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178193671/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178193671'
+  - source: iNaturalist
+    id: '178193693'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178193693/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178193693/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178193693'
+license: CC BY-NC
+created_at: '2022-02-04T19:36:47+11:00'
+updated_at: '2022-02-05T08:01:50+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106111993'

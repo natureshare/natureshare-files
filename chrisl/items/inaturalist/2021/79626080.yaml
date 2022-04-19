@@ -1,0 +1,49 @@
+id:
+  - name: Banksia integrifolia
+    common: Coastal Banksia
+    by:
+      - chrislindorff
+      - chrisclarke25
+    ref:
+      inaturalist: 244884
+datetime: '2005-09-28T11:07:00+10:00'
+latitude: -38.397717
+longitude: 145.187862
+location_name: 'Melbourne VIC, Australia'
+accuracy: 100
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '130437989'
+    width: 2048
+    height: 1362
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130437989/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130437989/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/130437989'
+  - source: iNaturalist
+    id: '130438100'
+    width: 2048
+    height: 1362
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130438100/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130438100/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/130438100'
+  - source: iNaturalist
+    id: '130438054'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130438054/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130438054/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/130438054'
+license: CC BY-NC
+created_at: '2021-05-21T20:45:09+10:00'
+updated_at: '2021-05-21T21:08:35+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/79626080'

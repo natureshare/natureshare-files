@@ -1,0 +1,43 @@
+id:
+  - name: Chrysococcyx lucidus
+    common: Shining Bronze-Cuckoo
+    by:
+      - chrislindorff
+      - mhewish
+      - lifeisamazing
+      - arthur_chapman
+      - pamday4
+    ref:
+      inaturalist: 1723
+datetime: '2012-09-17T09:05:00+10:00'
+latitude: -36.341255
+longitude: 146.204239
+location_name: 'Wangandary VIC 3678, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '96688510'
+    width: 1063
+    height: 1594
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/96688510/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/96688510/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/96688510'
+  - source: iNaturalist
+    id: '96688553'
+    width: 1071
+    height: 1606
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/96688553/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/96688553/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/96688553'
+license: CC BY-NC
+created_at: '2020-09-23T08:38:01+10:00'
+updated_at: '2020-09-25T15:46:09+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60466022'

@@ -1,0 +1,40 @@
+id:
+  - name: Asplenium subglandulosum
+    common: Blanket Fern
+    by:
+      - chrislindorff
+      - rgvhf
+    ref:
+      inaturalist: 520269
+datetime: '2021-08-08T16:54:20+10:00'
+latitude: -37.822356
+longitude: 144.273038
+location_name: 'Staughton Vale VIC 3340, Australia'
+accuracy: 297
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '149524443'
+    width: 1152
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/149524443/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/149524443/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/149524443'
+  - source: iNaturalist
+    id: '149524535'
+    width: 1152
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/149524535/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/149524535/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/149524535'
+license: CC BY-NC
+created_at: '2021-08-09T09:22:55+10:00'
+updated_at: '2021-09-05T09:13:45+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/90468209'

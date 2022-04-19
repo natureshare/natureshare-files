@@ -1,0 +1,30 @@
+id:
+  - name: Geranium
+    common: geraniums and cranesbills
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 47701
+datetime: '2012-09-25T15:13:00+10:00'
+latitude: -31.277631
+longitude: 148.971514
+location_name: 'Warrumbungle NSW 2828, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '187036906'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/187036906/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/187036906/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/187036906'
+license: CC BY-NC
+created_at: '2022-04-09T21:56:02+10:00'
+updated_at: '2022-04-09T21:56:02+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/110835387'

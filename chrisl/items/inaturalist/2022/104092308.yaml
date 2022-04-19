@@ -1,0 +1,47 @@
+id:
+  - name: Pultenaea
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 83372
+datetime: '2012-09-29T13:27:00+10:00'
+latitude: -32.777214
+longitude: 148.339473
+location_name: 'Baldry NSW 2867, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '174374066'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174374066/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174374066/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174374066'
+  - source: iNaturalist
+    id: '174374099'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174374099/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174374099/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174374099'
+  - source: iNaturalist
+    id: '174374113'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174374113/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174374113/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174374113'
+license: CC BY-NC
+created_at: '2022-01-01T20:18:31+11:00'
+updated_at: '2022-01-01T20:18:31+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104092308'

@@ -1,0 +1,31 @@
+id:
+  - name: Petroica phoenicea
+    common: Flame Robin
+    by:
+      - chrislindorff
+      - jmesmorvell
+    ref:
+      inaturalist: 14168
+datetime: '2012-09-16T15:30:00+10:00'
+latitude: -36.339813
+longitude: 146.205902
+location_name: 'Wangandary VIC 3678, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '178893278'
+    width: 1185
+    height: 1789
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178893278/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178893278/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178893278'
+license: CC BY-NC
+created_at: '2022-02-10T22:53:43+11:00'
+updated_at: '2022-02-11T08:05:12+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106488441'

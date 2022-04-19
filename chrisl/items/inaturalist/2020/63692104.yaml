@@ -1,0 +1,41 @@
+id:
+  - name: Brachyscome perpusilla
+    common: Tiny Daisy
+    by:
+      - chrislindorff
+      - oneanttofew
+      - ranveer
+    ref:
+      inaturalist: 400088
+datetime: '2020-09-28T14:21:00+10:00'
+latitude: -36.854581
+longitude: 142.468369
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 50
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '102264320'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102264320/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102264320/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/102264320'
+  - source: iNaturalist
+    id: '102264425'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102264425/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102264425/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/102264425'
+license: CC BY-NC
+created_at: '2020-10-28T22:16:28+11:00'
+updated_at: '2020-10-28T22:56:04+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63692104'

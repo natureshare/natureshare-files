@@ -1,0 +1,49 @@
+id:
+  - name: Nematolepis squamea
+    common: satinwood
+    by:
+      - chrislindorff
+      - lorrainecphelan
+    ref:
+      inaturalist: 353806
+datetime: '2020-11-08T14:18:17+11:00'
+latitude: -38.67055
+longitude: 143.495452
+location_name: 'Colac-Otway - South, Great Otway, AU-VI, AU'
+description: Triplet Falls carpark
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '103558419'
+    width: 2048
+    height: 921
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103558419/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103558419/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/103558419'
+  - source: iNaturalist
+    id: '103558453'
+    width: 2048
+    height: 921
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103558453/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103558453/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/103558453'
+  - source: iNaturalist
+    id: '103558490'
+    width: 2048
+    height: 921
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103558490/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103558490/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/103558490'
+license: CC BY-NC
+created_at: '2020-11-08T15:34:17+11:00'
+updated_at: '2020-11-09T15:36:34+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/64415544'

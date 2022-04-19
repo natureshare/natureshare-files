@@ -1,0 +1,49 @@
+id:
+  - name: Morethia ruficauda
+    common: Lined Firetail Skink
+    by:
+      - chrislindorff
+      - grahamarmstrong
+    ref:
+      inaturalist: 37924
+datetime: '2018-07-24T09:45:00+10:00'
+latitude: -24.21132
+longitude: 124.36157
+location_name: 'Little Sandy Desert WA 6646, Australia'
+accuracy: 200
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '177391022'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177391022/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177391022/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/177391022'
+  - source: iNaturalist
+    id: '177391101'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177391101/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177391101/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/177391101'
+  - source: iNaturalist
+    id: '177390940'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177390940/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177390940/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/177390940'
+license: CC BY-NC
+created_at: '2022-01-28T12:26:57+11:00'
+updated_at: '2022-01-31T20:25:33+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105692061'

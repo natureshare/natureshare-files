@@ -1,0 +1,40 @@
+id:
+  - name: Adenanthos terminalis
+    common: Gland Flower
+    by:
+      - chrislindorff
+      - alan_dandie
+    ref:
+      inaturalist: 550107
+datetime: '2009-09-07T12:54:00+10:00'
+latitude: -35.928848
+longitude: 140.340393
+location_name: 'Ngarkat SA 5302, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '179348235'
+    width: 1365
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179348235/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179348235/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/179348235'
+  - source: iNaturalist
+    id: '179348273'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179348273/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179348273/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/179348273'
+license: CC BY-NC
+created_at: '2022-02-14T15:03:23+11:00'
+updated_at: '2022-02-14T17:21:50+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106725411'

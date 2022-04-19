@@ -1,0 +1,40 @@
+id:
+  - name: Correa aemula
+    common: Hairy Correa
+    by:
+      - chrislindorff
+      - wren_fraser
+    ref:
+      inaturalist: 709667
+datetime: '2020-11-30T13:47:25+11:00'
+latitude: -36.973309
+longitude: 142.450913
+location_name: 'Grampians, Grampians National Park, N. Grampians  - Stawell, AU-VI, AU'
+accuracy: 8
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '106105200'
+    width: 2048
+    height: 921
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106105200/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106105200/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106105200'
+  - source: iNaturalist
+    id: '106105207'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106105207/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106105207/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106105207'
+license: CC BY-NC
+created_at: '2020-11-30T20:00:12+11:00'
+updated_at: '2020-12-01T17:52:55+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65876438'

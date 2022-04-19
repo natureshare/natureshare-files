@@ -1,0 +1,49 @@
+id:
+  - name: Fuligo septica
+    common: Dog Vomit Slime Mold
+    by:
+      - chrislindorff
+      - adrian_aus
+    ref:
+      inaturalist: 55483
+datetime: '2022-03-24T14:05:00+11:00'
+latitude: -37.825396
+longitude: 144.193301
+location_name: 'Golden Plains - South-East, Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '185135923'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185135923/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185135923/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185135923'
+  - source: iNaturalist
+    id: '185136013'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185136013/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185136013/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185136013'
+  - source: iNaturalist
+    id: '185135970'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185135970/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185135970/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185135970'
+license: CC BY-NC
+created_at: '2022-03-29T14:00:04+11:00'
+updated_at: '2022-03-29T19:39:02+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/109807340'

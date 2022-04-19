@@ -1,0 +1,40 @@
+id:
+  - name: Chrysocephalum semipapposum
+    common: clustered everlasting
+    by:
+      - chrislindorff
+      - chrisclarke25
+    ref:
+      inaturalist: 244465
+datetime: '2020-11-30T13:40:51+11:00'
+latitude: -36.971772
+longitude: 142.450373
+location_name: 'Grampians, Grampians National Park, N. Grampians  - Stawell, AU-VI, AU'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '106105171'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106105171/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106105171/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106105171'
+  - source: iNaturalist
+    id: '106105185'
+    width: 2048
+    height: 923
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106105185/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106105185/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106105185'
+license: CC BY-NC
+created_at: '2020-11-30T14:40:56+11:00'
+updated_at: '2021-02-12T00:25:30+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65864864'

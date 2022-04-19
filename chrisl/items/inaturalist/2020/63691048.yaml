@@ -1,0 +1,49 @@
+id:
+  - name: Caladenia carnea
+    common: Pink Lady Fingers
+    by:
+      - chrislindorff
+      - koolah
+    ref:
+      inaturalist: 321090
+datetime: '2020-09-28T13:55:00+10:00'
+latitude: -36.854581
+longitude: 142.468369
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '102262479'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102262479/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102262479/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/102262479'
+  - source: iNaturalist
+    id: '102262509'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102262509/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102262509/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/102262509'
+  - source: iNaturalist
+    id: '102262535'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102262535/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102262535/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/102262535'
+license: CC BY-NC
+created_at: '2020-10-28T21:38:03+11:00'
+updated_at: '2020-10-29T16:37:13+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63691048'

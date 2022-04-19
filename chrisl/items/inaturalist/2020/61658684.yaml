@@ -1,0 +1,49 @@
+id:
+  - name: Burchardia umbellata
+    common: Milkmaids
+    by:
+      - chrislindorff
+      - reiner
+    ref:
+      inaturalist: 83628
+datetime: '2020-09-25T15:33:00+10:00'
+latitude: -37.81214
+longitude: 143.885741
+location_name: 'Mount Mercer VIC 3352, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '98687185'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98687185/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98687185/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98687185'
+  - source: iNaturalist
+    id: '98687486'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98687486/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98687486/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98687486'
+  - source: iNaturalist
+    id: '98687314'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98687314/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98687314/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98687314'
+license: CC BY-NC
+created_at: '2020-10-04T22:32:27+11:00'
+updated_at: '2020-10-04T22:35:16+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61658684'

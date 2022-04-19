@@ -1,0 +1,30 @@
+id:
+  - name: Casuarina pauper
+    common: Belah
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 787663
+datetime: '2011-11-06T09:54:00+11:00'
+latitude: -34.27158
+longitude: 141.457703
+location_name: 'Neds Corner VIC 3496, Australia'
+accuracy: 30
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '174377431'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174377431/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174377431/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174377431'
+license: CC BY-NC
+created_at: '2022-01-01T21:15:26+11:00'
+updated_at: '2022-01-01T21:15:26+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104094063'

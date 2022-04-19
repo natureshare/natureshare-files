@@ -1,0 +1,49 @@
+id:
+  - name: Acanthiza apicalis
+    common: Inland Thornbill
+    by:
+      - chrislindorff
+      - t-weichselbaum
+    ref:
+      inaturalist: 72439
+datetime: '2014-03-08T09:11:00+11:00'
+latitude: -35.92143
+longitude: 141.861921
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 100
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176976844'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176976844/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176976844/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176976844'
+  - source: iNaturalist
+    id: '176976882'
+    width: 2048
+    height: 1357
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176976882/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176976882/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176976882'
+  - source: iNaturalist
+    id: '176976886'
+    width: 2048
+    height: 1357
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176976886/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176976886/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176976886'
+license: CC BY-NC
+created_at: '2022-01-24T12:50:44+11:00'
+updated_at: '2022-01-24T14:16:08+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105473588'

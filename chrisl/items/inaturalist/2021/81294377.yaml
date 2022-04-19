@@ -1,0 +1,39 @@
+id:
+  - name: Salicornia quinqueflora quinqueflora
+    by:
+      - chrislindorff
+      - beth393
+    ref:
+      inaturalist: 966907
+datetime: '2021-05-17T13:07:00+10:00'
+latitude: -38.521971
+longitude: 145.312648
+location_name: 'Newhaven VIC 3925, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '133329190'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133329190/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133329190/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133329190'
+  - source: iNaturalist
+    id: '133329245'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133329245/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133329245/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133329245'
+license: CC BY-NC
+created_at: '2021-06-02T22:41:29+10:00'
+updated_at: '2021-06-04T22:06:24+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/81294377'

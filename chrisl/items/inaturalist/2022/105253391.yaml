@@ -1,0 +1,40 @@
+id:
+  - name: Arthropodium strictum
+    common: chocolate lily
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 1138706
+datetime: '2015-10-14T11:13:00+11:00'
+latitude: -37.866228
+longitude: 144.23292
+location_name: 'Steiglitz VIC 3331, Australia'
+accuracy: 50
+description: As Arthropodium sp. 3 in Flora of Victoria (2022). Only provisional name available. Defined by more than 1 flower per leaf axil.
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176559302'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176559302/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176559302/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176559302'
+  - source: iNaturalist
+    id: '176559309'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176559309/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176559309/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176559309'
+license: CC BY-NC
+created_at: '2022-01-20T19:11:39+11:00'
+updated_at: '2022-01-20T19:11:39+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105253391'

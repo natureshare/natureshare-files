@@ -1,0 +1,32 @@
+id:
+  - name: Dicaeum hirundinaceum
+    common: Mistletoebird
+    by:
+      - chrislindorff
+      - dianneclarke
+      - jennyghct
+    ref:
+      inaturalist: 13388
+datetime: '2012-09-17T12:13:00+10:00'
+latitude: -36.288055
+longitude: 146.148344
+location_name: 'Boweya VIC 3675, Australia'
+accuracy: 100
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '96121614'
+    width: 2048
+    height: 1365
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/96121614/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/96121614/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/96121614'
+license: CC BY-NC
+created_at: '2020-09-20T09:07:16+10:00'
+updated_at: '2020-09-20T09:27:26+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60128833'

@@ -1,0 +1,40 @@
+id:
+  - name: Asperula conferta
+    common: Common Woodruff
+    by:
+      - chrislindorff
+      - colinandwendycook
+    ref:
+      inaturalist: 516379
+datetime: '2015-10-13T09:22:00+11:00'
+latitude: -37.862053
+longitude: 144.191633
+location_name: 'Steiglitz VIC 3331, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176545174'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545174/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545174/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176545174'
+  - source: iNaturalist
+    id: '176545183'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545183/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545183/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176545183'
+license: CC BY-NC
+created_at: '2022-01-20T15:03:02+11:00'
+updated_at: '2022-02-19T22:16:45+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105246261'

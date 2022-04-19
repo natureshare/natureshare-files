@@ -1,0 +1,56 @@
+id:
+  - name: Pultenaea mollis
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 894246
+datetime: '2020-10-16T17:20:00+11:00'
+latitude: -38.383186
+longitude: 144.238642
+location_name: 'Surf Coast - West, Victoria, Australia'
+accuracy: 15
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '101016042'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101016042/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101016042/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101016042'
+  - source: iNaturalist
+    id: '101016069'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101016069/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101016069/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101016069'
+  - source: iNaturalist
+    id: '101016110'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101016110/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101016110/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101016110'
+  - source: iNaturalist
+    id: '101016145'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101016145/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101016145/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101016145'
+license: CC BY-NC
+created_at: '2020-10-19T17:38:01+11:00'
+updated_at: '2020-10-19T17:38:01+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/62987646'

@@ -1,7 +1,9 @@
 id:
   - name: Boletellus obscurecoccineus
+    common: rhubarb bolete
     by:
       - konan_farrelly
+      - chrislindorff
     ref:
       inaturalist: 355979
 datetime: '2020-06-14T13:42:00+10:00'
@@ -16,8 +18,8 @@ photos:
     id: '78659604'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/78659604/medium.jpeg?1592119393'
-    original_url: 'https://static.inaturalist.org/photos/78659604/original.jpeg?1592119393'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78659604/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78659604/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/78659604'
@@ -25,8 +27,8 @@ photos:
     id: '78659748'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/78659748/medium.jpeg?1592119505'
-    original_url: 'https://static.inaturalist.org/photos/78659748/original.jpeg?1592119505'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78659748/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78659748/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/78659748'
@@ -34,14 +36,14 @@ photos:
     id: '78659880'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/78659880/medium.jpeg?1592119620'
-    original_url: 'https://static.inaturalist.org/photos/78659880/original.jpeg?1592119620'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78659880/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78659880/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/78659880'
 license: CC BY-NC
 created_at: '2020-06-14T18:15:55+10:00'
-updated_at: '2020-06-14T20:59:56+10:00'
+updated_at: '2020-11-21T23:49:03+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/49549997'

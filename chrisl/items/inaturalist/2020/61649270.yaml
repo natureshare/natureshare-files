@@ -1,0 +1,49 @@
+id:
+  - name: Banksia marginata
+    common: Silver Banksia
+    by:
+      - chrislindorff
+      - fluffball
+    ref:
+      inaturalist: 133274
+datetime: '2020-09-25T14:41:00+10:00'
+latitude: -37.827661
+longitude: 143.660974
+location_name: 'Rokewood Junction VIC 3351, Australia'
+accuracy: 200
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '98672353'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98672353/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98672353/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98672353'
+  - source: iNaturalist
+    id: '98672400'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98672400/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98672400/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98672400'
+  - source: iNaturalist
+    id: '98672440'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98672440/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98672440/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98672440'
+license: CC BY-NC
+created_at: '2020-10-04T18:19:18+11:00'
+updated_at: '2020-10-05T16:20:11+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61649270'

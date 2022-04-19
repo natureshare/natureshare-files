@@ -1,7 +1,9 @@
 id:
   - name: Caladenia saxatilis
+    common: Star Spider-Orchid
     by:
       - chrislindorff
+      - rwl
     ref:
       inaturalist: 1089662
 datetime: '2009-09-13T14:13:00+10:00'
@@ -15,8 +17,8 @@ photos:
     id: '74478751'
     width: 1362
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/74478751/medium.jpeg?1590240498'
-    original_url: 'https://static.inaturalist.org/photos/74478751/original.jpeg?1590240498'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74478751/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74478751/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/74478751'
@@ -24,14 +26,14 @@ photos:
     id: '74478814'
     width: 1362
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/74478814/medium.jpeg?1590240522'
-    original_url: 'https://static.inaturalist.org/photos/74478814/original.jpeg?1590240522'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74478814/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74478814/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/74478814'
 license: CC BY-NC
 created_at: '2020-05-23T23:36:31+10:00'
-updated_at: '2020-05-24T18:05:55+10:00'
+updated_at: '2020-10-25T17:02:12+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/46963072'

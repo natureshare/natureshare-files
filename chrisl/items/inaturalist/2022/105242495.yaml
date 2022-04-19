@@ -1,0 +1,49 @@
+id:
+  - name: Acanthiza pusilla
+    common: Brown Thornbill
+    by:
+      - chrislindorff
+      - george_seagull
+    ref:
+      inaturalist: 13468
+datetime: '2015-10-11T15:14:00+11:00'
+latitude: -37.901959
+longitude: 144.223429
+location_name: 'Anakie VIC 3213, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176537992'
+    width: 1024
+    height: 682
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176537992/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176537992/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176537992'
+  - source: iNaturalist
+    id: '176537983'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176537983/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176537983/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176537983'
+  - source: iNaturalist
+    id: '176537985'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176537985/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176537985/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176537985'
+license: CC BY-NC
+created_at: '2022-01-20T13:34:58+11:00'
+updated_at: '2022-01-20T13:45:05+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105242495'

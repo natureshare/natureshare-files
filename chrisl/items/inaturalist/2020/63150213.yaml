@@ -1,0 +1,49 @@
+id:
+  - name: Conospermum mitchellii
+    common: victorian smoke-bush
+    by:
+      - chrislindorff
+      - chrisclarke25
+    ref:
+      inaturalist: 565434
+datetime: '2020-10-21T11:21:28+11:00'
+latitude: -38.364588
+longitude: 144.113974
+location_name: 'Anglesea VIC 3230, Australia'
+accuracy: 16
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '101303752'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101303752/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101303752/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101303752'
+  - source: iNaturalist
+    id: '101303780'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101303780/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101303780/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101303780'
+  - source: iNaturalist
+    id: '101303825'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101303825/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101303825/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101303825'
+license: CC BY-NC
+created_at: '2020-10-21T18:30:06+11:00'
+updated_at: '2021-03-17T20:16:15+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63150213'

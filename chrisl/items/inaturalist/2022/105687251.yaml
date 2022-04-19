@@ -1,0 +1,58 @@
+id:
+  - name: Leptosema chambersii
+    common: upside-down plant
+    by:
+      - chrislindorff
+      - eremophila
+    ref:
+      inaturalist: 626653
+datetime: '2018-07-24T14:39:00+10:00'
+latitude: -24.21132
+longitude: 124.36157
+location_name: 'Little Sandy Desert WA 6646, Australia'
+accuracy: 200
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '177382238'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177382238/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177382238/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/177382238'
+  - source: iNaturalist
+    id: '177382265'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177382265/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177382265/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/177382265'
+  - source: iNaturalist
+    id: '177382320'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177382320/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177382320/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/177382320'
+  - source: iNaturalist
+    id: '177382343'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177382343/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177382343/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/177382343'
+license: CC BY-NC
+created_at: '2022-01-28T10:33:01+11:00'
+updated_at: '2022-01-29T14:01:18+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105687251'

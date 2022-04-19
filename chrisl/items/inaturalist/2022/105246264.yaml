@@ -1,0 +1,31 @@
+id:
+  - name: Brunonia australis
+    common: blue pincushion
+    by:
+      - chrislindorff
+      - vireyajacquard
+    ref:
+      inaturalist: 421601
+datetime: '2015-10-13T09:51:00+11:00'
+latitude: -37.860085
+longitude: 144.191739
+location_name: 'Brisbane Ranges, Golden Plains - South-East, Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176545220'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545220/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545220/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176545220'
+license: CC BY-NC
+created_at: '2022-01-20T15:03:03+11:00'
+updated_at: '2022-01-20T15:26:01+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105246264'

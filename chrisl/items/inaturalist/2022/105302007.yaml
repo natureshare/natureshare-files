@@ -1,0 +1,30 @@
+id:
+  - name: Noctuidae
+    common: Cutworm Moths and Allies
+    by:
+      - bushbandit
+    ref:
+      inaturalist: 48670
+datetime: '2013-09-14T22:51:00+10:00'
+latitude: -35.920708
+longitude: 141.860199
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176653366'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176653366/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176653366/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176653366'
+license: CC BY-NC
+created_at: '2022-01-21T17:49:06+11:00'
+updated_at: '2022-01-22T07:23:35+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105302007'

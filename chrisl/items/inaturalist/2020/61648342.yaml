@@ -1,0 +1,33 @@
+id:
+  - name: Notechis scutatus
+    common: Tiger Snake
+    by:
+      - snakesrcool
+      - asimakis_patitsas
+      - max_tibby
+    ref:
+      inaturalist: 35178
+datetime: '2020-10-02T14:33:00+10:00'
+latitude: -38.351091
+longitude: 143.392279
+location_name: 'Pirron Yallock VIC 3249, Australia'
+accuracy: 61
+description: Faintly banded.
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '98670816'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98670816/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98670816/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98670816'
+license: CC BY-NC
+created_at: '2020-10-04T17:46:05+11:00'
+updated_at: '2020-10-05T18:34:21+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61648342'

@@ -1,0 +1,31 @@
+id:
+  - name: Acacia paradoxa
+    common: Kangaroo thorn
+    by:
+      - chrislindorff
+      - george_seagull
+    ref:
+      inaturalist: 75251
+datetime: '2015-10-13T09:44:00+11:00'
+latitude: -37.860278
+longitude: 144.191922
+location_name: 'Steiglitz VIC 3331, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176545153'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545153/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176545153/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176545153'
+license: CC BY-NC
+created_at: '2022-01-20T15:03:02+11:00'
+updated_at: '2022-01-20T17:16:10+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105246260'

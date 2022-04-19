@@ -1,0 +1,30 @@
+id:
+  - name: Nomophila corticalis
+    by:
+      - chrislindorff
+      - vicfazio3
+    ref:
+      inaturalist: 495671
+datetime: '2013-09-14T22:49:00+10:00'
+latitude: -35.920708
+longitude: 141.860199
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176564450'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176564450/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176564450/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176564450'
+license: CC BY-NC
+created_at: '2022-01-20T21:12:01+11:00'
+updated_at: '2022-01-20T22:27:30+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105256052'

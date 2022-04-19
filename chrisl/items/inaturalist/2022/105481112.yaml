@@ -1,0 +1,31 @@
+id:
+  - name: Acacia mearnsii
+    common: black wattle
+    by:
+      - chrislindorff
+      - michael1922
+    ref:
+      inaturalist: 75250
+datetime: '2020-09-25T15:02:00+10:00'
+latitude: -37.823528
+longitude: 143.685034
+location_name: 'Illabarook VIC 3351, Australia'
+accuracy: 10000
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176991293'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176991293/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176991293/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176991293'
+license: CC BY-NC
+created_at: '2022-01-24T14:59:07+11:00'
+updated_at: '2022-01-28T13:23:13+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105481112'

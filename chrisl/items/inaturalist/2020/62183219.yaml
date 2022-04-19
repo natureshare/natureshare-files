@@ -1,0 +1,29 @@
+id:
+  - name: Eutrichopidia latinus
+    by:
+      - chrislindorff
+      - bushbandit
+    ref:
+      inaturalist: 208589
+datetime: '2020-10-08T10:17:44+11:00'
+latitude: -37.902014
+longitude: 144.223245
+location_name: 'Anakie VIC 3213, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '99600479'
+    width: 1200
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99600479/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99600479/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/99600479'
+license: CC BY-NC
+created_at: '2020-10-10T21:41:17+11:00'
+updated_at: '2020-10-10T22:36:12+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/62183219'

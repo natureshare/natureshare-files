@@ -1,0 +1,40 @@
+id:
+  - name: Chiloglottis valida
+    common: common bird-orchid
+    by:
+      - chrislindorff
+      - bushbandit
+    ref:
+      inaturalist: 380755
+datetime: '2020-10-22T15:47:21+11:00'
+latitude: -38.386546
+longitude: 144.240725
+location_name: 'Bells Beach VIC 3228, Australia'
+accuracy: 46
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '101449046'
+    width: 2048
+    height: 921
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101449046/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101449046/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101449046'
+  - source: iNaturalist
+    id: '101449125'
+    width: 2048
+    height: 921
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101449125/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101449125/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101449125'
+license: CC BY-NC
+created_at: '2020-10-22T22:12:18+11:00'
+updated_at: '2020-10-22T23:47:35+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63232090'

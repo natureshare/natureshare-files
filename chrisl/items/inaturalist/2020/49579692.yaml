@@ -4,6 +4,7 @@ id:
     by:
       - chrislindorff
       - wren_fraser
+      - chough
     ref:
       inaturalist: 210184
 datetime: '2015-09-18T12:46:00+10:00'
@@ -17,8 +18,8 @@ photos:
     id: '78707555'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/78707555/medium.jpeg?1592144892'
-    original_url: 'https://static.inaturalist.org/photos/78707555/original.jpeg?1592144892'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78707555/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78707555/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/78707555'
@@ -26,14 +27,14 @@ photos:
     id: '78707643'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/78707643/medium.jpeg?1592144916'
-    original_url: 'https://static.inaturalist.org/photos/78707643/original.jpeg?1592144916'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78707643/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78707643/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/78707643'
 license: CC BY-NC
 created_at: '2020-06-15T00:32:04+10:00'
-updated_at: '2020-07-23T16:39:49+10:00'
+updated_at: '2021-08-03T19:16:43+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/49579692'

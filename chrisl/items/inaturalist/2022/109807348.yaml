@@ -1,0 +1,48 @@
+id:
+  - name: Hypoxis hygrometrica villosisepala
+    by:
+      - chrislindorff
+      - michael1922
+    ref:
+      inaturalist: 984735
+datetime: '2022-03-24T11:11:00+11:00'
+latitude: -37.830512
+longitude: 144.197369
+location_name: 'Steiglitz VIC 3331, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '185137199'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185137199/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185137199/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185137199'
+  - source: iNaturalist
+    id: '185137238'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185137238/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185137238/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185137238'
+  - source: iNaturalist
+    id: '185137261'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185137261/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/185137261/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/185137261'
+license: CC BY-NC
+created_at: '2022-03-29T14:00:07+11:00'
+updated_at: '2022-04-03T23:05:40+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/109807348'

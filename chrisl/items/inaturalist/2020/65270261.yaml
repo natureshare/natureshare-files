@@ -1,0 +1,29 @@
+id:
+  - name: Aotus ericoides
+    common: Common Aotus
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 323231
+datetime: '2020-11-20T15:48:46+11:00'
+latitude: -38.359223
+longitude: 144.025147
+location_name: 'Wensleydale VIC 3241, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '105022283'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105022283/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105022283/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/105022283'
+license: CC BY-NC
+created_at: '2020-11-20T22:27:21+11:00'
+updated_at: '2020-11-20T22:27:54+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65270261'

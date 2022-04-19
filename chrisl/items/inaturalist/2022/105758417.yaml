@@ -1,0 +1,31 @@
+id:
+  - name: Hibbertia obtusifolia
+    common: grey guinea flower
+    by:
+      - chrislindorff
+      - ninakerr01
+    ref:
+      inaturalist: 210348
+datetime: '2012-09-18T07:00:00+10:00'
+latitude: -36.342546
+longitude: 146.203065
+location_name: 'Wangandary VIC 3678, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '177520941'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177520941/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177520941/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/177520941'
+license: CC BY-NC
+created_at: '2022-01-29T18:10:56+11:00'
+updated_at: '2022-01-29T18:30:58+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105758417'

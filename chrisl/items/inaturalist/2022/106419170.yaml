@@ -1,0 +1,50 @@
+id:
+  - name: Cheilanthes austrotenuifolia
+    common: Rock Fern
+    by:
+      - chrislindorff
+      - rgvhf
+      - jemeny
+    ref:
+      inaturalist: 323950
+datetime: '2012-09-18T06:58:00+10:00'
+latitude: -36.342743
+longitude: 146.203635
+location_name: 'Wangandary VIC 3678, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '178765388'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178765388/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178765388/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178765388'
+  - source: iNaturalist
+    id: '178765494'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178765494/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178765494/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178765494'
+  - source: iNaturalist
+    id: '178765595'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178765595/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178765595/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178765595'
+license: CC BY-NC
+created_at: '2022-02-09T16:10:17+11:00'
+updated_at: '2022-02-09T20:13:50+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106419170'

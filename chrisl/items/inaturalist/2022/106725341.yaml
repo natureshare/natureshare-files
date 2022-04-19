@@ -1,0 +1,31 @@
+id:
+  - name: Isopogon ceratophyllus
+    common: Horny Cone-bush
+    by:
+      - chrislindorff
+      - alan_dandie
+    ref:
+      inaturalist: 485275
+datetime: '2009-09-07T10:42:00+10:00'
+latitude: -35.82717
+longitude: 140.69166
+location_name: 'South Australia, AU'
+accuracy: 28620
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '179348067'
+    width: 1362
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179348067/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/179348067/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/179348067'
+license: CC BY-NC
+created_at: '2022-02-14T15:01:44+11:00'
+updated_at: '2022-02-14T17:21:42+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106725341'

@@ -1,0 +1,48 @@
+id:
+  - name: Pultenaea gunnii tuberculata
+    by:
+      - chrislindorff
+      - koolah
+    ref:
+      inaturalist: 1060259
+datetime: '2020-10-03T11:14:50+10:00'
+latitude: -37.900191
+longitude: 144.223135
+location_name: 'Anakie VIC 3213, Australia'
+accuracy: 11
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '98476178'
+    width: 1200
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98476178/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98476178/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98476178'
+  - source: iNaturalist
+    id: '98476200'
+    width: 1200
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98476200/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98476200/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98476200'
+  - source: iNaturalist
+    id: '98476252'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98476252/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98476252/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98476252'
+license: CC BY-NC
+created_at: '2020-10-03T12:17:49+10:00'
+updated_at: '2020-10-03T13:15:41+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61529836'

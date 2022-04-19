@@ -1,0 +1,39 @@
+id:
+  - name: Olearia teretifolia
+    common: Cypress Daisy-bush
+    by:
+      - chrislindorff
+      - koolah
+    ref:
+      inaturalist: 565107
+datetime: '2020-10-02T17:57:57+10:00'
+latitude: -37.890243
+longitude: 144.208849
+location_name: 'Golden Plains - South-East, AU-VI, AU'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '98354793'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98354793/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98354793/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98354793'
+  - source: iNaturalist
+    id: '98354800'
+    width: 1200
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98354800/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98354800/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98354800'
+license: CC BY-NC
+created_at: '2020-10-02T18:04:21+10:00'
+updated_at: '2020-10-02T19:45:12+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61460316'

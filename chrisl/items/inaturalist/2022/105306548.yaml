@@ -1,0 +1,30 @@
+id:
+  - name: Platycercus elegans elegans
+    common: Southeastern Crimson Rosella
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 553970
+datetime: '2014-02-07T19:05:00+11:00'
+latitude: -37.90204
+longitude: 144.223789
+location_name: 'Anakie VIC 3213, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176662846'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176662846/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176662846/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176662846'
+license: CC BY-NC
+created_at: '2022-01-21T21:51:02+11:00'
+updated_at: '2022-01-21T22:57:00+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105306548'

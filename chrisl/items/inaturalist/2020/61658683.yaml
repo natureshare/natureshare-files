@@ -1,0 +1,40 @@
+id:
+  - name: Rosa rubiginosa
+    common: Sweet-brier
+    by:
+      - chrislindorff
+      - lorrainecphelan
+    ref:
+      inaturalist: 78886
+datetime: '2020-09-25T15:36:00+10:00'
+latitude: -37.812142
+longitude: 143.885738
+location_name: 'Mount Mercer VIC 3352, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '98687044'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98687044/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98687044/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98687044'
+  - source: iNaturalist
+    id: '98687849'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98687849/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98687849/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98687849'
+license: CC BY-NC
+created_at: '2020-10-04T22:32:26+11:00'
+updated_at: '2020-10-05T09:12:42+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61658683'

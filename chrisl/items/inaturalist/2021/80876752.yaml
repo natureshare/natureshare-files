@@ -1,0 +1,39 @@
+id:
+  - name: Solanum aviculare
+    common: New Zealand nightshade
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 79135
+datetime: '2021-05-16T13:36:00+10:00'
+latitude: -38.458403
+longitude: 145.288828
+location_name: 'Bass Coast  - Phillip Is., Victoria, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '132597080'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132597080/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132597080/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/132597080'
+  - source: iNaturalist
+    id: '132597200'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132597200/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132597200/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/132597200'
+license: CC BY-NC
+created_at: '2021-05-30T23:53:28+10:00'
+updated_at: '2021-05-30T23:53:28+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/80876752'

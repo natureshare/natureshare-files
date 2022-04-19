@@ -1,0 +1,39 @@
+id:
+  - name: Comesperma polygaloides
+    by:
+      - chrislindorff
+      - ninakerr01
+    ref:
+      inaturalist: 913378
+datetime: '2021-02-23T11:54:48+11:00'
+latitude: -38.054804
+longitude: 143.720581
+location_name: 'Cressy VIC 3322, Australia'
+accuracy: 8
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '113761594'
+    width: 1152
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/113761594/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/113761594/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/113761594'
+  - source: iNaturalist
+    id: '113763646'
+    width: 2048
+    height: 1152
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/113763646/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/113763646/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/113763646'
+license: CC BY-NC
+created_at: '2021-02-23T17:34:54+11:00'
+updated_at: '2021-02-23T22:13:11+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/70026101'

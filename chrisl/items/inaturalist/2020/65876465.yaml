@@ -1,0 +1,58 @@
+id:
+  - name: Bellardia trixago
+    common: Mediterranean lineseed
+    by:
+      - chrislindorff
+      - else
+    ref:
+      inaturalist: 51286
+datetime: '2020-11-30T14:18:32+11:00'
+latitude: -36.972591
+longitude: 142.450362
+location_name: 'Grampians, Grampians National Park, N. Grampians  - Stawell, AU-VI, AU'
+accuracy: 4
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '106105231'
+    width: 720
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106105231/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106105231/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106105231'
+  - source: iNaturalist
+    id: '106105241'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106105241/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106105241/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106105241'
+  - source: iNaturalist
+    id: '106105248'
+    width: 720
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106105248/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106105248/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106105248'
+  - source: iNaturalist
+    id: '106105252'
+    width: 720
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106105252/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106105252/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106105252'
+license: CC BY-NC
+created_at: '2020-11-30T20:00:43+11:00'
+updated_at: '2020-12-03T10:04:59+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65876465'

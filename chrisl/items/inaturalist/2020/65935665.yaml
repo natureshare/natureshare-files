@@ -1,0 +1,28 @@
+id:
+  - name: Cardamine tenuifolia
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 323165
+datetime: '2020-11-27T16:36:50+11:00'
+latitude: -38.345652
+longitude: 143.388601
+location_name: 'Pirron Yallock VIC 3249, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '106207767'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106207767/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106207767/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106207767'
+license: CC BY-NC
+created_at: '2020-12-01T22:49:52+11:00'
+updated_at: '2020-12-01T22:50:16+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65935665'

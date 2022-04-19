@@ -3,6 +3,7 @@ id:
     common: Austral Bugle
     by:
       - chrislindorff
+      - arthur_chapman
     ref:
       inaturalist: 210141
 datetime: '2012-09-25T13:19:00+10:00'
@@ -17,8 +18,8 @@ photos:
     id: '92549512'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/92549512/medium.jpeg?1598754796'
-    original_url: 'https://static.inaturalist.org/photos/92549512/original.jpeg?1598754796'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92549512/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92549512/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/92549512'
@@ -26,14 +27,14 @@ photos:
     id: '92549711'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/92549711/medium.jpeg?1598754887'
-    original_url: 'https://static.inaturalist.org/photos/92549711/original.jpeg?1598754887'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92549711/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/92549711/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/92549711'
 license: CC BY-NC
 created_at: '2020-08-30T12:34:52+10:00'
-updated_at: '2020-08-30T12:34:52+10:00'
+updated_at: '2020-09-19T09:05:32+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/57992519'

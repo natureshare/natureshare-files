@@ -1,0 +1,40 @@
+id:
+  - name: Acacia rubida
+    common: Red Stem Wattle
+    by:
+      - chrislindorff
+      - iancastle
+    ref:
+      inaturalist: 244348
+datetime: '2012-09-18T07:12:00+10:00'
+latitude: -36.342849
+longitude: 146.202839
+location_name: 'Taminick VIC 3675, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '177519545'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177519545/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177519545/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/177519545'
+  - source: iNaturalist
+    id: '177519636'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177519636/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/177519636/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/177519636'
+license: CC BY-NC
+created_at: '2022-01-29T17:48:20+11:00'
+updated_at: '2022-01-30T12:26:56+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105757644'

@@ -1,0 +1,31 @@
+id:
+  - name: Eriochilus cucullatus
+    common: Parson's Bands
+    by:
+      - chrislindorff
+      - bushbandit
+    ref:
+      inaturalist: 148240
+datetime: '2012-09-18T07:54:00+10:00'
+latitude: -36.34369
+longitude: 146.202264
+location_name: 'Taminick VIC 3675, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '178873839'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178873839/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178873839/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/178873839'
+license: CC BY-NC
+created_at: '2022-02-10T16:44:31+11:00'
+updated_at: '2022-02-11T13:48:05+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106477283'

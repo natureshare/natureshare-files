@@ -1,0 +1,40 @@
+id:
+  - name: Drosera aberrans
+    common: Scented Sundew
+    by:
+      - chrislindorff
+      - bernie-l
+    ref:
+      inaturalist: 143292
+datetime: '2020-09-25T12:59:00+10:00'
+latitude: -37.906875
+longitude: 143.516777
+location_name: 'Golden Plains - North-West, Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97078699'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97078699/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97078699/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/97078699'
+  - source: iNaturalist
+    id: '97078827'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97078827/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97078827/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/97078827'
+license: CC BY-NC
+created_at: '2020-09-25T20:54:28+10:00'
+updated_at: '2020-09-25T21:06:22+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60699658'

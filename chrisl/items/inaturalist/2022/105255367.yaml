@@ -1,0 +1,48 @@
+id:
+  - name: Nearcha aridaria
+    by:
+      - kallies
+      - chrislindorff
+    ref:
+      inaturalist: 893813
+datetime: '2013-09-14T20:00:00+10:00'
+latitude: -35.920708
+longitude: 141.860199
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176563348'
+    width: 1546
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176563348/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176563348/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176563348'
+  - source: iNaturalist
+    id: '176563352'
+    width: 1546
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176563352/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176563352/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176563352'
+  - source: iNaturalist
+    id: '176563354'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176563354/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176563354/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176563354'
+license: CC BY-NC
+created_at: '2022-01-20T20:40:52+11:00'
+updated_at: '2022-03-22T11:27:14+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105255367'

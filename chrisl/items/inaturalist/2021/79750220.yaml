@@ -1,0 +1,31 @@
+id:
+  - name: Diuris sulphurea
+    common: Tiger Orchid
+    by:
+      - chrislindorff
+      - meta4
+    ref:
+      inaturalist: 83522
+datetime: '2020-10-16T19:50:00+11:00'
+latitude: -37.894808
+longitude: 144.225678
+location_name: 'Greater Geelong - Pt C, Victoria, Australia'
+accuracy: 50
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '130650093'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130650093/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130650093/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/130650093'
+license: CC BY-NC
+created_at: '2021-05-22T19:41:41+10:00'
+updated_at: '2021-05-22T19:51:32+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/79750220'

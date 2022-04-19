@@ -1,0 +1,31 @@
+id:
+  - name: Melaleuca lanceolata
+    common: Moonah
+    by:
+      - chrislindorff
+      - robertpergl
+    ref:
+      inaturalist: 465912
+datetime: '2021-05-17T12:34:00+10:00'
+latitude: -38.516718
+longitude: 145.30679
+location_name: 'Bass Coast  - Phillip Is., Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '133320302'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133320302/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133320302/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133320302'
+license: CC BY-NC
+created_at: '2021-06-02T21:36:15+10:00'
+updated_at: '2021-06-03T19:44:56+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/81289348'

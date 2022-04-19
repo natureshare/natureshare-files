@@ -2,6 +2,7 @@ id:
   - name: Lomandra juncea
     by:
       - chrislindorff
+      - chrisclarke25
     ref:
       inaturalist: 862391
 datetime: '2020-08-02T16:46:00+10:00'
@@ -16,8 +17,8 @@ photos:
     id: '89210038'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/89210038/medium.jpeg?1597037011'
-    original_url: 'https://static.inaturalist.org/photos/89210038/original.jpeg?1597037011'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89210038/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89210038/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/89210038'
@@ -25,8 +26,8 @@ photos:
     id: '89210177'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/89210177/medium.jpeg?1597037123'
-    original_url: 'https://static.inaturalist.org/photos/89210177/original.jpeg?1597037123'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89210177/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89210177/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/89210177'
@@ -34,14 +35,14 @@ photos:
     id: '89209949'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/89209949/medium.jpeg?1597036939'
-    original_url: 'https://static.inaturalist.org/photos/89209949/original.jpeg?1597036939'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89209949/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/89209949/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/89209949'
 license: CC BY-NC
 created_at: '2020-08-10T15:25:28+10:00'
-updated_at: '2020-08-10T15:26:00+10:00'
+updated_at: '2021-05-23T00:00:39+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/56001141'

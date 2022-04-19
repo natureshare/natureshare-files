@@ -1,0 +1,48 @@
+id:
+  - name: Chenopodium nutans nutans
+    by:
+      - chrislindorff
+      - michael1922
+    ref:
+      inaturalist: 898149
+datetime: '2020-09-29T11:39:00+10:00'
+latitude: -36.853706
+longitude: 142.480449
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '175354561'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175354561/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175354561/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175354561'
+  - source: iNaturalist
+    id: '175354587'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175354587/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175354587/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175354587'
+  - source: iNaturalist
+    id: '175354629'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175354629/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175354629/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175354629'
+license: CC BY-NC
+created_at: '2022-01-09T17:26:16+11:00'
+updated_at: '2022-01-09T22:57:56+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104626032'

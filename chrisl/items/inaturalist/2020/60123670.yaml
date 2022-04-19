@@ -1,0 +1,41 @@
+id:
+  - name: Macropus giganteus
+    common: Eastern Grey Kangaroo
+    by:
+      - chrislindorff
+      - reiner
+      - chuditch
+    ref:
+      inaturalist: 42888
+datetime: '2012-09-16T16:12:00+10:00'
+latitude: -36.339813
+longitude: 146.205902
+location_name: 'Wangandary VIC 3678, Australia'
+accuracy: 100
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '96113128'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/96113128/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/96113128/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/96113128'
+  - source: iNaturalist
+    id: '96113210'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/96113210/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/96113210/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/96113210'
+license: CC BY-NC
+created_at: '2020-09-20T08:22:18+10:00'
+updated_at: '2020-09-21T09:23:57+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60123670'

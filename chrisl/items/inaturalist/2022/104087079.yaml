@@ -1,0 +1,30 @@
+id:
+  - name: Callitris endlicheri
+    common: black cypress-pine
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 52384
+datetime: '2012-09-29T13:07:00+10:00'
+latitude: -32.775516
+longitude: 148.335056
+location_name: 'Peak Hill NSW 2869, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '174364374'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174364374/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/174364374/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/174364374'
+license: CC BY-NC
+created_at: '2022-01-01T17:28:41+11:00'
+updated_at: '2022-01-01T17:28:42+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104087079'

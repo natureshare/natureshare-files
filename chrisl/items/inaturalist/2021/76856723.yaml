@@ -1,0 +1,31 @@
+id:
+  - name: Ozothamnus obcordatus
+    common: Grey Everlasting
+    by:
+      - chrislindorff
+      - chrisclarke25
+    ref:
+      inaturalist: 353933
+datetime: '2020-11-03T16:15:00+11:00'
+latitude: -37.866434
+longitude: 144.217852
+location_name: 'Steiglitz VIC 3331, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '125701381'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125701381/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125701381/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/125701381'
+license: CC BY-NC
+created_at: '2021-05-03T16:17:13+10:00'
+updated_at: '2021-05-03T19:23:15+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/76856723'

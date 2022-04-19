@@ -7,10 +7,10 @@ id:
     ref:
       inaturalist: 485210
 datetime: '2020-06-07T14:58:00+10:00'
-latitude: -35.921621
-longitude: 141.856022
-location_name: 'Hindmarsh, Victoria, Australia'
-accuracy: 10
+latitude: -35.827623
+longitude: 141.903904
+location_name: 'Hindmarsh, AU-VI, AU'
+accuracy: 28620
 tags:
   - inaturalist
 photos:
@@ -18,8 +18,8 @@ photos:
     id: '78671439'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/78671439/medium.jpeg?1592128398'
-    original_url: 'https://static.inaturalist.org/photos/78671439/original.jpeg?1592128398'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78671439/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78671439/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/78671439'
@@ -27,8 +27,8 @@ photos:
     id: '78671561'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/78671561/medium.jpeg?1592128480'
-    original_url: 'https://static.inaturalist.org/photos/78671561/original.jpeg?1592128480'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78671561/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78671561/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/78671561'
@@ -36,8 +36,8 @@ photos:
     id: '78671712'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/78671712/medium.jpeg?1592128565'
-    original_url: 'https://static.inaturalist.org/photos/78671712/original.jpeg?1592128565'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78671712/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78671712/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/78671712'

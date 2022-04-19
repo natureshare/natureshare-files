@@ -1,0 +1,40 @@
+id:
+  - name: Aotus ericoides
+    common: Common Aotus
+    by:
+      - chrislindorff
+      - lukepippafreya
+    ref:
+      inaturalist: 323231
+datetime: '2020-10-21T11:54:25+11:00'
+latitude: -38.364634
+longitude: 144.115961
+location_name: 'Anglesea VIC 3230, Australia'
+accuracy: 4
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '101276649'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101276649/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101276649/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101276649'
+  - source: iNaturalist
+    id: '101276668'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101276668/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101276668/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101276668'
+license: CC BY-NC
+created_at: '2020-10-21T11:57:42+11:00'
+updated_at: '2020-10-27T20:26:00+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63135561'

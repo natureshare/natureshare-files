@@ -1,0 +1,32 @@
+id:
+  - name: Chaetomorpha coliformis
+    common: sea emeralds
+    by:
+      - algaemarg
+      - chrislindorff
+      - w_martin
+    ref:
+      inaturalist: 473533
+datetime: '2021-05-17T12:23:00+10:00'
+latitude: -38.453696
+longitude: 145.197677
+location_name: 'Cowes VIC, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '133099026'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133099026/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133099026/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133099026'
+license: CC BY-NC
+created_at: '2021-06-01T22:20:04+10:00'
+updated_at: '2021-08-22T10:51:07+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/81164189'

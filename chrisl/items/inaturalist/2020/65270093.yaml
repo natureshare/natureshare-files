@@ -1,0 +1,37 @@
+id:
+  - name: Hibbertia australis
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 856072
+datetime: '2020-11-20T12:38:32+11:00'
+latitude: -38.357981
+longitude: 144.029042
+location_name: 'Wensleydale VIC 3241, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '105021980'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105021980/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105021980/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/105021980'
+  - source: iNaturalist
+    id: '105022018'
+    width: 2048
+    height: 921
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105022018/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105022018/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/105022018'
+license: CC BY-NC
+created_at: '2020-11-20T22:17:05+11:00'
+updated_at: '2020-11-20T22:18:40+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65270093'

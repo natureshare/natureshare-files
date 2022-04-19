@@ -1,0 +1,29 @@
+id:
+  - name: Templetonia stenophylla
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 1092257
+datetime: '2020-11-30T11:43:10+11:00'
+latitude: -36.855156
+longitude: 142.47409
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 4
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '106064834'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106064834/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106064834/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/106064834'
+license: CC BY-NC
+created_at: '2020-11-30T11:45:18+11:00'
+updated_at: '2020-11-30T11:45:40+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65854422'

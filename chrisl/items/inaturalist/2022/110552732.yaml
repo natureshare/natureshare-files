@@ -1,0 +1,38 @@
+id:
+  - name: Phebalium squamulosum coriaceum
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 787349
+datetime: '2012-09-27T11:05:00+10:00'
+latitude: -31.28597
+longitude: 148.985762
+location_name: 'Tonderburine NSW 2828, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '186511957'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/186511957/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/186511957/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/186511957'
+  - source: iNaturalist
+    id: '186512085'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/186512085/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/186512085/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/186512085'
+license: CC BY-NC
+created_at: '2022-04-06T15:12:41+10:00'
+updated_at: '2022-04-06T15:12:41+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/110552732'

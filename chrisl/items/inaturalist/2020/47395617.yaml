@@ -1,5 +1,6 @@
 id:
   - name: Pimelea curviflora
+    common: curved rice-flower
     by:
       - chrislindorff
       - chrisclarke25
@@ -17,8 +18,8 @@ photos:
     id: '75168565'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/75168565/medium.jpeg?1590499287'
-    original_url: 'https://static.inaturalist.org/photos/75168565/original.jpeg?1590499287'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75168565/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75168565/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/75168565'

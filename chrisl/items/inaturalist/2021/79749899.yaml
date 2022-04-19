@@ -1,0 +1,31 @@
+id:
+  - name: Thelymitra pauciflora
+    common: slender sun-orchid
+    by:
+      - chrislindorff
+      - meta4
+    ref:
+      inaturalist: 406514
+datetime: '2020-11-03T16:14:00+11:00'
+latitude: -37.866447
+longitude: 144.217913
+location_name: 'Steiglitz VIC 3331, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '130649722'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130649722/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/130649722/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/130649722'
+license: CC BY-NC
+created_at: '2021-05-22T19:37:39+10:00'
+updated_at: '2021-05-22T19:50:25+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/79749899'

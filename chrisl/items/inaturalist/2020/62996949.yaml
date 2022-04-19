@@ -1,0 +1,56 @@
+id:
+  - name: Juncus
+    common: rushes
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 52643
+datetime: '2020-10-19T19:33:17+11:00'
+latitude: -37.900925
+longitude: 144.215709
+location_name: 'Anakie VIC 3213, Australia'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '101037779'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101037779/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101037779/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101037779'
+  - source: iNaturalist
+    id: '101037830'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101037830/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101037830/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101037830'
+  - source: iNaturalist
+    id: '101037873'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101037873/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101037873/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101037873'
+  - source: iNaturalist
+    id: '101037938'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101037938/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101037938/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101037938'
+license: CC BY-NC
+created_at: '2020-10-19T22:04:40+11:00'
+updated_at: '2020-10-19T22:50:18+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/62996949'

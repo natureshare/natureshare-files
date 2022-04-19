@@ -1,0 +1,42 @@
+id:
+  - name: Cereopsis novaehollandiae
+    common: Cape Barren Goose
+    by:
+      - chrislindorff
+      - george_seagull
+      - pamday4
+      - nicklambert
+    ref:
+      inaturalist: 7150
+datetime: '2021-05-16T13:47:00+10:00'
+latitude: -38.462167
+longitude: 145.286028
+location_name: 'Rhyll VIC 3923, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '132594067'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132594067/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132594067/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/132594067'
+  - source: iNaturalist
+    id: '132594209'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132594209/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/132594209/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/132594209'
+license: CC BY-NC
+created_at: '2021-05-30T23:35:43+10:00'
+updated_at: '2021-08-26T23:07:53+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/80874832'

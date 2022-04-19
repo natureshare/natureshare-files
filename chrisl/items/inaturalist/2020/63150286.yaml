@@ -1,0 +1,40 @@
+id:
+  - name: Leucopogon glacialis
+    common: twisted beard-heath
+    by:
+      - chrislindorff
+      - chrisclarke25
+    ref:
+      inaturalist: 717187
+datetime: '2020-10-21T00:27:32+11:00'
+latitude: -38.36455
+longitude: 144.115769
+location_name: 'Anglesea VIC 3230, Australia'
+accuracy: 4
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '101303922'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101303922/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101303922/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101303922'
+  - source: iNaturalist
+    id: '101303945'
+    width: 921
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101303945/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101303945/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/101303945'
+license: CC BY-NC
+created_at: '2020-10-21T18:33:09+11:00'
+updated_at: '2021-05-29T02:29:15+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63150286'

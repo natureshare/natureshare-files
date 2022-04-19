@@ -3,6 +3,7 @@ id:
     common: Variable Daisy
     by:
       - chrislindorff
+      - annabelc
     ref:
       inaturalist: 553373
 datetime: '2020-06-07T15:22:00+10:00'
@@ -17,8 +18,8 @@ photos:
     id: '78681095'
     width: 2048
     height: 1356
-    thumbnail_url: 'https://static.inaturalist.org/photos/78681095/medium.jpeg?1592133855'
-    original_url: 'https://static.inaturalist.org/photos/78681095/original.jpeg?1592133855'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78681095/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78681095/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/78681095'
@@ -26,8 +27,8 @@ photos:
     id: '78681421'
     width: 2048
     height: 1356
-    thumbnail_url: 'https://static.inaturalist.org/photos/78681421/medium.jpeg?1592133973'
-    original_url: 'https://static.inaturalist.org/photos/78681421/original.jpeg?1592133973'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78681421/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78681421/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/78681421'
@@ -35,8 +36,8 @@ photos:
     id: '78681658'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/78681658/medium.jpeg?1592134078'
-    original_url: 'https://static.inaturalist.org/photos/78681658/original.jpeg?1592134078'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78681658/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78681658/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/78681658'
@@ -44,8 +45,8 @@ photos:
     id: '78681887'
     width: 2048
     height: 1356
-    thumbnail_url: 'https://static.inaturalist.org/photos/78681887/medium.jpeg?1592134186'
-    original_url: 'https://static.inaturalist.org/photos/78681887/original.jpeg?1592134186'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78681887/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78681887/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/78681887'
@@ -53,8 +54,8 @@ photos:
     id: '78682135'
     width: 2048
     height: 1356
-    thumbnail_url: 'https://static.inaturalist.org/photos/78682135/medium.jpeg?1592134305'
-    original_url: 'https://static.inaturalist.org/photos/78682135/original.jpeg?1592134305'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78682135/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78682135/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/78682135'
@@ -62,14 +63,14 @@ photos:
     id: '78682364'
     width: 1356
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/78682364/medium.jpeg?1592134411'
-    original_url: 'https://static.inaturalist.org/photos/78682364/original.jpeg?1592134411'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78682364/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/78682364/original.jpeg'
     license: CC BY-NC
     attribution: Chris Lindorff
     href: 'https://www.inaturalist.org/photos/78682364'
 license: CC BY-NC
 created_at: '2020-06-14T21:51:58+10:00'
-updated_at: '2020-06-15T23:20:42+10:00'
+updated_at: '2021-09-17T15:41:06+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/49563850'

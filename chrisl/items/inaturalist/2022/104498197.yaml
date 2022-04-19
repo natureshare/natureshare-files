@@ -1,0 +1,48 @@
+id:
+  - name: Eutaxia diffusa
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 921480
+datetime: '2020-09-29T11:20:00+10:00'
+latitude: -36.854842
+longitude: 142.480841
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 10
+description: As Eutaxia microphylla var. diffusa in Flora of Victoria (2022)
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '175109369'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175109369/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175109369/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175109369'
+  - source: iNaturalist
+    id: '175109446'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175109446/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175109446/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175109446'
+  - source: iNaturalist
+    id: '175109523'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175109523/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175109523/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175109523'
+license: CC BY-NC
+created_at: '2022-01-07T13:51:53+11:00'
+updated_at: '2022-01-07T13:51:54+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104498197'

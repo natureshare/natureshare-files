@@ -1,0 +1,49 @@
+id:
+  - name: Ozothamnus turbinatus
+    common: Coast Everlasting
+    by:
+      - chrislindorff
+      - chrisclarke25
+    ref:
+      inaturalist: 602537
+datetime: '2021-05-17T13:19:00+10:00'
+latitude: -38.51759
+longitude: 145.306221
+location_name: 'Bass Coast  - Phillip Is., Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '133320686'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133320686/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133320686/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133320686'
+  - source: iNaturalist
+    id: '133320820'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133320820/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133320820/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133320820'
+  - source: iNaturalist
+    id: '133320756'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133320756/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133320756/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133320756'
+license: CC BY-NC
+created_at: '2021-06-02T21:36:16+10:00'
+updated_at: '2021-06-03T00:16:10+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/81289350'

@@ -1,0 +1,40 @@
+id:
+  - name: Acanthiza reguloides
+    common: Buff-rumped Thornbill
+    by:
+      - chrislindorff
+      - mhewish
+    ref:
+      inaturalist: 13471
+datetime: '2015-10-11T13:25:00+11:00'
+latitude: -37.901959
+longitude: 144.223429
+location_name: 'Anakie VIC 3213, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176537998'
+    width: 1024
+    height: 683
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176537998/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176537998/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176537998'
+  - source: iNaturalist
+    id: '176538000'
+    width: 1024
+    height: 678
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176538000/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176538000/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176538000'
+license: CC BY-NC
+created_at: '2022-01-20T13:34:59+11:00'
+updated_at: '2022-01-20T14:08:35+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105242496'

@@ -1,0 +1,31 @@
+id:
+  - name: Rhipidura albiscapa
+    common: Grey Fantail
+    by:
+      - chrislindorff
+      - bwjone432155
+    ref:
+      inaturalist: 144737
+datetime: '2014-02-07T18:54:00+11:00'
+latitude: -37.902057
+longitude: 144.223575
+location_name: 'Anakie VIC 3213, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176662849'
+    width: 1545
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176662849/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176662849/original.jpg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176662849'
+license: CC BY-NC
+created_at: '2022-01-21T21:51:03+11:00'
+updated_at: '2022-01-21T22:05:04+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105306549'

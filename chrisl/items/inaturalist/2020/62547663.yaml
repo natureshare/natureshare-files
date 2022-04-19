@@ -1,0 +1,39 @@
+id:
+  - name: Quinetia urvillei
+    by:
+      - chrislindorff
+      - ninakerr01
+    ref:
+      inaturalist: 511260
+datetime: '2020-09-28T14:27:00+10:00'
+latitude: -36.855242
+longitude: 142.46861
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '100234778'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/100234778/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/100234778/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/100234778'
+  - source: iNaturalist
+    id: '100234769'
+    width: 1356
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/100234769/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/100234769/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/100234769'
+license: CC BY-NC
+created_at: '2020-10-14T21:42:59+11:00'
+updated_at: '2021-02-07T12:29:38+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/62547663'

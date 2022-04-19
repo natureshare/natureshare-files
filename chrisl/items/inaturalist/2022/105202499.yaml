@@ -1,0 +1,57 @@
+id:
+  - name: Chenopodium nitrariaceum
+    common: Nitre Goosefoot
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 451477
+datetime: '2014-01-25T16:39:00+11:00'
+latitude: -35.824506
+longitude: 142.117681
+location_name: 'Rainbow VIC 3424, Australia'
+accuracy: 50
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176461776'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176461776/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176461776/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176461776'
+  - source: iNaturalist
+    id: '176461802'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176461802/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176461802/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176461802'
+  - source: iNaturalist
+    id: '176461827'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176461827/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176461827/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176461827'
+  - source: iNaturalist
+    id: '176461844'
+    width: 1536
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176461844/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176461844/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176461844'
+license: CC BY-NC
+created_at: '2022-01-19T20:55:25+11:00'
+updated_at: '2022-01-19T20:55:25+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105202499'

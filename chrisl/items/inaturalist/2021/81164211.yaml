@@ -1,0 +1,39 @@
+id:
+  - name: Chromista
+    common: 'kelp, diatoms, and allies'
+    by:
+      - chrislindorff
+    ref:
+      inaturalist: 48222
+datetime: '2021-05-17T12:58:00+10:00'
+latitude: -38.457098
+longitude: 145.191984
+location_name: 'Bass Coast  - Phillip Is., Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '133101344'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133101344/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133101344/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133101344'
+  - source: iNaturalist
+    id: '133101432'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133101432/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133101432/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/133101432'
+license: CC BY-NC
+created_at: '2021-06-01T22:20:10+10:00'
+updated_at: '2021-06-02T19:26:55+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/81164211'

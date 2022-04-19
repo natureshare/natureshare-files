@@ -1,0 +1,31 @@
+id:
+  - name: Asparagus asparagoides
+    common: Cape Smilax
+    by:
+      - chrislindorff
+      - yatesy
+    ref:
+      inaturalist: 64107
+datetime: '2020-09-29T11:57:00+10:00'
+latitude: -36.852068
+longitude: 142.480734
+location_name: 'Dadswells Bridge VIC 3385, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '175357480'
+    width: 2048
+    height: 1356
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175357480/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175357480/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/175357480'
+license: CC BY-NC
+created_at: '2022-01-09T18:17:35+11:00'
+updated_at: '2022-01-09T20:51:57+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104627644'

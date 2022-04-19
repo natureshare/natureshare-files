@@ -1,0 +1,40 @@
+id:
+  - name: Persoonia juniperina
+    common: Prickly Geebung
+    by:
+      - chrislindorff
+      - beth393
+    ref:
+      inaturalist: 323847
+datetime: '2020-10-03T10:25:52+10:00'
+latitude: -37.887391
+longitude: 144.188319
+location_name: 'Steiglitz VIC 3331, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '98471382'
+    width: 1200
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98471382/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98471382/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98471382'
+  - source: iNaturalist
+    id: '98471395'
+    width: 1200
+    height: 1600
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98471395/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98471395/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/98471395'
+license: CC BY-NC
+created_at: '2020-10-03T11:33:45+10:00'
+updated_at: '2020-10-03T15:33:48+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61527236'

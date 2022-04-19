@@ -1,0 +1,31 @@
+id:
+  - name: Diuris orientis
+    common: Wallflower orchid
+    by:
+      - chrislindorff
+      - bushbandit
+    ref:
+      inaturalist: 328055
+datetime: '2015-10-15T09:37:00+11:00'
+latitude: -37.863587
+longitude: 144.232574
+location_name: 'Brisbane Ranges, Golden Plains - South-East, Victoria, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '176551048'
+    width: 678
+    height: 1024
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176551048/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176551048/original.jpeg'
+    license: CC BY-NC
+    attribution: Chris Lindorff
+    href: 'https://www.inaturalist.org/photos/176551048'
+license: CC BY-NC
+created_at: '2022-01-20T16:45:30+11:00'
+updated_at: '2022-01-20T17:15:40+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105249677'
