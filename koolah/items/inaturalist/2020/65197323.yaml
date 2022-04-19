@@ -1,0 +1,31 @@
+id:
+  - name: Epidesmia hypenaria
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 425346
+datetime: '2020-11-18T22:00:00+11:00'
+latitude: -37.938334
+longitude: 144.30988
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '104899141'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/104899141/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/104899141/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/104899141'
+license: CC BY-NC
+created_at: '2020-11-19T16:25:02+11:00'
+updated_at: '2022-03-01T08:09:26+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65197323'

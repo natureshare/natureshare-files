@@ -1,0 +1,32 @@
+id:
+  - name: Satrapia thesaurina
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 1153617
+datetime: '2020-11-25T21:55:00+11:00'
+latitude: -37.814483
+longitude: 144.21248
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+  - small
+photos:
+  - source: iNaturalist
+    id: '105656972'
+    width: 2000
+    height: 1500
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105656972/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105656972/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/105656972'
+license: CC BY-NC
+created_at: '2020-11-26T17:16:53+11:00'
+updated_at: '2022-02-28T10:31:06+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65624670'

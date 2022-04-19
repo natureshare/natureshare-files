@@ -1,0 +1,31 @@
+id:
+  - name: Caladenia carnea
+    common: Pink Lady Fingers
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 321090
+datetime: '2020-10-05T11:05:00+11:00'
+latitude: -37.2477
+longitude: 142.91243
+location_name: 'Ararat VIC 3377, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '99600834'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99600834/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99600834/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/99600834'
+license: CC BY-NC
+created_at: '2020-10-10T22:10:50+11:00'
+updated_at: '2020-10-10T22:31:49+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/62184454'

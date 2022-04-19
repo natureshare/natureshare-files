@@ -1,0 +1,41 @@
+id:
+  - name: Eublemma inconspicua
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 471543
+datetime: '2020-11-18T21:49:00+11:00'
+latitude: -37.889203
+longitude: 144.393635
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: 2nd image shows dorsal view.
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '104899159'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/104899159/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/104899159/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/104899159'
+  - source: iNaturalist
+    id: '104899182'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/104899182/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/104899182/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/104899182'
+license: CC BY-NC
+created_at: '2020-11-19T16:25:03+11:00'
+updated_at: '2022-03-01T08:07:40+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65197324'

@@ -1,0 +1,32 @@
+id:
+  - name: Fisera eribola
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 355175
+datetime: '2019-04-12T20:55:00+10:00'
+latitude: -37.922253
+longitude: 144.345528
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+  - male
+photos:
+  - source: iNaturalist
+    id: '119455182'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/119455182/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/119455182/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/119455182'
+license: CC BY-NC
+created_at: '2021-04-07T19:31:56+10:00'
+updated_at: '2022-02-27T15:14:59+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/73185784'

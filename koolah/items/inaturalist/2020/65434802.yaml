@@ -1,0 +1,31 @@
+id:
+  - name: Tineola bisselliella
+    common: Webbing Clothes Moth
+    by:
+      - koolah
+    ref:
+      inaturalist: 232606
+datetime: '2020-11-18T20:50:00+11:00'
+latitude: -37.913757
+longitude: 144.361857
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '105319097'
+    width: 2000
+    height: 1499
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105319097/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105319097/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/105319097'
+license: CC BY-NC
+created_at: '2020-11-23T09:13:46+11:00'
+updated_at: '2022-02-28T10:31:05+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65434802'

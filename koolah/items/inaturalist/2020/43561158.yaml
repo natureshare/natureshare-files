@@ -6,9 +6,10 @@ id:
     ref:
       inaturalist: 471404
 datetime: '2020-04-24T19:44:00+10:00'
-latitude: -37.806571
-longitude: 144.297036
-location_name: 'Brisbane Ranges VIC 3340, Australia'
+latitude: -37.911943
+longitude: 144.277048
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: Worn specimen
 tags:
   - inaturalist
@@ -18,14 +19,14 @@ photos:
     id: '69112709'
     width: 1502
     height: 2000
-    thumbnail_url: 'https://static.inaturalist.org/photos/69112709/medium.jpg?1587886684'
-    original_url: 'https://static.inaturalist.org/photos/69112709/original.jpg?1587886684'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/69112709/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/69112709/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/69112709'
 license: CC BY-NC
 created_at: '2020-04-26T17:43:20+10:00'
-updated_at: '2020-04-26T18:50:00+10:00'
+updated_at: '2022-03-31T17:12:06+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/43561158'

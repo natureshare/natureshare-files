@@ -1,0 +1,31 @@
+id:
+  - name: Antipterna euanthes
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 425893
+datetime: '2019-10-02T20:39:00+10:00'
+latitude: -37.903621
+longitude: 144.203324
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '176242194'
+    width: 1500
+    height: 910
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176242194/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176242194/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/176242194'
+license: CC BY-NC
+created_at: '2022-01-17T20:01:21+11:00'
+updated_at: '2022-02-23T07:43:34+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105088553'

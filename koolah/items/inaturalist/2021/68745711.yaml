@@ -1,0 +1,32 @@
+id:
+  - name: Acmotoma magniferella
+    by:
+      - koolah
+      - eremophila
+      - johnlenagan
+    ref:
+      inaturalist: 604347
+datetime: '2021-01-10T23:40:00+11:00'
+latitude: -37.55853
+longitude: 144.42021
+location_name: 'Bluegum Track Lerderderg SP VIC 3458, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '111392765'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/111392765/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/111392765/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/111392765'
+license: CC BY-NC
+created_at: '2021-01-29T13:36:30+11:00'
+updated_at: '2021-01-29T15:49:41+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/68745711'

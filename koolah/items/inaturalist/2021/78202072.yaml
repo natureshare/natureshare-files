@@ -1,0 +1,30 @@
+id:
+  - name: Cosmopterix
+    by:
+      - koolah
+    ref:
+      inaturalist: 174160
+datetime: '2021-04-15T21:58:00+10:00'
+latitude: -36.79956
+longitude: 142.20822
+location_name: 'Bungalally VIC 3401, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '127951716'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/127951716/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/127951716/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/127951716'
+license: CC BY-NC
+created_at: '2021-05-10T18:55:19+10:00'
+updated_at: '2021-05-11T09:48:55+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/78202072'

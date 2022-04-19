@@ -1,0 +1,29 @@
+id:
+  - name: Gracillariinae
+    by:
+      - koolah
+    ref:
+      inaturalist: 124270
+datetime: '2020-12-03T01:02:00+11:00'
+latitude: -38.423222
+longitude: 144.178779
+location_name: 'Anglesea VIC 3230, Australia'
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '108212479'
+    width: 2048
+    height: 1538
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108212479/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108212479/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/108212479'
+license: CC BY-NC
+created_at: '2020-12-25T20:29:14+11:00'
+updated_at: '2020-12-25T20:30:30+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/67037998'

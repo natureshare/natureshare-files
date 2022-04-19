@@ -1,0 +1,32 @@
+id:
+  - name: Melanodes anthracitaria
+    common: Black Geometrid
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 355144
+datetime: '2020-11-02T21:14:00+11:00'
+latitude: -37.834903
+longitude: 144.380218
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '103102186'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103102186/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103102186/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/103102186'
+license: CC BY-NC
+created_at: '2020-11-04T16:34:07+11:00'
+updated_at: '2022-03-01T13:19:17+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/64158590'

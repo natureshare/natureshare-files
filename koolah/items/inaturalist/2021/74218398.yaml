@@ -1,0 +1,61 @@
+id:
+  - name: Hylaeora dilucida
+    common: Ochre Rough-head
+    by:
+      - koolah
+      - vicfazio3
+    ref:
+      inaturalist: 417822
+datetime: '2021-04-15T22:12:00+10:00'
+latitude: -36.79956
+longitude: 142.20822
+location_name: 'Bungalally VIC 3401, Australia'
+accuracy: 6
+description: 'Other images show dorsal view, hindwings and head view'
+tags:
+  - inaturalist
+  - moth
+  - female
+photos:
+  - source: iNaturalist
+    id: '121277900'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/121277900/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/121277900/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/121277900'
+  - source: iNaturalist
+    id: '121277924'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/121277924/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/121277924/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/121277924'
+  - source: iNaturalist
+    id: '121277943'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/121277943/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/121277943/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/121277943'
+  - source: iNaturalist
+    id: '121277959'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/121277959/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/121277959/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/121277959'
+license: CC BY-NC
+created_at: '2021-04-17T18:20:57+10:00'
+updated_at: '2021-04-18T05:08:59+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/74218398'

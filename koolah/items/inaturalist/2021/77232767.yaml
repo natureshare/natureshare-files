@@ -1,0 +1,31 @@
+id:
+  - name: Stenosmylus stenopterus
+    by:
+      - koolah
+      - kenharris
+    ref:
+      inaturalist: 708301
+datetime: '2021-05-02T20:45:00+10:00'
+latitude: -37.88188
+longitude: 144.18087
+location_name: 'Bert Boardman Reserve VIC 3333, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+  - lacewing
+photos:
+  - source: iNaturalist
+    id: '126297295'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126297295/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126297295/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/126297295'
+license: CC BY-NC
+created_at: '2021-05-04T18:26:44+10:00'
+updated_at: '2021-05-05T21:40:16+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/77232767'

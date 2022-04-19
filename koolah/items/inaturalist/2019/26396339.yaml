@@ -1,11 +1,11 @@
 id:
-  - name: Psychidae
-    common: Bagworm Moths
+  - name: Heliocosma
     by:
+      - kallies
       - ethanbeaver
-      - casemothcapers
+      - koolah
     ref:
-      inaturalist: 61415
+      inaturalist: 146756
 latitude: -36.924988
 longitude: 148.160596
 location_name: 'Limestone Road, Alpine National Park, Brumby VIC 3885, Australia'
@@ -17,8 +17,8 @@ photos:
     id: '40986135'
     width: 1024
     height: 724
-    thumbnail_url: 'https://static.inaturalist.org/photos/40986135/medium.jpeg?1559671242'
-    original_url: 'https://static.inaturalist.org/photos/40986135/original.jpeg?1559671242'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986135/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986135/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40986135'
@@ -26,14 +26,14 @@ photos:
     id: '40986137'
     width: 1024
     height: 723
-    thumbnail_url: 'https://static.inaturalist.org/photos/40986137/medium.jpeg?1559671244'
-    original_url: 'https://static.inaturalist.org/photos/40986137/original.jpeg?1559671244'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986137/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986137/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40986137'
 license: CC BY-NC
 created_at: '2019-06-05T04:00:44+10:00'
-updated_at: '2019-11-07T11:08:08+11:00'
+updated_at: '2021-09-22T08:53:16+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26396339'

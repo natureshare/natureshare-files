@@ -1,0 +1,33 @@
+id:
+  - name: Termessa nivosa
+    common: Snowy Footman
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 341660
+datetime: '2021-11-30T02:59:00+11:00'
+latitude: -37.879728
+longitude: 144.266275
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - white
+  - moth
+photos:
+  - source: iNaturalist
+    id: '171940827'
+    width: 1730
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/171940827/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/171940827/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/171940827'
+license: CC BY-NC
+created_at: '2021-12-10T21:06:02+11:00'
+updated_at: '2022-02-26T19:30:54+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/102809364'

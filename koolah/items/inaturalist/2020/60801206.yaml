@@ -1,0 +1,32 @@
+id:
+  - name: Chiloglottis valida
+    common: common bird-orchid
+    by:
+      - koolah
+      - reiner
+      - indrabone
+    ref:
+      inaturalist: 380755
+datetime: '2020-09-26T13:00:00+10:00'
+latitude: -37.79576
+longitude: 144.27277
+location_name: 'Brisbane Ranges VIC 3340, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97242342'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97242342/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97242342/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97242342'
+license: CC BY-NC
+created_at: '2020-09-26T18:29:04+10:00'
+updated_at: '2020-09-26T18:45:59+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60801206'

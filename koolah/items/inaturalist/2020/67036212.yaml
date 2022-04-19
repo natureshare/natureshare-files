@@ -1,0 +1,42 @@
+id:
+  - name: Helicoverpa armigera
+    common: Cotton Bollworm Moth
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 83806
+datetime: '2020-12-23T23:21:00+11:00'
+latitude: -37.851215
+longitude: 144.39029
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: 2nd image shows hindwings
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '108208795'
+    width: 1600
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108208795/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108208795/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/108208795'
+  - source: iNaturalist
+    id: '108208807'
+    width: 2000
+    height: 1761
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108208807/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108208807/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/108208807'
+license: CC BY-NC
+created_at: '2020-12-25T18:43:25+11:00'
+updated_at: '2022-02-27T15:37:27+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/67036212'

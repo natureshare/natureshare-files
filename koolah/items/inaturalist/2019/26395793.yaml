@@ -1,8 +1,8 @@
 id:
   - name: Plectobela ecliptica
     by:
-      - daviaker
       - koolah
+      - daviaker
     ref:
       inaturalist: 877374
 latitude: -37.732718
@@ -16,8 +16,8 @@ photos:
     id: '40985288'
     width: 1024
     height: 659
-    thumbnail_url: 'https://static.inaturalist.org/photos/40985288/medium.jpeg?1559670700'
-    original_url: 'https://static.inaturalist.org/photos/40985288/original.jpeg?1559670700'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985288/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985288/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40985288'

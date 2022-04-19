@@ -1,0 +1,31 @@
+id:
+  - name: Piloprepes anassa
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 554726
+datetime: '2020-11-18T23:21:00+11:00'
+latitude: -37.887782
+longitude: 144.26599
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '104899410'
+    width: 1999
+    height: 1501
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/104899410/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/104899410/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/104899410'
+license: CC BY-NC
+created_at: '2020-11-19T16:25:12+11:00'
+updated_at: '2022-03-01T08:04:09+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65197341'

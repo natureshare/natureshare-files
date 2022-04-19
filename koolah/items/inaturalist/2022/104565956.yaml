@@ -1,0 +1,32 @@
+id:
+  - name: Dissomorphia australiaria
+    common: Dashed Geometrid
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 341882
+datetime: '2021-12-31T23:26:00+11:00'
+latitude: -37.819463
+longitude: 144.385022
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '175238914'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175238914/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175238914/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/175238914'
+license: CC BY-NC
+created_at: '2022-01-08T20:03:28+11:00'
+updated_at: '2022-02-26T15:49:22+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104565956'

@@ -1,0 +1,50 @@
+id:
+  - name: Ethmia eupostica
+    by:
+      - koolah
+      - rogstanden
+    ref:
+      inaturalist: 777351
+datetime: '2014-09-29T23:35:00+10:00'
+latitude: -37.829413
+longitude: 144.325843
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: Further views in additional images
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '103720447'
+    width: 1289
+    height: 898
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103720447/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103720447/original.jpeg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/103720447'
+  - source: iNaturalist
+    id: '103720451'
+    width: 1039
+    height: 1310
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103720451/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103720451/original.jpeg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/103720451'
+  - source: iNaturalist
+    id: '103720453'
+    width: 1444
+    height: 871
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103720453/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103720453/original.jpeg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/103720453'
+license: CC BY-NC
+created_at: '2020-11-09T18:23:34+11:00'
+updated_at: '2022-03-01T08:17:04+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/64506813'

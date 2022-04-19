@@ -1,0 +1,42 @@
+id:
+  - name: Oenochroma subustaria
+    by:
+      - koolah
+      - vicfazio3
+    ref:
+      inaturalist: 554731
+datetime: '2020-12-03T21:55:00+11:00'
+latitude: -38.38435
+longitude: 144.14558
+location_name: 'Alcoa Boundary Track Lookout VIC 3230, Australia'
+accuracy: 20
+description: 2nd image shows ventral view
+tags:
+  - inaturalist
+  - moth
+  - male
+photos:
+  - source: iNaturalist
+    id: '107874190'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/107874190/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/107874190/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/107874190'
+  - source: iNaturalist
+    id: '107874206'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/107874206/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/107874206/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/107874206'
+license: CC BY-NC
+created_at: '2020-12-21T13:11:27+11:00'
+updated_at: '2020-12-22T05:20:40+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/66857320'

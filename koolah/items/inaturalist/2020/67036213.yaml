@@ -1,0 +1,41 @@
+id:
+  - name: Lasiosticha thermochroa
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 1163938
+datetime: '2020-12-23T23:33:00+11:00'
+latitude: -37.973082
+longitude: 144.393376
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: 2nd image shows dorsal view
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '108208812'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108208812/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108208812/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/108208812'
+  - source: iNaturalist
+    id: '108208816'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108208816/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108208816/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/108208816'
+license: CC BY-NC
+created_at: '2020-12-25T18:43:25+11:00'
+updated_at: '2022-02-27T15:37:27+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/67036213'

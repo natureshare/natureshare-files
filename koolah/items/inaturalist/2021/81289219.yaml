@@ -1,0 +1,32 @@
+id:
+  - name: Endoxyla secta
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 555878
+datetime: '2018-12-28T22:29:00+11:00'
+latitude: -37.894174
+longitude: 144.226121
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - male
+  - moth
+photos:
+  - source: iNaturalist
+    id: '133320555'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133320555/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133320555/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/133320555'
+license: CC BY-NC
+created_at: '2021-06-02T21:34:13+10:00'
+updated_at: '2022-02-27T10:19:15+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/81289219'

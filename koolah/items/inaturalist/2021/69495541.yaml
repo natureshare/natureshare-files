@@ -1,0 +1,32 @@
+id:
+  - name: Austrolestes analis
+    common: Slender Ringtail
+    by:
+      - koolah
+      - chrisclarke25
+    ref:
+      inaturalist: 323547
+datetime: '2021-02-12T15:26:00+11:00'
+latitude: -37.82647
+longitude: 144.1911
+location_name: 'Brisbane Ranges VIC 3331, Australia'
+accuracy: 6
+description: A large number of this species flying today
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '112774127'
+    width: 2000
+    height: 1500
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/112774127/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/112774127/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/112774127'
+license: CC BY-NC
+created_at: '2021-02-13T21:02:46+11:00'
+updated_at: '2021-02-14T00:16:20+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/69495541'

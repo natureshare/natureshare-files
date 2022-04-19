@@ -20,14 +20,14 @@ photos:
     id: '58140632'
     width: 1219
     height: 1500
-    thumbnail_url: 'https://static.inaturalist.org/photos/58140632/medium.jpg?1576664375'
-    original_url: 'https://static.inaturalist.org/photos/58140632/original.jpg?1576664375'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58140632/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58140632/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/58140632'
 license: CC BY-NC
 created_at: '2019-12-18T21:22:30+11:00'
-updated_at: '2019-12-18T22:04:31+11:00'
+updated_at: '2021-06-27T20:20:35+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/36748860'

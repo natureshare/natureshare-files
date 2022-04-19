@@ -5,6 +5,7 @@ id:
       - koolah
       - nyoni-pete
       - chuditch
+      - fobr
     ref:
       inaturalist: 40179
 datetime: '2020-07-24T08:58:00+10:00'
@@ -19,14 +20,14 @@ photos:
     id: '87515216'
     width: 1920
     height: 1080
-    thumbnail_url: 'https://static.inaturalist.org/photos/87515216/medium.png?1596236386'
-    original_url: 'https://static.inaturalist.org/photos/87515216/original.png?1596236386'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/87515216/medium.png'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/87515216/original.png'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/87515216'
 license: CC BY-NC
 created_at: '2020-08-01T09:05:33+10:00'
-updated_at: '2020-08-03T09:14:50+10:00'
+updated_at: '2020-11-20T17:02:42+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/54980860'

@@ -1,0 +1,32 @@
+id:
+  - name: Persectania ewingii
+    common: Southern Armyworm
+    by:
+      - koolah
+    ref:
+      inaturalist: 471504
+datetime: '2022-03-05T20:59:00+11:00'
+latitude: -37.802014
+longitude: 144.206087
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: 'Same species, different specimen to other observations on same date'
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '182955068'
+    width: 1500
+    height: 1126
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/182955068/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/182955068/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/182955068'
+license: CC BY-NC
+created_at: '2022-03-15T17:24:05+11:00'
+updated_at: '2022-03-15T17:24:05+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/108639842'

@@ -1,0 +1,33 @@
+id:
+  - name: Epidesmia tryxaria
+    common: Neat epidesmia
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 355187
+datetime: '2020-12-03T01:01:00+11:00'
+latitude: -38.40955
+longitude: 144.16447
+location_name: 'Anglesea VIC 3230, Australia'
+accuracy: 100
+tags:
+  - inaturalist
+  - moth
+  - male
+photos:
+  - source: iNaturalist
+    id: '107876378'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/107876378/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/107876378/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/107876378'
+license: CC BY-NC
+created_at: '2020-12-21T13:33:18+11:00'
+updated_at: '2020-12-21T21:12:34+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/66858087'

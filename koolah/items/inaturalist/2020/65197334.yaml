@@ -1,0 +1,41 @@
+id:
+  - name: Hoplomorpha camelaea
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 418489
+datetime: '2020-11-18T21:22:00+11:00'
+latitude: -37.862397
+longitude: 144.383573
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: 2nd image shows dorsal view.
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '104899281'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/104899281/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/104899281/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/104899281'
+  - source: iNaturalist
+    id: '104899297'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/104899297/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/104899297/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/104899297'
+license: CC BY-NC
+created_at: '2020-11-19T16:25:09+11:00'
+updated_at: '2022-03-01T08:07:40+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65197334'

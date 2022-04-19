@@ -1,0 +1,31 @@
+id:
+  - name: Labdia hexaspila
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 892196
+datetime: '2018-11-26T22:51:00+11:00'
+latitude: -38.65983
+longitude: 143.81591
+location_name: 'Grey River Picnic Area VIC 3234, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '105330388'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105330388/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105330388/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/105330388'
+license: CC BY-NC
+created_at: '2020-11-23T10:49:15+11:00'
+updated_at: '2020-11-23T11:18:39+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65440861'

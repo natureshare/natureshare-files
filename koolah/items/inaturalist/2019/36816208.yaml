@@ -1,8 +1,8 @@
 id:
   - name: Anachloris tofocolorata
     by:
-      - eremophila
       - koolah
+      - eremophila
     ref:
       inaturalist: 981471
 datetime: '2019-10-24T04:22:00+11:00'
@@ -19,14 +19,14 @@ photos:
     id: '58260096'
     width: 1500
     height: 1125
-    thumbnail_url: 'https://static.inaturalist.org/photos/58260096/medium.jpg?1576903556'
-    original_url: 'https://static.inaturalist.org/photos/58260096/original.jpg?1576903556'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58260096/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58260096/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/58260096'
 license: CC BY-NC
 created_at: '2019-12-21T15:47:28+11:00'
-updated_at: '2020-01-28T19:57:30+11:00'
+updated_at: '2022-02-15T15:19:30+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/36816208'

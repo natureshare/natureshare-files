@@ -1,0 +1,32 @@
+id:
+  - name: Neochmia temporalis temporalis
+    common: Southern Red-browed Finch
+    by:
+      - koolah
+      - chrisclarke25
+    ref:
+      inaturalist: 726920
+datetime: '2021-05-01T14:34:00+10:00'
+latitude: -37.967117
+longitude: 144.210416
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: Wildlife camera image
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '126350605'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126350605/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126350605/original.jpeg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/126350605'
+license: CC BY-NC
+created_at: '2021-05-04T23:59:01+10:00'
+updated_at: '2021-05-05T01:14:22+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/77267671'

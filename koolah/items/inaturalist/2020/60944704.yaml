@@ -1,0 +1,30 @@
+id:
+  - name: Philobota arabella
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 514524
+datetime: '2020-09-27T11:44:00+10:00'
+latitude: -37.88282
+longitude: 144.18323
+location_name: 'Brisbane Ranges VIC 3331, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97480355'
+    width: 1527
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97480355/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97480355/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97480355'
+license: CC BY-NC
+created_at: '2020-09-27T21:02:31+10:00'
+updated_at: '2020-09-27T21:03:31+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60944704'

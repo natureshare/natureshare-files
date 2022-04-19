@@ -11,21 +11,21 @@ longitude: 144.517469
 location_name: 'Carlsruhe Cemetary VIC 3442, Australia'
 tags:
   - inaturalist
-  - male
   - moth
+  - male
 photos:
   - source: iNaturalist
     id: '60472703'
     width: 1500
     height: 1126
-    thumbnail_url: 'https://static.inaturalist.org/photos/60472703/medium.jpg?1580275465'
-    original_url: 'https://static.inaturalist.org/photos/60472703/original.jpg?1580275465'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/60472703/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/60472703/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/60472703'
 license: CC BY-NC
 created_at: '2020-01-29T16:28:45+11:00'
-updated_at: '2020-01-29T17:02:38+11:00'
+updated_at: '2021-04-08T10:45:03+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/38081769'

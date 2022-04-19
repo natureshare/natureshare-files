@@ -1,0 +1,32 @@
+id:
+  - name: Salma pyrastis
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 554931
+datetime: '2022-03-05T23:28:00+11:00'
+latitude: -37.813478
+longitude: 144.231842
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: 'Same species, different specimen to JL observation.'
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '182955174'
+    width: 1126
+    height: 1500
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/182955174/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/182955174/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/182955174'
+license: CC BY-NC
+created_at: '2022-03-15T17:24:10+11:00'
+updated_at: '2022-03-16T08:14:22+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/108639851'

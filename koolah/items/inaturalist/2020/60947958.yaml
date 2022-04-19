@@ -1,0 +1,31 @@
+id:
+  - name: Coronidium scorpioides
+    common: button everlasting
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 353942
+datetime: '2020-09-27T10:49:00+10:00'
+latitude: -37.88166
+longitude: 144.18002
+location_name: 'Brisbane Ranges VIC 3331, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97485413'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97485413/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97485413/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97485413'
+license: CC BY-NC
+created_at: '2020-09-27T21:51:42+10:00'
+updated_at: '2020-09-27T22:06:17+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60947958'

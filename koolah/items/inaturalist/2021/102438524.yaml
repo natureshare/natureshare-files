@@ -1,0 +1,42 @@
+id:
+  - name: Glyphipterix meteora
+    common: Metallic Sedge Moth
+    by:
+      - koolah
+      - johnlenagan
+    ref:
+      inaturalist: 603271
+datetime: '2021-12-02T19:52:00+11:00'
+latitude: -37.80011
+longitude: 144.21611
+location_name: 'Brisbane Ranges VIC 3342, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+  - moth
+  - small
+photos:
+  - source: iNaturalist
+    id: '171236230'
+    width: 1500
+    height: 1170
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/171236230/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/171236230/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/171236230'
+  - source: iNaturalist
+    id: '171236248'
+    width: 1500
+    height: 1251
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/171236248/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/171236248/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/171236248'
+license: CC BY-NC
+created_at: '2021-12-04T11:50:49+11:00'
+updated_at: '2021-12-04T18:59:27+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/102438524'

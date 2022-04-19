@@ -1,0 +1,35 @@
+id:
+  - name: Anachloris subochraria
+    common: golden grass carpet
+    by:
+      - koolah
+      - d_kurek
+      - bushbandit
+      - johnlenagan
+      - mhewish
+    ref:
+      inaturalist: 385546
+datetime: '2020-12-23T22:39:00+11:00'
+latitude: -37.970465
+longitude: 144.363688
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '108208741'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108208741/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108208741/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/108208741'
+license: CC BY-NC
+created_at: '2020-12-25T18:43:21+11:00'
+updated_at: '2022-02-27T15:37:26+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/67036208'

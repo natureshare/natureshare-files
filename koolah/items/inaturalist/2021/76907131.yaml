@@ -1,0 +1,42 @@
+id:
+  - name: Zyganisus propedia
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 982445
+datetime: '2021-04-30T21:19:00+10:00'
+latitude: -37.992338
+longitude: 144.216637
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: '2nd view shows antennae and head, this is a second specimen on same night'
+tags:
+  - inaturalist
+  - moth
+  - male
+photos:
+  - source: iNaturalist
+    id: '125774930'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125774930/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125774930/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/125774930'
+  - source: iNaturalist
+    id: '125774980'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125774980/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125774980/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/125774980'
+license: CC BY-NC
+created_at: '2021-05-03T21:45:45+10:00'
+updated_at: '2022-02-27T11:58:24+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/76907131'

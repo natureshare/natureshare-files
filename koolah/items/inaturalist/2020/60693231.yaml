@@ -1,0 +1,40 @@
+id:
+  - name: Caladenia fuscata
+    common: Dusky Fingers
+    by:
+      - koolah
+      - reiner
+    ref:
+      inaturalist: 369421
+datetime: '2020-09-25T10:41:00+10:00'
+latitude: -37.73933
+longitude: 144.31265
+location_name: 'Brisbane Ranges VIC 3340, Australia'
+accuracy: 3
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97066815'
+    width: 2000
+    height: 1628
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97066815/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97066815/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97066815'
+  - source: iNaturalist
+    id: '97066829'
+    width: 1494
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97066829/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97066829/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97066829'
+license: CC BY-NC
+created_at: '2020-09-25T18:18:07+10:00'
+updated_at: '2020-09-25T18:29:36+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60693231'

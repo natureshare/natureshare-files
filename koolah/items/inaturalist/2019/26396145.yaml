@@ -5,25 +5,27 @@ id:
       - vicfazio3
     ref:
       inaturalist: 355171
-latitude: -37.806615
-longitude: 144.297065
-location_name: '576 Brisbane Road, Balliang VIC 3340, Australia'
+latitude: -37.819819
+longitude: 144.379422
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: Glyphidoptera insignana
 tags:
   - inaturalist
+  - moth
 photos:
   - source: iNaturalist
     id: '40985865'
     width: 1024
     height: 695
-    thumbnail_url: 'https://static.inaturalist.org/photos/40985865/medium.jpeg?1559671053'
-    original_url: 'https://static.inaturalist.org/photos/40985865/original.jpeg?1559671053'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985865/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985865/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40985865'
 license: CC BY-NC
 created_at: '2019-06-05T03:57:33+10:00'
-updated_at: '2019-06-05T06:25:38+10:00'
+updated_at: '2022-03-31T17:58:46+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26396145'

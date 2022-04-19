@@ -1,0 +1,31 @@
+id:
+  - name: Aporoctena
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 424775
+datetime: '2020-11-18T21:42:00+11:00'
+latitude: -37.956051
+longitude: 144.288516
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '104899026'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/104899026/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/104899026/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/104899026'
+license: CC BY-NC
+created_at: '2020-11-19T16:24:59+11:00'
+updated_at: '2022-03-01T08:17:03+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65197315'

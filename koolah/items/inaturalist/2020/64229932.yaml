@@ -1,0 +1,32 @@
+id:
+  - name: Boarmia panconita
+    common: Variable Bark Moth
+    by:
+      - mhewish
+      - koolah
+    ref:
+      inaturalist: 1039207
+datetime: '2020-11-02T21:53:00+11:00'
+latitude: -37.886426
+longitude: 144.327962
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '103228515'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103228515/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103228515/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/103228515'
+license: CC BY-NC
+created_at: '2020-11-05T22:00:16+11:00'
+updated_at: '2022-03-01T08:17:02+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/64229932'

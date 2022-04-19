@@ -1,8 +1,8 @@
 id:
   - name: Telecrates melanochrysa
     by:
-      - ianmcmillan
       - koolah
+      - ianmcmillan
     ref:
       inaturalist: 524759
 latitude: -37.732718
@@ -16,8 +16,8 @@ photos:
     id: '40985413'
     width: 1024
     height: 784
-    thumbnail_url: 'https://static.inaturalist.org/photos/40985413/medium.jpeg?1559670780'
-    original_url: 'https://static.inaturalist.org/photos/40985413/original.jpeg?1559670780'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985413/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985413/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40985413'

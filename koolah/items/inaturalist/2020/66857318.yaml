@@ -1,0 +1,32 @@
+id:
+  - name: Microdes
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 374397
+datetime: '2020-12-03T21:41:00+11:00'
+latitude: -38.38435
+longitude: 144.14558
+location_name: 'Alcoa Boundary Track Lookout VIC 3230, Australia'
+accuracy: 20
+description: Microdes sp. (4) Moths of Victoria Part 3
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '107874159'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/107874159/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/107874159/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/107874159'
+license: CC BY-NC
+created_at: '2020-12-21T13:11:26+11:00'
+updated_at: '2020-12-22T07:35:02+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/66857318'

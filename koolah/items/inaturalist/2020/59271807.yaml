@@ -1,0 +1,42 @@
+id:
+  - name: Bathytricha truncata
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 596534
+datetime: '2015-01-08T22:48:00+11:00'
+latitude: -37.822867
+longitude: 144.310046
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: Referenced in Moths of Victoria Part 9
+tags:
+  - inaturalist
+  - moth
+  - male
+photos:
+  - source: iNaturalist
+    id: '94694493'
+    width: 1500
+    height: 1110
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/94694493/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/94694493/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/94694493'
+  - source: iNaturalist
+    id: '94694757'
+    width: 1494
+    height: 1977
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/94694757/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/94694757/original.jpeg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/94694757'
+license: CC BY-NC
+created_at: '2020-09-12T10:11:42+10:00'
+updated_at: '2022-03-01T13:29:04+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/59271807'

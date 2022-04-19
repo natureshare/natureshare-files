@@ -1,0 +1,31 @@
+id:
+  - name: Craniosara pyrotricha
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 902636
+datetime: '2020-11-18T21:00:00+11:00'
+latitude: -37.862683
+longitude: 144.346609
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '105318884'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105318884/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105318884/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/105318884'
+license: CC BY-NC
+created_at: '2020-11-23T09:13:40+11:00'
+updated_at: '2022-02-28T10:31:07+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65434791'

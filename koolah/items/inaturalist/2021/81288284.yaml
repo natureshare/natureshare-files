@@ -1,0 +1,42 @@
+id:
+  - name: Sympycnodes dunnorum
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 555881
+datetime: '2019-01-24T22:09:00+11:00'
+latitude: -37.813733
+longitude: 144.225109
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: 2nd image shows dorsal view
+tags:
+  - inaturalist
+  - male
+  - moth
+photos:
+  - source: iNaturalist
+    id: '133318997'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133318997/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133318997/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/133318997'
+  - source: iNaturalist
+    id: '133319025'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133319025/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133319025/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/133319025'
+license: CC BY-NC
+created_at: '2021-06-02T21:19:16+10:00'
+updated_at: '2022-02-27T10:19:14+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/81288284'

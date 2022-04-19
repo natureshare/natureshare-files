@@ -7,9 +7,10 @@ id:
     ref:
       inaturalist: 42808
 datetime: '2020-04-25T19:03:00+10:00'
-latitude: -37.80523
-longitude: 144.29781
-location_name: 'Brisbane Ranges VIC 3340, Australia'
+latitude: -37.880809
+longitude: 144.2079
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: Mother and nearly adult young
 tags:
   - inaturalist
@@ -19,14 +20,14 @@ photos:
     id: '70052321'
     width: 2048
     height: 1149
-    thumbnail_url: 'https://static.inaturalist.org/photos/70052321/medium.jpeg?1588112087'
-    original_url: 'https://static.inaturalist.org/photos/70052321/original.jpeg?1588112087'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/70052321/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/70052321/original.jpeg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/70052321'
 license: CC BY-NC
 created_at: '2020-04-29T08:20:22+10:00'
-updated_at: '2020-04-29T10:24:17+10:00'
+updated_at: '2022-03-31T17:12:03+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/44185070'

@@ -1,0 +1,40 @@
+id:
+  - name: Drosera auriculata
+    common: Tall sundew
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 424565
+datetime: '2020-09-28T13:25:00+10:00'
+latitude: -37.87761
+longitude: 144.20605
+location_name: 'Brisbane Ranges VIC 3213, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97706954'
+    width: 2000
+    height: 1738
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97706954/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97706954/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97706954'
+  - source: iNaturalist
+    id: '97706969'
+    width: 1472
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97706969/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97706969/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97706969'
+license: CC BY-NC
+created_at: '2020-09-28T18:52:37+10:00'
+updated_at: '2020-09-28T19:07:08+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61080406'

@@ -1,0 +1,41 @@
+id:
+  - name: Leucania obumbrata
+    by:
+      - koolah
+      - daviaker
+    ref:
+      inaturalist: 711561
+datetime: '2021-04-30T19:26:00+10:00'
+latitude: -37.963028
+longitude: 144.268994
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: 2nd image shows dorsal view
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '126293930'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126293930/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126293930/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/126293930'
+  - source: iNaturalist
+    id: '126293956'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126293956/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126293956/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/126293956'
+license: CC BY-NC
+created_at: '2021-05-04T18:23:19+10:00'
+updated_at: '2022-02-27T11:52:33+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/77232573'

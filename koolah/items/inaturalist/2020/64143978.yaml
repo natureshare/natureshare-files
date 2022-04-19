@@ -1,0 +1,33 @@
+id:
+  - name: Agrotis infusa
+    common: Bogong Moth
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 200008
+datetime: '2020-11-02T21:17:00+11:00'
+latitude: -37.809284
+longitude: 144.262789
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: Not very good focus but easily identifiable.
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '103075939'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103075939/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103075939/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/103075939'
+license: CC BY-NC
+created_at: '2020-11-04T11:51:16+11:00'
+updated_at: '2022-03-01T13:19:19+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/64143978'

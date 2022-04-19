@@ -1,0 +1,31 @@
+id:
+  - name: Anestia ombrophanes
+    common: Clouded Footman
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 417820
+datetime: '2017-04-19T19:33:00+10:00'
+latitude: -37.62111
+longitude: 144.14288
+location_name: 'Bungal State Forest VIC 3352, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '105471091'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105471091/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105471091/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/105471091'
+license: CC BY-NC
+created_at: '2020-11-24T18:43:34+11:00'
+updated_at: '2020-11-24T20:12:23+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65519888'

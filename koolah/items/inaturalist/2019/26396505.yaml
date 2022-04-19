@@ -6,19 +6,21 @@ id:
       - vicfazio3
     ref:
       inaturalist: 355101
-latitude: -37.806683
-longitude: 144.296946
-location_name: 'Brisbane Road, Balliang VIC 3340, Australia'
+latitude: -37.840363
+longitude: 144.366437
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: Geometridae Moth
 tags:
   - inaturalist
+  - moth
 photos:
   - source: iNaturalist
     id: '40986409'
     width: 1024
     height: 805
-    thumbnail_url: 'https://static.inaturalist.org/photos/40986409/medium.jpeg?1559671426'
-    original_url: 'https://static.inaturalist.org/photos/40986409/original.jpeg?1559671426'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986409/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986409/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40986409'
@@ -26,14 +28,14 @@ photos:
     id: '40986412'
     width: 1024
     height: 697
-    thumbnail_url: 'https://static.inaturalist.org/photos/40986412/medium.jpeg?1559671428'
-    original_url: 'https://static.inaturalist.org/photos/40986412/original.jpeg?1559671428'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986412/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986412/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40986412'
 license: CC BY-NC
 created_at: '2019-06-05T04:03:48+10:00'
-updated_at: '2019-06-05T06:24:21+10:00'
+updated_at: '2022-03-31T17:49:03+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26396505'

@@ -1,0 +1,32 @@
+id:
+  - name: Helicoverpa punctigera
+    common: Australian Fruitworm
+    by:
+      - koolah
+      - daviaker
+    ref:
+      inaturalist: 390336
+datetime: '2020-12-02T23:25:00+11:00'
+latitude: -38.44306
+longitude: 144.09471
+location_name: 'Distillery Creek PG VIC 3231, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '108930650'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108930650/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108930650/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/108930650'
+license: CC BY-NC
+created_at: '2021-01-02T09:40:51+11:00'
+updated_at: '2021-01-02T12:17:38+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/67423645'

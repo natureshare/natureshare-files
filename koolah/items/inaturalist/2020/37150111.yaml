@@ -2,6 +2,7 @@ id:
   - name: Acodia pauper
     by:
       - koolah
+      - kallies
     ref:
       inaturalist: 860650
 datetime: '2019-03-22T05:58:00+11:00'
@@ -18,14 +19,14 @@ photos:
     id: '58846159'
     width: 1500
     height: 1126
-    thumbnail_url: 'https://static.inaturalist.org/photos/58846159/medium.jpg?1577854329'
-    original_url: 'https://static.inaturalist.org/photos/58846159/original.jpg?1577854329'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58846159/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58846159/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/58846159'
 license: CC BY-NC
 created_at: '2020-01-01T15:54:37+11:00'
-updated_at: '2020-01-01T15:54:37+11:00'
+updated_at: '2021-06-30T19:40:53+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/37150111'

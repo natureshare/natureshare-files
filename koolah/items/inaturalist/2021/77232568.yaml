@@ -1,0 +1,30 @@
+id:
+  - name: Dicranomyia
+    by:
+      - johnlenagan
+      - koolah
+    ref:
+      inaturalist: 173903
+datetime: '2021-04-30T20:08:00+10:00'
+latitude: -37.924094
+longitude: 144.264602
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '126293888'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126293888/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126293888/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/126293888'
+license: CC BY-NC
+created_at: '2021-05-04T18:23:17+10:00'
+updated_at: '2022-02-27T11:54:20+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/77232568'

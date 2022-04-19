@@ -1,0 +1,41 @@
+id:
+  - name: Pultenaea scabra
+    common: Rough Bush-pea
+    by:
+      - koolah
+      - chrislindorff
+    ref:
+      inaturalist: 328041
+datetime: '2020-09-28T16:06:00+10:00'
+latitude: -37.86617
+longitude: 144.25005
+location_name: 'Brisbane Ranges VIC 3340, Australia'
+accuracy: 6
+description: Second image shows leaves close-up
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97707028'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97707028/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97707028/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97707028'
+  - source: iNaturalist
+    id: '97707048'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97707048/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97707048/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97707048'
+license: CC BY-NC
+created_at: '2020-09-28T18:52:39+10:00'
+updated_at: '2020-09-28T19:11:10+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61080410'

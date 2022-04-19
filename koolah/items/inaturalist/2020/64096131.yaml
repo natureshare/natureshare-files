@@ -1,0 +1,41 @@
+id:
+  - name: Sinpunctiptilia emissalis
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 311353
+datetime: '2020-11-03T11:56:00+11:00'
+latitude: -37.61652
+longitude: 144.12241
+location_name: 'Bungal State Forest VIC 3352, Australia'
+accuracy: 6
+description: 'Large numbers around the grassy tussocks, taking flight when disturbed.'
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '102990889'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102990889/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102990889/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/102990889'
+  - source: iNaturalist
+    id: '102990892'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102990892/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/102990892/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/102990892'
+license: CC BY-NC
+created_at: '2020-11-03T18:59:39+11:00'
+updated_at: '2020-11-04T07:44:42+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/64096131'

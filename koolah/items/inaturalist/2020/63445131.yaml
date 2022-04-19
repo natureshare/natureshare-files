@@ -1,0 +1,43 @@
+id:
+  - name: Cernuella virgata
+    common: Vineyard Snail
+    by:
+      - ben_travaglini
+      - koolah
+      - kevinbonham
+      - kevin474
+    ref:
+      inaturalist: 118886
+datetime: '2020-10-24T18:03:00+11:00'
+latitude: -37.80457
+longitude: 144.30959
+location_name: 'Balliang VIC 3340, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+  - land_snail
+photos:
+  - source: iNaturalist
+    id: '101818010'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101818010/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101818010/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/101818010'
+  - source: iNaturalist
+    id: '101818037'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101818037/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101818037/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/101818037'
+license: CC BY-NC
+created_at: '2020-10-25T12:13:13+11:00'
+updated_at: '2020-11-19T08:01:41+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63445131'

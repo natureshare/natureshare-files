@@ -1,0 +1,40 @@
+id:
+  - name: Brachyscome multifida
+    common: cut-leaved daisy
+    by:
+      - koolah
+      - possumpete
+    ref:
+      inaturalist: 560869
+datetime: '2020-09-25T11:28:00+10:00'
+latitude: -37.74057
+longitude: 144.31474
+location_name: 'Brisbane Ranges VIC 3340, Australia'
+accuracy: 3
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97066770'
+    width: 1495
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97066770/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97066770/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97066770'
+  - source: iNaturalist
+    id: '97066789'
+    width: 2000
+    height: 1660
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97066789/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97066789/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97066789'
+license: CC BY-NC
+created_at: '2020-09-25T18:18:07+10:00'
+updated_at: '2020-09-25T18:35:09+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60693229'

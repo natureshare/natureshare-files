@@ -1,0 +1,33 @@
+id:
+  - name: Odocoileus virginianus
+    common: White-tailed Deer
+    by:
+      - koolah
+      - swq-staff
+    ref:
+      inaturalist: 42223
+datetime: '2021-08-31T20:13:00+10:00'
+latitude: 43.761
+longitude: -98.3308
+location_name: 'Aurora County, SD, USA'
+accuracy: 100
+description: Amongst the soybeans.
+tags:
+  - inaturalist
+  - male
+photos:
+  - source: iNaturalist
+    id: '154662680'
+    width: 2000
+    height: 1500
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/154662680/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/154662680/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/154662680'
+license: CC BY-NC
+created_at: '2021-09-02T12:45:28+10:00'
+updated_at: '2021-09-02T22:50:39+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/93325668'

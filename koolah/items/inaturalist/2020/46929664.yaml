@@ -4,6 +4,7 @@ id:
     by:
       - pewin
       - koolah
+      - beaniana08
     ref:
       inaturalist: 20907
 datetime: '2012-12-29T19:31:00+11:00'
@@ -18,14 +19,14 @@ photos:
     id: '74428768'
     width: 2000
     height: 1502
-    thumbnail_url: 'https://static.inaturalist.org/photos/74428768/medium.jpg?1590208784'
-    original_url: 'https://static.inaturalist.org/photos/74428768/original.jpg?1590208784'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74428768/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/74428768/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/74428768'
 license: CC BY-NC
 created_at: '2020-05-23T14:43:24+10:00'
-updated_at: '2020-06-15T21:44:41+10:00'
+updated_at: '2021-02-16T11:09:34+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/46929664'

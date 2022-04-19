@@ -1,0 +1,41 @@
+id:
+  - name: Discophlebia catocalina
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 554722
+datetime: '2020-11-18T23:27:00+11:00'
+latitude: -37.849803
+longitude: 144.295182
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: 2nd image shows side view
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '105318956'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105318956/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105318956/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/105318956'
+  - source: iNaturalist
+    id: '105318978'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105318978/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105318978/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/105318978'
+license: CC BY-NC
+created_at: '2020-11-23T09:13:42+11:00'
+updated_at: '2022-02-28T10:31:08+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65434794'

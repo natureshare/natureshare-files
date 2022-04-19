@@ -2,6 +2,7 @@ id:
   - name: Leptozestis
     by:
       - koolah
+      - johnlenagan
     ref:
       inaturalist: 341887
 latitude: -37.732718
@@ -15,14 +16,14 @@ photos:
     id: '40985322'
     width: 1024
     height: 572
-    thumbnail_url: 'https://static.inaturalist.org/photos/40985322/medium.jpeg?1559670718'
-    original_url: 'https://static.inaturalist.org/photos/40985322/original.jpeg?1559670718'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985322/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985322/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40985322'
 license: CC BY-NC
 created_at: '2019-06-05T03:51:58+10:00'
-updated_at: '2019-06-05T03:52:01+10:00'
+updated_at: '2021-04-24T14:41:32+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26395811'

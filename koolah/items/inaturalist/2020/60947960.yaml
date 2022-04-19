@@ -1,0 +1,39 @@
+id:
+  - name: Wahlenbergia gracilis
+    common: Australian Bluebell
+    by:
+      - koolah
+    ref:
+      inaturalist: 321055
+datetime: '2020-09-27T14:14:00+10:00'
+latitude: -37.8615
+longitude: 144.23228
+location_name: 'Brisbane Ranges VIC 3331, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97485465'
+    width: 2000
+    height: 1518
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97485465/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97485465/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97485465'
+  - source: iNaturalist
+    id: '97485483'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97485483/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97485483/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97485483'
+license: CC BY-NC
+created_at: '2020-09-27T21:51:43+10:00'
+updated_at: '2020-10-19T07:55:03+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60947960'

@@ -1,0 +1,38 @@
+id:
+  - name: Pterostylis aciculiformis
+    by:
+      - koolah
+    ref:
+      inaturalist: 557985
+datetime: '2020-09-25T10:51:00+10:00'
+latitude: -37.688035
+longitude: 144.315223
+location_name: 'Victoria, AU'
+accuracy: 28359
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97069271'
+    width: 1433
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97069271/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97069271/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97069271'
+  - source: iNaturalist
+    id: '97069294'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97069294/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97069294/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97069294'
+license: CC BY-NC
+created_at: '2020-09-25T18:28:14+10:00'
+updated_at: '2020-09-25T18:52:54+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60693668'

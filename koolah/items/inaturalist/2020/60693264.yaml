@@ -1,0 +1,31 @@
+id:
+  - name: Grevillea steiglitziana
+    common: Brisbane Ranges Grevillea
+    by:
+      - koolah
+      - gposs
+    ref:
+      inaturalist: 560669
+datetime: '2020-09-25T13:16:00+10:00'
+latitude: -37.609239
+longitude: 144.277607
+location_name: 'Victoria, AU'
+accuracy: 28359
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97067149'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97067149/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97067149/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97067149'
+license: CC BY-NC
+created_at: '2020-09-25T18:18:19+10:00'
+updated_at: '2020-09-25T19:25:25+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60693264'

@@ -1,0 +1,31 @@
+id:
+  - name: Eupselia holoxantha
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 492383
+datetime: '2020-11-02T20:54:00+11:00'
+latitude: -37.849234
+longitude: 144.29471
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '103228570'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103228570/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103228570/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/103228570'
+license: CC BY-NC
+created_at: '2020-11-05T22:00:20+11:00'
+updated_at: '2022-03-01T08:17:00+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/64229939'

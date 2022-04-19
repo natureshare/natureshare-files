@@ -11,21 +11,21 @@ longitude: 144.534501
 location_name: 'Ocean Grove Nature Reserve VIC 3222, Australia'
 tags:
   - inaturalist
-  - female
   - moth
+  - female
 photos:
   - source: iNaturalist
     id: '60472875'
     width: 1987
     height: 1367
-    thumbnail_url: 'https://static.inaturalist.org/photos/60472875/medium.jpg?1580275751'
-    original_url: 'https://static.inaturalist.org/photos/60472875/original.jpg?1580275751'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/60472875/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/60472875/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/60472875'
 license: CC BY-NC
 created_at: '2020-01-29T16:37:40+11:00'
-updated_at: '2020-04-16T10:15:06+10:00'
+updated_at: '2021-04-08T06:59:12+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/38081902'

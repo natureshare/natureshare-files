@@ -1,5 +1,6 @@
 id:
   - name: Agriophara cinerosa
+    common: Grey Agriophara Moth
     by:
       - koolah
     ref:
@@ -15,8 +16,8 @@ photos:
     id: '40985234'
     width: 1024
     height: 628
-    thumbnail_url: 'https://static.inaturalist.org/photos/40985234/medium.jpeg?1559670665'
-    original_url: 'https://static.inaturalist.org/photos/40985234/original.jpeg?1559670665'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985234/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985234/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40985234'

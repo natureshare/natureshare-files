@@ -4,6 +4,7 @@ id:
     by:
       - koolah
       - bushbandit
+      - kyrae
     ref:
       inaturalist: 321109
 datetime: '2011-01-14T11:01:00+11:00'
@@ -18,14 +19,14 @@ photos:
     id: '83200755'
     width: 1125
     height: 1500
-    thumbnail_url: 'https://static.inaturalist.org/photos/83200755/medium.jpg?1594189672'
-    original_url: 'https://static.inaturalist.org/photos/83200755/original.jpg?1594189672'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/83200755/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/83200755/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/83200755'
 license: CC BY-NC
 created_at: '2020-07-08T16:35:02+10:00'
-updated_at: '2020-07-08T16:37:32+10:00'
+updated_at: '2021-01-10T20:45:12+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/52341614'

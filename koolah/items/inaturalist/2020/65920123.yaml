@@ -1,0 +1,32 @@
+id:
+  - name: Monopis icterogastra
+    common: Wool Moth
+    by:
+      - koolah
+      - vicfazio3
+    ref:
+      inaturalist: 471460
+datetime: '2018-04-04T23:42:00+10:00'
+latitude: -37.805755
+longitude: 144.288728
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '106179007'
+    width: 2048
+    height: 1538
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106179007/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/106179007/original.jpeg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/106179007'
+license: CC BY-NC
+created_at: '2020-12-01T13:22:36+11:00'
+updated_at: '2022-02-28T10:26:41+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65920123'

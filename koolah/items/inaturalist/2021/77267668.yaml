@@ -1,0 +1,32 @@
+id:
+  - name: Anthochaera carunculata
+    common: Red Wattlebird
+    by:
+      - koolah
+      - deborod
+    ref:
+      inaturalist: 12622
+datetime: '2021-05-02T05:42:00+10:00'
+latitude: -37.972408
+longitude: 144.338472
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: Wildlife camera image
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '126350530'
+    width: 2048
+    height: 1149
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126350530/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126350530/original.jpeg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/126350530'
+license: CC BY-NC
+created_at: '2021-05-04T23:59:00+10:00'
+updated_at: '2021-05-05T00:04:16+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/77267668'

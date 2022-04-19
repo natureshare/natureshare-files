@@ -1,0 +1,41 @@
+id:
+  - name: Elesma
+    by:
+      - kallies
+      - koolah
+    ref:
+      inaturalist: 492342
+datetime: '2020-11-02T22:20:00+11:00'
+latitude: -37.921874
+longitude: 144.395555
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: 2nd image shows side view.
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '103228554'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103228554/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103228554/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/103228554'
+  - source: iNaturalist
+    id: '103228557'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103228557/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103228557/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/103228557'
+license: CC BY-NC
+created_at: '2020-11-05T22:00:20+11:00'
+updated_at: '2022-03-01T08:17:02+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/64229937'

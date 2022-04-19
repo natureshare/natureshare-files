@@ -1,31 +1,33 @@
 id:
   - name: Gastrinodes bitaeniaria
+    common: Buff Bark Moth
     by:
       - koolah
       - vicfazio3
     ref:
       inaturalist: 418322
 datetime: '2020-04-24T23:16:00+10:00'
-latitude: -37.806571
-longitude: 144.297036
-location_name: 'Brisbane Ranges VIC 3340, Australia'
+latitude: -37.925881
+longitude: 144.307876
+location_name: 'Victoria, AU'
+accuracy: 28329
 tags:
   - inaturalist
-  - male
   - moth
+  - male
 photos:
   - source: iNaturalist
     id: '69154588'
     width: 2000
     height: 1502
-    thumbnail_url: 'https://static.inaturalist.org/photos/69154588/medium.jpg?1587901468'
-    original_url: 'https://static.inaturalist.org/photos/69154588/original.jpg?1587901468'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/69154588/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/69154588/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/69154588'
 license: CC BY-NC
 created_at: '2020-04-26T21:49:15+10:00'
-updated_at: '2020-04-26T22:45:28+10:00'
+updated_at: '2022-03-31T17:11:51+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/43589885'

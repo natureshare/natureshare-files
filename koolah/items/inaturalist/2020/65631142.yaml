@@ -1,0 +1,32 @@
+id:
+  - name: Cryphaea xylina
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 472118
+datetime: '2020-11-25T22:13:00+11:00'
+latitude: -37.967334
+longitude: 144.31878
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+  - male
+photos:
+  - source: iNaturalist
+    id: '105668040'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105668040/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105668040/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/105668040'
+license: CC BY-NC
+created_at: '2020-11-26T21:00:42+11:00'
+updated_at: '2022-02-28T10:31:08+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65631142'

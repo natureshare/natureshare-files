@@ -1,30 +1,32 @@
 id:
   - name: Cleora
     by:
-      - vicfazio3
       - koolah
+      - vicfazio3
     ref:
       inaturalist: 125129
 datetime: '2020-05-05T19:38:00+10:00'
-latitude: -37.806571
-longitude: 144.297036
-location_name: 'Brisbane Ranges VIC 3340, Australia'
+latitude: -37.905719
+longitude: 144.340888
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: 'Detailed in Moths of Victoria Part 7, page 32. Listed as Cleora sp. (3)'
 tags:
   - inaturalist
+  - moth
 photos:
   - source: iNaturalist
     id: '73675902'
     width: 2000
     height: 1502
-    thumbnail_url: 'https://static.inaturalist.org/photos/73675902/medium.jpg?1589858515'
-    original_url: 'https://static.inaturalist.org/photos/73675902/original.jpg?1589858515'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/73675902/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/73675902/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/73675902'
 license: CC BY-NC
 created_at: '2020-05-19T13:33:32+10:00'
-updated_at: '2020-05-31T18:51:31+10:00'
+updated_at: '2022-03-30T09:34:43+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/46452089'

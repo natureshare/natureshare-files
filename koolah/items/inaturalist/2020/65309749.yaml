@@ -1,0 +1,31 @@
+id:
+  - name: Scoparia spelaea
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 425233
+datetime: '2020-11-19T20:45:00+11:00'
+latitude: -37.891462
+longitude: 144.289889
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '105093533'
+    width: 1501
+    height: 1999
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105093533/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105093533/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/105093533'
+license: CC BY-NC
+created_at: '2020-11-21T13:39:50+11:00'
+updated_at: '2022-03-01T08:04:11+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65309749'

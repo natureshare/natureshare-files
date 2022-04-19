@@ -11,15 +11,15 @@ longitude: 144.419884
 location_name: 'Lerderderg State Park VIC 3458, Australia'
 tags:
   - inaturalist
-  - female
   - moth
+  - female
 photos:
   - source: iNaturalist
     id: '58849838'
     width: 1500
     height: 1126
-    thumbnail_url: 'https://static.inaturalist.org/photos/58849838/medium.jpg?1577862850'
-    original_url: 'https://static.inaturalist.org/photos/58849838/original.jpg?1577862850'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58849838/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58849838/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/58849838'
@@ -27,8 +27,8 @@ photos:
     id: '58849868'
     width: 1500
     height: 1126
-    thumbnail_url: 'https://static.inaturalist.org/photos/58849868/medium.jpg?1577862956'
-    original_url: 'https://static.inaturalist.org/photos/58849868/original.jpg?1577862956'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58849868/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58849868/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/58849868'

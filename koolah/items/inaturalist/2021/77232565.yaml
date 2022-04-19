@@ -1,0 +1,32 @@
+id:
+  - name: Anoeconeossa
+    by:
+      - f_martoni
+      - koolah
+      - johnlenagan
+      - mothchild
+    ref:
+      inaturalist: 446768
+datetime: '2021-04-30T19:28:00+10:00'
+latitude: -37.896421
+longitude: 144.395304
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '126293870'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126293870/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126293870/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/126293870'
+license: CC BY-NC
+created_at: '2021-05-04T18:23:16+10:00'
+updated_at: '2022-02-27T11:54:20+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/77232565'

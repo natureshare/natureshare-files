@@ -1,0 +1,31 @@
+id:
+  - name: Zelotechna
+    by:
+      - koolah
+      - vicfazio3
+    ref:
+      inaturalist: 1190352
+datetime: '2019-10-23T04:47:00+11:00'
+latitude: -36.50053
+longitude: 141.114
+location_name: 'Lillimur VIC 3420, Australia'
+accuracy: 3
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '176244800'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176244800/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176244800/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/176244800'
+license: CC BY-NC
+created_at: '2022-01-17T20:56:57+11:00'
+updated_at: '2022-01-17T21:39:07+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105089961'

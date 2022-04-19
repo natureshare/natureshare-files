@@ -3,6 +3,7 @@ id:
     common: tall rice-flower
     by:
       - koolah
+      - arthur_chapman
     ref:
       inaturalist: 544835
 latitude: -36.922993
@@ -16,14 +17,14 @@ photos:
     id: '40986168'
     width: 1024
     height: 768
-    thumbnail_url: 'https://static.inaturalist.org/photos/40986168/medium.jpeg?1559671262'
-    original_url: 'https://static.inaturalist.org/photos/40986168/original.jpeg?1559671262'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986168/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986168/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40986168'
 license: CC BY-NC
 created_at: '2019-06-05T04:01:03+10:00'
-updated_at: '2019-06-05T04:01:05+10:00'
+updated_at: '2020-09-19T08:54:36+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26396357'

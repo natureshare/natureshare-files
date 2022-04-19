@@ -1,0 +1,31 @@
+id:
+  - name: Opogona comptella
+    by:
+      - vicfazio3
+      - koolah
+    ref:
+      inaturalist: 319559
+datetime: '2020-12-14T18:12:00+11:00'
+latitude: -37.801476
+longitude: 144.268764
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '108208823'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108208823/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108208823/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/108208823'
+license: CC BY-NC
+created_at: '2020-12-25T18:43:25+11:00'
+updated_at: '2022-02-27T15:37:27+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/67036214'

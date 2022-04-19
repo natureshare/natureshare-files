@@ -1,0 +1,32 @@
+id:
+  - name: Phaps chalcoptera
+    common: Common Bronzewing
+    by:
+      - koolah
+      - deborod
+    ref:
+      inaturalist: 3335
+datetime: '2021-05-01T06:20:00+10:00'
+latitude: -37.931083
+longitude: 144.361366
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: Wildlife camera image
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '126351072'
+    width: 2048
+    height: 1149
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126351072/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126351072/original.jpeg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/126351072'
+license: CC BY-NC
+created_at: '2021-05-04T23:59:06+10:00'
+updated_at: '2021-05-05T00:02:39+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/77267695'

@@ -1,0 +1,41 @@
+id:
+  - name: Praxis marmarinopa
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 471534
+datetime: '2020-11-25T21:52:00+11:00'
+latitude: -37.862769
+longitude: 144.311564
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: 2nd image shows side view.
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '105654620'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105654620/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105654620/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/105654620'
+  - source: iNaturalist
+    id: '105654623'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105654623/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105654623/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/105654623'
+license: CC BY-NC
+created_at: '2020-11-26T16:24:48+11:00'
+updated_at: '2022-02-28T10:31:06+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65623340'

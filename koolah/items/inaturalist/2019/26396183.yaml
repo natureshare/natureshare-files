@@ -1,23 +1,26 @@
 id:
   - name: Destolmia lineata
+    common: Streaked Notodontid Moth
     by:
       - koolah
       - vicfazio3
     ref:
       inaturalist: 341807
-latitude: -37.80659
-longitude: 144.297242
-location_name: '576 Brisbane Road, Balliang VIC 3340, Australia'
+latitude: -37.828799
+longitude: 144.217704
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: Destolmia lineata
 tags:
   - inaturalist
+  - moth
 photos:
   - source: iNaturalist
     id: '40985939'
     width: 1024
     height: 737
-    thumbnail_url: 'https://static.inaturalist.org/photos/40985939/medium.jpeg?1559671102'
-    original_url: 'https://static.inaturalist.org/photos/40985939/original.jpeg?1559671102'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985939/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985939/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40985939'
@@ -25,14 +28,14 @@ photos:
     id: '40985943'
     width: 1024
     height: 784
-    thumbnail_url: 'https://static.inaturalist.org/photos/40985943/medium.jpeg?1559671104'
-    original_url: 'https://static.inaturalist.org/photos/40985943/original.jpeg?1559671104'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985943/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985943/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40985943'
 license: CC BY-NC
 created_at: '2019-06-05T03:58:25+10:00'
-updated_at: '2019-06-05T06:25:46+10:00'
+updated_at: '2022-03-31T17:58:47+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26396183'

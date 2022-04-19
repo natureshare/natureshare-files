@@ -7,9 +7,10 @@ id:
     ref:
       inaturalist: 146812
 datetime: '2020-04-24T23:10:00+10:00'
-latitude: -37.806571
-longitude: 144.297036
-location_name: 'Brisbane Ranges VIC 3340, Australia'
+latitude: -37.844434
+longitude: 144.215863
+location_name: 'Victoria, AU'
+accuracy: 28329
 tags:
   - inaturalist
   - moth
@@ -18,8 +19,8 @@ photos:
     id: '68621769'
     width: 2000
     height: 1502
-    thumbnail_url: 'https://static.inaturalist.org/photos/68621769/medium.jpg?1587779659'
-    original_url: 'https://static.inaturalist.org/photos/68621769/original.jpg?1587779659'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/68621769/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/68621769/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/68621769'
@@ -27,8 +28,8 @@ photos:
     id: '68622156'
     width: 2000
     height: 1502
-    thumbnail_url: 'https://static.inaturalist.org/photos/68622156/medium.jpg?1587779745'
-    original_url: 'https://static.inaturalist.org/photos/68622156/original.jpg?1587779745'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/68622156/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/68622156/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/68622156'
@@ -36,14 +37,14 @@ photos:
     id: '68623781'
     width: 2000
     height: 1502
-    thumbnail_url: 'https://static.inaturalist.org/photos/68623781/medium.jpg?1587780091'
-    original_url: 'https://static.inaturalist.org/photos/68623781/original.jpg?1587780091'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/68623781/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/68623781/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/68623781'
 license: CC BY-NC
 created_at: '2020-04-25T11:54:59+10:00'
-updated_at: '2020-04-25T13:54:54+10:00'
+updated_at: '2022-03-31T17:24:20+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/43234021'

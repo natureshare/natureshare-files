@@ -1,0 +1,31 @@
+id:
+  - name: Nacoleia rhoeoalis
+    by:
+      - koolah
+      - d_kurek
+    ref:
+      inaturalist: 244284
+datetime: '2020-11-25T21:56:00+11:00'
+latitude: -37.916347
+longitude: 144.269428
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '105656964'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105656964/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105656964/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/105656964'
+license: CC BY-NC
+created_at: '2020-11-26T17:16:53+11:00'
+updated_at: '2022-02-28T10:31:07+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65624669'

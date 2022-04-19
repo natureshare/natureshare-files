@@ -1,0 +1,32 @@
+id:
+  - name: Epicyme rubropunctaria
+    common: Red-spotted delicate
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 341935
+datetime: '2022-03-05T22:12:00+11:00'
+latitude: -37.879451
+longitude: 144.351135
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '182954862'
+    width: 1500
+    height: 1126
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/182954862/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/182954862/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/182954862'
+license: CC BY-NC
+created_at: '2022-03-15T17:23:59+11:00'
+updated_at: '2022-03-15T20:43:12+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/108639828'

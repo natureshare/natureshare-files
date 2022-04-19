@@ -7,25 +7,27 @@ id:
     ref:
       inaturalist: 893613
 datetime: '2020-05-05T19:31:00+10:00'
-latitude: -37.806571
-longitude: 144.297036
-location_name: 'Brisbane Ranges VIC 3340, Australia'
+latitude: -37.903894
+longitude: 144.208672
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: White patch form
 tags:
   - inaturalist
+  - moth
 photos:
   - source: iNaturalist
     id: '73676122'
     width: 2000
     height: 1502
-    thumbnail_url: 'https://static.inaturalist.org/photos/73676122/medium.jpg?1589858634'
-    original_url: 'https://static.inaturalist.org/photos/73676122/original.jpg?1589858634'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/73676122/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/73676122/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/73676122'
 license: CC BY-NC
 created_at: '2020-05-19T13:33:42+10:00'
-updated_at: '2020-05-19T13:50:43+10:00'
+updated_at: '2022-03-30T09:34:46+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/46452097'

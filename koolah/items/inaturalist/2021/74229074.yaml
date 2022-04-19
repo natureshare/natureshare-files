@@ -1,0 +1,42 @@
+id:
+  - name: Termessa zonophanes
+    common: Double Yellow-patched Footman
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 424779
+datetime: '2021-04-15T21:38:00+10:00'
+latitude: -36.79956
+longitude: 142.20822
+location_name: 'Bungalally VIC 3401, Australia'
+accuracy: 6
+description: Second image shows side view
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '121296237'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/121296237/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/121296237/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/121296237'
+  - source: iNaturalist
+    id: '121296259'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/121296259/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/121296259/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/121296259'
+license: CC BY-NC
+created_at: '2021-04-17T22:22:42+10:00'
+updated_at: '2021-04-19T08:06:17+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/74229074'

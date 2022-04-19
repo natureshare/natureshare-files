@@ -6,25 +6,27 @@ id:
       - vicfazio3
     ref:
       inaturalist: 201925
-latitude: -37.806532
-longitude: 144.297097
-location_name: 'Brisbane Ranges VIC 3340, Australia'
+latitude: -37.866735
+longitude: 144.360468
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: moth
 tags:
   - inaturalist
+  - moth
 photos:
   - source: iNaturalist
     id: '40986423'
     width: 955
     height: 1024
-    thumbnail_url: 'https://static.inaturalist.org/photos/40986423/medium.jpeg?1559671435'
-    original_url: 'https://static.inaturalist.org/photos/40986423/original.jpeg?1559671435'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986423/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986423/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40986423'
 license: CC BY-NC
 created_at: '2019-06-05T04:03:55+10:00'
-updated_at: '2019-12-22T11:50:01+11:00'
+updated_at: '2022-03-31T17:49:08+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26396510'

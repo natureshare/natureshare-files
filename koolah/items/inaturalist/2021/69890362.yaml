@@ -1,0 +1,31 @@
+id:
+  - name: Acrida conica
+    common: Giant Green Slantface
+    by:
+      - koolah
+      - cesdamess
+    ref:
+      inaturalist: 321672
+datetime: '2021-02-19T21:30:00+11:00'
+latitude: -37.868834
+longitude: 144.3897
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '113513905'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/113513905/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/113513905/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/113513905'
+license: CC BY-NC
+created_at: '2021-02-21T10:47:44+11:00'
+updated_at: '2022-02-27T15:17:41+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/69890362'

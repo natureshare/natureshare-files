@@ -6,9 +6,10 @@ id:
     ref:
       inaturalist: 892230
 datetime: '2019-12-27T23:37:00+11:00'
-latitude: -37.806571
-longitude: 144.297036
-location_name: 'Brisbane Ranges VIC 3340, Australia'
+latitude: -37.906765
+longitude: 144.273588
+location_name: 'Victoria, AU'
+accuracy: 28329
 tags:
   - inaturalist
   - female
@@ -18,14 +19,14 @@ photos:
     id: '58621085'
     width: 1500
     height: 965
-    thumbnail_url: 'https://static.inaturalist.org/photos/58621085/medium.jpg?1577513425'
-    original_url: 'https://static.inaturalist.org/photos/58621085/original.jpg?1577513425'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58621085/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58621085/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/58621085'
 license: CC BY-NC
 created_at: '2019-12-28T17:11:10+11:00'
-updated_at: '2019-12-30T13:47:19+11:00'
+updated_at: '2022-03-31T17:34:47+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/37022464'

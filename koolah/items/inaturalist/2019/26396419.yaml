@@ -6,25 +6,27 @@ id:
       - vicfazio3
     ref:
       inaturalist: 320979
-latitude: -37.805444
-longitude: 144.296933
-location_name: 'Balliang VIC, Australia'
+latitude: -37.953481
+longitude: 144.244522
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: Common Gum Emerald
 tags:
   - inaturalist
+  - moth
 photos:
   - source: iNaturalist
     id: '40986286'
     width: 1024
     height: 620
-    thumbnail_url: 'https://static.inaturalist.org/photos/40986286/medium.jpeg?1559671344'
-    original_url: 'https://static.inaturalist.org/photos/40986286/original.jpeg?1559671344'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986286/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986286/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40986286'
 license: CC BY-NC
 created_at: '2019-06-05T04:02:24+10:00'
-updated_at: '2019-06-05T06:24:17+10:00'
+updated_at: '2022-03-31T17:49:04+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26396419'

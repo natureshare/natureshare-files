@@ -1,0 +1,31 @@
+id:
+  - name: Crepidosceles glycydora
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 555330
+datetime: '2018-11-18T23:18:00+11:00'
+latitude: -37.868796
+longitude: 144.265167
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '176245755'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176245755/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176245755/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/176245755'
+license: CC BY-NC
+created_at: '2022-01-17T21:16:04+11:00'
+updated_at: '2022-02-23T07:41:50+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105090525'

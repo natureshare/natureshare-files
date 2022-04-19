@@ -1,0 +1,51 @@
+id:
+  - name: Oxycanus rufescens
+    by:
+      - koolah
+      - johnlenagan
+    ref:
+      inaturalist: 809342
+datetime: '2021-05-02T19:55:00+10:00'
+latitude: -37.88188
+longitude: 144.18087
+location_name: 'Bert Boardman Reserve VIC 3333, Australia'
+accuracy: 6
+description: '1st image shows antennae, 2nd image shows hindwing, 3rd image shows side view'
+tags:
+  - inaturalist
+  - moth
+  - male
+photos:
+  - source: iNaturalist
+    id: '125773342'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125773342/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125773342/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/125773342'
+  - source: iNaturalist
+    id: '125773406'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125773406/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125773406/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/125773406'
+  - source: iNaturalist
+    id: '125773449'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125773449/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125773449/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/125773449'
+license: CC BY-NC
+created_at: '2021-05-03T21:45:29+10:00'
+updated_at: '2021-05-03T22:15:30+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/76907069'

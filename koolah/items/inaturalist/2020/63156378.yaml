@@ -1,0 +1,32 @@
+id:
+  - name: Kennedia prostrata
+    common: Running Postman
+    by:
+      - koolah
+      - daviaker
+      - calamanthus
+    ref:
+      inaturalist: 143356
+datetime: '2020-10-21T13:48:00+11:00'
+latitude: -37.62085
+longitude: 144.15309
+location_name: 'Bungal State Forest VIC 3342, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '101313468'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101313468/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101313468/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/101313468'
+license: CC BY-NC
+created_at: '2020-10-21T22:18:10+11:00'
+updated_at: '2020-10-21T22:36:28+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63156378'

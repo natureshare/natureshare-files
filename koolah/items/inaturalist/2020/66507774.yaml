@@ -1,0 +1,59 @@
+id:
+  - name: Cryptophasa
+    by:
+      - koolah
+      - d_kurek
+    ref:
+      inaturalist: 425279
+datetime: '2013-02-06T00:43:00+11:00'
+latitude: -37.994085
+longitude: 144.211982
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: 'Other photos show hindwings, thorax and head.'
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '107230626'
+    width: 2048
+    height: 1144
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/107230626/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/107230626/original.jpeg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/107230626'
+  - source: iNaturalist
+    id: '107230632'
+    width: 1676
+    height: 1904
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/107230632/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/107230632/original.jpeg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/107230632'
+  - source: iNaturalist
+    id: '107230644'
+    width: 2048
+    height: 1781
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/107230644/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/107230644/original.jpeg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/107230644'
+  - source: iNaturalist
+    id: '107230650'
+    width: 2048
+    height: 1398
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/107230650/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/107230650/original.jpeg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/107230650'
+license: CC BY-NC
+created_at: '2020-12-13T18:04:07+11:00'
+updated_at: '2022-02-28T10:26:41+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/66507774'

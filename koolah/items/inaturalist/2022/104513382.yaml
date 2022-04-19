@@ -1,0 +1,32 @@
+id:
+  - name: Uraba lugens
+    common: Gum Leaf Skeletonizer
+    by:
+      - koolah
+      - daviaker
+    ref:
+      inaturalist: 355063
+datetime: '2021-12-31T23:25:00+11:00'
+latitude: -37.915011
+longitude: 144.388236
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '175138477'
+    width: 1500
+    height: 1126
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175138477/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175138477/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/175138477'
+license: CC BY-NC
+created_at: '2022-01-07T22:04:06+11:00'
+updated_at: '2022-02-26T19:27:04+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104513382'

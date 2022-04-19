@@ -6,9 +6,10 @@ id:
     ref:
       inaturalist: 341599
 datetime: '2020-03-28T20:50:00+11:00'
-latitude: -37.806571
-longitude: 144.297036
-location_name: 'Brisbane Ranges VIC 3340, Australia'
+latitude: -37.869911
+longitude: 144.26233
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: Undescribed species
 tags:
   - inaturalist
@@ -18,14 +19,14 @@ photos:
     id: '65060362'
     width: 2000
     height: 1502
-    thumbnail_url: 'https://static.inaturalist.org/photos/65060362/medium.jpg?1585568193'
-    original_url: 'https://static.inaturalist.org/photos/65060362/original.jpg?1585568193'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/65060362/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/65060362/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/65060362'
 license: CC BY-NC
 created_at: '2020-03-30T22:37:36+11:00'
-updated_at: '2020-04-25T15:07:43+10:00'
+updated_at: '2022-03-31T17:24:20+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/41027179'

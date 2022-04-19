@@ -1,0 +1,32 @@
+id:
+  - name: Gauna aegusalis
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 380430
+datetime: '2018-12-06T21:27:00+11:00'
+latitude: -37.833811
+longitude: 144.250037
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+  - male
+photos:
+  - source: iNaturalist
+    id: '112864795'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/112864795/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/112864795/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/112864795'
+license: CC BY-NC
+created_at: '2021-02-14T16:32:41+11:00'
+updated_at: '2022-02-27T15:22:05+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/69544886'

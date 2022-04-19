@@ -1,0 +1,32 @@
+id:
+  - name: Thelymitra × chasmogama
+    by:
+      - koolah
+      - orchidontist
+    ref:
+      inaturalist: 567946
+datetime: '2005-10-04T12:34:00+10:00'
+latitude: -37.05714
+longitude: 142.706056
+location_name: 'Illawarra State Forest VIC 3381, Australia'
+accuracy: 20
+tags:
+  - inaturalist
+  - terrestrial_orchid
+  - natural_hybrid
+photos:
+  - source: iNaturalist
+    id: '100795211'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/100795211/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/100795211/original.jpeg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/100795211'
+license: CC BY-NC
+created_at: '2020-10-18T15:08:31+11:00'
+updated_at: '2020-11-01T13:59:47+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/62863687'

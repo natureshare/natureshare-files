@@ -1,14 +1,11 @@
 id:
-  - name: Amegilla bombiformis
-    common: Golden-haired Mortar Bee
-    by:
-      - koolah
-      - gregtasney
+  - name: Asaropoda
     ref:
-      inaturalist: 543954
-latitude: -37.805515
-longitude: 144.297833
-location_name: 'Brisbane Track, Balliang VIC 3340, Australia'
+      inaturalist: 578055
+latitude: -37.93767
+longitude: 144.225206
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: Amegilla bombiformis roosting
 tags:
   - inaturalist
@@ -17,14 +14,14 @@ photos:
     id: '40985825'
     width: 768
     height: 1024
-    thumbnail_url: 'https://static.inaturalist.org/photos/40985825/medium.jpeg?1559671021'
-    original_url: 'https://static.inaturalist.org/photos/40985825/original.jpeg?1559671021'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985825/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985825/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40985825'
 license: CC BY-NC
 created_at: '2019-06-05T03:57:01+10:00'
-updated_at: '2019-09-03T15:40:08+10:00'
+updated_at: '2022-03-31T17:58:46+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26396123'

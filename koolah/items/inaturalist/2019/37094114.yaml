@@ -1,5 +1,6 @@
 id:
   - name: Termessa gratiosa
+    common: Favoured Footman
     by:
       - koolah
       - imcmaster
@@ -17,8 +18,8 @@ photos:
     id: '58748830'
     width: 1360
     height: 1500
-    thumbnail_url: 'https://static.inaturalist.org/photos/58748830/medium.jpg?1577702240'
-    original_url: 'https://static.inaturalist.org/photos/58748830/original.jpg?1577702240'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58748830/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58748830/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/58748830'

@@ -1,0 +1,42 @@
+id:
+  - name: Thalaina selenaea
+    common: Orange-rimmed Satin Moth
+    by:
+      - koolah
+      - daviaker
+    ref:
+      inaturalist: 429453
+datetime: '2021-04-30T23:08:00+10:00'
+latitude: -37.856137
+longitude: 144.26172
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: '1st image shows hindwings, 2nd image shows hindwings obscurred.'
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '125774419'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125774419/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125774419/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/125774419'
+  - source: iNaturalist
+    id: '125774474'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125774474/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125774474/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/125774474'
+license: CC BY-NC
+created_at: '2021-05-03T21:45:39+10:00'
+updated_at: '2022-02-27T11:58:23+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/76907108'

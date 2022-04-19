@@ -1,0 +1,49 @@
+id:
+  - name: Caladenia stricta
+    common: Upright spider orchid
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 805539
+datetime: '2020-10-06T13:15:00+11:00'
+latitude: -36.80064
+longitude: 141.04694
+location_name: 'Tallegeira NCR VIC 3319, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '99279920'
+    width: 2000
+    height: 1815
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99279920/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99279920/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/99279920'
+  - source: iNaturalist
+    id: '99279966'
+    width: 1579
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99279966/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99279966/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/99279966'
+  - source: iNaturalist
+    id: '99280002'
+    width: 1686
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99280002/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99280002/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/99280002'
+license: CC BY-NC
+created_at: '2020-10-08T13:05:00+11:00'
+updated_at: '2020-10-08T13:11:40+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/62000290'

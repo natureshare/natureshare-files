@@ -1,0 +1,41 @@
+id:
+  - name: Diatenes aglossoides
+    by:
+      - koolah
+      - eremophila
+    ref:
+      inaturalist: 208592
+datetime: '2020-12-12T22:15:00+11:00'
+latitude: -37.848382
+longitude: 144.385353
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: Second image shows side view
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '112864682'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/112864682/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/112864682/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/112864682'
+  - source: iNaturalist
+    id: '112864697'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/112864697/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/112864697/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/112864697'
+license: CC BY-NC
+created_at: '2021-02-14T16:32:38+11:00'
+updated_at: '2022-02-27T15:22:04+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/69544881'

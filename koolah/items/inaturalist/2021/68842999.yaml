@@ -1,0 +1,50 @@
+id:
+  - name: Cryptophasa
+    by:
+      - koolah
+      - vicfazio3
+    ref:
+      inaturalist: 425279
+datetime: '2021-01-10T21:12:00+11:00'
+latitude: -37.55853
+longitude: 144.42021
+location_name: 'Bluegum Track Lerderderg SP VIC 3458, Australia'
+accuracy: 6
+description: Multiple views available including one with hindwings visible.
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '111571662'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/111571662/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/111571662/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/111571662'
+  - source: iNaturalist
+    id: '111571684'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/111571684/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/111571684/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/111571684'
+  - source: iNaturalist
+    id: '111571698'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/111571698/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/111571698/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/111571698'
+license: CC BY-NC
+created_at: '2021-01-31T14:46:54+11:00'
+updated_at: '2021-02-01T01:58:23+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/68842999'

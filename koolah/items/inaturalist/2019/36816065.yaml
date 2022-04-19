@@ -1,8 +1,8 @@
 id:
   - name: Euchaetis incarnatella
     by:
-      - eremophila
       - koolah
+      - eremophila
     ref:
       inaturalist: 564171
 datetime: '2019-10-23T23:25:00+11:00'
@@ -19,8 +19,8 @@ photos:
     id: '58259798'
     width: 1410
     height: 1500
-    thumbnail_url: 'https://static.inaturalist.org/photos/58259798/medium.jpg?1576902883'
-    original_url: 'https://static.inaturalist.org/photos/58259798/original.jpg?1576902883'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58259798/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58259798/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/58259798'

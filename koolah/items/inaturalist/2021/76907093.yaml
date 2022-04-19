@@ -1,0 +1,33 @@
+id:
+  - name: Stibaroma
+    by:
+      - koolah
+      - johnlenagan
+    ref:
+      inaturalist: 355088
+datetime: '2021-04-30T20:25:00+10:00'
+latitude: -37.953674
+longitude: 144.234794
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: Moths of Victoria sp. (1)
+tags:
+  - inaturalist
+  - moth
+  - female
+photos:
+  - source: iNaturalist
+    id: '125774104'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125774104/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125774104/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/125774104'
+license: CC BY-NC
+created_at: '2021-05-03T21:45:35+10:00'
+updated_at: '2022-02-27T11:58:24+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/76907093'

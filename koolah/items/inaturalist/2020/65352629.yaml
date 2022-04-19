@@ -1,0 +1,30 @@
+id:
+  - name: Palimmeces
+    by:
+      - koolah
+    ref:
+      inaturalist: 355123
+datetime: '2020-11-18T21:36:00+11:00'
+latitude: -37.914754
+longitude: 144.307701
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '105170334'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105170334/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105170334/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/105170334'
+license: CC BY-NC
+created_at: '2020-11-22T07:25:22+11:00'
+updated_at: '2022-03-01T08:04:11+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65352629'

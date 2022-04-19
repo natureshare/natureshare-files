@@ -3,6 +3,7 @@ id:
     common: Australian Buttercup
     by:
       - koolah
+      - chrislindorff
     ref:
       inaturalist: 369571
 datetime: '2020-09-05T14:34:00+10:00'
@@ -17,8 +18,8 @@ photos:
     id: '93542908'
     width: 2000
     height: 1502
-    thumbnail_url: 'https://static.inaturalist.org/photos/93542908/medium.jpg?1599296675'
-    original_url: 'https://static.inaturalist.org/photos/93542908/original.jpg?1599296675'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/93542908/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/93542908/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/93542908'
@@ -26,14 +27,14 @@ photos:
     id: '93544756'
     width: 2000
     height: 1502
-    thumbnail_url: 'https://static.inaturalist.org/photos/93544756/medium.jpg?1599298726'
-    original_url: 'https://static.inaturalist.org/photos/93544756/original.jpg?1599298726'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/93544756/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/93544756/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/93544756'
 license: CC BY-NC
 created_at: '2020-09-05T19:34:14+10:00'
-updated_at: '2020-09-05T19:38:49+10:00'
+updated_at: '2020-09-20T08:03:30+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/58584942'

@@ -1,0 +1,31 @@
+id:
+  - name: Pimelea linifolia
+    common: Queen of the Bush
+    by:
+      - koolah
+      - arthur_chapman
+    ref:
+      inaturalist: 321037
+datetime: '2020-10-21T13:19:00+11:00'
+latitude: -37.62162
+longitude: 144.15146
+location_name: 'Bungal State Forest VIC 3342, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '101313508'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101313508/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101313508/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/101313508'
+license: CC BY-NC
+created_at: '2020-10-21T22:18:11+11:00'
+updated_at: '2020-10-22T11:09:20+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63156380'

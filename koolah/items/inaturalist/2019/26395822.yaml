@@ -1,9 +1,9 @@
 id:
-  - name: Eupselia
+  - name: Eupselia holoxantha
     by:
-      - koolah
+      - johnlenagan
     ref:
-      inaturalist: 244522
+      inaturalist: 492383
 latitude: -37.732718
 longitude: 145.211537
 location_name: 'Lower Orchard Track E, Warrandyte VIC 3113, Australia'
@@ -15,14 +15,14 @@ photos:
     id: '40985338'
     width: 1024
     height: 732
-    thumbnail_url: 'https://static.inaturalist.org/photos/40985338/medium.jpeg?1559670731'
-    original_url: 'https://static.inaturalist.org/photos/40985338/original.jpeg?1559670731'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985338/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985338/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40985338'
 license: CC BY-NC
 created_at: '2019-06-05T03:52:12+10:00'
-updated_at: '2019-06-05T03:52:15+10:00'
+updated_at: '2021-04-24T14:32:00+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26395822'

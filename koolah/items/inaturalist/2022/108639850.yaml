@@ -1,0 +1,31 @@
+id:
+  - name: Proteuxoa tibiata
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 471404
+datetime: '2022-03-05T23:51:00+11:00'
+latitude: -37.998494
+longitude: 144.397456
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '182955161'
+    width: 1126
+    height: 1500
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/182955161/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/182955161/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/182955161'
+license: CC BY-NC
+created_at: '2022-03-15T17:24:09+11:00'
+updated_at: '2022-03-16T08:16:13+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/108639850'

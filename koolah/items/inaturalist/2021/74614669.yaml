@@ -1,0 +1,31 @@
+id:
+  - name: Stibaroma melanotoxa
+    by:
+      - koolah
+      - johnlenagan
+    ref:
+      inaturalist: 437901
+datetime: '2021-04-15T22:04:00+10:00'
+latitude: -36.79956
+longitude: 142.20822
+location_name: 'Bungalally VIC 3401, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '121971031'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/121971031/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/121971031/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/121971031'
+license: CC BY-NC
+created_at: '2021-04-20T19:57:59+10:00'
+updated_at: '2021-05-03T22:21:06+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/74614669'

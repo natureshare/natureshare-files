@@ -1,0 +1,32 @@
+id:
+  - name: Hednota relatalis
+    by:
+      - bushbandit
+      - koolah
+    ref:
+      inaturalist: 490120
+datetime: '2022-03-05T21:30:00+11:00'
+latitude: -37.832853
+longitude: 144.39479
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: 'Same species, different specimen to JL observation.'
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '182954919'
+    width: 1500
+    height: 1126
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/182954919/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/182954919/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/182954919'
+license: CC BY-NC
+created_at: '2022-03-15T17:24:00+11:00'
+updated_at: '2022-03-15T22:36:06+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/108639830'

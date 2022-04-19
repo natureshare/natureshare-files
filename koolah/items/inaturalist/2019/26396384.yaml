@@ -5,25 +5,27 @@ id:
       - vicfazio3
     ref:
       inaturalist: 486559
-latitude: -37.806613
-longitude: 144.297097
-location_name: '576 Brisbane Road, Balliang VIC 3340, Australia'
+latitude: -37.964477
+longitude: 144.349401
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: Gastrophora henricaria underside
 tags:
   - inaturalist
+  - moth
 photos:
   - source: iNaturalist
     id: '40986206'
     width: 1024
     height: 767
-    thumbnail_url: 'https://static.inaturalist.org/photos/40986206/medium.jpeg?1559671286'
-    original_url: 'https://static.inaturalist.org/photos/40986206/original.jpeg?1559671286'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986206/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986206/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40986206'
 license: CC BY-NC
 created_at: '2019-06-05T04:01:27+10:00'
-updated_at: '2019-06-05T06:24:50+10:00'
+updated_at: '2022-03-31T17:49:06+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26396384'

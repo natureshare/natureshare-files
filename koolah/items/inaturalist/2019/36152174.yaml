@@ -7,27 +7,28 @@ id:
     ref:
       inaturalist: 194764
 datetime: '2019-11-27T23:04:00+11:00'
-latitude: -37.806571
-longitude: 144.297036
-location_name: 'Brisbane Ranges VIC 3340, Australia'
+latitude: -37.918781
+longitude: 144.347185
+location_name: 'Victoria, AU'
+accuracy: 28329
 tags:
   - inaturalist
-  - white
   - moth
   - male
+  - white
 photos:
   - source: iNaturalist
     id: '57112467'
     width: 1172
     height: 1500
-    thumbnail_url: 'https://static.inaturalist.org/photos/57112467/medium.jpg?1574916509'
-    original_url: 'https://static.inaturalist.org/photos/57112467/original.jpg?1574916509'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/57112467/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/57112467/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/57112467'
 license: CC BY-NC
 created_at: '2019-11-28T15:49:22+11:00'
-updated_at: '2019-12-19T22:16:47+11:00'
+updated_at: '2022-03-31T17:49:08+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/36152174'

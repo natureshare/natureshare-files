@@ -1,8 +1,11 @@
 id:
-  - name: Tortricoidea
-    common: Tortricid Leafroller Moths and Allies
+  - name: Heliocosma incongruana
+    by:
+      - bushbandit
+      - vicfazio3
+      - jasondombroskie
     ref:
-      inaturalist: 47156
+      inaturalist: 146760
 latitude: -36.924988
 longitude: 148.160596
 location_name: 'Limestone Road, Alpine National Park, Brumby VIC 3885, Australia'
@@ -16,14 +19,14 @@ photos:
     id: '40986118'
     width: 1024
     height: 724
-    thumbnail_url: 'https://static.inaturalist.org/photos/40986118/medium.jpeg?1559671230'
-    original_url: 'https://static.inaturalist.org/photos/40986118/original.jpeg?1559671230'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986118/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986118/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40986118'
 license: CC BY-NC
 created_at: '2019-06-05T04:00:31+10:00'
-updated_at: '2019-07-06T12:36:41+10:00'
+updated_at: '2020-11-27T04:34:29+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26396306'

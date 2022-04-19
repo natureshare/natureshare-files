@@ -7,9 +7,10 @@ id:
     ref:
       inaturalist: 333747
 datetime: '2020-08-14T18:59:00+10:00'
-latitude: -37.806571
-longitude: 144.297036
-location_name: 'Brisbane Ranges VIC 3340, Australia'
+latitude: -37.973693
+longitude: 144.379633
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: Beautiful brown form
 tags:
   - inaturalist
@@ -19,14 +20,14 @@ photos:
     id: '90013845'
     width: 1260
     height: 1500
-    thumbnail_url: 'https://static.inaturalist.org/photos/90013845/medium.jpg?1597464314'
-    original_url: 'https://static.inaturalist.org/photos/90013845/original.jpg?1597464314'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90013845/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90013845/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/90013845'
 license: CC BY-NC
 created_at: '2020-08-15T14:09:46+10:00'
-updated_at: '2020-08-15T14:18:24+10:00'
+updated_at: '2022-03-01T13:40:06+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/56481584'

@@ -1,0 +1,32 @@
+id:
+  - name: Melanodes anthracitaria
+    common: Black Geometrid
+    by:
+      - koolah
+      - d_kurek
+    ref:
+      inaturalist: 355144
+datetime: '2020-12-02T21:52:00+11:00'
+latitude: -38.44306
+longitude: 144.09471
+location_name: 'Distillery Creek PG VIC 3231, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '108968053'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108968053/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108968053/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/108968053'
+license: CC BY-NC
+created_at: '2021-01-02T17:41:09+11:00'
+updated_at: '2021-01-02T20:55:19+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/67443902'

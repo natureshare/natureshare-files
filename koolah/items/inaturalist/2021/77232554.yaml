@@ -1,0 +1,32 @@
+id:
+  - name: Epyaxa subidaria
+    common: Subidaria Moth
+    by:
+      - koolah
+      - daviaker
+    ref:
+      inaturalist: 418522
+datetime: '2021-04-30T21:14:00+10:00'
+latitude: -37.920016
+longitude: 144.242748
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '126293691'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126293691/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126293691/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/126293691'
+license: CC BY-NC
+created_at: '2021-05-04T18:23:13+10:00'
+updated_at: '2022-02-27T11:58:22+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/77232554'

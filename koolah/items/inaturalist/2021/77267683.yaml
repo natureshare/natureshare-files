@@ -1,0 +1,32 @@
+id:
+  - name: Melithreptus brevirostris
+    common: Brown-headed Honeyeater
+    by:
+      - koolah
+      - ratite
+    ref:
+      inaturalist: 12254
+datetime: '2021-05-02T00:27:00+10:00'
+latitude: -37.93273
+longitude: 144.204656
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: Wildlife camera image
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '126350896'
+    width: 2048
+    height: 1149
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126350896/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126350896/original.jpeg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/126350896'
+license: CC BY-NC
+created_at: '2021-05-04T23:59:04+10:00'
+updated_at: '2021-05-05T00:46:49+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/77267683'

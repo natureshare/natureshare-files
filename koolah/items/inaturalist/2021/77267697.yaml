@@ -1,0 +1,32 @@
+id:
+  - name: Phaps elegans
+    common: Brush Bronzewing
+    by:
+      - koolah
+      - ratite
+    ref:
+      inaturalist: 3336
+datetime: '2021-04-30T12:45:00+10:00'
+latitude: -37.978249
+longitude: 144.33906
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: Wildlife camera image
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '126351120'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126351120/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126351120/original.jpeg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/126351120'
+license: CC BY-NC
+created_at: '2021-05-04T23:59:07+10:00'
+updated_at: '2021-05-05T00:46:33+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/77267697'

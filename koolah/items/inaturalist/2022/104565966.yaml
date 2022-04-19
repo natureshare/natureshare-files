@@ -1,0 +1,31 @@
+id:
+  - name: Moerarchis inconcisella
+    by:
+      - koolah
+      - emily2403
+    ref:
+      inaturalist: 341873
+datetime: '2021-12-31T22:24:00+11:00'
+latitude: -37.965331
+longitude: 144.342774
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '175239021'
+    width: 1500
+    height: 1126
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175239021/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175239021/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/175239021'
+license: CC BY-NC
+created_at: '2022-01-08T20:03:34+11:00'
+updated_at: '2022-02-24T16:07:47+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104565966'

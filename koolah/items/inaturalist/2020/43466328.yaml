@@ -1,14 +1,16 @@
 id:
   - name: Termessa nivosa
+    common: Snowy Footman
     by:
       - koolah
       - vicfazio3
     ref:
       inaturalist: 341660
 datetime: '2020-04-24T22:53:00+10:00'
-latitude: -37.806571
-longitude: 144.297036
-location_name: 'Brisbane Ranges VIC 3340, Australia'
+latitude: -37.930886
+longitude: 144.225788
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: Very worn specimen
 tags:
   - inaturalist
@@ -18,14 +20,14 @@ photos:
     id: '68963725'
     width: 2000
     height: 1502
-    thumbnail_url: 'https://static.inaturalist.org/photos/68963725/medium.jpg?1587852375'
-    original_url: 'https://static.inaturalist.org/photos/68963725/original.jpg?1587852375'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/68963725/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/68963725/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/68963725'
 license: CC BY-NC
 created_at: '2020-04-26T08:11:24+10:00'
-updated_at: '2020-04-26T10:16:14+10:00'
+updated_at: '2022-03-31T17:11:52+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/43466328'

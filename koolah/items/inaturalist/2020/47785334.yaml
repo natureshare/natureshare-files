@@ -7,9 +7,10 @@ id:
     ref:
       inaturalist: 418522
 datetime: '2020-05-29T20:43:00+10:00'
-latitude: -37.806571
-longitude: 144.297036
-location_name: 'Brisbane Ranges VIC 3340, Australia'
+latitude: -37.887103
+longitude: 144.398208
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: Don't often get them this pristine.
 tags:
   - inaturalist
@@ -19,14 +20,14 @@ photos:
     id: '75799084'
     width: 2000
     height: 1502
-    thumbnail_url: 'https://static.inaturalist.org/photos/75799084/medium.jpg?1590793405'
-    original_url: 'https://static.inaturalist.org/photos/75799084/original.jpg?1590793405'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75799084/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/75799084/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/75799084'
 license: CC BY-NC
 created_at: '2020-05-30T09:05:10+10:00'
-updated_at: '2020-05-30T11:24:41+10:00'
+updated_at: '2022-03-01T15:53:22+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/47785334'

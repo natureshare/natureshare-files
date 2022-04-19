@@ -1,11 +1,10 @@
 id:
-  - name: Hakea decurrens
-    common: Bushy Needlewood
+  - name: Hakea decurrens physocarpa
     by:
+      - arthur_chapman
       - koolah
-      - cygnusa
     ref:
-      inaturalist: 320929
+      inaturalist: 709820
 latitude: -37.882682
 longitude: 144.179238
 location_name: 'South Steiglitz Road, Steiglitz VIC 3331, Australia'
@@ -17,14 +16,14 @@ photos:
     id: '40986349'
     width: 1024
     height: 743
-    thumbnail_url: 'https://static.inaturalist.org/photos/40986349/medium.jpeg?1559671387'
-    original_url: 'https://static.inaturalist.org/photos/40986349/original.jpeg?1559671387'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986349/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986349/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40986349'
 license: CC BY-NC
 created_at: '2019-06-05T04:03:08+10:00'
-updated_at: '2019-06-05T08:04:40+10:00'
+updated_at: '2021-06-29T13:40:22+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26396466'

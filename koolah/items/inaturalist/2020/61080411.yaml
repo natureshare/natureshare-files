@@ -1,0 +1,34 @@
+id:
+  - name: Tachyglossus aculeatus
+    common: Short-beaked Echidna
+    by:
+      - koolah
+      - torhek
+      - michalsloviak
+      - chuditch
+      - sea-kangaroo
+    ref:
+      inaturalist: 43239
+datetime: '2020-09-28T15:33:00+10:00'
+latitude: -37.86639
+longitude: 144.25212
+location_name: 'Brisbane Ranges VIC 3340, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97707067'
+    width: 2000
+    height: 1419
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97707067/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97707067/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97707067'
+license: CC BY-NC
+created_at: '2020-09-28T18:52:39+10:00'
+updated_at: '2020-10-01T04:27:30+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61080411'

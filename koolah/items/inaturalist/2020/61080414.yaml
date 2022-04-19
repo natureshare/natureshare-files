@@ -1,0 +1,30 @@
+id:
+  - name: Wurmbea dioica dioica
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 786503
+datetime: '2020-09-28T13:48:00+10:00'
+latitude: -37.879
+longitude: 144.2028
+location_name: 'Brisbane Ranges VIC 3213, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97707126'
+    width: 1625
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97707126/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97707126/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97707126'
+license: CC BY-NC
+created_at: '2020-09-28T18:52:41+10:00'
+updated_at: '2020-09-28T19:06:53+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61080414'

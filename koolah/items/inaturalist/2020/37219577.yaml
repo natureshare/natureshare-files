@@ -2,6 +2,7 @@ id:
   - name: Xylorycta leucophanes
     by:
       - koolah
+      - johnlenagan
     ref:
       inaturalist: 990975
 datetime: '2018-10-30T23:03:00+11:00'
@@ -17,14 +18,14 @@ photos:
     id: '58968184'
     width: 1500
     height: 1031
-    thumbnail_url: 'https://static.inaturalist.org/photos/58968184/medium.jpg?1578036420'
-    original_url: 'https://static.inaturalist.org/photos/58968184/original.jpg?1578036420'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58968184/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58968184/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/58968184'
 license: CC BY-NC
 created_at: '2020-01-03T18:30:28+11:00'
-updated_at: '2020-01-03T18:30:28+11:00'
+updated_at: '2021-04-24T14:25:22+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/37219577'

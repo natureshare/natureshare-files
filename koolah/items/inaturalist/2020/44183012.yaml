@@ -7,28 +7,28 @@ id:
     ref:
       inaturalist: 14168
 datetime: '2020-04-26T07:37:00+10:00'
-latitude: -37.805238
-longitude: 144.297815
-location_name: 'Brisbane Ranges VIC 3340, Australia'
-accuracy: 15
+latitude: -37.841037
+longitude: 144.34389
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: At my water pond
 tags:
   - inaturalist
-  - male
   - bird
+  - male
 photos:
   - source: iNaturalist
     id: '70050080'
     width: 2048
     height: 1149
-    thumbnail_url: 'https://static.inaturalist.org/photos/70050080/medium.jpeg?1588111400'
-    original_url: 'https://static.inaturalist.org/photos/70050080/original.jpeg?1588111400'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/70050080/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/70050080/original.jpeg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/70050080'
 license: CC BY-NC
 created_at: '2020-04-29T08:05:26+10:00'
-updated_at: '2020-04-29T08:32:08+10:00'
+updated_at: '2022-03-31T17:12:00+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/44183012'

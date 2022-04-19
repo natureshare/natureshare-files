@@ -5,26 +5,27 @@ id:
       - vicfazio3
     ref:
       inaturalist: 341813
-latitude: -37.806572
-longitude: 144.297043
-location_name: 'Brisbane Ranges VIC 3340, Australia'
-accuracy: 3
+latitude: -37.895058
+longitude: 144.382608
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: Lasiocampidae
 tags:
   - inaturalist
+  - moth
 photos:
   - source: iNaturalist
     id: '40986110'
     width: 1024
     height: 627
-    thumbnail_url: 'https://static.inaturalist.org/photos/40986110/medium.jpeg?1559671224'
-    original_url: 'https://static.inaturalist.org/photos/40986110/original.jpeg?1559671224'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986110/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986110/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40986110'
 license: CC BY-NC
 created_at: '2019-06-05T04:00:24+10:00'
-updated_at: '2020-08-22T07:43:38+10:00'
+updated_at: '2022-03-31T17:58:47+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26396290'

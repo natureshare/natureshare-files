@@ -1,0 +1,41 @@
+id:
+  - name: Dictyochrysa fulva
+    by:
+      - koolah
+      - grigorenko
+    ref:
+      inaturalist: 910012
+datetime: '2021-04-30T19:40:00+10:00'
+latitude: -37.844303
+longitude: 144.26247
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: 2nd image shows side view
+tags:
+  - inaturalist
+  - lacewing
+photos:
+  - source: iNaturalist
+    id: '126293585'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126293585/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126293585/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/126293585'
+  - source: iNaturalist
+    id: '126293600'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126293600/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126293600/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/126293600'
+license: CC BY-NC
+created_at: '2021-05-04T18:23:11+10:00'
+updated_at: '2022-02-27T11:58:23+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/77232550'

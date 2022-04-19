@@ -5,25 +5,27 @@ id:
       - vicfazio3
     ref:
       inaturalist: 555504
-latitude: -37.806179
-longitude: 144.297597
-location_name: 'Balliang VIC, Australia'
+latitude: -37.98401
+longitude: 144.235182
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: Golden-fringed Emerald
 tags:
   - inaturalist
+  - moth
 photos:
   - source: iNaturalist
     id: '40986296'
     width: 1024
     height: 648
-    thumbnail_url: 'https://static.inaturalist.org/photos/40986296/medium.jpeg?1559671350'
-    original_url: 'https://static.inaturalist.org/photos/40986296/original.jpeg?1559671350'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986296/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986296/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40986296'
 license: CC BY-NC
 created_at: '2019-06-05T04:02:31+10:00'
-updated_at: '2019-06-05T06:24:18+10:00'
+updated_at: '2022-03-31T17:49:05+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26396424'

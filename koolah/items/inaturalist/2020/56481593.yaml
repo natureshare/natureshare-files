@@ -6,24 +6,26 @@ id:
     ref:
       inaturalist: 202122
 datetime: '2020-08-14T18:40:00+10:00'
-latitude: -37.806571
-longitude: 144.297036
-location_name: 'Brisbane Ranges VIC 3340, Australia'
+latitude: -37.874231
+longitude: 144.348777
+location_name: 'Victoria, AU'
+accuracy: 28329
 tags:
   - inaturalist
+  - wasp
 photos:
   - source: iNaturalist
     id: '90013904'
     width: 1500
     height: 937
-    thumbnail_url: 'https://static.inaturalist.org/photos/90013904/medium.jpg?1597464360'
-    original_url: 'https://static.inaturalist.org/photos/90013904/original.jpg?1597464360'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90013904/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/90013904/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/90013904'
 license: CC BY-NC
 created_at: '2020-08-15T14:09:49+10:00'
-updated_at: '2020-08-20T15:30:14+10:00'
+updated_at: '2022-03-01T13:40:06+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/56481593'

@@ -1,0 +1,31 @@
+id:
+  - name: Chamaescilla corymbosa
+    common: Blue Stars
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 194766
+datetime: '2020-10-05T14:14:00+11:00'
+latitude: -37.1073
+longitude: 142.80449
+location_name: 'Black Range VIC 3381, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '99600934'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99600934/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99600934/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/99600934'
+license: CC BY-NC
+created_at: '2020-10-10T22:10:53+11:00'
+updated_at: '2020-10-10T22:31:16+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/62184462'

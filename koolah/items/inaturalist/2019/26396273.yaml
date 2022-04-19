@@ -1,29 +1,32 @@
 id:
-  - name: Anthela acuta
-    common: Common Anthelid Moth
+  - name: Anthela varia
+    common: Variable Anthelid
     by:
+      - kallies
       - koolah
     ref:
-      inaturalist: 355236
-latitude: -37.808124
-longitude: 144.297161
-location_name: '576 Brisbane Road, Balliang VIC 3340, Australia'
+      inaturalist: 484221
+latitude: -37.862224
+longitude: 144.335487
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: Female - Anthela varia
 tags:
   - inaturalist
+  - moth
 photos:
   - source: iNaturalist
     id: '40986068'
     width: 1024
     height: 716
-    thumbnail_url: 'https://static.inaturalist.org/photos/40986068/medium.jpeg?1559671191'
-    original_url: 'https://static.inaturalist.org/photos/40986068/original.jpeg?1559671191'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986068/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986068/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40986068'
 license: CC BY-NC
 created_at: '2019-06-05T03:59:52+10:00'
-updated_at: '2019-06-05T03:59:54+10:00'
+updated_at: '2022-03-31T18:04:02+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26396273'

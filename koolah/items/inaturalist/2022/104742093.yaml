@@ -1,0 +1,58 @@
+id:
+  - name: Niceteria macrocosma
+    by:
+      - koolah
+      - nedfisher
+    ref:
+      inaturalist: 355132
+datetime: '2019-02-28T02:03:00+11:00'
+latitude: -37.928273
+longitude: 144.276343
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '175575576'
+    width: 1599
+    height: 1201
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175575576/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175575576/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/175575576'
+  - source: iNaturalist
+    id: '175575582'
+    width: 1500
+    height: 1126
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175575582/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175575582/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/175575582'
+  - source: iNaturalist
+    id: '175575589'
+    width: 1500
+    height: 1126
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175575589/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175575589/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/175575589'
+  - source: iNaturalist
+    id: '175575598'
+    width: 1500
+    height: 1126
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175575598/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175575598/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/175575598'
+license: CC BY-NC
+created_at: '2022-01-11T14:38:47+11:00'
+updated_at: '2022-03-12T23:21:51+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104742093'

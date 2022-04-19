@@ -1,0 +1,31 @@
+id:
+  - name: Termessa shepherdi
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 471533
+datetime: '2021-11-30T04:26:00+11:00'
+latitude: -37.936136
+longitude: 144.35736
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '171940845'
+    width: 1716
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/171940845/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/171940845/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/171940845'
+license: CC BY-NC
+created_at: '2021-12-10T21:06:04+11:00'
+updated_at: '2022-02-26T19:30:54+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/102809368'

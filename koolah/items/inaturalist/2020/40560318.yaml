@@ -2,8 +2,8 @@ id:
   - name: Pterostylis parviflora
     common: tiny greenhood
     by:
-      - reiner
       - koolah
+      - reiner
     ref:
       inaturalist: 323438
 datetime: '2020-03-22T16:15:00+11:00'
@@ -12,19 +12,20 @@ longitude: 144.29599
 location_name: 'Brisbane Ranges NP VIC 3340, Australia'
 tags:
   - inaturalist
+  - orchid
 photos:
   - source: iNaturalist
     id: '64281745'
     width: 1502
     height: 2000
-    thumbnail_url: 'https://static.inaturalist.org/photos/64281745/medium.jpg?1584922242'
-    original_url: 'https://static.inaturalist.org/photos/64281745/original.jpg?1584922242'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/64281745/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/64281745/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/64281745'
 license: CC BY-NC
 created_at: '2020-03-23T11:12:52+11:00'
-updated_at: '2020-03-23T11:19:01+11:00'
+updated_at: '2022-03-31T17:24:20+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/40560318'

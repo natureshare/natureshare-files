@@ -1,0 +1,31 @@
+id:
+  - name: Achilus flammeus
+    common: red fungus bug
+    by:
+      - koolah
+      - thebeachcomber
+    ref:
+      inaturalist: 384922
+datetime: '2021-01-10T21:25:00+11:00'
+latitude: -37.556679
+longitude: 144.419884
+location_name: 'Lerderderg State Park VIC 3458, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '110599384'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/110599384/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/110599384/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/110599384'
+license: CC BY-NC
+created_at: '2021-01-19T22:12:47+11:00'
+updated_at: '2021-01-21T16:00:38+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/68322560'

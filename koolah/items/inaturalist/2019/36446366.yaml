@@ -2,6 +2,7 @@ id:
   - name: Linosticha orthogramma
     by:
       - koolah
+      - johnlenagan
     ref:
       inaturalist: 974046
 datetime: '2019-10-22T23:23:00+11:00'
@@ -18,14 +19,14 @@ photos:
     id: '57611382'
     width: 1500
     height: 959
-    thumbnail_url: 'https://static.inaturalist.org/photos/57611382/medium.jpg?1575753763'
-    original_url: 'https://static.inaturalist.org/photos/57611382/original.jpg?1575753763'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/57611382/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/57611382/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/57611382'
 license: CC BY-NC
 created_at: '2019-12-08T08:24:20+11:00'
-updated_at: '2019-12-19T22:08:49+11:00'
+updated_at: '2021-04-24T14:33:28+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/36446366'

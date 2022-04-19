@@ -1,0 +1,31 @@
+id:
+  - name: Caladenia ornata
+    common: ornate pink fingers
+    by:
+      - koolah
+      - reiner
+    ref:
+      inaturalist: 570398
+datetime: '2020-10-05T11:12:00+11:00'
+latitude: -37.24735
+longitude: 142.91258
+location_name: 'Ararat VIC 3377, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '99600863'
+    width: 1698
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99600863/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99600863/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/99600863'
+license: CC BY-NC
+created_at: '2020-10-10T22:10:51+11:00'
+updated_at: '2020-10-10T22:16:57+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/62184457'

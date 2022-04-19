@@ -1,0 +1,33 @@
+id:
+  - name: Plathemis lydia
+    common: Common Whitetail
+    by:
+      - koolah
+      - joshualincoln
+      - johnlenagan
+    ref:
+      inaturalist: 84549
+datetime: '2021-08-31T18:49:00+10:00'
+latitude: 43.8034
+longitude: -98.1065
+location_name: 'Davison County, SD, USA'
+accuracy: 500
+tags:
+  - inaturalist
+  - male
+photos:
+  - source: iNaturalist
+    id: '154662662'
+    width: 1500
+    height: 1125
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/154662662/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/154662662/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/154662662'
+license: CC BY-NC
+created_at: '2021-09-02T12:45:28+10:00'
+updated_at: '2021-09-23T00:52:14+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/93325667'

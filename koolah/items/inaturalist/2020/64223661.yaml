@@ -1,0 +1,31 @@
+id:
+  - name: Macrobathra platychroa
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 892904
+datetime: '2020-11-02T21:01:00+11:00'
+latitude: -37.943641
+longitude: 144.250095
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '103216926'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103216926/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103216926/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/103216926'
+license: CC BY-NC
+created_at: '2020-11-05T17:29:40+11:00'
+updated_at: '2022-03-01T08:17:02+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/64223661'

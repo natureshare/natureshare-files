@@ -1,5 +1,6 @@
 id:
   - name: Pararguda nasuta
+    common: wattle snout moth
     by:
       - koolah
       - vicfazio3
@@ -7,9 +8,10 @@ id:
     ref:
       inaturalist: 425042
 datetime: '2019-12-17T21:46:00+11:00'
-latitude: -37.806571
-longitude: 144.297036
-location_name: 'Brisbane Ranges VIC 3340, Australia'
+latitude: -37.835085
+longitude: 144.313201
+location_name: 'Victoria, AU'
+accuracy: 28329
 tags:
   - inaturalist
   - female
@@ -19,14 +21,14 @@ photos:
     id: '58142296'
     width: 1500
     height: 1126
-    thumbnail_url: 'https://static.inaturalist.org/photos/58142296/medium.jpg?1576670418'
-    original_url: 'https://static.inaturalist.org/photos/58142296/original.jpg?1576670418'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58142296/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58142296/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/58142296'
 license: CC BY-NC
 created_at: '2019-12-18T23:01:10+11:00'
-updated_at: '2019-12-19T18:13:13+11:00'
+updated_at: '2022-03-31T17:49:09+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/36749998'

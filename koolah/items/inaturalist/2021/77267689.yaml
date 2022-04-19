@@ -1,0 +1,33 @@
+id:
+  - name: Pardalotus punctatus
+    common: Spotted Pardalote
+    by:
+      - koolah
+      - george_seagull
+      - deborod
+    ref:
+      inaturalist: 13531
+datetime: '2021-05-01T10:27:00+10:00'
+latitude: -37.969898
+longitude: 144.388942
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: Wildlife camera image
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '126351002'
+    width: 2048
+    height: 2048
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126351002/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126351002/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/126351002'
+license: CC BY-NC
+created_at: '2021-05-04T23:59:05+10:00'
+updated_at: '2021-05-05T00:02:56+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/77267689'

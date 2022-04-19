@@ -2,6 +2,7 @@ id:
   - name: Oenochroma barcodificata
     by:
       - koolah
+      - mhewish
     ref:
       inaturalist: 808262
 datetime: '2018-11-28T03:14:00+11:00'
@@ -17,14 +18,14 @@ photos:
     id: '58917123'
     width: 2000
     height: 1502
-    thumbnail_url: 'https://static.inaturalist.org/photos/58917123/medium.jpg?1577966677'
-    original_url: 'https://static.inaturalist.org/photos/58917123/original.jpg?1577966677'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58917123/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58917123/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/58917123'
 license: CC BY-NC
 created_at: '2020-01-02T23:07:15+11:00'
-updated_at: '2020-01-03T06:05:40+11:00'
+updated_at: '2021-09-20T16:59:54+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/37190617'

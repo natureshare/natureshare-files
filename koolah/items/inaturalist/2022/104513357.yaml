@@ -1,0 +1,31 @@
+id:
+  - name: Culama australis
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 320918
+datetime: '2021-12-31T23:37:00+11:00'
+latitude: -37.916886
+longitude: 144.365195
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '175138222'
+    width: 1126
+    height: 1500
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175138222/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175138222/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/175138222'
+license: CC BY-NC
+created_at: '2022-01-07T22:03:52+11:00'
+updated_at: '2022-02-26T19:30:55+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104513357'

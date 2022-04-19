@@ -1,0 +1,40 @@
+id:
+  - name: Burchardia umbellata
+    common: Milkmaids
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 83628
+datetime: '2020-09-28T15:39:00+10:00'
+latitude: -37.86595
+longitude: 144.25061
+location_name: 'Brisbane Ranges VIC 3340, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97706848'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97706848/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97706848/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97706848'
+  - source: iNaturalist
+    id: '97706859'
+    width: 2000
+    height: 1463
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97706859/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97706859/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97706859'
+license: CC BY-NC
+created_at: '2020-09-28T18:52:33+10:00'
+updated_at: '2020-09-28T19:06:37+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61080398'

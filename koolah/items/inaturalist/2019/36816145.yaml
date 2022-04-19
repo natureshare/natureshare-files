@@ -2,6 +2,7 @@ id:
   - name: Euphronarcha leptodesma
     by:
       - koolah
+      - eremophila
     ref:
       inaturalist: 892954
 datetime: '2019-10-22T21:25:00+11:00'
@@ -19,14 +20,14 @@ photos:
     id: '58259966'
     width: 1500
     height: 1126
-    thumbnail_url: 'https://static.inaturalist.org/photos/58259966/medium.jpg?1576903295'
-    original_url: 'https://static.inaturalist.org/photos/58259966/original.jpg?1576903295'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58259966/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58259966/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/58259966'
 license: CC BY-NC
 created_at: '2019-12-21T15:42:47+11:00'
-updated_at: '2019-12-21T15:42:47+11:00'
+updated_at: '2021-01-11T13:43:03+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/36816145'

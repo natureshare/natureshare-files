@@ -1,14 +1,16 @@
 id:
   - name: Abantiades labyrinthicus
+    common: Labyrinthine Ghost Moth
     by:
       - koolah
       - ethanbeaver
     ref:
       inaturalist: 489542
 datetime: '2017-02-23T21:45:00+11:00'
-latitude: -37.806571
-longitude: 144.297036
-location_name: 'Brisbane Ranges VIC 3340, Australia'
+latitude: -37.836423
+longitude: 144.211051
+location_name: 'Victoria, AU'
+accuracy: 28329
 tags:
   - inaturalist
   - moth
@@ -17,8 +19,8 @@ photos:
     id: '58179885'
     width: 1500
     height: 1012
-    thumbnail_url: 'https://static.inaturalist.org/photos/58179885/medium.jpg?1576737946'
-    original_url: 'https://static.inaturalist.org/photos/58179885/original.jpg?1576737946'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58179885/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58179885/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/58179885'
@@ -26,14 +28,14 @@ photos:
     id: '58179912'
     width: 1500
     height: 1462
-    thumbnail_url: 'https://static.inaturalist.org/photos/58179912/medium.jpg?1576738007'
-    original_url: 'https://static.inaturalist.org/photos/58179912/original.jpg?1576738007'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58179912/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58179912/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/58179912'
 license: CC BY-NC
 created_at: '2019-12-19T17:46:21+11:00'
-updated_at: '2019-12-20T11:45:42+11:00'
+updated_at: '2022-03-31T17:49:06+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/36771722'

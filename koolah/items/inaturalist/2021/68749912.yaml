@@ -1,0 +1,41 @@
+id:
+  - name: Athetis tenuis
+    by:
+      - koolah
+      - vicfazio3
+    ref:
+      inaturalist: 386282
+datetime: '2021-01-10T21:17:00+11:00'
+latitude: -37.55853
+longitude: 144.42021
+location_name: 'Bluegum Track Lerderderg SP VIC 3458, Australia'
+accuracy: 6
+description: Second image shows side view.
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '111400646'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/111400646/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/111400646/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/111400646'
+  - source: iNaturalist
+    id: '111400651'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/111400651/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/111400651/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/111400651'
+license: CC BY-NC
+created_at: '2021-01-29T16:09:12+11:00'
+updated_at: '2021-01-29T19:58:55+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/68749912'

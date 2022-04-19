@@ -2,6 +2,7 @@ id:
   - name: Euphiltra angustior
     by:
       - koolah
+      - johnlenagan
     ref:
       inaturalist: 633424
 datetime: '2019-10-25T20:30:00+11:00'
@@ -18,14 +19,14 @@ photos:
     id: '58748694'
     width: 1500
     height: 1079
-    thumbnail_url: 'https://static.inaturalist.org/photos/58748694/medium.jpg?1577701838'
-    original_url: 'https://static.inaturalist.org/photos/58748694/original.jpg?1577701838'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58748694/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58748694/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/58748694'
 license: CC BY-NC
 created_at: '2019-12-30T21:31:36+11:00'
-updated_at: '2019-12-30T21:31:36+11:00'
+updated_at: '2021-04-24T14:23:42+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/37094028'

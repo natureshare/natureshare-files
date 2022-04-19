@@ -1,0 +1,31 @@
+id:
+  - name: Caladenia cucullata
+    common: hooded caladenia
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 557906
+datetime: '2020-10-05T14:56:00+11:00'
+latitude: -37.02224
+longitude: 142.71968
+location_name: 'Deep Lead VIC 3385, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '99584225'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99584225/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99584225/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/99584225'
+license: CC BY-NC
+created_at: '2020-10-10T17:06:03+11:00'
+updated_at: '2020-10-10T17:42:35+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/62174227'

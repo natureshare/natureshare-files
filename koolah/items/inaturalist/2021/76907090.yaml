@@ -1,0 +1,42 @@
+id:
+  - name: Stathmopoda melanochra
+    common: Eriococcus Caterpillar
+    by:
+      - koolah
+      - johnlenagan
+    ref:
+      inaturalist: 341442
+datetime: '2021-05-02T20:25:00+10:00'
+latitude: -37.88188
+longitude: 144.18087
+location_name: 'Bert Boardman Reserve VIC 3333, Australia'
+accuracy: 6
+description: '1st image shows dorsal view, 2nd image shows side view'
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '125773947'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125773947/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125773947/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/125773947'
+  - source: iNaturalist
+    id: '125774003'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125774003/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/125774003/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/125774003'
+license: CC BY-NC
+created_at: '2021-05-03T21:45:34+10:00'
+updated_at: '2021-05-03T22:13:48+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/76907090'

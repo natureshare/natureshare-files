@@ -1,0 +1,32 @@
+id:
+  - name: Scioglyptis chionomera
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 355083
+datetime: '2020-11-18T21:50:00+11:00'
+latitude: -37.979602
+longitude: 144.313584
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+  - male
+photos:
+  - source: iNaturalist
+    id: '105319031'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105319031/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105319031/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/105319031'
+license: CC BY-NC
+created_at: '2020-11-23T09:13:44+11:00'
+updated_at: '2022-02-28T10:31:06+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65434798'

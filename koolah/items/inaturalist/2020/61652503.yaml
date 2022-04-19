@@ -1,0 +1,32 @@
+id:
+  - name: Diuris orientis
+    common: Wallflower orchid
+    by:
+      - koolah
+      - bernie-l
+    ref:
+      inaturalist: 328055
+datetime: '2020-10-04T14:14:00+11:00'
+latitude: -37.85131
+longitude: 144.23378
+location_name: 'Brisbane Ranges VIC 3331, Australia'
+accuracy: 6
+description: Double-headed plant.
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '98677028'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98677028/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98677028/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/98677028'
+license: CC BY-NC
+created_at: '2020-10-04T20:08:01+11:00'
+updated_at: '2020-10-04T20:12:07+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61652503'

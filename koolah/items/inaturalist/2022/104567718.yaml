@@ -1,0 +1,32 @@
+id:
+  - name: Earias huegeliana
+    common: Rough Bollworm
+    by:
+      - koolah
+      - johnlenagan
+    ref:
+      inaturalist: 490173
+datetime: '2013-04-12T23:02:00+10:00'
+latitude: -37.923384
+longitude: 144.282763
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '175242849'
+    width: 1663
+    height: 1000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175242849/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175242849/original.jpeg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/175242849'
+license: CC BY-NC
+created_at: '2022-01-08T21:18:27+11:00'
+updated_at: '2022-02-23T23:39:47+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104567718'

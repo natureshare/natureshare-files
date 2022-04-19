@@ -1,0 +1,32 @@
+id:
+  - name: Opodiphthera eucalypti
+    common: Emperor Gum Moth
+    by:
+      - koolah
+      - daviaker
+    ref:
+      inaturalist: 68135
+datetime: '2021-12-31T23:09:00+11:00'
+latitude: -37.824915
+longitude: 144.298984
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '175138345'
+    width: 1500
+    height: 1126
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175138345/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/175138345/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/175138345'
+license: CC BY-NC
+created_at: '2022-01-07T22:04:00+11:00'
+updated_at: '2022-02-27T10:14:20+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/104513371'

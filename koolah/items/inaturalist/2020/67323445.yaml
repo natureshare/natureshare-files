@@ -1,0 +1,35 @@
+id:
+  - name: Thudaca campylota
+    common: Satin Twig Moth
+    by:
+      - koolah
+      - christineyoung
+      - johnlenagan
+      - lroganentsocvic
+    ref:
+      inaturalist: 893834
+datetime: '2019-10-21T20:46:00+11:00'
+latitude: -36.56969
+longitude: 141.33701
+location_name: 'Little Desert NP VIC 3419, Australia'
+accuracy: 6
+description: Observed and photographed during Little Desert NP BushBlitz.
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '108745487'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108745487/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108745487/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/108745487'
+license: CC BY-NC
+created_at: '2020-12-31T09:30:39+11:00'
+updated_at: '2020-12-31T11:19:40+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/67323445'

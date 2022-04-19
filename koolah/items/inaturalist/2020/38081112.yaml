@@ -12,23 +12,23 @@ location_name: 'Langwarrin Flora & Fauna Reserve VIC, Australia'
 description: Mating pair
 tags:
   - inaturalist
-  - moth
   - male
-  - female
   - mating
+  - moth
+  - female
 photos:
   - source: iNaturalist
     id: '60471718'
     width: 1319
     height: 1500
-    thumbnail_url: 'https://static.inaturalist.org/photos/60471718/medium.jpg?1580274178'
-    original_url: 'https://static.inaturalist.org/photos/60471718/original.jpg?1580274178'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/60471718/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/60471718/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/60471718'
 license: CC BY-NC
 created_at: '2020-01-29T16:05:06+11:00'
-updated_at: '2020-01-31T18:57:19+11:00'
+updated_at: '2022-03-31T17:24:18+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/38081112'

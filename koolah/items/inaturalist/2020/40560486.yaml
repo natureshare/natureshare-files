@@ -6,9 +6,10 @@ id:
     ref:
       inaturalist: 60414
 datetime: '2020-03-22T17:01:00+11:00'
-latitude: -37.74274
-longitude: 144.29558
-location_name: 'Brisbane Ranges NP VIC 3340, Australia'
+latitude: -37.612858
+longitude: 144.214792
+location_name: 'Victoria, AU'
+accuracy: 28359
 description: Mating insects
 tags:
   - inaturalist
@@ -18,14 +19,14 @@ photos:
     id: '64282053'
     width: 2000
     height: 1502
-    thumbnail_url: 'https://static.inaturalist.org/photos/64282053/medium.jpg?1584922425'
-    original_url: 'https://static.inaturalist.org/photos/64282053/original.jpg?1584922425'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/64282053/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/64282053/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/64282053'
 license: CC BY-NC
 created_at: '2020-03-23T11:15:21+11:00'
-updated_at: '2020-04-26T19:34:06+10:00'
+updated_at: '2022-03-31T17:27:09+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/40560486'

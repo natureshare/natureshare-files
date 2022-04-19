@@ -1,0 +1,33 @@
+id:
+  - name: Phrissogonus laticostata
+    common: Apple Looper
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 1004767
+datetime: '2022-03-05T20:45:00+11:00'
+latitude: -37.839112
+longitude: 144.356925
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+  - male
+photos:
+  - source: iNaturalist
+    id: '182955101'
+    width: 1500
+    height: 1126
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/182955101/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/182955101/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/182955101'
+license: CC BY-NC
+created_at: '2022-03-15T17:24:07+11:00'
+updated_at: '2022-03-15T20:44:20+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/108639845'

@@ -1,9 +1,10 @@
 id:
-  - name: Culama
+  - name: Culama anthracica
     by:
+      - kallies
       - koolah
     ref:
-      inaturalist: 320919
+      inaturalist: 1087420
 latitude: -37.732718
 longitude: 145.211537
 location_name: 'Lower Orchard Track E, Warrandyte VIC 3113, Australia'
@@ -15,14 +16,14 @@ photos:
     id: '40985665'
     width: 1024
     height: 656
-    thumbnail_url: 'https://static.inaturalist.org/photos/40985665/medium.jpeg?1559670921'
-    original_url: 'https://static.inaturalist.org/photos/40985665/original.jpeg?1559670921'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985665/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985665/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40985665'
 license: CC BY-NC
 created_at: '2019-06-05T03:55:21+10:00'
-updated_at: '2019-06-05T03:55:24+10:00'
+updated_at: '2021-04-22T18:25:24+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26396023'

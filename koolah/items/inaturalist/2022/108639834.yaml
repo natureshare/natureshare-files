@@ -1,0 +1,32 @@
+id:
+  - name: Mythimna convecta
+    common: Australian Armyworm
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 342429
+datetime: '2022-03-05T20:46:00+11:00'
+latitude: -37.865544
+longitude: 144.257953
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '182954981'
+    width: 1500
+    height: 1126
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/182954981/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/182954981/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/182954981'
+license: CC BY-NC
+created_at: '2022-03-15T17:24:02+11:00'
+updated_at: '2022-03-15T20:43:10+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/108639834'

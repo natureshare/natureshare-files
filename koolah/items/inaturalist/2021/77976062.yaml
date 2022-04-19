@@ -1,0 +1,31 @@
+id:
+  - name: Scoparia oxygona
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 884788
+datetime: '2021-05-02T21:20:00+10:00'
+latitude: -37.88188
+longitude: 144.18087
+location_name: 'Bert Boardman Reserve VIC 3333, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '127558897'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/127558897/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/127558897/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/127558897'
+license: CC BY-NC
+created_at: '2021-05-09T08:45:49+10:00'
+updated_at: '2021-05-09T10:13:53+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/77976062'

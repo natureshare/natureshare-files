@@ -11,15 +11,15 @@ longitude: 144.532631
 location_name: 'Ocean Grove NR,Victoria, Australia'
 tags:
   - inaturalist
-  - male
   - moth
+  - male
 photos:
   - source: iNaturalist
     id: '70409862'
     width: 2048
     height: 1820
-    thumbnail_url: 'https://static.inaturalist.org/photos/70409862/medium.jpg?1588281565'
-    original_url: 'https://static.inaturalist.org/photos/70409862/original.jpg?1588281565'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/70409862/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/70409862/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/70409862'
@@ -27,8 +27,8 @@ photos:
     id: '70410484'
     width: 2048
     height: 1364
-    thumbnail_url: 'https://static.inaturalist.org/photos/70410484/medium.jpg?1588281826'
-    original_url: 'https://static.inaturalist.org/photos/70410484/original.jpg?1588281826'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/70410484/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/70410484/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/70410484'

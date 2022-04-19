@@ -1,0 +1,31 @@
+id:
+  - name: Zelotechna
+    by:
+      - koolah
+      - vicfazio3
+    ref:
+      inaturalist: 1190352
+datetime: '2019-10-21T23:02:00+11:00'
+latitude: -36.56969
+longitude: 141.33701
+location_name: 'Kaniva VIC 3419, Australia'
+accuracy: 3
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '176244771'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176244771/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176244771/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/176244771'
+license: CC BY-NC
+created_at: '2022-01-17T20:56:56+11:00'
+updated_at: '2022-01-17T21:47:47+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105089957'

@@ -1,10 +1,9 @@
 id:
-  - name: Geometridae
-    common: Geometer Moths
+  - name: Chrysolarentia plagiocausta
     by:
-      - bushbandit
+      - kallies
     ref:
-      inaturalist: 49530
+      inaturalist: 487545
 datetime: '2018-10-31T03:25:00+11:00'
 latitude: -38.63968
 longitude: 143.88275
@@ -18,14 +17,14 @@ photos:
     id: '58972837'
     width: 1500
     height: 910
-    thumbnail_url: 'https://static.inaturalist.org/photos/58972837/medium.jpg?1578049067'
-    original_url: 'https://static.inaturalist.org/photos/58972837/original.jpg?1578049067'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58972837/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58972837/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/58972837'
 license: CC BY-NC
 created_at: '2020-01-03T22:00:41+11:00'
-updated_at: '2020-01-04T10:34:03+11:00'
+updated_at: '2021-09-22T19:41:01+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/37222036'

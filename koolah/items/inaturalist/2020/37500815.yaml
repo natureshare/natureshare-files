@@ -6,21 +6,22 @@ id:
     ref:
       inaturalist: 418266
 datetime: '2012-03-04T21:31:00+11:00'
-latitude: -37.806571
-longitude: 144.297036
-location_name: 'Brisbane Ranges VIC 3340, Australia'
+latitude: -37.954759
+longitude: 144.336751
+location_name: 'Victoria, AU'
+accuracy: 28329
 tags:
   - inaturalist
+  - female
   - eggs
   - moth
-  - female
 photos:
   - source: iNaturalist
     id: '59460109'
     width: 500
     height: 403
-    thumbnail_url: 'https://static.inaturalist.org/photos/59460109/medium.jpg?1578782397'
-    original_url: 'https://static.inaturalist.org/photos/59460109/original.jpg?1578782397'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/59460109/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/59460109/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/59460109'
@@ -28,8 +29,8 @@ photos:
     id: '59460273'
     width: 1416
     height: 736
-    thumbnail_url: 'https://static.inaturalist.org/photos/59460273/medium.jpeg?1578782612'
-    original_url: 'https://static.inaturalist.org/photos/59460273/original.jpeg?1578782612'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/59460273/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/59460273/original.jpeg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/59460273'
@@ -37,14 +38,14 @@ photos:
     id: '59460295'
     width: 500
     height: 471
-    thumbnail_url: 'https://static.inaturalist.org/photos/59460295/medium.jpg?1578782629'
-    original_url: 'https://static.inaturalist.org/photos/59460295/original.jpg?1578782629'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/59460295/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/59460295/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/59460295'
 license: CC BY-NC
 created_at: '2020-01-12T09:42:54+11:00'
-updated_at: '2020-01-12T13:28:24+11:00'
+updated_at: '2022-03-31T17:24:12+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/37500815'

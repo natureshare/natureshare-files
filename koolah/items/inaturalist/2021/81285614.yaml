@@ -1,0 +1,42 @@
+id:
+  - name: Culama anthracica
+    by:
+      - koolah
+      - kallies
+    ref:
+      inaturalist: 1087420
+datetime: '2017-03-19T23:11:00+11:00'
+latitude: -37.997073
+longitude: 144.298664
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: 2nd image shows dorsal view
+tags:
+  - inaturalist
+  - male
+  - moth
+photos:
+  - source: iNaturalist
+    id: '133314371'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133314371/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133314371/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/133314371'
+  - source: iNaturalist
+    id: '133314566'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133314566/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133314566/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/133314566'
+license: CC BY-NC
+created_at: '2021-06-02T20:30:39+10:00'
+updated_at: '2022-02-27T10:19:14+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/81285614'

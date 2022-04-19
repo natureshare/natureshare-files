@@ -3,6 +3,7 @@ id:
     by:
       - koolah
       - chrislindorff
+      - arthur_chapman
     ref:
       inaturalist: 709820
 datetime: '2020-06-05T13:41:00+10:00'
@@ -17,14 +18,14 @@ photos:
     id: '77106343'
     width: 1125
     height: 1499
-    thumbnail_url: 'https://static.inaturalist.org/photos/77106343/medium.jpeg?1591397478'
-    original_url: 'https://static.inaturalist.org/photos/77106343/original.jpeg?1591397478'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/77106343/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/77106343/original.jpeg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/77106343'
 license: CC BY-NC
 created_at: '2020-06-06T09:04:21+10:00'
-updated_at: '2020-06-09T11:19:28+10:00'
+updated_at: '2021-06-28T08:38:15+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/48591968'

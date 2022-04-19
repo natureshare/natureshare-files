@@ -1,0 +1,40 @@
+id:
+  - name: Dodonaea viscosa cuneata
+    common: wedge-leaf hopbush
+    by:
+      - koolah
+      - chrislindorff
+    ref:
+      inaturalist: 499432
+datetime: '2020-09-25T10:37:00+10:00'
+latitude: -37.73932
+longitude: 144.31221
+location_name: 'Brisbane Ranges VIC 3340, Australia'
+accuracy: 3
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97067048'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97067048/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97067048/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97067048'
+  - source: iNaturalist
+    id: '97067065'
+    width: 1984
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97067065/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97067065/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97067065'
+license: CC BY-NC
+created_at: '2020-09-25T18:18:15+10:00'
+updated_at: '2020-09-25T20:30:45+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60693252'

@@ -1,0 +1,32 @@
+id:
+  - name: Hippotion scrofa
+    common: Coprosma Hawk Moth
+    by:
+      - koolah
+      - vicfazio3
+    ref:
+      inaturalist: 201675
+datetime: '2020-01-01T00:22:00+11:00'
+latitude: -37.91522
+longitude: 144.237386
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '134006809'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/134006809/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/134006809/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/134006809'
+license: CC BY-NC
+created_at: '2021-06-05T22:47:54+10:00'
+updated_at: '2022-02-27T10:19:15+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/81691715'

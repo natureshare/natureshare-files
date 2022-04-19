@@ -1,0 +1,31 @@
+id:
+  - name: Iropoca rotundata
+    by:
+      - koolah
+      - vicfazio3
+    ref:
+      inaturalist: 341657
+datetime: '2018-11-03T22:12:00+11:00'
+latitude: -37.923635
+longitude: 144.293336
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '178674250'
+    width: 1227
+    height: 1500
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178674250/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/178674250/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/178674250'
+license: CC BY-NC
+created_at: '2022-02-08T21:14:33+11:00'
+updated_at: '2022-02-23T07:40:33+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/106369464'

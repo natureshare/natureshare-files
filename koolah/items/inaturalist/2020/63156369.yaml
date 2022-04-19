@@ -1,0 +1,32 @@
+id:
+  - name: Chiloglottis valida
+    common: common bird-orchid
+    by:
+      - koolah
+      - reiner
+    ref:
+      inaturalist: 380755
+datetime: '2020-10-21T12:27:00+11:00'
+latitude: -37.62023
+longitude: 144.15059
+location_name: 'Bungal State Forest VIC 3342, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+  - terrestrial_orchid
+photos:
+  - source: iNaturalist
+    id: '101313356'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101313356/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101313356/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/101313356'
+license: CC BY-NC
+created_at: '2020-10-21T22:18:05+11:00'
+updated_at: '2020-10-21T23:06:38+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63156369'

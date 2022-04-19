@@ -1,0 +1,33 @@
+id:
+  - name: Cleora
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 125129
+datetime: '2020-11-02T23:10:00+11:00'
+latitude: -37.99918
+longitude: 144.316522
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: See MoV Part 7 - sp. (2)
+tags:
+  - inaturalist
+  - moth
+  - male
+photos:
+  - source: iNaturalist
+    id: '103076070'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103076070/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103076070/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/103076070'
+license: CC BY-NC
+created_at: '2020-11-04T11:51:19+11:00'
+updated_at: '2022-03-01T13:19:19+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/64143995'

@@ -11,15 +11,15 @@ longitude: 144.150408
 location_name: 'Bungal State Forest VIC 3342, Australia'
 tags:
   - inaturalist
-  - male
   - moth
+  - male
 photos:
   - source: iNaturalist
     id: '59461837'
     width: 1905
     height: 1145
-    thumbnail_url: 'https://static.inaturalist.org/photos/59461837/medium.jpg?1578784202'
-    original_url: 'https://static.inaturalist.org/photos/59461837/original.jpg?1578784202'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/59461837/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/59461837/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/59461837'
@@ -27,8 +27,8 @@ photos:
     id: '59462177'
     width: 1538
     height: 2048
-    thumbnail_url: 'https://static.inaturalist.org/photos/59462177/medium.jpeg?1578784679'
-    original_url: 'https://static.inaturalist.org/photos/59462177/original.jpeg?1578784679'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/59462177/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/59462177/original.jpeg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/59462177'
@@ -36,8 +36,8 @@ photos:
     id: '59462210'
     width: 1000
     height: 566
-    thumbnail_url: 'https://static.inaturalist.org/photos/59462210/medium.jpg?1578784716'
-    original_url: 'https://static.inaturalist.org/photos/59462210/original.jpg?1578784716'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/59462210/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/59462210/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/59462210'

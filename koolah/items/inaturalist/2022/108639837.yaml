@@ -1,0 +1,42 @@
+id:
+  - name: Ogyris olane
+    common: Broad-margined Azure
+    by:
+      - pewin
+      - koolah
+    ref:
+      inaturalist: 460981
+datetime: '2022-03-05T23:59:00+11:00'
+latitude: -37.977642
+longitude: 144.224196
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: 2nd image shows underside of forewing
+tags:
+  - inaturalist
+  - butterfly
+photos:
+  - source: iNaturalist
+    id: '182955002'
+    width: 1500
+    height: 1126
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/182955002/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/182955002/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/182955002'
+  - source: iNaturalist
+    id: '182955015'
+    width: 1500
+    height: 1126
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/182955015/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/182955015/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/182955015'
+license: CC BY-NC
+created_at: '2022-03-15T17:24:02+11:00'
+updated_at: '2022-03-15T20:36:57+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/108639837'

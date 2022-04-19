@@ -1,0 +1,33 @@
+id:
+  - name: Scopula rubraria
+    common: Plantain moth
+    by:
+      - koolah
+      - d_kurek
+    ref:
+      inaturalist: 244344
+datetime: '2021-04-14T23:03:00+10:00'
+latitude: -37.72428
+longitude: 142.02499
+location_name: 'Hamilton VIC 3300, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+  - moth
+  - male
+photos:
+  - source: iNaturalist
+    id: '121969613'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/121969613/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/121969613/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/121969613'
+license: CC BY-NC
+created_at: '2021-04-20T19:48:02+10:00'
+updated_at: '2021-04-20T19:57:40+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/74614284'

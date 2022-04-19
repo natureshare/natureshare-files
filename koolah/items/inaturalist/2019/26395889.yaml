@@ -2,6 +2,7 @@ id:
   - name: Taxeotis intextata
     by:
       - koolah
+      - eremophila
     ref:
       inaturalist: 424906
 latitude: -37.732718
@@ -15,14 +16,14 @@ photos:
     id: '40985439'
     width: 1024
     height: 688
-    thumbnail_url: 'https://static.inaturalist.org/photos/40985439/medium.jpeg?1559670800'
-    original_url: 'https://static.inaturalist.org/photos/40985439/original.jpeg?1559670800'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985439/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985439/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40985439'
 license: CC BY-NC
 created_at: '2019-06-05T03:53:21+10:00'
-updated_at: '2019-06-05T03:53:23+10:00'
+updated_at: '2020-10-20T23:27:50+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26395889'

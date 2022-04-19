@@ -1,0 +1,32 @@
+id:
+  - name: Neophema chrysostoma
+    common: Blue-winged Parrot
+    by:
+      - koolah
+      - terra_australis
+      - mhewish
+    ref:
+      inaturalist: 18880
+datetime: '2020-10-20T15:39:00+11:00'
+latitude: -37.805705
+longitude: 144.069183
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '101245140'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101245140/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/101245140/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/101245140'
+license: CC BY-NC
+created_at: '2020-10-21T07:44:47+11:00'
+updated_at: '2020-10-21T10:19:54+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/63118930'

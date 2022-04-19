@@ -1,0 +1,33 @@
+id:
+  - name: Platycercus elegans
+    common: Crimson Rosella
+    by:
+      - koolah
+      - deborod
+      - crellow
+    ref:
+      inaturalist: 18921
+datetime: '2021-04-30T09:56:00+10:00'
+latitude: -37.936435
+longitude: 144.204018
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: Wildlife camera image
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '126351206'
+    width: 2000
+    height: 1500
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126351206/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126351206/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/126351206'
+license: CC BY-NC
+created_at: '2021-05-04T23:59:08+10:00'
+updated_at: '2021-05-05T08:53:04+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/77267700'

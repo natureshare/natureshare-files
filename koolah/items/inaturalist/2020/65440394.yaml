@@ -1,0 +1,31 @@
+id:
+  - name: Macrobathra alternatella
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 555447
+datetime: '2018-01-21T23:45:00+11:00'
+latitude: -37.556679
+longitude: 144.419884
+location_name: 'Lerderderg State Park VIC 3458, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '105329641'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105329641/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105329641/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/105329641'
+license: CC BY-NC
+created_at: '2020-11-23T10:41:40+11:00'
+updated_at: '2020-11-23T11:17:12+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65440394'

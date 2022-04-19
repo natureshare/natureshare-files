@@ -1,0 +1,40 @@
+id:
+  - name: Caladenia clavigera
+    common: plain-lip spider orchid
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 553187
+datetime: '2020-09-27T15:40:00+10:00'
+latitude: -37.92334
+longitude: 144.291242
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97475939'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97475939/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97475939/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97475939'
+  - source: iNaturalist
+    id: '97475950'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97475950/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97475950/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97475950'
+license: CC BY-NC
+created_at: '2020-09-27T20:35:57+10:00'
+updated_at: '2020-09-27T21:00:39+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60943406'

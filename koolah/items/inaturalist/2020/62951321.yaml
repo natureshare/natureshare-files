@@ -1,0 +1,31 @@
+id:
+  - name: Caladenia cucullata
+    common: hooded caladenia
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 557906
+datetime: '2020-10-14T11:09:00+11:00'
+latitude: -37.20058
+longitude: 142.96973
+location_name: 'Ararat Regional Park VIC 3374, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '100949912'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/100949912/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/100949912/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/100949912'
+license: CC BY-NC
+created_at: '2020-10-19T09:27:08+11:00'
+updated_at: '2020-10-19T09:38:11+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/62951321'

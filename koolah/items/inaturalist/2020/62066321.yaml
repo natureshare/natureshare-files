@@ -1,0 +1,33 @@
+id:
+  - name: Vombatus ursinus
+    common: Bare-nosed Wombat
+    by:
+      - koolah
+      - thebeachcomber
+      - sea-kangaroo
+    ref:
+      inaturalist: 43009
+datetime: '2020-10-07T13:37:00+11:00'
+latitude: -37.72017
+longitude: 144.37103
+location_name: 'Rowsley VIC 3340, Australia'
+accuracy: 10
+description: Sad loss to the population. Most likely hit by a vehicle since it was at the side of the road.
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '99396470'
+    width: 2000
+    height: 1500
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99396470/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99396470/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/99396470'
+license: CC BY-NC
+created_at: '2020-10-09T08:58:26+11:00'
+updated_at: '2021-10-28T00:32:59+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/62066321'

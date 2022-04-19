@@ -1,0 +1,42 @@
+id:
+  - name: Chrysodeixis eriosoma
+    common: Green Garden Looper
+    by:
+      - koolah
+      - johnlenagan
+    ref:
+      inaturalist: 55649
+datetime: '2020-12-28T22:23:00+11:00'
+latitude: -37.952795
+longitude: 144.252418
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: 2nd image shows dorsal view
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '108589753'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108589753/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108589753/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/108589753'
+  - source: iNaturalist
+    id: '108589756'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108589756/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108589756/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/108589756'
+license: CC BY-NC
+created_at: '2020-12-29T19:32:05+11:00'
+updated_at: '2022-02-27T15:37:27+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/67241354'

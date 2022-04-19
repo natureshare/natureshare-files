@@ -10,21 +10,21 @@ accuracy: 10
 description: 'Recently molted, note old skin still present on leaf with caterpillar.'
 tags:
   - inaturalist
-  - moth
   - larva
+  - moth
 photos:
   - source: iNaturalist
     id: '93338281'
     width: 2000
     height: 1344
-    thumbnail_url: 'https://static.inaturalist.org/photos/93338281/medium.jpg?1599174903'
-    original_url: 'https://static.inaturalist.org/photos/93338281/original.jpg?1599174903'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/93338281/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/93338281/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/93338281'
 license: CC BY-NC
 created_at: '2020-09-04T09:16:02+10:00'
-updated_at: '2020-09-05T10:32:57+10:00'
+updated_at: '2020-09-17T08:34:26+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/58461999'

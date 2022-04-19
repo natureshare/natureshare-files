@@ -1,0 +1,43 @@
+id:
+  - name: Endoxyla lituratus
+    by:
+      - koolah
+      - johnlenagan
+      - kallies
+    ref:
+      inaturalist: 424843
+datetime: '2020-12-28T22:46:00+11:00'
+latitude: -37.904746
+longitude: 144.210976
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: 2nd image shows side view
+tags:
+  - inaturalist
+  - moth
+  - male
+photos:
+  - source: iNaturalist
+    id: '108589761'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108589761/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108589761/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/108589761'
+  - source: iNaturalist
+    id: '108589770'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108589770/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108589770/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/108589770'
+license: CC BY-NC
+created_at: '2020-12-29T19:32:06+11:00'
+updated_at: '2022-02-27T15:37:28+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/67241355'

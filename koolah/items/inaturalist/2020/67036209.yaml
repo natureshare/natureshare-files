@@ -1,0 +1,32 @@
+id:
+  - name: Diatenes aglossoides
+    by:
+      - koolah
+      - johnlenagan
+      - mhewish
+    ref:
+      inaturalist: 208592
+datetime: '2020-12-23T23:41:00+11:00'
+latitude: -37.990277
+longitude: 144.209934
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '108208745'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108208745/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108208745/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/108208745'
+license: CC BY-NC
+created_at: '2020-12-25T18:43:23+11:00'
+updated_at: '2022-02-27T15:37:26+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/67036209'

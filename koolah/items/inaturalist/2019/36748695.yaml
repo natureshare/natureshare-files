@@ -19,8 +19,8 @@ photos:
     id: '58140315'
     width: 1500
     height: 915
-    thumbnail_url: 'https://static.inaturalist.org/photos/58140315/medium.jpg?1576663215'
-    original_url: 'https://static.inaturalist.org/photos/58140315/original.jpg?1576663215'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58140315/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58140315/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/58140315'
@@ -28,14 +28,14 @@ photos:
     id: '58140336'
     width: 1195
     height: 1500
-    thumbnail_url: 'https://static.inaturalist.org/photos/58140336/medium.jpg?1576663347'
-    original_url: 'https://static.inaturalist.org/photos/58140336/original.jpg?1576663347'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58140336/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58140336/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/58140336'
 license: CC BY-NC
 created_at: '2019-12-18T21:01:10+11:00'
-updated_at: '2019-12-18T21:09:48+11:00'
+updated_at: '2021-07-05T17:42:32+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/36748695'

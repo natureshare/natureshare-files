@@ -1,0 +1,38 @@
+id:
+  - name: Hibbertia humifusa humifusa
+    by:
+      - koolah
+    ref:
+      inaturalist: 1089575
+datetime: '2020-10-05T14:58:00+11:00'
+latitude: -37.02229
+longitude: 142.7195
+location_name: 'Deep Lead VIC 3385, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '99584303'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99584303/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99584303/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/99584303'
+  - source: iNaturalist
+    id: '99584312'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99584312/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99584312/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/99584312'
+license: CC BY-NC
+created_at: '2020-10-10T17:06:07+11:00'
+updated_at: '2020-10-12T08:36:30+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/62174234'

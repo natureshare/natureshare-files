@@ -1,0 +1,50 @@
+id:
+  - name: Caladenia tensa
+    by:
+      - koolah
+      - orchidontist
+    ref:
+      inaturalist: 570397
+datetime: '2020-10-07T08:13:00+11:00'
+latitude: -36.606983
+longitude: 142.007079
+location_name: 'Victoria, AU'
+accuracy: 28505
+description: Two white form specimens growing in close proximity to 'normal' colour range. Other images demonstrate the labellum of each colour form.
+tags:
+  - inaturalist
+  - terrestrial_orchid
+photos:
+  - source: iNaturalist
+    id: '99258979'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99258979/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99258979/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/99258979'
+  - source: iNaturalist
+    id: '99259011'
+    width: 1741
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99259011/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99259011/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/99259011'
+  - source: iNaturalist
+    id: '99259035'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99259035/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99259035/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/99259035'
+license: CC BY-NC
+created_at: '2020-10-08T10:11:31+11:00'
+updated_at: '2020-10-15T11:39:35+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61989181'

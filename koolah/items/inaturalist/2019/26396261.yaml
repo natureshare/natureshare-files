@@ -6,19 +6,21 @@ id:
       - vicfazio3
     ref:
       inaturalist: 122940
-latitude: -37.806558
-longitude: 144.296918
-location_name: 'Brisbane Road, Balliang VIC 3340, Australia'
+latitude: -37.863206
+longitude: 144.379118
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: Unwelcome visitor
 tags:
   - inaturalist
+  - moth
 photos:
   - source: iNaturalist
     id: '40986057'
     width: 1024
     height: 653
-    thumbnail_url: 'https://static.inaturalist.org/photos/40986057/medium.jpeg?1559671182'
-    original_url: 'https://static.inaturalist.org/photos/40986057/original.jpeg?1559671182'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986057/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986057/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40986057'
@@ -26,14 +28,14 @@ photos:
     id: '40986059'
     width: 1024
     height: 688
-    thumbnail_url: 'https://static.inaturalist.org/photos/40986059/medium.jpeg?1559671184'
-    original_url: 'https://static.inaturalist.org/photos/40986059/original.jpeg?1559671184'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986059/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986059/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40986059'
 license: CC BY-NC
 created_at: '2019-06-05T03:59:44+10:00'
-updated_at: '2019-06-05T06:24:35+10:00'
+updated_at: '2022-03-31T17:58:46+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26396261'

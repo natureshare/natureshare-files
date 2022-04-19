@@ -1,0 +1,35 @@
+id:
+  - name: Phascolarctos cinereus victor
+    common: Victorian Koala
+    by:
+      - koolah
+      - twan3253
+      - chuditch
+      - johnlenagan
+    ref:
+      inaturalist: 492576
+datetime: '2021-02-24T22:07:00+11:00'
+latitude: -37.81753
+longitude: 144.311408
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: Having a drink from the water tub.
+tags:
+  - inaturalist
+  - wildlife_camera
+photos:
+  - source: iNaturalist
+    id: '114512847'
+    width: 2048
+    height: 1536
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/114512847/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/114512847/original.jpeg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/114512847'
+license: CC BY-NC
+created_at: '2021-03-02T19:56:37+11:00'
+updated_at: '2022-02-27T15:17:42+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/70438569'

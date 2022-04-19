@@ -1,0 +1,41 @@
+id:
+  - name: Pterostylis ferruginea
+    by:
+      - koolah
+      - lorrainecphelan
+      - bushbandit
+    ref:
+      inaturalist: 934079
+datetime: '2020-10-06T14:02:00+11:00'
+latitude: -36.7956
+longitude: 141.036
+location_name: 'Tallageira NCR VIC 3319, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+  - terrestrial_orchid
+photos:
+  - source: iNaturalist
+    id: '99276549'
+    width: 1620
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99276549/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99276549/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/99276549'
+  - source: iNaturalist
+    id: '99276574'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99276574/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99276574/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/99276574'
+license: CC BY-NC
+created_at: '2020-10-08T12:39:19+11:00'
+updated_at: '2020-10-08T13:12:10+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61998595'

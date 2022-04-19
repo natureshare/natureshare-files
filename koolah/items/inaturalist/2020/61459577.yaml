@@ -1,0 +1,39 @@
+id:
+  - name: Pultenaea gunnii tuberculata
+    by:
+      - koolah
+      - chrislindorff
+    ref:
+      inaturalist: 1060259
+datetime: '2020-10-02T13:50:00+10:00'
+latitude: -37.75175
+longitude: 144.28773
+location_name: 'Brisbane Ranges VIC 3340, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '98353337'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98353337/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98353337/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/98353337'
+  - source: iNaturalist
+    id: '98353346'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98353346/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98353346/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/98353346'
+license: CC BY-NC
+created_at: '2020-10-02T17:43:12+10:00'
+updated_at: '2020-10-04T15:17:21+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61459577'

@@ -1,0 +1,32 @@
+id:
+  - name: Dysbatus
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 424834
+datetime: '2020-11-18T23:24:00+11:00'
+latitude: -37.860287
+longitude: 144.221648
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+  - male
+photos:
+  - source: iNaturalist
+    id: '105668721'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105668721/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105668721/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/105668721'
+license: CC BY-NC
+created_at: '2020-11-26T21:27:13+11:00'
+updated_at: '2022-02-28T10:31:08+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65631542'

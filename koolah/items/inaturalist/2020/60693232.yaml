@@ -1,0 +1,40 @@
+id:
+  - name: Caladenia moschata
+    common: Musky Caps
+    by:
+      - koolah
+      - reiner
+    ref:
+      inaturalist: 553185
+datetime: '2020-09-25T12:06:00+10:00'
+latitude: -37.74088
+longitude: 144.31305
+location_name: 'Brisbane Ranges VIC 3340, Australia'
+accuracy: 3
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97066843'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97066843/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97066843/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97066843'
+  - source: iNaturalist
+    id: '97066861'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97066861/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97066861/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97066861'
+license: CC BY-NC
+created_at: '2020-09-25T18:18:08+10:00'
+updated_at: '2020-09-25T18:29:58+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60693232'

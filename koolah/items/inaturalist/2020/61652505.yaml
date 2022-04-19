@@ -1,0 +1,49 @@
+id:
+  - name: Olearia lanuginosa
+    by:
+      - koolah
+      - chrislindorff
+    ref:
+      inaturalist: 553374
+datetime: '2020-10-04T13:26:00+11:00'
+latitude: -37.8658
+longitude: 144.23329
+location_name: 'Brisbane Ranges VIC 3331, Australia'
+accuracy: 6
+description: About 200+ plants in area between track and Geelong/Ballan Road in the firebreak.
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '98677042'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98677042/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98677042/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/98677042'
+  - source: iNaturalist
+    id: '98677049'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98677049/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98677049/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/98677049'
+  - source: iNaturalist
+    id: '98677056'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98677056/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98677056/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/98677056'
+license: CC BY-NC
+created_at: '2020-10-04T20:08:05+11:00'
+updated_at: '2020-10-04T23:32:13+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61652505'

@@ -1,0 +1,31 @@
+id:
+  - name: Genduara subnotata
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 543372
+datetime: '2020-11-02T20:47:00+11:00'
+latitude: -37.836485
+longitude: 144.391478
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '103102128'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103102128/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103102128/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/103102128'
+license: CC BY-NC
+created_at: '2020-11-04T16:34:04+11:00'
+updated_at: '2022-03-01T13:19:19+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/64158583'

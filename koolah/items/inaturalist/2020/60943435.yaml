@@ -1,0 +1,31 @@
+id:
+  - name: Threskiornis spinicollis
+    common: Straw-necked Ibis
+    by:
+      - koolah
+      - indrabone
+    ref:
+      inaturalist: 3741
+datetime: '2020-09-27T09:39:00+10:00'
+latitude: -37.8018
+longitude: 144.30345
+location_name: 'Balliang VIC 3340, Australia'
+accuracy: 50
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97476213'
+    width: 2000
+    height: 1500
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97476213/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97476213/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97476213'
+license: CC BY-NC
+created_at: '2020-09-27T20:36:08+10:00'
+updated_at: '2020-09-27T20:38:21+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60943435'

@@ -1,0 +1,31 @@
+id:
+  - name: Thallarcha oblita
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 871969
+datetime: '2020-11-18T21:22:00+11:00'
+latitude: -37.82165
+longitude: 144.314786
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '105319077'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105319077/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/105319077/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/105319077'
+license: CC BY-NC
+created_at: '2020-11-23T09:13:46+11:00'
+updated_at: '2022-02-28T10:31:07+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65434801'

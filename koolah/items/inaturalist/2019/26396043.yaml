@@ -2,6 +2,7 @@ id:
   - name: Crepidosceles exanthema
     by:
       - koolah
+      - johnlenagan
     ref:
       inaturalist: 492381
 latitude: -37.732718
@@ -15,14 +16,14 @@ photos:
     id: '40985697'
     width: 1024
     height: 731
-    thumbnail_url: 'https://static.inaturalist.org/photos/40985697/medium.jpeg?1559670939'
-    original_url: 'https://static.inaturalist.org/photos/40985697/original.jpeg?1559670939'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985697/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985697/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40985697'
 license: CC BY-NC
 created_at: '2019-06-05T03:55:40+10:00'
-updated_at: '2019-06-05T03:55:42+10:00'
+updated_at: '2021-04-24T14:39:29+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26396043'

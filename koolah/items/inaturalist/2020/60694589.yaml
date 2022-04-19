@@ -1,0 +1,39 @@
+id:
+  - name: Acacia aspera parviceps
+    by:
+      - koolah
+      - chrislindorff
+    ref:
+      inaturalist: 1084241
+datetime: '2020-09-25T11:26:00+10:00'
+latitude: -37.74026
+longitude: 144.31523
+location_name: 'Brisbane Ranges VIC 3340, Australia'
+accuracy: 3
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97071423'
+    width: 1524
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97071423/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97071423/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97071423'
+  - source: iNaturalist
+    id: '97071433'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97071433/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97071433/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97071433'
+license: CC BY-NC
+created_at: '2020-09-25T18:49:12+10:00'
+updated_at: '2020-09-25T20:29:43+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60694589'

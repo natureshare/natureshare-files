@@ -1,0 +1,32 @@
+id:
+  - name: Dasypodia selenophora
+    common: Southern Moon Moth
+    by:
+      - koolah
+      - d_kurek
+    ref:
+      inaturalist: 337689
+datetime: '2020-12-12T22:38:00+11:00'
+latitude: -37.991749
+longitude: 144.33139
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '107226816'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/107226816/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/107226816/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/107226816'
+license: CC BY-NC
+created_at: '2020-12-13T17:05:21+11:00'
+updated_at: '2022-02-28T10:26:42+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/66506106'

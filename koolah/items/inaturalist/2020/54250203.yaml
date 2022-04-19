@@ -1,9 +1,11 @@
 id:
   - name: Boarmia zaloschema
+    common: Shaded Bark Moth
     by:
       - koolah
       - mhewish
       - vicfazio3
+      - petermarriott
     ref:
       inaturalist: 1115263
 datetime: '2019-10-23T00:05:00+11:00'
@@ -14,21 +16,21 @@ accuracy: 192
 description: Observed and photographed during Little Desert BushBlitz
 tags:
   - inaturalist
-  - male
   - moth
+  - male
 photos:
   - source: iNaturalist
     id: '86314407'
     width: 1500
     height: 1125
-    thumbnail_url: 'https://static.inaturalist.org/photos/86314407/medium.jpg?1595672327'
-    original_url: 'https://static.inaturalist.org/photos/86314407/original.jpg?1595672327'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/86314407/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/86314407/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/86314407'
 license: CC BY-NC
 created_at: '2020-07-25T20:22:27+10:00'
-updated_at: '2020-07-26T10:40:20+10:00'
+updated_at: '2021-06-17T12:11:51+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/54250203'

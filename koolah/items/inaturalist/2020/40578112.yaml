@@ -2,6 +2,7 @@ id:
   - name: Anisogona similana
     by:
       - koolah
+      - eremophila
     ref:
       inaturalist: 514732
 datetime: '2018-11-01T00:14:00+11:00'
@@ -11,21 +12,21 @@ location_name: 'Grey River Picnic Area VIC 3234, Australia'
 description: Observed and photographed during Museums Victoria BioScan
 tags:
   - inaturalist
-  - moth
   - male
+  - moth
 photos:
   - source: iNaturalist
     id: '64312906'
     width: 1500
     height: 2000
-    thumbnail_url: 'https://static.inaturalist.org/photos/64312906/medium.jpg?1584956828'
-    original_url: 'https://static.inaturalist.org/photos/64312906/original.jpg?1584956828'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/64312906/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/64312906/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/64312906'
 license: CC BY-NC
 created_at: '2020-03-23T20:48:54+11:00'
-updated_at: '2020-03-23T20:48:54+11:00'
+updated_at: '2021-01-16T19:56:02+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/40578112'

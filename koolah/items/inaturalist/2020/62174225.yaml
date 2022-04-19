@@ -1,0 +1,31 @@
+id:
+  - name: Brachyloma daphnoides
+    common: Daphne heath
+    by:
+      - koolah
+      - iancastle
+    ref:
+      inaturalist: 210147
+datetime: '2020-10-05T15:19:00+11:00'
+latitude: -37.0213
+longitude: 142.7193
+location_name: 'Deep Lead VIC 3385, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '99584211'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99584211/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99584211/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/99584211'
+license: CC BY-NC
+created_at: '2020-10-10T17:06:01+11:00'
+updated_at: '2021-11-26T22:29:35+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/62174225'

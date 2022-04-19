@@ -1,0 +1,33 @@
+id:
+  - name: Sigilliclystis insigillata
+    common: Insigillated Pug
+    by:
+      - koolah
+      - vicfazio3
+    ref:
+      inaturalist: 602535
+datetime: '2021-04-14T22:09:00+10:00'
+latitude: -37.72428
+longitude: 142.02499
+location_name: 'Hamilton VIC 3300, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+  - moth
+  - male
+photos:
+  - source: iNaturalist
+    id: '121969685'
+    width: 2048
+    height: 1538
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/121969685/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/121969685/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/121969685'
+license: CC BY-NC
+created_at: '2021-04-20T19:48:02+10:00'
+updated_at: '2021-04-21T07:26:53+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/74614285'

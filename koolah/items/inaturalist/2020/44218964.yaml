@@ -7,24 +7,26 @@ id:
     ref:
       inaturalist: 508969
 datetime: '2020-04-28T15:20:00+10:00'
-latitude: -37.80523
-longitude: 144.29781
-location_name: 'Brisbane Ranges VIC 3340, Australia'
+latitude: -37.833424
+longitude: 144.338542
+location_name: 'Victoria, AU'
+accuracy: 28329
 tags:
   - inaturalist
+  - bird
 photos:
   - source: iNaturalist
     id: '70108146'
     width: 2048
     height: 1149
-    thumbnail_url: 'https://static.inaturalist.org/photos/70108146/medium.jpeg?1588132671'
-    original_url: 'https://static.inaturalist.org/photos/70108146/original.jpeg?1588132671'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/70108146/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/70108146/original.jpeg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/70108146'
 license: CC BY-NC
 created_at: '2020-04-29T14:03:34+10:00'
-updated_at: '2020-04-29T14:05:25+10:00'
+updated_at: '2022-03-31T17:11:54+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/44218964'

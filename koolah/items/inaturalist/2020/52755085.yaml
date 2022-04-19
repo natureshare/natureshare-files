@@ -1,32 +1,33 @@
 id:
   - name: Opodiphthera eucalypti
-    common: Gum emperor moth
+    common: Emperor Gum Moth
     by:
       - koolah
       - daviaker
     ref:
       inaturalist: 68135
 datetime: '2019-11-14T21:37:00+11:00'
-latitude: -37.806571
-longitude: 144.297036
-location_name: 'Brisbane Ranges VIC 3340, Australia'
-accuracy: 3
+latitude: -37.996526
+longitude: 144.336995
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: 'With this wing material loss, it is amazing it could still navigate to the light-trap'
 tags:
   - inaturalist
+  - moth
 photos:
   - source: iNaturalist
     id: '83882731'
     width: 1500
     height: 1006
-    thumbnail_url: 'https://static.inaturalist.org/photos/83882731/medium.jpg?1594520087'
-    original_url: 'https://static.inaturalist.org/photos/83882731/original.jpg?1594520087'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/83882731/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/83882731/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/83882731'
 license: CC BY-NC
 created_at: '2020-07-12T12:15:36+10:00'
-updated_at: '2020-07-12T13:23:44+10:00'
+updated_at: '2022-03-01T13:44:17+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/52755085'

@@ -1,0 +1,32 @@
+id:
+  - name: Acanthorhynchus tenuirostris
+    common: Eastern Spinebill
+    by:
+      - koolah
+      - deborod
+    ref:
+      inaturalist: 12238
+datetime: '2021-05-02T06:27:00+10:00'
+latitude: -37.808849
+longitude: 144.393486
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: Wildlife camera image
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '126350513'
+    width: 2048
+    height: 1149
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126350513/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126350513/original.jpeg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/126350513'
+license: CC BY-NC
+created_at: '2021-05-04T23:58:59+10:00'
+updated_at: '2021-05-05T00:04:20+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/77267666'

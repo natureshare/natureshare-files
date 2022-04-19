@@ -2,8 +2,8 @@ id:
   - name: Telephlebia brevicauda
     common: Southern Evening Darner
     by:
-      - reiner
       - koolah
+      - reiner
       - johntann99
     ref:
       inaturalist: 323659
@@ -18,8 +18,8 @@ photos:
     id: '40985198'
     width: 1024
     height: 768
-    thumbnail_url: 'https://static.inaturalist.org/photos/40985198/medium.jpeg?1559670641'
-    original_url: 'https://static.inaturalist.org/photos/40985198/original.jpeg?1559670641'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985198/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985198/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40985198'
@@ -27,8 +27,8 @@ photos:
     id: '40985201'
     width: 1024
     height: 888
-    thumbnail_url: 'https://static.inaturalist.org/photos/40985201/medium.jpeg?1559670643'
-    original_url: 'https://static.inaturalist.org/photos/40985201/original.jpeg?1559670643'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985201/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985201/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40985201'

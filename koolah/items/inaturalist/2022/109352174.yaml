@@ -1,0 +1,31 @@
+id:
+  - name: Castulo doubledayi
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 556503
+datetime: '2022-03-20T21:34:00+11:00'
+latitude: -38.3566
+longitude: 146.38972
+location_name: 'Morwell National Park, Fosters Gully Track, Section A'
+accuracy: 3
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '184289514'
+    width: 1500
+    height: 1126
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/184289514/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/184289514/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/184289514'
+license: CC BY-NC
+created_at: '2022-03-24T16:39:44+11:00'
+updated_at: '2022-03-24T17:22:18+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/109352174'

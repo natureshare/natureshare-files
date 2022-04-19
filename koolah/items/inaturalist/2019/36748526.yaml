@@ -3,6 +3,7 @@ id:
     by:
       - koolah
       - vicfazio3
+      - kallies
     ref:
       inaturalist: 980296
 datetime: '2019-10-24T03:50:00+11:00'
@@ -20,14 +21,14 @@ photos:
     id: '58139987'
     width: 1500
     height: 843
-    thumbnail_url: 'https://static.inaturalist.org/photos/58139987/medium.jpg?1576661680'
-    original_url: 'https://static.inaturalist.org/photos/58139987/original.jpg?1576661680'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58139987/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58139987/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/58139987'
 license: CC BY-NC
 created_at: '2019-12-18T20:38:02+11:00'
-updated_at: '2019-12-18T21:08:55+11:00'
+updated_at: '2021-05-15T19:58:35+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/36748526'

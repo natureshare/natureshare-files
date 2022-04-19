@@ -1,0 +1,41 @@
+id:
+  - name: Thrincophora dryinodes
+    by:
+      - koolah
+      - vicfazio3
+    ref:
+      inaturalist: 355071
+datetime: '2021-04-30T19:31:00+10:00'
+latitude: -37.831035
+longitude: 144.315278
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: 2nd image shows dorsal view
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '126293400'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126293400/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126293400/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/126293400'
+  - source: iNaturalist
+    id: '126293424'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126293424/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126293424/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/126293424'
+license: CC BY-NC
+created_at: '2021-05-04T18:23:08+10:00'
+updated_at: '2022-02-27T11:58:23+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/77232541'

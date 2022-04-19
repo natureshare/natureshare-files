@@ -6,9 +6,10 @@ id:
     ref:
       inaturalist: 424834
 datetime: '2019-10-02T21:53:00+10:00'
-latitude: -37.806571
-longitude: 144.297036
-location_name: 'Brisbane Ranges VIC 3340, Australia'
+latitude: -37.808268
+longitude: 144.39135
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: This is Dysbatus sp. (1) in Moths of Victoria Part 5
 tags:
   - inaturalist
@@ -19,14 +20,14 @@ photos:
     id: '54423079'
     width: 1500
     height: 1053
-    thumbnail_url: 'https://static.inaturalist.org/photos/54423079/medium.jpg?1571469577'
-    original_url: 'https://static.inaturalist.org/photos/54423079/original.jpg?1571469577'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/54423079/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/54423079/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/54423079'
 license: CC BY-NC
 created_at: '2019-10-19T18:20:51+11:00'
-updated_at: '2019-12-20T11:45:32+11:00'
+updated_at: '2022-03-31T17:49:07+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/34571705'

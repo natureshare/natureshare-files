@@ -1,0 +1,33 @@
+id:
+  - name: Petroica boodang
+    common: Scarlet Robin
+    by:
+      - deborod
+      - ratite
+      - koolah
+    ref:
+      inaturalist: 438022
+datetime: '2021-04-30T09:51:00+10:00'
+latitude: -37.90911
+longitude: 144.267393
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: Wildlife camera image
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '126351041'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126351041/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/126351041/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/126351041'
+license: CC BY-NC
+created_at: '2021-05-04T23:59:06+10:00'
+updated_at: '2021-05-05T10:09:43+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/77267694'

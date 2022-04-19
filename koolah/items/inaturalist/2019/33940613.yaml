@@ -1,14 +1,15 @@
 id:
   - name: Cerambycidae
-    common: Long-horned Beetles
+    common: Longhorn Beetles
     by:
       - koolah
     ref:
       inaturalist: 47961
 datetime: '2017-10-18T21:34:00+11:00'
-latitude: -37.806571
-longitude: 144.297036
-location_name: 'Brisbane Ranges VIC 3340, Australia'
+latitude: -37.917271
+longitude: 144.37192
+location_name: 'Victoria, AU'
+accuracy: 28329
 tags:
   - inaturalist
   - mating
@@ -18,14 +19,14 @@ photos:
     id: '53362527'
     width: 2000
     height: 1502
-    thumbnail_url: 'https://static.inaturalist.org/photos/53362527/medium.jpeg?1570354628'
-    original_url: 'https://static.inaturalist.org/photos/53362527/original.jpeg?1570354628'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/53362527/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/53362527/original.jpeg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/53362527'
 license: CC BY-NC
 created_at: '2019-10-06T20:38:03+11:00'
-updated_at: '2019-12-20T22:35:51+11:00'
+updated_at: '2022-03-31T17:49:05+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/33940613'

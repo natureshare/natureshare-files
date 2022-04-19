@@ -2,6 +2,7 @@ id:
   - name: Caladenia × tutelata
     by:
       - reiner
+      - bushbandit
     ref:
       inaturalist: 937259
 latitude: -36.482468
@@ -15,8 +16,8 @@ photos:
     id: '40985017'
     width: 1024
     height: 768
-    thumbnail_url: 'https://static.inaturalist.org/photos/40985017/medium.jpeg?1559670541'
-    original_url: 'https://static.inaturalist.org/photos/40985017/original.jpeg?1559670541'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985017/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985017/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40985017'
@@ -24,14 +25,14 @@ photos:
     id: '40985021'
     width: 1024
     height: 768
-    thumbnail_url: 'https://static.inaturalist.org/photos/40985021/medium.jpeg?1559670544'
-    original_url: 'https://static.inaturalist.org/photos/40985021/original.jpeg?1559670544'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985021/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40985021/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40985021'
 license: CC BY-NC
 created_at: '2019-06-05T03:49:04+10:00'
-updated_at: '2019-09-12T07:25:01+10:00'
+updated_at: '2021-09-22T23:35:16+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26395572'

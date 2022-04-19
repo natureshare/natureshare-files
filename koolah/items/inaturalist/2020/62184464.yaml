@@ -1,0 +1,41 @@
+id:
+  - name: Diuris leopardina
+    by:
+      - koolah
+      - eliap
+      - andill
+    ref:
+      inaturalist: 829500
+datetime: '2020-10-05T11:02:00+11:00'
+latitude: -37.270696
+longitude: 142.842694
+location_name: 'Victoria, AU'
+accuracy: 28417
+description: 'Two plants, both over 60cm tall. Has characteristics of D. pardina but much more robust. 2nd image shows an individual flower.'
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '99600990'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99600990/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99600990/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/99600990'
+  - source: iNaturalist
+    id: '99601006'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99601006/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/99601006/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/99601006'
+license: CC BY-NC
+created_at: '2020-10-10T22:10:55+11:00'
+updated_at: '2020-10-20T11:29:26+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/62184464'

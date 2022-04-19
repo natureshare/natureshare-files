@@ -9,24 +9,27 @@ id:
     ref:
       inaturalist: 14069
 datetime: '2020-04-24T11:23:00+10:00'
-latitude: -37.80481
-longitude: 144.29781
-location_name: 'Brisbane Ranges VIC 3340, Australia'
+latitude: -37.932583
+longitude: 144.205475
+location_name: 'Victoria, AU'
+accuracy: 28329
 tags:
   - inaturalist
+  - bird
+  - finch
 photos:
   - source: iNaturalist
     id: '70112207'
     width: 2048
     height: 1536
-    thumbnail_url: 'https://static.inaturalist.org/photos/70112207/medium.jpeg?1588134613'
-    original_url: 'https://static.inaturalist.org/photos/70112207/original.jpeg?1588134613'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/70112207/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/70112207/original.jpeg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/70112207'
 license: CC BY-NC
 created_at: '2020-04-29T14:34:33+10:00'
-updated_at: '2020-05-17T20:12:14+10:00'
+updated_at: '2022-03-30T09:34:41+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/44221311'

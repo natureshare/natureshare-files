@@ -11,15 +11,15 @@ longitude: 145.59762
 location_name: 'Shiprock Falls, Victoria, Australia'
 tags:
   - inaturalist
-  - male
   - moth
+  - male
 photos:
   - source: iNaturalist
     id: '68617827'
     width: 2000
     height: 1443
-    thumbnail_url: 'https://static.inaturalist.org/photos/68617827/medium.jpg?1587778786'
-    original_url: 'https://static.inaturalist.org/photos/68617827/original.jpg?1587778786'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/68617827/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/68617827/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/68617827'

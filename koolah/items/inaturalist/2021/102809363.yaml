@@ -1,0 +1,32 @@
+id:
+  - name: Termessa gratiosa
+    common: Favoured Footman
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 418517
+datetime: '2021-11-30T03:40:00+11:00'
+latitude: -37.885383
+longitude: 144.228411
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '171940820'
+    width: 1746
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/171940820/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/171940820/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/171940820'
+license: CC BY-NC
+created_at: '2021-12-10T21:06:01+11:00'
+updated_at: '2022-02-23T23:37:41+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/102809363'

@@ -6,26 +6,27 @@ id:
       - mhewish
     ref:
       inaturalist: 484221
-latitude: -37.806642
-longitude: 144.297017
-location_name: 'Brisbane Ranges VIC 3340, Australia'
-accuracy: 3
+latitude: -37.812492
+longitude: 144.368069
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: Varied Anthelid
 tags:
   - inaturalist
+  - moth
 photos:
   - source: iNaturalist
     id: '40986097'
     width: 1024
     height: 767
-    thumbnail_url: 'https://static.inaturalist.org/photos/40986097/medium.jpeg?1559671210'
-    original_url: 'https://static.inaturalist.org/photos/40986097/original.jpeg?1559671210'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986097/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986097/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40986097'
 license: CC BY-NC
 created_at: '2019-06-05T04:00:11+10:00'
-updated_at: '2020-06-19T07:59:15+10:00'
+updated_at: '2022-03-31T17:58:48+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26396284'

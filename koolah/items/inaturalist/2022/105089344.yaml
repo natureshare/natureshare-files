@@ -1,0 +1,31 @@
+id:
+  - name: Ocystola crystallina
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 936978
+datetime: '2019-04-04T21:03:00+11:00'
+latitude: -37.838874
+longitude: 144.356776
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '176244056'
+    width: 1500
+    height: 1125
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176244056/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/176244056/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/176244056'
+license: CC BY-NC
+created_at: '2022-01-17T20:38:26+11:00'
+updated_at: '2022-02-23T07:42:24+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/105089344'

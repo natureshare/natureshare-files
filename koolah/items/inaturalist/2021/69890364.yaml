@@ -1,0 +1,31 @@
+id:
+  - name: Bandidus canifrons
+    by:
+      - koolah
+      - kenharris
+    ref:
+      inaturalist: 493261
+datetime: '2021-02-19T21:10:00+11:00'
+latitude: -37.821651
+longitude: 144.211339
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - lacewing
+photos:
+  - source: iNaturalist
+    id: '113513943'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/113513943/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/113513943/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/113513943'
+license: CC BY-NC
+created_at: '2021-02-21T10:47:46+11:00'
+updated_at: '2022-02-27T15:17:41+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/69890364'

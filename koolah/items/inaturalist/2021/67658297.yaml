@@ -1,0 +1,31 @@
+id:
+  - name: Plutella xylostella-australiana
+    by:
+      - vicfazio3
+      - koolah
+    ref:
+      inaturalist: 911325
+datetime: '2020-12-03T21:10:00+11:00'
+latitude: -38.38435
+longitude: 144.14558
+location_name: 'Alcoa Boundary Track Lookout VIC 3230, Australia'
+accuracy: 10
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '109367699'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/109367699/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/109367699/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/109367699'
+license: CC BY-NC
+created_at: '2021-01-06T21:16:05+11:00'
+updated_at: '2021-02-02T16:40:11+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/67658297'

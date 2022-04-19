@@ -6,9 +6,10 @@ id:
     ref:
       inaturalist: 417803
 datetime: '2018-10-12T22:41:00+11:00'
-latitude: -37.806571
-longitude: 144.297036
-location_name: 'Brisbane Ranges VIC 3340, Australia'
+latitude: -37.940802
+longitude: 144.370934
+location_name: 'Victoria, AU'
+accuracy: 28329
 tags:
   - inaturalist
   - moth
@@ -18,14 +19,14 @@ photos:
     id: '51824575'
     width: 1500
     height: 1125
-    thumbnail_url: 'https://static.inaturalist.org/photos/51824575/medium.jpg?1568913755'
-    original_url: 'https://static.inaturalist.org/photos/51824575/original.jpg?1568913755'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/51824575/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/51824575/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/51824575'
 license: CC BY-NC
 created_at: '2019-09-20T03:25:35+10:00'
-updated_at: '2019-12-22T11:48:12+11:00'
+updated_at: '2022-03-31T17:49:09+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/33017583'

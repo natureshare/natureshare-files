@@ -1,0 +1,31 @@
+id:
+  - name: Chloroclystis catastreptes
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 426207
+datetime: '2018-01-01T00:32:00+11:00'
+latitude: -37.891108
+longitude: 144.208159
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '109527741'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/109527741/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/109527741/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/109527741'
+license: CC BY-NC
+created_at: '2021-01-08T20:14:10+11:00'
+updated_at: '2022-02-27T15:31:57+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/67741944'

@@ -1,0 +1,42 @@
+id:
+  - name: Maratus harrisi
+    common: Harris's Jumping Spider
+    by:
+      - koolah
+      - bushbandit
+      - suzieandjim
+    ref:
+      inaturalist: 566158
+datetime: '2020-10-02T12:21:00+10:00'
+latitude: -37.7491
+longitude: 144.26163
+location_name: 'Brisbane Ranges VIC 3340, Australia'
+accuracy: 6
+description: Thanks to J. Schubert (Museums Victoria) for the identification.
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '98360858'
+    width: 2000
+    height: 1646
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98360858/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98360858/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/98360858'
+  - source: iNaturalist
+    id: '98360870'
+    width: 2000
+    height: 1380
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98360870/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/98360870/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/98360870'
+license: CC BY-NC
+created_at: '2020-10-02T19:50:09+10:00'
+updated_at: '2020-10-18T18:13:35+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/61464447'

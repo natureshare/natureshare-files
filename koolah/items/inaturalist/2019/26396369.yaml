@@ -6,25 +6,27 @@ id:
       - vicfazio3
     ref:
       inaturalist: 341443
-latitude: -37.806532
-longitude: 144.296993
-location_name: '576 Brisbane Road, Balliang VIC 3340, Australia'
+latitude: -37.978826
+longitude: 144.271472
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: Arhodia lasiocamparia from front
 tags:
   - inaturalist
+  - moth
 photos:
   - source: iNaturalist
     id: '40986187'
     width: 1024
     height: 659
-    thumbnail_url: 'https://static.inaturalist.org/photos/40986187/medium.jpeg?1559671274'
-    original_url: 'https://static.inaturalist.org/photos/40986187/original.jpeg?1559671274'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986187/medium.jpeg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/40986187/original.jpeg'
     license: CC BY-NC-SA
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/40986187'
 license: CC BY-NC
 created_at: '2019-06-05T04:01:14+10:00'
-updated_at: '2019-06-05T06:24:53+10:00'
+updated_at: '2022-03-31T17:49:08+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/26396369'

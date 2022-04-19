@@ -1,5 +1,6 @@
 id:
   - name: Praxis porphyretica
+    common: brown praxis
     by:
       - koolah
       - vicfazio3
@@ -17,8 +18,8 @@ photos:
     id: '58749248'
     width: 1500
     height: 1030
-    thumbnail_url: 'https://static.inaturalist.org/photos/58749248/medium.jpg?1577703579'
-    original_url: 'https://static.inaturalist.org/photos/58749248/original.jpg?1577703579'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58749248/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/58749248/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/58749248'

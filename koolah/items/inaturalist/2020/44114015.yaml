@@ -8,10 +8,10 @@ id:
     ref:
       inaturalist: 44575
 datetime: '2020-04-27T23:44:00+10:00'
-latitude: -37.805326
-longitude: 144.297822
-location_name: 'Brisbane Ranges VIC 3340, Australia'
-accuracy: 4
+latitude: -37.814375
+longitude: 144.274681
+location_name: 'Victoria, AU'
+accuracy: 28329
 description: At my watering pond.
 tags:
   - inaturalist
@@ -20,14 +20,14 @@ photos:
     id: '69944662'
     width: 1920
     height: 1080
-    thumbnail_url: 'https://static.inaturalist.org/photos/69944662/medium.jpg?1588077213'
-    original_url: 'https://static.inaturalist.org/photos/69944662/original.jpg?1588077213'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/69944662/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/69944662/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/69944662'
 license: CC BY-NC
 created_at: '2020-04-28T22:37:11+10:00'
-updated_at: '2020-04-29T10:25:21+10:00'
+updated_at: '2022-03-31T17:11:59+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/44114015'

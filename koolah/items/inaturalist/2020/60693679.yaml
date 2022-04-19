@@ -1,0 +1,40 @@
+id:
+  - name: Veronica perfoliata
+    common: Digger's Speedwell
+    by:
+      - koolah
+      - lorrainecphelan
+    ref:
+      inaturalist: 353891
+datetime: '2020-09-25T10:37:00+10:00'
+latitude: -37.73935
+longitude: 144.31245
+location_name: 'Brisbane Ranges VIC 3340, Australia'
+accuracy: 3
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97069345'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97069345/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97069345/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97069345'
+  - source: iNaturalist
+    id: '97069355'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97069355/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97069355/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97069355'
+license: CC BY-NC
+created_at: '2020-09-25T18:28:16+10:00'
+updated_at: '2020-09-25T18:41:19+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60693679'

@@ -1,0 +1,40 @@
+id:
+  - name: Boronia anemonifolia
+    common: Sticky Boronia
+    by:
+      - koolah
+      - chrislindorff
+    ref:
+      inaturalist: 353813
+datetime: '2020-09-25T10:40:00+10:00'
+latitude: -37.73935
+longitude: 144.31262
+location_name: 'Brisbane Ranges VIC 3340, Australia'
+accuracy: 3
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '97066715'
+    width: 2000
+    height: 1589
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97066715/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97066715/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97066715'
+  - source: iNaturalist
+    id: '97066730'
+    width: 1499
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97066730/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/97066730/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/97066730'
+license: CC BY-NC
+created_at: '2020-09-25T18:18:05+10:00'
+updated_at: '2020-09-29T11:32:31+10:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/60693224'

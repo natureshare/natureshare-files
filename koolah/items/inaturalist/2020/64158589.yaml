@@ -1,0 +1,32 @@
+id:
+  - name: Leucania stenographa
+    common: Sugar Cane Armyworm
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 391575
+datetime: '2020-11-02T21:16:00+11:00'
+latitude: -37.967036
+longitude: 144.37304
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '103102181'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103102181/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103102181/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/103102181'
+license: CC BY-NC
+created_at: '2020-11-04T16:34:07+11:00'
+updated_at: '2022-03-01T13:19:18+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/64158589'

@@ -1,0 +1,43 @@
+id:
+  - name: Acanthoprora
+    by:
+      - koolah
+      - mhewish
+      - nicklambert
+      - kallies
+    ref:
+      inaturalist: 1151542
+datetime: '2020-11-18T22:07:00+11:00'
+latitude: -37.87656
+longitude: 144.241742
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: 2nd image shows dorsal view.
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '104898932'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/104898932/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/104898932/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/104898932'
+  - source: iNaturalist
+    id: '104898955'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/104898955/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/104898955/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/104898955'
+license: CC BY-NC
+created_at: '2020-11-19T16:24:57+11:00'
+updated_at: '2022-03-01T08:17:02+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/65197310'

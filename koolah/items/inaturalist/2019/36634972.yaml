@@ -2,6 +2,7 @@ id:
   - name: Wingia psittacodes
     by:
       - koolah
+      - johnlenagan
     ref:
       inaturalist: 893016
 datetime: '2019-10-22T21:12:00+11:00'
@@ -18,14 +19,14 @@ photos:
     id: '57934860'
     width: 1500
     height: 929
-    thumbnail_url: 'https://static.inaturalist.org/photos/57934860/medium.jpg?1576296768'
-    original_url: 'https://static.inaturalist.org/photos/57934860/original.jpg?1576296768'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/57934860/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/57934860/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/57934860'
 license: CC BY-NC
 created_at: '2019-12-14T15:13:39+11:00'
-updated_at: '2019-12-19T21:57:25+11:00'
+updated_at: '2021-04-24T14:28:14+10:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/36634972'

@@ -1,0 +1,31 @@
+id:
+  - name: Ancylis coronopa
+    by:
+      - koolah
+      - mhewish
+    ref:
+      inaturalist: 1233010
+datetime: '2018-04-08T22:10:00+10:00'
+latitude: -38.40578
+longitude: 144.06817
+location_name: 'Wensleydale VIC 3241, Australia'
+accuracy: 6
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '133544385'
+    width: 2000
+    height: 1276
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133544385/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/133544385/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/133544385'
+license: CC BY-NC
+created_at: '2021-06-03T21:48:30+10:00'
+updated_at: '2022-02-27T10:19:15+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/81418116'

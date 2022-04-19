@@ -1,0 +1,30 @@
+id:
+  - name: Psectra nakaharai
+    by:
+      - koolah
+      - johnlenagan
+    ref:
+      inaturalist: 395789
+datetime: '2017-03-11T20:25:00+11:00'
+latitude: -37.815097
+longitude: 144.364442
+location_name: 'Victoria, AU'
+accuracy: 28329
+tags:
+  - inaturalist
+photos:
+  - source: iNaturalist
+    id: '122927415'
+    width: 1502
+    height: 2000
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/122927415/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/122927415/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/122927415'
+license: CC BY-NC
+created_at: '2021-04-25T21:45:25+10:00'
+updated_at: '2022-02-27T12:00:24+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/75160341'

@@ -1,0 +1,33 @@
+id:
+  - name: Dissomorphia australiaria
+    common: Dashed Geometrid
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 341882
+datetime: '2020-11-02T23:00:00+11:00'
+latitude: -37.95637
+longitude: 144.203895
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: 'Reluctant to flatten wings but, like butterflies, the ventral side is distinguishable and can be used for ID.'
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '103076159'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103076159/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/103076159/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/103076159'
+license: CC BY-NC
+created_at: '2020-11-04T11:51:22+11:00'
+updated_at: '2022-03-01T13:19:19+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/64144006'

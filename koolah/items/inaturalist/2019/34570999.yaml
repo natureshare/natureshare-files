@@ -1,30 +1,33 @@
 id:
   - name: Nisista serrata
+    common: serrated crest-moth
     by:
       - koolah
+      - mhewish
     ref:
       inaturalist: 555008
 datetime: '2019-10-02T21:47:00+10:00'
-latitude: -37.806571
-longitude: 144.297036
-location_name: 'Brisbane Ranges VIC 3340, Australia'
+latitude: -37.840279
+longitude: 144.351082
+location_name: 'Victoria, AU'
+accuracy: 28329
 tags:
   - inaturalist
-  - moth
   - male
+  - moth
 photos:
   - source: iNaturalist
     id: '54421931'
     width: 1500
     height: 1126
-    thumbnail_url: 'https://static.inaturalist.org/photos/54421931/medium.jpg?1571466739'
-    original_url: 'https://static.inaturalist.org/photos/54421931/original.jpg?1571466739'
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/54421931/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/54421931/original.jpg'
     license: CC BY-NC
     attribution: Cathy Powers
     href: 'https://www.inaturalist.org/photos/54421931'
 license: CC BY-NC
 created_at: '2019-10-19T17:32:52+11:00'
-updated_at: '2019-12-20T11:49:09+11:00'
+updated_at: '2022-03-31T17:49:06+11:00'
 source:
   - name: iNaturalist
     href: 'https://www.inaturalist.org/observations/34570999'

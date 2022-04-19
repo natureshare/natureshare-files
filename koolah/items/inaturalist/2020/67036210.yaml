@@ -1,0 +1,51 @@
+id:
+  - name: Discophlebia catocalina
+    by:
+      - koolah
+      - johnlenagan
+      - mhewish
+    ref:
+      inaturalist: 554722
+datetime: '2020-12-23T23:44:00+11:00'
+latitude: -37.934091
+longitude: 144.26661
+location_name: 'Victoria, AU'
+accuracy: 28329
+description: Other images show side and head views.
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '108208754'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108208754/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108208754/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/108208754'
+  - source: iNaturalist
+    id: '108208759'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108208759/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108208759/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/108208759'
+  - source: iNaturalist
+    id: '108208769'
+    width: 2000
+    height: 1502
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108208769/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/108208769/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/108208769'
+license: CC BY-NC
+created_at: '2020-12-25T18:43:23+11:00'
+updated_at: '2022-02-27T15:37:27+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/67036210'

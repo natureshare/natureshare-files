@@ -1,0 +1,32 @@
+id:
+  - name: Philenora elegans
+    common: Elegant Philenora
+    by:
+      - koolah
+      - bushbandit
+    ref:
+      inaturalist: 355106
+datetime: '2022-03-20T20:40:00+11:00'
+latitude: -38.3566
+longitude: 146.38972
+location_name: 'Morwell National Park, Fosters Gully Track, Section A'
+accuracy: 3
+tags:
+  - inaturalist
+  - moth
+photos:
+  - source: iNaturalist
+    id: '184289694'
+    width: 1500
+    height: 1126
+    thumbnail_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/184289694/medium.jpg'
+    original_url: 'https://inaturalist-open-data.s3.amazonaws.com/photos/184289694/original.jpg'
+    license: CC BY-NC
+    attribution: Cathy Powers
+    href: 'https://www.inaturalist.org/photos/184289694'
+license: CC BY-NC
+created_at: '2022-03-24T16:39:48+11:00'
+updated_at: '2022-03-24T17:23:23+11:00'
+source:
+  - name: iNaturalist
+    href: 'https://www.inaturalist.org/observations/109352186'
